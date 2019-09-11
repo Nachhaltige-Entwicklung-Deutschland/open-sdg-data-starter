@@ -77,7 +77,7 @@ prose:
             element: text
             label: "Indicator available"
             scope: national
-      - name: "indicator_definition"
+      - name: "dns_indicator_definition"
         field:
             element: text
             label: "Indicator definition"
@@ -87,26 +87,31 @@ prose:
             element: text
             label: "Geographical coverage"
             scope: national
+      - name: "dns_indicator_intention"
+        field:
+            element: text
+            label: "Intention"
+            scope: national
       #- name: "computation_units"
         #field:
             #element: text
             #label: "Unit of measurement"
             #scope: national
-      - name: "computation_definitions"
-        field:
-            element: textarea
-            label: "Definitions"
-            scope: national
-      - name: "computation_calculations"
-        field:
-            element: text
-            label: "Calculations"
-            scope: national
-      - name: "comments_limitations"
-        field:
-            element: text
-            label: "Other information"
-            scope: national
+      #- name: "computation_definitions"
+        #field:
+            #element: textarea
+            #label: "Definitions"
+            #scope: national
+      #- name: "computation_calculations"
+        #field:
+            #element: text
+            #label: "Calculations"
+            #scope: national
+      #- name: "comments_limitations"
+        #field:
+            #element: text
+            #label: "Other information"
+            #scope: national
       - name: "national_data_update_url"
         field:
             element: hidden
