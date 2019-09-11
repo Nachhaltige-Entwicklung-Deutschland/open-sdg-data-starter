@@ -77,10 +77,10 @@ prose:
             element: text
             label: "Indicator available"
             scope: national
-      - name: "national_indicator_description"
+      - name: "indicator_definition"
         field:
             element: text
-            label: "Indicator description"
+            label: "Indicator definition"
             scope: national
       - name: "national_geographical_coverage"
         field:
