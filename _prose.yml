@@ -87,11 +87,11 @@ prose:
             element: text
             label: "Geographical coverage"
             scope: national
-      - name: "computation_units"
-        field:
-            element: text
-            label: "Unit of measurement"
-            scope: national
+      #- name: "computation_units"
+        #field:
+            #element: text
+            #label: "Unit of measurement"
+            #scope: national
       - name: "computation_definitions"
         field:
             element: textarea
