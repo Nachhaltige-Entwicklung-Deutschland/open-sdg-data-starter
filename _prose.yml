@@ -92,6 +92,16 @@ prose:
             element: text
             label: "Intention"
             scope: national
+      - name: "dns_content_url"
+        field:
+            element: hidden
+            label: "Content"
+            scope: national
+      - name: "dns_content_url_text"
+        field:
+            element: hidden
+            label: "Content"
+            scope: national
       #- name: "computation_units"
         #field:
             #element: text
