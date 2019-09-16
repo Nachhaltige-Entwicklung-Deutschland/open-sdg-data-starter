@@ -142,6 +142,68 @@ prose:
             element: hidden
             label: "Metadata last updated"
             scope: national
+
+
+
+      ######### History #########
+      ## History 1
+      - name: history_active_1
+        field:
+            element: checkbox
+            label: History 1 active
+            help: Whether or not to display this history
+            value: true
+      - name: history_indicator_1
+        field:
+            element: text
+            label: Indicator
+            scope: history_1
+      - name: history_target_1
+        field:
+            element: text
+            label: Target of indicator
+            scope: history_1
+      - name: "history_years_1"
+        field:
+            element: text
+            label: "Year"
+            scope: history_1
+      - name: "history_evaluation_1"
+        field:
+            element: text
+            label: "Evaluation"
+            value: "Link to source"
+            scope: history_1
+      ## History 2
+      - name: history_active_2
+        field:
+            element: checkbox
+            label: History 2 active
+            help: Whether or not to display this history
+            value: true
+      - name: history_indicator_2
+        field:
+            element: text
+            label: Indicator
+            scope: history_2
+      - name: history_target_2
+        field:
+            element: text
+            label: Target of indicator
+            scope: history_2
+      - name: "history_years_2"
+        field:
+            element: text
+            label: "Year"
+            scope: history_2
+      - name: "history_evaluation_2"
+        field:
+            element: text
+            label: "Evaluation"
+            value: "Link to source"
+            scope: history_2
+
+
        ######### Data Info #########
       - name: "reporting_status"
         field:
