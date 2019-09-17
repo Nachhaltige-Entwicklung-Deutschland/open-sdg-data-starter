@@ -168,7 +168,7 @@ prose:
             element: text
             label: "Year"
             scope: history_1
-      - name: "history_evaluation_1"
+      - name: "history_url_text_1"
         field:
             element: text
             label: "Evaluation"
@@ -201,7 +201,7 @@ prose:
             element: text
             label: "Year"
             scope: history_2
-      - name: "history_evaluation_2"
+      - name: "history_url_text_2"
         field:
             element: text
             label: "Evaluation"
