@@ -192,19 +192,40 @@ prose:
             label: "YearD"
             scope: history_1
 
-
-
-      - name: "history_url_text_1"
+      - name: "history_status_year_a_1"
         field:
             element: text
-            label: "Evaluation"
-            value: "Link to source"
+            label: "Status year A"
             scope: history_1
-      - name: "history_url_1"
+      - name: "history_status_year_b_1"
         field:
             element: text
-            label: "Link to history explanation"
+            label: "Status year B"
             scope: history_1
+      - name: "history_status_year_c_1"
+        field:
+            element: text
+            label: "Status year C"
+            scope: history_1
+      - name: "history_status_year_d_1"
+        field:
+            element: text
+            label: "Status year D"
+            scope: history_1
+
+
+
+      #- name: "history_url_text_1"
+      #  field:
+      #      element: text
+      #      label: "Evaluation"
+      #      value: "Link to source"
+      #      scope: history_1
+      #- name: "history_url_1"
+      #  field:
+      #      element: text
+      #      label: "Link to history explanation"
+      #      scope: history_1
 
 
 
