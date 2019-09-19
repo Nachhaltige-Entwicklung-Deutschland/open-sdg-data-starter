@@ -235,7 +235,7 @@ prose:
             element: checkbox
             label: History 2 active
             help: Whether or not to display this history
-            value: false
+            value: true
       - name: history_indicator_2
         field:
             element: text
@@ -246,22 +246,69 @@ prose:
             element: text
             label: Target of indicator
             scope: history_2
-      - name: "history_years_2"
+
+
+      #- name: "history_years_2"
+        #field:
+            #element: text
+            #label: "Year"
+            #scope: history_2
+
+      - name: "history_year_a_2"
         field:
             element: text
-            label: "Year"
+            label: "YearA"
             scope: history_2
-      - name: "history_url_text_2"
+      - name: "history_year_b_2"
         field:
             element: text
-            label: "Evaluation"
-            value: "Link to source"
+            label: "YearB"
             scope: history_2
-      - name: "history_url_2"
+      - name: "history_year_c_2"
         field:
             element: text
-            label: "Link to history explanation"
+            label: "YearC"
             scope: history_2
+      - name: "history_year_d_2"
+        field:
+            element: text
+            label: "YearD"
+            scope: history_2
+
+      - name: "history_status_year_a_2"
+        field:
+            element: text
+            label: "Status year A"
+            scope: history_2
+      - name: "history_status_year_b_2"
+        field:
+            element: text
+            label: "Status year B"
+            scope: history_2
+      - name: "history_status_year_c_2"
+        field:
+            element: text
+            label: "Status year C"
+            scope: history_2
+      - name: "history_status_year_d_2"
+        field:
+            element: text
+            label: "Status year D"
+            scope: history_1
+
+
+
+      #- name: "history_url_text_2"
+      #  field:
+      #      element: text
+      #      label: "Evaluation"
+      #      value: "Link to source"
+      #      scope: history_2
+      #- name: "history_url_2"
+      #  field:
+      #      element: text
+      #      label: "Link to history explanation"
+      #      scope: history_2
 
 
        ######### Data Info #########
