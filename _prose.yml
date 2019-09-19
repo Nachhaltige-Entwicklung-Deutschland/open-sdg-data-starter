@@ -163,11 +163,37 @@ prose:
             element: text
             label: Target of indicator
             scope: history_1
-      - name: "history_years_1"
+
+
+      #- name: "history_years_1"
+        #field:
+            #element: text
+            #label: "Year"
+            #scope: history_1
+
+      - name: "history_year_a_1"
         field:
             element: text
-            label: "Year"
+            label: "YearA"
             scope: history_1
+      - name: "history_year_b_1"
+        field:
+            element: text
+            label: "YearB"
+            scope: history_1
+      - name: "history_year_c_1"
+        field:
+            element: text
+            label: "YearC"
+            scope: history_1
+      - name: "history_year_d_1"
+        field:
+            element: text
+            label: "YearD"
+            scope: history_1
+
+
+
       - name: "history_url_text_1"
         field:
             element: text
@@ -179,13 +205,16 @@ prose:
             element: text
             label: "Link to history explanation"
             scope: history_1
+
+
+
       ## History 2
       - name: history_active_2
         field:
             element: checkbox
             label: History 2 active
             help: Whether or not to display this history
-            value: true
+            value: false
       - name: history_indicator_2
         field:
             element: text
