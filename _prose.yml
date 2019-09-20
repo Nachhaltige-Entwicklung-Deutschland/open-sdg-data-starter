@@ -294,7 +294,7 @@ prose:
         field:
             element: text
             label: "Status year D"
-            scope: history_1
+            scope: history_2
 
 
 
