@@ -102,26 +102,6 @@ prose:
             element: hidden
             label: "Content"
             scope: national
-      #- name: "computation_units"
-        #field:
-            #element: text
-            #label: "Unit of measurement"
-            #scope: national
-      #- name: "computation_definitions"
-        #field:
-            #element: textarea
-            #label: "Definitions"
-            #scope: national
-      #- name: "computation_calculations"
-        #field:
-            #element: text
-            #label: "Calculations"
-            #scope: national
-      #- name: "comments_limitations"
-        #field:
-            #element: text
-            #label: "Other information"
-            #scope: national
       - name: "national_data_update_url"
         field:
             element: hidden
@@ -143,8 +123,6 @@ prose:
             label: "Metadata last updated"
             scope: national
 
-
-
       ######### History #########
       ## History 1
       - name: history_active_1
@@ -163,14 +141,6 @@ prose:
             element: text
             label: Target of indicator
             scope: history_1
-
-
-      #- name: "history_years_1"
-        #field:
-            #element: text
-            #label: "Year"
-            #scope: history_1
-
       - name: "history_year_a_1"
         field:
             element: text
@@ -190,6 +160,31 @@ prose:
         field:
             element: text
             label: "YearD"
+            scope: history_1
+      - name: "history_year_e_1"
+        field:
+            element: text
+            label: "YearE"
+            scope: history_1
+      - name: "history_year_f_1"
+        field:
+            element: text
+            label: "YearF"
+            scope: history_1
+      - name: "history_year_g_1"
+        field:
+            element: text
+            label: "YearG"
+            scope: history_1
+      - name: "history_year_h_1"
+        field:
+            element: text
+            label: "YearH"
+            scope: history_1
+      - name: "history_year_i_1"
+        field:
+            element: text
+            label: "YearI"
             scope: history_1
 
       - name: "history_status_year_a_1"
@@ -211,6 +206,31 @@ prose:
         field:
             element: text
             label: "Status year D"
+            scope: history_1
+      - name: "history_status_year_e_1"
+        field:
+            element: text
+            label: "Status year E"
+            scope: history_1
+      - name: "history_status_year_f_1"
+        field:
+            element: text
+            label: "Status year F"
+            scope: history_1
+      - name: "history_status_year_g_1"
+        field:
+            element: text
+            label: "Status year G"
+            scope: history_1
+      - name: "history_status_year_h_1"
+        field:
+            element: text
+            label: "Status year H"
+            scope: history_1
+      - name: "history_status_year_i_1"
+        field:
+            element: text
+            label: "Status year I"
             scope: history_1
 
 
