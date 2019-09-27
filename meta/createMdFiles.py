@@ -123,7 +123,7 @@ for goal in dic:
             check = 0
             for stts in reversed(range(2010,2019)):
                 if not pd.isnull(meta.loc[index, str(stts)]):
-                    lYear.append(str(stts))
+                    lYears.append(str(stts))
                     lStts.append(meta.loc[index, str(stts)])
                     check = 1
             if check == 1:
@@ -133,8 +133,10 @@ for goal in dic:
                            \nhistory_target_1: ' + meta.loc[index, 'Ziel_Text_DE'])
                 
                 for i in range(len(lStts)):
-                    file.write('\nhistory_year_'+l[i]+"_1: '"+lYear[i]+"'\
+                    file.write('\nhistory_year_'+l[i]+"_1: '"+lYears[i]+"'\
                                \nhistory_status_year_"+l[i]+'_1: <img src="https://g205sdgs.github.io/sdg-indicators/public/Wettersymbole/'+lStts[i]+'.png" alt="'+lStts[i]+'" />')
+            if index == '011a':
+                print(lStts,'  ',lYears)
             #---Status for 2nd indicator---------------------------------------                  
             if len(index2) > 2:
                 lStts, lYears = [], []
@@ -142,7 +144,7 @@ for goal in dic:
                 check = 0
                 for stts in reversed(range(2010,2019)):
                     if not pd.isnull(meta.loc[index2, str(stts)]):
-                        lYear.append(str(stts))
+                        lYears.append(str(stts))
                         lStts.append(meta.loc[index2, str(stts)])
                         check = 1
                 if check == 1:
@@ -152,11 +154,11 @@ for goal in dic:
                                \nhistory_target_2: ' + meta.loc[index2, 'Ziel_Text_DE'])
                 
                     for i in range(len(lStts)):
-                        file.write('\nhistory_year_'+l[i]+"_2: '"+lYear[i]+"'\
+                        file.write('\nhistory_year_'+l[i]+"_2: '"+lYears[i]+"'\
                                    \nhistory_status_year_"+l[i]+'_2: <img src="https://g205sdgs.github.io/sdg-indicators/public/Wettersymbole/'+lStts[i]+'.png" alt="'+lStts[i]+'" />')
             #------------------------------------------------------------------
-            if not pd.isnull(meta.loc[index, 'Einheit_DE']):
-                Einheit = meta.loc[index, 'Einheit_DE']
+            if not pd.isnull(meta.loc[index, 'Einheit_De']):
+                Einheit = meta.loc[index, 'Einheit_De']
             else:
                 Einheit = ''
             if not pd.isnull(meta.loc[index, 'Anmerkung_DE']):
