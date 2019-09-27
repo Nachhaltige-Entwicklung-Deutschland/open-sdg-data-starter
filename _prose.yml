@@ -233,22 +233,6 @@ prose:
             label: "Status year I"
             scope: history_1
 
-
-
-      #- name: "history_url_text_1"
-      #  field:
-      #      element: text
-      #      label: "Evaluation"
-      #      value: "Link to source"
-      #      scope: history_1
-      #- name: "history_url_1"
-      #  field:
-      #      element: text
-      #      label: "Link to history explanation"
-      #      scope: history_1
-
-
-
       ## History 2
       - name: history_active_2
         field:
