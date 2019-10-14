@@ -1,157 +1,51 @@
-Year,Units,timeseries,sex,region,GeoCode,Value
-2014,eur/h,average hourly earnings of employees,,,,17.78
-2010,%,gender pay gap,,,,22.0
-2011,%,gender pay gap,,,,22.0
-2012,%,gender pay gap,,,,23.0
-2013,%,gender pay gap,,,,22.0
-2014,%,gender pay gap,,,,22.0
-2015,%,gender pay gap,,,,22.0
-2016,%,gender pay gap,,,,21.0
-2017,%,gender pay gap,,,,21.0
-2018,%,gender pay gap,,,,21.0
-2010,eur/h,average hourly earnings of employees,female,,,14.62
-2011,eur/h,average hourly earnings of employees,female,,,14.88
-2012,eur/h,average hourly earnings of employees,female,,,15.18
-2013,eur/h,average hourly earnings of employees,female,,,15.5
-2014,eur/h,average hourly earnings of employees,female,,,15.44
-2015,eur/h,average hourly earnings of employees,female,,,15.8
-2016,eur/h,average hourly earnings of employees,female,,,16.26
-2017,eur/h,average hourly earnings of employees,female,,,16.59
-2018,eur/h,average hourly earnings of employees,female,,,17.09
-2010,eur/h,average hourly earnings of employees,male,,,18.81
-2011,eur/h,average hourly earnings of employees,male,,,19.17
-2012,eur/h,average hourly earnings of employees,male,,,19.63
-2013,eur/h,average hourly earnings of employees,male,,,19.89
-2014,eur/h,average hourly earnings of employees,male,,,19.87
-2015,eur/h,average hourly earnings of employees,male,,,20.25
-2016,eur/h,average hourly earnings of employees,male,,,20.71
-2017,eur/h,average hourly earnings of employees,male,,,21.0
-2018,eur/h,average hourly earnings of employees,male,,,21.6
-2010,%,gender pay gap,,baden-wuerttemberg,"code08",27.0
-2011,%,gender pay gap,,baden-wuerttemberg,"code08",27.0
-2012,%,gender pay gap,,baden-wuerttemberg,"code08",27.0
-2013,%,gender pay gap,,baden-wuerttemberg,"code08",27.0
-2014,%,gender pay gap,,baden-wuerttemberg,"code08",27.0
-2015,%,gender pay gap,,baden-wuerttemberg,"code08",27.0
-2016,%,gender pay gap,,baden-wuerttemberg,"code08",27.0
-2017,%,gender pay gap,,baden-wuerttemberg,"code08",27.0
-2010,%,gender pay gap,,bavaria,"code09",26.0
-2011,%,gender pay gap,,bavaria,"code09",25.0
-2012,%,gender pay gap,,bavaria,"code09",25.0
-2013,%,gender pay gap,,bavaria,"code09",25.0
-2014,%,gender pay gap,,bavaria,"code09",25.0
-2015,%,gender pay gap,,bavaria,"code09",24.0
-2016,%,gender pay gap,,bavaria,"code09",24.0
-2017,%,gender pay gap,,bavaria,"code09",24.0
-2010,%,gender pay gap,,berlin,"code11",14.0
-2011,%,gender pay gap,,berlin,"code11",15.0
-2012,%,gender pay gap,,berlin,"code11",15.0
-2013,%,gender pay gap,,berlin,"code11",14.0
-2014,%,gender pay gap,,berlin,"code11",14.0
-2015,%,gender pay gap,,berlin,"code11",15.0
-2016,%,gender pay gap,,berlin,"code11",14.0
-2017,%,gender pay gap,,berlin,"code11",13.0
-2010,%,gender pay gap,,brandenburg,"code12",7.0
-2011,%,gender pay gap,,brandenburg,"code12",6.0
-2012,%,gender pay gap,,brandenburg,"code12",7.0
-2013,%,gender pay gap,,brandenburg,"code12",5.0
-2014,%,gender pay gap,,brandenburg,"code12",7.0
-2015,%,gender pay gap,,brandenburg,"code12",4.0
-2016,%,gender pay gap,,brandenburg,"code12",4.0
-2017,%,gender pay gap,,brandenburg,"code12",3.0
-2010,%,gender pay gap,,bremen,"code04",24.0
-2011,%,gender pay gap,,bremen,"code04",24.0
-2012,%,gender pay gap,,bremen,"code04",27.0
-2013,%,gender pay gap,,bremen,"code04",25.0
-2014,%,gender pay gap,,bremen,"code04",25.0
-2015,%,gender pay gap,,bremen,"code04",24.0
-2016,%,gender pay gap,,bremen,"code04",23.0
-2017,%,gender pay gap,,bremen,"code04",23.0
-2010,%,gender pay gap,,hamburg,"code02",23.0
-2011,%,gender pay gap,,hamburg,"code02",22.0
-2012,%,gender pay gap,,hamburg,"code02",24.0
-2013,%,gender pay gap,,hamburg,"code02",23.0
-2014,%,gender pay gap,,hamburg,"code02",22.0
-2015,%,gender pay gap,,hamburg,"code02",21.0
-2016,%,gender pay gap,,hamburg,"code02",20.0
-2017,%,gender pay gap,,hamburg,"code02",20.0
-2010,%,gender pay gap,,hesse,"code06",25.0
-2011,%,gender pay gap,,hesse,"code06",25.0
-2012,%,gender pay gap,,hesse,"code06",24.0
-2013,%,gender pay gap,,hesse,"code06",23.0
-2014,%,gender pay gap,,hesse,"code06",24.0
-2015,%,gender pay gap,,hesse,"code06",24.0
-2016,%,gender pay gap,,hesse,"code06",23.0
-2017,%,gender pay gap,,hesse,"code06",24.0
-2010,%,gender pay gap,,lower saxony,"code03",22.0
-2011,%,gender pay gap,,lower saxony,"code03",22.0
-2012,%,gender pay gap,,lower saxony,"code03",21.0
-2013,%,gender pay gap,,lower saxony,"code03",20.0
-2014,%,gender pay gap,,lower saxony,"code03",22.0
-2015,%,gender pay gap,,lower saxony,"code03",21.0
-2016,%,gender pay gap,,lower saxony,"code03",20.0
-2017,%,gender pay gap,,lower saxony,"code03",20.0
-2010,%,gender pay gap,,mecklenburg western pomerania,"code13",4.0
-2011,%,gender pay gap,,mecklenburg western pomerania,"code13",6.0
-2012,%,gender pay gap,,mecklenburg western pomerania,"code13",7.0
-2013,%,gender pay gap,,mecklenburg western pomerania,"code13",6.0
-2014,%,gender pay gap,,mecklenburg western pomerania,"code13",8.0
-2015,%,gender pay gap,,mecklenburg western pomerania,"code13",7.0
-2016,%,gender pay gap,,mecklenburg western pomerania,"code13",6.0
-2017,%,gender pay gap,,mecklenburg western pomerania,"code13",5.0
-2010,%,gender pay gap,,north rhine-westphalia,"code05",23.0
-2011,%,gender pay gap,,north rhine-westphalia,"code05",23.0
-2012,%,gender pay gap,,north rhine-westphalia,"code05",24.0
-2013,%,gender pay gap,,north rhine-westphalia,"code05",23.0
-2014,%,gender pay gap,,north rhine-westphalia,"code05",23.0
-2015,%,gender pay gap,,north rhine-westphalia,"code05",23.0
-2016,%,gender pay gap,,north rhine-westphalia,"code05",22.0
-2017,%,gender pay gap,,north rhine-westphalia,"code05",22.0
-2010,%,gender pay gap,,rhineland palatinate,"code07",22.0
-2011,%,gender pay gap,,rhineland palatinate,"code07",22.0
-2012,%,gender pay gap,,rhineland palatinate,"code07",22.0
-2013,%,gender pay gap,,rhineland palatinate,"code07",22.0
-2014,%,gender pay gap,,rhineland palatinate,"code07",21.0
-2015,%,gender pay gap,,rhineland palatinate,"code07",21.0
-2016,%,gender pay gap,,rhineland palatinate,"code07",20.0
-2017,%,gender pay gap,,rhineland palatinate,"code07",20.0
-2010,%,gender pay gap,,saarland,"code10",25.0
-2011,%,gender pay gap,,saarland,"code10",25.0
-2012,%,gender pay gap,,saarland,"code10",25.0
-2013,%,gender pay gap,,saarland,"code10",24.0
-2014,%,gender pay gap,,saarland,"code10",23.0
-2015,%,gender pay gap,,saarland,"code10",24.0
-2016,%,gender pay gap,,saarland,"code10",24.0
-2017,%,gender pay gap,,saarland,"code10",23.0
-2010,%,gender pay gap,,saxony,"code14",9.0
-2011,%,gender pay gap,,saxony,"code14",10.0
-2012,%,gender pay gap,,saxony,"code14",11.0
-2013,%,gender pay gap,,saxony,"code14",11.0
-2014,%,gender pay gap,,saxony,"code14",11.0
-2015,%,gender pay gap,,saxony,"code14",11.0
-2016,%,gender pay gap,,saxony,"code14",11.0
-2017,%,gender pay gap,,saxony,"code14",11.0
-2010,%,gender pay gap,,saxony-anhalt,"code15",4.0
-2011,%,gender pay gap,,saxony-anhalt,"code15",5.0
-2012,%,gender pay gap,,saxony-anhalt,"code15",5.0
-2013,%,gender pay gap,,saxony-anhalt,"code15",4.0
-2014,%,gender pay gap,,saxony-anhalt,"code15",5.0
-2015,%,gender pay gap,,saxony-anhalt,"code15",2.0
-2016,%,gender pay gap,,saxony-anhalt,"code15",2.0
-2017,%,gender pay gap,,saxony-anhalt,"code15",2.0
-2010,%,gender pay gap,,schleswig-holstein,"code01",18.0
-2011,%,gender pay gap,,schleswig-holstein,"code01",17.0
-2012,%,gender pay gap,,schleswig-holstein,"code01",18.0
-2013,%,gender pay gap,,schleswig-holstein,"code01",18.0
-2014,%,gender pay gap,,schleswig-holstein,"code01",17.0
-2015,%,gender pay gap,,schleswig-holstein,"code01",17.0
-2016,%,gender pay gap,,schleswig-holstein,"code01",17.0
-2017,%,gender pay gap,,schleswig-holstein,"code01",15.0
-2010,%,gender pay gap,,thuringia,"code16",6.0
-2011,%,gender pay gap,,thuringia,"code16",7.0
-2012,%,gender pay gap,,thuringia,"code16",8.0
-2013,%,gender pay gap,,thuringia,"code16",9.0
-2014,%,gender pay gap,,thuringia,"code16",8.0
-2015,%,gender pay gap,,thuringia,"code16",10.0
-2016,%,gender pay gap,,thuringia,"code16",9.0
-2017,%,gender pay gap,,thuringia,"code16",8.0
+Year,Units,Display,timeseries,age,region,GeoCode,Value
+2003,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,22.5
+2004,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,23.5
+2005,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,20
+2007,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,17.7
+2008,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,15.4
+2010,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,12.9
+2011,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,11.7
+2012,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,12
+2014,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,9.7
+2015,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,7.8
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,7.4
+2030,share of all persons in the respective age group in %,b) target (min),adolescent and adult smokers,adolescents (12 to 17 years),,,7
+2001,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,27.5
+2003,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,27.4
+2005,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,27.2
+2009,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,25.7
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,24.5
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),brandenburg,'code12',5.8
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,brandenburg,'code12',4.5
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,berlin,'code11',8.9
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,berlin,'code11',5.5
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,baden-wuerttemberg,'code08',2.2
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,baden-wuerttemberg,'code08',1.2
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,bavaria,'code09',2.1
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,bavaria,'code09',0.5
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,bremen,'code04',7.8
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,bremen,'code04',7.4
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,hesse,'code06',3.4
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,hesse,'code06',1.1
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,hamburg,'code02',5.6
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,hamburg,'code02',32.2
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,mecklenburg western pomerania,'code13',8.2
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,mecklenburg western pomerania,'code13',7.7
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,lower saxony,'code03',4.7
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,lower saxony,'code03',2.9
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,north rhine-westphalia,'code05',5.9
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,north rhine-westphalia,'code05',2.6
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,rhineland palatinate,'code07',3.9
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,rhineland palatinate,'code07',1.7
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,schleswig-holstein,'code01',5.9
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,schleswig-holstein,'code01',3.5
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,saarland,'code10',3.5
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,saarland,'code10',0.6
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,saxony,'code14',2.7
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,saxony,'code14',1.4
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,saxony-anhalt,'code15',7.8
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,saxony-anhalt,'code15',4.8
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,thuringia,'code16',6.1
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,,thuringia,'code16',6.2
+2030,share of all persons in the respective age group in %,b) target (min),adolescent and adult smokers,adults (15 years and older),,,19
