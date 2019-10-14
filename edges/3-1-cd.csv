@@ -1,4 +1,4 @@
 From,To
 Display,timeseries
 timeseries,age
-timeseries,region
+age,region
