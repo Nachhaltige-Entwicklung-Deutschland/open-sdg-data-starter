@@ -1,4 +1,3 @@
 From,To
-Display,timeseries
-timeseries,age
-age,region
+timeseries,sex
+timeseries,region
