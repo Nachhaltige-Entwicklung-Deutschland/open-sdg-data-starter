@@ -1,7 +1,51 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Display,timeseries,age,region,GeoCode,Value
+2003,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,22.5
+2004,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,23.5
+2005,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,20
+2007,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,17.7
+2008,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,15.4
+2010,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,12.9
+2011,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,11.7
+2012,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,12
+2014,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,9.7
+2015,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,7.8
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,7.4
+2030,share of all persons in the respective age group in %,b) target (min),adolescent and adult smokers,adolescents (12 to 17 years),,,7
+2001,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,27.5
+2003,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,27.4
+2005,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,27.2
+2009,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,25.7
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,24.5
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),brandenburg,"code12",5.8
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),brandenburg,"code12",4.5
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),berlin,"code11",8.9
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),berlin,"code11",5.5
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),baden-wuerttemberg,"code08",2.2
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),baden-wuerttemberg,"code08",1.2
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),bavaria,"code09",2.1
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),bavaria,"code09",0.5
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),bremen,"code04",7.8
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),bremen,"code04",7.4
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),hesse,"code06",3.4
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),hesse,"code06",1.1
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),hamburg,"code02",5.6
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),hamburg,"code02",32.2
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),mecklenburg western pomerania,"code13",8.2
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),mecklenburg western pomerania,"code13",7.7
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),lower saxony,"code03",4.7
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),lower saxony,"code03",2.9
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),north rhine-westphalia,"code05",5.9
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),north rhine-westphalia,"code05",2.6
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),rhineland palatinate,"code07",3.9
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),rhineland palatinate,"code07",1.7
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),schleswig-holstein,"code01",5.9
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),schleswig-holstein,"code01",3.5
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),saarland,"code10",3.5
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),saarland,"code10",0.6
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),saxony,"code14",2.7
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),saxony,"code14",1.4
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),saxony-anhalt,"code15",7.8
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),saxony-anhalt,"code15",4.8
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),thuringia,"code16",6.1
+2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),thuringia,"code16",6.2
+2030,share of all persons in the respective age group in %,b) target (min),adolescent and adult smokers,adults (15 years and older),,,19
