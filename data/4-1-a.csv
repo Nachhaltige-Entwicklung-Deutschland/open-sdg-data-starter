@@ -16,9 +16,9 @@ Year,Units,Display,timeseries,age,region,GeoCode,Value
 2005,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,27.2
 2009,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,25.7
 2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,24.5
-2014,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),DEUTSCHLAND,DE,25.8
-2015,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),DEUTSCHLAND,DE,25.5
-2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),DEUTSCHLAND,DE,25.0
+2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),DEUTSCHLAND,DE,25.8
+2014,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),DEUTSCHLAND,DE,25.5
+2015,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),DEUTSCHLAND,DE,25.0
 2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),DEUTSCHLAND,DE,24.5
 2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),DANMARK,DK,28.9
 2014,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),DANMARK,DK,28.1
@@ -40,4 +40,39 @@ Year,Units,Display,timeseries,age,region,GeoCode,Value
 2014,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),FRANCE,FR,22.4
 2015,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),FRANCE,FR,21.1
 2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),SHQIP\u00cbRIA,AL,20.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),SHQIP\u00cbRIA,AL,10.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),\u010cESK\u00c1 REPUBLIKA,CZ,11.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),DEUTSCHLAND,DE,12.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),DANMARK,DK,13.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),\u00d6STERREICH,AT,14.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),BELGIQUE-BELGI\u00cb,AL,20.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),\u0411\u042a\u041b\u0413\u0410\u0420\u0418\u042f,BG,15.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),SSCHWEIZ/SUISSE/SVIZZERA,CH,16.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),EESTI,EE,17.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),\u0395\u039b\u039b\u0391\u0394\u0391,EL,18.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),ESPA\u00d1A,ES,19.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),SUOMI / FINLAND,FI,20.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),FRANCE,FR,21.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),HRVATSKA,HR,22.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),MAGYARORSZ\u00c1G,HU,23.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),IRELAND,IR,24.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),\u00cdSLAND,IS,25.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),ITALIA,IT,26.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),LIETUVA,LT,27.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),LUXEMBOURG,LU,28.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),NEDERLAND,NL,29.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),NORGE,NO,30.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),LATVIJA,LV,31.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),\u0426\u0420\u041d\u0410 \u0413\u041e\u0420\u0410,LV,32.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),MALTA,MT,33.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),North Macedonia,MK,34.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),LIECHTENSTEIN,LI,35.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),POLSKA,PL,36.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),SLOVENIJA,SI,37.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),SLOVENSKO,SK,38.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),T\u00dcRKIYE,TR,39.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),UNITED KINGDOM,UK,40.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),SVERIGE,SE,41.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),PORTUGAL,PT,42.1
+2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),ROM\u00c2NIA,RO,43.1
 2030,share of all persons in the respective age group in %,b) target (min),adolescent and adult smokers,adults (15 years and older),,,19.0
