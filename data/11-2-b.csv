@@ -1,38 +1,38 @@
-Year,title,display,dimension,Value
-2005,Final energy consumption in passenger transport,Time series,Passenger transport performance,100.0
-2006,Final energy consumption in passenger transport,Time series,Passenger transport performance,100.84
-2007,Final energy consumption in passenger transport,Time series,Passenger transport performance,100.95
-2008,Final energy consumption in passenger transport,Time series,Passenger transport performance,101.63
-2009,Final energy consumption in passenger transport,Time series,Passenger transport performance,102.45
-2010,Final energy consumption in passenger transport,Time series,Passenger transport performance,102.93
-2011,Final energy consumption in passenger transport,Time series,Passenger transport performance,104.01
-2012,Final energy consumption in passenger transport,Time series,Passenger transport performance,104.32
-2013,Final energy consumption in passenger transport,Time series,Passenger transport performance,105.13
-2014,Final energy consumption in passenger transport,Time series,Passenger transport performance,106.72
-2015,Final energy consumption in passenger transport,Time series,Passenger transport performance,108.12
-2016,Final energy consumption in passenger transport,Time series,Passenger transport performance,110.5
-2005,Final energy consumption in passenger transport,Time series,Final energy consumption per passenger-kilometre,100.0
-2006,Final energy consumption in passenger transport,Time series,Final energy consumption per passenger-kilometre,98.34
-2007,Final energy consumption in passenger transport,Time series,Final energy consumption per passenger-kilometre,97.49
-2008,Final energy consumption in passenger transport,Time series,Final energy consumption per passenger-kilometre,95.62
-2009,Final energy consumption in passenger transport,Time series,Final energy consumption per passenger-kilometre,95.74
-2010,Final energy consumption in passenger transport,Time series,Final energy consumption per passenger-kilometre,95.15
-2011,Final energy consumption in passenger transport,Time series,Final energy consumption per passenger-kilometre,94.74
-2012,Final energy consumption in passenger transport,Time series,Final energy consumption per passenger-kilometre,93.72
-2013,Final energy consumption in passenger transport,Time series,Final energy consumption per passenger-kilometre,92.75
-2014,Final energy consumption in passenger transport,Time series,Final energy consumption per passenger-kilometre,92.02
-2015,Final energy consumption in passenger transport,Time series,Final energy consumption per passenger-kilometre,91.49
-2016,Final energy consumption in passenger transport,Time series,Final energy consumption per passenger-kilometre,89.46
-2005,Final energy consumption in passenger transport,Time series,Final energy consumption in passenger transport,100.0
-2006,Final energy consumption in passenger transport,Time series,Final energy consumption in passenger transport,99.16
-2007,Final energy consumption in passenger transport,Time series,Final energy consumption in passenger transport,98.42
-2008,Final energy consumption in passenger transport,Time series,Final energy consumption in passenger transport,97.18
-2009,Final energy consumption in passenger transport,Time series,Final energy consumption in passenger transport,98.08
-2010,Final energy consumption in passenger transport,Time series,Final energy consumption in passenger transport,97.94
-2011,Final energy consumption in passenger transport,Time series,Final energy consumption in passenger transport,98.54
-2012,Final energy consumption in passenger transport,Time series,Final energy consumption in passenger transport,97.77
-2013,Final energy consumption in passenger transport,Time series,Final energy consumption in passenger transport,97.5
-2014,Final energy consumption in passenger transport,Time series,Final energy consumption in passenger transport,98.2
-2015,Final energy consumption in passenger transport,Time series,Final energy consumption in passenger transport,98.92
-2016,Final energy consumption in passenger transport,Time series,Final energy consumption in passenger transport,98.86
-2030,Final energy consumption in passenger transport,Target,Final energy consumption in passenger transport,85.0
+Year,display,title,dimension,Value
+2005,time series,final energy consumption in passenger transport,passenger transport performance,100.0
+2006,time series,final energy consumption in passenger transport,passenger transport performance,100.84
+2007,time series,final energy consumption in passenger transport,passenger transport performance,100.95
+2008,time series,final energy consumption in passenger transport,passenger transport performance,101.63
+2009,time series,final energy consumption in passenger transport,passenger transport performance,102.45
+2010,time series,final energy consumption in passenger transport,passenger transport performance,102.93
+2011,time series,final energy consumption in passenger transport,passenger transport performance,104.01
+2012,time series,final energy consumption in passenger transport,passenger transport performance,104.32
+2013,time series,final energy consumption in passenger transport,passenger transport performance,105.13
+2014,time series,final energy consumption in passenger transport,passenger transport performance,106.72
+2015,time series,final energy consumption in passenger transport,passenger transport performance,108.12
+2016,time series,final energy consumption in passenger transport,passenger transport performance,110.5
+2005,time series,final energy consumption in passenger transport,final energy consumption per passenger-kilometre,100.0
+2006,time series,final energy consumption in passenger transport,final energy consumption per passenger-kilometre,98.34
+2007,time series,final energy consumption in passenger transport,final energy consumption per passenger-kilometre,97.49
+2008,time series,final energy consumption in passenger transport,final energy consumption per passenger-kilometre,95.62
+2009,time series,final energy consumption in passenger transport,final energy consumption per passenger-kilometre,95.74
+2010,time series,final energy consumption in passenger transport,final energy consumption per passenger-kilometre,95.15
+2011,time series,final energy consumption in passenger transport,final energy consumption per passenger-kilometre,94.74
+2012,time series,final energy consumption in passenger transport,final energy consumption per passenger-kilometre,93.72
+2013,time series,final energy consumption in passenger transport,final energy consumption per passenger-kilometre,92.75
+2014,time series,final energy consumption in passenger transport,final energy consumption per passenger-kilometre,92.02
+2015,time series,final energy consumption in passenger transport,final energy consumption per passenger-kilometre,91.49
+2016,time series,final energy consumption in passenger transport,final energy consumption per passenger-kilometre,89.46
+2005,time series,final energy consumption in passenger transport,final energy consumption in passenger transport,100.0
+2006,time series,final energy consumption in passenger transport,final energy consumption in passenger transport,99.16
+2007,time series,final energy consumption in passenger transport,final energy consumption in passenger transport,98.42
+2008,time series,final energy consumption in passenger transport,final energy consumption in passenger transport,97.18
+2009,time series,final energy consumption in passenger transport,final energy consumption in passenger transport,98.08
+2010,time series,final energy consumption in passenger transport,final energy consumption in passenger transport,97.94
+2011,time series,final energy consumption in passenger transport,final energy consumption in passenger transport,98.54
+2012,time series,final energy consumption in passenger transport,final energy consumption in passenger transport,97.77
+2013,time series,final energy consumption in passenger transport,final energy consumption in passenger transport,97.5
+2014,time series,final energy consumption in passenger transport,final energy consumption in passenger transport,98.2
+2015,time series,final energy consumption in passenger transport,final energy consumption in passenger transport,98.92
+2016,time series,final energy consumption in passenger transport,final energy consumption in passenger transport,98.86
+2030,target,final energy consumption in passenger transport,final energy consumption in passenger transport,85.0

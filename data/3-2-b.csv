@@ -1,11 +1,11 @@
-Year,title,display,Value
-2007,"Particulate matter exposure (PM10), of at least 20 micro-g per m3 air on average per year",Time series,50.1
-2008,"Particulate matter exposure (PM10), of at least 20 micro-g per m3 air on average per year",Time series,25.1
-2009,"Particulate matter exposure (PM10), of at least 20 micro-g per m3 air on average per year",Time series,28.5
-2010,"Particulate matter exposure (PM10), of at least 20 micro-g per m3 air on average per year",Time series,28.9
-2011,"Particulate matter exposure (PM10), of at least 20 micro-g per m3 air on average per year",Time series,36.6
-2012,"Particulate matter exposure (PM10), of at least 20 micro-g per m3 air on average per year",Time series,12.2
-2013,"Particulate matter exposure (PM10), of at least 20 micro-g per m3 air on average per year",Time series,14.3
-2014,"Particulate matter exposure (PM10), of at least 20 micro-g per m3 air on average per year",Time series,12.4
-2015,"Particulate matter exposure (PM10), of at least 20 micro-g per m3 air on average per year",Time series,4.3
-2030,"Particulate matter exposure (PM10), of at least 20 micro-g per m3 air on average per year",Target,0.0
+Year,display,title,Value
+2007,time series,"particulate matter exposure (pm10), of at least 20 micro-g per m3 air on average per year",50.1
+2008,time series,"particulate matter exposure (pm10), of at least 20 micro-g per m3 air on average per year",25.1
+2009,time series,"particulate matter exposure (pm10), of at least 20 micro-g per m3 air on average per year",28.5
+2010,time series,"particulate matter exposure (pm10), of at least 20 micro-g per m3 air on average per year",28.9
+2011,time series,"particulate matter exposure (pm10), of at least 20 micro-g per m3 air on average per year",36.6
+2012,time series,"particulate matter exposure (pm10), of at least 20 micro-g per m3 air on average per year",12.2
+2013,time series,"particulate matter exposure (pm10), of at least 20 micro-g per m3 air on average per year",14.3
+2014,time series,"particulate matter exposure (pm10), of at least 20 micro-g per m3 air on average per year",12.4
+2015,time series,"particulate matter exposure (pm10), of at least 20 micro-g per m3 air on average per year",4.3
+2030,target,"particulate matter exposure (pm10), of at least 20 micro-g per m3 air on average per year",0.0
