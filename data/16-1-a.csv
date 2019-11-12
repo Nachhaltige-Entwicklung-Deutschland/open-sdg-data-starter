@@ -1,51 +1,214 @@
-Year,Units,Display,timeseries,age,region,GeoCode,Value
-2003,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,22.5
-2004,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,23.5
-2005,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,20.0
-2007,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,17.7
-2008,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,15.4
-2010,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,12.9
-2011,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,11.7
-2012,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,12.0
-2014,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,9.7
-2015,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,7.8
-2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,7.4
-2030,share of all persons in the respective age group in %,b) target (min),adolescent and adult smokers,adolescents (12 to 17 years),,,7.0
-2001,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,27.5
-2003,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,27.4
-2005,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,27.2
-2009,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,25.7
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,24.5
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),brandenburg,code12,25.8
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),brandenburg,code12,24.5
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),berlin,code11,28.9
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),berlin,code11,25.5
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),baden-wuerttemberg,code08,22.2
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),baden-wuerttemberg,code08,21.2
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),bavaria,code09,22.1
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),bavaria,code09,20.5
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),bremen,code04,27.8
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),bremen,code04,27.4
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),hesse,code06,23.4
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),hesse,code06,21.1
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),hamburg,code02,25.6
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),hamburg,code02,32.2
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),mecklenburg western pomerania,code13,28.2
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),mecklenburg western pomerania,code13,27.7
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),lower saxony,code03,24.7
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),lower saxony,code03,22.9
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),north rhine-westphalia,code05,25.9
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),north rhine-westphalia,code05,22.6
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),rhineland palatinate,code07,23.9
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),rhineland palatinate,code07,21.7
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),schleswig-holstein,code01,25.9
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),schleswig-holstein,code01,23.5
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),saarland,code10,23.5
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),saarland,code10,20.6
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),saxony,code14,22.7
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),saxony,code14,21.4
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),saxony-anhalt,code15,27.8
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),saxony-anhalt,code15,24.8
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),thuringia,code16,26.1
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),thuringia,code16,26.2
-2030,share of all persons in the respective age group in %,b) target (min),adolescent and adult smokers,adults (15 years and older),,,19.0
+Year,title,display,criminal offences,Bundesland,Value
+1993,Criminal offences,Time series,,,8354.09
+1994,Criminal offences,Time series,,,8062.64
+1995,Criminal offences,Time series,,,8211.89
+1996,Criminal offences,Time series,,,8165.84
+1997,Criminal offences,Time series,,,8078.66
+1998,Criminal offences,Time series,,,7923.24
+1999,Criminal offences,Time series,,,7742.64
+2000,Criminal offences,Time series,,,7691.75
+2001,Criminal offences,Time series,,,7811.68
+2002,Criminal offences,Time series,,,7977.82
+2003,Criminal offences,Time series,,,8055.25
+2004,Criminal offences,Time series,,,8137.92
+2005,Criminal offences,Time series,,,7851.87
+2006,Criminal offences,Time series,,,7757.17
+2007,Criminal offences,Time series,,,7751.51
+2008,Criminal offences,Time series,,,7556.89
+2009,Criminal offences,Time series,,,7509.8
+2010,Criminal offences,Time series,,,7384.65
+2011,Criminal offences,Time series,,,7467.62
+2012,Criminal offences,Time series,,,7465.7
+2013,Criminal offences,Time series,,,7403.6
+2014,Criminal offences,Time series,,,7530.3
+2015,Criminal offences,Time series,,,7796.6
+2016,Criminal offences,Time series,,,7754.76
+2017,Criminal offences,Time series,,,6982.4
+2010,Criminal offences,Time series,,BB,8267.1
+2011,Criminal offences,Time series,,BB,8031.1
+2012,Criminal offences,Time series,,BB,7954.8
+2013,Criminal offences,Time series,,BB,8051.7
+2014,Criminal offences,Time series,,BB,8004.0
+2015,Criminal offences,Time series,,BB,7659.63
+2016,Criminal offences,Time series,,BB,7478.63
+2010,Criminal offences,Time series,,BE,14526.4
+2011,Criminal offences,Time series,,BE,15080.3
+2012,Criminal offences,Time series,,BE,14891.7
+2013,Criminal offences,Time series,,BE,14907.6
+2014,Criminal offences,Time series,,BE,15873.3
+2015,Criminal offences,Time series,,BE,16414.26
+2016,Criminal offences,Time series,,BE,16160.65
+2010,Criminal offences,Time series,,BW,5457.2
+2011,Criminal offences,Time series,,BW,5562.3
+2012,Criminal offences,Time series,,BW,5455.1
+2013,Criminal offences,Time series,,BW,5450.5
+2014,Criminal offences,Time series,,BW,5592.3
+2015,Criminal offences,Time series,,BW,5760.81
+2016,Criminal offences,Time series,,BW,5598.85
+2010,Criminal offences,Time series,,BY,5017.3
+2011,Criminal offences,Time series,,BY,5031.8
+2012,Criminal offences,Time series,,BY,5037.7
+2013,Criminal offences,Time series,,BY,5073.1
+2014,Criminal offences,Time series,,BY,5163.9
+2015,Criminal offences,Time series,,BY,6350.0
+2016,Criminal offences,Time series,,BY,6870.96
+2010,Criminal offences,Time series,,HB,13643.6
+2011,Criminal offences,Time series,,HB,14276.5
+2012,Criminal offences,Time series,,HB,13311.3
+2013,Criminal offences,Time series,,HB,13059.2
+2014,Criminal offences,Time series,,HB,12743.9
+2015,Criminal offences,Time series,,HB,13784.36
+2016,Criminal offences,Time series,,HB,13686.6
+2010,Criminal offences,Time series,,HE,6732.4
+2011,Criminal offences,Time series,,HE,6647.8
+2012,Criminal offences,Time series,,HE,6600.6
+2013,Criminal offences,Time series,,HE,6428.6
+2014,Criminal offences,Time series,,HE,6565.8
+2015,Criminal offences,Time series,,HE,6616.27
+2016,Criminal offences,Time series,,HE,6672.48
+2010,Criminal offences,Time series,,HH,13239.9
+2011,Criminal offences,Time series,,HH,13418.2
+2012,Criminal offences,Time series,,HH,13244.8
+2013,Criminal offences,Time series,,HH,13724.4
+2014,Criminal offences,Time series,,HH,13742.9
+2015,Criminal offences,Time series,,HH,13839.36
+2016,Criminal offences,Time series,,HH,13384.19
+2010,Criminal offences,Time series,,MV,7968.3
+2011,Criminal offences,Time series,,MV,7953.1
+2012,Criminal offences,Time series,,MV,7883.3
+2013,Criminal offences,Time series,,MV,7528.7
+2014,Criminal offences,Time series,,MV,7304.0
+2015,Criminal offences,Time series,,MV,7332.76
+2016,Criminal offences,Time series,,MV,7632.34
+2010,Criminal offences,Time series,,NI,7473.3
+2011,Criminal offences,Time series,,NI,7099.5
+2012,Criminal offences,Time series,,NI,7167.5
+2013,Criminal offences,Time series,,NI,7015.1
+2014,Criminal offences,Time series,,NI,7094.9
+2015,Criminal offences,Time series,,NI,7263.18
+2016,Criminal offences,Time series,,NI,7089.59
+2010,Criminal offences,Time series,,NW,8203.5
+2011,Criminal offences,Time series,,NW,8614.7
+2012,Criminal offences,Time series,,NW,8654.2
+2013,Criminal offences,Time series,,NW,8459.1
+2014,Criminal offences,Time series,,NW,8542.8
+2015,Criminal offences,Time series,,NW,8603.24
+2016,Criminal offences,Time series,,NW,8224.93
+2010,Criminal offences,Time series,,RP,6989.4
+2011,Criminal offences,Time series,,RP,6877.6
+2012,Criminal offences,Time series,,RP,6703.5
+2013,Criminal offences,Time series,,RP,6702.3
+2014,Criminal offences,Time series,,RP,6623.2
+2015,Criminal offences,Time series,,RP,6817.53
+2016,Criminal offences,Time series,,RP,6775.38
+2010,Criminal offences,Time series,,SH,7912.9
+2011,Criminal offences,Time series,,SH,7845.8
+2012,Criminal offences,Time series,,SH,7562.7
+2013,Criminal offences,Time series,,SH,7125.0
+2014,Criminal offences,Time series,,SH,7184.1
+2015,Criminal offences,Time series,,SH,7156.75
+2016,Criminal offences,Time series,,SH,7224.96
+2010,Criminal offences,Time series,,SL,7134.0
+2011,Criminal offences,Time series,,SL,6913.8
+2012,Criminal offences,Time series,,SL,7302.9
+2013,Criminal offences,Time series,,SL,7295.7
+2014,Criminal offences,Time series,,SL,7641.5
+2015,Criminal offences,Time series,,SL,7885.77
+2016,Criminal offences,Time series,,SL,7732.14
+2010,Criminal offences,Time series,,SN,7107.2
+2011,Criminal offences,Time series,,SN,7227.7
+2012,Criminal offences,Time series,,SN,7705.8
+2013,Criminal offences,Time series,,SN,7715.7
+2014,Criminal offences,Time series,,SN,8086.1
+2015,Criminal offences,Time series,,SN,7764.23
+2016,Criminal offences,Time series,,SN,7949.76
+2010,Criminal offences,Time series,,ST,8152.6
+2011,Criminal offences,Time series,,ST,8151.9
+2012,Criminal offences,Time series,,ST,8311.6
+2013,Criminal offences,Time series,,ST,8581.1
+2014,Criminal offences,Time series,,ST,8664.7
+2015,Criminal offences,Time series,,ST,8893.08
+2016,Criminal offences,Time series,,ST,8749.35
+2010,Criminal offences,Time series,,TH,6240.5
+2011,Criminal offences,Time series,,TH,6239.2
+2012,Criminal offences,Time series,,TH,6421.3
+2013,Criminal offences,Time series,,TH,6556.7
+2014,Criminal offences,Time series,,TH,6574.3
+2015,Criminal offences,Time series,,TH,6502.35
+2016,Criminal offences,Time series,,TH,6874.51
+1993,Criminal offences,Time series,Serious and grievous bodily harm,,108.64
+1994,Criminal offences,Time series,Serious and grievous bodily harm,,108.57
+1995,Criminal offences,Time series,Serious and grievous bodily harm,,117.92
+1996,Criminal offences,Time series,Serious and grievous bodily harm,,124.48
+1997,Criminal offences,Time series,Serious and grievous bodily harm,,130.29
+1998,Criminal offences,Time series,Serious and grievous bodily harm,,135.32
+1999,Criminal offences,Time series,Serious and grievous bodily harm,,140.69
+2000,Criminal offences,Time series,Serious and grievous bodily harm,,143.54
+2001,Criminal offences,Time series,Serious and grievous bodily harm,,147.72
+2002,Criminal offences,Time series,Serious and grievous bodily harm,,155.61
+2003,Criminal offences,Time series,Serious and grievous bodily harm,,162.54
+2004,Criminal offences,Time series,Serious and grievous bodily harm,,171.45
+2005,Criminal offences,Time series,Serious and grievous bodily harm,,180.73
+2006,Criminal offences,Time series,Serious and grievous bodily harm,,185.65
+2007,Criminal offences,Time series,Serious and grievous bodily harm,,190.99
+2008,Criminal offences,Time series,Serious and grievous bodily harm,,186.89
+2009,Criminal offences,Time series,Serious and grievous bodily harm,,185.19
+2010,Criminal offences,Time series,Serious and grievous bodily harm,,177.86
+2011,Criminal offences,Time series,Serious and grievous bodily harm,,173.38
+2012,Criminal offences,Time series,Serious and grievous bodily harm,,169.4
+2013,Criminal offences,Time series,Serious and grievous bodily harm,,158.8
+2014,Criminal offences,Time series,Serious and grievous bodily harm,,155.7
+2015,Criminal offences,Time series,Serious and grievous bodily harm,,156.9
+2016,Criminal offences,Time series,Serious and grievous bodily harm,,170.41
+2017,Criminal offences,Time series,Serious and grievous bodily harm,,166.1
+1993,Criminal offences,Time series,Fraud,,653.92
+1994,Criminal offences,Time series,Fraud,,726.95
+1995,Criminal offences,Time series,Fraud,,771.21
+1996,Criminal offences,Time series,Fraud,,802.72
+1997,Criminal offences,Time series,Fraud,,830.19
+1998,Criminal offences,Time series,Fraud,,873.11
+1999,Criminal offences,Time series,Fraud,,887.72
+2000,Criminal offences,Time series,Fraud,,954.59
+2001,Criminal offences,Time series,Fraud,,981.86
+2002,Criminal offences,Time series,Fraud,,975.43
+2003,Criminal offences,Time series,Fraud,,1084.12
+2004,Criminal offences,Time series,Fraud,,1165.58
+2005,Criminal offences,Time series,Fraud,,1175.56
+2006,Criminal offences,Time series,Fraud,,1180.95
+2007,Criminal offences,Time series,Fraud,,1129.74
+2008,Criminal offences,Time series,Fraud,,1098.81
+2009,Criminal offences,Time series,Fraud,,1182.84
+2010,Criminal offences,Time series,Fraud,,1198.13
+2011,Criminal offences,Time series,Fraud,,1156.95
+2012,Criminal offences,Time series,Fraud,,1186.19
+2013,Criminal offences,Time series,Fraud,,1164.7
+2014,Criminal offences,Time series,Fraud,,1199.6
+2015,Criminal offences,Time series,Fraud,,1190.1
+2016,Criminal offences,Time series,Fraud,,1094.05
+2017,Criminal offences,Time series,Fraud,,1103.2
+1993,Criminal offences,Time series,Burglary in homes,,281.03
+1994,Criminal offences,Time series,Burglary in homes,,260.19
+1995,Criminal offences,Time series,Burglary in homes,,260.1
+1996,Criminal offences,Time series,Burglary in homes,,240.52
+1997,Criminal offences,Time series,Burglary in homes,,223.25
+1998,Criminal offences,Time series,Burglary in homes,,204.61
+1999,Criminal offences,Time series,Burglary in homes,,183.11
+2000,Criminal offences,Time series,Burglary in homes,,171.91
+2001,Criminal offences,Time series,Burglary in homes,,164.14
+2002,Criminal offences,Time series,Burglary in homes,,159.44
+2003,Criminal offences,Time series,Burglary in homes,,151.1
+2004,Criminal offences,Time series,Burglary in homes,,152.32
+2005,Criminal offences,Time series,Burglary in homes,,134.8
+2006,Criminal offences,Time series,Burglary in homes,,130.56
+2007,Criminal offences,Time series,Burglary in homes,,134.6
+2008,Criminal offences,Time series,Burglary in homes,,133.84
+2009,Criminal offences,Time series,Burglary in homes,,141.16
+2010,Criminal offences,Time series,Burglary in homes,,151.03
+2011,Criminal offences,Time series,Burglary in homes,,165.28
+2012,Criminal offences,Time series,Burglary in homes,,179.41
+2013,Criminal offences,Time series,Burglary in homes,,185.7
+2014,Criminal offences,Time series,Burglary in homes,,188.3
+2015,Criminal offences,Time series,Burglary in homes,,205.8
+2016,Criminal offences,Time series,Burglary in homes,,184.08
+2017,Criminal offences,Time series,Burglary in homes,,141.2
+2030,Criminal offences,Target,,,7000.0

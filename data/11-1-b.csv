@@ -1,7 +1,149 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,title,typification,Bundesland,Value
+2004,Change in open space per capita,,,-5.1
+2005,Change in open space per capita,,,-4.97
+2006,Change in open space per capita,,,-4.85
+2007,Change in open space per capita,,,-4.73
+2008,Change in open space per capita,,,-4.61
+2009,Change in open space per capita,,,-4.33
+2010,Change in open space per capita,,,-4.04
+2011,Change in open space per capita,,,-4.22
+2012,Change in open space per capita,,,-3.8
+2013,Change in open space per capita,,,-3.64
+2014,Change in open space per capita,,,-3.69
+2015,Change in open space per capita,,,-2.88
+2010,Change in open space per capita,,BB,-10.8
+2011,Change in open space per capita,,BB,-9.6
+2012,Change in open space per capita,,BB,-6.7
+2013,Change in open space per capita,,BB,-8.4
+2014,Change in open space per capita,,BB,-7.9
+2015,Change in open space per capita,,BB,-7.3
+2016,Change in open space per capita,,BB,-7.1
+2010,Change in open space per capita,,BE,-0.4
+2011,Change in open space per capita,,BE,-0.3
+2012,Change in open space per capita,,BE,-0.1
+2013,Change in open space per capita,,BE,0.0
+2014,Change in open space per capita,,BE,0.1
+2015,Change in open space per capita,,BE,0.1
+2016,Change in open space per capita,,BE,-0.2
+2010,Change in open space per capita,,BW,-2.7
+2011,Change in open space per capita,,BW,-2.4
+2012,Change in open space per capita,,BW,-2.3
+2013,Change in open space per capita,,BW,-2.1
+2014,Change in open space per capita,,BW,-2.0
+2015,Change in open space per capita,,BW,-1.9
+2016,Change in open space per capita,,BW,-1.7
+2010,Change in open space per capita,,BY,-5.1
+2011,Change in open space per capita,,BY,-8.5
+2012,Change in open space per capita,,BY,-8.2
+2013,Change in open space per capita,,BY,-7.9
+2014,Change in open space per capita,,BY,-7.1
+2015,Change in open space per capita,,BY,-3.5
+2016,Change in open space per capita,,BY,-3.3
+2010,Change in open space per capita,,HB,-1.1
+2011,Change in open space per capita,,HB,-0.8
+2012,Change in open space per capita,,HB,-1.5
+2013,Change in open space per capita,,HB,-1.5
+2014,Change in open space per capita,,HB,-1.5
+2015,Change in open space per capita,,HB,-1.1
+2016,Change in open space per capita,,HB,-0.7
+2010,Change in open space per capita,,HE,-2.2
+2011,Change in open space per capita,,HE,-1.7
+2012,Change in open space per capita,,HE,-1.9
+2013,Change in open space per capita,,HE,-1.7
+2014,Change in open space per capita,,HE,-1.6
+2015,Change in open space per capita,,HE,-1.8
+2016,Change in open space per capita,,HE,-2.0
+2010,Change in open space per capita,,HH,-0.4
+2011,Change in open space per capita,,HH,-0.3
+2012,Change in open space per capita,,HH,-0.4
+2013,Change in open space per capita,,HH,-0.6
+2014,Change in open space per capita,,HH,0.0
+2015,Change in open space per capita,,HH,0.4
+2016,Change in open space per capita,,HH,1.0
+2010,Change in open space per capita,,MV,-17.6
+2011,Change in open space per capita,,MV,-15.6
+2012,Change in open space per capita,,MV,-11.5
+2013,Change in open space per capita,,MV,-8.5
+2014,Change in open space per capita,,MV,-8.1
+2015,Change in open space per capita,,MV,-7.0
+2016,Change in open space per capita,,MV,-15.4
+2010,Change in open space per capita,,NI,-4.4
+2011,Change in open space per capita,,NI,-4.9
+2012,Change in open space per capita,,NI,-4.8
+2013,Change in open space per capita,,NI,-4.9
+2014,Change in open space per capita,,NI,-5.2
+2015,Change in open space per capita,,NI,-4.5
+2016,Change in open space per capita,,NI,-3.5
+2010,Change in open space per capita,,NW,-2.5
+2011,Change in open space per capita,,NW,-2.3
+2012,Change in open space per capita,,NW,-2.1
+2013,Change in open space per capita,,NW,-2.1
+2014,Change in open space per capita,,NW,-2.0
+2015,Change in open space per capita,,NW,-2.0
+2016,Change in open space per capita,,NW,-1.0
+2010,Change in open space per capita,,RP,-2.0
+2011,Change in open space per capita,,RP,-1.2
+2012,Change in open space per capita,,RP,-0.8
+2013,Change in open space per capita,,RP,-1.0
+2014,Change in open space per capita,,RP,-1.1
+2015,Change in open space per capita,,RP,-0.6
+2016,Change in open space per capita,,RP,-0.8
+2010,Change in open space per capita,,SH,-5.5
+2011,Change in open space per capita,,SH,-4.6
+2012,Change in open space per capita,,SH,-4.3
+2013,Change in open space per capita,,SH,-4.1
+2014,Change in open space per capita,,SH,-4.1
+2015,Change in open space per capita,,SH,-3.4
+2016,Change in open space per capita,,SH,-3.0
+2010,Change in open space per capita,,SL,-2.7
+2011,Change in open space per capita,,SL,-2.5
+2012,Change in open space per capita,,SL,-2.5
+2013,Change in open space per capita,,SL,-2.0
+2014,Change in open space per capita,,SL,-1.3
+2015,Change in open space per capita,,SL,-1.3
+2016,Change in open space per capita,,SL,-3.4
+2010,Change in open space per capita,,SN,-7.6
+2011,Change in open space per capita,,SN,-6.6
+2012,Change in open space per capita,,SN,-6.3
+2013,Change in open space per capita,,SN,-4.8
+2014,Change in open space per capita,,SN,-8.7
+2015,Change in open space per capita,,SN,-6.5
+2016,Change in open space per capita,,SN,-6.0
+2010,Change in open space per capita,,ST,-0.8
+2011,Change in open space per capita,,ST,-0.3
+2012,Change in open space per capita,,ST,0.9
+2013,Change in open space per capita,,ST,1.0
+2014,Change in open space per capita,,ST,-0.3
+2015,Change in open space per capita,,ST,-0.8
+2016,Change in open space per capita,,ST,-1.7
+2010,Change in open space per capita,,TH,-4.4
+2011,Change in open space per capita,,TH,-5.7
+2012,Change in open space per capita,,TH,-6.9
+2013,Change in open space per capita,,TH,-7.0
+2014,Change in open space per capita,,TH,-9.0
+2015,Change in open space per capita,,TH,-7.9
+2016,Change in open space per capita,,TH,-9.4
+2004,Change in open space per capita,Rural areas,,-1.8
+2005,Change in open space per capita,Rural areas,,-1.77
+2006,Change in open space per capita,Rural areas,,-1.74
+2007,Change in open space per capita,Rural areas,,-1.7
+2008,Change in open space per capita,Rural areas,,-1.67
+2009,Change in open space per capita,Rural areas,,-1.55
+2010,Change in open space per capita,Rural areas,,-1.47
+2011,Change in open space per capita,Rural areas,,-1.39
+2012,Change in open space per capita,Rural areas,,-1.23
+2013,Change in open space per capita,Rural areas,,-1.18
+2014,Change in open space per capita,Rural areas,,-1.05
+2015,Change in open space per capita,Rural areas,,-0.95
+2004,Change in open space per capita,Non-rural areas,,-7.45
+2005,Change in open space per capita,Non-rural areas,,-7.26
+2006,Change in open space per capita,Non-rural areas,,-7.08
+2007,Change in open space per capita,Non-rural areas,,-6.91
+2008,Change in open space per capita,Non-rural areas,,-6.74
+2009,Change in open space per capita,Non-rural areas,,-6.36
+2010,Change in open space per capita,Non-rural areas,,-5.91
+2011,Change in open space per capita,Non-rural areas,,-6.31
+2012,Change in open space per capita,Non-rural areas,,-5.7
+2013,Change in open space per capita,Non-rural areas,,-5.46
+2014,Change in open space per capita,Non-rural areas,,-5.66
+2015,Change in open space per capita,Non-rural areas,,-4.32

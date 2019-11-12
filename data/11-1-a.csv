@@ -1,51 +1,195 @@
-Year,Units,Display,timeseries,age,region,GeoCode,Value
-2003,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,22.5
-2004,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,23.5
-2005,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,20.0
-2007,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,17.7
-2008,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,15.4
-2010,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,12.9
-2011,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,11.7
-2012,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,12.0
-2014,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,9.7
-2015,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,7.8
-2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,7.4
-2030,share of all persons in the respective age group in %,b) target (min),adolescent and adult smokers,adolescents (12 to 17 years),,,7.0
-2001,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,27.5
-2003,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,27.4
-2005,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,27.2
-2009,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,25.7
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,24.5
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),brandenburg,code12,25.8
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),brandenburg,code12,24.5
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),berlin,code11,28.9
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),berlin,code11,25.5
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),baden-wuerttemberg,code08,22.2
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),baden-wuerttemberg,code08,21.2
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),bavaria,code09,22.1
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),bavaria,code09,20.5
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),bremen,code04,27.8
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),bremen,code04,27.4
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),hesse,code06,23.4
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),hesse,code06,21.1
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),hamburg,code02,25.6
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),hamburg,code02,32.2
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),mecklenburg western pomerania,code13,28.2
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),mecklenburg western pomerania,code13,27.7
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),lower saxony,code03,24.7
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),lower saxony,code03,22.9
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),north rhine-westphalia,code05,25.9
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),north rhine-westphalia,code05,22.6
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),rhineland palatinate,code07,23.9
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),rhineland palatinate,code07,21.7
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),schleswig-holstein,code01,25.9
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),schleswig-holstein,code01,23.5
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),saarland,code10,23.5
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),saarland,code10,20.6
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),saxony,code14,22.7
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),saxony,code14,21.4
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),saxony-anhalt,code15,27.8
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),saxony-anhalt,code15,24.8
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),thuringia,code16,26.1
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),thuringia,code16,26.2
-2030,share of all persons in the respective age group in %,b) target (min),adolescent and adult smokers,adults (15 years and older),,,19.0
+Year,title,display,dimension,Bundesland,Value
+1996,Expansion of settlement and transport area,Time series,"Recreation area, cemeteries",,8.69
+1997,Expansion of settlement and transport area,Time series,"Recreation area, cemeteries",,20.2
+1998,Expansion of settlement and transport area,Time series,"Recreation area, cemeteries",,20.56
+1999,Expansion of settlement and transport area,Time series,"Recreation area, cemeteries",,20.57
+2000,Expansion of settlement and transport area,Time series,"Recreation area, cemeteries",,20.8
+2001,Expansion of settlement and transport area,Time series,"Recreation area, cemeteries",,28.49
+2002,Expansion of settlement and transport area,Time series,"Recreation area, cemeteries",,21.1
+2003,Expansion of settlement and transport area,Time series,"Recreation area, cemeteries",,33.42
+2004,Expansion of settlement and transport area,Time series,"Recreation area, cemeteries",,45.72
+2005,Expansion of settlement and transport area,Time series,"Recreation area, cemeteries",,56.99
+2006,Expansion of settlement and transport area,Time series,"Recreation area, cemeteries",,51.78
+2007,Expansion of settlement and transport area,Time series,"Recreation area, cemeteries",,32.6
+2008,Expansion of settlement and transport area,Time series,"Recreation area, cemeteries",,38.62
+2009,Expansion of settlement and transport area,Time series,"Recreation area, cemeteries",,32.05
+2010,Expansion of settlement and transport area,Time series,"Recreation area, cemeteries",,23.29
+2011,Expansion of settlement and transport area,Time series,"Recreation area, cemeteries",,27.06
+2012,Expansion of settlement and transport area,Time series,"Recreation area, cemeteries",,18.49
+2013,Expansion of settlement and transport area,Time series,"Recreation area, cemeteries",,23.06
+2014,Expansion of settlement and transport area,Time series,"Recreation area, cemeteries",,17.93
+2015,Expansion of settlement and transport area,Time series,"Recreation area, cemeteries",,11.61
+1996,Expansion of settlement and transport area,Time series,"Building and adjacent open area, commercial/ industrial area",,87.2
+1997,Expansion of settlement and transport area,Time series,"Building and adjacent open area, commercial/ industrial area",,83.41
+1998,Expansion of settlement and transport area,Time series,"Building and adjacent open area, commercial/ industrial area",,86.76
+1999,Expansion of settlement and transport area,Time series,"Building and adjacent open area, commercial/ industrial area",,86.78
+2000,Expansion of settlement and transport area,Time series,"Building and adjacent open area, commercial/ industrial area",,86.93
+2001,Expansion of settlement and transport area,Time series,"Building and adjacent open area, commercial/ industrial area",,69.86
+2002,Expansion of settlement and transport area,Time series,"Building and adjacent open area, commercial/ industrial area",,65.75
+2003,Expansion of settlement and transport area,Time series,"Building and adjacent open area, commercial/ industrial area",,44.93
+2004,Expansion of settlement and transport area,Time series,"Building and adjacent open area, commercial/ industrial area",,60.11
+2005,Expansion of settlement and transport area,Time series,"Building and adjacent open area, commercial/ industrial area",,34.62
+2006,Expansion of settlement and transport area,Time series,"Building and adjacent open area, commercial/ industrial area",,29.59
+2007,Expansion of settlement and transport area,Time series,"Building and adjacent open area, commercial/ industrial area",,39.73
+2008,Expansion of settlement and transport area,Time series,"Building and adjacent open area, commercial/ industrial area",,34.97
+2009,Expansion of settlement and transport area,Time series,"Building and adjacent open area, commercial/ industrial area",,27.95
+2010,Expansion of settlement and transport area,Time series,"Building and adjacent open area, commercial/ industrial area",,33.15
+2011,Expansion of settlement and transport area,Time series,"Building and adjacent open area, commercial/ industrial area",,29.61
+2012,Expansion of settlement and transport area,Time series,"Building and adjacent open area, commercial/ industrial area",,40.0
+2013,Expansion of settlement and transport area,Time series,"Building and adjacent open area, commercial/ industrial area",,29.01
+2014,Expansion of settlement and transport area,Time series,"Building and adjacent open area, commercial/ industrial area",,21.91
+2015,Expansion of settlement and transport area,Time series,"Building and adjacent open area, commercial/ industrial area",,39.63
+1996,Expansion of settlement and transport area,Time series,Transport area,,23.61
+1997,Expansion of settlement and transport area,Time series,Transport area,,20.64
+1998,Expansion of settlement and transport area,Time series,Transport area,,23.3
+1999,Expansion of settlement and transport area,Time series,Transport area,,23.31
+2000,Expansion of settlement and transport area,Time series,Transport area,,23.64
+2001,Expansion of settlement and transport area,Time series,Transport area,,22.47
+2002,Expansion of settlement and transport area,Time series,Transport area,,22.47
+2003,Expansion of settlement and transport area,Time series,Transport area,,20.27
+2004,Expansion of settlement and transport area,Time series,Transport area,,24.59
+2005,Expansion of settlement and transport area,Time series,Transport area,,25.21
+2006,Expansion of settlement and transport area,Time series,Transport area,,24.11
+2007,Expansion of settlement and transport area,Time series,Transport area,,24.38
+2008,Expansion of settlement and transport area,Time series,Transport area,,21.49
+2009,Expansion of settlement and transport area,Time series,Transport area,,18.08
+2010,Expansion of settlement and transport area,Time series,Transport area,,20.55
+2011,Expansion of settlement and transport area,Time series,Transport area,,16.95
+2012,Expansion of settlement and transport area,Time series,Transport area,,10.86
+2013,Expansion of settlement and transport area,Time series,Transport area,,18.52
+2014,Expansion of settlement and transport area,Time series,Transport area,,23.44
+2015,Expansion of settlement and transport area,Time series,Transport area,,9.77
+1996,Expansion of settlement and transport area,Time series,Settlement and transport area (total),,119.58
+1997,Expansion of settlement and transport area,Time series,Settlement and transport area (total),,124.25
+1998,Expansion of settlement and transport area,Time series,Settlement and transport area (total),,130.62
+1999,Expansion of settlement and transport area,Time series,Settlement and transport area (total),,130.65
+2000,Expansion of settlement and transport area,Time series,Settlement and transport area (total),,131.1
+2001,Expansion of settlement and transport area,Time series,Settlement and transport area (total),,121.1
+2002,Expansion of settlement and transport area,Time series,Settlement and transport area (total),,109.32
+2003,Expansion of settlement and transport area,Time series,Settlement and transport area (total),,98.9
+2004,Expansion of settlement and transport area,Time series,Settlement and transport area (total),,131.15
+2005,Expansion of settlement and transport area,Time series,Settlement and transport area (total),,117.53
+2006,Expansion of settlement and transport area,Time series,Settlement and transport area (total),,105.75
+2007,Expansion of settlement and transport area,Time series,Settlement and transport area (total),,96.71
+2008,Expansion of settlement and transport area,Time series,Settlement and transport area (total),,95.08
+2009,Expansion of settlement and transport area,Time series,Settlement and transport area (total),,78.08
+2010,Expansion of settlement and transport area,Time series,Settlement and transport area (total),,76.71
+2011,Expansion of settlement and transport area,Time series,Settlement and transport area (total),,73.62
+2012,Expansion of settlement and transport area,Time series,Settlement and transport area (total),,69.35
+2013,Expansion of settlement and transport area,Time series,Settlement and transport area (total),,70.59
+2014,Expansion of settlement and transport area,Time series,Settlement and transport area (total),,63.27
+2015,Expansion of settlement and transport area,Time series,Settlement and transport area (total),,61.01
+2010,Expansion of settlement and transport area,Time series,Settlement and transport area (total),BB,4.8
+2011,Expansion of settlement and transport area,Time series,Settlement and transport area (total),BB,3.2
+2012,Expansion of settlement and transport area,Time series,Settlement and transport area (total),BB,3.6
+2013,Expansion of settlement and transport area,Time series,Settlement and transport area (total),BB,11.2
+2014,Expansion of settlement and transport area,Time series,Settlement and transport area (total),BB,2.9
+2015,Expansion of settlement and transport area,Time series,Settlement and transport area (total),BB,1.9
+2010,Expansion of settlement and transport area,Time series,Settlement and transport area (total),BE,0.3
+2011,Expansion of settlement and transport area,Time series,Settlement and transport area (total),BE,0.2
+2012,Expansion of settlement and transport area,Time series,Settlement and transport area (total),BE,-0.6
+2013,Expansion of settlement and transport area,Time series,Settlement and transport area (total),BE,0.3
+2014,Expansion of settlement and transport area,Time series,Settlement and transport area (total),BE,0.0
+2015,Expansion of settlement and transport area,Time series,Settlement and transport area (total),BE,0.0
+2010,Expansion of settlement and transport area,Time series,Settlement and transport area (total),BW,6.7
+2011,Expansion of settlement and transport area,Time series,Settlement and transport area (total),BW,6.3
+2012,Expansion of settlement and transport area,Time series,Settlement and transport area (total),BW,6.7
+2013,Expansion of settlement and transport area,Time series,Settlement and transport area (total),BW,5.3
+2014,Expansion of settlement and transport area,Time series,Settlement and transport area (total),BW,5.2
+2015,Expansion of settlement and transport area,Time series,Settlement and transport area (total),BW,5.2
+2010,Expansion of settlement and transport area,Time series,Settlement and transport area (total),BY,20.8
+2011,Expansion of settlement and transport area,Time series,Settlement and transport area (total),BY,18.0
+2012,Expansion of settlement and transport area,Time series,Settlement and transport area (total),BY,12.0
+2013,Expansion of settlement and transport area,Time series,Settlement and transport area (total),BY,12.6
+2014,Expansion of settlement and transport area,Time series,Settlement and transport area (total),BY,10.8
+2015,Expansion of settlement and transport area,Time series,Settlement and transport area (total),BY,13.1
+2010,Expansion of settlement and transport area,Time series,Settlement and transport area (total),HB,0.2
+2011,Expansion of settlement and transport area,Time series,Settlement and transport area (total),HB,0.2
+2012,Expansion of settlement and transport area,Time series,Settlement and transport area (total),HB,0.6
+2013,Expansion of settlement and transport area,Time series,Settlement and transport area (total),HB,0.0
+2014,Expansion of settlement and transport area,Time series,Settlement and transport area (total),HB,0.1
+2015,Expansion of settlement and transport area,Time series,Settlement and transport area (total),HB,0.0
+2010,Expansion of settlement and transport area,Time series,Settlement and transport area (total),HE,3.6
+2011,Expansion of settlement and transport area,Time series,Settlement and transport area (total),HE,1.4
+2012,Expansion of settlement and transport area,Time series,Settlement and transport area (total),HE,3.7
+2013,Expansion of settlement and transport area,Time series,Settlement and transport area (total),HE,2.2
+2014,Expansion of settlement and transport area,Time series,Settlement and transport area (total),HE,3.6
+2015,Expansion of settlement and transport area,Time series,Settlement and transport area (total),HE,2.5
+2010,Expansion of settlement and transport area,Time series,Settlement and transport area (total),HH,0.2
+2011,Expansion of settlement and transport area,Time series,Settlement and transport area (total),HH,0.0
+2012,Expansion of settlement and transport area,Time series,Settlement and transport area (total),HH,0.2
+2013,Expansion of settlement and transport area,Time series,Settlement and transport area (total),HH,0.4
+2014,Expansion of settlement and transport area,Time series,Settlement and transport area (total),HH,-0.6
+2015,Expansion of settlement and transport area,Time series,Settlement and transport area (total),HH,-0.9
+2010,Expansion of settlement and transport area,Time series,Settlement and transport area (total),MV,7.1
+2011,Expansion of settlement and transport area,Time series,Settlement and transport area (total),MV,2.7
+2012,Expansion of settlement and transport area,Time series,Settlement and transport area (total),MV,3.1
+2013,Expansion of settlement and transport area,Time series,Settlement and transport area (total),MV,2.1
+2010,Expansion of settlement and transport area,Time series,Settlement and transport area (total),NI,8.0
+2011,Expansion of settlement and transport area,Time series,Settlement and transport area (total),NI,14.8
+2012,Expansion of settlement and transport area,Time series,Settlement and transport area (total),NI,9.8
+2013,Expansion of settlement and transport area,Time series,Settlement and transport area (total),NI,9.2
+2014,Expansion of settlement and transport area,Time series,Settlement and transport area (total),NI,10.3
+2015,Expansion of settlement and transport area,Time series,Settlement and transport area (total),NI,9.5
+2010,Expansion of settlement and transport area,Time series,Settlement and transport area (total),NW,11.5
+2011,Expansion of settlement and transport area,Time series,Settlement and transport area (total),NW,10.0
+2012,Expansion of settlement and transport area,Time series,Settlement and transport area (total),NW,10.4
+2013,Expansion of settlement and transport area,Time series,Settlement and transport area (total),NW,9.3
+2014,Expansion of settlement and transport area,Time series,Settlement and transport area (total),NW,9.0
+2015,Expansion of settlement and transport area,Time series,Settlement and transport area (total),NW,9.3
+2010,Expansion of settlement and transport area,Time series,Settlement and transport area (total),RP,0.5
+2011,Expansion of settlement and transport area,Time series,Settlement and transport area (total),RP,1.0
+2012,Expansion of settlement and transport area,Time series,Settlement and transport area (total),RP,1.5
+2013,Expansion of settlement and transport area,Time series,Settlement and transport area (total),RP,1.4
+2014,Expansion of settlement and transport area,Time series,Settlement and transport area (total),RP,0.6
+2015,Expansion of settlement and transport area,Time series,Settlement and transport area (total),RP,-1.0
+2010,Expansion of settlement and transport area,Time series,Settlement and transport area (total),SH,3.0
+2011,Expansion of settlement and transport area,Time series,Settlement and transport area (total),SH,4.8
+2012,Expansion of settlement and transport area,Time series,Settlement and transport area (total),SH,2.3
+2013,Expansion of settlement and transport area,Time series,Settlement and transport area (total),SH,2.7
+2014,Expansion of settlement and transport area,Time series,Settlement and transport area (total),SH,2.9
+2015,Expansion of settlement and transport area,Time series,Settlement and transport area (total),SH,2.8
+2010,Expansion of settlement and transport area,Time series,Settlement and transport area (total),SL,1.0
+2011,Expansion of settlement and transport area,Time series,Settlement and transport area (total),SL,0.5
+2012,Expansion of settlement and transport area,Time series,Settlement and transport area (total),SL,0.3
+2013,Expansion of settlement and transport area,Time series,Settlement and transport area (total),SL,0.3
+2014,Expansion of settlement and transport area,Time series,Settlement and transport area (total),SL,0.4
+2015,Expansion of settlement and transport area,Time series,Settlement and transport area (total),SL,0.1
+2010,Expansion of settlement and transport area,Time series,Settlement and transport area (total),SN,6.9
+2011,Expansion of settlement and transport area,Time series,Settlement and transport area (total),SN,6.0
+2012,Expansion of settlement and transport area,Time series,Settlement and transport area (total),SN,5.7
+2013,Expansion of settlement and transport area,Time series,Settlement and transport area (total),SN,2.9
+2010,Expansion of settlement and transport area,Time series,Settlement and transport area (total),ST,-1.6
+2011,Expansion of settlement and transport area,Time series,Settlement and transport area (total),ST,-0.6
+2012,Expansion of settlement and transport area,Time series,Settlement and transport area (total),ST,-0.4
+2013,Expansion of settlement and transport area,Time series,Settlement and transport area (total),ST,0.2
+2014,Expansion of settlement and transport area,Time series,Settlement and transport area (total),ST,1.8
+2015,Expansion of settlement and transport area,Time series,Settlement and transport area (total),ST,0.5
+2010,Expansion of settlement and transport area,Time series,Settlement and transport area (total),TH,3.7
+2011,Expansion of settlement and transport area,Time series,Settlement and transport area (total),TH,5.1
+2012,Expansion of settlement and transport area,Time series,Settlement and transport area (total),TH,5.4
+2013,Expansion of settlement and transport area,Time series,Settlement and transport area (total),TH,2.6
+2014,Expansion of settlement and transport area,Time series,Settlement and transport area (total),TH,8.3
+2015,Expansion of settlement and transport area,Time series,Settlement and transport area (total),TH,2.5
+1996,Expansion of settlement and transport area,Time series,"Settlement and transport area (total, moving four-year average)",,119.6
+1997,Expansion of settlement and transport area,Time series,"Settlement and transport area (total, moving four-year average)",,120.7
+1998,Expansion of settlement and transport area,Time series,"Settlement and transport area (total, moving four-year average)",,123.5
+1999,Expansion of settlement and transport area,Time series,"Settlement and transport area (total, moving four-year average)",,126.3
+2000,Expansion of settlement and transport area,Time series,"Settlement and transport area (total, moving four-year average)",,129.1
+2001,Expansion of settlement and transport area,Time series,"Settlement and transport area (total, moving four-year average)",,128.3
+2002,Expansion of settlement and transport area,Time series,"Settlement and transport area (total, moving four-year average)",,123.1
+2003,Expansion of settlement and transport area,Time series,"Settlement and transport area (total, moving four-year average)",,115.1
+2004,Expansion of settlement and transport area,Time series,"Settlement and transport area (total, moving four-year average)",,115.1
+2005,Expansion of settlement and transport area,Time series,"Settlement and transport area (total, moving four-year average)",,114.3
+2006,Expansion of settlement and transport area,Time series,"Settlement and transport area (total, moving four-year average)",,113.3
+2007,Expansion of settlement and transport area,Time series,"Settlement and transport area (total, moving four-year average)",,112.8
+2008,Expansion of settlement and transport area,Time series,"Settlement and transport area (total, moving four-year average)",,103.8
+2009,Expansion of settlement and transport area,Time series,"Settlement and transport area (total, moving four-year average)",,93.9
+2010,Expansion of settlement and transport area,Time series,"Settlement and transport area (total, moving four-year average)",,86.6
+2011,Expansion of settlement and transport area,Time series,"Settlement and transport area (total, moving four-year average)",,80.9
+2012,Expansion of settlement and transport area,Time series,"Settlement and transport area (total, moving four-year average)",,74.4
+2013,Expansion of settlement and transport area,Time series,"Settlement and transport area (total, moving four-year average)",,72.6
+2014,Expansion of settlement and transport area,Time series,"Settlement and transport area (total, moving four-year average)",,69.2
+2015,Expansion of settlement and transport area,Time series,"Settlement and transport area (total, moving four-year average)",,66.1
+2016,Expansion of settlement and transport area,Time series,"Settlement and transport area (total, moving four-year average)",,61.5
+2030,Expansion of settlement and transport area,Target,,,30.0
