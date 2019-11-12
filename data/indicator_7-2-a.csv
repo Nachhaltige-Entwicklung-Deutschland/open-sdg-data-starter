@@ -1,7 +1,104 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,title,display,dimension,Bundesland,Value
+1990,Generation of renewable energies relative to gross final energy consumption,Time series, ,,2.0
+1993,Generation of renewable energies relative to gross final energy consumption,Time series, ,,2.1
+1995,Generation of renewable energies relative to gross final energy consumption,Time series, ,,2.2
+1996,Generation of renewable energies relative to gross final energy consumption,Time series, ,,2.1
+1997,Generation of renewable energies relative to gross final energy consumption,Time series, ,,2.8
+1998,Generation of renewable energies relative to gross final energy consumption,Time series, ,,3.2
+1999,Generation of renewable energies relative to gross final energy consumption,Time series, ,,3.4
+2000,Generation of renewable energies relative to gross final energy consumption,Time series, ,,3.7
+2001,Generation of renewable energies relative to gross final energy consumption,Time series, ,,4.0
+2002,Generation of renewable energies relative to gross final energy consumption,Time series, ,,4.4
+2003,Generation of renewable energies relative to gross final energy consumption,Time series, ,,5.8
+2004,Generation of renewable energies relative to gross final energy consumption,Time series, ,,6.5
+2005,Generation of renewable energies relative to gross final energy consumption,Time series, ,,7.2
+2006,Generation of renewable energies relative to gross final energy consumption,Time series, ,,8.4
+2007,Generation of renewable energies relative to gross final energy consumption,Time series, ,,10.2
+2008,Generation of renewable energies relative to gross final energy consumption,Time series, ,,9.9
+2009,Generation of renewable energies relative to gross final energy consumption,Time series, ,,10.4
+2010,Generation of renewable energies relative to gross final energy consumption,Time series, ,,11.4
+2011,Generation of renewable energies relative to gross final energy consumption,Time series, ,,12.5
+2012,Generation of renewable energies relative to gross final energy consumption,Time series, ,,13.8
+2013,Generation of renewable energies relative to gross final energy consumption,Time series, ,,13.9
+2014,Generation of renewable energies relative to gross final energy consumption,Time series, ,,14.3
+2015,Generation of renewable energies relative to gross final energy consumption,Time series, ,,15.0
+2016,Generation of renewable energies relative to gross final energy consumption,Time series, ,,14.8
+2017,Generation of renewable energies relative to gross final energy consumption,Time series, ,,15.6
+2020,Generation of renewable energies relative to gross final energy consumption,Target,,,18.0
+2030,Generation of renewable energies relative to gross final energy consumption,Target,,,30.0
+2050,Generation of renewable energies relative to gross final energy consumption,Target,,,60.0
+2010,Generation of renewable energies relative to gross final energy consumption,Time series,,BB,23.0
+2011,Generation of renewable energies relative to gross final energy consumption,Time series,,BB,26.2
+2012,Generation of renewable energies relative to gross final energy consumption,Time series,,BB,26.8
+2013,Generation of renewable energies relative to gross final energy consumption,Time series,,BB,28.2
+2014,Generation of renewable energies relative to gross final energy consumption,Time series,,BB,28.3
+2010,Generation of renewable energies relative to gross final energy consumption,Time series,,BE,1.9
+2011,Generation of renewable energies relative to gross final energy consumption,Time series,,BE,2.1
+2012,Generation of renewable energies relative to gross final energy consumption,Time series,,BE,2.3
+2013,Generation of renewable energies relative to gross final energy consumption,Time series,,BE,2.5
+2014,Generation of renewable energies relative to gross final energy consumption,Time series,,BE,2.5
+2010,Generation of renewable energies relative to gross final energy consumption,Time series,,BW,11.3
+2011,Generation of renewable energies relative to gross final energy consumption,Time series,,BW,11.4
+2012,Generation of renewable energies relative to gross final energy consumption,Time series,,BW,12.5
+2013,Generation of renewable energies relative to gross final energy consumption,Time series,,BW,12.6
+2014,Generation of renewable energies relative to gross final energy consumption,Time series,,BW,13.1
+2015,Generation of renewable energies relative to gross final energy consumption,Time series,,BW,12.9
+2010,Generation of renewable energies relative to gross final energy consumption,Time series,,BY,14.6
+2011,Generation of renewable energies relative to gross final energy consumption,Time series,,BY,15.4
+2012,Generation of renewable energies relative to gross final energy consumption,Time series,,BY,17.7
+2013,Generation of renewable energies relative to gross final energy consumption,Time series,,BY,18.2
+2014,Generation of renewable energies relative to gross final energy consumption,Time series,,BY,18.3
+2010,Generation of renewable energies relative to gross final energy consumption,Time series,,HB,3.1
+2011,Generation of renewable energies relative to gross final energy consumption,Time series,,HB,3.4
+2012,Generation of renewable energies relative to gross final energy consumption,Time series,,HB,3.5
+2010,Generation of renewable energies relative to gross final energy consumption,Time series,,HE,7.5
+2011,Generation of renewable energies relative to gross final energy consumption,Time series,,HE,8.1
+2012,Generation of renewable energies relative to gross final energy consumption,Time series,,HE,8.3
+2013,Generation of renewable energies relative to gross final energy consumption,Time series,,HE,8.7
+2014,Generation of renewable energies relative to gross final energy consumption,Time series,,HE,8.7
+2015,Generation of renewable energies relative to gross final energy consumption,Time series,,HE,9.4
+2010,Generation of renewable energies relative to gross final energy consumption,Time series,,HH,3.4
+2011,Generation of renewable energies relative to gross final energy consumption,Time series,,HH,3.9
+2012,Generation of renewable energies relative to gross final energy consumption,Time series,,HH,4.0
+2013,Generation of renewable energies relative to gross final energy consumption,Time series,,HH,3.9
+2014,Generation of renewable energies relative to gross final energy consumption,Time series,,HH,4.4
+2010,Generation of renewable energies relative to gross final energy consumption,Time series,,NI,11.7
+2011,Generation of renewable energies relative to gross final energy consumption,Time series,,NI,13.1
+2012,Generation of renewable energies relative to gross final energy consumption,Time series,,NI,14.7
+2013,Generation of renewable energies relative to gross final energy consumption,Time series,,NI,14.8
+2014,Generation of renewable energies relative to gross final energy consumption,Time series,,NI,15.3
+2015,Generation of renewable energies relative to gross final energy consumption,Time series,,NI,17.8
+2010,Generation of renewable energies relative to gross final energy consumption,Time series,,NW,3.7
+2011,Generation of renewable energies relative to gross final energy consumption,Time series,,NW,3.8
+2012,Generation of renewable energies relative to gross final energy consumption,Time series,,NW,3.8
+2013,Generation of renewable energies relative to gross final energy consumption,Time series,,NW,3.8
+2014,Generation of renewable energies relative to gross final energy consumption,Time series,,NW,4.1
+2010,Generation of renewable energies relative to gross final energy consumption,Time series,,RP,10.4
+2011,Generation of renewable energies relative to gross final energy consumption,Time series,,RP,11.1
+2012,Generation of renewable energies relative to gross final energy consumption,Time series,,RP,12.2
+2013,Generation of renewable energies relative to gross final energy consumption,Time series,,RP,12.9
+2014,Generation of renewable energies relative to gross final energy consumption,Time series,,RP,12.9
+2015,Generation of renewable energies relative to gross final energy consumption,Time series,,RP,14.3
+2010,Generation of renewable energies relative to gross final energy consumption,Time series,,SH,14.9
+2011,Generation of renewable energies relative to gross final energy consumption,Time series,,SH,17.4
+2012,Generation of renewable energies relative to gross final energy consumption,Time series,,SH,19.2
+2013,Generation of renewable energies relative to gross final energy consumption,Time series,,SH,19.2
+2014,Generation of renewable energies relative to gross final energy consumption,Time series,,SH,22.4
+2015,Generation of renewable energies relative to gross final energy consumption,Time series,,SH,29.5
+2010,Generation of renewable energies relative to gross final energy consumption,Time series,,SL,3.2
+2011,Generation of renewable energies relative to gross final energy consumption,Time series,,SL,3.1
+2012,Generation of renewable energies relative to gross final energy consumption,Time series,,SL,3.1
+2010,Generation of renewable energies relative to gross final energy consumption,Time series,,SN,9.0
+2011,Generation of renewable energies relative to gross final energy consumption,Time series,,SN,10.0
+2012,Generation of renewable energies relative to gross final energy consumption,Time series,,SN,10.2
+2013,Generation of renewable energies relative to gross final energy consumption,Time series,,SN,10.6
+2010,Generation of renewable energies relative to gross final energy consumption,Time series,,ST,18.2
+2011,Generation of renewable energies relative to gross final energy consumption,Time series,,ST,20.6
+2012,Generation of renewable energies relative to gross final energy consumption,Time series,,ST,20.8
+2013,Generation of renewable energies relative to gross final energy consumption,Time series,,ST,21.9
+2014,Generation of renewable energies relative to gross final energy consumption,Time series,,ST,22.9
+2015,Generation of renewable energies relative to gross final energy consumption,Time series,,ST,25.7
+2010,Generation of renewable energies relative to gross final energy consumption,Time series,,TH,16.5
+2011,Generation of renewable energies relative to gross final energy consumption,Time series,,TH,17.1
+2012,Generation of renewable energies relative to gross final energy consumption,Time series,,TH,16.9
+2013,Generation of renewable energies relative to gross final energy consumption,Time series,,TH,18.0

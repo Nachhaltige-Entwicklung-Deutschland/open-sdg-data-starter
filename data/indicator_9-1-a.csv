@@ -1,51 +1,124 @@
-Year,Units,Display,timeseries,age,region,GeoCode,Value
-2003,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,22.5
-2004,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,23.5
-2005,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,20
-2007,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,17.7
-2008,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,15.4
-2010,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,12.9
-2011,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,11.7
-2012,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,12
-2014,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,9.7
-2015,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,7.8
-2016,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adolescents (12 to 17 years),,,7.4
-2030,share of all persons in the respective age group in %,b) target (min),adolescent and adult smokers,adolescents (12 to 17 years),,,7
-2001,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,27.5
-2003,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,27.4
-2005,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,27.2
-2009,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,25.7
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),,,24.5
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),brandenburg,"code12",25.8
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),brandenburg,"code12",24.5
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),berlin,"code11",28.9
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),berlin,"code11",25.5
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),baden-wuerttemberg,"code08",22.2
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),baden-wuerttemberg,"code08",21.2
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),bavaria,"code09",22.1
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),bavaria,"code09",20.5
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),bremen,"code04",27.8
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),bremen,"code04",27.4
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),hesse,"code06",23.4
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),hesse,"code06",21.1
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),hamburg,"code02",25.6
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),hamburg,"code02",32.2
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),mecklenburg western pomerania,"code13",28.2
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),mecklenburg western pomerania,"code13",27.7
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),lower saxony,"code03",24.7
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),lower saxony,"code03",22.9
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),north rhine-westphalia,"code05",25.9
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),north rhine-westphalia,"code05",22.6
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),rhineland palatinate,"code07",23.9
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),rhineland palatinate,"code07",21.7
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),schleswig-holstein,"code01",25.9
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),schleswig-holstein,"code01",23.5
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),saarland,"code10",23.5
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),saarland,"code10",20.6
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),saxony,"code14",22.7
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),saxony,"code14",21.4
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),saxony-anhalt,"code15",27.8
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),saxony-anhalt,"code15",24.8
-2013,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),thuringia,"code16",26.1
-2017,share of all persons in the respective age group in %,a) time series,adolescent and adult smokers,adults (15 years and older),thuringia,"code16",26.2
-2030,share of all persons in the respective age group in %,b) target (min),adolescent and adult smokers,adults (15 years and older),,,19
+Year,title,display,dimension,Bundesland,Value
+1991,Private and public spending on research and development,Time series, ,,2.4
+1992,Private and public spending on research and development,Time series, ,,2.28
+1993,Private and public spending on research and development,Time series, ,,2.21
+1994,Private and public spending on research and development,Time series, ,,2.13
+1995,Private and public spending on research and development,Time series, ,,2.13
+1996,Private and public spending on research and development,Time series, ,,2.14
+1997,Private and public spending on research and development,Time series, ,,2.18
+1998,Private and public spending on research and development,Time series, ,,2.22
+1999,Private and public spending on research and development,Time series, ,,2.35
+2000,Private and public spending on research and development,Time series, ,,2.4
+2001,Private and public spending on research and development,Time series, ,,2.4
+2002,Private and public spending on research and development,Time series, ,,2.42
+2003,Private and public spending on research and development,Time series, ,,2.47
+2004,Private and public spending on research and development,Time series, ,,2.43
+2005,Private and public spending on research and development,Time series, ,,2.43
+2006,Private and public spending on research and development,Time series, ,,2.46
+2007,Private and public spending on research and development,Time series, ,,2.45
+2008,Private and public spending on research and development,Time series, ,,2.6
+2009,Private and public spending on research and development,Time series, ,,2.73
+2010,Private and public spending on research and development,Time series, ,,2.71
+2011,Private and public spending on research and development,Time series, ,,2.8
+2012,Private and public spending on research and development,Time series, ,,2.87
+2013,Private and public spending on research and development,Time series, ,,2.82
+2014,Private and public spending on research and development,Time series, ,,2.87
+2015,Private and public spending on research and development,Time series, ,,2.92
+2016,Private and public spending on research and development,Time series, ,,2.93
+2025,Private and public spending on research and development,Target,,,3.5
+2010,Private and public spending on research and development,Time series,,BB,1.42
+2011,Private and public spending on research and development,Time series,,BB,1.65
+2012,Private and public spending on research and development,Time series,,BB,1.65
+2013,Private and public spending on research and development,Time series,,BB,1.54
+2014,Private and public spending on research and development,Time series,,BB,1.58
+2015,Private and public spending on research and development,Time series,,BB,1.65
+2010,Private and public spending on research and development,Time series,,BE,3.43
+2011,Private and public spending on research and development,Time series,,BE,3.34
+2012,Private and public spending on research and development,Time series,,BE,3.43
+2013,Private and public spending on research and development,Time series,,BE,3.56
+2014,Private and public spending on research and development,Time series,,BE,3.65
+2015,Private and public spending on research and development,Time series,,BE,3.56
+2010,Private and public spending on research and development,Time series,,BW,4.43
+2011,Private and public spending on research and development,Time series,,BW,4.8
+2012,Private and public spending on research and development,Time series,,BW,4.92
+2013,Private and public spending on research and development,Time series,,BW,4.77
+2014,Private and public spending on research and development,Time series,,BW,4.91
+2015,Private and public spending on research and development,Time series,,BW,4.94
+2010,Private and public spending on research and development,Time series,,BY,3.03
+2011,Private and public spending on research and development,Time series,,BY,3.0
+2012,Private and public spending on research and development,Time series,,BY,3.1
+2013,Private and public spending on research and development,Time series,,BY,3.13
+2014,Private and public spending on research and development,Time series,,BY,3.17
+2015,Private and public spending on research and development,Time series,,BY,3.17
+2010,Private and public spending on research and development,Time series,,HB,2.64
+2011,Private and public spending on research and development,Time series,,HB,2.72
+2012,Private and public spending on research and development,Time series,,HB,2.62
+2013,Private and public spending on research and development,Time series,,HB,2.71
+2014,Private and public spending on research and development,Time series,,HB,2.85
+2015,Private and public spending on research and development,Time series,,HB,2.8
+2010,Private and public spending on research and development,Time series,,HE,2.98
+2011,Private and public spending on research and development,Time series,,HE,2.9
+2012,Private and public spending on research and development,Time series,,HE,3.01
+2013,Private and public spending on research and development,Time series,,HE,2.81
+2014,Private and public spending on research and development,Time series,,HE,2.88
+2015,Private and public spending on research and development,Time series,,HE,2.82
+2010,Private and public spending on research and development,Time series,,HH,2.09
+2011,Private and public spending on research and development,Time series,,HH,2.19
+2012,Private and public spending on research and development,Time series,,HH,2.24
+2013,Private and public spending on research and development,Time series,,HH,2.25
+2014,Private and public spending on research and development,Time series,,HH,2.35
+2015,Private and public spending on research and development,Time series,,HH,2.24
+2010,Private and public spending on research and development,Time series,,MV,1.97
+2011,Private and public spending on research and development,Time series,,MV,2.05
+2012,Private and public spending on research and development,Time series,,MV,2.1
+2013,Private and public spending on research and development,Time series,,MV,1.8
+2014,Private and public spending on research and development,Time series,,MV,1.88
+2015,Private and public spending on research and development,Time series,,MV,1.87
+2010,Private and public spending on research and development,Time series,,NI,2.57
+2011,Private and public spending on research and development,Time series,,NI,2.74
+2012,Private and public spending on research and development,Time series,,NI,2.79
+2013,Private and public spending on research and development,Time series,,NI,2.86
+2014,Private and public spending on research and development,Time series,,NI,2.91
+2015,Private and public spending on research and development,Time series,,NI,3.45
+2010,Private and public spending on research and development,Time series,,NW,1.94
+2011,Private and public spending on research and development,Time series,,NW,1.96
+2012,Private and public spending on research and development,Time series,,NW,2.04
+2013,Private and public spending on research and development,Time series,,NW,1.93
+2014,Private and public spending on research and development,Time series,,NW,1.99
+2015,Private and public spending on research and development,Time series,,NW,1.96
+2010,Private and public spending on research and development,Time series,,RP,2.01
+2011,Private and public spending on research and development,Time series,,RP,2.0
+2012,Private and public spending on research and development,Time series,,RP,2.01
+2013,Private and public spending on research and development,Time series,,RP,2.12
+2014,Private and public spending on research and development,Time series,,RP,2.14
+2015,Private and public spending on research and development,Time series,,RP,2.35
+2010,Private and public spending on research and development,Time series,,SH,1.3
+2011,Private and public spending on research and development,Time series,,SH,1.41
+2012,Private and public spending on research and development,Time series,,SH,1.43
+2013,Private and public spending on research and development,Time series,,SH,1.47
+2014,Private and public spending on research and development,Time series,,SH,1.53
+2015,Private and public spending on research and development,Time series,,SH,1.47
+2010,Private and public spending on research and development,Time series,,SL,1.29
+2011,Private and public spending on research and development,Time series,,SL,1.47
+2012,Private and public spending on research and development,Time series,,SL,1.46
+2013,Private and public spending on research and development,Time series,,SL,1.44
+2014,Private and public spending on research and development,Time series,,SL,1.42
+2015,Private and public spending on research and development,Time series,,SL,1.54
+2010,Private and public spending on research and development,Time series,,SN,2.78
+2011,Private and public spending on research and development,Time series,,SN,2.8
+2012,Private and public spending on research and development,Time series,,SN,2.8
+2013,Private and public spending on research and development,Time series,,SN,2.76
+2014,Private and public spending on research and development,Time series,,SN,2.67
+2015,Private and public spending on research and development,Time series,,SN,2.73
+2010,Private and public spending on research and development,Time series,,ST,1.4
+2011,Private and public spending on research and development,Time series,,ST,1.48
+2012,Private and public spending on research and development,Time series,,ST,1.4
+2013,Private and public spending on research and development,Time series,,ST,1.42
+2014,Private and public spending on research and development,Time series,,ST,1.46
+2015,Private and public spending on research and development,Time series,,ST,1.4
+2010,Private and public spending on research and development,Time series,,TH,2.16
+2011,Private and public spending on research and development,Time series,,TH,2.12
+2012,Private and public spending on research and development,Time series,,TH,2.19
+2013,Private and public spending on research and development,Time series,,TH,2.16
+2014,Private and public spending on research and development,Time series,,TH,2.13
+2015,Private and public spending on research and development,Time series,,TH,2.01
