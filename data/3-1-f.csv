@@ -19,7 +19,7 @@ Year,title,dimension,sex,Bundesland,GeoCode,Value
 2013,Share of adults suffering from obesity,,,SH,DEF,13.3
 2013,Share of adults suffering from obesity,,,SL,DEC,14.1
 2013,Share of adults suffering from obesity,,,SN,DED,14.3
-2013,Share of adults suffering from obesity,,,ST,DED,17.1
+2013,Share of adults suffering from obesity,,,ST,DEE,17.1
 2013,Share of adults suffering from obesity,,,TH,DEG,15.4
 1999,Share of adults suffering from obesity,,female,,,10.2
 2003,Share of adults suffering from obesity,,female,,,11.2
@@ -41,7 +41,7 @@ Year,title,dimension,sex,Bundesland,GeoCode,Value
 2013,Share of adults suffering from obesity,,female,SH,DEF,11.6
 2013,Share of adults suffering from obesity,,female,SL,DEC,11.8
 2013,Share of adults suffering from obesity,,female,SN,DED,14.3
-2013,Share of adults suffering from obesity,,female,ST,DED,16.8
+2013,Share of adults suffering from obesity,,female,ST,DEE,16.8
 2013,Share of adults suffering from obesity,,female,TH,DEG,14.9
 1999,Share of adults suffering from obesity,,male,,,11.1
 2003,Share of adults suffering from obesity,,male,,,12.3
@@ -63,5 +63,5 @@ Year,title,dimension,sex,Bundesland,GeoCode,Value
 2013,Share of adults suffering from obesity,,male,SH,DEF,14.9
 2013,Share of adults suffering from obesity,,male,SL,DEC,16.4
 2013,Share of adults suffering from obesity,,male,SN,DED,14.3
-2013,Share of adults suffering from obesity,,male,ST,DED,17.5
+2013,Share of adults suffering from obesity,,male,ST,DEE,17.5
 2013,Share of adults suffering from obesity,,male,TH,DEG,15.9
