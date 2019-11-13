@@ -1,74 +1,74 @@
 Year,display,title,air pollutants,Value
-2005,time series,emissions of air pollutants,,100.0
-2006,time series,emissions of air pollutants,,99.58
-2007,time series,emissions of air pollutants,,96.3
-2008,time series,emissions of air pollutants,,93.63
-2009,time series,emissions of air pollutants,,88.04
-2010,time series,emissions of air pollutants,,91.12
-2011,time series,emissions of air pollutants,,89.43
-2012,time series,emissions of air pollutants,,86.44
-2013,time series,emissions of air pollutants,,86.33
-2014,time series,emissions of air pollutants,,83.29
-2015,time series,emissions of air pollutants,,83.54
-2016,time series,emissions of air pollutants,,82.5
-2030,target,emissions of air pollutants,,55.0
-2005,time series,emissions of air pollutants,nh3,100.0
-2006,time series,emissions of air pollutants,nh3,100.12
-2007,time series,emissions of air pollutants,nh3,100.48
-2008,time series,emissions of air pollutants,nh3,101.31
-2009,time series,emissions of air pollutants,nh3,103.34
-2010,time series,emissions of air pollutants,nh3,100.09
-2011,time series,emissions of air pollutants,nh3,104.91
-2012,time series,emissions of air pollutants,nh3,102.95
-2013,time series,emissions of air pollutants,nh3,105.58
-2014,time series,emissions of air pollutants,nh3,105.83
-2015,time series,emissions of air pollutants,nh3,107.23
-2016,time series,emissions of air pollutants,nh3,105.99
-2005,time series,emissions of air pollutants,pm2.5,100.0
-2006,time series,emissions of air pollutants,pm2.5,97.17
-2007,time series,emissions of air pollutants,pm2.5,93.26
-2008,time series,emissions of air pollutants,pm2.5,88.63
-2009,time series,emissions of air pollutants,pm2.5,84.1
-2010,time series,emissions of air pollutants,pm2.5,89.66
-2011,time series,emissions of air pollutants,pm2.5,85.94
-2012,time series,emissions of air pollutants,pm2.5,81.19
-2013,time series,emissions of air pollutants,pm2.5,80.94
-2014,time series,emissions of air pollutants,pm2.5,76.95
-2015,time series,emissions of air pollutants,pm2.5,76.42
-2016,time series,emissions of air pollutants,pm2.5,74.66
-2005,time series,emissions of air pollutants,nox,100.0
-2006,time series,emissions of air pollutants,nox,99.41
-2007,time series,emissions of air pollutants,nox,95.02
-2008,time series,emissions of air pollutants,nox,90.5
-2009,time series,emissions of air pollutants,nox,84.34
-2010,time series,emissions of air pollutants,nox,86.04
-2011,time series,emissions of air pollutants,nox,85.03
-2012,time series,emissions of air pollutants,nox,82.64
-2013,time series,emissions of air pollutants,nox,82.55
-2014,time series,emissions of air pollutants,nox,80.07
-2015,time series,emissions of air pollutants,nox,78.56
-2016,time series,emissions of air pollutants,nox,77.14
-2005,time series,emissions of air pollutants,nmvoc,100.0
-2006,time series,emissions of air pollutants,nmvoc,100.92
-2007,time series,emissions of air pollutants,nmvoc,95.98
-2008,time series,emissions of air pollutants,nmvoc,91.64
-2009,time series,emissions of air pollutants,nmvoc,84.3
-2010,time series,emissions of air pollutants,nmvoc,92.96
-2011,time series,emissions of air pollutants,nmvoc,86.55
-2012,time series,emissions of air pollutants,nmvoc,84.59
-2013,time series,emissions of air pollutants,nmvoc,83.5
-2014,time series,emissions of air pollutants,nmvoc,77.75
-2015,time series,emissions of air pollutants,nmvoc,78.52
-2016,time series,emissions of air pollutants,nmvoc,79.5
-2005,time series,emissions of air pollutants,so2,100.0
-2006,time series,emissions of air pollutants,so2,100.25
-2007,time series,emissions of air pollutants,so2,96.77
-2008,time series,emissions of air pollutants,so2,96.08
-2009,time series,emissions of air pollutants,so2,84.11
-2010,time series,emissions of air pollutants,so2,86.83
-2011,time series,emissions of air pollutants,so2,84.7
-2012,time series,emissions of air pollutants,so2,80.82
-2013,time series,emissions of air pollutants,so2,79.1
-2014,time series,emissions of air pollutants,so2,75.86
-2015,time series,emissions of air pollutants,so2,76.97
-2016,time series,emissions of air pollutants,so2,75.2
+2005,a) time series,emissions of air pollutants,,100.0
+2006,a) time series,emissions of air pollutants,,99.58
+2007,a) time series,emissions of air pollutants,,96.3
+2008,a) time series,emissions of air pollutants,,93.63
+2009,a) time series,emissions of air pollutants,,88.04
+2010,a) time series,emissions of air pollutants,,91.12
+2011,a) time series,emissions of air pollutants,,89.43
+2012,a) time series,emissions of air pollutants,,86.44
+2013,a) time series,emissions of air pollutants,,86.33
+2014,a) time series,emissions of air pollutants,,83.29
+2015,a) time series,emissions of air pollutants,,83.54
+2016,a) time series,emissions of air pollutants,,82.5
+2030,b) target,emissions of air pollutants,,55.0
+2005,a) time series,emissions of air pollutants,nh3,100.0
+2006,a) time series,emissions of air pollutants,nh3,100.12
+2007,a) time series,emissions of air pollutants,nh3,100.48
+2008,a) time series,emissions of air pollutants,nh3,101.31
+2009,a) time series,emissions of air pollutants,nh3,103.34
+2010,a) time series,emissions of air pollutants,nh3,100.09
+2011,a) time series,emissions of air pollutants,nh3,104.91
+2012,a) time series,emissions of air pollutants,nh3,102.95
+2013,a) time series,emissions of air pollutants,nh3,105.58
+2014,a) time series,emissions of air pollutants,nh3,105.83
+2015,a) time series,emissions of air pollutants,nh3,107.23
+2016,a) time series,emissions of air pollutants,nh3,105.99
+2005,a) time series,emissions of air pollutants,pm2.5,100.0
+2006,a) time series,emissions of air pollutants,pm2.5,97.17
+2007,a) time series,emissions of air pollutants,pm2.5,93.26
+2008,a) time series,emissions of air pollutants,pm2.5,88.63
+2009,a) time series,emissions of air pollutants,pm2.5,84.1
+2010,a) time series,emissions of air pollutants,pm2.5,89.66
+2011,a) time series,emissions of air pollutants,pm2.5,85.94
+2012,a) time series,emissions of air pollutants,pm2.5,81.19
+2013,a) time series,emissions of air pollutants,pm2.5,80.94
+2014,a) time series,emissions of air pollutants,pm2.5,76.95
+2015,a) time series,emissions of air pollutants,pm2.5,76.42
+2016,a) time series,emissions of air pollutants,pm2.5,74.66
+2005,a) time series,emissions of air pollutants,nox,100.0
+2006,a) time series,emissions of air pollutants,nox,99.41
+2007,a) time series,emissions of air pollutants,nox,95.02
+2008,a) time series,emissions of air pollutants,nox,90.5
+2009,a) time series,emissions of air pollutants,nox,84.34
+2010,a) time series,emissions of air pollutants,nox,86.04
+2011,a) time series,emissions of air pollutants,nox,85.03
+2012,a) time series,emissions of air pollutants,nox,82.64
+2013,a) time series,emissions of air pollutants,nox,82.55
+2014,a) time series,emissions of air pollutants,nox,80.07
+2015,a) time series,emissions of air pollutants,nox,78.56
+2016,a) time series,emissions of air pollutants,nox,77.14
+2005,a) time series,emissions of air pollutants,nmvoc,100.0
+2006,a) time series,emissions of air pollutants,nmvoc,100.92
+2007,a) time series,emissions of air pollutants,nmvoc,95.98
+2008,a) time series,emissions of air pollutants,nmvoc,91.64
+2009,a) time series,emissions of air pollutants,nmvoc,84.3
+2010,a) time series,emissions of air pollutants,nmvoc,92.96
+2011,a) time series,emissions of air pollutants,nmvoc,86.55
+2012,a) time series,emissions of air pollutants,nmvoc,84.59
+2013,a) time series,emissions of air pollutants,nmvoc,83.5
+2014,a) time series,emissions of air pollutants,nmvoc,77.75
+2015,a) time series,emissions of air pollutants,nmvoc,78.52
+2016,a) time series,emissions of air pollutants,nmvoc,79.5
+2005,a) time series,emissions of air pollutants,so2,100.0
+2006,a) time series,emissions of air pollutants,so2,100.25
+2007,a) time series,emissions of air pollutants,so2,96.77
+2008,a) time series,emissions of air pollutants,so2,96.08
+2009,a) time series,emissions of air pollutants,so2,84.11
+2010,a) time series,emissions of air pollutants,so2,86.83
+2011,a) time series,emissions of air pollutants,so2,84.7
+2012,a) time series,emissions of air pollutants,so2,80.82
+2013,a) time series,emissions of air pollutants,so2,79.1
+2014,a) time series,emissions of air pollutants,so2,75.86
+2015,a) time series,emissions of air pollutants,so2,76.97
+2016,a) time series,emissions of air pollutants,so2,75.2
