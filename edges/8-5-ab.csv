@@ -1,5 +1,4 @@
 From,To
-display,title
-title,age
-age,sex
+display,sex
+sex,age
 age,Bundesland
