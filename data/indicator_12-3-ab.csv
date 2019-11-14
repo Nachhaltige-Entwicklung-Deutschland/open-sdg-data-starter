@@ -1,7 +1,7 @@
-Year,display,title,dimension,Value
-2015,time series,responsible public procurement,recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration,100.0
-2016,time series,responsible public procurement,recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration,136.8
-2017,time series,responsible public procurement,recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration,147.74
-2020,target,responsible public procurement,recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration,210.8
-2015,time series,responsible public procurement,co2 emissions per mileage of motor vehicles of the public sector,100.0
-2016,time series,responsible public procurement,co2 emissions per mileage of motor vehicles of the public sector,98.16
+Year,Units,display,title,dimension,Value
+2015,2015 = 100,time series,responsible public procurement,recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration,100.0
+2016,2015 = 100,time series,responsible public procurement,recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration,136.8
+2017,2015 = 100,time series,responsible public procurement,recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration,147.74
+2020,2015 = 100,target (min),responsible public procurement,recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration,210.8
+2015,2015 = 100,time series,responsible public procurement,co2 emissions per mileage of motor vehicles of the public sector,100.0
+2016,2015 = 100,time series,responsible public procurement,co2 emissions per mileage of motor vehicles of the public sector,98.16

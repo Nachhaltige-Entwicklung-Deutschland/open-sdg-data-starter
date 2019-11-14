@@ -1,29 +1,29 @@
-Year,display,title,Value
-1990,time series,phosphorous in flowing waters,17.97
-1991,time series,phosphorous in flowing waters,17.84
-1992,time series,phosphorous in flowing waters,19.79
-1993,time series,phosphorous in flowing waters,20.43
-1994,time series,phosphorous in flowing waters,23.59
-1995,time series,phosphorous in flowing waters,23.9
-1996,time series,phosphorous in flowing waters,21.57
-1997,time series,phosphorous in flowing waters,23.44
-1998,time series,phosphorous in flowing waters,19.72
-1999,time series,phosphorous in flowing waters,27.52
-2000,time series,phosphorous in flowing waters,28.51
-2001,time series,phosphorous in flowing waters,29.22
-2002,time series,phosphorous in flowing waters,26.79
-2003,time series,phosphorous in flowing waters,31.11
-2004,time series,phosphorous in flowing waters,32.0
-2005,time series,phosphorous in flowing waters,30.52
-2006,time series,phosphorous in flowing waters,34.02
-2007,time series,phosphorous in flowing waters,31.17
-2008,time series,phosphorous in flowing waters,32.91
-2009,time series,phosphorous in flowing waters,33.33
-2010,time series,phosphorous in flowing waters,31.87
-2011,time series,phosphorous in flowing waters,37.94
-2012,time series,phosphorous in flowing waters,35.39
-2013,time series,phosphorous in flowing waters,35.89
-2014,time series,phosphorous in flowing waters,35.08
-2015,time series,phosphorous in flowing waters,30.2
-2016,time series,phosphorous in flowing waters,36.95
-2030,target,phosphorous in flowing waters,100.0
+Year,Units,display,title,Value
+1990,percentage (%),time series,phosphorous in flowing waters,17.97
+1991,percentage (%),time series,phosphorous in flowing waters,17.84
+1992,percentage (%),time series,phosphorous in flowing waters,19.79
+1993,percentage (%),time series,phosphorous in flowing waters,20.43
+1994,percentage (%),time series,phosphorous in flowing waters,23.59
+1995,percentage (%),time series,phosphorous in flowing waters,23.9
+1996,percentage (%),time series,phosphorous in flowing waters,21.57
+1997,percentage (%),time series,phosphorous in flowing waters,23.44
+1998,percentage (%),time series,phosphorous in flowing waters,19.72
+1999,percentage (%),time series,phosphorous in flowing waters,27.52
+2000,percentage (%),time series,phosphorous in flowing waters,28.51
+2001,percentage (%),time series,phosphorous in flowing waters,29.22
+2002,percentage (%),time series,phosphorous in flowing waters,26.79
+2003,percentage (%),time series,phosphorous in flowing waters,31.11
+2004,percentage (%),time series,phosphorous in flowing waters,32.0
+2005,percentage (%),time series,phosphorous in flowing waters,30.52
+2006,percentage (%),time series,phosphorous in flowing waters,34.02
+2007,percentage (%),time series,phosphorous in flowing waters,31.17
+2008,percentage (%),time series,phosphorous in flowing waters,32.91
+2009,percentage (%),time series,phosphorous in flowing waters,33.33
+2010,percentage (%),time series,phosphorous in flowing waters,31.87
+2011,percentage (%),time series,phosphorous in flowing waters,37.94
+2012,percentage (%),time series,phosphorous in flowing waters,35.39
+2013,percentage (%),time series,phosphorous in flowing waters,35.89
+2014,percentage (%),time series,phosphorous in flowing waters,35.08
+2015,percentage (%),time series,phosphorous in flowing waters,30.2
+2016,percentage (%),time series,phosphorous in flowing waters,36.95
+2030,percentage (%),target (min),phosphorous in flowing waters,100.0

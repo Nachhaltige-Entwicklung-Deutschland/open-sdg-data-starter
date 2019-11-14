@@ -1,18 +1,18 @@
-Year,display,title,Value
-2000,time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,79.03
-2001,time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,77.08
-2002,time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,76.4
-2003,time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,72.33
-2004,time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,74.71
-2005,time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,76.89
-2006,time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,75.44
-2007,time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,74.68
-2008,time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,71.74
-2009,time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,72.42
-2010,time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,73.16
-2011,time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,68.34
-2012,time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,69.45
-2013,time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,70.28
-2014,time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,68.99
-2015,time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,67.97
-2030,target,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,50.0
+Year,Units,display,title,Value
+2000,percentage (%),time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,79.03
+2001,percentage (%),time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,77.08
+2002,percentage (%),time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,76.4
+2003,percentage (%),time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,72.33
+2004,percentage (%),time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,74.71
+2005,percentage (%),time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,76.89
+2006,percentage (%),time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,75.44
+2007,percentage (%),time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,74.68
+2008,percentage (%),time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,71.74
+2009,percentage (%),time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,72.42
+2010,percentage (%),time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,73.16
+2011,percentage (%),time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,68.34
+2012,percentage (%),time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,69.45
+2013,percentage (%),time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,70.28
+2014,percentage (%),time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,68.99
+2015,percentage (%),time series,ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,67.97
+2030,percentage (%),target (max),ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded,50.0
