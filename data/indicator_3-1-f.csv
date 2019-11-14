@@ -1,67 +1,67 @@
-Year,title,sex,Bundesland,GeoCode,Value
-1999,share of adults suffering from obesity,,,,10.7
-2003,share of adults suffering from obesity,,,,11.7
-2005,share of adults suffering from obesity,,,,12.5
-2009,share of adults suffering from obesity,,,,13.3
-2013,share of adults suffering from obesity,,,,14.1
-2017,share of adults suffering from obesity,,,,14.62
-2013,share of adults suffering from obesity,,bb,DE4,14.9
-2013,share of adults suffering from obesity,,be,DE3,11.7
-2013,share of adults suffering from obesity,,bw,DE1,12.9
-2013,share of adults suffering from obesity,,by,DE2,13.3
-2013,share of adults suffering from obesity,,hb,DE5,13.5
-2013,share of adults suffering from obesity,,he,DE7,14.2
-2013,share of adults suffering from obesity,,hh,DE6,10.5
-2013,share of adults suffering from obesity,,mv,DE8,17.3
-2013,share of adults suffering from obesity,,ni,DE9,14.2
-2013,share of adults suffering from obesity,,nw,DEA,14.9
-2013,share of adults suffering from obesity,,rp,DEB,15.2
-2013,share of adults suffering from obesity,,sh,DEF,13.3
-2013,share of adults suffering from obesity,,sl,DEC,14.1
-2013,share of adults suffering from obesity,,sn,DED,14.3
-2013,share of adults suffering from obesity,,st,DEE,17.1
-2013,share of adults suffering from obesity,,th,DEG,15.4
-1999,share of adults suffering from obesity,female,,,10.2
-2003,share of adults suffering from obesity,female,,,11.2
-2005,share of adults suffering from obesity,female,,,11.8
-2009,share of adults suffering from obesity,female,,,12.4
-2013,share of adults suffering from obesity,female,,,12.8
-2017,share of adults suffering from obesity,female,,,12.87
-2013,share of adults suffering from obesity,female,bb,DE4,14.3
-2013,share of adults suffering from obesity,female,be,DE3,11.2
-2013,share of adults suffering from obesity,female,bw,DE1,11.2
-2013,share of adults suffering from obesity,female,by,DE2,11.4
-2013,share of adults suffering from obesity,female,hb,DE5,13.5
-2013,share of adults suffering from obesity,female,he,DE7,12.7
-2013,share of adults suffering from obesity,female,hh,DE6,9.5
-2013,share of adults suffering from obesity,female,mv,DE8,16.5
-2013,share of adults suffering from obesity,female,ni,DE9,13.1
-2013,share of adults suffering from obesity,female,nw,DEA,13.3
-2013,share of adults suffering from obesity,female,rp,DEB,13.1
-2013,share of adults suffering from obesity,female,sh,DEF,11.6
-2013,share of adults suffering from obesity,female,sl,DEC,11.8
-2013,share of adults suffering from obesity,female,sn,DED,14.3
-2013,share of adults suffering from obesity,female,st,DEE,16.8
-2013,share of adults suffering from obesity,female,th,DEG,14.9
-1999,share of adults suffering from obesity,male,,,11.1
-2003,share of adults suffering from obesity,male,,,12.3
-2005,share of adults suffering from obesity,male,,,13.0
-2009,share of adults suffering from obesity,male,,,14.2
-2013,share of adults suffering from obesity,male,,,15.4
-2017,share of adults suffering from obesity,male,,,16.26
-2013,share of adults suffering from obesity,male,bb,DE4,15.5
-2013,share of adults suffering from obesity,male,be,DE3,12.3
-2013,share of adults suffering from obesity,male,bw,DE1,14.5
-2013,share of adults suffering from obesity,male,by,DE2,15.0
-2013,share of adults suffering from obesity,male,hb,DE5,13.6
-2013,share of adults suffering from obesity,male,he,DE7,15.7
-2013,share of adults suffering from obesity,male,hh,DE6,11.5
-2013,share of adults suffering from obesity,male,mv,DE8,18.0
-2013,share of adults suffering from obesity,male,ni,DE9,15.2
-2013,share of adults suffering from obesity,male,nw,DEA,16.4
-2013,share of adults suffering from obesity,male,rp,DEB,17.2
-2013,share of adults suffering from obesity,male,sh,DEF,14.9
-2013,share of adults suffering from obesity,male,sl,DEC,16.4
-2013,share of adults suffering from obesity,male,sn,DED,14.3
-2013,share of adults suffering from obesity,male,st,DEE,17.5
-2013,share of adults suffering from obesity,male,th,DEG,15.9
+Year,Units,title,sex,Bundesland,GeoCode,Value
+1999,percentage (%),share of adults suffering from obesity,,,,10.7
+2003,percentage (%),share of adults suffering from obesity,,,,11.7
+2005,percentage (%),share of adults suffering from obesity,,,,12.5
+2009,percentage (%),share of adults suffering from obesity,,,,13.3
+2013,percentage (%),share of adults suffering from obesity,,,,14.1
+2017,percentage (%),share of adults suffering from obesity,,,,14.62
+2013,percentage (%),share of adults suffering from obesity,,bb,DE4,14.9
+2013,percentage (%),share of adults suffering from obesity,,be,DE3,11.7
+2013,percentage (%),share of adults suffering from obesity,,bw,DE1,12.9
+2013,percentage (%),share of adults suffering from obesity,,by,DE2,13.3
+2013,percentage (%),share of adults suffering from obesity,,hb,DE5,13.5
+2013,percentage (%),share of adults suffering from obesity,,he,DE7,14.2
+2013,percentage (%),share of adults suffering from obesity,,hh,DE6,10.5
+2013,percentage (%),share of adults suffering from obesity,,mv,DE8,17.3
+2013,percentage (%),share of adults suffering from obesity,,ni,DE9,14.2
+2013,percentage (%),share of adults suffering from obesity,,nw,DEA,14.9
+2013,percentage (%),share of adults suffering from obesity,,rp,DEB,15.2
+2013,percentage (%),share of adults suffering from obesity,,sh,DEF,13.3
+2013,percentage (%),share of adults suffering from obesity,,sl,DEC,14.1
+2013,percentage (%),share of adults suffering from obesity,,sn,DED,14.3
+2013,percentage (%),share of adults suffering from obesity,,st,DEE,17.1
+2013,percentage (%),share of adults suffering from obesity,,th,DEG,15.4
+1999,percentage (%),share of adults suffering from obesity,female,,,10.2
+2003,percentage (%),share of adults suffering from obesity,female,,,11.2
+2005,percentage (%),share of adults suffering from obesity,female,,,11.8
+2009,percentage (%),share of adults suffering from obesity,female,,,12.4
+2013,percentage (%),share of adults suffering from obesity,female,,,12.8
+2017,percentage (%),share of adults suffering from obesity,female,,,12.87
+2013,percentage (%),share of adults suffering from obesity,female,bb,DE4,14.3
+2013,percentage (%),share of adults suffering from obesity,female,be,DE3,11.2
+2013,percentage (%),share of adults suffering from obesity,female,bw,DE1,11.2
+2013,percentage (%),share of adults suffering from obesity,female,by,DE2,11.4
+2013,percentage (%),share of adults suffering from obesity,female,hb,DE5,13.5
+2013,percentage (%),share of adults suffering from obesity,female,he,DE7,12.7
+2013,percentage (%),share of adults suffering from obesity,female,hh,DE6,9.5
+2013,percentage (%),share of adults suffering from obesity,female,mv,DE8,16.5
+2013,percentage (%),share of adults suffering from obesity,female,ni,DE9,13.1
+2013,percentage (%),share of adults suffering from obesity,female,nw,DEA,13.3
+2013,percentage (%),share of adults suffering from obesity,female,rp,DEB,13.1
+2013,percentage (%),share of adults suffering from obesity,female,sh,DEF,11.6
+2013,percentage (%),share of adults suffering from obesity,female,sl,DEC,11.8
+2013,percentage (%),share of adults suffering from obesity,female,sn,DED,14.3
+2013,percentage (%),share of adults suffering from obesity,female,st,DEE,16.8
+2013,percentage (%),share of adults suffering from obesity,female,th,DEG,14.9
+1999,percentage (%),share of adults suffering from obesity,male,,,11.1
+2003,percentage (%),share of adults suffering from obesity,male,,,12.3
+2005,percentage (%),share of adults suffering from obesity,male,,,13.0
+2009,percentage (%),share of adults suffering from obesity,male,,,14.2
+2013,percentage (%),share of adults suffering from obesity,male,,,15.4
+2017,percentage (%),share of adults suffering from obesity,male,,,16.26
+2013,percentage (%),share of adults suffering from obesity,male,bb,DE4,15.5
+2013,percentage (%),share of adults suffering from obesity,male,be,DE3,12.3
+2013,percentage (%),share of adults suffering from obesity,male,bw,DE1,14.5
+2013,percentage (%),share of adults suffering from obesity,male,by,DE2,15.0
+2013,percentage (%),share of adults suffering from obesity,male,hb,DE5,13.6
+2013,percentage (%),share of adults suffering from obesity,male,he,DE7,15.7
+2013,percentage (%),share of adults suffering from obesity,male,hh,DE6,11.5
+2013,percentage (%),share of adults suffering from obesity,male,mv,DE8,18.0
+2013,percentage (%),share of adults suffering from obesity,male,ni,DE9,15.2
+2013,percentage (%),share of adults suffering from obesity,male,nw,DEA,16.4
+2013,percentage (%),share of adults suffering from obesity,male,rp,DEB,17.2
+2013,percentage (%),share of adults suffering from obesity,male,sh,DEF,14.9
+2013,percentage (%),share of adults suffering from obesity,male,sl,DEC,16.4
+2013,percentage (%),share of adults suffering from obesity,male,sn,DED,14.3
+2013,percentage (%),share of adults suffering from obesity,male,st,DEE,17.5
+2013,percentage (%),share of adults suffering from obesity,male,th,DEG,15.9
