@@ -51,9 +51,9 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2010,percentage (%),a) time series,data from destatis,he,"""code06""",9.4
 2013,percentage (%),a) time series,data from destatis,he,"""code06""",10.52
 2016,percentage (%),a) time series,data from destatis,he,"""code06""",11.59
-2010,percentage (%),a) time series,data from destatis,hh,"""code01""",6.82
-2013,percentage (%),a) time series,data from destatis,hh,"""code01""",6.94
-2016,percentage (%),a) time series,data from destatis,hh,"""code01""",8.12
+2010,percentage (%),a) time series,data from destatis,hh,"""code02""",6.82
+2013,percentage (%),a) time series,data from destatis,hh,"""code02""",6.94
+2016,percentage (%),a) time series,data from destatis,hh,"""code02""",8.12
 2010,percentage (%),a) time series,data from destatis,mv,"""code13""",8.68
 2013,percentage (%),a) time series,data from destatis,mv,"""code13""",8.97
 2016,percentage (%),a) time series,data from destatis,mv,"""code13""",9.37

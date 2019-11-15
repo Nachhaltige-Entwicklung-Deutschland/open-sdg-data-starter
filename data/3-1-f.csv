@@ -11,7 +11,7 @@ Year,Units,sex,Bundesland,GeoCode,Value
 2013,percentage (%),total,by,"""code09""",13.3
 2013,percentage (%),total,hb,"""code04""",13.5
 2013,percentage (%),total,he,"""code06""",14.2
-2013,percentage (%),total,hh,"""code01""",10.5
+2013,percentage (%),total,hh,"""code02""",10.5
 2013,percentage (%),total,mv,"""code13""",17.3
 2013,percentage (%),total,ni,"""code03""",14.2
 2013,percentage (%),total,nw,"""code05""",14.9
@@ -33,7 +33,7 @@ Year,Units,sex,Bundesland,GeoCode,Value
 2013,percentage (%),female,by,"""code09""",11.4
 2013,percentage (%),female,hb,"""code04""",13.5
 2013,percentage (%),female,he,"""code06""",12.7
-2013,percentage (%),female,hh,"""code01""",9.5
+2013,percentage (%),female,hh,"""code02""",9.5
 2013,percentage (%),female,mv,"""code13""",16.5
 2013,percentage (%),female,ni,"""code03""",13.1
 2013,percentage (%),female,nw,"""code05""",13.3
@@ -55,7 +55,7 @@ Year,Units,sex,Bundesland,GeoCode,Value
 2013,percentage (%),male,by,"""code09""",15.0
 2013,percentage (%),male,hb,"""code04""",13.6
 2013,percentage (%),male,he,"""code06""",15.7
-2013,percentage (%),male,hh,"""code01""",11.5
+2013,percentage (%),male,hh,"""code02""",11.5
 2013,percentage (%),male,mv,"""code13""",18.0
 2013,percentage (%),male,ni,"""code03""",15.2
 2013,percentage (%),male,nw,"""code05""",16.4
