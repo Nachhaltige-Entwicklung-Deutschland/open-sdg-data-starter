@@ -1,1 +1,1 @@
-{"data":{"Year":[2016],"Units":["mio. eur"],"Value":[32.35]},"edges":[]}
+{"data":{"Year":[2016],"Observation status":["Estimate"],"Unit multiplier":["Units"],"Unit measure":["mio. eur"],"Value":[32.35]},"edges":{"From":["Observation status","Unit multiplier"],"To":["Unit multiplier","Unit measure"]}}
