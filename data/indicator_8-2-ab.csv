@@ -26,6 +26,20 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2015,percentage (%),a) time series,funding balance (share of gross domestic product (at current prices) in %),,,0.78
 2016,percentage (%),a) time series,funding balance (share of gross domestic product (at current prices) in %),,,0.91
 2017,percentage (%),a) time series,funding balance (share of gross domestic product (at current prices) in %),,,1.04
+2007,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),,,-3.0
+2008,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),,,-3.0
+2009,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),,,-3.0
+2010,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),,,-3.0
+2011,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),,,-3.0
+2012,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),,,-3.0
+2013,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),,,-3.0
+2014,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),,,-3.0
+2015,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),,,-3.0
+2016,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),,,-3.0
+2017,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),,,-3.0
+2018,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),,,-3.0
+2020,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),,,-3.0
+2025,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),,,-3.0
 2030,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),,,-3.0
 2005,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),,,-2.02
 2006,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),,,-1.63
@@ -40,7 +54,18 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2015,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),,,1.18
 2016,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),,,1.27
 2017,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),,,1.48
-2030,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),,,-5.0
+2010,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),,,-0.5
+2011,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),,,-0.5
+2012,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),,,-0.5
+2013,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),,,-0.5
+2014,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),,,-0.5
+2015,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),,,-0.5
+2016,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),,,-0.5
+2017,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),,,-0.5
+2018,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),,,-0.5
+2020,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),,,-0.5
+2025,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),,,-0.5
+2030,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),,,-0.5
 2010,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),bb,code12,-1.14
 2011,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),bb,code12,-0.83
 2012,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),bb,code12,-0.4
