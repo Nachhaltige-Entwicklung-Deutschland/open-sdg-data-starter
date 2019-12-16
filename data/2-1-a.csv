@@ -1,28 +1,4 @@
 Year,Units,display,title,Bundesland,GeoCode,Value
-1992,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,120.78
-1993,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,114.56
-1994,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,112.52
-1995,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,110.66
-1996,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,110.33
-1997,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,111.04
-1998,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,111.46
-1999,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,110.04
-2000,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,110.41
-2001,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,110.03
-2002,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,107.18
-2003,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,104.58
-2004,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,105.63
-2005,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,104.57
-2006,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,103.79
-2007,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,101.06
-2008,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,98.98
-2009,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,99.39
-2010,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,98.05
-2011,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,96.5
-2012,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,96.85
-2013,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,98.94
-2014,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,97.18
-2030,kg/ha,b) target (max),"moving five-year average, referring to the middle year",,,70.0
 1990,kg/ha,a) time series,calculated annual values,,,146.89
 1991,kg/ha,a) time series,calculated annual values,,,120.63
 1992,kg/ha,a) time series,calculated annual values,,,115.43
@@ -118,3 +94,27 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2012,kg/ha,a) time series,calculated annual values,th,code16,56.9
 2013,kg/ha,a) time series,calculated annual values,th,code16,60.9
 2014,kg/ha,a) time series,calculated annual values,th,code16,62.7
+1992,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,120.78
+1993,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,114.56
+1994,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,112.52
+1995,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,110.66
+1996,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,110.33
+1997,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,111.04
+1998,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,111.46
+1999,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,110.04
+2000,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,110.41
+2001,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,110.03
+2002,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,107.18
+2003,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,104.58
+2004,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,105.63
+2005,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,104.57
+2006,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,103.79
+2007,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,101.06
+2008,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,98.98
+2009,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,99.39
+2010,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,98.05
+2011,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,96.5
+2012,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,96.85
+2013,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,98.94
+2014,kg/ha,a) time series,"moving five-year average, referring to the middle year",,,97.18
+2030,kg/ha,b) target (max),"moving five-year average, referring to the middle year",,,70.0
