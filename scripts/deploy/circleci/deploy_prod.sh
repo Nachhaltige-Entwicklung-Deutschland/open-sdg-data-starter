@@ -25,7 +25,8 @@ git clone git@gh-prod:$GH_ORG_PROD/sdg-data-pub.git out
 
 
 cd out
-git checkout gh-pages || git checkout --orphan gh-pages
+#git checkout gh-pages || git checkout --orphan gh-pages
+git checkout master || git checkout --orphan master
 git rm -rfq .
 cd ..
 
@@ -38,4 +39,5 @@ cd out
 git add -A
 git commit -m "Automated deployment to GitHub Pages: ${CIRCLE_SHA1}" --allow-empty
 
-git push origin master #gh-pages
+#git push origin gh-pages
+git push origin master
