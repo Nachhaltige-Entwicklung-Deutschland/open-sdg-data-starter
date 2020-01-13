@@ -73,7 +73,7 @@ jobs:
       - checkout
       - add_ssh_keys:
           finterprints:
-            - 3c:5f:15:ca:39:2b:c5:bd:70:4a:ea:c4:ba:8d:45:d2
+            - d9:24:dc:06:f0:8e:de:d1:09:41:a4:4f:47:60:e1:92
             #- "3c:5f:15:ca:39:2b:c5:bd:70:4a:ea:c4:ba:8d:45:d2"
       - attach_workspace:
           at: /tmp/build
