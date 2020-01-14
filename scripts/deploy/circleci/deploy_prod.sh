@@ -20,8 +20,8 @@ git config --global user.name "$GH_NAME"
 # CircleCI will identify the SSH key with a "Host" of gh-prod. In order to tell
 # Git to use this key, we need to hack the SSH key:
 sed -i -e 's/Host gh-prod/Host gh-prod\n  HostName github.com/g' ~/.ssh/config
-#git clone git@gh-prod:$GH_ORG_PROD/$CIRCLE_PROJECT_REPONAME.git out
-git clone git@gh-prod:$GH_ORG_PROD/sdg-data-pub.git out
+git clone git@gh-prod:$GH_ORG_PROD/$CIRCLE_PROJECT_REPONAME.git out
+#git clone git@gh-prod:$GH_ORG_PROD/sdg-data-pub.git out
 
 
 cd out
@@ -39,5 +39,5 @@ cd out
 git add -A
 git commit -m "Automated deployment to GitHub Pages: ${CIRCLE_SHA1}" --allow-empty
 
-#git push origin gh-pages
-git push origin master
+git push origin gh-pages
+#git push origin master
