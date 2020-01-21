@@ -1,124 +1,445 @@
 Year,Units,Bundesland,GeoCode,Value
-1991,percentage (%),a) germany (total),,24.86
-1992,percentage (%),a) germany (total),,25.06
-1993,percentage (%),a) germany (total),,23.94
-1994,percentage (%),a) germany (total),,23.99
-1995,percentage (%),a) germany (total),,23.36
-1996,percentage (%),a) germany (total),,22.83
-1997,percentage (%),a) germany (total),,22.49
-1998,percentage (%),a) germany (total),,22.62
-1999,percentage (%),a) germany (total),,22.9
-2000,percentage (%),a) germany (total),,22.99
-2001,percentage (%),a) germany (total),,21.68
-2002,percentage (%),a) germany (total),,20.04
-2003,percentage (%),a) germany (total),,19.51
-2004,percentage (%),a) germany (total),,19.16
-2005,percentage (%),a) germany (total),,19.07
-2006,percentage (%),a) germany (total),,19.82
-2007,percentage (%),a) germany (total),,20.12
-2008,percentage (%),a) germany (total),,20.33
-2009,percentage (%),a) germany (total),,19.16
-2010,percentage (%),a) germany (total),,19.44
-2011,percentage (%),a) germany (total),,20.27
-2012,percentage (%),a) germany (total),,20.11
-2013,percentage (%),a) germany (total),,19.7
-2014,percentage (%),a) germany (total),,19.99
-2015,percentage (%),a) germany (total),,19.86
-2016,percentage (%),a) germany (total),,20.07
-2017,percentage (%),a) germany (total),,20.31
-2010,percentage (%),bb,code12,3.09
-2011,percentage (%),bb,code12,2.99
-2012,percentage (%),bb,code12,3.24
-2013,percentage (%),bb,code12,3.11
-2014,percentage (%),bb,code12,3.17
-2015,percentage (%),bb,code12,3.17
-2010,percentage (%),be,code11,31.86
-2011,percentage (%),be,code11,30.79
-2012,percentage (%),be,code11,34.82
-2013,percentage (%),be,code11,33.84
-2014,percentage (%),be,code11,36.18
-2015,percentage (%),be,code11,37.17
-2010,percentage (%),bw,code08,74.51
-2011,percentage (%),bw,code08,78.41
-2012,percentage (%),bw,code08,82.89
-2013,percentage (%),bw,code08,79.77
-2014,percentage (%),bw,code08,78.68
-2015,percentage (%),bw,code08,79.82
-2010,percentage (%),by,code09,21.89
-2011,percentage (%),by,code09,23.57
-2012,percentage (%),by,code09,23.23
-2013,percentage (%),by,code09,22.97
-2014,percentage (%),by,code09,23.48
-2015,percentage (%),by,code09,23.61
-2010,percentage (%),hb,code04,14.81
-2011,percentage (%),hb,code04,14.48
-2012,percentage (%),hb,code04,18.76
-2013,percentage (%),hb,code04,16.34
-2014,percentage (%),hb,code04,14.24
-2015,percentage (%),hb,code04,17.0
-2010,percentage (%),he,code06,17.89
-2011,percentage (%),he,code06,19.72
-2012,percentage (%),he,code06,18.04
-2013,percentage (%),he,code06,18.21
-2014,percentage (%),he,code06,17.8
-2015,percentage (%),he,code06,17.43
-2010,percentage (%),hh,code02,24.61
-2011,percentage (%),hh,code02,20.84
-2012,percentage (%),hh,code02,19.72
-2013,percentage (%),hh,code02,20.45
-2014,percentage (%),hh,code02,22.52
-2015,percentage (%),hh,code02,22.62
-2010,percentage (%),mv,code13,22.77
-2011,percentage (%),mv,code13,24.47
-2012,percentage (%),mv,code13,23.93
-2013,percentage (%),mv,code13,20.87
-2014,percentage (%),mv,code13,22.05
-2015,percentage (%),mv,code13,22.17
-2010,percentage (%),ni,code03,19.96
-2011,percentage (%),ni,code03,21.37
-2012,percentage (%),ni,code03,21.24
-2013,percentage (%),ni,code03,21.22
-2014,percentage (%),ni,code03,21.31
-2015,percentage (%),ni,code03,20.96
-2010,percentage (%),nw,code05,15.84
-2011,percentage (%),nw,code05,16.63
-2012,percentage (%),nw,code05,15.89
-2013,percentage (%),nw,code05,15.71
-2014,percentage (%),nw,code05,16.17
-2015,percentage (%),nw,code05,15.99
-2010,percentage (%),rp,code07,20.0
-2011,percentage (%),rp,code07,20.97
-2012,percentage (%),rp,code07,20.37
-2013,percentage (%),rp,code07,20.93
-2014,percentage (%),rp,code07,21.41
-2015,percentage (%),rp,code07,20.82
-2010,percentage (%),sh,code01,21.4
-2011,percentage (%),sh,code01,23.13
-2012,percentage (%),sh,code01,21.42
-2013,percentage (%),sh,code01,18.68
-2014,percentage (%),sh,code01,21.56
-2015,percentage (%),sh,code01,20.51
-2010,percentage (%),sl,code10,18.04
-2011,percentage (%),sl,code10,17.17
-2012,percentage (%),sl,code10,16.8
-2013,percentage (%),sl,code10,17.32
-2014,percentage (%),sl,code10,18.21
-2015,percentage (%),sl,code10,17.79
-2010,percentage (%),sn,code14,22.77
-2011,percentage (%),sn,code14,23.61
-2012,percentage (%),sn,code14,22.81
-2013,percentage (%),sn,code14,21.08
-2014,percentage (%),sn,code14,20.98
-2015,percentage (%),sn,code14,18.9
-2010,percentage (%),st,code15,20.63
-2011,percentage (%),st,code15,18.68
-2012,percentage (%),st,code15,20.22
-2013,percentage (%),st,code15,19.41
-2014,percentage (%),st,code15,18.17
-2015,percentage (%),st,code15,18.04
-2010,percentage (%),th,code16,20.29
-2011,percentage (%),th,code16,21.06
-2012,percentage (%),th,code16,20.95
-2013,percentage (%),th,code16,19.77
-2014,percentage (%),th,code16,20.19
-2015,percentage (%),th,code16,18.4
+1991,percentage (%),a) germany (total),,24.890969857485175
+1992,percentage (%),a) germany (total),,25.201167996427866
+1993,percentage (%),a) germany (total),,24.056222835243787
+1994,percentage (%),a) germany (total),,24.141400890929464
+1995,percentage (%),a) germany (total),,23.53903969682415
+1996,percentage (%),a) germany (total),,23.027303292425238
+1997,percentage (%),a) germany (total),,22.650638655890678
+1998,percentage (%),a) germany (total),,22.798224799197783
+1999,percentage (%),a) germany (total),,23.038679666711985
+2000,percentage (%),a) germany (total),,23.11432892859005
+2001,percentage (%),a) germany (total),,21.77819510803024
+2002,percentage (%),a) germany (total),,20.121785889760343
+2003,percentage (%),a) germany (total),,19.523325058668732
+2004,percentage (%),a) germany (total),,19.09101356010112
+2005,percentage (%),a) germany (total),,19.07669852423841
+2006,percentage (%),a) germany (total),,19.80289969309206
+2007,percentage (%),a) germany (total),,20.056530175431572
+2008,percentage (%),a) germany (total),,20.302966043455893
+2009,percentage (%),a) germany (total),,19.267539752957195
+2010,percentage (%),a) germany (total),,19.54250506941195
+2011,percentage (%),a) germany (total),,20.370847502932925
+2012,percentage (%),a) germany (total),,20.321093064171254
+2013,percentage (%),a) germany (total),,19.901470823625665
+2014,percentage (%),a) germany (total),,20.040274233713525
+2015,percentage (%),a) germany (total),,19.997590814733652
+2016,percentage (%),a) germany (total),,20.30633993810025
+2017,percentage (%),a) germany (total),,20.520525486981466
+2018,percentage (%),a) germany (total),,21.161504259397145
+1991,percentage (%),bw,code08,24.917385963678772
+1992,percentage (%),bw,code08,24.38993774834957
+1993,percentage (%),bw,code08,23.103336675007696
+1994,percentage (%),bw,code08,21.785810792809873
+1995,percentage (%),bw,code08,20.411010198163012
+1996,percentage (%),bw,code08,20.336704462721745
+1997,percentage (%),bw,code08,19.63787415314405
+1998,percentage (%),bw,code08,20.15578823222869
+1999,percentage (%),bw,code08,20.46299122725523
+2000,percentage (%),bw,code08,21.393312873526085
+2001,percentage (%),bw,code08,21.78658530930942
+2002,percentage (%),bw,code08,20.728750406668755
+2003,percentage (%),bw,code08,19.594584318127204
+2004,percentage (%),bw,code08,20.227113559785632
+2005,percentage (%),bw,code08,19.459123499341306
+2006,percentage (%),bw,code08,20.499725456358767
+2007,percentage (%),bw,code08,20.719280242464738
+2008,percentage (%),bw,code08,21.473134007538945
+2009,percentage (%),bw,code08,20.777167675585662
+2010,percentage (%),bw,code08,19.994388342300727
+2011,percentage (%),bw,code08,20.88753679595029
+2012,percentage (%),bw,code08,22.023065636262988
+2013,percentage (%),bw,code08,21.221927856240455
+2014,percentage (%),bw,code08,20.973342471846877
+2015,percentage (%),bw,code08,21.267864113053665
+2016,percentage (%),bw,code08,21.48684774658899
+1991,percentage (%),by,code09,28.34150956351901
+1992,percentage (%),by,code09,27.482461926953658
+1993,percentage (%),by,code09,24.598300401438927
+1994,percentage (%),by,code09,25.260412306929933
+1995,percentage (%),by,code09,24.708244528772678
+1996,percentage (%),by,code09,24.33766697940401
+1997,percentage (%),by,code09,22.85739188903139
+1998,percentage (%),by,code09,23.70839557812967
+1999,percentage (%),by,code09,23.575860450835105
+2000,percentage (%),by,code09,24.467302224452247
+2001,percentage (%),by,code09,23.264023106987928
+2002,percentage (%),by,code09,21.88136219405789
+2003,percentage (%),by,code09,22.758294390053074
+2004,percentage (%),by,code09,21.70174311292474
+2005,percentage (%),by,code09,20.732355616246466
+2006,percentage (%),by,code09,24.113653812154432
+2007,percentage (%),by,code09,23.449879256301852
+2008,percentage (%),by,code09,23.625590193462155
+2009,percentage (%),by,code09,21.64019254474978
+2010,percentage (%),by,code09,21.893456951641816
+2011,percentage (%),by,code09,23.56682595447809
+2012,percentage (%),by,code09,23.23431474752791
+2013,percentage (%),by,code09,22.95927587588689
+2014,percentage (%),by,code09,23.35973394517898
+2015,percentage (%),by,code09,23.37906520584761
+2016,percentage (%),by,code09,23.33122952024416
+1991,percentage (%),be,code11,22.379611750659613
+1992,percentage (%),be,code11,22.877146949758373
+1993,percentage (%),be,code11,21.71559416105629
+1994,percentage (%),be,code11,20.157993459022702
+1995,percentage (%),be,code11,20.25520201548941
+1996,percentage (%),be,code11,24.26135761940061
+1997,percentage (%),be,code11,27.94969484885763
+1998,percentage (%),be,code11,22.858163629867807
+1999,percentage (%),be,code11,22.2997422131826
+2000,percentage (%),be,code11,20.830599043779877
+2001,percentage (%),be,code11,19.086130675423227
+2002,percentage (%),be,code11,16.238731953745976
+2003,percentage (%),be,code11,14.455857921707187
+2004,percentage (%),be,code11,15.69426393621132
+2005,percentage (%),be,code11,17.628991221032848
+2006,percentage (%),be,code11,17.25877095960713
+2007,percentage (%),be,code11,17.816741484024288
+2008,percentage (%),be,code11,17.198042335501803
+2009,percentage (%),be,code11,16.795108142685887
+2010,percentage (%),be,code11,17.283042249157727
+2011,percentage (%),be,code11,16.440268903211493
+2012,percentage (%),be,code11,18.68710763351833
+2013,percentage (%),be,code11,18.257062422848414
+2014,percentage (%),be,code11,19.5553181205322
+2015,percentage (%),be,code11,19.824509576922765
+2016,percentage (%),be,code11,19.70240189217308
+1991,percentage (%),bb,code12,41.915861575422994
+1992,percentage (%),bb,code12,45.40631682842572
+1993,percentage (%),bb,code12,50.00168401199016
+1994,percentage (%),bb,code12,52.23802307961301
+1995,percentage (%),bb,code12,47.086518369614105
+1996,percentage (%),bb,code12,48.215455966123905
+1997,percentage (%),bb,code12,45.255618671276856
+1998,percentage (%),bb,code12,44.17864377351211
+1999,percentage (%),bb,code12,41.20645905420992
+2000,percentage (%),bb,code12,37.61217410764239
+2001,percentage (%),bb,code12,31.07393981744333
+2002,percentage (%),bb,code12,27.338765304362827
+2003,percentage (%),bb,code12,24.341218024189228
+2004,percentage (%),bb,code12,24.101259487863874
+2005,percentage (%),bb,code12,23.361934477379087
+2006,percentage (%),bb,code12,23.69146005509642
+2007,percentage (%),bb,code12,22.24549090634669
+2008,percentage (%),bb,code12,22.67145251803805
+2009,percentage (%),bb,code12,21.188953325750088
+2010,percentage (%),bb,code12,21.199628796801946
+2011,percentage (%),bb,code12,21.002771042604774
+2012,percentage (%),bb,code12,22.685742376214126
+2013,percentage (%),bb,code12,21.625178921044405
+2014,percentage (%),bb,code12,21.65570346354085
+2015,percentage (%),bb,code12,22.14896030245747
+2016,percentage (%),bb,code12,23.63275550107979
+1991,percentage (%),hb,code04,18.21285676180315
+1992,percentage (%),hb,code04,17.470752665907444
+1993,percentage (%),hb,code04,18.286425128284872
+1994,percentage (%),hb,code04,15.306378075053859
+1995,percentage (%),hb,code04,14.546880360731265
+1996,percentage (%),hb,code04,15.572168474543144
+1997,percentage (%),hb,code04,14.954997631454287
+1998,percentage (%),hb,code04,15.958592908332946
+1999,percentage (%),hb,code04,18.014568546880838
+2000,percentage (%),hb,code04,18.116363311122047
+2001,percentage (%),hb,code04,16.907065123510108
+2002,percentage (%),hb,code04,16.766014608345227
+2003,percentage (%),hb,code04,13.106637204353873
+2004,percentage (%),hb,code04,15.440997813233983
+2005,percentage (%),hb,code04,14.246455313047635
+2006,percentage (%),hb,code04,14.98953775917824
+2007,percentage (%),hb,code04,15.168951110459574
+2008,percentage (%),hb,code04,15.35512801967308
+2009,percentage (%),hb,code04,14.331134250059614
+2010,percentage (%),hb,code04,14.809685991242187
+2011,percentage (%),hb,code04,14.484005060545813
+2012,percentage (%),hb,code04,18.759308648817154
+2013,percentage (%),hb,code04,16.384955600507418
+2014,percentage (%),hb,code04,14.227750432353337
+2015,percentage (%),hb,code04,17.048779703527448
+2016,percentage (%),hb,code04,16.02077758539273
+1991,percentage (%),hh,code02,16.545915446888543
+1992,percentage (%),hh,code02,18.178663259350397
+1993,percentage (%),hh,code02,17.16037392254462
+1994,percentage (%),hh,code02,15.46396303599282
+1995,percentage (%),hh,code02,14.1847124623548
+1996,percentage (%),hh,code02,14.003419570031113
+1997,percentage (%),hh,code02,14.757068869927386
+1998,percentage (%),hh,code02,15.679782617298287
+1999,percentage (%),hh,code02,14.87684342641983
+2000,percentage (%),hh,code02,16.398940187131213
+2001,percentage (%),hh,code02,18.13695773418366
+2002,percentage (%),hh,code02,19.52309452309452
+2003,percentage (%),hh,code02,18.651613362775127
+2004,percentage (%),hh,code02,22.10059034072421
+2005,percentage (%),hh,code02,23.053306649686164
+2006,percentage (%),hh,code02,23.80989761474886
+2007,percentage (%),hh,code02,26.407394979813176
+2008,percentage (%),hh,code02,27.340375216774397
+2009,percentage (%),hh,code02,21.208090279670717
+2010,percentage (%),hh,code02,24.61354649072723
+2011,percentage (%),hh,code02,20.8402870493992
+2012,percentage (%),hh,code02,19.715967638266832
+2013,percentage (%),hh,code02,20.483601185527178
+2014,percentage (%),hh,code02,22.477396711555336
+2015,percentage (%),hh,code02,22.153344208809138
+2016,percentage (%),hh,code02,20.685208732560852
+1991,percentage (%),he,code06,22.044658202214254
+1992,percentage (%),he,code06,21.486408876042134
+1993,percentage (%),he,code06,20.582789986315703
+1994,percentage (%),he,code06,18.34966837948712
+1995,percentage (%),he,code06,18.697255223269156
+1996,percentage (%),he,code06,17.43995617613996
+1997,percentage (%),he,code06,18.091544612771095
+1998,percentage (%),he,code06,18.394712923113985
+1999,percentage (%),he,code06,18.71350264071065
+2000,percentage (%),he,code06,18.495516986098547
+2001,percentage (%),he,code06,18.891479019938494
+2002,percentage (%),he,code06,17.19497637158276
+2003,percentage (%),he,code06,16.440622535157075
+2004,percentage (%),he,code06,16.568406862047034
+2005,percentage (%),he,code06,18.05140043815223
+2006,percentage (%),he,code06,17.51201330141967
+2007,percentage (%),he,code06,18.468937805269427
+2008,percentage (%),he,code06,20.17443802072265
+2009,percentage (%),he,code06,16.906002842876408
+2010,percentage (%),he,code06,17.88872699420261
+2011,percentage (%),he,code06,19.715081332563592
+2012,percentage (%),he,code06,18.037139736156625
+2013,percentage (%),he,code06,18.23983201341924
+2014,percentage (%),he,code06,17.908358600893468
+2015,percentage (%),he,code06,17.483548986189554
+2016,percentage (%),he,code06,18.335182560868887
+1991,percentage (%),mv,code13,50.40511727078891
+1992,percentage (%),mv,code13,62.647126702054
+1993,percentage (%),mv,code13,61.09748473043814
+1994,percentage (%),mv,code13,58.391680821974546
+1995,percentage (%),mv,code13,55.678376741368865
+1996,percentage (%),mv,code13,48.57372145619026
+1997,percentage (%),mv,code13,44.136544743170965
+1998,percentage (%),mv,code13,40.923856780780355
+1999,percentage (%),mv,code13,37.865121765073205
+2000,percentage (%),mv,code13,35.647337521886904
+2001,percentage (%),mv,code13,30.50543955672681
+2002,percentage (%),mv,code13,26.379546899575008
+2003,percentage (%),mv,code13,25.444650915848154
+2004,percentage (%),mv,code13,25.128104703156108
+2005,percentage (%),mv,code13,26.805060006487185
+2006,percentage (%),mv,code13,27.68234922639723
+2007,percentage (%),mv,code13,23.28803942063611
+2008,percentage (%),mv,code13,23.801230697782426
+2009,percentage (%),mv,code13,20.993519251634847
+2010,percentage (%),mv,code13,22.77159770082073
+2011,percentage (%),mv,code13,24.46570884924027
+2012,percentage (%),mv,code13,23.93080904385726
+2013,percentage (%),mv,code13,20.804646029326747
+2014,percentage (%),mv,code13,21.816529050829484
+2015,percentage (%),mv,code13,22.14186987856649
+2016,percentage (%),mv,code13,23.326337120937968
+1991,percentage (%),ni,code03,25.48398574029761
+1992,percentage (%),ni,code03,24.1610473858033
+1993,percentage (%),ni,code03,22.29094618785168
+1994,percentage (%),ni,code03,21.82526254914145
+1995,percentage (%),ni,code03,21.6060964872332
+1996,percentage (%),ni,code03,20.851936768432484
+1997,percentage (%),ni,code03,21.398726386061266
+1998,percentage (%),ni,code03,22.126965037367924
+1999,percentage (%),ni,code03,23.67214217637495
+2000,percentage (%),ni,code03,23.675063506655285
+2001,percentage (%),ni,code03,22.381484471485166
+2002,percentage (%),ni,code03,21.25419607505595
+2003,percentage (%),ni,code03,22.32714340041028
+2004,percentage (%),ni,code03,19.876159051040013
+2005,percentage (%),ni,code03,18.3325331726202
+2006,percentage (%),ni,code03,18.924417751606626
+2007,percentage (%),ni,code03,19.477738522523875
+2008,percentage (%),ni,code03,18.790911537566767
+2009,percentage (%),ni,code03,20.684560687801444
+2010,percentage (%),ni,code03,19.96446055884874
+2011,percentage (%),ni,code03,21.366253190100306
+2012,percentage (%),ni,code03,21.241092611991906
+2013,percentage (%),ni,code03,21.18369025658567
+2014,percentage (%),ni,code03,20.98961586508432
+2015,percentage (%),ni,code03,20.889039753747404
+2016,percentage (%),ni,code03,20.57477156468779
+1991,percentage (%),nw,code05,20.669771509554238
+1992,percentage (%),nw,code05,20.251267203109734
+1993,percentage (%),nw,code05,18.360735321071374
+1994,percentage (%),nw,code05,17.87563459704139
+1995,percentage (%),nw,code05,17.068889965709197
+1996,percentage (%),nw,code05,17.168314177838777
+1997,percentage (%),nw,code05,17.125155957051742
+1998,percentage (%),nw,code05,17.75736280360433
+1999,percentage (%),nw,code05,19.289907074366628
+2000,percentage (%),nw,code05,19.804431743052746
+2001,percentage (%),nw,code05,19.1212617139045
+2002,percentage (%),nw,code05,17.222109556321687
+2003,percentage (%),nw,code05,16.393375487337416
+2004,percentage (%),nw,code05,15.821272168059654
+2005,percentage (%),nw,code05,16.739947772464134
+2006,percentage (%),nw,code05,16.22652928391716
+2007,percentage (%),nw,code05,16.381632356815288
+2008,percentage (%),nw,code05,16.36334730401877
+2009,percentage (%),nw,code05,15.762257939089134
+2010,percentage (%),nw,code05,15.841624379827369
+2011,percentage (%),nw,code05,16.633406082016357
+2012,percentage (%),nw,code05,15.885614053916276
+2013,percentage (%),nw,code05,15.736515851819732
+2014,percentage (%),nw,code05,16.234196792563573
+2015,percentage (%),nw,code05,16.02314996009159
+2016,percentage (%),nw,code05,16.054105896151487
+1991,percentage (%),rp,code07,24.0042219143743
+1992,percentage (%),rp,code07,22.951439188763622
+1993,percentage (%),rp,code07,22.08334901931258
+1994,percentage (%),rp,code07,22.897196261682247
+1995,percentage (%),rp,code07,22.968156859103093
+1996,percentage (%),rp,code07,21.28513124942028
+1997,percentage (%),rp,code07,21.94460998729381
+1998,percentage (%),rp,code07,23.026279206841718
+1999,percentage (%),rp,code07,23.39544513457557
+2000,percentage (%),rp,code07,24.073306772908374
+2001,percentage (%),rp,code07,22.050777322707983
+2002,percentage (%),rp,code07,21.9462190790768
+2003,percentage (%),rp,code07,19.696002306757567
+2004,percentage (%),rp,code07,19.01762092547297
+2005,percentage (%),rp,code07,18.67981429308361
+2006,percentage (%),rp,code07,19.407278565694412
+2007,percentage (%),rp,code07,20.43782949136127
+2008,percentage (%),rp,code07,20.2272319022813
+2009,percentage (%),rp,code07,20.63511106599359
+2010,percentage (%),rp,code07,20.00384823943046
+2011,percentage (%),rp,code07,20.971841348404787
+2012,percentage (%),rp,code07,20.36520973892637
+2013,percentage (%),rp,code07,20.917756382622024
+2014,percentage (%),rp,code07,21.235171879672727
+2015,percentage (%),rp,code07,20.75588780680109
+2016,percentage (%),rp,code07,20.481368566104287
+1991,percentage (%),sl,code10,20.931872678546238
+1992,percentage (%),sl,code10,20.399945708727323
+1993,percentage (%),sl,code10,18.602520045819016
+1994,percentage (%),sl,code10,19.63777943042128
+1995,percentage (%),sl,code10,20.480462854267987
+1996,percentage (%),sl,code10,20.931431517442856
+1997,percentage (%),sl,code10,21.23826760385538
+1998,percentage (%),sl,code10,24.6784931563495
+1999,percentage (%),sl,code10,23.773324118866626
+2000,percentage (%),sl,code10,23.52038407051787
+2001,percentage (%),sl,code10,18.721601848286483
+2002,percentage (%),sl,code10,19.049634474798
+2003,percentage (%),sl,code10,18.987534784431826
+2004,percentage (%),sl,code10,15.927942412394488
+2005,percentage (%),sl,code10,15.247510965675694
+2006,percentage (%),sl,code10,16.353358308803852
+2007,percentage (%),sl,code10,16.948936305935636
+2008,percentage (%),sl,code10,16.92719823510873
+2009,percentage (%),sl,code10,14.935517601951899
+2010,percentage (%),sl,code10,18.04258128404027
+2011,percentage (%),sl,code10,17.169793650298132
+2012,percentage (%),sl,code10,16.798339374787
+2013,percentage (%),sl,code10,17.363565285379202
+2014,percentage (%),sl,code10,18.1994799294617
+2015,percentage (%),sl,code10,17.97589238921563
+2016,percentage (%),sl,code10,17.198427836541242
+1991,percentage (%),sn,code14,42.94604671564864
+1992,percentage (%),sn,code14,41.855063487147724
+1993,percentage (%),sn,code14,39.604519774011294
+1994,percentage (%),sn,code14,46.71742543171115
+1995,percentage (%),sn,code14,46.180921708895035
+1996,percentage (%),sn,code14,45.67521555274864
+1997,percentage (%),sn,code14,43.25014764658216
+1998,percentage (%),sn,code14,39.29542963093289
+1999,percentage (%),sn,code14,36.60717834572122
+2000,percentage (%),sn,code14,35.726391610613845
+2001,percentage (%),sn,code14,27.61194987108608
+2002,percentage (%),sn,code14,23.2458635273168
+2003,percentage (%),sn,code14,23.010823061726605
+2004,percentage (%),sn,code14,23.486368464534408
+2005,percentage (%),sn,code14,21.54678511098248
+2006,percentage (%),sn,code14,21.167167911330377
+2007,percentage (%),sn,code14,24.010801041375302
+2008,percentage (%),sn,code14,22.273651057128568
+2009,percentage (%),sn,code14,20.86916461916461
+2010,percentage (%),sn,code14,22.768350288786262
+2011,percentage (%),sn,code14,23.60968746859612
+2012,percentage (%),sn,code14,22.805358550039397
+2013,percentage (%),sn,code14,21.05485353520816
+2014,percentage (%),sn,code14,20.838588218091427
+2015,percentage (%),sn,code14,18.980232028320074
+2016,percentage (%),sn,code14,20.686453268503517
+1991,percentage (%),st,code15,43.10370261100457
+1992,percentage (%),st,code15,54.38237608182534
+1993,percentage (%),st,code15,53.69327273891058
+1994,percentage (%),st,code15,55.13101953483203
+1995,percentage (%),st,code15,53.01906503003395
+1996,percentage (%),st,code15,44.94767412748485
+1997,percentage (%),st,code15,41.933434338497634
+1998,percentage (%),st,code15,41.264514883036
+1999,percentage (%),st,code15,37.006955030487795
+2000,percentage (%),st,code15,33.95710582135282
+2001,percentage (%),st,code15,26.022339363258485
+2002,percentage (%),st,code15,23.204878158136612
+2003,percentage (%),st,code15,22.262554281260442
+2004,percentage (%),st,code15,22.45843256352553
+2005,percentage (%),st,code15,20.722135007849293
+2006,percentage (%),st,code15,19.267625628927533
+2007,percentage (%),st,code15,19.845273463202602
+2008,percentage (%),st,code15,19.91979398061688
+2009,percentage (%),st,code15,21.710282299608487
+2010,percentage (%),st,code15,20.634858812074004
+2011,percentage (%),st,code15,18.68490834326121
+2012,percentage (%),st,code15,20.217631870158613
+2013,percentage (%),st,code15,19.38272499909384
+2014,percentage (%),st,code15,18.055358912643356
+2015,percentage (%),st,code15,17.981512402526985
+2016,percentage (%),st,code15,18.262426179044052
+1991,percentage (%),sh,code01,21.99438979099996
+1992,percentage (%),sh,code01,22.4200947301682
+1993,percentage (%),sh,code01,21.196907685311505
+1994,percentage (%),sh,code01,22.034882697689152
+1995,percentage (%),sh,code01,22.84110755040101
+1996,percentage (%),sh,code01,21.33464606347829
+1997,percentage (%),sh,code01,21.78128927994254
+1998,percentage (%),sh,code01,23.0567150708334
+1999,percentage (%),sh,code01,23.864415427049952
+2000,percentage (%),sh,code01,22.966842819061874
+2001,percentage (%),sh,code01,20.67296054224159
+2002,percentage (%),sh,code01,18.41178991185113
+2003,percentage (%),sh,code01,18.250283553875235
+2004,percentage (%),sh,code01,17.378757159136313
+2005,percentage (%),sh,code01,17.430666803838857
+2006,percentage (%),sh,code01,19.851965943610143
+2007,percentage (%),sh,code01,19.99333185152256
+2008,percentage (%),sh,code01,19.997848392345656
+2009,percentage (%),sh,code01,18.632078736451604
+2010,percentage (%),sh,code01,21.40247367993721
+2011,percentage (%),sh,code01,23.127537632022143
+2012,percentage (%),sh,code01,21.42490324035221
+2013,percentage (%),sh,code01,18.64629356897398
+2014,percentage (%),sh,code01,21.48673995109096
+2015,percentage (%),sh,code01,20.64572223510317
+2016,percentage (%),sh,code01,22.6068266033786
+1991,percentage (%),th,code16,46.21019672712235
+1992,percentage (%),th,code16,52.86877988312378
+1993,percentage (%),th,code16,55.95255263916929
+1994,percentage (%),th,code16,55.890520859047136
+1995,percentage (%),th,code16,50.2376439714244
+1996,percentage (%),th,code16,39.61368932311407
+1997,percentage (%),th,code16,38.86154097201447
+1998,percentage (%),th,code16,36.89328105129292
+1999,percentage (%),th,code16,38.33593930228385
+2000,percentage (%),th,code16,34.25251430443878
+2001,percentage (%),th,code16,31.95400039315903
+2002,percentage (%),th,code16,26.476706497024807
+2003,percentage (%),th,code16,26.552116954623127
+2004,percentage (%),th,code16,22.606636171546658
+2005,percentage (%),th,code16,23.195123647067003
+2006,percentage (%),th,code16,23.662216675210058
+2007,percentage (%),th,code16,24.36498465734743
+2008,percentage (%),th,code16,26.43653923201822
+2009,percentage (%),th,code16,22.05523696526267
+2010,percentage (%),th,code16,20.286158631415237
+2011,percentage (%),th,code16,21.05665855763949
+2012,percentage (%),th,code16,20.95055413469736
+2013,percentage (%),th,code16,19.740467679475728
+2014,percentage (%),th,code16,20.059236275166604
+2015,percentage (%),th,code16,18.548939082819988
+2016,percentage (%),th,code16,20.183226922053734
