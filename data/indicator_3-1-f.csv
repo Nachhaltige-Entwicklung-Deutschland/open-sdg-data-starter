@@ -4,64 +4,304 @@ Year,Units,sex,Bundesland,GeoCode,Value
 2005,percentage (%),male and female,,,12.5
 2009,percentage (%),male and female,,,13.3
 2013,percentage (%),male and female,,,14.1
-2017,percentage (%),male and female,,,14.62
-2013,percentage (%),male and female,bb,code12,14.9
-2013,percentage (%),male and female,be,code11,11.7
-2013,percentage (%),male and female,bw,code08,12.9
-2013,percentage (%),male and female,by,code09,13.3
-2013,percentage (%),male and female,hb,code04,13.5
-2013,percentage (%),male and female,he,code06,14.2
-2013,percentage (%),male and female,hh,code02,10.5
-2013,percentage (%),male and female,mv,code13,17.3
-2013,percentage (%),male and female,ni,code03,14.2
-2013,percentage (%),male and female,nw,code05,14.9
-2013,percentage (%),male and female,rp,code07,15.2
-2013,percentage (%),male and female,sh,code01,13.3
-2013,percentage (%),male and female,sl,code10,14.1
-2013,percentage (%),male and female,sn,code14,14.3
-2013,percentage (%),male and female,st,code15,17.1
-2013,percentage (%),male and female,th,code16,15.4
+2017,percentage (%),male and female,,,14.621889455505407
+1999,percentage (%),male and female,bw,code08,9.779519603222706
+2003,percentage (%),male and female,bw,code08,10.91334844281645
+2005,percentage (%),male and female,bw,code08,11.371147023416926
+2009,percentage (%),male and female,bw,code08,12.258956377447818
+2013,percentage (%),male and female,bw,code08,12.923433570605194
+2017,percentage (%),male and female,bw,code08,13.7739939973069
+1999,percentage (%),male and female,by,code09,10.730006676870511
+2003,percentage (%),male and female,by,code09,11.667784568717448
+2005,percentage (%),male and female,by,code09,11.8299425520496
+2009,percentage (%),male and female,by,code09,12.783507448643508
+2013,percentage (%),male and female,by,code09,13.25479091602691
+2017,percentage (%),male and female,by,code09,13.727876917087434
+1999,percentage (%),male and female,be,code11,9.205946052838277
+2003,percentage (%),male and female,be,code11,10.184509770071173
+2005,percentage (%),male and female,be,code11,11.2278310556683
+2009,percentage (%),male and female,be,code11,11.186557344871078
+2013,percentage (%),male and female,be,code11,11.726990950438779
+2017,percentage (%),male and female,be,code11,11.912854165131064
+1999,percentage (%),male and female,bb,code12,13.053712687219143
+2003,percentage (%),male and female,bb,code12,13.122372839225099
+2005,percentage (%),male and female,bb,code12,13.810875589470061
+2009,percentage (%),male and female,bb,code12,14.843404807393767
+2013,percentage (%),male and female,bb,code12,14.925455203727244
+2017,percentage (%),male and female,bb,code12,15.47032150732997
+1999,percentage (%),male and female,hb,code04,8.862846725297183
+2003,percentage (%),male and female,hb,code04,10.82030044416349
+2005,percentage (%),male and female,hb,code04,10.15171899898449
+2009,percentage (%),male and female,hb,code04,11.744832652659912
+2013,percentage (%),male and female,hb,code04,13.545673119836776
+2017,percentage (%),male and female,hb,code04,16.93745100415162
+1999,percentage (%),male and female,hh,code02,8.318491240091008
+2003,percentage (%),male and female,hh,code02,9.03974799466598
+2005,percentage (%),male and female,hh,code02,9.702198268057922
+2009,percentage (%),male and female,hh,code02,9.909418663004672
+2013,percentage (%),male and female,hh,code02,10.514607239200503
+2017,percentage (%),male and female,hh,code02,11.483258254917674
+1999,percentage (%),male and female,he,code06,10.81235932787939
+2003,percentage (%),male and female,he,code06,11.599039478301735
+2005,percentage (%),male and female,he,code06,11.94278853649318
+2009,percentage (%),male and female,he,code06,13.287968494193015
+2013,percentage (%),male and female,he,code06,14.232855342787165
+2017,percentage (%),male and female,he,code06,14.89752393134302
+1999,percentage (%),male and female,mv,code13,13.848066878267595
+2003,percentage (%),male and female,mv,code13,16.32577098957561
+2005,percentage (%),male and female,mv,code13,17.16935653121925
+2009,percentage (%),male and female,mv,code13,17.261929295927672
+2013,percentage (%),male and female,mv,code13,17.323798329236908
+2017,percentage (%),male and female,mv,code13,18.8443919174583
+1999,percentage (%),male and female,ni,code03,9.501433720385588
+2003,percentage (%),male and female,ni,code03,10.482471364421295
+2005,percentage (%),male and female,ni,code03,11.364675056781572
+2009,percentage (%),male and female,ni,code03,12.760677543728672
+2013,percentage (%),male and female,ni,code03,14.217686294089047
+2017,percentage (%),male and female,ni,code03,15.243968349884643
+1999,percentage (%),male and female,nw,code05,10.39357860689889
+2003,percentage (%),male and female,nw,code05,11.621622540680443
+2005,percentage (%),male and female,nw,code05,12.57483051995401
+2009,percentage (%),male and female,nw,code05,13.590766009142987
+2013,percentage (%),male and female,nw,code05,14.865004771089046
+2017,percentage (%),male and female,nw,code05,15.124632164322865
+1999,percentage (%),male and female,rp,code07,11.101357509186919
+2003,percentage (%),male and female,rp,code07,12.227512555962349
+2005,percentage (%),male and female,rp,code07,13.217753767191386
+2009,percentage (%),male and female,rp,code07,14.014943271784755
+2013,percentage (%),male and female,rp,code07,15.185288824129046
+2017,percentage (%),male and female,rp,code07,16.103429510919725
+1999,percentage (%),male and female,sl,code10,9.576018365307595
+2003,percentage (%),male and female,sl,code10,10.305981394523307
+2005,percentage (%),male and female,sl,code10,13.110852636510895
+2009,percentage (%),male and female,sl,code10,14.110905038305738
+2013,percentage (%),male and female,sl,code10,14.133228106720559
+2017,percentage (%),male and female,sl,code10,14.688463726066711
+1999,percentage (%),male and female,sn,code14,11.83797830650234
+2003,percentage (%),male and female,sn,code14,13.37270072956204
+2005,percentage (%),male and female,sn,code14,13.692956348697102
+2009,percentage (%),male and female,sn,code14,13.957628804987015
+2013,percentage (%),male and female,sn,code14,14.285588532058249
+2017,percentage (%),male and female,sn,code14,15.453117132963968
+1999,percentage (%),male and female,st,code15,13.139442260603463
+2003,percentage (%),male and female,st,code15,15.011896916820028
+2005,percentage (%),male and female,st,code15,15.934972728279334
+2009,percentage (%),male and female,st,code15,16.265984568476945
+2013,percentage (%),male and female,st,code15,17.149205372190345
+2017,percentage (%),male and female,st,code15,17.600145551153602
+1999,percentage (%),male and female,sh,code01,9.248322940620838
+2003,percentage (%),male and female,sh,code01,10.295028220010142
+2005,percentage (%),male and female,sh,code01,11.30600450954766
+2009,percentage (%),male and female,sh,code01,12.144011214411844
+2013,percentage (%),male and female,sh,code01,13.323317216161836
+2017,percentage (%),male and female,sh,code01,14.358529300322425
+1999,percentage (%),male and female,th,code16,13.768197163799584
+2003,percentage (%),male and female,th,code16,13.159228000448426
+2005,percentage (%),male and female,th,code16,14.527029106964621
+2009,percentage (%),male and female,th,code16,14.921607071688072
+2013,percentage (%),male and female,th,code16,15.390049024524735
+2017,percentage (%),male and female,th,code16,17.72588358026214
 1999,percentage (%),female,,,10.2
 2003,percentage (%),female,,,11.2
 2005,percentage (%),female,,,11.8
 2009,percentage (%),female,,,12.4
 2013,percentage (%),female,,,12.8
-2017,percentage (%),female,,,12.87
-2013,percentage (%),female,bb,code12,14.3
-2013,percentage (%),female,be,code11,11.2
-2013,percentage (%),female,bw,code08,11.2
-2013,percentage (%),female,by,code09,11.4
-2013,percentage (%),female,hb,code04,13.5
-2013,percentage (%),female,he,code06,12.7
-2013,percentage (%),female,hh,code02,9.5
-2013,percentage (%),female,mv,code13,16.5
-2013,percentage (%),female,ni,code03,13.1
-2013,percentage (%),female,nw,code05,13.3
-2013,percentage (%),female,rp,code07,13.1
-2013,percentage (%),female,sh,code01,11.6
-2013,percentage (%),female,sl,code10,11.8
-2013,percentage (%),female,sn,code14,14.3
-2013,percentage (%),female,st,code15,16.8
-2013,percentage (%),female,th,code16,14.9
+2017,percentage (%),female,,,12.87238623732199
+1999,percentage (%),female,bw,code08,9.252218169761244
+2003,percentage (%),female,bw,code08,10.131708639930691
+2005,percentage (%),female,bw,code08,11.238985794033674
+2009,percentage (%),female,bw,code08,11.294785857581727
+2013,percentage (%),female,bw,code08,11.238985794033674
+2017,percentage (%),female,bw,code08,12.124978921488962
+1999,percentage (%),female,by,code09,10.003411441260493
+2003,percentage (%),female,by,code09,11.114886270514065
+2005,percentage (%),female,by,code09,11.376723805728899
+2009,percentage (%),female,by,code09,11.571174285084759
+2013,percentage (%),female,by,code09,11.376723805728899
+2017,percentage (%),female,by,code09,11.588397258243862
+1999,percentage (%),female,be,code11,9.523733950046374
+2003,percentage (%),female,be,code11,10.677499881221703
+2005,percentage (%),female,be,code11,11.150490855206385
+2009,percentage (%),female,be,code11,10.861345345901595
+2013,percentage (%),female,be,code11,11.150490855206385
+2017,percentage (%),female,be,code11,11.141155819424611
+1999,percentage (%),female,bb,code12,13.230825972613095
+2003,percentage (%),female,bb,code12,13.70439830749189
+2005,percentage (%),female,bb,code12,14.337814115366948
+2009,percentage (%),female,bb,code12,14.309514225310012
+2013,percentage (%),female,bb,code12,14.337814115366948
+2017,percentage (%),female,bb,code12,14.410255818299461
+1999,percentage (%),female,hb,code04,8.639166570304004
+2003,percentage (%),female,hb,code04,10.001839621937009
+2005,percentage (%),female,hb,code04,13.514925451034868
+2009,percentage (%),female,hb,code04,12.354969275952508
+2013,percentage (%),female,hb,code04,13.514925451034868
+2017,percentage (%),female,hb,code04,15.550389710280326
+1999,percentage (%),female,hh,code02,8.40249961531729
+2003,percentage (%),female,hh,code02,8.450319753663498
+2005,percentage (%),female,hh,code02,9.457946368526558
+2009,percentage (%),female,hh,code02,9.37837245325526
+2013,percentage (%),female,hh,code02,9.457946368526558
+2017,percentage (%),female,hh,code02,10.145689185465306
+1999,percentage (%),female,he,code06,10.318697665094906
+2003,percentage (%),female,he,code06,10.831938789675855
+2005,percentage (%),female,he,code06,12.743799818101872
+2009,percentage (%),female,he,code06,12.118175541892553
+2013,percentage (%),female,he,code06,12.743799818101872
+2017,percentage (%),female,he,code06,12.853006774229614
+1999,percentage (%),female,mv,code13,13.91275933533675
+2003,percentage (%),female,mv,code13,16.03710884382202
+2005,percentage (%),female,mv,code13,16.54613117833335
+2009,percentage (%),female,mv,code13,17.29867197074467
+2013,percentage (%),female,mv,code13,16.54613117833335
+2017,percentage (%),female,mv,code13,16.691053454802038
+1999,percentage (%),female,ni,code03,8.65990829898482
+2003,percentage (%),female,ni,code03,9.61370449646478
+2005,percentage (%),female,ni,code03,13.140649110385649
+2009,percentage (%),female,ni,code03,11.72389193585089
+2013,percentage (%),female,ni,code03,13.140649110385649
+2017,percentage (%),female,ni,code03,13.13453139001095
+1999,percentage (%),female,nw,code05,9.788400951175307
+2003,percentage (%),female,nw,code05,10.578055631245807
+2005,percentage (%),female,nw,code05,13.280396408927317
+2009,percentage (%),female,nw,code05,12.405739772765118
+2013,percentage (%),female,nw,code05,13.280396408927317
+2017,percentage (%),female,nw,code05,13.277756594652793
+1999,percentage (%),female,rp,code07,10.476646852801167
+2003,percentage (%),female,rp,code07,11.138779916129081
+2005,percentage (%),female,rp,code07,13.092534383020398
+2009,percentage (%),female,rp,code07,12.623482010886041
+2013,percentage (%),female,rp,code07,13.092534383020398
+2017,percentage (%),female,rp,code07,13.992451283215004
+1999,percentage (%),female,sl,code10,9.635601783060638
+2003,percentage (%),female,sl,code10,10.149326925304365
+2005,percentage (%),female,sl,code10,11.774301423937063
+2009,percentage (%),female,sl,code10,12.613730551308139
+2013,percentage (%),female,sl,code10,11.774301423937063
+2017,percentage (%),female,sl,code10,10.880641346143777
+1999,percentage (%),female,sn,code14,12.1917665623631
+2003,percentage (%),female,sn,code14,13.579748280139157
+2005,percentage (%),female,sn,code14,14.304550040628175
+2009,percentage (%),female,sn,code14,14.50561621673923
+2013,percentage (%),female,sn,code14,14.304550040628175
+2017,percentage (%),female,sn,code14,15.083267383785733
+1999,percentage (%),female,st,code15,12.708727490904135
+2003,percentage (%),female,st,code15,15.252431850707024
+2005,percentage (%),female,st,code15,16.793022237941333
+2009,percentage (%),female,st,code15,16.757340146968332
+2013,percentage (%),female,st,code15,16.793022237941333
+2017,percentage (%),female,st,code15,16.320214502567822
+1999,percentage (%),female,sh,code01,8.369783467251873
+2003,percentage (%),female,sh,code01,9.49638436738379
+2005,percentage (%),female,sh,code01,11.615132722729802
+2009,percentage (%),female,sh,code01,10.253224247234577
+2013,percentage (%),female,sh,code01,11.615132722729802
+2017,percentage (%),female,sh,code01,11.666441431769059
+1999,percentage (%),female,th,code16,13.19446509942053
+2003,percentage (%),female,th,code16,13.095372420181794
+2005,percentage (%),female,th,code16,14.886324962594855
+2009,percentage (%),female,th,code16,14.24808474157851
+2013,percentage (%),female,th,code16,14.886324962594855
+2017,percentage (%),female,th,code16,16.742910882963816
 1999,percentage (%),male,,,11.1
 2003,percentage (%),male,,,12.3
 2005,percentage (%),male,,,13.0
 2009,percentage (%),male,,,14.2
 2013,percentage (%),male,,,15.4
-2017,percentage (%),male,,,16.26
-2013,percentage (%),male,bb,code12,15.5
-2013,percentage (%),male,be,code11,12.3
-2013,percentage (%),male,bw,code08,14.5
-2013,percentage (%),male,by,code09,15.0
-2013,percentage (%),male,hb,code04,13.6
-2013,percentage (%),male,he,code06,15.7
-2013,percentage (%),male,hh,code02,11.5
-2013,percentage (%),male,mv,code13,18.0
-2013,percentage (%),male,ni,code03,15.2
-2013,percentage (%),male,nw,code05,16.4
-2013,percentage (%),male,rp,code07,17.2
-2013,percentage (%),male,sh,code01,14.9
-2013,percentage (%),male,sl,code10,16.4
-2013,percentage (%),male,sn,code14,14.3
-2013,percentage (%),male,st,code15,17.5
-2013,percentage (%),male,th,code16,15.9
+2017,percentage (%),male,,,16.261217783296942
+1999,percentage (%),male,bw,code08,10.27217177527144
+2003,percentage (%),male,bw,code08,11.694112940693312
+2005,percentage (%),male,bw,code08,12.052368066745341
+2009,percentage (%),male,bw,code08,13.267343230461066
+2013,percentage (%),male,bw,code08,14.523960380253351
+2017,percentage (%),male,bw,code08,15.306118820194792
+1999,percentage (%),male,by,code09,11.477498520127167
+2003,percentage (%),male,by,code09,12.191646451925385
+2005,percentage (%),male,by,code09,12.618960889157972
+2009,percentage (%),male,by,code09,13.96381918610391
+2013,percentage (%),male,by,code09,15.022697672466526
+2017,percentage (%),male,by,code09,15.658519375266126
+1999,percentage (%),male,be,code11,8.869020565028855
+2003,percentage (%),male,be,code11,9.641972442493888
+2005,percentage (%),male,be,code11,11.388819347875689
+2009,percentage (%),male,be,code11,11.521321937532939
+2013,percentage (%),male,be,code11,12.313012852265071
+2017,percentage (%),male,be,code11,12.715347018877502
+1999,percentage (%),male,bb,code12,12.891225424671973
+2003,percentage (%),male,bb,code12,12.559346134540824
+2005,percentage (%),male,bb,code12,13.830069857243057
+2009,percentage (%),male,bb,code12,15.353334617892312
+2013,percentage (%),male,bb,code12,15.498473815724337
+2017,percentage (%),male,bb,code12,16.443929378792525
+1999,percentage (%),male,hb,code04,9.347249833405744
+2003,percentage (%),male,hb,code04,11.639463390190082
+2005,percentage (%),male,hb,code04,11.052095712173994
+2009,percentage (%),male,hb,code04,11.170146883619493
+2013,percentage (%),male,hb,code04,13.581577251064733
+2017,percentage (%),male,hb,code04,18.32955472562241
+1999,percentage (%),male,hh,code02,8.20442385709576
+2003,percentage (%),male,hh,code02,9.838760267274475
+2005,percentage (%),male,hh,code02,11.121937545362673
+2009,percentage (%),male,hh,code02,10.447776595853126
+2013,percentage (%),male,hh,code02,11.51088143292696
+2017,percentage (%),male,hh,code02,12.848759184603997
+1999,percentage (%),male,he,code06,11.321938475641979
+2003,percentage (%),male,he,code06,12.378994192202006
+2005,percentage (%),male,he,code06,13.029043125414644
+2009,percentage (%),male,he,code06,14.521890311666272
+2013,percentage (%),male,he,code06,15.721420088731922
+2017,percentage (%),male,he,code06,16.83691955951877
+1999,percentage (%),male,mv,code13,13.705031056119354
+2003,percentage (%),male,mv,code13,16.47069152944562
+2005,percentage (%),male,mv,code13,17.0216047023875
+2009,percentage (%),male,mv,code13,17.14765815141286
+2013,percentage (%),male,mv,code13,18.039104716965316
+2017,percentage (%),male,mv,code13,20.758943872554827
+1999,percentage (%),male,ni,code03,10.325876128536992
+2003,percentage (%),male,ni,code03,11.329842539881268
+2005,percentage (%),male,ni,code03,12.226913202480883
+2009,percentage (%),male,ni,code03,13.75760506570498
+2013,percentage (%),male,ni,code03,15.225736281701632
+2017,percentage (%),male,ni,code03,17.169475958847897
+1999,percentage (%),male,nw,code05,11.00110792401644
+2003,percentage (%),male,nw,code05,12.668220655639074
+2005,percentage (%),male,nw,code05,13.359217281983582
+2009,percentage (%),male,nw,code05,14.769501127665198
+2013,percentage (%),male,nw,code05,16.443905082753155
+2017,percentage (%),male,nw,code05,16.885967113263096
+1999,percentage (%),male,rp,code07,11.727485976682821
+2003,percentage (%),male,rp,code07,13.280673578672046
+2005,percentage (%),male,rp,code07,14.264454460017939
+2009,percentage (%),male,rp,code07,15.393599014634644
+2013,percentage (%),male,rp,code07,17.157634062797925
+2017,percentage (%),male,rp,code07,18.091110799193167
+1999,percentage (%),male,sl,code10,9.54519843258425
+2003,percentage (%),male,sl,code10,10.37011334519113
+2005,percentage (%),male,sl,code10,13.872274886612848
+2009,percentage (%),male,sl,code10,15.56191917384232
+2013,percentage (%),male,sl,code10,16.365215825426407
+2017,percentage (%),male,sl,code10,18.153944328216856
+1999,percentage (%),male,sn,code14,11.485721641566702
+2003,percentage (%),male,sn,code14,13.13965412120775
+2005,percentage (%),male,sn,code14,12.945829231421351
+2009,percentage (%),male,sn,code14,13.384418870563985
+2013,percentage (%),male,sn,code14,14.278460310058541
+2017,percentage (%),male,sn,code14,15.772196346582215
+1999,percentage (%),male,st,code15,13.608507008071077
+2003,percentage (%),male,st,code15,14.70950057110012
+2005,percentage (%),male,st,code15,15.754770042814247
+2009,percentage (%),male,st,code15,15.800804090164505
+2013,percentage (%),male,st,code15,17.476719929781922
+2017,percentage (%),male,st,code15,18.705766015832722
+1999,percentage (%),male,sh,code01,10.10563829942901
+2003,percentage (%),male,sh,code01,11.01872684943688
+2005,percentage (%),male,sh,code01,12.484135524233205
+2009,percentage (%),male,sh,code01,13.974266970688431
+2013,percentage (%),male,sh,code01,14.949601826175558
+2017,percentage (%),male,sh,code01,16.84260625800402
+1999,percentage (%),male,th,code16,14.299598609245365
+2003,percentage (%),male,th,code16,13.128561140229323
+2005,percentage (%),male,th,code16,14.549347598187747
+2009,percentage (%),male,th,code16,15.579156501954397
+2013,percentage (%),male,th,code16,15.858221890664273
+2017,percentage (%),male,th,code16,18.608092284592008

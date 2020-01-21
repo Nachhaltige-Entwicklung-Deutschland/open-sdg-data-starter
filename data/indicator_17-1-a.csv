@@ -1,10 +1,10 @@
 Year,Units,display,Bundesland,GeoCode,Value
-1995,percentage (%),a) time series,a) germany (total),,0.31
-1996,percentage (%),a) time series,a) germany (total),,0.32
-1997,percentage (%),a) time series,a) germany (total),,0.28
-1998,percentage (%),a) time series,a) germany (total),,0.26
-1999,percentage (%),a) time series,a) germany (total),,0.26
-2000,percentage (%),a) time series,a) germany (total),,0.27
+1995,percentage (%),a) time series,a) germany (total),,0.30782159570825246
+1996,percentage (%),a) time series,a) germany (total),,0.32028620235794897
+1997,percentage (%),a) time series,a) germany (total),,0.27880476556495
+1998,percentage (%),a) time series,a) germany (total),,0.2620696097795335
+1999,percentage (%),a) time series,a) germany (total),,0.2638512456999896
+2000,percentage (%),a) time series,a) germany (total),,0.2706785587594385
 2001,percentage (%),a) time series,a) germany (total),,0.27
 2002,percentage (%),a) time series,a) germany (total),,0.27
 2003,percentage (%),a) time series,a) germany (total),,0.28
@@ -17,105 +17,138 @@ Year,Units,display,Bundesland,GeoCode,Value
 2010,percentage (%),a) time series,a) germany (total),,0.39
 2011,percentage (%),a) time series,a) germany (total),,0.39
 2012,percentage (%),a) time series,a) germany (total),,0.37
-2013,percentage (%),a) time series,a) germany (total),,0.38
-2014,percentage (%),a) time series,a) germany (total),,0.42
-2015,percentage (%),a) time series,a) germany (total),,0.52
-2016,percentage (%),a) time series,a) germany (total),,0.7
-2017,percentage (%),a) time series,a) germany (total),,0.66
+2013,percentage (%),a) time series,a) germany (total),,0.3808658724633767
+2014,percentage (%),a) time series,a) germany (total),,0.41873458623703314
+2015,percentage (%),a) time series,a) germany (total),,0.5231763528328276
+2016,percentage (%),a) time series,a) germany (total),,0.6992881994289578
+2017,percentage (%),a) time series,a) germany (total),,0.67
+2018,percentage (%),a) time series,a) germany (total),,0.61
 2030,percentage (%),b) target,a) germany (total),,0.7
-2010,percentage (%),a) time series,bb,code12,0.02
-2011,percentage (%),a) time series,bb,code12,0.02
-2012,percentage (%),a) time series,bb,code12,0.02
-2013,percentage (%),a) time series,bb,code12,0.02
-2014,percentage (%),a) time series,bb,code12,0.02
-2015,percentage (%),a) time series,bb,code12,0.02
-2010,percentage (%),a) time series,be,code11,0.05
-2011,percentage (%),a) time series,be,code11,0.05
-2012,percentage (%),a) time series,be,code11,0.05
-2013,percentage (%),a) time series,be,code11,0.04
-2014,percentage (%),a) time series,be,code11,0.04
-2015,percentage (%),a) time series,be,code11,0.04
-2010,percentage (%),a) time series,bw,code08,0.03
-2011,percentage (%),a) time series,bw,code08,0.03
-2012,percentage (%),a) time series,bw,code08,0.03
-2013,percentage (%),a) time series,bw,code08,0.03
-2014,percentage (%),a) time series,bw,code08,0.03
-2015,percentage (%),a) time series,bw,code08,0.03
-2010,percentage (%),a) time series,by,code09,0.02
-2011,percentage (%),a) time series,by,code09,0.01
-2012,percentage (%),a) time series,by,code09,0.01
-2013,percentage (%),a) time series,by,code09,0.01
-2014,percentage (%),a) time series,by,code09,0.02
-2015,percentage (%),a) time series,by,code09,0.02
-2010,percentage (%),a) time series,hb,code04,0.09
-2011,percentage (%),a) time series,hb,code04,0.08
-2012,percentage (%),a) time series,hb,code04,0.08
-2013,percentage (%),a) time series,hb,code04,0.06
-2014,percentage (%),a) time series,hb,code04,0.05
-2015,percentage (%),a) time series,hb,code04,0.05
-2010,percentage (%),a) time series,he,code06,0.03
-2011,percentage (%),a) time series,he,code06,0.03
-2012,percentage (%),a) time series,he,code06,0.03
-2013,percentage (%),a) time series,he,code06,0.02
-2014,percentage (%),a) time series,he,code06,0.03
-2015,percentage (%),a) time series,he,code06,0.03
-2010,percentage (%),a) time series,hh,code02,0.04
-2011,percentage (%),a) time series,hh,code02,0.03
-2012,percentage (%),a) time series,hh,code02,0.03
-2013,percentage (%),a) time series,hh,code02,0.03
-2014,percentage (%),a) time series,hh,code02,0.04
-2015,percentage (%),a) time series,hh,code02,0.04
-2010,percentage (%),a) time series,mv,code13,0.02
-2011,percentage (%),a) time series,mv,code13,0.02
-2012,percentage (%),a) time series,mv,code13,0.02
-2013,percentage (%),a) time series,mv,code13,0.02
-2014,percentage (%),a) time series,mv,code13,0.02
-2015,percentage (%),a) time series,mv,code13,0.03
-2010,percentage (%),a) time series,ni,code03,0.03
-2011,percentage (%),a) time series,ni,code03,0.03
-2012,percentage (%),a) time series,ni,code03,0.03
-2013,percentage (%),a) time series,ni,code03,0.02
-2014,percentage (%),a) time series,ni,code03,0.03
-2015,percentage (%),a) time series,ni,code03,0.03
-2010,percentage (%),a) time series,nw,code05,0.03
-2011,percentage (%),a) time series,nw,code05,0.03
-2012,percentage (%),a) time series,nw,code05,0.03
-2013,percentage (%),a) time series,nw,code05,0.02
-2014,percentage (%),a) time series,nw,code05,0.02
-2015,percentage (%),a) time series,nw,code05,0.03
-2010,percentage (%),a) time series,rp,code07,0.02
-2011,percentage (%),a) time series,rp,code07,0.02
-2012,percentage (%),a) time series,rp,code07,0.02
-2013,percentage (%),a) time series,rp,code07,0.02
-2014,percentage (%),a) time series,rp,code07,0.02
-2015,percentage (%),a) time series,rp,code07,0.02
-2010,percentage (%),a) time series,sh,code01,0.02
-2011,percentage (%),a) time series,sh,code01,0.02
-2012,percentage (%),a) time series,sh,code01,0.02
-2013,percentage (%),a) time series,sh,code01,0.02
-2014,percentage (%),a) time series,sh,code01,0.02
-2015,percentage (%),a) time series,sh,code01,0.02
-2010,percentage (%),a) time series,sl,code10,0.03
-2011,percentage (%),a) time series,sl,code10,0.03
-2012,percentage (%),a) time series,sl,code10,0.04
-2013,percentage (%),a) time series,sl,code10,0.05
-2014,percentage (%),a) time series,sl,code10,0.04
-2015,percentage (%),a) time series,sl,code10,0.04
-2010,percentage (%),a) time series,sn,code14,0.02
-2011,percentage (%),a) time series,sn,code14,0.02
-2012,percentage (%),a) time series,sn,code14,0.03
-2013,percentage (%),a) time series,sn,code14,0.03
-2014,percentage (%),a) time series,sn,code14,0.03
-2015,percentage (%),a) time series,sn,code14,0.04
-2010,percentage (%),a) time series,st,code15,0.04
-2011,percentage (%),a) time series,st,code15,0.04
-2012,percentage (%),a) time series,st,code15,0.04
-2013,percentage (%),a) time series,st,code15,0.04
-2014,percentage (%),a) time series,st,code15,0.05
-2015,percentage (%),a) time series,st,code15,0.05
-2010,percentage (%),a) time series,th,code16,0.02
-2011,percentage (%),a) time series,th,code16,0.03
-2012,percentage (%),a) time series,th,code16,0.03
-2013,percentage (%),a) time series,th,code16,0.03
-2014,percentage (%),a) time series,th,code16,0.04
-2015,percentage (%),a) time series,th,code16,0.04
+2010,percentage (%),a) time series,bb,code12,0.027790691772826472
+2011,percentage (%),a) time series,bb,code12,0.026270573796674572
+2012,percentage (%),a) time series,bb,code12,0.026102577710564692
+2013,percentage (%),a) time series,bb,code12,0.02837357482810904
+2014,percentage (%),a) time series,bb,code12,0.026787138743970318
+2015,percentage (%),a) time series,bb,code12,0.03409308565618553
+2016,percentage (%),a) time series,bb,code12,0.030483182843324835
+2017,percentage (%),a) time series,bb,code12,0.031758861549862086
+2010,percentage (%),a) time series,be,code11,0.015795781399808247
+2011,percentage (%),a) time series,be,code11,0.014043351768922957
+2012,percentage (%),a) time series,be,code11,0.013684267625497883
+2013,percentage (%),a) time series,be,code11,0.013601211155738584
+2014,percentage (%),a) time series,be,code11,0.015292420154652394
+2015,percentage (%),a) time series,be,code11,0.017459632036321195
+2016,percentage (%),a) time series,be,code11,0.019340627420604183
+2017,percentage (%),a) time series,be,code11,0.02053710303952585
+2010,percentage (%),a) time series,bw,code08,0.05181353112870997
+2011,percentage (%),a) time series,bw,code08,0.04728515064917087
+2012,percentage (%),a) time series,bw,code08,0.04648493961294077
+2013,percentage (%),a) time series,bw,code08,0.0433233283776076
+2014,percentage (%),a) time series,bw,code08,0.03948339814001828
+2015,percentage (%),a) time series,bw,code08,0.04056182990254658
+2016,percentage (%),a) time series,bw,code08,0.04986585670434496
+2017,percentage (%),a) time series,bw,code08,0.05435761893817513
+2010,percentage (%),a) time series,by,code09,0.01568019983455256
+2011,percentage (%),a) time series,by,code09,0.016309355611524048
+2012,percentage (%),a) time series,by,code09,0.015247374029532653
+2013,percentage (%),a) time series,by,code09,0.018734109856323535
+2014,percentage (%),a) time series,by,code09,0.021179868808605697
+2015,percentage (%),a) time series,by,code09,0.02363541823456165
+2016,percentage (%),a) time series,by,code09,0.026208466210583425
+2017,percentage (%),a) time series,by,code09,0.030078000738016773
+2010,percentage (%),a) time series,hb,code04,0.09391507232851143
+2011,percentage (%),a) time series,hb,code04,0.08247302681649282
+2012,percentage (%),a) time series,hb,code04,0.08333983951420515
+2013,percentage (%),a) time series,hb,code04,0.05879896006478285
+2014,percentage (%),a) time series,hb,code04,0.05479831377087122
+2015,percentage (%),a) time series,hb,code04,0.05049563838223632
+2016,percentage (%),a) time series,hb,code04,0.0512429985421622
+2017,percentage (%),a) time series,hb,code04,0.05420419868377514
+2010,percentage (%),a) time series,he,code06,0.03679802385271527
+2011,percentage (%),a) time series,he,code06,0.032102904156689385
+2012,percentage (%),a) time series,he,code06,0.03362595050128348
+2013,percentage (%),a) time series,he,code06,0.0340434522342336
+2014,percentage (%),a) time series,he,code06,0.03828360015213858
+2015,percentage (%),a) time series,he,code06,0.043703138477871405
+2016,percentage (%),a) time series,he,code06,0.04966951664143622
+2017,percentage (%),a) time series,he,code06,0.04885876953584169
+2010,percentage (%),a) time series,hh,code02,0.03114115395734956
+2011,percentage (%),a) time series,hh,code02,0.02925545469723465
+2012,percentage (%),a) time series,hh,code02,0.028831520794968903
+2013,percentage (%),a) time series,hh,code02,0.023806822543909784
+2014,percentage (%),a) time series,hh,code02,0.030329175116245725
+2015,percentage (%),a) time series,hh,code02,0.029782854263999146
+2016,percentage (%),a) time series,hh,code02,0.0301272144526581
+2017,percentage (%),a) time series,hh,code02,0.03212059969133534
+2010,percentage (%),a) time series,mv,code13,0.021462395174730826
+2011,percentage (%),a) time series,mv,code13,0.020837640888575103
+2012,percentage (%),a) time series,mv,code13,0.022008822363203808
+2013,percentage (%),a) time series,mv,code13,0.02276348187128856
+2014,percentage (%),a) time series,mv,code13,0.023510993761244946
+2015,percentage (%),a) time series,mv,code13,0.026325436155047177
+2016,percentage (%),a) time series,mv,code13,0.028809979539304337
+2017,percentage (%),a) time series,mv,code13,0.03481664868067458
+2010,percentage (%),a) time series,ni,code03,0.03130979300747956
+2011,percentage (%),a) time series,ni,code03,0.028091955870827724
+2012,percentage (%),a) time series,ni,code03,0.026177059928398055
+2013,percentage (%),a) time series,ni,code03,0.0239295404361819
+2014,percentage (%),a) time series,ni,code03,0.028913630353676906
+2015,percentage (%),a) time series,ni,code03,0.026971216024113127
+2016,percentage (%),a) time series,ni,code03,0.02940863408654688
+2017,percentage (%),a) time series,ni,code03,0.03553458496064709
+2010,percentage (%),a) time series,nw,code05,0.028903779204635202
+2011,percentage (%),a) time series,nw,code05,0.02707181110111254
+2012,percentage (%),a) time series,nw,code05,0.02787903534941084
+2013,percentage (%),a) time series,nw,code05,0.02454116224149149
+2014,percentage (%),a) time series,nw,code05,0.024678745956090393
+2015,percentage (%),a) time series,nw,code05,0.027192321531265284
+2016,percentage (%),a) time series,nw,code05,0.02705535617020959
+2017,percentage (%),a) time series,nw,code05,0.027053105310531053
+2010,percentage (%),a) time series,rp,code07,0.02340237278224876
+2011,percentage (%),a) time series,rp,code07,0.02150269699812383
+2012,percentage (%),a) time series,rp,code07,0.02119759095307558
+2013,percentage (%),a) time series,rp,code07,0.016486788502885593
+2014,percentage (%),a) time series,rp,code07,0.015384457265015826
+2015,percentage (%),a) time series,rp,code07,0.016215613626676284
+2016,percentage (%),a) time series,rp,code07,0.01757391721272175
+2017,percentage (%),a) time series,rp,code07,0.01843119277421913
+2010,percentage (%),a) time series,sh,code01,0.025243137385069874
+2011,percentage (%),a) time series,sh,code01,0.02991045913507335
+2012,percentage (%),a) time series,sh,code01,0.044255439567350015
+2013,percentage (%),a) time series,sh,code01,0.0501088376142795
+2014,percentage (%),a) time series,sh,code01,0.04176369653143768
+2015,percentage (%),a) time series,sh,code01,0.04327847385494479
+2016,percentage (%),a) time series,sh,code01,0.0540763011179544
+2017,percentage (%),a) time series,sh,code01,0.04672562345380612
+2010,percentage (%),a) time series,sl,code10,0.023220812728445495
+2011,percentage (%),a) time series,sl,code10,0.02351022626894068
+2012,percentage (%),a) time series,sl,code10,0.02739490856665908
+2013,percentage (%),a) time series,sl,code10,0.028379440064330675
+2014,percentage (%),a) time series,sl,code10,0.031306744198490985
+2015,percentage (%),a) time series,sl,code10,0.03960242286969354
+2016,percentage (%),a) time series,sl,code10,0.040977835939570634
+2017,percentage (%),a) time series,sl,code10,0.04987652143235139
+2010,percentage (%),a) time series,sn,code14,0.036347355586038715
+2011,percentage (%),a) time series,sn,code14,0.038428847627038264
+2012,percentage (%),a) time series,sn,code14,0.04252695357747483
+2013,percentage (%),a) time series,sn,code14,0.043934626813494145
+2014,percentage (%),a) time series,sn,code14,0.047572864831928505
+2015,percentage (%),a) time series,sn,code14,0.04983407170064246
+2016,percentage (%),a) time series,sn,code14,0.0522027972027972
+2017,percentage (%),a) time series,sn,code14,0.0554382454790304
+2010,percentage (%),a) time series,st,code15,0.018718611906888272
+2011,percentage (%),a) time series,st,code15,0.01779980439775387
+2012,percentage (%),a) time series,st,code15,0.017713247858655117
+2013,percentage (%),a) time series,st,code15,0.01701381966232594
+2014,percentage (%),a) time series,st,code15,0.016304757634735118
+2015,percentage (%),a) time series,st,code15,0.01754602073396665
+2016,percentage (%),a) time series,st,code15,0.0172465080802784
+2017,percentage (%),a) time series,st,code15,0.019360155291446152
+2010,percentage (%),a) time series,th,code16,0.022164543626089453
+2011,percentage (%),a) time series,th,code16,0.026481955255565837
+2012,percentage (%),a) time series,th,code16,0.025319688526932418
+2013,percentage (%),a) time series,th,code16,0.028785325945354427
+2014,percentage (%),a) time series,th,code16,0.036409938512573924
+2015,percentage (%),a) time series,th,code16,0.041759148412980875
+2016,percentage (%),a) time series,th,code16,0.04487671834098782
+2017,percentage (%),a) time series,th,code16,0.04925123781173111
