@@ -125,7 +125,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2015,ha/d,a) time series,a) total (moving four-year average),by,code09,13.100
 2016,ha/d,a) time series,a) total (moving four-year average),by,code09,9.800
 2017,ha/d,a) time series,a) total (moving four-year average),by,code09,11.700
-1996,ha/d,a) time series,a) total (moving four-year average),be,code11,0.700
+1996,ha/d,a) time series,a) total (moving four-year average),be,code11,-0.700
 1997,ha/d,a) time series,a) total (moving four-year average),be,code11,1.400
 1998,ha/d,a) time series,a) total (moving four-year average),be,code11,1.400
 1999,ha/d,a) time series,a) total (moving four-year average),be,code11,1.400
@@ -141,7 +141,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2009,ha/d,a) time series,a) total (moving four-year average),be,code11,0.600
 2010,ha/d,a) time series,a) total (moving four-year average),be,code11,0.300
 2011,ha/d,a) time series,a) total (moving four-year average),be,code11,0.200
-2012,ha/d,a) time series,a) total (moving four-year average),be,code11,0.600
+2012,ha/d,a) time series,a) total (moving four-year average),be,code11,-0.600
 2013,ha/d,a) time series,a) total (moving four-year average),be,code11,0.300
 2014,ha/d,a) time series,a) total (moving four-year average),be,code11,0.000
 2015,ha/d,a) time series,a) total (moving four-year average),be,code11,0.000
@@ -209,9 +209,9 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2011,ha/d,a) time series,a) total (moving four-year average),hh,code02,0.000
 2012,ha/d,a) time series,a) total (moving four-year average),hh,code02,0.200
 2013,ha/d,a) time series,a) total (moving four-year average),hh,code02,0.400
-2014,ha/d,a) time series,a) total (moving four-year average),hh,code02,0.600
-2015,ha/d,a) time series,a) total (moving four-year average),hh,code02,0.900
-2016,ha/d,a) time series,a) total (moving four-year average),hh,code02,0.900
+2014,ha/d,a) time series,a) total (moving four-year average),hh,code02,-0.600
+2015,ha/d,a) time series,a) total (moving four-year average),hh,code02,-0.900
+2016,ha/d,a) time series,a) total (moving four-year average),hh,code02,-0.900
 2017,ha/d,a) time series,a) total (moving four-year average),hh,code02,0.100
 1996,ha/d,a) time series,a) total (moving four-year average),he,code06,4.500
 1997,ha/d,a) time series,a) total (moving four-year average),he,code06,4.900
@@ -255,7 +255,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2014,ha/d,a) time series,a) total (moving four-year average),mv,code13,2.000
 2015,ha/d,a) time series,a) total (moving four-year average),mv,code13,5.100
 2016,ha/d,a) time series,a) total (moving four-year average),mv,code13,17.700
-2017,ha/d,a) time series,a) total (moving four-year average),mv,code13,7.900
+2017,ha/d,a) time series,a) total (moving four-year average),mv,code13,-7.900
 1996,ha/d,a) time series,a) total (moving four-year average),ni,code03,16.600
 1997,ha/d,a) time series,a) total (moving four-year average),ni,code03,16.400
 1998,ha/d,a) time series,a) total (moving four-year average),ni,code03,16.400
@@ -318,9 +318,9 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2012,ha/d,a) time series,a) total (moving four-year average),rp,code07,1.500
 2013,ha/d,a) time series,a) total (moving four-year average),rp,code07,1.400
 2014,ha/d,a) time series,a) total (moving four-year average),rp,code07,0.600
-2015,ha/d,a) time series,a) total (moving four-year average),rp,code07,1.000
+2015,ha/d,a) time series,a) total (moving four-year average),rp,code07,-1.000
 2016,ha/d,a) time series,a) total (moving four-year average),rp,code07,2.200
-2017,ha/d,a) time series,a) total (moving four-year average),rp,code07,0.400
+2017,ha/d,a) time series,a) total (moving four-year average),rp,code07,-0.400
 1996,ha/d,a) time series,a) total (moving four-year average),sl,code10,0.600
 1997,ha/d,a) time series,a) total (moving four-year average),sl,code10,0.700
 1998,ha/d,a) time series,a) total (moving four-year average),sl,code10,0.700
@@ -377,9 +377,9 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2007,ha/d,a) time series,a) total (moving four-year average),st,code15,0.800
 2008,ha/d,a) time series,a) total (moving four-year average),st,code15,2.500
 2009,ha/d,a) time series,a) total (moving four-year average),st,code15,0.400
-2010,ha/d,a) time series,a) total (moving four-year average),st,code15,1.600
-2011,ha/d,a) time series,a) total (moving four-year average),st,code15,0.600
-2012,ha/d,a) time series,a) total (moving four-year average),st,code15,0.400
+2010,ha/d,a) time series,a) total (moving four-year average),st,code15,-1.600
+2011,ha/d,a) time series,a) total (moving four-year average),st,code15,-0.600
+2012,ha/d,a) time series,a) total (moving four-year average),st,code15,-0.400
 2013,ha/d,a) time series,a) total (moving four-year average),st,code15,0.200
 2014,ha/d,a) time series,a) total (moving four-year average),st,code15,1.800
 2015,ha/d,a) time series,a) total (moving four-year average),st,code15,0.500
@@ -449,5 +449,6 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2013,ha/d,a) time series,a) total (moving four-year average),,,72.600
 2014,ha/d,a) time series,a) total (moving four-year average),,,69.200
 2015,ha/d,a) time series,a) total (moving four-year average),,,66.100
-2016,ha/d,a) time series,a) total (moving four-year average),,,61.500
+2016,ha/d,a) time series,a) total (moving four-year average),,,61.539
+2017,ha/d,a) time series,a) total (moving four-year average),,,57.692
 2030,ha/d,b) target (max),a) total (moving four-year average),,,30.000
