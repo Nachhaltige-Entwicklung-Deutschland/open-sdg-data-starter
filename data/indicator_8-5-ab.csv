@@ -439,18 +439,18 @@ Year,Units,display,sex,age,Bundesland,GeoCode,Value
 2018,percentage (%),a) time series,female,20 - 64 years,hb,code04,71.5
 2000,percentage (%),a) time series,female,20 - 64 years,hh,code02,63.4
 2001,percentage (%),a) time series,female,20 - 64 years,hh,code02,63.4
-2002,percentage (%),a) time series,female,20 - 64 years,hh,code02,62.6
-2003,percentage (%),a) time series,female,20 - 64 years,hh,code02,62.7
-2004,percentage (%),a) time series,female,20 - 64 years,hh,code02,62.0
-2005,percentage (%),a) time series,female,20 - 64 years,hh,code02,64.0
-2006,percentage (%),a) time series,female,20 - 64 years,hh,code02,66.9
-2007,percentage (%),a) time series,female,20 - 64 years,hh,code02,67.5
-2008,percentage (%),a) time series,female,20 - 64 years,hh,code02,68.7
-2009,percentage (%),a) time series,female,20 - 64 years,hh,code02,70.1
-2010,percentage (%),a) time series,female,20 - 64 years,hh,code02,70.8
-2011,percentage (%),a) time series,female,20 - 64 years,hh,code02,72.6
-2012,percentage (%),a) time series,female,20 - 64 years,hh,code02,72.6
-2013,percentage (%),a) time series,female,20 - 64 years,hh,code02,73.7
+2002,percentage (%),a) time series,female,20 - 64 years,hh,code02,63.4
+2003,percentage (%),a) time series,female,20 - 64 years,hh,code02,63.4
+2004,percentage (%),a) time series,female,20 - 64 years,hh,code02,63.4
+2005,percentage (%),a) time series,female,20 - 64 years,hh,code02,63.4
+2006,percentage (%),a) time series,female,20 - 64 years,hh,code02,63.4
+2007,percentage (%),a) time series,female,20 - 64 years,hh,code02,63.4
+2008,percentage (%),a) time series,female,20 - 64 years,hh,code02,63.4
+2009,percentage (%),a) time series,female,20 - 64 years,hh,code02,63.4
+2010,percentage (%),a) time series,female,20 - 64 years,hh,code02,63.4
+2011,percentage (%),a) time series,female,20 - 64 years,hh,code02,63.4
+2012,percentage (%),a) time series,female,20 - 64 years,hh,code02,63.4
+2013,percentage (%),a) time series,female,20 - 64 years,hh,code02,63.4
 2014,percentage (%),a) time series,female,20 - 64 years,hh,code02,74.1
 2015,percentage (%),a) time series,female,20 - 64 years,hh,code02,75.4
 2016,percentage (%),a) time series,female,20 - 64 years,hh,code02,75.3
@@ -566,10 +566,10 @@ Year,Units,display,sex,age,Bundesland,GeoCode,Value
 2012,percentage (%),a) time series,female,20 - 64 years,sl,code10,66.0
 2013,percentage (%),a) time series,female,20 - 64 years,sl,code10,67.4
 2014,percentage (%),a) time series,female,20 - 64 years,sl,code10,67.6
-2015,percentage (%),a) time series,female,20 - 64 years,sl,code10,69.8
-2016,percentage (%),a) time series,female,20 - 64 years,sl,code10,71.7
-2017,percentage (%),a) time series,female,20 - 64 years,sl,code10,72.3
-2018,percentage (%),a) time series,female,20 - 64 years,sl,code10,73.1
+2015,percentage (%),a) time series,female,20 - 64 years,sl,code10,68.6
+2016,percentage (%),a) time series,female,20 - 64 years,sl,code10,69.6
+2017,percentage (%),a) time series,female,20 - 64 years,sl,code10,70.6
+2018,percentage (%),a) time series,female,20 - 64 years,sl,code10,71.6
 2000,percentage (%),a) time series,female,20 - 64 years,sn,code14,61.7
 2001,percentage (%),a) time series,female,20 - 64 years,sn,code14,62.1
 2002,percentage (%),a) time series,female,20 - 64 years,sn,code14,61.3
@@ -965,10 +965,10 @@ Year,Units,display,sex,age,Bundesland,GeoCode,Value
 2012,percentage (%),a) time series,male,20 - 64 years,th,code16,80.3
 2013,percentage (%),a) time series,male,20 - 64 years,th,code16,80.8
 2014,percentage (%),a) time series,male,20 - 64 years,th,code16,81.0
-2015,percentage (%),a) time series,male,20 - 64 years,th,code16,81.0
-2016,percentage (%),a) time series,male,20 - 64 years,th,code16,81.0
-2017,percentage (%),a) time series,male,20 - 64 years,th,code16,81.0
-2018,percentage (%),a) time series,male,20 - 64 years,th,code16,81.0
+2015,percentage (%),a) time series,male,20 - 64 years,th,code16,79.6
+2016,percentage (%),a) time series,male,20 - 64 years,th,code16,80.8
+2017,percentage (%),a) time series,male,20 - 64 years,th,code16,82.0
+2018,percentage (%),a) time series,male,20 - 64 years,th,code16,82.7
 2000,percentage (%),a) time series,male and female,60 - 64 years,,,19.6
 2001,percentage (%),a) time series,male and female,60 - 64 years,,,20.8
 2002,percentage (%),a) time series,male and female,60 - 64 years,,,22.2
