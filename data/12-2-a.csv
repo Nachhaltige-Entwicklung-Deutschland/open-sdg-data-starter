@@ -28,20 +28,20 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,emas organisational locations,,,2233.0
 2018,number,a) time series,emas organisational locations,,,2226.0
 2030,number,b) target (min),emas organisational locations,,,5000.0
-2005,,,,a) germany (total),,1491.0
-2006,,,,a) germany (total),,1490.0
-2007,,,,a) germany (total),,1466.0
-2008,,,,a) germany (total),,1408.0
-2009,,,,a) germany (total),,1354.0
-2010,,,,a) germany (total),,1332.0
-2011,,,,a) germany (total),,1269.0
-2012,,,,a) germany (total),,1212.0
-2013,,,,a) germany (total),,1228.0
-2014,,,,a) germany (total),,1223.0
-2015,,,,a) germany (total),,1216.0
-2016,,,,a) germany (total),,1225.0
-2017,,,,a) germany (total),,1240.0
-2018,,,,a) germany (total),,1183.0
+2005,number,a) time series,emas organisations,a) germany (total),,1491.0
+2006,number,a) time series,emas organisations,a) germany (total),,1490.0
+2007,number,a) time series,emas organisations,a) germany (total),,1466.0
+2008,number,a) time series,emas organisations,a) germany (total),,1408.0
+2009,number,a) time series,emas organisations,a) germany (total),,1354.0
+2010,number,a) time series,emas organisations,a) germany (total),,1332.0
+2011,number,a) time series,emas organisations,a) germany (total),,1269.0
+2012,number,a) time series,emas organisations,a) germany (total),,1212.0
+2013,number,a) time series,emas organisations,a) germany (total),,1228.0
+2014,number,a) time series,emas organisations,a) germany (total),,1223.0
+2015,number,a) time series,emas organisations,a) germany (total),,1216.0
+2016,number,a) time series,emas organisations,a) germany (total),,1225.0
+2017,number,a) time series,emas organisations,a) germany (total),,1240.0
+2018,number,a) time series,emas organisations,a) germany (total),,1183.0
 2005,number,a) time series,emas organisations,bw,code08,313.0
 2006,number,a) time series,emas organisations,bw,code08,358.0
 2007,number,a) time series,emas organisations,bw,code08,353.0
