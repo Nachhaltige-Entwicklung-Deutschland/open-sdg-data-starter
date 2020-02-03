@@ -399,7 +399,7 @@ prose:
             element: text
             label: ""
             scope: source_1
-      - name: source_organisation_1
+      - name: source_organisation_1_long
         field:
             element: text
             label: Organisation
@@ -473,7 +473,7 @@ prose:
             element: text
             label: ""
             scope: source_2
-      - name: source_organisation_2
+      - name: source_organisation_2_long
         field:
             element: text
             label: "Organisation"
@@ -547,11 +547,18 @@ prose:
             element: text
             label: ""
             scope: source_3
-      - name: source_organisation_3
+      - name: source_organisation_3_long
         field:
             element: text
             label: "Organisation"
             scope: source_3
+
+      - name: source_organisation_3_short
+        field:
+            element: text
+            label: Organisation
+            scope: source_3
+
       - name: "source_url_3"
         field:
             element: text
@@ -601,11 +608,18 @@ prose:
             element: text
             label: ""
             scope: source_4
-      - name: source_organisation_4
+      - name: source_organisation_4_long
         field:
             element: text
             label: "Organisation"
             scope: source_4
+
+      - name: source_organisation_4_short
+        field:
+            element: text
+            label: "Organisation"
+            scope: source_4
+
       - name: "source_url_4"
         field:
             element: text
@@ -655,11 +669,18 @@ prose:
             element: text
             label: ""
             scope: source_5
-      - name: source_organisation_5
+      - name: source_organisation_5_long
         field:
             element: text
             label: "Organisation"
             scope: source_5
+
+      - name: source_organisation_5_short
+        field:
+            element: text
+            label: "Organisation"
+            scope: source_5
+
       - name: "source_url_5"
         field:
             element: text
@@ -709,11 +730,18 @@ prose:
             element: text
             label: ""
             scope: source_6
-      - name: source_organisation_6
+      - name: source_organisation_6_long
         field:
             element: text
             label: "Organisation"
             scope: source_6
+
+      - name: source_organisation_6_short
+        field:
+            element: text
+            label: "Organisation"
+            scope: source_6
+
       - name: "source_url_6"
         field:
             element: text
