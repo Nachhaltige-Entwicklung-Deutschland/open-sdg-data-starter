@@ -399,7 +399,7 @@ prose:
             element: text
             label: ""
             scope: source_1
-      - name: source_organisation_1_long
+      - name: source_organisation_1
         field:
             element: text
             label: Organisation
@@ -473,7 +473,7 @@ prose:
             element: text
             label: ""
             scope: source_2
-      - name: source_organisation_2_long
+      - name: source_organisation_2
         field:
             element: text
             label: "Organisation"
@@ -547,7 +547,7 @@ prose:
             element: text
             label: ""
             scope: source_3
-      - name: source_organisation_3_long
+      - name: source_organisation_3
         field:
             element: text
             label: "Organisation"
@@ -608,7 +608,7 @@ prose:
             element: text
             label: ""
             scope: source_4
-      - name: source_organisation_4_long
+      - name: source_organisation_4
         field:
             element: text
             label: "Organisation"
@@ -669,7 +669,7 @@ prose:
             element: text
             label: ""
             scope: source_5
-      - name: source_organisation_5_long
+      - name: source_organisation_5
         field:
             element: text
             label: "Organisation"
@@ -730,7 +730,7 @@ prose:
             element: text
             label: ""
             scope: source_6
-      - name: source_organisation_6_long
+      - name: source_organisation_6
         field:
             element: text
             label: "Organisation"
