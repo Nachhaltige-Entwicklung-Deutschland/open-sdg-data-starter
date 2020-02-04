@@ -135,10 +135,20 @@ prose:
             element: text
             label: Indicator
             scope: history_1
+      - name: history_indicator_1_height
+        field:
+            element: text
+            label: Indicator height
+            scope: history_1
       - name: history_target_1
         field:
             element: text
             label: Target of indicator
+            scope: history_1
+      - name: history_target_1_height
+        field:
+            element: text
+            label: Target of indicator height
             scope: history_1
       - name: "history_year_a_1"
         field:
@@ -244,18 +254,21 @@ prose:
             element: text
             label: Indicator
             scope: history_2
+      - name: history_indicator_2_height
+        field:
+            element: text
+            label: Indicator height
+            scope: history_2
       - name: history_target_2
         field:
             element: text
             label: Target of indicator
             scope: history_2
-
-
-      #- name: "history_years_2"
-        #field:
-            #element: text
-            #label: "Year"
-            #scope: history_2
+      - name: history_target_2_height
+        field:
+            element: text
+            label: Target of indicator height
+            scope: history_2
 
       - name: "history_year_a_2"
         field:
