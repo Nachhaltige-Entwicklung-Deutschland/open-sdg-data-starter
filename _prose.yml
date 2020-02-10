@@ -381,6 +381,11 @@ prose:
             element: text
             label: "Graph Title"
             scope: graph
+      - name: "stackedBar"
+        field:
+            element: text
+            label: "Stacked Bar Chart"
+            scope: graph
       ######### National Sources #########
       ## Source 1
       - name: source_active_1
