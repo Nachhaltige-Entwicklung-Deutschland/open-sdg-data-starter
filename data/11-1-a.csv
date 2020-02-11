@@ -1,5 +1,4 @@
 Year,Units,display,title,Bundesland,GeoCode,Value
-1996,ha/d,a) time series,"recreation area, cemeteries",,,8.693
 1997,ha/d,a) time series,"recreation area, cemeteries",,,20.204
 1998,ha/d,a) time series,"recreation area, cemeteries",,,20.561
 1999,ha/d,a) time series,"recreation area, cemeteries",,,20.566
@@ -19,7 +18,6 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2013,ha/d,a) time series,"recreation area, cemeteries",,,23.065
 2014,ha/d,a) time series,"recreation area, cemeteries",,,17.927
 2015,ha/d,a) time series,"recreation area, cemeteries",,,11.614
-1996,ha/d,a) time series,"building and adjacent open area, commercial/ industrial area",,,87.20100000000001
 1997,ha/d,a) time series,"building and adjacent open area, commercial/ industrial area",,,83.405
 1998,ha/d,a) time series,"building and adjacent open area, commercial/ industrial area",,,86.759
 1999,ha/d,a) time series,"building and adjacent open area, commercial/ industrial area",,,86.781
@@ -39,7 +37,6 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2013,ha/d,a) time series,"building and adjacent open area, commercial/ industrial area",,,29.005
 2014,ha/d,a) time series,"building and adjacent open area, commercial/ industrial area",,,21.91
 2015,ha/d,a) time series,"building and adjacent open area, commercial/ industrial area",,,39.63
-1996,ha/d,a) time series,transport area,,,23.614
 1997,ha/d,a) time series,transport area,,,20.642
 1998,ha/d,a) time series,transport area,,,23.302
 1999,ha/d,a) time series,transport area,,,23.308000000000003
@@ -59,28 +56,27 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2013,ha/d,a) time series,transport area,,,18.52
 2014,ha/d,a) time series,transport area,,,23.436999999999998
 2015,ha/d,a) time series,transport area,,,9.767999999999999
-1996,ha/d,a) time series,a) total (moving four-year average),,,119.57600000000001
-1997,ha/d,a) time series,a) total (moving four-year average),,,124.25200000000001
-1998,ha/d,a) time series,a) total (moving four-year average),,,130.622
-1999,ha/d,a) time series,a) total (moving four-year average),,,130.655
-2000,ha/d,a) time series,a) total (moving four-year average),,,131.09799999999998
-2001,ha/d,a) time series,a) total (moving four-year average),,,121.096
-2002,ha/d,a) time series,a) total (moving four-year average),,,109.315
-2003,ha/d,a) time series,a) total (moving four-year average),,,98.904
-2004,ha/d,a) time series,a) total (moving four-year average),,,131.148
-2005,ha/d,a) time series,a) total (moving four-year average),,,117.53399999999999
-2006,ha/d,a) time series,a) total (moving four-year average),,,105.75299999999999
-2007,ha/d,a) time series,a) total (moving four-year average),,,96.712
-2008,ha/d,a) time series,a) total (moving four-year average),,,95.08200000000001
-2009,ha/d,a) time series,a) total (moving four-year average),,,78.082
-2010,ha/d,a) time series,a) total (moving four-year average),,,76.712
-2011,ha/d,a) time series,a) total (moving four-year average),,,73.624
-2012,ha/d,a) time series,a) total (moving four-year average),,,69.34899999999999
-2013,ha/d,a) time series,a) total (moving four-year average),,,70.59100000000001
-2014,ha/d,a) time series,a) total (moving four-year average),,,63.273
-2015,ha/d,a) time series,a) total (moving four-year average),,,61.012
-2016,ha/d,a) time series,a) total (moving four-year average),,,51.278
-2017,ha/d,a) time series,a) total (moving four-year average),,,55.205
+1997,ha/d,a) time series,a) total (moving four-year average),,,120.73100000000001
+1998,ha/d,a) time series,a) total (moving four-year average),,,123.493
+1999,ha/d,a) time series,a) total (moving four-year average),,,126.264
+2000,ha/d,a) time series,a) total (moving four-year average),,,129.1
+2001,ha/d,a) time series,a) total (moving four-year average),,,128.3
+2002,ha/d,a) time series,a) total (moving four-year average),,,123.1
+2003,ha/d,a) time series,a) total (moving four-year average),,,115.1
+2004,ha/d,a) time series,a) total (moving four-year average),,,115.1
+2005,ha/d,a) time series,a) total (moving four-year average),,,114.3
+2006,ha/d,a) time series,a) total (moving four-year average),,,113.3
+2007,ha/d,a) time series,a) total (moving four-year average),,,112.8
+2008,ha/d,a) time series,a) total (moving four-year average),,,103.8
+2009,ha/d,a) time series,a) total (moving four-year average),,,93.9
+2010,ha/d,a) time series,a) total (moving four-year average),,,86.6
+2011,ha/d,a) time series,a) total (moving four-year average),,,80.9
+2012,ha/d,a) time series,a) total (moving four-year average),,,74.4
+2013,ha/d,a) time series,a) total (moving four-year average),,,72.6
+2014,ha/d,a) time series,a) total (moving four-year average),,,69.2
+2015,ha/d,a) time series,a) total (moving four-year average),,,66.1
+2016,ha/d,a) time series,a) total (moving four-year average),,,61.538999999999994
+2017,ha/d,a) time series,a) total (moving four-year average),,,57.692
 1996,ha/d,a) time series,a) total (moving four-year average),bw,code08,10.2
 1997,ha/d,a) time series,a) total (moving four-year average),bw,code08,12.0
 1998,ha/d,a) time series,a) total (moving four-year average),bw,code08,12.0
