@@ -425,26 +425,4 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2015,ha/d,a) time series,a) total,th,code16,2.500
 2016,ha/d,a) time series,a) total,th,code16,8.700
 2017,ha/d,a) time series,a) total,th,code16,30.800
-1996,ha/d,a) time series,a) total,,,119.600
-1997,ha/d,a) time series,a) total,,,120.700
-1998,ha/d,a) time series,a) total,,,123.500
-1999,ha/d,a) time series,a) total,,,126.300
-2000,ha/d,a) time series,a) total,,,129.100
-2001,ha/d,a) time series,a) total,,,128.300
-2002,ha/d,a) time series,a) total,,,123.100
-2003,ha/d,a) time series,a) total,,,115.100
-2004,ha/d,a) time series,a) total,,,115.100
-2005,ha/d,a) time series,a) total,,,114.300
-2006,ha/d,a) time series,a) total,,,113.300
-2007,ha/d,a) time series,a) total,,,112.800
-2008,ha/d,a) time series,a) total,,,103.800
-2009,ha/d,a) time series,a) total,,,93.900
-2010,ha/d,a) time series,a) total,,,86.600
-2011,ha/d,a) time series,a) total,,,80.900
-2012,ha/d,a) time series,a) total,,,74.400
-2013,ha/d,a) time series,a) total,,,72.600
-2014,ha/d,a) time series,a) total,,,69.200
-2015,ha/d,a) time series,a) total,,,66.100
-2016,ha/d,a) time series,a) total,,,61.539
-2017,ha/d,a) time series,a) total,,,57.692
-2030,ha/d,b) target (max),a) total,,,30.000
+2030,ha/d,b) target (max),a) total (moving four-year average),,,30.000
