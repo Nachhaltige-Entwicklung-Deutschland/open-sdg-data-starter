@@ -1,49 +1,49 @@
 Year,Units,dimension,sex,Value
-2003,percentage (%),overweight,,18.10
-2004,percentage (%),overweight,,18.10
-2005,percentage (%),overweight,,18.10
-2006,percentage (%),overweight,,18.10
-2014,percentage (%),overweight,,18.70
-2015,percentage (%),overweight,,18.70
-2016,percentage (%),overweight,,18.70
-2017,percentage (%),overweight,,18.70
-2003,percentage (%),overweight,girls,17.80
-2004,percentage (%),overweight,girls,17.80
-2005,percentage (%),overweight,girls,17.80
-2006,percentage (%),overweight,girls,17.80
-2014,percentage (%),overweight,girls,17.80
-2015,percentage (%),overweight,girls,17.80
-2016,percentage (%),overweight,girls,17.80
-2017,percentage (%),overweight,girls,17.80
-2003,percentage (%),overweight,boys,18.30
-2004,percentage (%),overweight,boys,18.30
-2005,percentage (%),overweight,boys,18.30
-2006,percentage (%),overweight,boys,18.30
-2014,percentage (%),overweight,boys,19.60
-2015,percentage (%),overweight,boys,19.60
-2016,percentage (%),overweight,boys,19.60
-2017,percentage (%),overweight,boys,19.60
-2003,percentage (%),obese,,8.30
-2004,percentage (%),obese,,8.30
-2005,percentage (%),obese,,8.30
-2006,percentage (%),obese,,8.30
-2014,percentage (%),obese,,8.00
-2015,percentage (%),obese,,8.00
-2016,percentage (%),obese,,8.00
-2017,percentage (%),obese,,8.00
-2003,percentage (%),obese,girls,8.20
-2004,percentage (%),obese,girls,8.20
-2005,percentage (%),obese,girls,8.20
-2006,percentage (%),obese,girls,8.20
-2014,percentage (%),obese,girls,7.20
-2015,percentage (%),obese,girls,7.20
-2016,percentage (%),obese,girls,7.20
-2017,percentage (%),obese,girls,7.20
-2003,percentage (%),obese,boys,8.40
-2004,percentage (%),obese,boys,8.40
-2005,percentage (%),obese,boys,8.40
-2006,percentage (%),obese,boys,8.40
-2014,percentage (%),obese,boys,8.70
-2015,percentage (%),obese,boys,8.70
-2016,percentage (%),obese,boys,8.70
-2017,percentage (%),obese,boys,8.70
+2003,percentage (%),a) overweight,,18.10
+2004,percentage (%),a) overweight,,18.10
+2005,percentage (%),a) overweight,,18.10
+2006,percentage (%),a) overweight,,18.10
+2014,percentage (%),a) overweight,,18.70
+2015,percentage (%),a) overweight,,18.70
+2016,percentage (%),a) overweight,,18.70
+2017,percentage (%),a) overweight,,18.70
+2003,percentage (%),c) overweight,girls,17.80
+2004,percentage (%),c) overweight,girls,17.80
+2005,percentage (%),c) overweight,girls,17.80
+2006,percentage (%),c) overweight,girls,17.80
+2014,percentage (%),c) overweight,girls,17.80
+2015,percentage (%),c) overweight,girls,17.80
+2016,percentage (%),c) overweight,girls,17.80
+2017,percentage (%),c) overweight,girls,17.80
+2003,percentage (%),b) overweight,boys,18.30
+2004,percentage (%),b) overweight,boys,18.30
+2005,percentage (%),b) overweight,boys,18.30
+2006,percentage (%),b) overweight,boys,18.30
+2014,percentage (%),b) overweight,boys,19.60
+2015,percentage (%),b) overweight,boys,19.60
+2016,percentage (%),b) overweight,boys,19.60
+2017,percentage (%),b) overweight,boys,19.60
+2003,percentage (%),d) obese,,8.30
+2004,percentage (%),d) obese,,8.30
+2005,percentage (%),d) obese,,8.30
+2006,percentage (%),d) obese,,8.30
+2014,percentage (%),d) obese,,8.00
+2015,percentage (%),d) obese,,8.00
+2016,percentage (%),d) obese,,8.00
+2017,percentage (%),d) obese,,8.00
+2003,percentage (%),f) obese,girls,8.20
+2004,percentage (%),f) obese,girls,8.20
+2005,percentage (%),f) obese,girls,8.20
+2006,percentage (%),f) obese,girls,8.20
+2014,percentage (%),f) obese,girls,7.20
+2015,percentage (%),f) obese,girls,7.20
+2016,percentage (%),f) obese,girls,7.20
+2017,percentage (%),f) obese,girls,7.20
+2003,percentage (%),e) obese,boys,8.40
+2004,percentage (%),e) obese,boys,8.40
+2005,percentage (%),e) obese,boys,8.40
+2006,percentage (%),e) obese,boys,8.40
+2014,percentage (%),e) obese,boys,8.70
+2015,percentage (%),e) obese,boys,8.70
+2016,percentage (%),e) obese,boys,8.70
+2017,percentage (%),e) obese,boys,8.70
