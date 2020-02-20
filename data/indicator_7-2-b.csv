@@ -1,33 +1,33 @@
-Year,Units,display,Bundesland,GeoCode,Value
-1990,percentage (%),a) time series,a) germany (total),,3.40
-1991,percentage (%),a) time series,a) germany (total),,3.10
-1992,percentage (%),a) time series,a) germany (total),,3.60
-1993,percentage (%),a) time series,a) germany (total),,3.80
-1994,percentage (%),a) time series,a) germany (total),,4.30
-1995,percentage (%),a) time series,a) germany (total),,4.70
-1996,percentage (%),a) time series,a) germany (total),,4.70
-1997,percentage (%),a) time series,a) germany (total),,4.10
-1998,percentage (%),a) time series,a) germany (total),,4.50
-1999,percentage (%),a) time series,a) germany (total),,5.20
-2000,percentage (%),a) time series,a) germany (total),,6.30
-2001,percentage (%),a) time series,a) germany (total),,6.60
-2002,percentage (%),a) time series,a) germany (total),,7.70
-2003,percentage (%),a) time series,a) germany (total),,7.70
-2004,percentage (%),a) time series,a) germany (total),,9.40
-2005,percentage (%),a) time series,a) germany (total),,10.30
-2006,percentage (%),a) time series,a) germany (total),,11.60
-2007,percentage (%),a) time series,a) germany (total),,14.30
-2008,percentage (%),a) time series,a) germany (total),,15.20
-2009,percentage (%),a) time series,a) germany (total),,16.40
-2010,percentage (%),a) time series,a) germany (total),,17.00
-2011,percentage (%),a) time series,a) germany (total),,20.40
-2012,percentage (%),a) time series,a) germany (total),,23.50
-2013,percentage (%),a) time series,a) germany (total),,25.10
-2014,percentage (%),a) time series,a) germany (total),,27.40
-2015,percentage (%),a) time series,a) germany (total),,31.50
-2016,percentage (%),a) time series,a) germany (total),,31.60
-2017,percentage (%),a) time series,a) germany (total),,36.00
-2018,percentage (%),a) time series,a) germany (total),,37.80
-2020,percentage (%),b) target (min),a) germany (total),,35.00
-2030,percentage (%),b) target (min),a) germany (total),,50.00
-2050,percentage (%),b) target (min),a) germany (total),,80.00
+Year,Units,display,Value
+1990,percentage (%),a) time series,3.40
+1991,percentage (%),a) time series,3.10
+1992,percentage (%),a) time series,3.60
+1993,percentage (%),a) time series,3.80
+1994,percentage (%),a) time series,4.30
+1995,percentage (%),a) time series,4.70
+1996,percentage (%),a) time series,4.70
+1997,percentage (%),a) time series,4.10
+1998,percentage (%),a) time series,4.50
+1999,percentage (%),a) time series,5.20
+2000,percentage (%),a) time series,6.30
+2001,percentage (%),a) time series,6.60
+2002,percentage (%),a) time series,7.70
+2003,percentage (%),a) time series,7.70
+2004,percentage (%),a) time series,9.40
+2005,percentage (%),a) time series,10.30
+2006,percentage (%),a) time series,11.60
+2007,percentage (%),a) time series,14.30
+2008,percentage (%),a) time series,15.20
+2009,percentage (%),a) time series,16.40
+2010,percentage (%),a) time series,17.00
+2011,percentage (%),a) time series,20.40
+2012,percentage (%),a) time series,23.50
+2013,percentage (%),a) time series,25.10
+2014,percentage (%),a) time series,27.40
+2015,percentage (%),a) time series,31.50
+2016,percentage (%),a) time series,31.60
+2017,percentage (%),a) time series,36.00
+2018,percentage (%),a) time series,37.80
+2020,percentage (%),b) target (min),35.00
+2030,percentage (%),b) target (min),50.00
+2050,percentage (%),b) target (min),80.00
