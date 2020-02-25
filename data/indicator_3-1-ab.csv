@@ -1,32 +1,32 @@
 Year,Units,display,sex,Bundesland,GeoCode,Value
-1991,per 100 000 inhabitants,a) time series,female,,,235
-1992,per 100 000 inhabitants,a) time series,female,,,225
-1993,per 100 000 inhabitants,a) time series,female,,,223
-1994,per 100 000 inhabitants,a) time series,female,,,216
-1995,per 100 000 inhabitants,a) time series,female,,,212
-1996,per 100 000 inhabitants,a) time series,female,,,208
-1997,per 100 000 inhabitants,a) time series,female,,,200
-1998,per 100 000 inhabitants,a) time series,female,,,193
-1999,per 100 000 inhabitants,a) time series,female,,,189
-2000,per 100 000 inhabitants,a) time series,female,,,184
-2001,per 100 000 inhabitants,a) time series,female,,,179
-2002,per 100 000 inhabitants,a) time series,female,,,177
-2003,per 100 000 inhabitants,a) time series,female,,,173
-2004,per 100 000 inhabitants,a) time series,female,,,166
-2005,per 100 000 inhabitants,a) time series,female,,,165
-2006,per 100 000 inhabitants,a) time series,female,,,159
-2007,per 100 000 inhabitants,a) time series,female,,,158
-2008,per 100 000 inhabitants,a) time series,female,,,159
-2009,per 100 000 inhabitants,a) time series,female,,,157
-2010,per 100 000 inhabitants,a) time series,female,,,155
-2011,per 100 000 inhabitants,a) time series,female,,,157
-2012,per 100 000 inhabitants,a) time series,female,,,153
-2013,per 100 000 inhabitants,a) time series,female,,,156
-2014,per 100 000 inhabitants,a) time series,female,,,149
-2015,per 100 000 inhabitants,a) time series,female,,,153
-2016,per 100 000 inhabitants,a) time series,female,,,152
-2017,per 100 000 inhabitants,a) time series,female,,,149
-2030,per 100 000 inhabitants,b) target (max),female,,,100
+1991,per 100 000 inhabitants,a) time series,female,a) germany (total),,235
+1992,per 100 000 inhabitants,a) time series,female,a) germany (total),,225
+1993,per 100 000 inhabitants,a) time series,female,a) germany (total),,223
+1994,per 100 000 inhabitants,a) time series,female,a) germany (total),,216
+1995,per 100 000 inhabitants,a) time series,female,a) germany (total),,212
+1996,per 100 000 inhabitants,a) time series,female,a) germany (total),,208
+1997,per 100 000 inhabitants,a) time series,female,a) germany (total),,200
+1998,per 100 000 inhabitants,a) time series,female,a) germany (total),,193
+1999,per 100 000 inhabitants,a) time series,female,a) germany (total),,189
+2000,per 100 000 inhabitants,a) time series,female,a) germany (total),,184
+2001,per 100 000 inhabitants,a) time series,female,a) germany (total),,179
+2002,per 100 000 inhabitants,a) time series,female,a) germany (total),,177
+2003,per 100 000 inhabitants,a) time series,female,a) germany (total),,173
+2004,per 100 000 inhabitants,a) time series,female,a) germany (total),,166
+2005,per 100 000 inhabitants,a) time series,female,a) germany (total),,165
+2006,per 100 000 inhabitants,a) time series,female,a) germany (total),,159
+2007,per 100 000 inhabitants,a) time series,female,a) germany (total),,158
+2008,per 100 000 inhabitants,a) time series,female,a) germany (total),,159
+2009,per 100 000 inhabitants,a) time series,female,a) germany (total),,157
+2010,per 100 000 inhabitants,a) time series,female,a) germany (total),,155
+2011,per 100 000 inhabitants,a) time series,female,a) germany (total),,157
+2012,per 100 000 inhabitants,a) time series,female,a) germany (total),,153
+2013,per 100 000 inhabitants,a) time series,female,a) germany (total),,156
+2014,per 100 000 inhabitants,a) time series,female,a) germany (total),,149
+2015,per 100 000 inhabitants,a) time series,female,a) germany (total),,153
+2016,per 100 000 inhabitants,a) time series,female,a) germany (total),,152
+2017,per 100 000 inhabitants,a) time series,female,a) germany (total),,149
+2030,per 100 000 inhabitants,b) target (max),female,a) germany (total),,100
 1998,per 100 000 inhabitants,a) time series,female,bw,code08,169
 1999,per 100 000 inhabitants,a) time series,female,bw,code08,168
 2000,per 100 000 inhabitants,a) time series,female,bw,code08,158
@@ -347,34 +347,34 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2015,per 100 000 inhabitants,a) time series,female,th,code16,146
 2016,per 100 000 inhabitants,a) time series,female,th,code16,149
 2017,per 100 000 inhabitants,a) time series,female,th,code16,150
-1991,per 100 000 inhabitants,a) time series,male,,,492
-1992,per 100 000 inhabitants,a) time series,male,,,476
-1993,per 100 000 inhabitants,a) time series,male,,,472
-1994,per 100 000 inhabitants,a) time series,male,,,461
-1995,per 100 000 inhabitants,a) time series,male,,,451
-1996,per 100 000 inhabitants,a) time series,male,,,439
-1997,per 100 000 inhabitants,a) time series,male,,,422
-1998,per 100 000 inhabitants,a) time series,male,,,404
-1999,per 100 000 inhabitants,a) time series,male,,,392
-2000,per 100 000 inhabitants,a) time series,male,,,382
-2001,per 100 000 inhabitants,a) time series,male,,,366
-2002,per 100 000 inhabitants,a) time series,male,,,360
-2003,per 100 000 inhabitants,a) time series,male,,,356
-2004,per 100 000 inhabitants,a) time series,male,,,337
-2005,per 100 000 inhabitants,a) time series,male,,,329
-2006,per 100 000 inhabitants,a) time series,male,,,318
-2007,per 100 000 inhabitants,a) time series,male,,,313
-2008,per 100 000 inhabitants,a) time series,male,,,308
-2009,per 100 000 inhabitants,a) time series,male,,,305
-2010,per 100 000 inhabitants,a) time series,male,,,301
-2011,per 100 000 inhabitants,a) time series,male,,,299
-2012,per 100 000 inhabitants,a) time series,male,,,292
-2013,per 100 000 inhabitants,a) time series,male,,,292
-2014,per 100 000 inhabitants,a) time series,male,,,281
-2015,per 100 000 inhabitants,a) time series,male,,,288
-2016,per 100 000 inhabitants,a) time series,male,,,284
-2017,per 100 000 inhabitants,a) time series,male,,,276
-2030,per 100 000 inhabitants,b) target (max),male,,,190
+1991,per 100 000 inhabitants,a) time series,male,a) germany (total),,492
+1992,per 100 000 inhabitants,a) time series,male,a) germany (total),,476
+1993,per 100 000 inhabitants,a) time series,male,a) germany (total),,472
+1994,per 100 000 inhabitants,a) time series,male,a) germany (total),,461
+1995,per 100 000 inhabitants,a) time series,male,a) germany (total),,451
+1996,per 100 000 inhabitants,a) time series,male,a) germany (total),,439
+1997,per 100 000 inhabitants,a) time series,male,a) germany (total),,422
+1998,per 100 000 inhabitants,a) time series,male,a) germany (total),,404
+1999,per 100 000 inhabitants,a) time series,male,a) germany (total),,392
+2000,per 100 000 inhabitants,a) time series,male,a) germany (total),,382
+2001,per 100 000 inhabitants,a) time series,male,a) germany (total),,366
+2002,per 100 000 inhabitants,a) time series,male,a) germany (total),,360
+2003,per 100 000 inhabitants,a) time series,male,a) germany (total),,356
+2004,per 100 000 inhabitants,a) time series,male,a) germany (total),,337
+2005,per 100 000 inhabitants,a) time series,male,a) germany (total),,329
+2006,per 100 000 inhabitants,a) time series,male,a) germany (total),,318
+2007,per 100 000 inhabitants,a) time series,male,a) germany (total),,313
+2008,per 100 000 inhabitants,a) time series,male,a) germany (total),,308
+2009,per 100 000 inhabitants,a) time series,male,a) germany (total),,305
+2010,per 100 000 inhabitants,a) time series,male,a) germany (total),,301
+2011,per 100 000 inhabitants,a) time series,male,a) germany (total),,299
+2012,per 100 000 inhabitants,a) time series,male,a) germany (total),,292
+2013,per 100 000 inhabitants,a) time series,male,a) germany (total),,292
+2014,per 100 000 inhabitants,a) time series,male,a) germany (total),,281
+2015,per 100 000 inhabitants,a) time series,male,a) germany (total),,288
+2016,per 100 000 inhabitants,a) time series,male,a) germany (total),,284
+2017,per 100 000 inhabitants,a) time series,male,a) germany (total),,276
+2030,per 100 000 inhabitants,b) target (max),male,a) germany (total),,190
 1998,per 100 000 inhabitants,a) time series,male,bw,code08,355
 1999,per 100 000 inhabitants,a) time series,male,bw,code08,342
 2000,per 100 000 inhabitants,a) time series,male,bw,code08,328

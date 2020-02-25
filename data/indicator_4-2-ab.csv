@@ -1,19 +1,19 @@
 Year,Units,display,age,Bundesland,GeoCode,Value
-2006,percentage (%),a) time series,0- to 2-year-olds,,,5.87
-2007,percentage (%),a) time series,0- to 2-year-olds,,,6.52
-2008,percentage (%),a) time series,0- to 2-year-olds,,,7.30
-2009,percentage (%),a) time series,0- to 2-year-olds,,,8.70
-2010,percentage (%),a) time series,0- to 2-year-olds,,,10.20
-2011,percentage (%),a) time series,0- to 2-year-olds,,,11.30
-2012,percentage (%),a) time series,0- to 2-year-olds,,,12.70
-2013,percentage (%),a) time series,0- to 2-year-olds,,,13.70
-2014,percentage (%),a) time series,0- to 2-year-olds,,,15.30
-2015,percentage (%),a) time series,0- to 2-year-olds,,,15.90
-2016,percentage (%),a) time series,0- to 2-year-olds,,,16.20
-2017,percentage (%),a) time series,0- to 2-year-olds,,,16.20
-2018,percentage (%),a) time series,0- to 2-year-olds,,,16.50
-2019,percentage (%),a) time series,0- to 2-year-olds,,,16.90
-2030,percentage (%),b) target (min),0- to 2-year-olds,,,35.00
+2006,percentage (%),a) time series,0- to 2-year-olds,a) germany (total),,5.87
+2007,percentage (%),a) time series,0- to 2-year-olds,a) germany (total),,6.52
+2008,percentage (%),a) time series,0- to 2-year-olds,a) germany (total),,7.30
+2009,percentage (%),a) time series,0- to 2-year-olds,a) germany (total),,8.70
+2010,percentage (%),a) time series,0- to 2-year-olds,a) germany (total),,10.20
+2011,percentage (%),a) time series,0- to 2-year-olds,a) germany (total),,11.30
+2012,percentage (%),a) time series,0- to 2-year-olds,a) germany (total),,12.70
+2013,percentage (%),a) time series,0- to 2-year-olds,a) germany (total),,13.70
+2014,percentage (%),a) time series,0- to 2-year-olds,a) germany (total),,15.30
+2015,percentage (%),a) time series,0- to 2-year-olds,a) germany (total),,15.90
+2016,percentage (%),a) time series,0- to 2-year-olds,a) germany (total),,16.20
+2017,percentage (%),a) time series,0- to 2-year-olds,a) germany (total),,16.20
+2018,percentage (%),a) time series,0- to 2-year-olds,a) germany (total),,16.50
+2019,percentage (%),a) time series,0- to 2-year-olds,a) germany (total),,16.90
+2030,percentage (%),b) target (min),0- to 2-year-olds,a) germany (total),,35.00
 2006,percentage (%),a) time series,0- to 2-year-olds,bw,code08,1.71
 2007,percentage (%),a) time series,0- to 2-year-olds,bw,code08,2.18
 2008,percentage (%),a) time series,0- to 2-year-olds,bw,code08,2.69
@@ -238,22 +238,22 @@ Year,Units,display,age,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,0- to 2-year-olds,th,code16,47.66
 2018,percentage (%),a) time series,0- to 2-year-olds,th,code16,49.18
 2019,percentage (%),a) time series,0- to 2-year-olds,th,code16,49.91
-2006,percentage (%),a) time series,3- to 5-year-olds,,,21.96
-2007,percentage (%),a) time series,3- to 5-year-olds,,,24.19
-2008,percentage (%),a) time series,3- to 5-year-olds,,,26.90
-2009,percentage (%),a) time series,3- to 5-year-olds,,,29.70
-2010,percentage (%),a) time series,3- to 5-year-olds,,,32.10
-2011,percentage (%),a) time series,3- to 5-year-olds,,,34.70
-2012,percentage (%),a) time series,3- to 5-year-olds,,,36.90
-2013,percentage (%),a) time series,3- to 5-year-olds,,,39.10
-2014,percentage (%),a) time series,3- to 5-year-olds,,,41.40
-2015,percentage (%),a) time series,3- to 5-year-olds,,,43.70
-2016,percentage (%),a) time series,3- to 5-year-olds,,,44.50
-2017,percentage (%),a) time series,3- to 5-year-olds,,,45.30
-2018,percentage (%),a) time series,3- to 5-year-olds,,,45.90
-2019,percentage (%),a) time series,3- to 5-year-olds,,,46.90
-2020,percentage (%),b) target (min),3- to 5-year-olds,,,60.00
-2030,percentage (%),b) target (min),3- to 5-year-olds,,,70.00
+2006,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,21.96
+2007,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,24.19
+2008,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,26.90
+2009,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,29.70
+2010,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,32.10
+2011,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,34.70
+2012,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,36.90
+2013,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,39.10
+2014,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,41.40
+2015,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,43.70
+2016,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,44.50
+2017,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,45.30
+2018,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,45.90
+2019,percentage (%),a) time series,3- to 5-year-olds,a) germany (total),,46.90
+2020,percentage (%),b) target (min),3- to 5-year-olds,a) germany (total),,60.00
+2030,percentage (%),b) target (min),3- to 5-year-olds,a) germany (total),,70.00
 2006,percentage (%),a) time series,3- to 5-year-olds,bw,code08,6.85
 2007,percentage (%),a) time series,3- to 5-year-olds,bw,code08,7.90
 2008,percentage (%),a) time series,3- to 5-year-olds,bw,code08,9.18

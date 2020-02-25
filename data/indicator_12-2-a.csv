@@ -1,33 +1,33 @@
 Year,Units,display,title,Bundesland,GeoCode,Value
-2005,number,a) time series,employees in thousands,,,961.25
-2006,number,a) time series,employees in thousands,,,926.30
-2007,number,a) time series,employees in thousands,,,860.49
-2008,number,a) time series,employees in thousands,,,840.01
-2009,number,a) time series,employees in thousands,,,802.83
-2010,number,a) time series,employees in thousands,,,780.76
-2011,number,a) time series,employees in thousands,,,764.74
-2012,number,a) time series,employees in thousands,,,772.77
-2013,number,a) time series,employees in thousands,,,772.88
-2014,number,a) time series,employees in thousands,,,785.43
-2015,number,a) time series,employees in thousands,,,800.63
-2016,number,a) time series,employees in thousands,,,842.30
-2017,number,a) time series,employees in thousands,,,985.20
-2018,number,a) time series,employees in thousands,,,929.24
-2005,number,a) time series,emas organisational locations,,,1958.00
-2006,number,a) time series,emas organisational locations,,,1985.00
-2007,number,a) time series,emas organisational locations,,,1956.00
-2008,number,a) time series,emas organisational locations,,,1917.00
-2009,number,a) time series,emas organisational locations,,,1906.00
-2010,number,a) time series,emas organisational locations,,,1913.00
-2011,number,a) time series,emas organisational locations,,,1903.00
-2012,number,a) time series,emas organisational locations,,,1822.00
-2013,number,a) time series,emas organisational locations,,,1856.00
-2014,number,a) time series,emas organisational locations,,,1900.00
-2015,number,a) time series,emas organisational locations,,,1998.00
-2016,number,a) time series,emas organisational locations,,,2067.00
-2017,number,a) time series,emas organisational locations,,,2176.00
-2018,number,a) time series,emas organisational locations,,,2167.00
-2030,number,b) target (min),emas organisational locations,,,5000.00
+2005,number,a) time series,employees in thousands,a) germany (total),,961.25
+2006,number,a) time series,employees in thousands,a) germany (total),,926.30
+2007,number,a) time series,employees in thousands,a) germany (total),,860.49
+2008,number,a) time series,employees in thousands,a) germany (total),,840.01
+2009,number,a) time series,employees in thousands,a) germany (total),,802.83
+2010,number,a) time series,employees in thousands,a) germany (total),,780.76
+2011,number,a) time series,employees in thousands,a) germany (total),,764.74
+2012,number,a) time series,employees in thousands,a) germany (total),,772.77
+2013,number,a) time series,employees in thousands,a) germany (total),,772.88
+2014,number,a) time series,employees in thousands,a) germany (total),,785.43
+2015,number,a) time series,employees in thousands,a) germany (total),,800.63
+2016,number,a) time series,employees in thousands,a) germany (total),,842.30
+2017,number,a) time series,employees in thousands,a) germany (total),,985.20
+2018,number,a) time series,employees in thousands,a) germany (total),,929.24
+2005,number,a) time series,emas organisational locations,a) germany (total),,1958.00
+2006,number,a) time series,emas organisational locations,a) germany (total),,1985.00
+2007,number,a) time series,emas organisational locations,a) germany (total),,1956.00
+2008,number,a) time series,emas organisational locations,a) germany (total),,1917.00
+2009,number,a) time series,emas organisational locations,a) germany (total),,1906.00
+2010,number,a) time series,emas organisational locations,a) germany (total),,1913.00
+2011,number,a) time series,emas organisational locations,a) germany (total),,1903.00
+2012,number,a) time series,emas organisational locations,a) germany (total),,1822.00
+2013,number,a) time series,emas organisational locations,a) germany (total),,1856.00
+2014,number,a) time series,emas organisational locations,a) germany (total),,1900.00
+2015,number,a) time series,emas organisational locations,a) germany (total),,1998.00
+2016,number,a) time series,emas organisational locations,a) germany (total),,2067.00
+2017,number,a) time series,emas organisational locations,a) germany (total),,2176.00
+2018,number,a) time series,emas organisational locations,a) germany (total),,2167.00
+2030,number,b) target (min),emas organisational locations,a) germany (total),,5000.00
 2010,number,a) time series,emas organisations,bw,code08,493.00
 2011,number,a) time series,emas organisations,bw,code08,498.00
 2012,number,a) time series,emas organisations,bw,code08,508.00
