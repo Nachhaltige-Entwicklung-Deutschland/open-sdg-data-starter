@@ -1,38 +1,38 @@
 Year,Units,display,title,Bundesland,GeoCode,Value
-1999,percentage (%),a) time series,data from destatis,,,2.85
-2001,percentage (%),a) time series,data from destatis,,,3.57
-2003,percentage (%),a) time series,data from destatis,,,4.3
-2005,percentage (%),a) time series,data from destatis,,,4.59
-2007,percentage (%),a) time series,data from destatis,,,5.08
-2010,percentage (%),a) time series,data from destatis,,,5.64
-2012,percentage (%),a) time series,data from destatis,,,5.76
-2013,percentage (%),a) time series,data from destatis,,,6.04
-2014,percentage (%),a) time series,data from destatis,,,6.18
-2015,percentage (%),a) time series,data from destatis,,,6.34
-2016,percentage (%),a) time series,data from destatis,,,6.82
-2017,percentage (%),a) time series,data from destatis,,,6.82
-2018,percentage (%),a) time series,data from destatis,,,7.34
-2030,percentage (%),b) target (min),data from destatis,,,20.0
-1999,percentage (%),a) time series,data from bmel,,,2.6
-2000,percentage (%),a) time series,data from bmel,,,3.2
-2001,percentage (%),a) time series,data from bmel,,,3.7
-2002,percentage (%),a) time series,data from bmel,,,4.1
-2003,percentage (%),a) time series,data from bmel,,,4.3
-2004,percentage (%),a) time series,data from bmel,,,4.5
-2005,percentage (%),a) time series,data from bmel,,,4.7
-2006,percentage (%),a) time series,data from bmel,,,4.9
-2007,percentage (%),a) time series,data from bmel,,,5.1
-2008,percentage (%),a) time series,data from bmel,,,5.4
-2009,percentage (%),a) time series,data from bmel,,,5.6
-2010,percentage (%),a) time series,data from bmel,,,5.9
-2011,percentage (%),a) time series,data from bmel,,,6.1
-2012,percentage (%),a) time series,data from bmel,,,6.2
-2013,percentage (%),a) time series,data from bmel,,,6.3
-2014,percentage (%),a) time series,data from bmel,,,6.3
-2015,percentage (%),a) time series,data from bmel,,,6.5
-2016,percentage (%),a) time series,data from bmel,,,7.5
-2017,percentage (%),a) time series,data from bmel,,,8.2
-2018,percentage (%),a) time series,data from bmel,,,9.1
+1999,percentage (%),a) time series,data from destatis,a) germany (total),,2.85
+2001,percentage (%),a) time series,data from destatis,a) germany (total),,3.57
+2003,percentage (%),a) time series,data from destatis,a) germany (total),,4.3
+2005,percentage (%),a) time series,data from destatis,a) germany (total),,4.59
+2007,percentage (%),a) time series,data from destatis,a) germany (total),,5.08
+2010,percentage (%),a) time series,data from destatis,a) germany (total),,5.64
+2012,percentage (%),a) time series,data from destatis,a) germany (total),,5.76
+2013,percentage (%),a) time series,data from destatis,a) germany (total),,6.04
+2014,percentage (%),a) time series,data from destatis,a) germany (total),,6.18
+2015,percentage (%),a) time series,data from destatis,a) germany (total),,6.34
+2016,percentage (%),a) time series,data from destatis,a) germany (total),,6.82
+2017,percentage (%),a) time series,data from destatis,a) germany (total),,6.82
+2018,percentage (%),a) time series,data from destatis,a) germany (total),,7.34
+2030,percentage (%),b) target (min),data from destatis,a) germany (total),,20.0
+1999,percentage (%),a) time series,data from bmel,a) germany (total),,2.6
+2000,percentage (%),a) time series,data from bmel,a) germany (total),,3.2
+2001,percentage (%),a) time series,data from bmel,a) germany (total),,3.7
+2002,percentage (%),a) time series,data from bmel,a) germany (total),,4.1
+2003,percentage (%),a) time series,data from bmel,a) germany (total),,4.3
+2004,percentage (%),a) time series,data from bmel,a) germany (total),,4.5
+2005,percentage (%),a) time series,data from bmel,a) germany (total),,4.7
+2006,percentage (%),a) time series,data from bmel,a) germany (total),,4.9
+2007,percentage (%),a) time series,data from bmel,a) germany (total),,5.1
+2008,percentage (%),a) time series,data from bmel,a) germany (total),,5.4
+2009,percentage (%),a) time series,data from bmel,a) germany (total),,5.6
+2010,percentage (%),a) time series,data from bmel,a) germany (total),,5.9
+2011,percentage (%),a) time series,data from bmel,a) germany (total),,6.1
+2012,percentage (%),a) time series,data from bmel,a) germany (total),,6.2
+2013,percentage (%),a) time series,data from bmel,a) germany (total),,6.3
+2014,percentage (%),a) time series,data from bmel,a) germany (total),,6.3
+2015,percentage (%),a) time series,data from bmel,a) germany (total),,6.5
+2016,percentage (%),a) time series,data from bmel,a) germany (total),,7.5
+2017,percentage (%),a) time series,data from bmel,a) germany (total),,8.2
+2018,percentage (%),a) time series,data from bmel,a) germany (total),,9.1
 2010,percentage (%),a) time series,data from destatis,bw,code08,6.98
 2013,percentage (%),a) time series,data from destatis,bw,code08,7.81
 2016,percentage (%),a) time series,data from destatis,bw,code08,9.31
