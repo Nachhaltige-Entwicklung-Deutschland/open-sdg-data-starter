@@ -77,7 +77,12 @@ prose:
           element: text
           label: "Content and progress"
           scope: content
-
+      ######### additional #######################
+      - name: "additional_information"
+        field:
+          element: text
+          label: "Additional information"
+          scope: additional_information
 
 
       ######### National Metadata #########
