@@ -1,16 +1,21 @@
-Year,Units,display,Value
-2012,mio.,a) time series,10.6
-2013,mio.,a) time series,11.6
-2014,mio.,a) time series,31.0
-2015,mio.,a) time series,10.8
-2016,mio.,a) time series,14.3
-2017,mio.,a) time series,28.6
-2018,mio.,a) time series,60.3
-2012,mio.,b) target (min),10.0
-2013,mio.,b) target (min),10.0
-2014,mio.,b) target (min),10.0
-2015,mio.,b) target (min),10.0
-2016,mio.,b) target (min),10.0
-2017,mio.,b) target (min),10.0
-2018,mio.,b) target (min),10.0
-2030,mio.,b) target (min),10.0
+Year,Units,display,title,Value
+2012,mio.,a) time series,a) drinking water and sanitation,10.6
+2013,mio.,a) time series,a) drinking water and sanitation,11.6
+2014,mio.,a) time series,a) drinking water and sanitation,31.0
+2015,mio.,a) time series,a) drinking water and sanitation,11.0
+2016,mio.,a) time series,a) drinking water and sanitation,14.3
+2017,mio.,a) time series,a) drinking water and sanitation,28.6
+2018,mio.,a) time series,a) drinking water and sanitation,60.3
+2012,mio.,b) target (min),a) drinking water and sanitation,10.0
+2013,mio.,b) target (min),a) drinking water and sanitation,10.0
+2014,mio.,b) target (min),a) drinking water and sanitation,10.0
+2015,mio.,b) target (min),a) drinking water and sanitation,10.0
+2016,mio.,b) target (min),a) drinking water and sanitation,10.0
+2017,mio.,b) target (min),a) drinking water and sanitation,10.0
+2018,mio.,b) target (min),a) drinking water and sanitation,10.0
+2019,mio.,a) time series,b) drinking water,14.3
+2019,mio.,b) target (min),b) drinking water,6.0
+2030,mio.,b) target (min),b) drinking water,6.0
+2019,mio.,a) time series,c) sanitation,6.1
+2019,mio.,b) target (min),c) sanitation,4.0
+2030,mio.,b) target (min),c) sanitation,4.0
