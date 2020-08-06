@@ -7,12 +7,13 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2010,number,a) time series,employees in thousands,a) germany (total),,780.76
 2011,number,a) time series,employees in thousands,a) germany (total),,764.74
 2012,number,a) time series,employees in thousands,a) germany (total),,772.77
-2013,number,a) time series,employees in thousands,a) germany (total),,772.88
+2013,number,a) time series,employees in thousands,a) germany (total),,787.52
 2014,number,a) time series,employees in thousands,a) germany (total),,785.43
 2015,number,a) time series,employees in thousands,a) germany (total),,800.63
 2016,number,a) time series,employees in thousands,a) germany (total),,842.30
 2017,number,a) time series,employees in thousands,a) germany (total),,985.20
 2018,number,a) time series,employees in thousands,a) germany (total),,929.24
+2019,number,a) time series,employees in thousands,a) germany (total),,988.40
 2005,number,a) time series,emas organisational locations,a) germany (total),,1958.00
 2006,number,a) time series,emas organisational locations,a) germany (total),,1985.00
 2007,number,a) time series,emas organisational locations,a) germany (total),,1956.00
@@ -26,7 +27,8 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2015,number,a) time series,emas organisational locations,a) germany (total),,1998.00
 2016,number,a) time series,emas organisational locations,a) germany (total),,2067.00
 2017,number,a) time series,emas organisational locations,a) germany (total),,2176.00
-2018,number,a) time series,emas organisational locations,a) germany (total),,2167.00
+2018,number,a) time series,emas organisational locations,a) germany (total),,2161.00
+2019,number,a) time series,emas organisational locations,a) germany (total),,2170.00
 2030,number,b) target (min),emas organisational locations,a) germany (total),,5000.00
 2010,number,a) time series,emas organisations,bw,code08,493.00
 2011,number,a) time series,emas organisations,bw,code08,498.00
@@ -37,6 +39,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2016,number,a) time series,emas organisations,bw,code08,582.00
 2017,number,a) time series,emas organisations,bw,code08,574.00
 2018,number,a) time series,emas organisations,bw,code08,591.00
+2019,number,a) time series,emas organisations,bw,code08,594.00
 2010,number,a) time series,emas organisations,by,code09,385.00
 2011,number,a) time series,emas organisations,by,code09,391.00
 2012,number,a) time series,emas organisations,by,code09,388.00
@@ -45,7 +48,8 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2015,number,a) time series,emas organisations,by,code09,466.00
 2016,number,a) time series,emas organisations,by,code09,475.00
 2017,number,a) time series,emas organisations,by,code09,524.00
-2018,number,a) time series,emas organisations,by,code09,506.00
+2018,number,a) time series,emas organisations,by,code09,502.00
+2019,number,a) time series,emas organisations,by,code09,478.00
 2010,number,a) time series,emas organisations,be,code11,53.00
 2011,number,a) time series,emas organisations,be,code11,53.00
 2012,number,a) time series,emas organisations,be,code11,48.00
@@ -55,6 +59,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2016,number,a) time series,emas organisations,be,code11,57.00
 2017,number,a) time series,emas organisations,be,code11,61.00
 2018,number,a) time series,emas organisations,be,code11,63.00
+2019,number,a) time series,emas organisations,be,code11,65.00
 2010,number,a) time series,emas organisations,bb,code12,52.00
 2011,number,a) time series,emas organisations,bb,code12,47.00
 2012,number,a) time series,emas organisations,bb,code12,36.00
@@ -64,6 +69,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2016,number,a) time series,emas organisations,bb,code12,47.00
 2017,number,a) time series,emas organisations,bb,code12,60.00
 2018,number,a) time series,emas organisations,bb,code12,61.00
+2019,number,a) time series,emas organisations,bb,code12,64.00
 2010,number,a) time series,emas organisations,hb,code04,26.00
 2011,number,a) time series,emas organisations,hb,code04,26.00
 2012,number,a) time series,emas organisations,hb,code04,28.00
@@ -73,6 +79,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2016,number,a) time series,emas organisations,hb,code04,29.00
 2017,number,a) time series,emas organisations,hb,code04,30.00
 2018,number,a) time series,emas organisations,hb,code04,31.00
+2019,number,a) time series,emas organisations,hb,code04,31.00
 2010,number,a) time series,emas organisations,hh,code02,37.00
 2011,number,a) time series,emas organisations,hh,code02,36.00
 2012,number,a) time series,emas organisations,hh,code02,33.00
@@ -82,6 +89,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2016,number,a) time series,emas organisations,hh,code02,37.00
 2017,number,a) time series,emas organisations,hh,code02,51.00
 2018,number,a) time series,emas organisations,hh,code02,58.00
+2019,number,a) time series,emas organisations,hh,code02,58.00
 2010,number,a) time series,emas organisations,he,code06,138.00
 2011,number,a) time series,emas organisations,he,code06,139.00
 2012,number,a) time series,emas organisations,he,code06,140.00
@@ -91,6 +99,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2016,number,a) time series,emas organisations,he,code06,159.00
 2017,number,a) time series,emas organisations,he,code06,159.00
 2018,number,a) time series,emas organisations,he,code06,142.00
+2019,number,a) time series,emas organisations,he,code06,126.00
 2010,number,a) time series,emas organisations,mv,code13,10.00
 2011,number,a) time series,emas organisations,mv,code13,10.00
 2012,number,a) time series,emas organisations,mv,code13,10.00
@@ -100,6 +109,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2016,number,a) time series,emas organisations,mv,code13,8.00
 2017,number,a) time series,emas organisations,mv,code13,8.00
 2018,number,a) time series,emas organisations,mv,code13,6.00
+2019,number,a) time series,emas organisations,mv,code13,3.00
 2010,number,a) time series,emas organisations,ni,code03,91.00
 2011,number,a) time series,emas organisations,ni,code03,95.00
 2012,number,a) time series,emas organisations,ni,code03,82.00
@@ -108,7 +118,8 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2015,number,a) time series,emas organisations,ni,code03,85.00
 2016,number,a) time series,emas organisations,ni,code03,80.00
 2017,number,a) time series,emas organisations,ni,code03,93.00
-2018,number,a) time series,emas organisations,ni,code03,89.00
+2018,number,a) time series,emas organisations,ni,code03,88.00
+2019,number,a) time series,emas organisations,ni,code03,87.00
 2010,number,a) time series,emas organisations,nw,code05,262.00
 2011,number,a) time series,emas organisations,nw,code05,263.00
 2012,number,a) time series,emas organisations,nw,code05,232.00
@@ -117,7 +128,8 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2015,number,a) time series,emas organisations,nw,code05,229.00
 2016,number,a) time series,emas organisations,nw,code05,236.00
 2017,number,a) time series,emas organisations,nw,code05,232.00
-2018,number,a) time series,emas organisations,nw,code05,230.00
+2018,number,a) time series,emas organisations,nw,code05,229.00
+2019,number,a) time series,emas organisations,nw,code05,236.00
 2010,number,a) time series,emas organisations,rp,code07,53.00
 2011,number,a) time series,emas organisations,rp,code07,48.00
 2012,number,a) time series,emas organisations,rp,code07,49.00
@@ -127,6 +139,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2016,number,a) time series,emas organisations,rp,code07,51.00
 2017,number,a) time series,emas organisations,rp,code07,53.00
 2018,number,a) time series,emas organisations,rp,code07,54.00
+2019,number,a) time series,emas organisations,rp,code07,66.00
 2010,number,a) time series,emas organisations,sl,code10,60.00
 2011,number,a) time series,emas organisations,sl,code10,55.00
 2012,number,a) time series,emas organisations,sl,code10,55.00
@@ -136,6 +149,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2016,number,a) time series,emas organisations,sl,code10,62.00
 2017,number,a) time series,emas organisations,sl,code10,64.00
 2018,number,a) time series,emas organisations,sl,code10,59.00
+2019,number,a) time series,emas organisations,sl,code10,59.00
 2010,number,a) time series,emas organisations,sn,code14,63.00
 2011,number,a) time series,emas organisations,sn,code14,62.00
 2012,number,a) time series,emas organisations,sn,code14,66.00
@@ -145,6 +159,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2016,number,a) time series,emas organisations,sn,code14,74.00
 2017,number,a) time series,emas organisations,sn,code14,89.00
 2018,number,a) time series,emas organisations,sn,code14,112.00
+2019,number,a) time series,emas organisations,sn,code14,113.00
 2010,number,a) time series,emas organisations,st,code15,53.00
 2011,number,a) time series,emas organisations,st,code15,50.00
 2012,number,a) time series,emas organisations,st,code15,40.00
@@ -154,6 +169,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2016,number,a) time series,emas organisations,st,code15,44.00
 2017,number,a) time series,emas organisations,st,code15,44.00
 2018,number,a) time series,emas organisations,st,code15,45.00
+2019,number,a) time series,emas organisations,st,code15,66.00
 2010,number,a) time series,emas organisations,sh,code01,59.00
 2011,number,a) time series,emas organisations,sh,code01,59.00
 2012,number,a) time series,emas organisations,sh,code01,45.00
@@ -163,6 +179,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2016,number,a) time series,emas organisations,sh,code01,33.00
 2017,number,a) time series,emas organisations,sh,code01,45.00
 2018,number,a) time series,emas organisations,sh,code01,39.00
+2019,number,a) time series,emas organisations,sh,code01,37.00
 2010,number,a) time series,emas organisations,th,code16,78.00
 2011,number,a) time series,emas organisations,th,code16,71.00
 2012,number,a) time series,emas organisations,th,code16,62.00
@@ -172,3 +189,4 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2016,number,a) time series,emas organisations,th,code16,93.00
 2017,number,a) time series,emas organisations,th,code16,89.00
 2018,number,a) time series,emas organisations,th,code16,81.00
+2019,number,a) time series,emas organisations,th,code16,87.00

@@ -18,6 +18,8 @@ Year,Units,display,title,Value
 2013,ha/d,a) time series,"recreation area, cemeteries",23.06
 2014,ha/d,a) time series,"recreation area, cemeteries",17.93
 2015,ha/d,a) time series,"recreation area, cemeteries",11.61
+2017,ha/d,a) time series,"recreation area, cemeteries",14.92
+2018,ha/d,a) time series,"recreation area, cemeteries",10.01
 1997,ha/d,a) time series,"building and adjacent open area, commercial/ industrial area",83.41
 1998,ha/d,a) time series,"building and adjacent open area, commercial/ industrial area",86.76
 1999,ha/d,a) time series,"building and adjacent open area, commercial/ industrial area",86.78
@@ -37,6 +39,8 @@ Year,Units,display,title,Value
 2013,ha/d,a) time series,"building and adjacent open area, commercial/ industrial area",29.01
 2014,ha/d,a) time series,"building and adjacent open area, commercial/ industrial area",21.91
 2015,ha/d,a) time series,"building and adjacent open area, commercial/ industrial area",39.63
+2017,ha/d,a) time series,"building and adjacent open area, commercial/ industrial area",31.80
+2018,ha/d,a) time series,"building and adjacent open area, commercial/ industrial area",32.04
 1997,ha/d,a) time series,transport area,20.64
 1998,ha/d,a) time series,transport area,23.30
 1999,ha/d,a) time series,transport area,23.31
@@ -56,9 +60,11 @@ Year,Units,display,title,Value
 2013,ha/d,a) time series,transport area,18.52
 2014,ha/d,a) time series,transport area,23.44
 2015,ha/d,a) time series,transport area,9.77
-1997,ha/d,a) time series,a) total (moving four-year average),120.73
-1998,ha/d,a) time series,a) total (moving four-year average),123.49
-1999,ha/d,a) time series,a) total (moving four-year average),126.26
+2017,ha/d,a) time series,transport area,8.48
+2018,ha/d,a) time series,transport area,15.95
+1997,ha/d,a) time series,a) total (moving four-year average),120.70
+1998,ha/d,a) time series,a) total (moving four-year average),123.50
+1999,ha/d,a) time series,a) total (moving four-year average),126.30
 2000,ha/d,a) time series,a) total (moving four-year average),129.10
 2001,ha/d,a) time series,a) total (moving four-year average),128.30
 2002,ha/d,a) time series,a) total (moving four-year average),123.10
@@ -77,4 +83,5 @@ Year,Units,display,title,Value
 2015,ha/d,a) time series,a) total (moving four-year average),66.10
 2016,ha/d,a) time series,a) total (moving four-year average),61.54
 2017,ha/d,a) time series,a) total (moving four-year average),57.69
+2018,ha/d,a) time series,a) total (moving four-year average),56.37
 2030,ha/d,b) target (max),a) total (moving four-year average),30.00
