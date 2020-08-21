@@ -1,147 +1,19 @@
 Year,Units,display,title,Bundesland,GeoCode,Value
-2005,number,a) time series,employees in thousands,a) germany (total),,961.255
-2006,number,a) time series,employees in thousands,a) germany (total),,926.296
-2007,number,a) time series,employees in thousands,a) germany (total),,860.4910000000001
-2008,number,a) time series,employees in thousands,a) germany (total),,840.0060000000001
-2009,number,a) time series,employees in thousands,a) germany (total),,802.825
-2010,number,a) time series,employees in thousands,a) germany (total),,780.757
-2011,number,a) time series,employees in thousands,a) germany (total),,764.7360000000001
-2012,number,a) time series,employees in thousands,a) germany (total),,772.7739999999999
-2013,number,a) time series,employees in thousands,a) germany (total),,787.525
-2014,number,a) time series,employees in thousands,a) germany (total),,785.432
-2015,number,a) time series,employees in thousands,a) germany (total),,800.635
-2016,number,a) time series,employees in thousands,a) germany (total),,842.301
-2017,number,a) time series,employees in thousands,a) germany (total),,985.195
-2018,number,a) time series,employees in thousands,a) germany (total),,929.2410000000001
-2019,number,a) time series,employees in thousands,a) germany (total),,988.4010000000001
-2011,number,a) time series,employees in thousands,bw,code08,175.984
-2012,number,a) time series,employees in thousands,bw,code08,183.419
-2013,number,a) time series,employees in thousands,bw,code08,183.856
-2014,number,a) time series,employees in thousands,bw,code08,178.476
-2015,number,a) time series,employees in thousands,bw,code08,181.672
-2016,number,a) time series,employees in thousands,bw,code08,176.278
-2017,number,a) time series,employees in thousands,bw,code08,197.18400000000003
-2018,number,a) time series,employees in thousands,bw,code08,165.535
-2011,number,a) time series,employees in thousands,by,code09,237.09
-2012,number,a) time series,employees in thousands,by,code09,235.482
-2013,number,a) time series,employees in thousands,by,code09,220.66299999999998
-2014,number,a) time series,employees in thousands,by,code09,240.237
-2015,number,a) time series,employees in thousands,by,code09,305.098
-2016,number,a) time series,employees in thousands,by,code09,280.427
-2017,number,a) time series,employees in thousands,by,code09,333.083
-2018,number,a) time series,employees in thousands,by,code09,304.147
-2011,number,a) time series,employees in thousands,be,code11,9.009
-2012,number,a) time series,employees in thousands,be,code11,9.172
-2013,number,a) time series,employees in thousands,be,code11,11.214
-2014,number,a) time series,employees in thousands,be,code11,8.636000000000001
-2015,number,a) time series,employees in thousands,be,code11,16.828
-2016,number,a) time series,employees in thousands,be,code11,11.866
-2017,number,a) time series,employees in thousands,be,code11,20.947
-2018,number,a) time series,employees in thousands,be,code11,19.784000000000002
-2011,number,a) time series,employees in thousands,bb,code12,10.459000000000001
-2012,number,a) time series,employees in thousands,bb,code12,11.091
-2013,number,a) time series,employees in thousands,bb,code12,11.005
-2014,number,a) time series,employees in thousands,bb,code12,12.845999999999998
-2015,number,a) time series,employees in thousands,bb,code12,7.636
-2016,number,a) time series,employees in thousands,bb,code12,8.105
-2017,number,a) time series,employees in thousands,bb,code12,11.008
-2018,number,a) time series,employees in thousands,bb,code12,11.472000000000001
-2011,number,a) time series,employees in thousands,hb,code04,22.178
-2012,number,a) time series,employees in thousands,hb,code04,22.114
-2013,number,a) time series,employees in thousands,hb,code04,23.63
-2014,number,a) time series,employees in thousands,hb,code04,20.129
-2015,number,a) time series,employees in thousands,hb,code04,20.4
-2016,number,a) time series,employees in thousands,hb,code04,20.833000000000002
-2017,number,a) time series,employees in thousands,hb,code04,20.873
-2018,number,a) time series,employees in thousands,hb,code04,20.71
-2011,number,a) time series,employees in thousands,hh,code02,9.048
-2012,number,a) time series,employees in thousands,hh,code02,9.01
-2013,number,a) time series,employees in thousands,hh,code02,12.01
-2014,number,a) time series,employees in thousands,hh,code02,11.867
-2015,number,a) time series,employees in thousands,hh,code02,13.72
-2016,number,a) time series,employees in thousands,hh,code02,13.477
-2017,number,a) time series,employees in thousands,hh,code02,13.09
-2018,number,a) time series,employees in thousands,hh,code02,15.054
-2011,number,a) time series,employees in thousands,he,code06,54.856
-2012,number,a) time series,employees in thousands,he,code06,54.827
-2013,number,a) time series,employees in thousands,he,code06,54.815
-2014,number,a) time series,employees in thousands,he,code06,57.626999999999995
-2015,number,a) time series,employees in thousands,he,code06,58.288999999999994
-2016,number,a) time series,employees in thousands,he,code06,61.931999999999995
-2017,number,a) time series,employees in thousands,he,code06,60.621
-2018,number,a) time series,employees in thousands,he,code06,66.69
-2011,number,a) time series,employees in thousands,mv,code13,1.604
-2012,number,a) time series,employees in thousands,mv,code13,1.739
-2013,number,a) time series,employees in thousands,mv,code13,1.838
-2014,number,a) time series,employees in thousands,mv,code13,1.449
-2015,number,a) time series,employees in thousands,mv,code13,1.493
-2016,number,a) time series,employees in thousands,mv,code13,1.5519999999999998
-2017,number,a) time series,employees in thousands,mv,code13,1.4169999999999998
-2018,number,a) time series,employees in thousands,mv,code13,0.9690000000000001
-2011,number,a) time series,employees in thousands,ni,code03,101.948
-2012,number,a) time series,employees in thousands,ni,code03,105.28399999999999
-2013,number,a) time series,employees in thousands,ni,code03,108.91799999999999
-2014,number,a) time series,employees in thousands,ni,code03,117.803
-2015,number,a) time series,employees in thousands,ni,code03,59.096000000000004
-2016,number,a) time series,employees in thousands,ni,code03,120.73299999999999
-2017,number,a) time series,employees in thousands,ni,code03,173.683
-2018,number,a) time series,employees in thousands,ni,code03,176.778
-2011,number,a) time series,employees in thousands,nw,code05,70.255
-2012,number,a) time series,employees in thousands,nw,code05,72.215
-2013,number,a) time series,employees in thousands,nw,code05,69.24600000000001
-2014,number,a) time series,employees in thousands,nw,code05,65.723
-2015,number,a) time series,employees in thousands,nw,code05,63.893
-2016,number,a) time series,employees in thousands,nw,code05,70.862
-2017,number,a) time series,employees in thousands,nw,code05,68.925
-2018,number,a) time series,employees in thousands,nw,code05,69.71600000000001
-2011,number,a) time series,employees in thousands,rp,code07,16.849
-2012,number,a) time series,employees in thousands,rp,code07,14.672
-2013,number,a) time series,employees in thousands,rp,code07,15.895999999999999
-2014,number,a) time series,employees in thousands,rp,code07,16.828
-2015,number,a) time series,employees in thousands,rp,code07,16.947
-2016,number,a) time series,employees in thousands,rp,code07,18.271
-2017,number,a) time series,employees in thousands,rp,code07,21.506999999999998
-2018,number,a) time series,employees in thousands,rp,code07,21.958000000000002
-2011,number,a) time series,employees in thousands,sl,code10,10.707
-2012,number,a) time series,employees in thousands,sl,code10,3.779
-2013,number,a) time series,employees in thousands,sl,code10,4.689
-2014,number,a) time series,employees in thousands,sl,code10,5.687
-2015,number,a) time series,employees in thousands,sl,code10,5.702999999999999
-2016,number,a) time series,employees in thousands,sl,code10,6.584
-2017,number,a) time series,employees in thousands,sl,code10,6.852
-2018,number,a) time series,employees in thousands,sl,code10,4.864
-2011,number,a) time series,employees in thousands,sn,code14,25.975
-2012,number,a) time series,employees in thousands,sn,code14,29.836
-2013,number,a) time series,employees in thousands,sn,code14,32.589
-2014,number,a) time series,employees in thousands,sn,code14,29.590999999999998
-2015,number,a) time series,employees in thousands,sn,code14,31.528000000000002
-2016,number,a) time series,employees in thousands,sn,code14,31.956999999999997
-2017,number,a) time series,employees in thousands,sn,code14,32.88
-2018,number,a) time series,employees in thousands,sn,code14,33.582
-2011,number,a) time series,employees in thousands,st,code15,6.603
-2012,number,a) time series,employees in thousands,st,code15,7.042000000000001
-2013,number,a) time series,employees in thousands,st,code15,7.182
-2014,number,a) time series,employees in thousands,st,code15,5.0569999999999995
-2015,number,a) time series,employees in thousands,st,code15,4.367
-2016,number,a) time series,employees in thousands,st,code15,5.7589999999999995
-2017,number,a) time series,employees in thousands,st,code15,6.269
-2018,number,a) time series,employees in thousands,st,code15,6.609
-2011,number,a) time series,employees in thousands,sh,code01,8.347999999999999
-2012,number,a) time series,employees in thousands,sh,code01,8.859
-2013,number,a) time series,employees in thousands,sh,code01,10.392000000000001
-2014,number,a) time series,employees in thousands,sh,code01,7.992000000000001
-2015,number,a) time series,employees in thousands,sh,code01,7.928999999999999
-2016,number,a) time series,employees in thousands,sh,code01,8.152000000000001
-2017,number,a) time series,employees in thousands,sh,code01,10.65
-2018,number,a) time series,employees in thousands,sh,code01,5.88
-2011,number,a) time series,employees in thousands,th,code16,3.823
-2012,number,a) time series,employees in thousands,th,code16,4.2330000000000005
-2013,number,a) time series,employees in thousands,th,code16,4.94
-2014,number,a) time series,employees in thousands,th,code16,5.484
-2015,number,a) time series,employees in thousands,th,code16,6.0360000000000005
-2016,number,a) time series,employees in thousands,th,code16,5.513
-2017,number,a) time series,employees in thousands,th,code16,6.206
-2018,number,a) time series,employees in thousands,th,code16,5.492999999999999
+2005,number,a) time series,employees in thousands,a) germany (total),,961.25
+2006,number,a) time series,employees in thousands,a) germany (total),,926.3
+2007,number,a) time series,employees in thousands,a) germany (total),,860.49
+2008,number,a) time series,employees in thousands,a) germany (total),,840.01
+2009,number,a) time series,employees in thousands,a) germany (total),,802.83
+2010,number,a) time series,employees in thousands,a) germany (total),,780.76
+2011,number,a) time series,employees in thousands,a) germany (total),,764.74
+2012,number,a) time series,employees in thousands,a) germany (total),,772.77
+2013,number,a) time series,employees in thousands,a) germany (total),,787.52
+2014,number,a) time series,employees in thousands,a) germany (total),,785.43
+2015,number,a) time series,employees in thousands,a) germany (total),,800.63
+2016,number,a) time series,employees in thousands,a) germany (total),,842.3
+2017,number,a) time series,employees in thousands,a) germany (total),,985.2
+2018,number,a) time series,employees in thousands,a) germany (total),,929.24
+2019,number,a) time series,employees in thousands,a) germany (total),,988.4
 2005,number,a) time series,emas organisational locations,a) germany (total),,1958.0
 2006,number,a) time series,emas organisational locations,a) germany (total),,1985.0
 2007,number,a) time series,emas organisational locations,a) germany (total),,1956.0
