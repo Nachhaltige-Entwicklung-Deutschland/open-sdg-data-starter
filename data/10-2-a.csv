@@ -35,18 +35,18 @@ Year,title,area,Value
 2016,gini coefficient of equivalised income before social transfers,germany,0.359
 2017,gini coefficient of equivalised income before social transfers,germany,0.35
 2018,gini coefficient of equivalised income before social transfers,germany,0.366
-2007,gini coefficient of equivalised income before social transfers,eu-28,0.0
-2008,gini coefficient of equivalised income before social transfers,eu-28,0.0
-2009,gini coefficient of equivalised income before social transfers,eu-28,0.0
-2010,gini coefficient of equivalised income before social transfers,eu-28,0.0
-2011,gini coefficient of equivalised income before social transfers,eu-28,0.0
-2012,gini coefficient of equivalised income before social transfers,eu-28,0.0
-2013,gini coefficient of equivalised income before social transfers,eu-28,0.0
-2014,gini coefficient of equivalised income before social transfers,eu-28,0.0
-2015,gini coefficient of equivalised income before social transfers,eu-28,0.0
-2016,gini coefficient of equivalised income before social transfers,eu-28,0.0
-2017,gini coefficient of equivalised income before social transfers,eu-28,0.0
-2018,gini coefficient of equivalised income before social transfers,eu-28,0.0
+2007,gini coefficient of equivalised income before social transfers,eu-28,0.361
+2008,gini coefficient of equivalised income before social transfers,eu-28,0.361
+2009,gini coefficient of equivalised income before social transfers,eu-28,0.36
+2010,gini coefficient of equivalised income before social transfers,eu-28,0.363
+2011,gini coefficient of equivalised income before social transfers,eu-28,0.36700000000000005
+2012,gini coefficient of equivalised income before social transfers,eu-28,0.36
+2013,gini coefficient of equivalised income before social transfers,eu-28,0.363
+2014,gini coefficient of equivalised income before social transfers,eu-28,0.366
+2015,gini coefficient of equivalised income before social transfers,eu-28,0.365
+2016,gini coefficient of equivalised income before social transfers,eu-28,0.36200000000000004
+2017,gini coefficient of equivalised income before social transfers,eu-28,0.359
+2018,gini coefficient of equivalised income before social transfers,eu-28,0.359
 2008,gini coefficient of market income,germany,0.494
 2009,gini coefficient of market income,germany,0.493
 2010,gini coefficient of market income,germany,0.49200000000000005
@@ -60,6 +60,6 @@ Year,title,area,Value
 2010,gini coefficient of wealth,germany,0.758
 2014,gini coefficient of wealth,germany,0.762
 2017,gini coefficient of wealth,germany,0.7390000000000001
-2010,gini coefficient of wealth,eu-28,0.68
-2014,gini coefficient of wealth,eu-28,0.685
-2017,gini coefficient of wealth,eu-28,0.695
+2010,gini coefficient of wealth,euro zone,0.68
+2014,gini coefficient of wealth,euro zone,0.685
+2017,gini coefficient of wealth,euro zone,0.695
