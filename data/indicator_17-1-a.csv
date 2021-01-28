@@ -1,27 +1,26 @@
-Year,Units,display,title,Value
-1995,percentage (%),a) time series,berechnung als nettoausgabe,0.308
-1996,percentage (%),a) time series,berechnung als nettoausgabe,0.320
-1997,percentage (%),a) time series,berechnung als nettoausgabe,0.279
-1998,percentage (%),a) time series,berechnung als nettoausgabe,0.262
-1999,percentage (%),a) time series,berechnung als nettoausgabe,0.264
-2000,percentage (%),a) time series,berechnung als nettoausgabe,0.271
-2001,percentage (%),a) time series,berechnung als nettoausgabe,0.270
-2002,percentage (%),a) time series,berechnung als nettoausgabe,0.270
-2003,percentage (%),a) time series,berechnung als nettoausgabe,0.280
-2004,percentage (%),a) time series,berechnung als nettoausgabe,0.280
-2005,percentage (%),a) time series,berechnung als nettoausgabe,0.360
-2006,percentage (%),a) time series,berechnung als nettoausgabe,0.360
-2007,percentage (%),a) time series,berechnung als nettoausgabe,0.370
-2008,percentage (%),a) time series,berechnung als nettoausgabe,0.380
-2009,percentage (%),a) time series,berechnung als nettoausgabe,0.350
-2010,percentage (%),a) time series,berechnung als nettoausgabe,0.390
-2011,percentage (%),a) time series,berechnung als nettoausgabe,0.390
-2012,percentage (%),a) time series,berechnung als nettoausgabe,0.370
-2013,percentage (%),a) time series,berechnung als nettoausgabe,0.381
-2014,percentage (%),a) time series,berechnung als nettoausgabe,0.419
-2015,percentage (%),a) time series,berechnung als nettoausgabe,0.523
-2016,percentage (%),a) time series,berechnung als nettoausgabe,0.699
-2017,percentage (%),a) time series,berechnung als nettoausgabe,0.667
-2018,percentage (%),a) time series,berechnung in äquivalenten,0.612
-2019,percentage (%),a) time series,berechnung in äquivalenten,0.612
-2030,percentage (%),b) target,berechnung in äquivalenten,0.700
+Year,Units,display,Value
+1995,percentage (%),a) time series,0.308
+1996,percentage (%),a) time series,0.320
+1997,percentage (%),a) time series,0.279
+1998,percentage (%),a) time series,0.262
+1999,percentage (%),a) time series,0.264
+2000,percentage (%),a) time series,0.271
+2001,percentage (%),a) time series,0.270
+2002,percentage (%),a) time series,0.270
+2003,percentage (%),a) time series,0.280
+2004,percentage (%),a) time series,0.280
+2005,percentage (%),a) time series,0.360
+2006,percentage (%),a) time series,0.360
+2007,percentage (%),a) time series,0.370
+2008,percentage (%),a) time series,0.380
+2009,percentage (%),a) time series,0.350
+2010,percentage (%),a) time series,0.390
+2011,percentage (%),a) time series,0.390
+2012,percentage (%),a) time series,0.370
+2013,percentage (%),a) time series,0.381
+2014,percentage (%),a) time series,0.419
+2015,percentage (%),a) time series,0.523
+2016,percentage (%),a) time series,0.699
+2017,percentage (%),a) time series,0.667
+2018,percentage (%),a) time series,0.633
+2019,percentage (%),a) time series,0.600
