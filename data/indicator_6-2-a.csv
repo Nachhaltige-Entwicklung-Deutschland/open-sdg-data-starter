@@ -1,15 +1,22 @@
-Year,Units,display,Value
-2012,mio.,a) time series,10.60
-2013,mio.,a) time series,11.60
-2014,mio.,a) time series,31.00
-2015,mio.,a) time series,11.00
-2016,mio.,a) time series,14.30
-2017,mio.,a) time series,28.60
-2018,mio.,a) time series,60.30
-2012,mio.,b) target (min),10.00
-2013,mio.,b) target (min),10.00
-2014,mio.,b) target (min),10.00
-2015,mio.,b) target (min),10.00
-2016,mio.,b) target (min),10.00
-2017,mio.,b) target (min),10.00
-2018,mio.,b) target (min),10.00
+Year,Units,display,title,Value
+2012,mio.,a) time series,trinkwasser und sanitärversorgung,10.60
+2013,mio.,a) time series,trinkwasser und sanitärversorgung,11.60
+2014,mio.,a) time series,trinkwasser und sanitärversorgung,31.00
+2015,mio.,a) time series,trinkwasser und sanitärversorgung,11.00
+2016,mio.,a) time series,trinkwasser und sanitärversorgung,14.30
+2017,mio.,a) time series,trinkwasser und sanitärversorgung,28.60
+2018,mio.,a) time series,trinkwasser und sanitärversorgung,60.30
+2012,mio.,b) target (min),trinkwasser und sanitärversorgung,10.00
+2013,mio.,b) target (min),trinkwasser und sanitärversorgung,10.00
+2014,mio.,b) target (min),trinkwasser und sanitärversorgung,10.00
+2015,mio.,b) target (min),trinkwasser und sanitärversorgung,10.00
+2016,mio.,b) target (min),trinkwasser und sanitärversorgung,10.00
+2017,mio.,b) target (min),trinkwasser und sanitärversorgung,10.00
+2018,mio.,b) target (min),trinkwasser und sanitärversorgung,10.00
+2030,mio.,b) target (min),trinkwasser und sanitärversorgung,10.00
+2019,mio.,a) time series,trinkwasser,14.30
+2019,mio.,b) target (min),trinkwasser,6.00
+2030,mio.,b) target (min),trinkwasser,6.00
+2019,mio.,a) time series,,6.10
+2019,mio.,b) target (min),,4.00
+2030,mio.,b) target (min),,4.00
