@@ -1,206 +1,719 @@
 Year,Units,display,sex,Bundesland,GeoCode,Value
-1999,percentage (%),a) time series,male and female,a) germany (total),,14.90
-2000,percentage (%),a) time series,male and female,a) germany (total),,14.90
-2001,percentage (%),a) time series,male and female,a) germany (total),,12.50
-2002,percentage (%),a) time series,male and female,a) germany (total),,12.60
-2003,percentage (%),a) time series,male and female,a) germany (total),,12.80
-2004,percentage (%),a) time series,male and female,a) germany (total),,12.10
-2005,percentage (%),a) time series,male and female,a) germany (total),,13.83
-2006,percentage (%),a) time series,male and female,a) germany (total),,14.09
-2007,percentage (%),a) time series,male and female,a) germany (total),,12.73
-2008,percentage (%),a) time series,male and female,a) germany (total),,11.80
-2009,percentage (%),a) time series,male and female,a) germany (total),,11.10
-2010,percentage (%),a) time series,male and female,a) germany (total),,11.86
-2011,percentage (%),a) time series,male and female,a) germany (total),,11.56
-2012,percentage (%),a) time series,male and female,a) germany (total),,10.37
-2013,percentage (%),a) time series,male and female,a) germany (total),,9.81
-2014,percentage (%),a) time series,male and female,a) germany (total),,9.53
-2015,percentage (%),a) time series,male and female,a) germany (total),,9.82
-2016,percentage (%),a) time series,male and female,a) germany (total),,10.30
-2017,percentage (%),a) time series,male and female,a) germany (total),,10.11
-2018,percentage (%),a) time series,male and female,a) germany (total),,10.34
-2030,percentage (%),b) target (max),male and female,a) germany (total),,9.50
-1999,percentage (%),a) time series,female,a) germany (total),,15.60
-2000,percentage (%),a) time series,female,a) germany (total),,15.20
-2001,percentage (%),a) time series,female,a) germany (total),,12.80
-2002,percentage (%),a) time series,female,a) germany (total),,12.60
-2003,percentage (%),a) time series,female,a) germany (total),,12.80
-2004,percentage (%),a) time series,female,a) germany (total),,11.90
-2005,percentage (%),a) time series,female,a) germany (total),,14.18
-2006,percentage (%),a) time series,female,a) germany (total),,13.80
-2007,percentage (%),a) time series,female,a) germany (total),,11.97
-2008,percentage (%),a) time series,female,a) germany (total),,11.21
-2009,percentage (%),a) time series,female,a) germany (total),,10.80
-2010,percentage (%),a) time series,female,a) germany (total),,11.02
-2011,percentage (%),a) time series,female,a) germany (total),,10.62
-2012,percentage (%),a) time series,female,a) germany (total),,9.73
-2013,percentage (%),a) time series,female,a) germany (total),,9.28
-2014,percentage (%),a) time series,female,a) germany (total),,8.99
-2015,percentage (%),a) time series,female,a) germany (total),,9.49
-2016,percentage (%),a) time series,female,a) germany (total),,9.60
-2017,percentage (%),a) time series,female,a) germany (total),,9.04
-2018,percentage (%),a) time series,female,a) germany (total),,9.13
-1999,percentage (%),a) time series,male,a) germany (total),,14.20
-2000,percentage (%),a) time series,male,a) germany (total),,14.60
-2001,percentage (%),a) time series,male,a) germany (total),,12.20
-2002,percentage (%),a) time series,male,a) germany (total),,12.60
-2003,percentage (%),a) time series,male,a) germany (total),,12.90
-2004,percentage (%),a) time series,male,a) germany (total),,12.20
-2005,percentage (%),a) time series,male,a) germany (total),,13.49
-2006,percentage (%),a) time series,male,a) germany (total),,14.37
-2007,percentage (%),a) time series,male,a) germany (total),,13.48
-2008,percentage (%),a) time series,male,a) germany (total),,12.37
-2009,percentage (%),a) time series,male,a) germany (total),,11.50
-2010,percentage (%),a) time series,male,a) germany (total),,12.68
-2011,percentage (%),a) time series,male,a) germany (total),,12.47
-2012,percentage (%),a) time series,male,a) germany (total),,10.97
-2013,percentage (%),a) time series,male,a) germany (total),,10.30
-2014,percentage (%),a) time series,male,a) germany (total),,10.03
-2015,percentage (%),a) time series,male,a) germany (total),,10.12
-2016,percentage (%),a) time series,male,a) germany (total),,11.00
-2017,percentage (%),a) time series,male,a) germany (total),,11.09
-2018,percentage (%),a) time series,male,a) germany (total),,11.42
-2010,percentage (%),a) time series,male and female,bw,code08,9.80
-2011,percentage (%),a) time series,male and female,bw,code08,9.93
-2012,percentage (%),a) time series,male and female,bw,code08,8.26
-2013,percentage (%),a) time series,male and female,bw,code08,7.60
-2014,percentage (%),a) time series,male and female,bw,code08,7.90
-2015,percentage (%),a) time series,male and female,bw,code08,8.30
-2016,percentage (%),a) time series,male and female,bw,code08,9.35
-2017,percentage (%),a) time series,male and female,bw,code08,8.71
-2018,percentage (%),a) time series,male and female,bw,code08,9.71
-2010,percentage (%),a) time series,male and female,by,code09,9.40
-2011,percentage (%),a) time series,male and female,by,code09,9.09
-2012,percentage (%),a) time series,male and female,by,code09,7.36
-2013,percentage (%),a) time series,male and female,by,code09,7.30
-2014,percentage (%),a) time series,male and female,by,code09,6.39
-2015,percentage (%),a) time series,male and female,by,code09,6.16
-2016,percentage (%),a) time series,male and female,by,code09,7.63
-2017,percentage (%),a) time series,male and female,by,code09,7.20
-2018,percentage (%),a) time series,male and female,by,code09,7.23
-2010,percentage (%),a) time series,male and female,be,code11,14.60
-2011,percentage (%),a) time series,male and female,be,code11,13.05
-2012,percentage (%),a) time series,male and female,be,code11,12.98
-2013,percentage (%),a) time series,male and female,be,code11,11.90
-2014,percentage (%),a) time series,male and female,be,code11,13.52
-2015,percentage (%),a) time series,male and female,be,code11,13.68
-2016,percentage (%),a) time series,male and female,be,code11,11.70
-2017,percentage (%),a) time series,male and female,be,code11,13.17
-2018,percentage (%),a) time series,male and female,be,code11,13.55
-2010,percentage (%),a) time series,male and female,bb,code12,9.60
-2011,percentage (%),a) time series,male and female,bb,code12,10.18
-2012,percentage (%),a) time series,male and female,bb,code12,9.95
-2013,percentage (%),a) time series,male and female,bb,code12,10.60
-2014,percentage (%),a) time series,male and female,bb,code12,9.00
-2015,percentage (%),a) time series,male and female,bb,code12,11.56
-2016,percentage (%),a) time series,male and female,bb,code12,10.97
-2017,percentage (%),a) time series,male and female,bb,code12,12.32
-2018,percentage (%),a) time series,male and female,bb,code12,11.52
-2010,percentage (%),a) time series,male and female,hb,code04,14.30
-2011,percentage (%),a) time series,male and female,hb,code04,17.22
-2012,percentage (%),a) time series,male and female,hb,code04,13.34
-2013,percentage (%),a) time series,male and female,hb,code04,14.90
-2014,percentage (%),a) time series,male and female,hb,code04,14.01
-2015,percentage (%),a) time series,male and female,hb,code04,11.54
-2016,percentage (%),a) time series,male and female,hb,code04,11.08
-2017,percentage (%),a) time series,male and female,hb,code04,10.91
-2018,percentage (%),a) time series,male and female,hb,code04,14.64
-2010,percentage (%),a) time series,male and female,hh,code02,13.20
-2011,percentage (%),a) time series,male and female,hh,code02,13.16
-2012,percentage (%),a) time series,male and female,hh,code02,12.47
-2013,percentage (%),a) time series,male and female,hh,code02,11.60
-2014,percentage (%),a) time series,male and female,hh,code02,11.79
-2015,percentage (%),a) time series,male and female,hh,code02,12.57
-2016,percentage (%),a) time series,male and female,hh,code02,12.81
-2017,percentage (%),a) time series,male and female,hh,code02,11.41
-2018,percentage (%),a) time series,male and female,hh,code02,11.56
-2010,percentage (%),a) time series,male and female,he,code06,11.80
-2011,percentage (%),a) time series,male and female,he,code06,10.58
-2012,percentage (%),a) time series,male and female,he,code06,9.07
-2013,percentage (%),a) time series,male and female,he,code06,10.00
-2014,percentage (%),a) time series,male and female,he,code06,9.67
-2015,percentage (%),a) time series,male and female,he,code06,9.52
-2016,percentage (%),a) time series,male and female,he,code06,10.48
-2017,percentage (%),a) time series,male and female,he,code06,10.15
-2018,percentage (%),a) time series,male and female,he,code06,10.70
-2010,percentage (%),a) time series,male and female,mv,code13,9.20
-2011,percentage (%),a) time series,male and female,mv,code13,9.86
-2012,percentage (%),a) time series,male and female,mv,code13,10.95
-2013,percentage (%),a) time series,male and female,mv,code13,9.60
-2014,percentage (%),a) time series,male and female,mv,code13,9.95
-2015,percentage (%),a) time series,male and female,mv,code13,10.58
-2016,percentage (%),a) time series,male and female,mv,code13,13.64
-2017,percentage (%),a) time series,male and female,mv,code13,9.83
-2018,percentage (%),a) time series,male and female,mv,code13,11.13
-2010,percentage (%),a) time series,male and female,ni,code03,13.90
-2011,percentage (%),a) time series,male and female,ni,code03,14.09
-2012,percentage (%),a) time series,male and female,ni,code03,11.80
-2013,percentage (%),a) time series,male and female,ni,code03,10.80
-2014,percentage (%),a) time series,male and female,ni,code03,10.69
-2015,percentage (%),a) time series,male and female,ni,code03,10.67
-2016,percentage (%),a) time series,male and female,ni,code03,12.05
-2017,percentage (%),a) time series,male and female,ni,code03,11.33
-2018,percentage (%),a) time series,male and female,ni,code03,11.00
-2010,percentage (%),a) time series,male and female,nw,code05,14.60
-2011,percentage (%),a) time series,male and female,nw,code05,13.56
-2012,percentage (%),a) time series,male and female,nw,code05,12.77
-2013,percentage (%),a) time series,male and female,nw,code05,11.60
-2014,percentage (%),a) time series,male and female,nw,code05,11.25
-2015,percentage (%),a) time series,male and female,nw,code05,11.42
-2016,percentage (%),a) time series,male and female,nw,code05,11.41
-2017,percentage (%),a) time series,male and female,nw,code05,11.58
-2018,percentage (%),a) time series,male and female,nw,code05,11.98
-2010,percentage (%),a) time series,male and female,rp,code07,15.50
-2011,percentage (%),a) time series,male and female,rp,code07,13.52
-2012,percentage (%),a) time series,male and female,rp,code07,12.50
-2013,percentage (%),a) time series,male and female,rp,code07,13.10
-2014,percentage (%),a) time series,male and female,rp,code07,10.40
-2015,percentage (%),a) time series,male and female,rp,code07,12.18
-2016,percentage (%),a) time series,male and female,rp,code07,11.83
-2017,percentage (%),a) time series,male and female,rp,code07,11.74
-2018,percentage (%),a) time series,male and female,rp,code07,11.53
-2010,percentage (%),a) time series,male and female,sl,code10,13.20
-2011,percentage (%),a) time series,male and female,sl,code10,15.44
-2012,percentage (%),a) time series,male and female,sl,code10,12.86
-2013,percentage (%),a) time series,male and female,sl,code10,14.10
-2014,percentage (%),a) time series,male and female,sl,code10,11.88
-2015,percentage (%),a) time series,male and female,sl,code10,12.23
-2016,percentage (%),a) time series,male and female,sl,code10,10.32
-2017,percentage (%),a) time series,male and female,sl,code10,11.68
-2018,percentage (%),a) time series,male and female,sl,code10,11.78
-2010,percentage (%),a) time series,male and female,sn,code14,7.60
-2011,percentage (%),a) time series,male and female,sn,code14,7.68
-2012,percentage (%),a) time series,male and female,sn,code14,7.71
-2013,percentage (%),a) time series,male and female,sn,code14,6.50
-2014,percentage (%),a) time series,male and female,sn,code14,6.82
-2015,percentage (%),a) time series,male and female,sn,code14,8.44
-2016,percentage (%),a) time series,male and female,sn,code14,7.74
-2017,percentage (%),a) time series,male and female,sn,code14,8.57
-2018,percentage (%),a) time series,male and female,sn,code14,7.51
-2010,percentage (%),a) time series,male and female,st,code15,11.70
-2011,percentage (%),a) time series,male and female,st,code15,12.92
-2012,percentage (%),a) time series,male and female,st,code15,11.05
-2013,percentage (%),a) time series,male and female,st,code15,9.70
-2014,percentage (%),a) time series,male and female,st,code15,9.30
-2015,percentage (%),a) time series,male and female,st,code15,12.17
-2016,percentage (%),a) time series,male and female,st,code15,11.17
-2017,percentage (%),a) time series,male and female,st,code15,13.56
-2018,percentage (%),a) time series,male and female,st,code15,9.07
-2010,percentage (%),a) time series,male and female,sh,code01,12.60
-2011,percentage (%),a) time series,male and female,sh,code01,12.86
-2012,percentage (%),a) time series,male and female,sh,code01,12.28
-2013,percentage (%),a) time series,male and female,sh,code01,10.30
-2014,percentage (%),a) time series,male and female,sh,code01,12.81
-2015,percentage (%),a) time series,male and female,sh,code01,10.56
-2016,percentage (%),a) time series,male and female,sh,code01,10.73
-2017,percentage (%),a) time series,male and female,sh,code01,9.07
-2018,percentage (%),a) time series,male and female,sh,code01,10.09
-2010,percentage (%),a) time series,male and female,th,code16,6.30
-2011,percentage (%),a) time series,male and female,th,code16,7.65
-2012,percentage (%),a) time series,male and female,th,code16,6.99
-2013,percentage (%),a) time series,male and female,th,code16,7.70
-2014,percentage (%),a) time series,male and female,th,code16,6.12
-2015,percentage (%),a) time series,male and female,th,code16,8.33
-2016,percentage (%),a) time series,male and female,th,code16,8.80
-2017,percentage (%),a) time series,male and female,th,code16,8.71
-2018,percentage (%),a) time series,male and female,th,code16,8.46
+1999,percentage (%),a) time series,male and female,a) germany (total),,14.9
+2000,percentage (%),a) time series,male and female,a) germany (total),,14.9
+2001,percentage (%),a) time series,male and female,a) germany (total),,12.5
+2002,percentage (%),a) time series,male and female,a) germany (total),,12.6
+2003,percentage (%),a) time series,male and female,a) germany (total),,12.8
+2004,percentage (%),a) time series,male and female,a) germany (total),,12.1
+2005,percentage (%),a) time series,male and female,a) germany (total),,13.8
+2006,percentage (%),a) time series,male and female,a) germany (total),,14.1
+2007,percentage (%),a) time series,male and female,a) germany (total),,12.7
+2008,percentage (%),a) time series,male and female,a) germany (total),,11.8
+2009,percentage (%),a) time series,male and female,a) germany (total),,11.1
+2010,percentage (%),a) time series,male and female,a) germany (total),,11.9
+2011,percentage (%),a) time series,male and female,a) germany (total),,11.6
+2012,percentage (%),a) time series,male and female,a) germany (total),,10.4
+2013,percentage (%),a) time series,male and female,a) germany (total),,9.8
+2014,percentage (%),a) time series,male and female,a) germany (total),,9.5
+2015,percentage (%),a) time series,male and female,a) germany (total),,9.8
+2016,percentage (%),a) time series,male and female,a) germany (total),,10.3
+2017,percentage (%),a) time series,male and female,a) germany (total),,10.1
+2018,percentage (%),a) time series,male and female,a) germany (total),,10.3
+2019,percentage (%),a) time series,male and female,a) germany (total),,10.3
+2030,percentage (%),b) target (max),male and female,a) germany (total),,10.0
+1999,percentage (%),a) time series,female,a) germany (total),,15.6
+2000,percentage (%),a) time series,female,a) germany (total),,15.2
+2001,percentage (%),a) time series,female,a) germany (total),,12.8
+2002,percentage (%),a) time series,female,a) germany (total),,12.6
+2003,percentage (%),a) time series,female,a) germany (total),,12.8
+2004,percentage (%),a) time series,female,a) germany (total),,11.9
+2005,percentage (%),a) time series,female,a) germany (total),,14.2
+2006,percentage (%),a) time series,female,a) germany (total),,13.8
+2007,percentage (%),a) time series,female,a) germany (total),,12.0
+2008,percentage (%),a) time series,female,a) germany (total),,11.2
+2009,percentage (%),a) time series,female,a) germany (total),,10.8
+2010,percentage (%),a) time series,female,a) germany (total),,11.0
+2011,percentage (%),a) time series,female,a) germany (total),,10.6
+2012,percentage (%),a) time series,female,a) germany (total),,9.7
+2013,percentage (%),a) time series,female,a) germany (total),,9.3
+2014,percentage (%),a) time series,female,a) germany (total),,9.0
+2015,percentage (%),a) time series,female,a) germany (total),,9.5
+2016,percentage (%),a) time series,female,a) germany (total),,9.6
+2017,percentage (%),a) time series,female,a) germany (total),,9.0
+2018,percentage (%),a) time series,female,a) germany (total),,9.1
+2019,percentage (%),a) time series,female,a) germany (total),,8.7
+1999,percentage (%),a) time series,male,a) germany (total),,14.2
+2000,percentage (%),a) time series,male,a) germany (total),,14.6
+2001,percentage (%),a) time series,male,a) germany (total),,12.2
+2002,percentage (%),a) time series,male,a) germany (total),,12.6
+2003,percentage (%),a) time series,male,a) germany (total),,12.9
+2004,percentage (%),a) time series,male,a) germany (total),,12.2
+2005,percentage (%),a) time series,male,a) germany (total),,13.5
+2006,percentage (%),a) time series,male,a) germany (total),,14.4
+2007,percentage (%),a) time series,male,a) germany (total),,13.5
+2008,percentage (%),a) time series,male,a) germany (total),,12.4
+2009,percentage (%),a) time series,male,a) germany (total),,11.5
+2010,percentage (%),a) time series,male,a) germany (total),,12.7
+2011,percentage (%),a) time series,male,a) germany (total),,12.5
+2012,percentage (%),a) time series,male,a) germany (total),,11.0
+2013,percentage (%),a) time series,male,a) germany (total),,10.3
+2014,percentage (%),a) time series,male,a) germany (total),,10.0
+2015,percentage (%),a) time series,male,a) germany (total),,10.1
+2016,percentage (%),a) time series,male,a) germany (total),,11.0
+2017,percentage (%),a) time series,male,a) germany (total),,11.1
+2018,percentage (%),a) time series,male,a) germany (total),,11.4
+2019,percentage (%),a) time series,male,a) germany (total),,11.8
+2005,percentage (%),a) time series,male and female,bw,code08,12.5
+2006,percentage (%),a) time series,male and female,bw,code08,12.4
+2007,percentage (%),a) time series,male and female,bw,code08,12.1
+2008,percentage (%),a) time series,male and female,bw,code08,10.1
+2009,percentage (%),a) time series,male and female,bw,code08,9.5
+2010,percentage (%),a) time series,male and female,bw,code08,9.8
+2011,percentage (%),a) time series,male and female,bw,code08,9.9
+2012,percentage (%),a) time series,male and female,bw,code08,8.3
+2013,percentage (%),a) time series,male and female,bw,code08,7.6
+2014,percentage (%),a) time series,male and female,bw,code08,7.9
+2015,percentage (%),a) time series,male and female,bw,code08,8.3
+2016,percentage (%),a) time series,male and female,bw,code08,9.4
+2017,percentage (%),a) time series,male and female,bw,code08,8.7
+2018,percentage (%),a) time series,male and female,bw,code08,9.7
+2019,percentage (%),a) time series,male and female,bw,code08,9.2
+2005,percentage (%),a) time series,female,bw,code08,14.3
+2006,percentage (%),a) time series,female,bw,code08,13.4
+2007,percentage (%),a) time series,female,bw,code08,11.9
+2008,percentage (%),a) time series,female,bw,code08,10.4
+2009,percentage (%),a) time series,female,bw,code08,9.5
+2010,percentage (%),a) time series,female,bw,code08,10.0
+2011,percentage (%),a) time series,female,bw,code08,9.9
+2012,percentage (%),a) time series,female,bw,code08,8.3
+2013,percentage (%),a) time series,female,bw,code08,7.3
+2014,percentage (%),a) time series,female,bw,code08,7.3
+2015,percentage (%),a) time series,female,bw,code08,8.5
+2016,percentage (%),a) time series,female,bw,code08,8.8
+2017,percentage (%),a) time series,female,bw,code08,7.8
+2018,percentage (%),a) time series,female,bw,code08,8.5
+2019,percentage (%),a) time series,female,bw,code08,7.5
+2005,percentage (%),a) time series,male,bw,code08,10.7
+2006,percentage (%),a) time series,male,bw,code08,11.3
+2007,percentage (%),a) time series,male,bw,code08,12.3
+2008,percentage (%),a) time series,male,bw,code08,9.8
+2009,percentage (%),a) time series,male,bw,code08,9.5
+2010,percentage (%),a) time series,male,bw,code08,9.7
+2011,percentage (%),a) time series,male,bw,code08,9.9
+2012,percentage (%),a) time series,male,bw,code08,8.3
+2013,percentage (%),a) time series,male,bw,code08,7.9
+2014,percentage (%),a) time series,male,bw,code08,8.5
+2015,percentage (%),a) time series,male,bw,code08,8.1
+2016,percentage (%),a) time series,male,bw,code08,9.9
+2017,percentage (%),a) time series,male,bw,code08,9.6
+2018,percentage (%),a) time series,male,bw,code08,10.7
+2019,percentage (%),a) time series,male,bw,code08,10.7
+2005,percentage (%),a) time series,male and female,by,code09,11.2
+2006,percentage (%),a) time series,male and female,by,code09,12.6
+2007,percentage (%),a) time series,male and female,by,code09,11.2
+2008,percentage (%),a) time series,male and female,by,code09,9.6
+2009,percentage (%),a) time series,male and female,by,code09,8.8
+2010,percentage (%),a) time series,male and female,by,code09,9.4
+2011,percentage (%),a) time series,male and female,by,code09,9.1
+2012,percentage (%),a) time series,male and female,by,code09,7.4
+2013,percentage (%),a) time series,male and female,by,code09,7.3
+2014,percentage (%),a) time series,male and female,by,code09,6.4
+2015,percentage (%),a) time series,male and female,by,code09,6.2
+2016,percentage (%),a) time series,male and female,by,code09,7.6
+2017,percentage (%),a) time series,male and female,by,code09,7.2
+2018,percentage (%),a) time series,male and female,by,code09,7.2
+2019,percentage (%),a) time series,male and female,by,code09,7.6
+2005,percentage (%),a) time series,female,by,code09,11.5
+2006,percentage (%),a) time series,female,by,code09,12.5
+2007,percentage (%),a) time series,female,by,code09,9.9
+2008,percentage (%),a) time series,female,by,code09,9.0
+2009,percentage (%),a) time series,female,by,code09,8.2
+2010,percentage (%),a) time series,female,by,code09,9.1
+2011,percentage (%),a) time series,female,by,code09,8.0
+2012,percentage (%),a) time series,female,by,code09,6.8
+2013,percentage (%),a) time series,female,by,code09,7.0
+2014,percentage (%),a) time series,female,by,code09,6.2
+2015,percentage (%),a) time series,female,by,code09,5.6
+2016,percentage (%),a) time series,female,by,code09,6.8
+2017,percentage (%),a) time series,female,by,code09,6.5
+2018,percentage (%),a) time series,female,by,code09,6.4
+2019,percentage (%),a) time series,female,by,code09,6.5
+2005,percentage (%),a) time series,male,by,code09,10.8
+2006,percentage (%),a) time series,male,by,code09,12.6
+2007,percentage (%),a) time series,male,by,code09,12.6
+2008,percentage (%),a) time series,male,by,code09,10.1
+2009,percentage (%),a) time series,male,by,code09,9.5
+2010,percentage (%),a) time series,male,by,code09,9.7
+2011,percentage (%),a) time series,male,by,code09,10.2
+2012,percentage (%),a) time series,male,by,code09,7.8
+2013,percentage (%),a) time series,male,by,code09,7.6
+2014,percentage (%),a) time series,male,by,code09,6.6
+2015,percentage (%),a) time series,male,by,code09,6.7
+2016,percentage (%),a) time series,male,by,code09,8.4
+2017,percentage (%),a) time series,male,by,code09,7.8
+2018,percentage (%),a) time series,male,by,code09,8.0
+2019,percentage (%),a) time series,male,by,code09,8.6
+2005,percentage (%),a) time series,male and female,be,code11,18.7
+2006,percentage (%),a) time series,male and female,be,code11,18.2
+2007,percentage (%),a) time series,male and female,be,code11,13.0
+2008,percentage (%),a) time series,male and female,be,code11,15.7
+2009,percentage (%),a) time series,male and female,be,code11,14.2
+2010,percentage (%),a) time series,male and female,be,code11,14.6
+2011,percentage (%),a) time series,male and female,be,code11,13.1
+2012,percentage (%),a) time series,male and female,be,code11,13.0
+2013,percentage (%),a) time series,male and female,be,code11,11.9
+2014,percentage (%),a) time series,male and female,be,code11,13.5
+2015,percentage (%),a) time series,male and female,be,code11,13.7
+2016,percentage (%),a) time series,male and female,be,code11,11.7
+2017,percentage (%),a) time series,male and female,be,code11,13.2
+2018,percentage (%),a) time series,male and female,be,code11,13.6
+2019,percentage (%),a) time series,male and female,be,code11,11.6
+2005,percentage (%),a) time series,female,be,code11,17.0
+2006,percentage (%),a) time series,female,be,code11,16.7
+2007,percentage (%),a) time series,female,be,code11,11.5
+2008,percentage (%),a) time series,female,be,code11,14.0
+2009,percentage (%),a) time series,female,be,code11,13.0
+2010,percentage (%),a) time series,female,be,code11,12.4
+2011,percentage (%),a) time series,female,be,code11,11.2
+2012,percentage (%),a) time series,female,be,code11,10.8
+2013,percentage (%),a) time series,female,be,code11,9.1
+2014,percentage (%),a) time series,female,be,code11,11.9
+2015,percentage (%),a) time series,female,be,code11,10.7
+2016,percentage (%),a) time series,female,be,code11,10.9
+2017,percentage (%),a) time series,female,be,code11,11.0
+2018,percentage (%),a) time series,female,be,code11,10.4
+2019,percentage (%),a) time series,female,be,code11,8.0
+2005,percentage (%),a) time series,male,be,code11,20.5
+2006,percentage (%),a) time series,male,be,code11,19.7
+2007,percentage (%),a) time series,male,be,code11,14.4
+2008,percentage (%),a) time series,male,be,code11,17.4
+2009,percentage (%),a) time series,male,be,code11,15.5
+2010,percentage (%),a) time series,male,be,code11,17.0
+2011,percentage (%),a) time series,male,be,code11,15.0
+2012,percentage (%),a) time series,male,be,code11,15.2
+2013,percentage (%),a) time series,male,be,code11,14.8
+2014,percentage (%),a) time series,male,be,code11,15.3
+2015,percentage (%),a) time series,male,be,code11,17.0
+2016,percentage (%),a) time series,male,be,code11,12.5
+2017,percentage (%),a) time series,male,be,code11,15.5
+2018,percentage (%),a) time series,male,be,code11,16.9
+2019,percentage (%),a) time series,male,be,code11,15.0
+2005,percentage (%),a) time series,male and female,bb,code12,10.2
+2006,percentage (%),a) time series,male and female,bb,code12,11.1
+2007,percentage (%),a) time series,male and female,bb,code12,9.0
+2008,percentage (%),a) time series,male and female,bb,code12,9.3
+2009,percentage (%),a) time series,male and female,bb,code12,9.0
+2010,percentage (%),a) time series,male and female,bb,code12,9.6
+2011,percentage (%),a) time series,male and female,bb,code12,10.2
+2012,percentage (%),a) time series,male and female,bb,code12,10.0
+2013,percentage (%),a) time series,male and female,bb,code12,10.6
+2014,percentage (%),a) time series,male and female,bb,code12,9.0
+2015,percentage (%),a) time series,male and female,bb,code12,11.6
+2016,percentage (%),a) time series,male and female,bb,code12,11.0
+2017,percentage (%),a) time series,male and female,bb,code12,12.3
+2018,percentage (%),a) time series,male and female,bb,code12,11.5
+2019,percentage (%),a) time series,male and female,bb,code12,10.8
+2005,percentage (%),a) time series,female,bb,code12,10.1
+2006,percentage (%),a) time series,female,bb,code12,9.7
+2007,percentage (%),a) time series,female,bb,code12,6.2
+2008,percentage (%),a) time series,female,bb,code12,7.1
+2009,percentage (%),a) time series,female,bb,code12,7.5
+2010,percentage (%),a) time series,female,bb,code12,7.1
+2011,percentage (%),a) time series,female,bb,code12,8.4
+2012,percentage (%),a) time series,female,bb,code12,10.3
+2013,percentage (%),a) time series,female,bb,code12,10.1
+2015,percentage (%),a) time series,female,bb,code12,11.1
+2018,percentage (%),a) time series,female,bb,code12,10.4
+2005,percentage (%),a) time series,male,bb,code12,10.3
+2006,percentage (%),a) time series,male,bb,code12,12.4
+2007,percentage (%),a) time series,male,bb,code12,11.5
+2008,percentage (%),a) time series,male,bb,code12,11.3
+2009,percentage (%),a) time series,male,bb,code12,10.4
+2010,percentage (%),a) time series,male,bb,code12,11.7
+2011,percentage (%),a) time series,male,bb,code12,11.8
+2012,percentage (%),a) time series,male,bb,code12,9.7
+2013,percentage (%),a) time series,male,bb,code12,11.0
+2014,percentage (%),a) time series,male,bb,code12,9.2
+2015,percentage (%),a) time series,male,bb,code12,11.9
+2016,percentage (%),a) time series,male,bb,code12,12.6
+2017,percentage (%),a) time series,male,bb,code12,15.0
+2018,percentage (%),a) time series,male,bb,code12,12.4
+2019,percentage (%),a) time series,male,bb,code12,13.6
+2005,percentage (%),a) time series,male and female,hb,code04,19.1
+2006,percentage (%),a) time series,male and female,hb,code04,17.5
+2007,percentage (%),a) time series,male and female,hb,code04,15.0
+2008,percentage (%),a) time series,male and female,hb,code04,14.4
+2009,percentage (%),a) time series,male and female,hb,code04,14.5
+2010,percentage (%),a) time series,male and female,hb,code04,14.3
+2011,percentage (%),a) time series,male and female,hb,code04,17.2
+2012,percentage (%),a) time series,male and female,hb,code04,13.3
+2013,percentage (%),a) time series,male and female,hb,code04,14.9
+2014,percentage (%),a) time series,male and female,hb,code04,14.0
+2015,percentage (%),a) time series,male and female,hb,code04,11.5
+2016,percentage (%),a) time series,male and female,hb,code04,11.1
+2017,percentage (%),a) time series,male and female,hb,code04,10.9
+2018,percentage (%),a) time series,male and female,hb,code04,14.6
+2019,percentage (%),a) time series,male and female,hb,code04,16.0
+2005,percentage (%),a) time series,female,hb,code04,19.8
+2006,percentage (%),a) time series,female,hb,code04,20.0
+2005,percentage (%),a) time series,male,hb,code04,18.2
+2006,percentage (%),a) time series,male,hb,code04,14.8
+2007,percentage (%),a) time series,male,hb,code04,19.2
+2018,percentage (%),a) time series,male,hb,code04,17.7
+2019,percentage (%),a) time series,male,hb,code04,17.7
+2005,percentage (%),a) time series,male and female,hh,code02,21.2
+2006,percentage (%),a) time series,male and female,hh,code02,16.7
+2007,percentage (%),a) time series,male and female,hh,code02,15.5
+2008,percentage (%),a) time series,male and female,hh,code02,14.7
+2009,percentage (%),a) time series,male and female,hh,code02,12.1
+2010,percentage (%),a) time series,male and female,hh,code02,13.2
+2011,percentage (%),a) time series,male and female,hh,code02,13.2
+2012,percentage (%),a) time series,male and female,hh,code02,12.5
+2013,percentage (%),a) time series,male and female,hh,code02,11.6
+2014,percentage (%),a) time series,male and female,hh,code02,11.8
+2015,percentage (%),a) time series,male and female,hh,code02,12.6
+2016,percentage (%),a) time series,male and female,hh,code02,12.8
+2017,percentage (%),a) time series,male and female,hh,code02,11.4
+2018,percentage (%),a) time series,male and female,hh,code02,11.6
+2019,percentage (%),a) time series,male and female,hh,code02,14.0
+2005,percentage (%),a) time series,female,hh,code02,21.9
+2006,percentage (%),a) time series,female,hh,code02,15.9
+2007,percentage (%),a) time series,female,hh,code02,14.1
+2008,percentage (%),a) time series,female,hh,code02,11.9
+2009,percentage (%),a) time series,female,hh,code02,10.2
+2010,percentage (%),a) time series,female,hh,code02,11.7
+2011,percentage (%),a) time series,female,hh,code02,11.0
+2012,percentage (%),a) time series,female,hh,code02,11.1
+2013,percentage (%),a) time series,female,hh,code02,11.9
+2014,percentage (%),a) time series,female,hh,code02,9.7
+2015,percentage (%),a) time series,female,hh,code02,11.0
+2016,percentage (%),a) time series,female,hh,code02,12.4
+2017,percentage (%),a) time series,female,hh,code02,10.7
+2018,percentage (%),a) time series,female,hh,code02,12.2
+2019,percentage (%),a) time series,female,hh,code02,13.4
+2005,percentage (%),a) time series,male,hh,code02,20.4
+2006,percentage (%),a) time series,male,hh,code02,17.7
+2007,percentage (%),a) time series,male,hh,code02,16.7
+2008,percentage (%),a) time series,male,hh,code02,17.5
+2009,percentage (%),a) time series,male,hh,code02,14.1
+2010,percentage (%),a) time series,male,hh,code02,14.9
+2011,percentage (%),a) time series,male,hh,code02,15.4
+2012,percentage (%),a) time series,male,hh,code02,13.9
+2013,percentage (%),a) time series,male,hh,code02,11.4
+2014,percentage (%),a) time series,male,hh,code02,13.9
+2015,percentage (%),a) time series,male,hh,code02,14.1
+2016,percentage (%),a) time series,male,hh,code02,13.2
+2017,percentage (%),a) time series,male,hh,code02,12.1
+2018,percentage (%),a) time series,male,hh,code02,11.0
+2019,percentage (%),a) time series,male,hh,code02,14.4
+2005,percentage (%),a) time series,male and female,he,code06,13.3
+2006,percentage (%),a) time series,male and female,he,code06,14.7
+2007,percentage (%),a) time series,male and female,he,code06,12.1
+2008,percentage (%),a) time series,male and female,he,code06,12.4
+2009,percentage (%),a) time series,male and female,he,code06,11.4
+2010,percentage (%),a) time series,male and female,he,code06,11.8
+2011,percentage (%),a) time series,male and female,he,code06,10.6
+2012,percentage (%),a) time series,male and female,he,code06,9.1
+2013,percentage (%),a) time series,male and female,he,code06,10.0
+2014,percentage (%),a) time series,male and female,he,code06,9.7
+2015,percentage (%),a) time series,male and female,he,code06,9.5
+2016,percentage (%),a) time series,male and female,he,code06,10.5
+2017,percentage (%),a) time series,male and female,he,code06,10.2
+2018,percentage (%),a) time series,male and female,he,code06,10.7
+2019,percentage (%),a) time series,male and female,he,code06,10.3
+2005,percentage (%),a) time series,female,he,code06,12.7
+2006,percentage (%),a) time series,female,he,code06,13.8
+2007,percentage (%),a) time series,female,he,code06,13.7
+2008,percentage (%),a) time series,female,he,code06,11.7
+2009,percentage (%),a) time series,female,he,code06,10.4
+2010,percentage (%),a) time series,female,he,code06,10.6
+2011,percentage (%),a) time series,female,he,code06,9.5
+2012,percentage (%),a) time series,female,he,code06,8.4
+2013,percentage (%),a) time series,female,he,code06,9.2
+2014,percentage (%),a) time series,female,he,code06,8.9
+2015,percentage (%),a) time series,female,he,code06,9.4
+2016,percentage (%),a) time series,female,he,code06,9.5
+2017,percentage (%),a) time series,female,he,code06,8.3
+2018,percentage (%),a) time series,female,he,code06,8.9
+2019,percentage (%),a) time series,female,he,code06,8.7
+2005,percentage (%),a) time series,male,he,code06,13.9
+2006,percentage (%),a) time series,male,he,code06,15.6
+2007,percentage (%),a) time series,male,he,code06,10.5
+2008,percentage (%),a) time series,male,he,code06,13.0
+2009,percentage (%),a) time series,male,he,code06,12.4
+2010,percentage (%),a) time series,male,he,code06,13.1
+2011,percentage (%),a) time series,male,he,code06,11.7
+2012,percentage (%),a) time series,male,he,code06,9.7
+2013,percentage (%),a) time series,male,he,code06,10.7
+2014,percentage (%),a) time series,male,he,code06,10.4
+2015,percentage (%),a) time series,male,he,code06,9.6
+2016,percentage (%),a) time series,male,he,code06,11.4
+2017,percentage (%),a) time series,male,he,code06,11.8
+2018,percentage (%),a) time series,male,he,code06,12.3
+2019,percentage (%),a) time series,male,he,code06,11.8
+2005,percentage (%),a) time series,male and female,mv,code13,14.0
+2006,percentage (%),a) time series,male and female,mv,code13,12.9
+2007,percentage (%),a) time series,male and female,mv,code13,13.1
+2008,percentage (%),a) time series,male and female,mv,code13,8.9
+2009,percentage (%),a) time series,male and female,mv,code13,9.3
+2010,percentage (%),a) time series,male and female,mv,code13,9.2
+2011,percentage (%),a) time series,male and female,mv,code13,9.9
+2012,percentage (%),a) time series,male and female,mv,code13,11.0
+2013,percentage (%),a) time series,male and female,mv,code13,9.6
+2014,percentage (%),a) time series,male and female,mv,code13,9.9
+2015,percentage (%),a) time series,male and female,mv,code13,10.6
+2016,percentage (%),a) time series,male and female,mv,code13,13.6
+2017,percentage (%),a) time series,male and female,mv,code13,9.8
+2018,percentage (%),a) time series,male and female,mv,code13,11.1
+2019,percentage (%),a) time series,male and female,mv,code13,11.4
+2005,percentage (%),a) time series,female,mv,code13,12.7
+2006,percentage (%),a) time series,female,mv,code13,12.7
+2007,percentage (%),a) time series,female,mv,code13,12.1
+2008,percentage (%),a) time series,female,mv,code13,8.3
+2009,percentage (%),a) time series,female,mv,code13,8.9
+2011,percentage (%),a) time series,female,mv,code13,8.8
+2012,percentage (%),a) time series,female,mv,code13,10.9
+2005,percentage (%),a) time series,male,mv,code13,15.0
+2006,percentage (%),a) time series,male,mv,code13,13.1
+2007,percentage (%),a) time series,male,mv,code13,14.0
+2008,percentage (%),a) time series,male,mv,code13,9.4
+2009,percentage (%),a) time series,male,mv,code13,9.6
+2010,percentage (%),a) time series,male,mv,code13,11.6
+2011,percentage (%),a) time series,male,mv,code13,10.9
+2012,percentage (%),a) time series,male,mv,code13,11.0
+2016,percentage (%),a) time series,male,mv,code13,14.3
+2018,percentage (%),a) time series,male,mv,code13,12.6
+2019,percentage (%),a) time series,male,mv,code13,11.8
+2005,percentage (%),a) time series,male and female,ni,code03,16.0
+2006,percentage (%),a) time series,male and female,ni,code03,14.6
+2007,percentage (%),a) time series,male and female,ni,code03,14.0
+2008,percentage (%),a) time series,male and female,ni,code03,13.0
+2009,percentage (%),a) time series,male and female,ni,code03,12.6
+2010,percentage (%),a) time series,male and female,ni,code03,13.9
+2011,percentage (%),a) time series,male and female,ni,code03,14.1
+2012,percentage (%),a) time series,male and female,ni,code03,11.8
+2013,percentage (%),a) time series,male and female,ni,code03,10.8
+2014,percentage (%),a) time series,male and female,ni,code03,10.7
+2015,percentage (%),a) time series,male and female,ni,code03,10.7
+2016,percentage (%),a) time series,male and female,ni,code03,12.1
+2017,percentage (%),a) time series,male and female,ni,code03,11.3
+2018,percentage (%),a) time series,male and female,ni,code03,11.0
+2019,percentage (%),a) time series,male and female,ni,code03,11.9
+2005,percentage (%),a) time series,female,ni,code03,18.5
+2006,percentage (%),a) time series,female,ni,code03,14.3
+2007,percentage (%),a) time series,female,ni,code03,13.6
+2008,percentage (%),a) time series,female,ni,code03,12.1
+2009,percentage (%),a) time series,female,ni,code03,12.4
+2010,percentage (%),a) time series,female,ni,code03,12.8
+2011,percentage (%),a) time series,female,ni,code03,13.7
+2012,percentage (%),a) time series,female,ni,code03,10.0
+2013,percentage (%),a) time series,female,ni,code03,10.4
+2014,percentage (%),a) time series,female,ni,code03,9.9
+2015,percentage (%),a) time series,female,ni,code03,10.5
+2016,percentage (%),a) time series,female,ni,code03,11.5
+2017,percentage (%),a) time series,female,ni,code03,10.4
+2018,percentage (%),a) time series,female,ni,code03,9.7
+2019,percentage (%),a) time series,female,ni,code03,10.7
+2005,percentage (%),a) time series,male,ni,code03,13.7
+2006,percentage (%),a) time series,male,ni,code03,14.9
+2007,percentage (%),a) time series,male,ni,code03,14.3
+2008,percentage (%),a) time series,male,ni,code03,13.8
+2009,percentage (%),a) time series,male,ni,code03,12.7
+2010,percentage (%),a) time series,male,ni,code03,15.0
+2011,percentage (%),a) time series,male,ni,code03,14.5
+2012,percentage (%),a) time series,male,ni,code03,13.5
+2013,percentage (%),a) time series,male,ni,code03,11.1
+2014,percentage (%),a) time series,male,ni,code03,11.5
+2015,percentage (%),a) time series,male,ni,code03,10.8
+2016,percentage (%),a) time series,male,ni,code03,12.5
+2017,percentage (%),a) time series,male,ni,code03,12.2
+2018,percentage (%),a) time series,male,ni,code03,12.1
+2019,percentage (%),a) time series,male,ni,code03,13.1
+2005,percentage (%),a) time series,male and female,nw,code05,15.8
+2006,percentage (%),a) time series,male and female,nw,code05,16.7
+2007,percentage (%),a) time series,male and female,nw,code05,15.0
+2008,percentage (%),a) time series,male and female,nw,code05,14.5
+2009,percentage (%),a) time series,male and female,nw,code05,13.7
+2010,percentage (%),a) time series,male and female,nw,code05,14.6
+2011,percentage (%),a) time series,male and female,nw,code05,13.6
+2012,percentage (%),a) time series,male and female,nw,code05,12.8
+2013,percentage (%),a) time series,male and female,nw,code05,11.6
+2014,percentage (%),a) time series,male and female,nw,code05,11.3
+2015,percentage (%),a) time series,male and female,nw,code05,11.4
+2016,percentage (%),a) time series,male and female,nw,code05,11.4
+2017,percentage (%),a) time series,male and female,nw,code05,11.6
+2018,percentage (%),a) time series,male and female,nw,code05,12.0
+2019,percentage (%),a) time series,male and female,nw,code05,11.2
+2005,percentage (%),a) time series,female,nw,code05,15.6
+2006,percentage (%),a) time series,female,nw,code05,16.0
+2007,percentage (%),a) time series,female,nw,code05,13.9
+2008,percentage (%),a) time series,female,nw,code05,14.5
+2009,percentage (%),a) time series,female,nw,code05,13.5
+2010,percentage (%),a) time series,female,nw,code05,13.5
+2011,percentage (%),a) time series,female,nw,code05,12.3
+2012,percentage (%),a) time series,female,nw,code05,12.1
+2013,percentage (%),a) time series,female,nw,code05,10.8
+2014,percentage (%),a) time series,female,nw,code05,11.1
+2015,percentage (%),a) time series,female,nw,code05,11.5
+2016,percentage (%),a) time series,female,nw,code05,10.7
+2017,percentage (%),a) time series,female,nw,code05,10.6
+2018,percentage (%),a) time series,female,nw,code05,11.1
+2019,percentage (%),a) time series,female,nw,code05,9.4
+2005,percentage (%),a) time series,male,nw,code05,16.0
+2006,percentage (%),a) time series,male,nw,code05,17.4
+2007,percentage (%),a) time series,male,nw,code05,16.1
+2008,percentage (%),a) time series,male,nw,code05,14.6
+2009,percentage (%),a) time series,male,nw,code05,14.0
+2010,percentage (%),a) time series,male,nw,code05,15.7
+2011,percentage (%),a) time series,male,nw,code05,14.8
+2012,percentage (%),a) time series,male,nw,code05,13.4
+2013,percentage (%),a) time series,male,nw,code05,12.3
+2014,percentage (%),a) time series,male,nw,code05,11.4
+2015,percentage (%),a) time series,male,nw,code05,11.4
+2016,percentage (%),a) time series,male,nw,code05,12.1
+2017,percentage (%),a) time series,male,nw,code05,12.5
+2018,percentage (%),a) time series,male,nw,code05,12.7
+2019,percentage (%),a) time series,male,nw,code05,12.8
+2005,percentage (%),a) time series,male and female,rp,code07,16.4
+2006,percentage (%),a) time series,male and female,rp,code07,15.3
+2007,percentage (%),a) time series,male and female,rp,code07,15.5
+2008,percentage (%),a) time series,male and female,rp,code07,12.4
+2009,percentage (%),a) time series,male and female,rp,code07,13.7
+2010,percentage (%),a) time series,male and female,rp,code07,15.5
+2011,percentage (%),a) time series,male and female,rp,code07,13.5
+2012,percentage (%),a) time series,male and female,rp,code07,12.5
+2013,percentage (%),a) time series,male and female,rp,code07,13.1
+2014,percentage (%),a) time series,male and female,rp,code07,10.4
+2015,percentage (%),a) time series,male and female,rp,code07,12.2
+2016,percentage (%),a) time series,male and female,rp,code07,11.8
+2017,percentage (%),a) time series,male and female,rp,code07,11.7
+2018,percentage (%),a) time series,male and female,rp,code07,11.5
+2019,percentage (%),a) time series,male and female,rp,code07,11.6
+2005,percentage (%),a) time series,female,rp,code07,17.6
+2006,percentage (%),a) time series,female,rp,code07,16.5
+2007,percentage (%),a) time series,female,rp,code07,13.0
+2008,percentage (%),a) time series,female,rp,code07,11.7
+2009,percentage (%),a) time series,female,rp,code07,13.5
+2010,percentage (%),a) time series,female,rp,code07,14.5
+2011,percentage (%),a) time series,female,rp,code07,12.2
+2012,percentage (%),a) time series,female,rp,code07,13.2
+2013,percentage (%),a) time series,female,rp,code07,12.7
+2014,percentage (%),a) time series,female,rp,code07,9.9
+2015,percentage (%),a) time series,female,rp,code07,12.2
+2016,percentage (%),a) time series,female,rp,code07,10.4
+2017,percentage (%),a) time series,female,rp,code07,10.0
+2018,percentage (%),a) time series,female,rp,code07,9.6
+2019,percentage (%),a) time series,female,rp,code07,10.5
+2005,percentage (%),a) time series,male,rp,code07,15.1
+2006,percentage (%),a) time series,male,rp,code07,14.2
+2007,percentage (%),a) time series,male,rp,code07,17.7
+2008,percentage (%),a) time series,male,rp,code07,13.1
+2009,percentage (%),a) time series,male,rp,code07,13.9
+2010,percentage (%),a) time series,male,rp,code07,16.6
+2011,percentage (%),a) time series,male,rp,code07,14.8
+2012,percentage (%),a) time series,male,rp,code07,11.8
+2013,percentage (%),a) time series,male,rp,code07,13.4
+2014,percentage (%),a) time series,male,rp,code07,10.9
+2015,percentage (%),a) time series,male,rp,code07,12.1
+2016,percentage (%),a) time series,male,rp,code07,13.2
+2017,percentage (%),a) time series,male,rp,code07,13.3
+2018,percentage (%),a) time series,male,rp,code07,13.2
+2019,percentage (%),a) time series,male,rp,code07,12.6
+2005,percentage (%),a) time series,male and female,sl,code10,20.6
+2006,percentage (%),a) time series,male and female,sl,code10,20.8
+2007,percentage (%),a) time series,male and female,sl,code10,16.3
+2008,percentage (%),a) time series,male and female,sl,code10,14.1
+2009,percentage (%),a) time series,male and female,sl,code10,14.4
+2010,percentage (%),a) time series,male and female,sl,code10,13.2
+2011,percentage (%),a) time series,male and female,sl,code10,15.4
+2012,percentage (%),a) time series,male and female,sl,code10,12.9
+2013,percentage (%),a) time series,male and female,sl,code10,14.1
+2014,percentage (%),a) time series,male and female,sl,code10,11.9
+2015,percentage (%),a) time series,male and female,sl,code10,12.2
+2016,percentage (%),a) time series,male and female,sl,code10,10.3
+2017,percentage (%),a) time series,male and female,sl,code10,11.7
+2018,percentage (%),a) time series,male and female,sl,code10,11.8
+2019,percentage (%),a) time series,male and female,sl,code10,11.5
+2005,percentage (%),a) time series,female,sl,code10,15.5
+2006,percentage (%),a) time series,female,sl,code10,18.8
+2007,percentage (%),a) time series,female,sl,code10,15.9
+2009,percentage (%),a) time series,female,sl,code10,14.0
+2013,percentage (%),a) time series,female,sl,code10,14.2
+2015,percentage (%),a) time series,female,sl,code10,15.9
+2005,percentage (%),a) time series,male,sl,code10,26.4
+2006,percentage (%),a) time series,male,sl,code10,22.9
+2007,percentage (%),a) time series,male,sl,code10,16.8
+2008,percentage (%),a) time series,male,sl,code10,13.9
+2009,percentage (%),a) time series,male,sl,code10,14.8
+2010,percentage (%),a) time series,male,sl,code10,14.8
+2011,percentage (%),a) time series,male,sl,code10,18.4
+2012,percentage (%),a) time series,male,sl,code10,14.7
+2013,percentage (%),a) time series,male,sl,code10,14.0
+2017,percentage (%),a) time series,male,sl,code10,13.0
+2005,percentage (%),a) time series,male and female,sn,code14,9.8
+2006,percentage (%),a) time series,male and female,sn,code14,8.9
+2007,percentage (%),a) time series,male and female,sn,code14,8.4
+2008,percentage (%),a) time series,male and female,sn,code14,7.4
+2009,percentage (%),a) time series,male and female,sn,code14,6.7
+2010,percentage (%),a) time series,male and female,sn,code14,7.6
+2011,percentage (%),a) time series,male and female,sn,code14,7.7
+2012,percentage (%),a) time series,male and female,sn,code14,7.7
+2013,percentage (%),a) time series,male and female,sn,code14,6.5
+2014,percentage (%),a) time series,male and female,sn,code14,6.8
+2015,percentage (%),a) time series,male and female,sn,code14,8.4
+2016,percentage (%),a) time series,male and female,sn,code14,7.7
+2017,percentage (%),a) time series,male and female,sn,code14,8.6
+2018,percentage (%),a) time series,male and female,sn,code14,7.5
+2019,percentage (%),a) time series,male and female,sn,code14,8.3
+2005,percentage (%),a) time series,female,sn,code14,10.5
+2006,percentage (%),a) time series,female,sn,code14,7.8
+2007,percentage (%),a) time series,female,sn,code14,8.6
+2008,percentage (%),a) time series,female,sn,code14,5.8
+2009,percentage (%),a) time series,female,sn,code14,6.6
+2010,percentage (%),a) time series,female,sn,code14,7.6
+2011,percentage (%),a) time series,female,sn,code14,7.5
+2012,percentage (%),a) time series,female,sn,code14,7.2
+2013,percentage (%),a) time series,female,sn,code14,6.7
+2014,percentage (%),a) time series,female,sn,code14,6.6
+2015,percentage (%),a) time series,female,sn,code14,7.1
+2016,percentage (%),a) time series,female,sn,code14,7.0
+2017,percentage (%),a) time series,female,sn,code14,9.8
+2018,percentage (%),a) time series,female,sn,code14,7.0
+2019,percentage (%),a) time series,female,sn,code14,7.0
+2005,percentage (%),a) time series,male,sn,code14,9.1
+2006,percentage (%),a) time series,male,sn,code14,9.9
+2007,percentage (%),a) time series,male,sn,code14,8.2
+2008,percentage (%),a) time series,male,sn,code14,8.8
+2009,percentage (%),a) time series,male,sn,code14,6.7
+2010,percentage (%),a) time series,male,sn,code14,7.6
+2011,percentage (%),a) time series,male,sn,code14,7.9
+2012,percentage (%),a) time series,male,sn,code14,8.1
+2013,percentage (%),a) time series,male,sn,code14,6.3
+2014,percentage (%),a) time series,male,sn,code14,7.0
+2015,percentage (%),a) time series,male,sn,code14,9.6
+2016,percentage (%),a) time series,male,sn,code14,8.3
+2017,percentage (%),a) time series,male,sn,code14,7.5
+2018,percentage (%),a) time series,male,sn,code14,8.0
+2019,percentage (%),a) time series,male,sn,code14,9.4
+2005,percentage (%),a) time series,male and female,st,code15,12.4
+2006,percentage (%),a) time series,male and female,st,code15,12.2
+2007,percentage (%),a) time series,male and female,st,code15,11.8
+2008,percentage (%),a) time series,male and female,st,code15,12.1
+2009,percentage (%),a) time series,male and female,st,code15,10.8
+2010,percentage (%),a) time series,male and female,st,code15,11.7
+2011,percentage (%),a) time series,male and female,st,code15,12.9
+2012,percentage (%),a) time series,male and female,st,code15,11.1
+2013,percentage (%),a) time series,male and female,st,code15,9.7
+2014,percentage (%),a) time series,male and female,st,code15,9.3
+2015,percentage (%),a) time series,male and female,st,code15,12.2
+2016,percentage (%),a) time series,male and female,st,code15,11.2
+2017,percentage (%),a) time series,male and female,st,code15,13.6
+2018,percentage (%),a) time series,male and female,st,code15,9.1
+2019,percentage (%),a) time series,male and female,st,code15,12.7
+2005,percentage (%),a) time series,female,st,code15,9.8
+2006,percentage (%),a) time series,female,st,code15,11.0
+2007,percentage (%),a) time series,female,st,code15,9.5
+2008,percentage (%),a) time series,female,st,code15,11.2
+2009,percentage (%),a) time series,female,st,code15,9.8
+2010,percentage (%),a) time series,female,st,code15,9.1
+2011,percentage (%),a) time series,female,st,code15,11.6
+2012,percentage (%),a) time series,female,st,code15,10.1
+2015,percentage (%),a) time series,female,st,code15,11.7
+2017,percentage (%),a) time series,female,st,code15,11.9
+2019,percentage (%),a) time series,female,st,code15,10.0
+2005,percentage (%),a) time series,male,st,code15,14.7
+2006,percentage (%),a) time series,male,st,code15,13.3
+2007,percentage (%),a) time series,male,st,code15,14.0
+2008,percentage (%),a) time series,male,st,code15,13.0
+2009,percentage (%),a) time series,male,st,code15,11.7
+2010,percentage (%),a) time series,male,st,code15,13.9
+2011,percentage (%),a) time series,male,st,code15,14.0
+2012,percentage (%),a) time series,male,st,code15,11.8
+2013,percentage (%),a) time series,male,st,code15,10.5
+2014,percentage (%),a) time series,male,st,code15,9.4
+2015,percentage (%),a) time series,male,st,code15,12.6
+2016,percentage (%),a) time series,male,st,code15,13.3
+2017,percentage (%),a) time series,male,st,code15,15.0
+2018,percentage (%),a) time series,male,st,code15,10.0
+2019,percentage (%),a) time series,male,st,code15,14.8
+2005,percentage (%),a) time series,male and female,sh,code01,15.1
+2006,percentage (%),a) time series,male and female,sh,code01,17.1
+2007,percentage (%),a) time series,male and female,sh,code01,11.8
+2008,percentage (%),a) time series,male and female,sh,code01,13.6
+2009,percentage (%),a) time series,male and female,sh,code01,12.1
+2010,percentage (%),a) time series,male and female,sh,code01,12.6
+2011,percentage (%),a) time series,male and female,sh,code01,12.9
+2012,percentage (%),a) time series,male and female,sh,code01,12.3
+2013,percentage (%),a) time series,male and female,sh,code01,10.3
+2014,percentage (%),a) time series,male and female,sh,code01,12.8
+2015,percentage (%),a) time series,male and female,sh,code01,10.6
+2016,percentage (%),a) time series,male and female,sh,code01,10.7
+2017,percentage (%),a) time series,male and female,sh,code01,9.1
+2018,percentage (%),a) time series,male and female,sh,code01,10.1
+2019,percentage (%),a) time series,male and female,sh,code01,11.0
+2005,percentage (%),a) time series,female,sh,code01,14.2
+2006,percentage (%),a) time series,female,sh,code01,16.1
+2007,percentage (%),a) time series,female,sh,code01,11.6
+2008,percentage (%),a) time series,female,sh,code01,13.5
+2009,percentage (%),a) time series,female,sh,code01,13.1
+2010,percentage (%),a) time series,female,sh,code01,12.8
+2011,percentage (%),a) time series,female,sh,code01,12.0
+2012,percentage (%),a) time series,female,sh,code01,11.6
+2013,percentage (%),a) time series,female,sh,code01,10.3
+2014,percentage (%),a) time series,female,sh,code01,12.5
+2015,percentage (%),a) time series,female,sh,code01,8.9
+2016,percentage (%),a) time series,female,sh,code01,10.6
+2017,percentage (%),a) time series,female,sh,code01,7.6
+2018,percentage (%),a) time series,female,sh,code01,8.9
+2019,percentage (%),a) time series,female,sh,code01,8.7
+2005,percentage (%),a) time series,male,sh,code01,16.1
+2006,percentage (%),a) time series,male,sh,code01,18.2
+2007,percentage (%),a) time series,male,sh,code01,11.9
+2008,percentage (%),a) time series,male,sh,code01,13.8
+2009,percentage (%),a) time series,male,sh,code01,11.2
+2010,percentage (%),a) time series,male,sh,code01,12.5
+2011,percentage (%),a) time series,male,sh,code01,13.6
+2012,percentage (%),a) time series,male,sh,code01,12.9
+2013,percentage (%),a) time series,male,sh,code01,10.4
+2014,percentage (%),a) time series,male,sh,code01,13.1
+2015,percentage (%),a) time series,male,sh,code01,12.1
+2016,percentage (%),a) time series,male,sh,code01,10.8
+2017,percentage (%),a) time series,male,sh,code01,10.4
+2018,percentage (%),a) time series,male,sh,code01,11.2
+2019,percentage (%),a) time series,male,sh,code01,13.2
+2005,percentage (%),a) time series,male and female,th,code16,6.6
+2006,percentage (%),a) time series,male and female,th,code16,8.8
+2007,percentage (%),a) time series,male and female,th,code16,10.2
+2008,percentage (%),a) time series,male and female,th,code16,7.4
+2009,percentage (%),a) time series,male and female,th,code16,5.4
+2010,percentage (%),a) time series,male and female,th,code16,6.3
+2011,percentage (%),a) time series,male and female,th,code16,7.7
+2012,percentage (%),a) time series,male and female,th,code16,7.0
+2013,percentage (%),a) time series,male and female,th,code16,7.7
+2014,percentage (%),a) time series,male and female,th,code16,6.1
+2015,percentage (%),a) time series,male and female,th,code16,8.3
+2016,percentage (%),a) time series,male and female,th,code16,8.8
+2017,percentage (%),a) time series,male and female,th,code16,8.7
+2018,percentage (%),a) time series,male and female,th,code16,8.5
+2019,percentage (%),a) time series,male and female,th,code16,9.6
+2005,percentage (%),a) time series,female,th,code16,7.2
+2006,percentage (%),a) time series,female,th,code16,8.6
+2007,percentage (%),a) time series,female,th,code16,11.6
+2008,percentage (%),a) time series,female,th,code16,7.1
+2009,percentage (%),a) time series,female,th,code16,6.0
+2010,percentage (%),a) time series,female,th,code16,6.4
+2011,percentage (%),a) time series,female,th,code16,6.7
+2005,percentage (%),a) time series,male,th,code16,6.1
+2006,percentage (%),a) time series,male,th,code16,9.0
+2007,percentage (%),a) time series,male,th,code16,8.8
+2008,percentage (%),a) time series,male,th,code16,7.7
+2009,percentage (%),a) time series,male,th,code16,4.8
+2010,percentage (%),a) time series,male,th,code16,6.2
+2011,percentage (%),a) time series,male,th,code16,8.5
+2012,percentage (%),a) time series,male,th,code16,8.0
+2013,percentage (%),a) time series,male,th,code16,8.3
+2015,percentage (%),a) time series,male,th,code16,9.1
+2016,percentage (%),a) time series,male,th,code16,10.0
+2017,percentage (%),a) time series,male,th,code16,10.6
+2018,percentage (%),a) time series,male,th,code16,10.1
+2019,percentage (%),a) time series,male,th,code16,10.5
