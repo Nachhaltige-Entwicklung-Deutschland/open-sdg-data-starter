@@ -1,13 +1,25 @@
-Year,Units,dimension,sex,Value
-2003-2006,percentage (%),a) overweight,,18.1
-2014-2017,percentage (%),a) overweight,,18.7
-2003-2006,percentage (%),a) overweight,b) girls,17.8
-2014-2017,percentage (%),a) overweight,b) girls,17.8
-2003-2006,percentage (%),a) overweight,a) boys,18.3
-2014-2017,percentage (%),a) overweight,a) boys,19.6
-2003-2006,percentage (%),b) obese,,8.3
-2014-2017,percentage (%),b) obese,,8.0
-2003-2006,percentage (%),b) obese,b) girls,8.2
-2014-2017,percentage (%),b) obese,b) girls,7.2
-2003-2006,percentage (%),b) obese,a) boys,8.4
-2014-2017,percentage (%),b) obese,a) boys,8.7
+Year,Units,dimension,sex,age,Value
+2003-2006,percentage (%),a) overweight,,3- to 10-year-olds,7.7
+2014-2017,percentage (%),a) overweight,,3- to 10-year-olds,8.4
+2003-2006,percentage (%),a) overweight,female,3- to 10-year-olds,7.6
+2014-2017,percentage (%),a) overweight,female,3- to 10-year-olds,9.0
+2003-2006,percentage (%),a) overweight,male,3- to 10-year-olds,7.9
+2014-2017,percentage (%),a) overweight,male,3- to 10-year-olds,7.8
+2003-2006,percentage (%),b) obese,,3- to 10-year-olds,5.2
+2014-2017,percentage (%),b) obese,,3- to 10-year-olds,3.9
+2003-2006,percentage (%),b) obese,female,3- to 10-year-olds,5.2
+2014-2017,percentage (%),b) obese,female,3- to 10-year-olds,3.9
+2003-2006,percentage (%),b) obese,male,3- to 10-year-olds,5.2
+2014-2017,percentage (%),b) obese,male,3- to 10-year-olds,3.9
+2003-2006,percentage (%),a) overweight,,11- to 17-year-olds,9.8
+2014-2017,percentage (%),a) overweight,,11- to 17-year-olds,10.7
+2003-2006,percentage (%),a) overweight,female,11- to 17-year-olds,9.7
+2014-2017,percentage (%),a) overweight,female,11- to 17-year-olds,10.6
+2003-2006,percentage (%),a) overweight,male,11- to 17-year-olds,10.0
+2014-2017,percentage (%),a) overweight,male,11- to 17-year-olds,10.9
+2003-2006,percentage (%),b) obese,,11- to 17-year-olds,8.3
+2014-2017,percentage (%),b) obese,,11- to 17-year-olds,8.0
+2003-2006,percentage (%),b) obese,female,11- to 17-year-olds,8.2
+2014-2017,percentage (%),b) obese,female,11- to 17-year-olds,7.2
+2003-2006,percentage (%),b) obese,male,11- to 17-year-olds,8.4
+2014-2017,percentage (%),b) obese,male,11- to 17-year-olds,8.7

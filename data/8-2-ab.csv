@@ -23,11 +23,11 @@ Year,Units,display,title,Value
 2012,percentage (%),a) time series,funding balance (share of gross domestic product (at current prices) in %),0.0093
 2013,percentage (%),a) time series,funding balance (share of gross domestic product (at current prices) in %),0.04
 2014,percentage (%),a) time series,funding balance (share of gross domestic product (at current prices) in %),0.5796
-2015,percentage (%),a) time series,funding balance (share of gross domestic product (at current prices) in %),0.9432
-2016,percentage (%),a) time series,funding balance (share of gross domestic product (at current prices) in %),1.1841
-2017,percentage (%),a) time series,funding balance (share of gross domestic product (at current prices) in %),1.2418
-2018,percentage (%),a) time series,funding balance (share of gross domestic product (at current prices) in %),1.8666
-2019,percentage (%),a) time series,funding balance (share of gross domestic product (at current prices) in %),1.4676
+2015,percentage (%),a) time series,funding balance (share of gross domestic product (at current prices) in %),0.9606
+2016,percentage (%),a) time series,funding balance (share of gross domestic product (at current prices) in %),1.1604
+2017,percentage (%),a) time series,funding balance (share of gross domestic product (at current prices) in %),1.3619
+2018,percentage (%),a) time series,funding balance (share of gross domestic product (at current prices) in %),1.8366
+2019,percentage (%),a) time series,funding balance (share of gross domestic product (at current prices) in %),1.5213
 2007,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0
 2008,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0
 2009,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0
@@ -44,21 +44,21 @@ Year,Units,display,title,Value
 2020,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0
 2025,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0
 2030,percentage (%),b) target (min),funding balance (share of gross domestic product (at current prices) in %),-3.0
-2005,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),-2.0193
-2006,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),-1.6316
-2007,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),-0.7288
-2008,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),-0.6912
-2009,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),-0.3025
-2010,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),-1.9259
-2011,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),-1.0762
-2012,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),0.2419
-2013,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),0.6387
-2014,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),1.3184
-2015,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),0.9652
-2016,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),0.8492
-2017,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),0.891
-2018,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),1.387
-2019,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),1.312
+2005,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),-2.164
+2006,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),-1.7875
+2007,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),-0.6837
+2008,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),-0.5984
+2009,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),-0.4385
+2010,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),-2.0783
+2011,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),-1.1718
+2012,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),0.1356
+2013,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),0.6161
+2014,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),0.8733
+2015,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),1.0531
+2016,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),0.8962
+2017,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),0.6011
+2018,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),0.8402
+2019,percentage (%),a) time series,structural funding balance (share of gross domestic product (at current prices) in %),0.5608
 2010,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),-0.5
 2011,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),-0.5
 2012,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),-0.5
@@ -72,31 +72,31 @@ Year,Units,display,title,Value
 2020,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),-0.5
 2025,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),-0.5
 2030,percentage (%),b) target (min),structural funding balance (share of gross domestic product (at current prices) in %),-0.5
-1992,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),1.9281
-1993,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),-0.9793
-1994,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),2.398
-1995,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),1.5348
-1996,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),0.821
-1997,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),1.7836
-1998,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),2.019
-1999,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),1.892
-2000,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),2.8952
-2001,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),1.6977
-2002,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),-0.1985
-2003,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),-0.7135
-2004,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),1.1899
-2005,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),0.7219
-2006,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),3.8146
-2007,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),2.9841
-2008,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),0.9623
-2009,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),-5.6972
-2010,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),4.179
-2011,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),3.9241
-2012,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),0.4196
-2013,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),0.4282
-2014,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),2.2257
-2015,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),1.7397
+1992,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),1.9231
+1993,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),-0.9768
+1994,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),2.3919
+1995,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),1.5441
+1996,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),0.8058
+1997,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),1.7922
+1998,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),2.0139
+1999,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),1.8873
+2000,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),2.9125
+2001,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),1.6815
+2002,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),-0.198
+2003,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),-0.7001
+2004,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),1.1751
+2005,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),0.7317
+2006,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),3.8164
+2007,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),2.9765
+2008,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),0.9599
+2009,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),-5.6938
+2010,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),4.1799
+2011,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),3.9252
+2012,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),0.4185
+2013,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),0.4376
+2014,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),2.2095
+2015,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),1.4919
 2016,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),2.23
-2017,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),2.465
-2018,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),1.5274
-2019,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),0.5642
+2017,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),2.602
+2018,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),1.268
+2019,percentage (%),a) time series,gross domestic produkt (price-adjusted) (year-on-year changes in %),0.5555

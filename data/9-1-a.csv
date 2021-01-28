@@ -1,45 +1,42 @@
 Year,Units,display,Bundesland,GeoCode,Value
-1991,percentage (%),a) time series,a) germany (total),,2.4
-1992,percentage (%),a) time series,a) germany (total),,2.28
-1993,percentage (%),a) time series,a) germany (total),,2.21
-1994,percentage (%),a) time series,a) germany (total),,2.13
-1995,percentage (%),a) time series,a) germany (total),,2.14
-1996,percentage (%),a) time series,a) germany (total),,2.14
-1997,percentage (%),a) time series,a) germany (total),,2.19
-1998,percentage (%),a) time series,a) germany (total),,2.22
-1999,percentage (%),a) time series,a) germany (total),,2.35
-2000,percentage (%),a) time series,a) germany (total),,2.41
-2001,percentage (%),a) time series,a) germany (total),,2.4
-2002,percentage (%),a) time series,a) germany (total),,2.44
-2003,percentage (%),a) time series,a) germany (total),,2.47
-2004,percentage (%),a) time series,a) germany (total),,2.44
-2005,percentage (%),a) time series,a) germany (total),,2.44
-2006,percentage (%),a) time series,a) germany (total),,2.47
-2007,percentage (%),a) time series,a) germany (total),,2.46
-2008,percentage (%),a) time series,a) germany (total),,2.62
-2009,percentage (%),a) time series,a) germany (total),,2.74
-2010,percentage (%),a) time series,a) germany (total),,2.73
-2011,percentage (%),a) time series,a) germany (total),,2.81
-2012,percentage (%),a) time series,a) germany (total),,2.88
-2013,percentage (%),a) time series,a) germany (total),,2.84
-2014,percentage (%),a) time series,a) germany (total),,2.88
-2015,percentage (%),a) time series,a) germany (total),,2.93
-2016,percentage (%),a) time series,a) germany (total),,2.94
-2017,percentage (%),a) time series,a) germany (total),,3.07
-2018,percentage (%),a) time series,a) germany (total),,3.13
-2010,percentage (%),b) target (min),a) germany (total),,3.5
-2011,percentage (%),b) target (min),a) germany (total),,3.5
-2012,percentage (%),b) target (min),a) germany (total),,3.5
-2013,percentage (%),b) target (min),a) germany (total),,3.5
-2014,percentage (%),b) target (min),a) germany (total),,3.5
-2015,percentage (%),b) target (min),a) germany (total),,3.5
-2016,percentage (%),b) target (min),a) germany (total),,3.5
-2017,percentage (%),b) target (min),a) germany (total),,3.5
-2018,percentage (%),b) target (min),a) germany (total),,3.5
-2025,percentage (%),b) target (min),a) germany (total),,3.5
-1995,percentage (%),a) time series,bw,code08,3.42
-1997,percentage (%),a) time series,bw,code08,3.56
-1999,percentage (%),a) time series,bw,code08,3.66
+1991,percentage (%),a) time series,,,2.4
+1992,percentage (%),a) time series,,,2.28
+1993,percentage (%),a) time series,,,2.21
+1994,percentage (%),a) time series,,,2.13
+1995,percentage (%),a) time series,,,2.14
+1996,percentage (%),a) time series,,,2.14
+1997,percentage (%),a) time series,,,2.19
+1998,percentage (%),a) time series,,,2.22
+1999,percentage (%),a) time series,,,2.35
+2000,percentage (%),a) time series,,,2.41
+2001,percentage (%),a) time series,,,2.4
+2002,percentage (%),a) time series,,,2.44
+2003,percentage (%),a) time series,,,2.47
+2004,percentage (%),a) time series,,,2.44
+2005,percentage (%),a) time series,,,2.44
+2006,percentage (%),a) time series,,,2.47
+2007,percentage (%),a) time series,,,2.46
+2008,percentage (%),a) time series,,,2.62
+2009,percentage (%),a) time series,,,2.74
+2010,percentage (%),a) time series,,,2.73
+2011,percentage (%),a) time series,,,2.81
+2012,percentage (%),a) time series,,,2.88
+2013,percentage (%),a) time series,,,2.84
+2014,percentage (%),a) time series,,,2.88
+2015,percentage (%),a) time series,,,2.93
+2016,percentage (%),a) time series,,,2.94
+2017,percentage (%),a) time series,,,3.07
+2018,percentage (%),a) time series,,,3.13
+2010,percentage (%),b) target (min),,,3.5
+2011,percentage (%),b) target (min),,,3.5
+2012,percentage (%),b) target (min),,,3.5
+2013,percentage (%),b) target (min),,,3.5
+2014,percentage (%),b) target (min),,,3.5
+2015,percentage (%),b) target (min),,,3.5
+2016,percentage (%),b) target (min),,,3.5
+2017,percentage (%),b) target (min),,,3.5
+2018,percentage (%),b) target (min),,,3.5
+2025,percentage (%),b) target (min),,,3.5
 2000,percentage (%),a) time series,bw,code08,3.76
 2001,percentage (%),a) time series,bw,code08,3.71
 2002,percentage (%),a) time series,bw,code08,3.75
@@ -59,9 +56,6 @@ Year,Units,display,Bundesland,GeoCode,Value
 2016,percentage (%),a) time series,bw,code08,4.93
 2017,percentage (%),a) time series,bw,code08,5.64
 2018,percentage (%),a) time series,bw,code08,5.68
-1995,percentage (%),a) time series,by,code09,2.68
-1997,percentage (%),a) time series,by,code09,2.66
-1999,percentage (%),a) time series,by,code09,2.8
 2000,percentage (%),a) time series,by,code09,2.83
 2001,percentage (%),a) time series,by,code09,2.92
 2002,percentage (%),a) time series,by,code09,2.9
@@ -81,9 +75,6 @@ Year,Units,display,Bundesland,GeoCode,Value
 2016,percentage (%),a) time series,by,code09,3.13
 2017,percentage (%),a) time series,by,code09,3.11
 2018,percentage (%),a) time series,by,code09,3.19
-1995,percentage (%),a) time series,be,code11,2.91
-1997,percentage (%),a) time series,be,code11,3.17
-1999,percentage (%),a) time series,be,code11,3.32
 2000,percentage (%),a) time series,be,code11,3.4
 2001,percentage (%),a) time series,be,code11,3.79
 2002,percentage (%),a) time series,be,code11,3.89
@@ -103,9 +94,6 @@ Year,Units,display,Bundesland,GeoCode,Value
 2016,percentage (%),a) time series,be,code11,3.42
 2017,percentage (%),a) time series,be,code11,3.42
 2018,percentage (%),a) time series,be,code11,3.51
-1995,percentage (%),a) time series,bb,code12,1.33
-1997,percentage (%),a) time series,bb,code12,1.44
-1999,percentage (%),a) time series,bb,code12,1.55
 2000,percentage (%),a) time series,bb,code12,1.44
 2001,percentage (%),a) time series,bb,code12,1.44
 2002,percentage (%),a) time series,bb,code12,1.36
@@ -125,9 +113,6 @@ Year,Units,display,Bundesland,GeoCode,Value
 2016,percentage (%),a) time series,bb,code12,1.73
 2017,percentage (%),a) time series,bb,code12,1.71
 2018,percentage (%),a) time series,bb,code12,1.7
-1995,percentage (%),a) time series,hb,code04,2.84
-1997,percentage (%),a) time series,hb,code04,2.01
-1999,percentage (%),a) time series,hb,code04,2.11
 2000,percentage (%),a) time series,hb,code04,2.12
 2001,percentage (%),a) time series,hb,code04,2.12
 2002,percentage (%),a) time series,hb,code04,2.26
@@ -147,9 +132,6 @@ Year,Units,display,Bundesland,GeoCode,Value
 2016,percentage (%),a) time series,hb,code04,2.9
 2017,percentage (%),a) time series,hb,code04,2.82
 2018,percentage (%),a) time series,hb,code04,2.88
-1995,percentage (%),a) time series,hh,code02,1.77
-1997,percentage (%),a) time series,hh,code02,1.77
-1999,percentage (%),a) time series,hh,code02,1.66
 2000,percentage (%),a) time series,hh,code02,1.68
 2001,percentage (%),a) time series,hh,code02,1.38
 2002,percentage (%),a) time series,hh,code02,1.35
@@ -169,9 +151,6 @@ Year,Units,display,Bundesland,GeoCode,Value
 2016,percentage (%),a) time series,hh,code02,2.27
 2017,percentage (%),a) time series,hh,code02,2.17
 2018,percentage (%),a) time series,hh,code02,2.22
-1995,percentage (%),a) time series,he,code06,2.13
-1997,percentage (%),a) time series,he,code06,2.11
-1999,percentage (%),a) time series,he,code06,2.38
 2000,percentage (%),a) time series,he,code06,2.46
 2001,percentage (%),a) time series,he,code06,2.31
 2002,percentage (%),a) time series,he,code06,2.36
@@ -191,9 +170,6 @@ Year,Units,display,Bundesland,GeoCode,Value
 2016,percentage (%),a) time series,he,code06,2.85
 2017,percentage (%),a) time series,he,code06,2.94
 2018,percentage (%),a) time series,he,code06,3.02
-1995,percentage (%),a) time series,mv,code13,0.94
-1997,percentage (%),a) time series,mv,code13,0.96
-1999,percentage (%),a) time series,mv,code13,1.02
 2000,percentage (%),a) time series,mv,code13,1.05
 2001,percentage (%),a) time series,mv,code13,1.18
 2002,percentage (%),a) time series,mv,code13,1.21
@@ -213,9 +189,6 @@ Year,Units,display,Bundesland,GeoCode,Value
 2016,percentage (%),a) time series,mv,code13,1.85
 2017,percentage (%),a) time series,mv,code13,1.79
 2018,percentage (%),a) time series,mv,code13,1.81
-1995,percentage (%),a) time series,ni,code03,1.7
-1997,percentage (%),a) time series,ni,code03,1.72
-1999,percentage (%),a) time series,ni,code03,2.26
 2000,percentage (%),a) time series,ni,code03,2.29
 2001,percentage (%),a) time series,ni,code03,2.43
 2002,percentage (%),a) time series,ni,code03,2.56
@@ -235,9 +208,6 @@ Year,Units,display,Bundesland,GeoCode,Value
 2016,percentage (%),a) time series,ni,code03,3.27
 2017,percentage (%),a) time series,ni,code03,3.12
 2018,percentage (%),a) time series,ni,code03,3.13
-1995,percentage (%),a) time series,nw,code05,1.57
-1997,percentage (%),a) time series,nw,code05,1.61
-1999,percentage (%),a) time series,nw,code05,1.72
 2000,percentage (%),a) time series,nw,code05,1.78
 2001,percentage (%),a) time series,nw,code05,1.71
 2002,percentage (%),a) time series,nw,code05,1.76
@@ -257,9 +227,6 @@ Year,Units,display,Bundesland,GeoCode,Value
 2016,percentage (%),a) time series,nw,code05,2.03
 2017,percentage (%),a) time series,nw,code05,2.13
 2018,percentage (%),a) time series,nw,code05,2.19
-1995,percentage (%),a) time series,rp,code07,1.71
-1997,percentage (%),a) time series,rp,code07,2.0
-1999,percentage (%),a) time series,rp,code07,2.14
 2000,percentage (%),a) time series,rp,code07,2.22
 2001,percentage (%),a) time series,rp,code07,1.94
 2002,percentage (%),a) time series,rp,code07,1.92
@@ -279,9 +246,6 @@ Year,Units,display,Bundesland,GeoCode,Value
 2016,percentage (%),a) time series,rp,code07,2.47
 2017,percentage (%),a) time series,rp,code07,2.5
 2018,percentage (%),a) time series,rp,code07,2.56
-1995,percentage (%),a) time series,sl,code10,0.88
-1997,percentage (%),a) time series,sl,code10,0.95
-1999,percentage (%),a) time series,sl,code10,0.96
 2000,percentage (%),a) time series,sl,code10,0.97
 2001,percentage (%),a) time series,sl,code10,1.04
 2002,percentage (%),a) time series,sl,code10,1.02
@@ -301,9 +265,6 @@ Year,Units,display,Bundesland,GeoCode,Value
 2016,percentage (%),a) time series,sl,code10,1.56
 2017,percentage (%),a) time series,sl,code10,1.76
 2018,percentage (%),a) time series,sl,code10,1.75
-1995,percentage (%),a) time series,sn,code14,1.87
-1997,percentage (%),a) time series,sn,code14,2.1
-1999,percentage (%),a) time series,sn,code14,2.32
 2000,percentage (%),a) time series,sn,code14,2.42
 2001,percentage (%),a) time series,sn,code14,2.41
 2002,percentage (%),a) time series,sn,code14,2.4
@@ -323,9 +284,6 @@ Year,Units,display,Bundesland,GeoCode,Value
 2016,percentage (%),a) time series,sn,code14,2.74
 2017,percentage (%),a) time series,sn,code14,2.81
 2018,percentage (%),a) time series,sn,code14,2.89
-1995,percentage (%),a) time series,st,code15,1.34
-1997,percentage (%),a) time series,st,code15,1.28
-1999,percentage (%),a) time series,st,code15,1.29
 2000,percentage (%),a) time series,st,code15,1.4
 2001,percentage (%),a) time series,st,code15,1.31
 2002,percentage (%),a) time series,st,code15,1.24
@@ -345,9 +303,6 @@ Year,Units,display,Bundesland,GeoCode,Value
 2016,percentage (%),a) time series,st,code15,1.46
 2017,percentage (%),a) time series,st,code15,1.52
 2018,percentage (%),a) time series,st,code15,1.59
-1995,percentage (%),a) time series,sh,code01,1.08
-1997,percentage (%),a) time series,sh,code01,1.06
-1999,percentage (%),a) time series,sh,code01,1.08
 2000,percentage (%),a) time series,sh,code01,1.09
 2001,percentage (%),a) time series,sh,code01,1.14
 2002,percentage (%),a) time series,sh,code01,1.21
@@ -367,9 +322,6 @@ Year,Units,display,Bundesland,GeoCode,Value
 2016,percentage (%),a) time series,sh,code01,1.53
 2017,percentage (%),a) time series,sh,code01,1.58
 2018,percentage (%),a) time series,sh,code01,1.64
-1995,percentage (%),a) time series,th,code16,1.58
-1997,percentage (%),a) time series,th,code16,1.72
-1999,percentage (%),a) time series,th,code16,1.63
 2000,percentage (%),a) time series,th,code16,1.73
 2001,percentage (%),a) time series,th,code16,2.07
 2002,percentage (%),a) time series,th,code16,2.16
