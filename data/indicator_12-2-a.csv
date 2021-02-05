@@ -14,16 +14,21 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,employees in thousands,a) germany (total),,985.195
 2018,number,a) time series,employees in thousands,a) germany (total),,929.241
 2019,number,a) time series,employees in thousands,a) germany (total),,988.401
+2005,number,a) time series,emas organisational locations,a) germany (total),,1958.000
+2006,number,a) time series,emas organisational locations,a) germany (total),,1985.000
+2007,number,a) time series,emas organisational locations,a) germany (total),,1956.000
+2008,number,a) time series,emas organisational locations,a) germany (total),,1917.000
+2009,number,a) time series,emas organisational locations,a) germany (total),,1906.000
 2010,number,a) time series,emas organisational locations,a) germany (total),,1913.000
-2011,number,a) time series,emas organisational locations,a) germany (total),,1903.000
-2012,number,a) time series,emas organisational locations,a) germany (total),,1822.000
-2013,number,a) time series,emas organisational locations,a) germany (total),,1856.000
-2014,number,a) time series,emas organisational locations,a) germany (total),,1900.000
-2015,number,a) time series,emas organisational locations,a) germany (total),,1998.000
-2016,number,a) time series,emas organisational locations,a) germany (total),,2067.000
-2017,number,a) time series,emas organisational locations,a) germany (total),,2176.000
-2018,number,a) time series,emas organisational locations,a) germany (total),,2161.000
-2019,number,a) time series,emas organisational locations,a) germany (total),,2170.000
+2011,number,a) time series,emas organisational locations,a) germany (total),,1909.000
+2012,number,a) time series,emas organisational locations,a) germany (total),,1828.000
+2013,number,a) time series,emas organisational locations,a) germany (total),,1862.000
+2014,number,a) time series,emas organisational locations,a) germany (total),,1906.000
+2015,number,a) time series,emas organisational locations,a) germany (total),,2004.000
+2016,number,a) time series,emas organisational locations,a) germany (total),,2073.000
+2017,number,a) time series,emas organisational locations,a) germany (total),,2182.000
+2018,number,a) time series,emas organisational locations,a) germany (total),,2167.000
+2019,number,a) time series,emas organisational locations,a) germany (total),,2176.000
 2030,number,b) target (min),emas organisational locations,a) germany (total),,5000.000
 2010,number,a) time series,emas organisational locations,bw,code08,493.000
 2011,number,a) time series,emas organisational locations,bw,code08,498.000
@@ -185,16 +190,16 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,emas organisational locations,th,code16,89.000
 2018,number,a) time series,emas organisational locations,th,code16,81.000
 2019,number,a) time series,emas organisational locations,th,code16,87.000
-2010,number,a) time series,emas organisations,,,1491.000
-2011,number,a) time series,emas organisations,,,1490.000
-2012,number,a) time series,emas organisations,,,1466.000
-2013,number,a) time series,emas organisations,,,1408.000
-2014,number,a) time series,emas organisations,,,1354.000
-2015,number,a) time series,emas organisations,,,1332.000
-2016,number,a) time series,emas organisations,,,1269.000
-2017,number,a) time series,emas organisations,,,1212.000
-2018,number,a) time series,emas organisations,,,1228.000
-2019,number,a) time series,emas organisations,,,1223.000
+2010,number,a) time series,emas organisations,a) germany (total),,1491.000
+2011,number,a) time series,emas organisations,a) germany (total),,1490.000
+2012,number,a) time series,emas organisations,a) germany (total),,1466.000
+2013,number,a) time series,emas organisations,a) germany (total),,1408.000
+2014,number,a) time series,emas organisations,a) germany (total),,1354.000
+2015,number,a) time series,emas organisations,a) germany (total),,1332.000
+2016,number,a) time series,emas organisations,a) germany (total),,1269.000
+2017,number,a) time series,emas organisations,a) germany (total),,1212.000
+2018,number,a) time series,emas organisations,a) germany (total),,1228.000
+2019,number,a) time series,emas organisations,a) germany (total),,1223.000
 2010,number,a) time series,emas organisations,bw,code08,313.000
 2011,number,a) time series,emas organisations,bw,code08,358.000
 2012,number,a) time series,emas organisations,bw,code08,353.000
