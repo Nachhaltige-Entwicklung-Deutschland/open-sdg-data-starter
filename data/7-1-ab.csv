@@ -22,6 +22,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2015,2008 = 100,a) time series,a) final energy productivity,bw,code08,116.9
 2016,2008 = 100,a) time series,a) final energy productivity,bw,code08,115.5
 2017,2008 = 100,a) time series,a) final energy productivity,bw,code08,125.4
+2018,2008 = 100,a) time series,a) final energy productivity,bw,code08,123.0
 2008,2008 = 100,a) time series,a) final energy productivity,by,code09,100.0
 2009,2008 = 100,a) time series,a) final energy productivity,by,code09,98.7
 2010,2008 = 100,a) time series,a) final energy productivity,by,code09,96.3
@@ -62,6 +63,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2015,2008 = 100,a) time series,a) final energy productivity,hb,code04,97.8
 2016,2008 = 100,a) time series,a) final energy productivity,hb,code04,99.1
 2017,2008 = 100,a) time series,a) final energy productivity,hb,code04,107.3
+2018,2008 = 100,a) time series,a) final energy productivity,hb,code04,109.6
 2008,2008 = 100,a) time series,a) final energy productivity,hh,code02,100.0
 2009,2008 = 100,a) time series,a) final energy productivity,hh,code02,97.6
 2010,2008 = 100,a) time series,a) final energy productivity,hh,code02,94.2
@@ -82,6 +84,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2015,2008 = 100,a) time series,a) final energy productivity,he,code06,104.9
 2016,2008 = 100,a) time series,a) final energy productivity,he,code06,105.1
 2017,2008 = 100,a) time series,a) final energy productivity,he,code06,110.3
+2018,2008 = 100,a) time series,a) final energy productivity,he,code06,112.5
 2008,2008 = 100,a) time series,a) final energy productivity,mv,code13,100.0
 2009,2008 = 100,a) time series,a) final energy productivity,mv,code13,99.9
 2010,2008 = 100,a) time series,a) final energy productivity,mv,code13,94.6
@@ -160,6 +163,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2015,2008 = 100,a) time series,a) final energy productivity,sh,code01,109.1
 2016,2008 = 100,a) time series,a) final energy productivity,sh,code01,110.9
 2017,2008 = 100,a) time series,a) final energy productivity,sh,code01,111.9
+2018,2008 = 100,a) time series,a) final energy productivity,sh,code01,119.6
 2008,2008 = 100,a) time series,a) final energy productivity,th,code16,100.0
 2009,2008 = 100,a) time series,a) final energy productivity,th,code16,100.4
 2010,2008 = 100,a) time series,a) final energy productivity,th,code16,98.9
@@ -182,6 +186,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,2008 = 100,a) time series,b) primary energy consumption,a) germany (total),,94.0
 2018,2008 = 100,a) time series,b) primary energy consumption,a) germany (total),,91.3
 2019,2008 = 100,a) time series,b) primary energy consumption,a) germany (total),,88.9
+2020,2008 = 100,a) time series,b) primary energy consumption,a) germany (total),,81.3
 2020,2008 = 100,b) target,b) primary energy consumption,a) germany (total),,80.0
 2050,2008 = 100,b) target,b) primary energy consumption,a) germany (total),,50.0
 2008,2008 = 100,a) time series,b) primary energy consumption,bw,code08,100.0
@@ -194,6 +199,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2015,2008 = 100,a) time series,b) primary energy consumption,bw,code08,87.2
 2016,2008 = 100,a) time series,b) primary energy consumption,bw,code08,89.3
 2017,2008 = 100,a) time series,b) primary energy consumption,bw,code08,92.3
+2018,2008 = 100,a) time series,b) primary energy consumption,bw,code08,91.7
 2008,2008 = 100,a) time series,b) primary energy consumption,by,code09,100.0
 2009,2008 = 100,a) time series,b) primary energy consumption,by,code09,98.3
 2010,2008 = 100,a) time series,b) primary energy consumption,by,code09,102.0
@@ -214,6 +220,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2015,2008 = 100,a) time series,b) primary energy consumption,be,code11,91.9
 2016,2008 = 100,a) time series,b) primary energy consumption,be,code11,94.5
 2017,2008 = 100,a) time series,b) primary energy consumption,be,code11,95.2
+2018,2008 = 100,a) time series,b) primary energy consumption,be,code11,86.1
 2008,2008 = 100,a) time series,b) primary energy consumption,bb,code12,100.0
 2009,2008 = 100,a) time series,b) primary energy consumption,bb,code12,96.3
 2010,2008 = 100,a) time series,b) primary energy consumption,bb,code12,101.4
@@ -234,6 +241,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2015,2008 = 100,a) time series,b) primary energy consumption,hb,code04,99.7
 2016,2008 = 100,a) time series,b) primary energy consumption,hb,code04,100.2
 2017,2008 = 100,a) time series,b) primary energy consumption,hb,code04,105.9
+2018,2008 = 100,a) time series,b) primary energy consumption,hb,code04,92.1
 2008,2008 = 100,a) time series,b) primary energy consumption,hh,code02,100.0
 2009,2008 = 100,a) time series,b) primary energy consumption,hh,code02,98.7
 2010,2008 = 100,a) time series,b) primary energy consumption,hh,code02,106.2
@@ -244,6 +252,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2015,2008 = 100,a) time series,b) primary energy consumption,hh,code02,107.1
 2016,2008 = 100,a) time series,b) primary energy consumption,hh,code02,110.2
 2017,2008 = 100,a) time series,b) primary energy consumption,hh,code02,113.0
+2018,2008 = 100,a) time series,b) primary energy consumption,hh,code02,109.0
 2008,2008 = 100,a) time series,b) primary energy consumption,he,code06,100.0
 2009,2008 = 100,a) time series,b) primary energy consumption,he,code06,83.7
 2010,2008 = 100,a) time series,b) primary energy consumption,he,code06,95.2
@@ -254,6 +263,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2015,2008 = 100,a) time series,b) primary energy consumption,he,code06,81.5
 2016,2008 = 100,a) time series,b) primary energy consumption,he,code06,83.5
 2017,2008 = 100,a) time series,b) primary energy consumption,he,code06,99.1
+2018,2008 = 100,a) time series,b) primary energy consumption,he,code06,85.5
 2008,2008 = 100,a) time series,b) primary energy consumption,mv,code13,100.0
 2009,2008 = 100,a) time series,b) primary energy consumption,mv,code13,95.0
 2010,2008 = 100,a) time series,b) primary energy consumption,mv,code13,102.1
@@ -293,6 +303,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2015,2008 = 100,a) time series,b) primary energy consumption,rp,code07,94.7
 2016,2008 = 100,a) time series,b) primary energy consumption,rp,code07,96.1
 2017,2008 = 100,a) time series,b) primary energy consumption,rp,code07,105.7
+2018,2008 = 100,a) time series,b) primary energy consumption,rp,code07,95.7
 2008,2008 = 100,a) time series,b) primary energy consumption,sl,code10,100.0
 2009,2008 = 100,a) time series,b) primary energy consumption,sl,code10,82.9
 2010,2008 = 100,a) time series,b) primary energy consumption,sl,code10,87.4
@@ -322,6 +333,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2015,2008 = 100,a) time series,b) primary energy consumption,st,code15,100.2
 2016,2008 = 100,a) time series,b) primary energy consumption,st,code15,103.2
 2017,2008 = 100,a) time series,b) primary energy consumption,st,code15,100.3
+2018,2008 = 100,a) time series,b) primary energy consumption,st,code15,103.8
 2008,2008 = 100,a) time series,b) primary energy consumption,sh,code01,100.0
 2009,2008 = 100,a) time series,b) primary energy consumption,sh,code01,97.2
 2010,2008 = 100,a) time series,b) primary energy consumption,sh,code01,102.1
@@ -332,6 +344,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2015,2008 = 100,a) time series,b) primary energy consumption,sh,code01,93.9
 2016,2008 = 100,a) time series,b) primary energy consumption,sh,code01,95.9
 2017,2008 = 100,a) time series,b) primary energy consumption,sh,code01,88.9
+2018,2008 = 100,a) time series,b) primary energy consumption,sh,code01,93.5
 2008,2008 = 100,a) time series,b) primary energy consumption,th,code16,100.0
 2009,2008 = 100,a) time series,b) primary energy consumption,th,code16,96.1
 2010,2008 = 100,a) time series,b) primary energy consumption,th,code16,100.0
