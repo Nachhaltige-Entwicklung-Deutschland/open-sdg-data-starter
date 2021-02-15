@@ -305,6 +305,68 @@ prose:
             scope: history_2
 
 
+      ## History 3
+      - name: history_active_3
+        field:
+            element: checkbox
+            label: History 3 active
+            help: Whether or not to display this history
+            value: true
+      - name: history_indicator_3
+        field:
+            element: text
+            label: Indicator
+            scope: history_3
+
+      - name: history_target_3
+        field:
+            element: text
+            label: Target of indicator
+            scope: history_3
+
+
+      - name: "history_year_a_3"
+        field:
+            element: text
+            label: "YearA"
+            scope: history_3
+      - name: "history_year_b_3"
+        field:
+            element: text
+            label: "YearB"
+            scope: history_3
+      - name: "history_year_c_3"
+        field:
+            element: text
+            label: "YearC"
+            scope: history_3
+      - name: "history_year_d_3"
+        field:
+            element: text
+            label: "YearD"
+            scope: history_3
+
+      - name: "history_status_year_a_3"
+        field:
+            element: text
+            label: "Status year A"
+            scope: history_3
+      - name: "history_status_year_b_3"
+        field:
+            element: text
+            label: "Status year B"
+            scope: history_3
+      - name: "history_status_year_c_3"
+        field:
+            element: text
+            label: "Status year C"
+            scope: history_3
+      - name: "history_status_year_d_3"
+        field:
+            element: text
+            label: "Status year D"
+            scope: history_3
+
 
       #- name: "history_url_text_2"
       #  field:
