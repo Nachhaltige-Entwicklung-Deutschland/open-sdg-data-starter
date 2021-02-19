@@ -1,14 +1,21 @@
 Year,Units,display,title,Value
-2018,in % der haushalte,a) time series,all line-based technologies,27.30
-2019,in % der haushalte,a) time series,all line-based technologies,43.22
-2020,in % der haushalte,a) time series,all line-based technologies,55.90
+2018 2.HJ,in % der haushalte,a) time series,all line-based technologies,27.30
+2019 1.HJ,in % der haushalte,a) time series,all line-based technologies,34.10
+2019 2.HJ,in % der haushalte,a) time series,all line-based technologies,43.22
+2020 1.HJ,in % der haushalte,a) time series,all line-based technologies,55.90
 2025,in % der haushalte,b) target (min),all line-based technologies,100.00
-2015,in % der haushalte,a) time series,pure fiber optic networks (fttb/h),7.10
-2016,in % der haushalte,a) time series,pure fiber optic networks (fttb/h),7.10
-2017,in % der haushalte,a) time series,pure fiber optic networks (fttb/h),8.00
-2018,in % der haushalte,a) time series,pure fiber optic networks (fttb/h),9.00
-2019,in % der haushalte,a) time series,pure fiber optic networks (fttb/h),11.82
-2020,in % der haushalte,a) time series,pure fiber optic networks (fttb/h),13.80
-2018,in % der haushalte,a) time series,cable television (catv),23.70
-2019,in % der haushalte,a) time series,cable television (catv),37.83
-2020,in % der haushalte,a) time series,cable television (catv),50.20
+2015 2.HJ,in % der haushalte,a) time series,pure fiber optic networks (fttb/h),6.70
+2016 1.HJ,in % der haushalte,a) time series,pure fiber optic networks (fttb/h),7.10
+2016 2.HJ,in % der haushalte,a) time series,pure fiber optic networks (fttb/h),7.10
+2017 1.HJ,in % der haushalte,a) time series,pure fiber optic networks (fttb/h),7.30
+2017 2.HJ,in % der haushalte,a) time series,pure fiber optic networks (fttb/h),8.00
+2018 1.HJ,in % der haushalte,a) time series,pure fiber optic networks (fttb/h),8.50
+2018 2.HJ,in % der haushalte,a) time series,pure fiber optic networks (fttb/h),9.00
+2019 1.HJ,in % der haushalte,a) time series,pure fiber optic networks (fttb/h),10.50
+2019 2.HJ,in % der haushalte,a) time series,pure fiber optic networks (fttb/h),11.80
+2020 1.HJ,in % der haushalte,a) time series,pure fiber optic networks (fttb/h),13.80
+2018 2.HJ,in % der haushalte,a) time series,cable television (catv),23.70
+2019 1.HJ,in % der haushalte,a) time series,cable television (catv),29.30
+2019 2.HJ,in % der haushalte,a) time series,cable television (catv),37.83
+2020 1.HJ,in % der haushalte,a) time series,cable television (catv),37.80
+2025,in % der haushalte,a) time series,cable television (catv),50.20
