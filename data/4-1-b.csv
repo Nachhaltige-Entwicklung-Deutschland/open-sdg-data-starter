@@ -1,26 +1,26 @@
 Year,Units,display,title,sex,Bundesland,GeoCode,Value
-1999,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,a) germany (total),,33.4
-2000,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,a) germany (total),,33.0
-2001,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,a) germany (total),,33.2
-2002,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,a) germany (total),,33.3
-2003,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,a) germany (total),,33.9
-2004,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,a) germany (total),,36.2
-2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,a) germany (total),,36.0
-2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,a) germany (total),,36.5
-2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,a) germany (total),,37.6
-2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,a) germany (total),,38.8
-2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,a) germany (total),,40.7
-2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,a) germany (total),,41.3
-2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,a) germany (total),,42.2
-2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,a) germany (total),,43.4
-2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,a) germany (total),,44.5
-2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,a) germany (total),,45.7
-2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,a) germany (total),,46.8
-2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,a) germany (total),,47.9
-2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,a) germany (total),,48.8
-2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,a) germany (total),,49.8
-2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,a) germany (total),,50.5
-2030,percentage (%),b) target (min),tertiary or post-secondary non-tertiary education,male and female,a) germany (total),,55.0
+1999,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,33.4
+2000,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,33.0
+2001,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,33.2
+2002,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,33.3
+2003,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,33.9
+2004,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,36.2
+2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,36.0
+2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,36.5
+2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,37.6
+2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,38.8
+2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,40.7
+2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,41.3
+2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,42.2
+2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,43.4
+2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,44.5
+2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,45.7
+2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,46.8
+2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,47.9
+2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,48.8
+2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,49.8
+2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,50.5
+2030,percentage (%),b) target (min),tertiary or post-secondary non-tertiary education,a) total,a) germany (total),,55.0
 1999,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,a) germany (total),,31.4
 2000,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,a) germany (total),,30.9
 2001,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,a) germany (total),,31.1
@@ -63,21 +63,21 @@ Year,Units,display,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,a) germany (total),,45.2
 2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,a) germany (total),,46.0
 2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,a) germany (total),,46.8
-2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bw,code08,36.9
-2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bw,code08,36.9
-2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bw,code08,37.6
-2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bw,code08,37.8
-2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bw,code08,41.9
-2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bw,code08,42.3
-2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bw,code08,43.4
-2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bw,code08,44.9
-2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bw,code08,47.3
-2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bw,code08,47.3
-2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bw,code08,48.4
-2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bw,code08,50.2
-2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bw,code08,50.7
-2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bw,code08,51.4
-2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bw,code08,53.9
+2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bw,code08,36.9
+2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bw,code08,36.9
+2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bw,code08,37.6
+2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bw,code08,37.8
+2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bw,code08,41.9
+2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bw,code08,42.3
+2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bw,code08,43.4
+2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bw,code08,44.9
+2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bw,code08,47.3
+2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bw,code08,47.3
+2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bw,code08,48.4
+2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bw,code08,50.2
+2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bw,code08,50.7
+2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bw,code08,51.4
+2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bw,code08,53.9
 2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,bw,code08,33.1
 2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,bw,code08,34.2
 2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,bw,code08,35.7
@@ -108,21 +108,21 @@ Year,Units,display,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,bw,code08,49.9
 2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,bw,code08,50.6
 2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,bw,code08,51.5
-2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,by,code09,35.2
-2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,by,code09,34.7
-2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,by,code09,35.8
-2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,by,code09,37.5
-2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,by,code09,39.4
-2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,by,code09,40.4
-2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,by,code09,41.1
-2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,by,code09,43.6
-2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,by,code09,45.3
-2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,by,code09,45.8
-2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,by,code09,45.7
-2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,by,code09,48.0
-2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,by,code09,48.8
-2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,by,code09,50.0
-2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,by,code09,49.5
+2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,by,code09,35.2
+2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,by,code09,34.7
+2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,by,code09,35.8
+2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,by,code09,37.5
+2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,by,code09,39.4
+2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,by,code09,40.4
+2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,by,code09,41.1
+2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,by,code09,43.6
+2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,by,code09,45.3
+2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,by,code09,45.8
+2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,by,code09,45.7
+2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,by,code09,48.0
+2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,by,code09,48.8
+2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,by,code09,50.0
+2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,by,code09,49.5
 2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,by,code09,32.9
 2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,by,code09,33.1
 2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,by,code09,34.8
@@ -153,21 +153,21 @@ Year,Units,display,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,by,code09,46.9
 2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,by,code09,48.1
 2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,by,code09,48.3
-2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,be,code11,46.2
-2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,be,code11,46.6
-2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,be,code11,49.2
-2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,be,code11,47.1
-2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,be,code11,50.4
-2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,be,code11,50.7
-2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,be,code11,51.8
-2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,be,code11,53.7
-2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,be,code11,53.2
-2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,be,code11,54.0
-2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,be,code11,56.7
-2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,be,code11,59.7
-2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,be,code11,60.9
-2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,be,code11,62.7
-2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,be,code11,64.8
+2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,be,code11,46.2
+2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,be,code11,46.6
+2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,be,code11,49.2
+2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,be,code11,47.1
+2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,be,code11,50.4
+2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,be,code11,50.7
+2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,be,code11,51.8
+2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,be,code11,53.7
+2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,be,code11,53.2
+2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,be,code11,54.0
+2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,be,code11,56.7
+2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,be,code11,59.7
+2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,be,code11,60.9
+2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,be,code11,62.7
+2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,be,code11,64.8
 2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,be,code11,47.1
 2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,be,code11,50.1
 2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,be,code11,53.0
@@ -198,21 +198,21 @@ Year,Units,display,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,be,code11,55.7
 2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,be,code11,58.3
 2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,be,code11,60.3
-2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bb,code12,32.1
-2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bb,code12,33.2
-2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bb,code12,34.7
-2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bb,code12,38.6
-2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bb,code12,41.1
-2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bb,code12,41.4
-2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bb,code12,44.5
-2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bb,code12,42.1
-2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bb,code12,42.6
-2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bb,code12,44.2
-2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bb,code12,43.3
-2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bb,code12,45.4
-2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bb,code12,42.4
-2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bb,code12,45.3
-2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,bb,code12,44.4
+2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bb,code12,32.1
+2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bb,code12,33.2
+2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bb,code12,34.7
+2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bb,code12,38.6
+2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bb,code12,41.1
+2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bb,code12,41.4
+2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bb,code12,44.5
+2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bb,code12,42.1
+2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bb,code12,42.6
+2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bb,code12,44.2
+2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bb,code12,43.3
+2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bb,code12,45.4
+2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bb,code12,42.4
+2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bb,code12,45.3
+2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,bb,code12,44.4
 2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,bb,code12,36.9
 2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,bb,code12,39.5
 2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,bb,code12,42.2
@@ -243,21 +243,21 @@ Year,Units,display,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,bb,code12,36.8
 2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,bb,code12,36.8
 2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,bb,code12,36.7
-2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hb,code04,33.8
-2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hb,code04,36.8
-2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hb,code04,38.2
-2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hb,code04,39.4
-2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hb,code04,32.7
-2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hb,code04,41.5
-2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hb,code04,43.2
-2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hb,code04,41.8
-2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hb,code04,44.3
-2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hb,code04,53.4
-2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hb,code04,50.5
-2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hb,code04,46.6
-2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hb,code04,52.1
-2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hb,code04,52.3
-2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hb,code04,49.1
+2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hb,code04,33.8
+2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hb,code04,36.8
+2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hb,code04,38.2
+2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hb,code04,39.4
+2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hb,code04,32.7
+2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hb,code04,41.5
+2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hb,code04,43.2
+2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hb,code04,41.8
+2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hb,code04,44.3
+2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hb,code04,53.4
+2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hb,code04,50.5
+2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hb,code04,46.6
+2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hb,code04,52.1
+2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hb,code04,52.3
+2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hb,code04,49.1
 2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,hb,code04,35.3
 2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,hb,code04,40.1
 2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,hb,code04,40.3
@@ -288,21 +288,21 @@ Year,Units,display,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,hb,code04,47.3
 2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,hb,code04,47.9
 2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,hb,code04,42.2
-2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hh,code02,45.7
-2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hh,code02,48.6
-2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hh,code02,49.4
-2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hh,code02,50.1
-2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hh,code02,53.1
-2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hh,code02,52.5
-2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hh,code02,55.4
-2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hh,code02,54.4
-2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hh,code02,55.4
-2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hh,code02,58.5
-2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hh,code02,60.6
-2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hh,code02,60.0
-2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hh,code02,58.4
-2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hh,code02,62.5
-2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,hh,code02,60.1
+2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hh,code02,45.7
+2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hh,code02,48.6
+2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hh,code02,49.4
+2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hh,code02,50.1
+2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hh,code02,53.1
+2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hh,code02,52.5
+2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hh,code02,55.4
+2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hh,code02,54.4
+2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hh,code02,55.4
+2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hh,code02,58.5
+2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hh,code02,60.6
+2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hh,code02,60.0
+2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hh,code02,58.4
+2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hh,code02,62.5
+2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,hh,code02,60.1
 2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,hh,code02,47.5
 2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,hh,code02,49.0
 2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,hh,code02,53.8
@@ -333,21 +333,21 @@ Year,Units,display,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,hh,code02,53.7
 2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,hh,code02,60.0
 2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,hh,code02,59.1
-2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,he,code06,40.7
-2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,he,code06,40.2
-2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,he,code06,40.9
-2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,he,code06,40.3
-2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,he,code06,43.1
-2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,he,code06,45.4
-2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,he,code06,46.1
-2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,he,code06,47.2
-2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,he,code06,47.6
-2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,he,code06,46.3
-2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,he,code06,49.4
-2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,he,code06,50.4
-2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,he,code06,54.1
-2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,he,code06,52.4
-2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,he,code06,52.7
+2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,he,code06,40.7
+2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,he,code06,40.2
+2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,he,code06,40.9
+2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,he,code06,40.3
+2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,he,code06,43.1
+2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,he,code06,45.4
+2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,he,code06,46.1
+2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,he,code06,47.2
+2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,he,code06,47.6
+2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,he,code06,46.3
+2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,he,code06,49.4
+2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,he,code06,50.4
+2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,he,code06,54.1
+2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,he,code06,52.4
+2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,he,code06,52.7
 2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,he,code06,38.7
 2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,he,code06,38.8
 2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,he,code06,39.8
@@ -378,21 +378,21 @@ Year,Units,display,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,he,code06,49.6
 2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,he,code06,48.0
 2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,he,code06,48.3
-2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,mv,code13,26.3
-2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,mv,code13,31.1
-2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,mv,code13,30.5
-2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,mv,code13,32.3
-2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,mv,code13,32.3
-2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,mv,code13,33.2
-2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,mv,code13,32.1
-2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,mv,code13,30.8
-2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,mv,code13,33.2
-2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,mv,code13,35.4
-2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,mv,code13,34.8
-2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,mv,code13,32.7
-2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,mv,code13,32.7
-2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,mv,code13,37.9
-2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,mv,code13,38.7
+2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,mv,code13,26.3
+2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,mv,code13,31.1
+2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,mv,code13,30.5
+2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,mv,code13,32.3
+2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,mv,code13,32.3
+2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,mv,code13,33.2
+2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,mv,code13,32.1
+2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,mv,code13,30.8
+2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,mv,code13,33.2
+2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,mv,code13,35.4
+2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,mv,code13,34.8
+2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,mv,code13,32.7
+2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,mv,code13,32.7
+2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,mv,code13,37.9
+2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,mv,code13,38.7
 2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,mv,code13,27.0
 2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,mv,code13,37.3
 2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,mv,code13,37.2
@@ -423,21 +423,21 @@ Year,Units,display,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,mv,code13,26.1
 2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,mv,code13,32.4
 2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,mv,code13,36.4
-2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,ni,code03,32.1
-2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,ni,code03,31.7
-2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,ni,code03,33.0
-2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,ni,code03,34.0
-2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,ni,code03,35.6
-2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,ni,code03,36.2
-2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,ni,code03,37.5
-2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,ni,code03,38.1
-2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,ni,code03,37.9
-2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,ni,code03,40.1
-2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,ni,code03,43.2
-2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,ni,code03,41.4
-2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,ni,code03,42.6
-2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,ni,code03,44.0
-2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,ni,code03,44.7
+2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,ni,code03,32.1
+2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,ni,code03,31.7
+2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,ni,code03,33.0
+2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,ni,code03,34.0
+2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,ni,code03,35.6
+2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,ni,code03,36.2
+2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,ni,code03,37.5
+2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,ni,code03,38.1
+2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,ni,code03,37.9
+2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,ni,code03,40.1
+2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,ni,code03,43.2
+2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,ni,code03,41.4
+2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,ni,code03,42.6
+2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,ni,code03,44.0
+2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,ni,code03,44.7
 2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,ni,code03,29.5
 2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,ni,code03,29.9
 2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,ni,code03,30.9
@@ -468,21 +468,21 @@ Year,Units,display,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,ni,code03,39.5
 2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,ni,code03,39.8
 2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,ni,code03,40.7
-2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,nw,code05,37.0
-2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,nw,code05,37.8
-2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,nw,code05,38.7
-2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,nw,code05,40.9
-2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,nw,code05,41.7
-2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,nw,code05,41.3
-2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,nw,code05,42.0
-2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,nw,code05,44.4
-2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,nw,code05,45.0
-2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,nw,code05,47.8
-2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,nw,code05,48.7
-2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,nw,code05,50.3
-2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,nw,code05,51.0
-2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,nw,code05,50.6
-2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,nw,code05,50.9
+2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,nw,code05,37.0
+2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,nw,code05,37.8
+2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,nw,code05,38.7
+2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,nw,code05,40.9
+2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,nw,code05,41.7
+2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,nw,code05,41.3
+2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,nw,code05,42.0
+2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,nw,code05,44.4
+2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,nw,code05,45.0
+2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,nw,code05,47.8
+2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,nw,code05,48.7
+2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,nw,code05,50.3
+2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,nw,code05,51.0
+2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,nw,code05,50.6
+2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,nw,code05,50.9
 2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,nw,code05,36.4
 2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,nw,code05,38.0
 2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,nw,code05,38.4
@@ -513,21 +513,21 @@ Year,Units,display,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,nw,code05,47.6
 2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,nw,code05,46.1
 2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,nw,code05,46.7
-2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,rp,code07,30.4
-2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,rp,code07,31.9
-2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,rp,code07,32.9
-2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,rp,code07,35.3
-2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,rp,code07,36.7
-2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,rp,code07,38.5
-2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,rp,code07,40.0
-2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,rp,code07,42.3
-2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,rp,code07,41.9
-2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,rp,code07,43.7
-2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,rp,code07,42.6
-2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,rp,code07,44.2
-2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,rp,code07,44.1
-2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,rp,code07,44.6
-2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,rp,code07,48.2
+2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,rp,code07,30.4
+2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,rp,code07,31.9
+2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,rp,code07,32.9
+2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,rp,code07,35.3
+2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,rp,code07,36.7
+2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,rp,code07,38.5
+2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,rp,code07,40.0
+2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,rp,code07,42.3
+2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,rp,code07,41.9
+2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,rp,code07,43.7
+2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,rp,code07,42.6
+2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,rp,code07,44.2
+2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,rp,code07,44.1
+2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,rp,code07,44.6
+2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,rp,code07,48.2
 2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,rp,code07,26.6
 2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,rp,code07,29.3
 2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,rp,code07,31.8
@@ -558,21 +558,21 @@ Year,Units,display,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,rp,code07,40.4
 2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,rp,code07,42.5
 2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,rp,code07,45.2
-2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sl,code10,32.7
-2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sl,code10,35.0
-2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sl,code10,32.4
-2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sl,code10,36.2
-2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sl,code10,37.2
-2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sl,code10,32.9
-2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sl,code10,34.8
-2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sl,code10,38.3
-2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sl,code10,35.7
-2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sl,code10,35.8
-2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sl,code10,40.2
-2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sl,code10,41.4
-2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sl,code10,39.8
-2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sl,code10,44.6
-2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sl,code10,47.7
+2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sl,code10,32.7
+2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sl,code10,35.0
+2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sl,code10,32.4
+2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sl,code10,36.2
+2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sl,code10,37.2
+2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sl,code10,32.9
+2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sl,code10,34.8
+2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sl,code10,38.3
+2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sl,code10,35.7
+2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sl,code10,35.8
+2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sl,code10,40.2
+2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sl,code10,41.4
+2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sl,code10,39.8
+2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sl,code10,44.6
+2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sl,code10,47.7
 2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,sl,code10,32.8
 2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,sl,code10,35.0
 2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,sl,code10,33.0
@@ -603,21 +603,21 @@ Year,Units,display,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,sl,code10,39.4
 2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,sl,code10,40.8
 2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,sl,code10,41.5
-2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sn,code14,37.9
-2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sn,code14,40.6
-2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sn,code14,44.3
-2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sn,code14,44.4
-2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sn,code14,46.0
-2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sn,code14,46.4
-2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sn,code14,44.0
-2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sn,code14,42.7
-2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sn,code14,45.8
-2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sn,code14,46.2
-2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sn,code14,48.3
-2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sn,code14,46.2
-2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sn,code14,48.0
-2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sn,code14,49.2
-2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sn,code14,50.7
+2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sn,code14,37.9
+2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sn,code14,40.6
+2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sn,code14,44.3
+2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sn,code14,44.4
+2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sn,code14,46.0
+2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sn,code14,46.4
+2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sn,code14,44.0
+2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sn,code14,42.7
+2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sn,code14,45.8
+2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sn,code14,46.2
+2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sn,code14,48.3
+2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sn,code14,46.2
+2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sn,code14,48.0
+2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sn,code14,49.2
+2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sn,code14,50.7
 2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,sn,code14,42.1
 2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,sn,code14,48.2
 2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,sn,code14,52.4
@@ -648,21 +648,21 @@ Year,Units,display,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,sn,code14,39.9
 2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,sn,code14,41.6
 2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,sn,code14,41.7
-2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,st,code15,27.9
-2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,st,code15,28.4
-2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,st,code15,27.0
-2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,st,code15,30.3
-2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,st,code15,32.3
-2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,st,code15,32.2
-2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,st,code15,31.4
-2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,st,code15,30.9
-2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,st,code15,30.6
-2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,st,code15,32.3
-2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,st,code15,34.2
-2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,st,code15,33.4
-2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,st,code15,35.8
-2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,st,code15,38.6
-2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,st,code15,36.6
+2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,st,code15,27.9
+2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,st,code15,28.4
+2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,st,code15,27.0
+2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,st,code15,30.3
+2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,st,code15,32.3
+2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,st,code15,32.2
+2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,st,code15,31.4
+2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,st,code15,30.9
+2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,st,code15,30.6
+2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,st,code15,32.3
+2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,st,code15,34.2
+2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,st,code15,33.4
+2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,st,code15,35.8
+2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,st,code15,38.6
+2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,st,code15,36.6
 2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,st,code15,31.2
 2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,st,code15,32.1
 2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,st,code15,34.2
@@ -693,21 +693,21 @@ Year,Units,display,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,st,code15,30.8
 2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,st,code15,32.8
 2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,st,code15,32.3
-2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sh,code01,32.5
-2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sh,code01,30.6
-2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sh,code01,31.8
-2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sh,code01,32.1
-2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sh,code01,34.6
-2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sh,code01,35.8
-2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sh,code01,40.4
-2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sh,code01,37.3
-2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sh,code01,38.2
-2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sh,code01,38.9
-2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sh,code01,39.7
-2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sh,code01,40.1
-2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sh,code01,42.4
-2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sh,code01,43.4
-2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,sh,code01,43.4
+2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sh,code01,32.5
+2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sh,code01,30.6
+2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sh,code01,31.8
+2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sh,code01,32.1
+2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sh,code01,34.6
+2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sh,code01,35.8
+2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sh,code01,40.4
+2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sh,code01,37.3
+2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sh,code01,38.2
+2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sh,code01,38.9
+2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sh,code01,39.7
+2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sh,code01,40.1
+2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sh,code01,42.4
+2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sh,code01,43.4
+2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,sh,code01,43.4
 2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,sh,code01,32.1
 2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,sh,code01,30.9
 2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,sh,code01,31.2
@@ -738,21 +738,21 @@ Year,Units,display,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,sh,code01,37.9
 2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,sh,code01,37.8
 2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,sh,code01,41.2
-2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,th,code16,31.2
-2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,th,code16,32.2
-2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,th,code16,36.5
-2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,th,code16,35.7
-2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,th,code16,35.4
-2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,th,code16,36.4
-2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,th,code16,37.2
-2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,th,code16,39.1
-2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,th,code16,39.8
-2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,th,code16,37.6
-2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,th,code16,36.9
-2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,th,code16,40.3
-2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,th,code16,40.7
-2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,th,code16,44.6
-2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male and female,th,code16,44.8
+2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,th,code16,31.2
+2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,th,code16,32.2
+2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,th,code16,36.5
+2008,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,th,code16,35.7
+2009,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,th,code16,35.4
+2010,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,th,code16,36.4
+2011,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,th,code16,37.2
+2012,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,th,code16,39.1
+2013,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,th,code16,39.8
+2014,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,th,code16,37.6
+2015,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,th,code16,36.9
+2016,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,th,code16,40.3
+2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,th,code16,40.7
+2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,th,code16,44.6
+2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,a) total,th,code16,44.8
 2005,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,th,code16,33.8
 2006,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,th,code16,35.1
 2007,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,female,th,code16,40.8
@@ -783,24 +783,24 @@ Year,Units,display,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,th,code16,32.9
 2018,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,th,code16,38.1
 2019,percentage (%),a) time series,tertiary or post-secondary non-tertiary education,male,th,code16,38.9
-1999,percentage (%),a) time series,tertiary education,male and female,a) germany (total),,24.8
-2000,percentage (%),a) time series,tertiary education,male and female,a) germany (total),,25.3
-2001,percentage (%),a) time series,tertiary education,male and female,a) germany (total),,25.1
-2002,percentage (%),a) time series,tertiary education,male and female,a) germany (total),,25.1
-2003,percentage (%),a) time series,tertiary education,male and female,a) germany (total),,25.0
-2004,percentage (%),a) time series,tertiary education,male and female,a) germany (total),,26.8
-2005,percentage (%),a) time series,tertiary education,male and female,a) germany (total),,26.1
-2006,percentage (%),a) time series,tertiary education,male and female,a) germany (total),,25.8
-2007,percentage (%),a) time series,tertiary education,male and female,a) germany (total),,26.5
-2008,percentage (%),a) time series,tertiary education,male and female,a) germany (total),,27.6
-2009,percentage (%),a) time series,tertiary education,male and female,a) germany (total),,29.4
-2010,percentage (%),a) time series,tertiary education,male and female,a) germany (total),,29.8
-2011,percentage (%),a) time series,tertiary education,male and female,a) germany (total),,30.7
-2012,percentage (%),a) time series,tertiary education,male and female,a) germany (total),,31.9
-2013,percentage (%),a) time series,tertiary education,male and female,a) germany (total),,33.1
-2014,percentage (%),a) time series,tertiary education,male and female,a) germany (total),,31.4
-2015,percentage (%),a) time series,tertiary education,male and female,a) germany (total),,32.3
-2016,percentage (%),a) time series,tertiary education,male and female,a) germany (total),,33.1
-2017,percentage (%),a) time series,tertiary education,male and female,a) germany (total),,34.0
-2018,percentage (%),a) time series,tertiary education,male and female,a) germany (total),,34.9
-2019,percentage (%),a) time series,tertiary education,male and female,a) germany (total),,35.5
+1999,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,24.8
+2000,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,25.3
+2001,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,25.1
+2002,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,25.1
+2003,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,25.0
+2004,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,26.8
+2005,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,26.1
+2006,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,25.8
+2007,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,26.5
+2008,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,27.6
+2009,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,29.4
+2010,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,29.8
+2011,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,30.7
+2012,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,31.9
+2013,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,33.1
+2014,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,31.4
+2015,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,32.3
+2016,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,33.1
+2017,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,34.0
+2018,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,34.9
+2019,percentage (%),a) time series,tertiary education,a) total,a) germany (total),,35.5
