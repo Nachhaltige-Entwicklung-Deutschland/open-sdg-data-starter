@@ -1,20 +1,20 @@
 Year,Units,display,title,Bundesland,GeoCode,Value
-2005,number,a) time series,employees in thousands,a) germany (total),,961.255
-2006,number,a) time series,employees in thousands,a) germany (total),,926.296
-2007,number,a) time series,employees in thousands,a) germany (total),,860.4910000000001
-2008,number,a) time series,employees in thousands,a) germany (total),,840.0060000000001
-2009,number,a) time series,employees in thousands,a) germany (total),,802.825
-2010,number,a) time series,employees in thousands,a) germany (total),,780.757
-2011,number,a) time series,employees in thousands,a) germany (total),,764.7360000000001
-2012,number,a) time series,employees in thousands,a) germany (total),,772.7739999999999
-2013,number,a) time series,employees in thousands,a) germany (total),,787.525
-2014,number,a) time series,employees in thousands,a) germany (total),,785.432
-2015,number,a) time series,employees in thousands,a) germany (total),,800.635
-2016,number,a) time series,employees in thousands,a) germany (total),,842.301
-2017,number,a) time series,employees in thousands,a) germany (total),,985.195
-2018,number,a) time series,employees in thousands,a) germany (total),,929.2410000000001
-2019,number,a) time series,employees in thousands,a) germany (total),,988.4010000000001
-2020,number,a) time series,employees in thousands,a) germany (total),,859.748
+2005,number,a) time series,employees in thousands,a) germany (total),,961.3
+2006,number,a) time series,employees in thousands,a) germany (total),,926.3
+2007,number,a) time series,employees in thousands,a) germany (total),,860.5
+2008,number,a) time series,employees in thousands,a) germany (total),,840.0
+2009,number,a) time series,employees in thousands,a) germany (total),,802.8
+2010,number,a) time series,employees in thousands,a) germany (total),,780.8
+2011,number,a) time series,employees in thousands,a) germany (total),,764.7
+2012,number,a) time series,employees in thousands,a) germany (total),,772.8
+2013,number,a) time series,employees in thousands,a) germany (total),,787.5
+2014,number,a) time series,employees in thousands,a) germany (total),,785.4
+2015,number,a) time series,employees in thousands,a) germany (total),,800.6
+2016,number,a) time series,employees in thousands,a) germany (total),,842.3
+2017,number,a) time series,employees in thousands,a) germany (total),,985.2
+2018,number,a) time series,employees in thousands,a) germany (total),,929.2
+2019,number,a) time series,employees in thousands,a) germany (total),,988.4
+2020,number,a) time series,employees in thousands,a) germany (total),,859.7
 2005,number,a) time series,emas organisational locations,a) germany (total),,1958.0
 2006,number,a) time series,emas organisational locations,a) germany (total),,1985.0
 2007,number,a) time series,emas organisational locations,a) germany (total),,1956.0
@@ -208,190 +208,275 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2018,number,a) time series,emas organisational locations,th,code16,81.0
 2019,number,a) time series,emas organisational locations,th,code16,87.0
 2020,number,a) time series,emas organisational locations,th,code16,85.0
-2010,number,a) time series,emas organisations,a) germany (total),,1491.0
-2011,number,a) time series,emas organisations,a) germany (total),,1490.0
-2012,number,a) time series,emas organisations,a) germany (total),,1466.0
-2013,number,a) time series,emas organisations,a) germany (total),,1408.0
-2014,number,a) time series,emas organisations,a) germany (total),,1354.0
-2015,number,a) time series,emas organisations,a) germany (total),,1332.0
-2016,number,a) time series,emas organisations,a) germany (total),,1269.0
-2017,number,a) time series,emas organisations,a) germany (total),,1212.0
-2018,number,a) time series,emas organisations,a) germany (total),,1228.0
-2019,number,a) time series,emas organisations,a) germany (total),,1223.0
-2020,number,a) time series,emas organisations,a) germany (total),,1216.0
-2010,number,a) time series,emas organisations,bw,code08,313.0
-2011,number,a) time series,emas organisations,bw,code08,358.0
-2012,number,a) time series,emas organisations,bw,code08,353.0
-2013,number,a) time series,emas organisations,bw,code08,363.0
-2014,number,a) time series,emas organisations,bw,code08,366.0
-2015,number,a) time series,emas organisations,bw,code08,403.0
+2005,number,a) time series,emas organisations,a) germany (total),,1491.0
+2006,number,a) time series,emas organisations,a) germany (total),,1490.0
+2007,number,a) time series,emas organisations,a) germany (total),,1466.0
+2008,number,a) time series,emas organisations,a) germany (total),,1408.0
+2009,number,a) time series,emas organisations,a) germany (total),,1354.0
+2010,number,a) time series,emas organisations,a) germany (total),,1332.0
+2011,number,a) time series,emas organisations,a) germany (total),,1269.0
+2012,number,a) time series,emas organisations,a) germany (total),,1212.0
+2013,number,a) time series,emas organisations,a) germany (total),,1228.0
+2014,number,a) time series,emas organisations,a) germany (total),,1223.0
+2015,number,a) time series,emas organisations,a) germany (total),,1216.0
+2016,number,a) time series,emas organisations,a) germany (total),,1225.0
+2017,number,a) time series,emas organisations,a) germany (total),,1240.0
+2018,number,a) time series,emas organisations,a) germany (total),,1183.0
+2019,number,a) time series,emas organisations,a) germany (total),,1150.0
+2020,number,a) time series,emas organisations,a) germany (total),,1113.0
+2005,number,a) time series,emas organisations,bw,code08,313.0
+2006,number,a) time series,emas organisations,bw,code08,358.0
+2007,number,a) time series,emas organisations,bw,code08,353.0
+2008,number,a) time series,emas organisations,bw,code08,363.0
+2009,number,a) time series,emas organisations,bw,code08,366.0
+2010,number,a) time series,emas organisations,bw,code08,403.0
+2011,number,a) time series,emas organisations,bw,code08,408.0
+2012,number,a) time series,emas organisations,bw,code08,410.0
+2013,number,a) time series,emas organisations,bw,code08,420.0
+2014,number,a) time series,emas organisations,bw,code08,415.0
+2015,number,a) time series,emas organisations,bw,code08,422.0
 2016,number,a) time series,emas organisations,bw,code08,408.0
-2017,number,a) time series,emas organisations,bw,code08,410.0
-2018,number,a) time series,emas organisations,bw,code08,420.0
-2019,number,a) time series,emas organisations,bw,code08,415.0
-2020,number,a) time series,emas organisations,bw,code08,422.0
-2010,number,a) time series,emas organisations,by,code09,320.0
-2011,number,a) time series,emas organisations,by,code09,302.0
-2012,number,a) time series,emas organisations,by,code09,298.0
-2013,number,a) time series,emas organisations,by,code09,287.0
-2014,number,a) time series,emas organisations,by,code09,282.0
-2015,number,a) time series,emas organisations,by,code09,275.0
-2016,number,a) time series,emas organisations,by,code09,250.0
-2017,number,a) time series,emas organisations,by,code09,247.0
-2018,number,a) time series,emas organisations,by,code09,244.0
-2019,number,a) time series,emas organisations,by,code09,257.0
-2020,number,a) time series,emas organisations,by,code09,269.0
-2010,number,a) time series,emas organisations,be,code11,56.0
-2011,number,a) time series,emas organisations,be,code11,55.0
-2012,number,a) time series,emas organisations,be,code11,57.0
-2013,number,a) time series,emas organisations,be,code11,51.0
-2014,number,a) time series,emas organisations,be,code11,43.0
-2015,number,a) time series,emas organisations,be,code11,39.0
-2016,number,a) time series,emas organisations,be,code11,39.0
-2017,number,a) time series,emas organisations,be,code11,34.0
-2018,number,a) time series,emas organisations,be,code11,41.0
-2019,number,a) time series,emas organisations,be,code11,35.0
-2020,number,a) time series,emas organisations,be,code11,26.0
-2010,number,a) time series,emas organisations,bb,code12,42.0
-2011,number,a) time series,emas organisations,bb,code12,38.0
-2012,number,a) time series,emas organisations,bb,code12,34.0
-2013,number,a) time series,emas organisations,bb,code12,33.0
-2014,number,a) time series,emas organisations,bb,code12,34.0
-2015,number,a) time series,emas organisations,bb,code12,38.0
+2017,number,a) time series,emas organisations,bw,code08,396.0
+2018,number,a) time series,emas organisations,bw,code08,371.0
+2019,number,a) time series,emas organisations,bw,code08,347.0
+2020,number,a) time series,emas organisations,bw,code08,339.0
+2005,number,a) time series,emas organisations,by,code09,320.0
+2006,number,a) time series,emas organisations,by,code09,302.0
+2007,number,a) time series,emas organisations,by,code09,298.0
+2008,number,a) time series,emas organisations,by,code09,287.0
+2009,number,a) time series,emas organisations,by,code09,282.0
+2010,number,a) time series,emas organisations,by,code09,275.0
+2011,number,a) time series,emas organisations,by,code09,250.0
+2012,number,a) time series,emas organisations,by,code09,247.0
+2013,number,a) time series,emas organisations,by,code09,244.0
+2014,number,a) time series,emas organisations,by,code09,257.0
+2015,number,a) time series,emas organisations,by,code09,269.0
+2016,number,a) time series,emas organisations,by,code09,274.0
+2017,number,a) time series,emas organisations,by,code09,288.0
+2018,number,a) time series,emas organisations,by,code09,283.0
+2019,number,a) time series,emas organisations,by,code09,288.0
+2020,number,a) time series,emas organisations,by,code09,287.0
+2005,number,a) time series,emas organisations,be,code11,56.0
+2006,number,a) time series,emas organisations,be,code11,55.0
+2007,number,a) time series,emas organisations,be,code11,57.0
+2008,number,a) time series,emas organisations,be,code11,51.0
+2009,number,a) time series,emas organisations,be,code11,43.0
+2010,number,a) time series,emas organisations,be,code11,39.0
+2011,number,a) time series,emas organisations,be,code11,39.0
+2012,number,a) time series,emas organisations,be,code11,34.0
+2013,number,a) time series,emas organisations,be,code11,41.0
+2014,number,a) time series,emas organisations,be,code11,35.0
+2015,number,a) time series,emas organisations,be,code11,26.0
+2016,number,a) time series,emas organisations,be,code11,30.0
+2017,number,a) time series,emas organisations,be,code11,32.0
+2018,number,a) time series,emas organisations,be,code11,30.0
+2019,number,a) time series,emas organisations,be,code11,30.0
+2020,number,a) time series,emas organisations,be,code11,28.0
+2005,number,a) time series,emas organisations,bb,code12,42.0
+2006,number,a) time series,emas organisations,bb,code12,38.0
+2007,number,a) time series,emas organisations,bb,code12,34.0
+2008,number,a) time series,emas organisations,bb,code12,33.0
+2009,number,a) time series,emas organisations,bb,code12,34.0
+2010,number,a) time series,emas organisations,bb,code12,38.0
+2011,number,a) time series,emas organisations,bb,code12,30.0
+2012,number,a) time series,emas organisations,bb,code12,26.0
+2013,number,a) time series,emas organisations,bb,code12,30.0
+2014,number,a) time series,emas organisations,bb,code12,29.0
+2015,number,a) time series,emas organisations,bb,code12,27.0
 2016,number,a) time series,emas organisations,bb,code12,30.0
-2017,number,a) time series,emas organisations,bb,code12,26.0
-2018,number,a) time series,emas organisations,bb,code12,30.0
-2019,number,a) time series,emas organisations,bb,code12,29.0
-2020,number,a) time series,emas organisations,bb,code12,27.0
-2010,number,a) time series,emas organisations,hb,code04,20.0
+2017,number,a) time series,emas organisations,bb,code12,36.0
+2018,number,a) time series,emas organisations,bb,code12,37.0
+2019,number,a) time series,emas organisations,bb,code12,35.0
+2020,number,a) time series,emas organisations,bb,code12,34.0
+2005,number,a) time series,emas organisations,hb,code04,20.0
+2006,number,a) time series,emas organisations,hb,code04,20.0
+2007,number,a) time series,emas organisations,hb,code04,19.0
+2008,number,a) time series,emas organisations,hb,code04,24.0
+2009,number,a) time series,emas organisations,hb,code04,24.0
+2010,number,a) time series,emas organisations,hb,code04,21.0
 2011,number,a) time series,emas organisations,hb,code04,20.0
-2012,number,a) time series,emas organisations,hb,code04,19.0
-2013,number,a) time series,emas organisations,hb,code04,24.0
-2014,number,a) time series,emas organisations,hb,code04,24.0
-2015,number,a) time series,emas organisations,hb,code04,21.0
-2016,number,a) time series,emas organisations,hb,code04,20.0
-2017,number,a) time series,emas organisations,hb,code04,17.0
-2018,number,a) time series,emas organisations,hb,code04,16.0
-2019,number,a) time series,emas organisations,hb,code04,14.0
-2020,number,a) time series,emas organisations,hb,code04,12.0
-2010,number,a) time series,emas organisations,hh,code02,20.0
-2011,number,a) time series,emas organisations,hh,code02,20.0
-2012,number,a) time series,emas organisations,hh,code02,21.0
-2013,number,a) time series,emas organisations,hh,code02,14.0
-2014,number,a) time series,emas organisations,hh,code02,13.0
-2015,number,a) time series,emas organisations,hh,code02,12.0
-2016,number,a) time series,emas organisations,hh,code02,12.0
-2017,number,a) time series,emas organisations,hh,code02,10.0
-2018,number,a) time series,emas organisations,hh,code02,9.0
-2019,number,a) time series,emas organisations,hh,code02,11.0
-2020,number,a) time series,emas organisations,hh,code02,11.0
-2010,number,a) time series,emas organisations,he,code06,103.0
-2011,number,a) time series,emas organisations,he,code06,102.0
-2012,number,a) time series,emas organisations,he,code06,98.0
-2013,number,a) time series,emas organisations,he,code06,69.0
-2014,number,a) time series,emas organisations,he,code06,67.0
-2015,number,a) time series,emas organisations,he,code06,73.0
-2016,number,a) time series,emas organisations,he,code06,74.0
-2017,number,a) time series,emas organisations,he,code06,72.0
-2018,number,a) time series,emas organisations,he,code06,70.0
-2019,number,a) time series,emas organisations,he,code06,73.0
-2020,number,a) time series,emas organisations,he,code06,76.0
-2010,number,a) time series,emas organisations,mv,code13,24.0
-2011,number,a) time series,emas organisations,mv,code13,25.0
-2012,number,a) time series,emas organisations,mv,code13,24.0
-2013,number,a) time series,emas organisations,mv,code13,23.0
-2014,number,a) time series,emas organisations,mv,code13,16.0
-2015,number,a) time series,emas organisations,mv,code13,8.0
-2016,number,a) time series,emas organisations,mv,code13,8.0
-2017,number,a) time series,emas organisations,mv,code13,6.0
-2018,number,a) time series,emas organisations,mv,code13,6.0
-2019,number,a) time series,emas organisations,mv,code13,6.0
-2020,number,a) time series,emas organisations,mv,code13,5.0
-2010,number,a) time series,emas organisations,ni,code03,56.0
-2011,number,a) time series,emas organisations,ni,code03,58.0
-2012,number,a) time series,emas organisations,ni,code03,61.0
-2013,number,a) time series,emas organisations,ni,code03,61.0
-2014,number,a) time series,emas organisations,ni,code03,67.0
-2015,number,a) time series,emas organisations,ni,code03,72.0
-2016,number,a) time series,emas organisations,ni,code03,76.0
-2017,number,a) time series,emas organisations,ni,code03,62.0
-2018,number,a) time series,emas organisations,ni,code03,64.0
-2019,number,a) time series,emas organisations,ni,code03,60.0
-2020,number,a) time series,emas organisations,ni,code03,56.0
-2010,number,a) time series,emas organisations,nw,code05,164.0
-2011,number,a) time series,emas organisations,nw,code05,156.0
-2012,number,a) time series,emas organisations,nw,code05,168.0
-2013,number,a) time series,emas organisations,nw,code05,164.0
-2014,number,a) time series,emas organisations,nw,code05,157.0
-2015,number,a) time series,emas organisations,nw,code05,140.0
-2016,number,a) time series,emas organisations,nw,code05,131.0
-2017,number,a) time series,emas organisations,nw,code05,121.0
-2018,number,a) time series,emas organisations,nw,code05,118.0
-2019,number,a) time series,emas organisations,nw,code05,113.0
-2020,number,a) time series,emas organisations,nw,code05,114.0
-2010,number,a) time series,emas organisations,rp,code07,53.0
-2011,number,a) time series,emas organisations,rp,code07,49.0
-2012,number,a) time series,emas organisations,rp,code07,49.0
-2013,number,a) time series,emas organisations,rp,code07,44.0
-2014,number,a) time series,emas organisations,rp,code07,46.0
-2015,number,a) time series,emas organisations,rp,code07,44.0
-2016,number,a) time series,emas organisations,rp,code07,37.0
-2017,number,a) time series,emas organisations,rp,code07,35.0
-2018,number,a) time series,emas organisations,rp,code07,36.0
-2019,number,a) time series,emas organisations,rp,code07,37.0
-2020,number,a) time series,emas organisations,rp,code07,31.0
+2012,number,a) time series,emas organisations,hb,code04,17.0
+2013,number,a) time series,emas organisations,hb,code04,16.0
+2014,number,a) time series,emas organisations,hb,code04,14.0
+2015,number,a) time series,emas organisations,hb,code04,12.0
+2016,number,a) time series,emas organisations,hb,code04,11.0
+2017,number,a) time series,emas organisations,hb,code04,12.0
+2018,number,a) time series,emas organisations,hb,code04,11.0
+2019,number,a) time series,emas organisations,hb,code04,11.0
+2020,number,a) time series,emas organisations,hb,code04,10.0
+2005,number,a) time series,emas organisations,hh,code02,20.0
+2006,number,a) time series,emas organisations,hh,code02,20.0
+2007,number,a) time series,emas organisations,hh,code02,21.0
+2008,number,a) time series,emas organisations,hh,code02,14.0
+2009,number,a) time series,emas organisations,hh,code02,13.0
+2010,number,a) time series,emas organisations,hh,code02,12.0
+2011,number,a) time series,emas organisations,hh,code02,12.0
+2012,number,a) time series,emas organisations,hh,code02,10.0
+2013,number,a) time series,emas organisations,hh,code02,9.0
+2014,number,a) time series,emas organisations,hh,code02,11.0
+2015,number,a) time series,emas organisations,hh,code02,11.0
+2016,number,a) time series,emas organisations,hh,code02,10.0
+2017,number,a) time series,emas organisations,hh,code02,12.0
+2018,number,a) time series,emas organisations,hh,code02,14.0
+2019,number,a) time series,emas organisations,hh,code02,14.0
+2020,number,a) time series,emas organisations,hh,code02,14.0
+2005,number,a) time series,emas organisations,he,code06,103.0
+2006,number,a) time series,emas organisations,he,code06,102.0
+2007,number,a) time series,emas organisations,he,code06,98.0
+2008,number,a) time series,emas organisations,he,code06,69.0
+2009,number,a) time series,emas organisations,he,code06,67.0
+2010,number,a) time series,emas organisations,he,code06,73.0
+2011,number,a) time series,emas organisations,he,code06,74.0
+2012,number,a) time series,emas organisations,he,code06,72.0
+2013,number,a) time series,emas organisations,he,code06,70.0
+2014,number,a) time series,emas organisations,he,code06,73.0
+2015,number,a) time series,emas organisations,he,code06,76.0
+2016,number,a) time series,emas organisations,he,code06,80.0
+2017,number,a) time series,emas organisations,he,code06,78.0
+2018,number,a) time series,emas organisations,he,code06,71.0
+2019,number,a) time series,emas organisations,he,code06,63.0
+2020,number,a) time series,emas organisations,he,code06,63.0
+2005,number,a) time series,emas organisations,mv,code13,24.0
+2006,number,a) time series,emas organisations,mv,code13,25.0
+2007,number,a) time series,emas organisations,mv,code13,24.0
+2008,number,a) time series,emas organisations,mv,code13,23.0
+2009,number,a) time series,emas organisations,mv,code13,16.0
+2010,number,a) time series,emas organisations,mv,code13,8.0
+2011,number,a) time series,emas organisations,mv,code13,8.0
+2012,number,a) time series,emas organisations,mv,code13,6.0
+2013,number,a) time series,emas organisations,mv,code13,6.0
+2014,number,a) time series,emas organisations,mv,code13,6.0
+2015,number,a) time series,emas organisations,mv,code13,5.0
+2016,number,a) time series,emas organisations,mv,code13,6.0
+2017,number,a) time series,emas organisations,mv,code13,5.0
+2018,number,a) time series,emas organisations,mv,code13,4.0
+2019,number,a) time series,emas organisations,mv,code13,2.0
+2020,number,a) time series,emas organisations,mv,code13,2.0
+2005,number,a) time series,emas organisations,ni,code03,56.0
+2006,number,a) time series,emas organisations,ni,code03,58.0
+2007,number,a) time series,emas organisations,ni,code03,61.0
+2008,number,a) time series,emas organisations,ni,code03,61.0
+2009,number,a) time series,emas organisations,ni,code03,67.0
+2010,number,a) time series,emas organisations,ni,code03,72.0
+2011,number,a) time series,emas organisations,ni,code03,76.0
+2012,number,a) time series,emas organisations,ni,code03,62.0
+2013,number,a) time series,emas organisations,ni,code03,64.0
+2014,number,a) time series,emas organisations,ni,code03,60.0
+2015,number,a) time series,emas organisations,ni,code03,56.0
+2016,number,a) time series,emas organisations,ni,code03,55.0
+2017,number,a) time series,emas organisations,ni,code03,59.0
+2018,number,a) time series,emas organisations,ni,code03,55.0
+2019,number,a) time series,emas organisations,ni,code03,54.0
+2020,number,a) time series,emas organisations,ni,code03,51.0
+2005,number,a) time series,emas organisations,nw,code05,164.0
+2006,number,a) time series,emas organisations,nw,code05,156.0
+2007,number,a) time series,emas organisations,nw,code05,168.0
+2008,number,a) time series,emas organisations,nw,code05,164.0
+2009,number,a) time series,emas organisations,nw,code05,157.0
+2010,number,a) time series,emas organisations,nw,code05,140.0
+2011,number,a) time series,emas organisations,nw,code05,131.0
+2012,number,a) time series,emas organisations,nw,code05,121.0
+2013,number,a) time series,emas organisations,nw,code05,118.0
+2014,number,a) time series,emas organisations,nw,code05,113.0
+2015,number,a) time series,emas organisations,nw,code05,114.0
+2016,number,a) time series,emas organisations,nw,code05,117.0
+2017,number,a) time series,emas organisations,nw,code05,115.0
+2018,number,a) time series,emas organisations,nw,code05,111.0
+2019,number,a) time series,emas organisations,nw,code05,105.0
+2020,number,a) time series,emas organisations,nw,code05,100.0
+2005,number,a) time series,emas organisations,rp,code07,53.0
+2006,number,a) time series,emas organisations,rp,code07,49.0
+2007,number,a) time series,emas organisations,rp,code07,49.0
+2008,number,a) time series,emas organisations,rp,code07,44.0
+2009,number,a) time series,emas organisations,rp,code07,46.0
+2010,number,a) time series,emas organisations,rp,code07,44.0
+2011,number,a) time series,emas organisations,rp,code07,37.0
+2012,number,a) time series,emas organisations,rp,code07,35.0
+2013,number,a) time series,emas organisations,rp,code07,36.0
+2014,number,a) time series,emas organisations,rp,code07,37.0
+2015,number,a) time series,emas organisations,rp,code07,31.0
+2016,number,a) time series,emas organisations,rp,code07,33.0
+2017,number,a) time series,emas organisations,rp,code07,33.0
+2018,number,a) time series,emas organisations,rp,code07,34.0
+2019,number,a) time series,emas organisations,rp,code07,34.0
+2020,number,a) time series,emas organisations,rp,code07,24.0
+2005,number,a) time series,emas organisations,sl,code10,49.0
+2006,number,a) time series,emas organisations,sl,code10,47.0
+2007,number,a) time series,emas organisations,sl,code10,50.0
+2008,number,a) time series,emas organisations,sl,code10,52.0
+2009,number,a) time series,emas organisations,sl,code10,51.0
 2010,number,a) time series,emas organisations,sl,code10,49.0
-2011,number,a) time series,emas organisations,sl,code10,47.0
-2012,number,a) time series,emas organisations,sl,code10,50.0
-2013,number,a) time series,emas organisations,sl,code10,52.0
+2011,number,a) time series,emas organisations,sl,code10,44.0
+2012,number,a) time series,emas organisations,sl,code10,43.0
+2013,number,a) time series,emas organisations,sl,code10,44.0
 2014,number,a) time series,emas organisations,sl,code10,51.0
-2015,number,a) time series,emas organisations,sl,code10,49.0
-2016,number,a) time series,emas organisations,sl,code10,44.0
-2017,number,a) time series,emas organisations,sl,code10,43.0
-2018,number,a) time series,emas organisations,sl,code10,44.0
-2019,number,a) time series,emas organisations,sl,code10,51.0
-2020,number,a) time series,emas organisations,sl,code10,50.0
-2010,number,a) time series,emas organisations,sn,code14,53.0
-2011,number,a) time series,emas organisations,sn,code14,47.0
-2012,number,a) time series,emas organisations,sn,code14,46.0
-2013,number,a) time series,emas organisations,sn,code14,42.0
-2014,number,a) time series,emas organisations,sn,code14,40.0
-2015,number,a) time series,emas organisations,sn,code14,36.0
-2016,number,a) time series,emas organisations,sn,code14,35.0
-2017,number,a) time series,emas organisations,sn,code14,35.0
-2018,number,a) time series,emas organisations,sn,code14,33.0
-2019,number,a) time series,emas organisations,sn,code14,33.0
-2020,number,a) time series,emas organisations,sn,code14,32.0
-2010,number,a) time series,emas organisations,st,code15,34.0
-2011,number,a) time series,emas organisations,st,code15,34.0
-2012,number,a) time series,emas organisations,st,code15,37.0
-2013,number,a) time series,emas organisations,st,code15,38.0
-2014,number,a) time series,emas organisations,st,code15,35.0
-2015,number,a) time series,emas organisations,st,code15,35.0
-2016,number,a) time series,emas organisations,st,code15,28.0
-2017,number,a) time series,emas organisations,st,code15,28.0
-2018,number,a) time series,emas organisations,st,code15,28.0
-2019,number,a) time series,emas organisations,st,code15,24.0
+2015,number,a) time series,emas organisations,sl,code10,50.0
+2016,number,a) time series,emas organisations,sl,code10,51.0
+2017,number,a) time series,emas organisations,sl,code10,53.0
+2018,number,a) time series,emas organisations,sl,code10,48.0
+2019,number,a) time series,emas organisations,sl,code10,49.0
+2020,number,a) time series,emas organisations,sl,code10,49.0
+2005,number,a) time series,emas organisations,sn,code14,53.0
+2006,number,a) time series,emas organisations,sn,code14,47.0
+2007,number,a) time series,emas organisations,sn,code14,46.0
+2008,number,a) time series,emas organisations,sn,code14,42.0
+2009,number,a) time series,emas organisations,sn,code14,40.0
+2010,number,a) time series,emas organisations,sn,code14,36.0
+2011,number,a) time series,emas organisations,sn,code14,35.0
+2012,number,a) time series,emas organisations,sn,code14,35.0
+2013,number,a) time series,emas organisations,sn,code14,33.0
+2014,number,a) time series,emas organisations,sn,code14,33.0
+2015,number,a) time series,emas organisations,sn,code14,32.0
+2016,number,a) time series,emas organisations,sn,code14,32.0
+2017,number,a) time series,emas organisations,sn,code14,33.0
+2018,number,a) time series,emas organisations,sn,code14,30.0
+2019,number,a) time series,emas organisations,sn,code14,29.0
+2020,number,a) time series,emas organisations,sn,code14,25.0
+2005,number,a) time series,emas organisations,st,code15,34.0
+2006,number,a) time series,emas organisations,st,code15,34.0
+2007,number,a) time series,emas organisations,st,code15,37.0
+2008,number,a) time series,emas organisations,st,code15,38.0
+2009,number,a) time series,emas organisations,st,code15,35.0
+2010,number,a) time series,emas organisations,st,code15,35.0
+2011,number,a) time series,emas organisations,st,code15,28.0
+2012,number,a) time series,emas organisations,st,code15,28.0
+2013,number,a) time series,emas organisations,st,code15,28.0
+2014,number,a) time series,emas organisations,st,code15,24.0
+2015,number,a) time series,emas organisations,st,code15,21.0
+2016,number,a) time series,emas organisations,st,code15,21.0
+2017,number,a) time series,emas organisations,st,code15,22.0
+2018,number,a) time series,emas organisations,st,code15,22.0
+2019,number,a) time series,emas organisations,st,code15,23.0
 2020,number,a) time series,emas organisations,st,code15,21.0
-2010,number,a) time series,emas organisations,sh,code01,72.0
-2011,number,a) time series,emas organisations,sh,code01,72.0
-2012,number,a) time series,emas organisations,sh,code01,66.0
-2013,number,a) time series,emas organisations,sh,code01,59.0
-2014,number,a) time series,emas organisations,sh,code01,50.0
-2015,number,a) time series,emas organisations,sh,code01,36.0
-2016,number,a) time series,emas organisations,sh,code01,34.0
-2017,number,a) time series,emas organisations,sh,code01,26.0
-2018,number,a) time series,emas organisations,sh,code01,26.0
-2019,number,a) time series,emas organisations,sh,code01,22.0
-2020,number,a) time series,emas organisations,sh,code01,17.0
-2010,number,a) time series,emas organisations,th,code16,112.0
-2011,number,a) time series,emas organisations,th,code16,107.0
-2012,number,a) time series,emas organisations,th,code16,85.0
-2013,number,a) time series,emas organisations,th,code16,84.0
-2014,number,a) time series,emas organisations,th,code16,63.0
-2015,number,a) time series,emas organisations,th,code16,51.0
-2016,number,a) time series,emas organisations,th,code16,43.0
-2017,number,a) time series,emas organisations,th,code16,40.0
-2018,number,a) time series,emas organisations,th,code16,43.0
-2019,number,a) time series,emas organisations,th,code16,43.0
-2020,number,a) time series,emas organisations,th,code16,47.0
+2005,number,a) time series,emas organisations,sh,code01,72.0
+2006,number,a) time series,emas organisations,sh,code01,72.0
+2007,number,a) time series,emas organisations,sh,code01,66.0
+2008,number,a) time series,emas organisations,sh,code01,59.0
+2009,number,a) time series,emas organisations,sh,code01,50.0
+2010,number,a) time series,emas organisations,sh,code01,36.0
+2011,number,a) time series,emas organisations,sh,code01,34.0
+2012,number,a) time series,emas organisations,sh,code01,26.0
+2013,number,a) time series,emas organisations,sh,code01,26.0
+2014,number,a) time series,emas organisations,sh,code01,22.0
+2015,number,a) time series,emas organisations,sh,code01,17.0
+2016,number,a) time series,emas organisations,sh,code01,18.0
+2017,number,a) time series,emas organisations,sh,code01,18.0
+2018,number,a) time series,emas organisations,sh,code01,15.0
+2019,number,a) time series,emas organisations,sh,code01,15.0
+2020,number,a) time series,emas organisations,sh,code01,16.0
+2005,number,a) time series,emas organisations,th,code16,112.0
+2006,number,a) time series,emas organisations,th,code16,107.0
+2007,number,a) time series,emas organisations,th,code16,85.0
+2008,number,a) time series,emas organisations,th,code16,84.0
+2009,number,a) time series,emas organisations,th,code16,63.0
+2010,number,a) time series,emas organisations,th,code16,51.0
+2011,number,a) time series,emas organisations,th,code16,43.0
+2012,number,a) time series,emas organisations,th,code16,40.0
+2013,number,a) time series,emas organisations,th,code16,43.0
+2014,number,a) time series,emas organisations,th,code16,43.0
+2015,number,a) time series,emas organisations,th,code16,47.0
+2016,number,a) time series,emas organisations,th,code16,49.0
+2017,number,a) time series,emas organisations,th,code16,48.0
+2018,number,a) time series,emas organisations,th,code16,47.0
+2019,number,a) time series,emas organisations,th,code16,51.0
+2020,number,a) time series,emas organisations,th,code16,50.0
