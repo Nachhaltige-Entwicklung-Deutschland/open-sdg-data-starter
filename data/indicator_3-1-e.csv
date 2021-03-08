@@ -11,6 +11,12 @@ Year,Units,dimension,sex,age,Value
 2014-2017,percentage (%),b) obese,female,a) 3- to 10-year-olds,3.90
 2003-2006,percentage (%),b) obese,male,a) 3- to 10-year-olds,5.20
 2014-2017,percentage (%),b) obese,male,a) 3- to 10-year-olds,3.90
+2003-2006,percentage (%),c) total,,a) 3- to 10-year-olds,12.90
+2014-2017,percentage (%),c) total,,a) 3- to 10-year-olds,12.30
+2003-2006,percentage (%),c) total,female,a) 3- to 10-year-olds,12.80
+2014-2017,percentage (%),c) total,female,a) 3- to 10-year-olds,12.90
+2003-2006,percentage (%),c) total,male,a) 3- to 10-year-olds,13.10
+2014-2017,percentage (%),c) total,male,a) 3- to 10-year-olds,11.70
 2003-2006,percentage (%),a) overweight,,b) 11- to 17-year-olds,9.80
 2014-2017,percentage (%),a) overweight,,b) 11- to 17-year-olds,10.70
 2003-2006,percentage (%),a) overweight,female,b) 11- to 17-year-olds,9.70
@@ -23,3 +29,9 @@ Year,Units,dimension,sex,age,Value
 2014-2017,percentage (%),b) obese,female,b) 11- to 17-year-olds,7.20
 2003-2006,percentage (%),b) obese,male,b) 11- to 17-year-olds,8.40
 2014-2017,percentage (%),b) obese,male,b) 11- to 17-year-olds,8.70
+2003-2006,percentage (%),c) total,,b) 11- to 17-year-olds,18.10
+2014-2017,percentage (%),c) total,,b) 11- to 17-year-olds,18.70
+2003-2006,percentage (%),c) total,female,b) 11- to 17-year-olds,17.90
+2014-2017,percentage (%),c) total,female,b) 11- to 17-year-olds,17.80
+2003-2006,percentage (%),c) total,male,b) 11- to 17-year-olds,18.40
+2014-2017,percentage (%),c) total,male,b) 11- to 17-year-olds,19.60
