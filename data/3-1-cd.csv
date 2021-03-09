@@ -1,4 +1,6 @@
 Year,Units,display,age,Bundesland,GeoCode,Value
+1995,percentage (%),a) time series,adolescents (12 to 17 years),a) germany (total),,
+1996,percentage (%),a) time series,adolescents (12 to 17 years),a) germany (total),,
 1997,percentage (%),a) time series,adolescents (12 to 17 years),a) germany (total),,28.1
 1998,percentage (%),a) time series,adolescents (12 to 17 years),a) germany (total),,
 1999,percentage (%),a) time series,adolescents (12 to 17 years),a) germany (total),,
@@ -22,6 +24,32 @@ Year,Units,display,age,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,adolescents (12 to 17 years),a) germany (total),,
 2018,percentage (%),a) time series,adolescents (12 to 17 years),a) germany (total),,6.6
 2019,percentage (%),a) time series,adolescents (12 to 17 years),a) germany (total),,5.6
+1995,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+1996,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+1997,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+1998,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+1999,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+2000,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+2000,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+2001,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+2002,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+2003,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+2004,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+2005,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+2006,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+2007,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+2008,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+2009,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+2010,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+2011,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+2012,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+2013,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+2014,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+2015,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+2016,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+2017,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+2018,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
+2019,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,
 2030,percentage (%),b) target (max),adolescents (12 to 17 years),a) germany (total),,7.0
 1995,percentage (%),a) time series,adults (15 years and older),a) germany (total),,28.28
 1996,percentage (%),a) time series,adults (15 years and older),a) germany (total),,
@@ -46,116 +74,446 @@ Year,Units,display,age,Bundesland,GeoCode,Value
 2015,percentage (%),a) time series,adults (15 years and older),a) germany (total),,
 2016,percentage (%),a) time series,adults (15 years and older),a) germany (total),,
 2017,percentage (%),a) time series,adults (15 years and older),a) germany (total),,22.0
+2018,percentage (%),a) time series,adults (15 years and older),a) germany (total),,
+2019,percentage (%),a) time series,adults (15 years and older),a) germany (total),,
+1995,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+1996,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+1997,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+1998,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+1999,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+2000,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+2000,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+2001,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+2002,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+2003,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+2004,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+2005,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+2006,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+2007,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+2008,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+2009,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+2010,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+2011,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+2012,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+2013,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+2014,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+2015,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+2016,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+2017,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+2018,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
+2019,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,
 2030,percentage (%),b) target (max),adults (15 years and older),a) germany (total),,19.0
 1995,percentage (%),a) time series,adults (15 years and older),bw,code08,24.38
+1996,percentage (%),a) time series,adults (15 years and older),bw,code08,
+1997,percentage (%),a) time series,adults (15 years and older),bw,code08,
+1998,percentage (%),a) time series,adults (15 years and older),bw,code08,
 1999,percentage (%),a) time series,adults (15 years and older),bw,code08,26.13
+2000,percentage (%),a) time series,adults (15 years and older),bw,code08,
+2001,percentage (%),a) time series,adults (15 years and older),bw,code08,
+2002,percentage (%),a) time series,adults (15 years and older),bw,code08,
 2003,percentage (%),a) time series,adults (15 years and older),bw,code08,25.53
+2004,percentage (%),a) time series,adults (15 years and older),bw,code08,
 2005,percentage (%),a) time series,adults (15 years and older),bw,code08,24.5
+2006,percentage (%),a) time series,adults (15 years and older),bw,code08,
+2007,percentage (%),a) time series,adults (15 years and older),bw,code08,
+2008,percentage (%),a) time series,adults (15 years and older),bw,code08,
 2009,percentage (%),a) time series,adults (15 years and older),bw,code08,22.8
+2010,percentage (%),a) time series,adults (15 years and older),bw,code08,
+2011,percentage (%),a) time series,adults (15 years and older),bw,code08,
+2012,percentage (%),a) time series,adults (15 years and older),bw,code08,
 2013,percentage (%),a) time series,adults (15 years and older),bw,code08,22.21
+2014,percentage (%),a) time series,adults (15 years and older),bw,code08,
+2015,percentage (%),a) time series,adults (15 years and older),bw,code08,
+2016,percentage (%),a) time series,adults (15 years and older),bw,code08,
 2017,percentage (%),a) time series,adults (15 years and older),bw,code08,21.23
+2018,percentage (%),a) time series,adults (15 years and older),bw,code08,
+2019,percentage (%),a) time series,adults (15 years and older),bw,code08,
+2030,percentage (%),a) time series,adults (15 years and older),bw,code08,
 1995,percentage (%),a) time series,adults (15 years and older),by,code09,24.41
+1996,percentage (%),a) time series,adults (15 years and older),by,code09,
+1997,percentage (%),a) time series,adults (15 years and older),by,code09,
+1998,percentage (%),a) time series,adults (15 years and older),by,code09,
 1999,percentage (%),a) time series,adults (15 years and older),by,code09,25.99
+2000,percentage (%),a) time series,adults (15 years and older),by,code09,
+2001,percentage (%),a) time series,adults (15 years and older),by,code09,
+2002,percentage (%),a) time series,adults (15 years and older),by,code09,
 2003,percentage (%),a) time series,adults (15 years and older),by,code09,25.12
+2004,percentage (%),a) time series,adults (15 years and older),by,code09,
 2005,percentage (%),a) time series,adults (15 years and older),by,code09,24.2
+2006,percentage (%),a) time series,adults (15 years and older),by,code09,
+2007,percentage (%),a) time series,adults (15 years and older),by,code09,
+2008,percentage (%),a) time series,adults (15 years and older),by,code09,
 2009,percentage (%),a) time series,adults (15 years and older),by,code09,23.5
+2010,percentage (%),a) time series,adults (15 years and older),by,code09,
+2011,percentage (%),a) time series,adults (15 years and older),by,code09,
+2012,percentage (%),a) time series,adults (15 years and older),by,code09,
 2013,percentage (%),a) time series,adults (15 years and older),by,code09,22.15
+2014,percentage (%),a) time series,adults (15 years and older),by,code09,
+2015,percentage (%),a) time series,adults (15 years and older),by,code09,
+2016,percentage (%),a) time series,adults (15 years and older),by,code09,
 2017,percentage (%),a) time series,adults (15 years and older),by,code09,20.51
+2018,percentage (%),a) time series,adults (15 years and older),by,code09,
+2019,percentage (%),a) time series,adults (15 years and older),by,code09,
+2030,percentage (%),a) time series,adults (15 years and older),by,code09,
 1995,percentage (%),a) time series,adults (15 years and older),be,code11,33.04
+1996,percentage (%),a) time series,adults (15 years and older),be,code11,
+1997,percentage (%),a) time series,adults (15 years and older),be,code11,
+1998,percentage (%),a) time series,adults (15 years and older),be,code11,
 1999,percentage (%),a) time series,adults (15 years and older),be,code11,35.5
+2000,percentage (%),a) time series,adults (15 years and older),be,code11,
+2001,percentage (%),a) time series,adults (15 years and older),be,code11,
+2002,percentage (%),a) time series,adults (15 years and older),be,code11,
 2003,percentage (%),a) time series,adults (15 years and older),be,code11,34.12
+2004,percentage (%),a) time series,adults (15 years and older),be,code11,
 2005,percentage (%),a) time series,adults (15 years and older),be,code11,32.7
+2006,percentage (%),a) time series,adults (15 years and older),be,code11,
+2007,percentage (%),a) time series,adults (15 years and older),be,code11,
+2008,percentage (%),a) time series,adults (15 years and older),be,code11,
 2009,percentage (%),a) time series,adults (15 years and older),be,code11,31.3
+2010,percentage (%),a) time series,adults (15 years and older),be,code11,
+2011,percentage (%),a) time series,adults (15 years and older),be,code11,
+2012,percentage (%),a) time series,adults (15 years and older),be,code11,
 2013,percentage (%),a) time series,adults (15 years and older),be,code11,28.85
+2014,percentage (%),a) time series,adults (15 years and older),be,code11,
+2015,percentage (%),a) time series,adults (15 years and older),be,code11,
 2017,percentage (%),a) time series,adults (15 years and older),be,code11,25.47
+2018,percentage (%),a) time series,adults (15 years and older),be,code11,
+2019,percentage (%),a) time series,adults (15 years and older),be,code11,
+2030,percentage (%),a) time series,adults (15 years and older),be,code11,
 1995,percentage (%),a) time series,adults (15 years and older),bb,code12,28.26
+1996,percentage (%),a) time series,adults (15 years and older),bb,code12,
+1997,percentage (%),a) time series,adults (15 years and older),bb,code12,
+1998,percentage (%),a) time series,adults (15 years and older),bb,code12,
 1999,percentage (%),a) time series,adults (15 years and older),bb,code12,31.03
+2000,percentage (%),a) time series,adults (15 years and older),bb,code12,
+2001,percentage (%),a) time series,adults (15 years and older),bb,code12,
+2002,percentage (%),a) time series,adults (15 years and older),bb,code12,
 2003,percentage (%),a) time series,adults (15 years and older),bb,code12,30.35
+2004,percentage (%),a) time series,adults (15 years and older),bb,code12,
 2005,percentage (%),a) time series,adults (15 years and older),bb,code12,29.0
+2006,percentage (%),a) time series,adults (15 years and older),bb,code12,
+2007,percentage (%),a) time series,adults (15 years and older),bb,code12,
+2008,percentage (%),a) time series,adults (15 years and older),bb,code12,
 2009,percentage (%),a) time series,adults (15 years and older),bb,code12,28.0
+2010,percentage (%),a) time series,adults (15 years and older),bb,code12,
+2011,percentage (%),a) time series,adults (15 years and older),bb,code12,
+2012,percentage (%),a) time series,adults (15 years and older),bb,code12,
 2013,percentage (%),a) time series,adults (15 years and older),bb,code12,25.77
+2014,percentage (%),a) time series,adults (15 years and older),bb,code12,
+2015,percentage (%),a) time series,adults (15 years and older),bb,code12,
+2016,percentage (%),a) time series,adults (15 years and older),bb,code12,
 2017,percentage (%),a) time series,adults (15 years and older),bb,code12,24.47
+2018,percentage (%),a) time series,adults (15 years and older),bb,code12,
+2019,percentage (%),a) time series,adults (15 years and older),bb,code12,
+2030,percentage (%),a) time series,adults (15 years and older),bb,code12,
 1995,percentage (%),a) time series,adults (15 years and older),hb,code04,31.99
+1996,percentage (%),a) time series,adults (15 years and older),hb,code04,
+1997,percentage (%),a) time series,adults (15 years and older),hb,code04,
+1998,percentage (%),a) time series,adults (15 years and older),hb,code04,
 1999,percentage (%),a) time series,adults (15 years and older),hb,code04,33.73
+2000,percentage (%),a) time series,adults (15 years and older),hb,code04,
+2001,percentage (%),a) time series,adults (15 years and older),hb,code04,
+2002,percentage (%),a) time series,adults (15 years and older),hb,code04,
 2003,percentage (%),a) time series,adults (15 years and older),hb,code04,33.85
+2004,percentage (%),a) time series,adults (15 years and older),hb,code04,
 2005,percentage (%),a) time series,adults (15 years and older),hb,code04,30.8
+2006,percentage (%),a) time series,adults (15 years and older),hb,code04,
+2007,percentage (%),a) time series,adults (15 years and older),hb,code04,
+2008,percentage (%),a) time series,adults (15 years and older),hb,code04,
 2009,percentage (%),a) time series,adults (15 years and older),hb,code04,30.5
+2010,percentage (%),a) time series,adults (15 years and older),hb,code04,
+2011,percentage (%),a) time series,adults (15 years and older),hb,code04,
+2012,percentage (%),a) time series,adults (15 years and older),hb,code04,
 2013,percentage (%),a) time series,adults (15 years and older),hb,code04,27.77
+2014,percentage (%),a) time series,adults (15 years and older),hb,code04,
+2015,percentage (%),a) time series,adults (15 years and older),hb,code04,
+2016,percentage (%),a) time series,adults (15 years and older),hb,code04,
 2017,percentage (%),a) time series,adults (15 years and older),hb,code04,27.39
+2018,percentage (%),a) time series,adults (15 years and older),hb,code04,
+2019,percentage (%),a) time series,adults (15 years and older),hb,code04,
+2030,percentage (%),a) time series,adults (15 years and older),hb,code04,
 1995,percentage (%),a) time series,adults (15 years and older),hh,code02,33.61
+1996,percentage (%),a) time series,adults (15 years and older),hh,code02,
+1997,percentage (%),a) time series,adults (15 years and older),hh,code02,
+1998,percentage (%),a) time series,adults (15 years and older),hh,code02,
 1999,percentage (%),a) time series,adults (15 years and older),hh,code02,32.79
+2000,percentage (%),a) time series,adults (15 years and older),hh,code02,
+2001,percentage (%),a) time series,adults (15 years and older),hh,code02,
+2002,percentage (%),a) time series,adults (15 years and older),hh,code02,
 2003,percentage (%),a) time series,adults (15 years and older),hh,code02,30.95
+2004,percentage (%),a) time series,adults (15 years and older),hh,code02,
 2005,percentage (%),a) time series,adults (15 years and older),hh,code02,29.8
+2006,percentage (%),a) time series,adults (15 years and older),hh,code02,
+2007,percentage (%),a) time series,adults (15 years and older),hh,code02,
+2008,percentage (%),a) time series,adults (15 years and older),hh,code02,
 2009,percentage (%),a) time series,adults (15 years and older),hh,code02,26.7
+2010,percentage (%),a) time series,adults (15 years and older),hh,code02,
+2011,percentage (%),a) time series,adults (15 years and older),hh,code02,
+2012,percentage (%),a) time series,adults (15 years and older),hh,code02,
 2013,percentage (%),a) time series,adults (15 years and older),hh,code02,25.64
+2014,percentage (%),a) time series,adults (15 years and older),hh,code02,
+2015,percentage (%),a) time series,adults (15 years and older),hh,code02,
+2016,percentage (%),a) time series,adults (15 years and older),hh,code02,
 2017,percentage (%),a) time series,adults (15 years and older),hh,code02,23.14
+2018,percentage (%),a) time series,adults (15 years and older),hh,code02,
+2019,percentage (%),a) time series,adults (15 years and older),hh,code02,
+2030,percentage (%),a) time series,adults (15 years and older),hh,code02,
 1995,percentage (%),a) time series,adults (15 years and older),he,code06,25.75
+1996,percentage (%),a) time series,adults (15 years and older),he,code06,
+1997,percentage (%),a) time series,adults (15 years and older),he,code06,
+1998,percentage (%),a) time series,adults (15 years and older),he,code06,
 1999,percentage (%),a) time series,adults (15 years and older),he,code06,28.01
+2000,percentage (%),a) time series,adults (15 years and older),he,code06,
+2001,percentage (%),a) time series,adults (15 years and older),he,code06,
+2002,percentage (%),a) time series,adults (15 years and older),he,code06,
 2003,percentage (%),a) time series,adults (15 years and older),he,code06,27.15
+2004,percentage (%),a) time series,adults (15 years and older),he,code06,
 2005,percentage (%),a) time series,adults (15 years and older),he,code06,25.9
+2006,percentage (%),a) time series,adults (15 years and older),he,code06,
+2007,percentage (%),a) time series,adults (15 years and older),he,code06,
+2008,percentage (%),a) time series,adults (15 years and older),he,code06,
 2009,percentage (%),a) time series,adults (15 years and older),he,code06,24.6
+2010,percentage (%),a) time series,adults (15 years and older),he,code06,
+2011,percentage (%),a) time series,adults (15 years and older),he,code06,
+2012,percentage (%),a) time series,adults (15 years and older),he,code06,
 2013,percentage (%),a) time series,adults (15 years and older),he,code06,23.37
+2014,percentage (%),a) time series,adults (15 years and older),he,code06,
+2015,percentage (%),a) time series,adults (15 years and older),he,code06,
+2016,percentage (%),a) time series,adults (15 years and older),he,code06,
 2017,percentage (%),a) time series,adults (15 years and older),he,code06,21.11
+2018,percentage (%),a) time series,adults (15 years and older),he,code06,
+2019,percentage (%),a) time series,adults (15 years and older),he,code06,
+2030,percentage (%),a) time series,adults (15 years and older),he,code06,
 1995,percentage (%),a) time series,adults (15 years and older),mv,code13,28.61
+1996,percentage (%),a) time series,adults (15 years and older),mv,code13,
+1997,percentage (%),a) time series,adults (15 years and older),mv,code13,
+1998,percentage (%),a) time series,adults (15 years and older),mv,code13,
 1999,percentage (%),a) time series,adults (15 years and older),mv,code13,32.11
+2000,percentage (%),a) time series,adults (15 years and older),mv,code13,
+2001,percentage (%),a) time series,adults (15 years and older),mv,code13,
+2002,percentage (%),a) time series,adults (15 years and older),mv,code13,
 2003,percentage (%),a) time series,adults (15 years and older),mv,code13,30.61
+2004,percentage (%),a) time series,adults (15 years and older),mv,code13,
 2005,percentage (%),a) time series,adults (15 years and older),mv,code13,33.3
+2006,percentage (%),a) time series,adults (15 years and older),mv,code13,
+2007,percentage (%),a) time series,adults (15 years and older),mv,code13,
+2008,percentage (%),a) time series,adults (15 years and older),mv,code13,
 2009,percentage (%),a) time series,adults (15 years and older),mv,code13,30.4
+2010,percentage (%),a) time series,adults (15 years and older),mv,code13,
+2011,percentage (%),a) time series,adults (15 years and older),mv,code13,
+2012,percentage (%),a) time series,adults (15 years and older),mv,code13,
 2013,percentage (%),a) time series,adults (15 years and older),mv,code13,28.22
+2014,percentage (%),a) time series,adults (15 years and older),mv,code13,
+2015,percentage (%),a) time series,adults (15 years and older),mv,code13,
+2016,percentage (%),a) time series,adults (15 years and older),mv,code13,
 2017,percentage (%),a) time series,adults (15 years and older),mv,code13,27.66
+2018,percentage (%),a) time series,adults (15 years and older),mv,code13,
+2019,percentage (%),a) time series,adults (15 years and older),mv,code13,
+2030,percentage (%),a) time series,adults (15 years and older),mv,code13,
 1995,percentage (%),a) time series,adults (15 years and older),ni,code03,27.1
+1996,percentage (%),a) time series,adults (15 years and older),ni,code03,
+1997,percentage (%),a) time series,adults (15 years and older),ni,code03,
+1998,percentage (%),a) time series,adults (15 years and older),ni,code03,
 1999,percentage (%),a) time series,adults (15 years and older),ni,code03,28.8
+2000,percentage (%),a) time series,adults (15 years and older),ni,code03,
+2001,percentage (%),a) time series,adults (15 years and older),ni,code03,
+2002,percentage (%),a) time series,adults (15 years and older),ni,code03,
 2003,percentage (%),a) time series,adults (15 years and older),ni,code03,28.44
+2004,percentage (%),a) time series,adults (15 years and older),ni,code03,
 2005,percentage (%),a) time series,adults (15 years and older),ni,code03,28.1
+2006,percentage (%),a) time series,adults (15 years and older),ni,code03,
+2007,percentage (%),a) time series,adults (15 years and older),ni,code03,
+2008,percentage (%),a) time series,adults (15 years and older),ni,code03,
 2009,percentage (%),a) time series,adults (15 years and older),ni,code03,26.1
+2010,percentage (%),a) time series,adults (15 years and older),ni,code03,
+2011,percentage (%),a) time series,adults (15 years and older),ni,code03,
+2012,percentage (%),a) time series,adults (15 years and older),ni,code03,
 2013,percentage (%),a) time series,adults (15 years and older),ni,code03,24.69
+2014,percentage (%),a) time series,adults (15 years and older),ni,code03,
+2015,percentage (%),a) time series,adults (15 years and older),ni,code03,
+2016,percentage (%),a) time series,adults (15 years and older),ni,code03,
 2017,percentage (%),a) time series,adults (15 years and older),ni,code03,22.94
+2018,percentage (%),a) time series,adults (15 years and older),ni,code03,
+2019,percentage (%),a) time series,adults (15 years and older),ni,code03,
+2030,percentage (%),a) time series,adults (15 years and older),ni,code03,
 1995,percentage (%),a) time series,adults (15 years and older),nw,code05,28.34
+1996,percentage (%),a) time series,adults (15 years and older),nw,code05,
+1997,percentage (%),a) time series,adults (15 years and older),nw,code05,
+1998,percentage (%),a) time series,adults (15 years and older),nw,code05,
 1999,percentage (%),a) time series,adults (15 years and older),nw,code05,28.47
+2000,percentage (%),a) time series,adults (15 years and older),nw,code05,
+2001,percentage (%),a) time series,adults (15 years and older),nw,code05,
+2002,percentage (%),a) time series,adults (15 years and older),nw,code05,
 2003,percentage (%),a) time series,adults (15 years and older),nw,code05,27.63
+2004,percentage (%),a) time series,adults (15 years and older),nw,code05,
 2005,percentage (%),a) time series,adults (15 years and older),nw,code05,29.0
+2006,percentage (%),a) time series,adults (15 years and older),nw,code05,
+2007,percentage (%),a) time series,adults (15 years and older),nw,code05,
+2008,percentage (%),a) time series,adults (15 years and older),nw,code05,
 2009,percentage (%),a) time series,adults (15 years and older),nw,code05,26.9
+2010,percentage (%),a) time series,adults (15 years and older),nw,code05,
+2011,percentage (%),a) time series,adults (15 years and older),nw,code05,
+2012,percentage (%),a) time series,adults (15 years and older),nw,code05,
 2013,percentage (%),a) time series,adults (15 years and older),nw,code05,25.92
+2014,percentage (%),a) time series,adults (15 years and older),nw,code05,
+2015,percentage (%),a) time series,adults (15 years and older),nw,code05,
+2016,percentage (%),a) time series,adults (15 years and older),nw,code05,
 2017,percentage (%),a) time series,adults (15 years and older),nw,code05,22.64
+2018,percentage (%),a) time series,adults (15 years and older),nw,code05,
+2019,percentage (%),a) time series,adults (15 years and older),nw,code05,
+2030,percentage (%),a) time series,adults (15 years and older),nw,code05,
 1995,percentage (%),a) time series,adults (15 years and older),rp,code07,25.41
+1996,percentage (%),a) time series,adults (15 years and older),rp,code07,
+1997,percentage (%),a) time series,adults (15 years and older),rp,code07,
+1998,percentage (%),a) time series,adults (15 years and older),rp,code07,
 1999,percentage (%),a) time series,adults (15 years and older),rp,code07,29.02
+2000,percentage (%),a) time series,adults (15 years and older),rp,code07,
+2001,percentage (%),a) time series,adults (15 years and older),rp,code07,
+2002,percentage (%),a) time series,adults (15 years and older),rp,code07,
 2003,percentage (%),a) time series,adults (15 years and older),rp,code07,27.59
+2003,percentage (%),a) time series,adults (15 years and older),rp,code07,
 2005,percentage (%),a) time series,adults (15 years and older),rp,code07,26.0
+2006,percentage (%),a) time series,adults (15 years and older),rp,code07,
+2007,percentage (%),a) time series,adults (15 years and older),rp,code07,
+2008,percentage (%),a) time series,adults (15 years and older),rp,code07,
 2009,percentage (%),a) time series,adults (15 years and older),rp,code07,25.1
+2010,percentage (%),a) time series,adults (15 years and older),rp,code07,
+2011,percentage (%),a) time series,adults (15 years and older),rp,code07,
+2012,percentage (%),a) time series,adults (15 years and older),rp,code07,
 2013,percentage (%),a) time series,adults (15 years and older),rp,code07,23.86
+2014,percentage (%),a) time series,adults (15 years and older),rp,code07,
+2015,percentage (%),a) time series,adults (15 years and older),rp,code07,
+2016,percentage (%),a) time series,adults (15 years and older),rp,code07,
 2017,percentage (%),a) time series,adults (15 years and older),rp,code07,21.66
+2018,percentage (%),a) time series,adults (15 years and older),rp,code07,
+2019,percentage (%),a) time series,adults (15 years and older),rp,code07,
+2030,percentage (%),a) time series,adults (15 years and older),rp,code07,
 1995,percentage (%),a) time series,adults (15 years and older),sl,code10,27.55
+1996,percentage (%),a) time series,adults (15 years and older),sl,code10,
+1997,percentage (%),a) time series,adults (15 years and older),sl,code10,
+1998,percentage (%),a) time series,adults (15 years and older),sl,code10,
 1999,percentage (%),a) time series,adults (15 years and older),sl,code10,28.45
+2000,percentage (%),a) time series,adults (15 years and older),sl,code10,
+2001,percentage (%),a) time series,adults (15 years and older),sl,code10,
+2002,percentage (%),a) time series,adults (15 years and older),sl,code10,
 2003,percentage (%),a) time series,adults (15 years and older),sl,code10,25.19
+2004,percentage (%),a) time series,adults (15 years and older),sl,code10,
 2005,percentage (%),a) time series,adults (15 years and older),sl,code10,26.2
+2006,percentage (%),a) time series,adults (15 years and older),sl,code10,
+2007,percentage (%),a) time series,adults (15 years and older),sl,code10,
+2008,percentage (%),a) time series,adults (15 years and older),sl,code10,
 2009,percentage (%),a) time series,adults (15 years and older),sl,code10,25.3
-2013,percentage (%),a) time series,adults (15 years and older),sl,code10,23.51
+2010,percentage (%),a) time series,adults (15 years and older),sl,code10,
+2011,percentage (%),a) time series,adults (15 years and older),sl,code10,
+2012,percentage (%),a) time series,adults (15 years and older),sl,code10,
+2014,percentage (%),a) time series,adults (15 years and older),sl,code10,23.51
+2015,percentage (%),a) time series,adults (15 years and older),sl,code10,
+2016,percentage (%),a) time series,adults (15 years and older),sl,code10,
 2017,percentage (%),a) time series,adults (15 years and older),sl,code10,20.59
+2018,percentage (%),a) time series,adults (15 years and older),sl,code10,
+2019,percentage (%),a) time series,adults (15 years and older),sl,code10,
+2030,percentage (%),a) time series,adults (15 years and older),sl,code10,
 1995,percentage (%),a) time series,adults (15 years and older),sn,code14,21.7
-1999,percentage (%),a) time series,adults (15 years and older),sn,code14,24.45
+1995,percentage (%),a) time series,adults (15 years and older),sn,code14,
+1996,percentage (%),a) time series,adults (15 years and older),sn,code14,
+1997,percentage (%),a) time series,adults (15 years and older),sn,code14,
+1998,percentage (%),a) time series,adults (15 years and older),sn,code14,24.45
+2000,percentage (%),a) time series,adults (15 years and older),sn,code14,
+2001,percentage (%),a) time series,adults (15 years and older),sn,code14,
+2002,percentage (%),a) time series,adults (15 years and older),sn,code14,
 2003,percentage (%),a) time series,adults (15 years and older),sn,code14,24.92
+2004,percentage (%),a) time series,adults (15 years and older),sn,code14,
 2005,percentage (%),a) time series,adults (15 years and older),sn,code14,24.4
+2006,percentage (%),a) time series,adults (15 years and older),sn,code14,
+2007,percentage (%),a) time series,adults (15 years and older),sn,code14,
+2008,percentage (%),a) time series,adults (15 years and older),sn,code14,
 2009,percentage (%),a) time series,adults (15 years and older),sn,code14,23.8
+2010,percentage (%),a) time series,adults (15 years and older),sn,code14,
+2011,percentage (%),a) time series,adults (15 years and older),sn,code14,
+2012,percentage (%),a) time series,adults (15 years and older),sn,code14,
 2013,percentage (%),a) time series,adults (15 years and older),sn,code14,22.74
+2014,percentage (%),a) time series,adults (15 years and older),sn,code14,
+2015,percentage (%),a) time series,adults (15 years and older),sn,code14,
+2016,percentage (%),a) time series,adults (15 years and older),sn,code14,
 2017,percentage (%),a) time series,adults (15 years and older),sn,code14,21.47
+2018,percentage (%),a) time series,adults (15 years and older),sn,code14,
+2019,percentage (%),a) time series,adults (15 years and older),sn,code14,
+2030,percentage (%),a) time series,adults (15 years and older),sn,code14,
 1995,percentage (%),a) time series,adults (15 years and older),st,code15,27.62
+1996,percentage (%),a) time series,adults (15 years and older),st,code15,27.62
+1997,percentage (%),a) time series,adults (15 years and older),st,code15,27.62
+1998,percentage (%),a) time series,adults (15 years and older),st,code15,27.62
 1999,percentage (%),a) time series,adults (15 years and older),st,code15,29.23
+2000,percentage (%),a) time series,adults (15 years and older),st,code15,
+2001,percentage (%),a) time series,adults (15 years and older),st,code15,
+2002,percentage (%),a) time series,adults (15 years and older),st,code15,
 2003,percentage (%),a) time series,adults (15 years and older),st,code15,27.23
+2004,percentage (%),a) time series,adults (15 years and older),st,code15,
 2005,percentage (%),a) time series,adults (15 years and older),st,code15,27.9
+2006,percentage (%),a) time series,adults (15 years and older),st,code15,
+2007,percentage (%),a) time series,adults (15 years and older),st,code15,
+2008,percentage (%),a) time series,adults (15 years and older),st,code15,
 2009,percentage (%),a) time series,adults (15 years and older),st,code15,28.9
+2010,percentage (%),a) time series,adults (15 years and older),st,code15,
+2011,percentage (%),a) time series,adults (15 years and older),st,code15,
+2012,percentage (%),a) time series,adults (15 years and older),st,code15,
 2013,percentage (%),a) time series,adults (15 years and older),st,code15,27.85
+2014,percentage (%),a) time series,adults (15 years and older),st,code15,
+2015,percentage (%),a) time series,adults (15 years and older),st,code15,
+2016,percentage (%),a) time series,adults (15 years and older),st,code15,
 2017,percentage (%),a) time series,adults (15 years and older),st,code15,24.77
+2018,percentage (%),a) time series,adults (15 years and older),st,code15,
+2019,percentage (%),a) time series,adults (15 years and older),st,code15,
+2030,percentage (%),a) time series,adults (15 years and older),st,code15,
 1995,percentage (%),a) time series,adults (15 years and older),sh,code01,31.09
+1996,percentage (%),a) time series,adults (15 years and older),sh,code01,
+1997,percentage (%),a) time series,adults (15 years and older),sh,code01,
+1998,percentage (%),a) time series,adults (15 years and older),sh,code01,
 1999,percentage (%),a) time series,adults (15 years and older),sh,code01,31.74
+2000,percentage (%),a) time series,adults (15 years and older),sh,code01,
+2001,percentage (%),a) time series,adults (15 years and older),sh,code01,
+2002,percentage (%),a) time series,adults (15 years and older),sh,code01,
 2003,percentage (%),a) time series,adults (15 years and older),sh,code01,30.31
+2004,percentage (%),a) time series,adults (15 years and older),sh,code01,
 2005,percentage (%),a) time series,adults (15 years and older),sh,code01,29.5
+2006,percentage (%),a) time series,adults (15 years and older),sh,code01,
+2007,percentage (%),a) time series,adults (15 years and older),sh,code01,
+2008,percentage (%),a) time series,adults (15 years and older),sh,code01,
 2009,percentage (%),a) time series,adults (15 years and older),sh,code01,27.0
+2010,percentage (%),a) time series,adults (15 years and older),sh,code01,
+2011,percentage (%),a) time series,adults (15 years and older),sh,code01,
+2012,percentage (%),a) time series,adults (15 years and older),sh,code01,
 2013,percentage (%),a) time series,adults (15 years and older),sh,code01,25.9
+2014,percentage (%),a) time series,adults (15 years and older),sh,code01,
+2015,percentage (%),a) time series,adults (15 years and older),sh,code01,
+2016,percentage (%),a) time series,adults (15 years and older),sh,code01,
 2017,percentage (%),a) time series,adults (15 years and older),sh,code01,23.5
+2018,percentage (%),a) time series,adults (15 years and older),sh,code01,
+2019,percentage (%),a) time series,adults (15 years and older),sh,code01,
+2030,percentage (%),a) time series,adults (15 years and older),sh,code01,
 1995,percentage (%),a) time series,adults (15 years and older),th,code16,25.22
+1996,percentage (%),a) time series,adults (15 years and older),th,code16,
+1997,percentage (%),a) time series,adults (15 years and older),th,code16,
+1998,percentage (%),a) time series,adults (15 years and older),th,code16,
 1999,percentage (%),a) time series,adults (15 years and older),th,code16,26.8
+2000,percentage (%),a) time series,adults (15 years and older),th,code16,
+2001,percentage (%),a) time series,adults (15 years and older),th,code16,
+2002,percentage (%),a) time series,adults (15 years and older),th,code16,
 2003,percentage (%),a) time series,adults (15 years and older),th,code16,26.9
+2004,percentage (%),a) time series,adults (15 years and older),th,code16,
 2005,percentage (%),a) time series,adults (15 years and older),th,code16,27.2
+2006,percentage (%),a) time series,adults (15 years and older),th,code16,
+2007,percentage (%),a) time series,adults (15 years and older),th,code16,
+2008,percentage (%),a) time series,adults (15 years and older),th,code16,
 2009,percentage (%),a) time series,adults (15 years and older),th,code16,26.7
+2010,percentage (%),a) time series,adults (15 years and older),th,code16,
+2011,percentage (%),a) time series,adults (15 years and older),th,code16,
+2012,percentage (%),a) time series,adults (15 years and older),th,code16,
 2013,percentage (%),a) time series,adults (15 years and older),th,code16,26.11
+2014,percentage (%),a) time series,adults (15 years and older),th,code16,
+2015,percentage (%),a) time series,adults (15 years and older),th,code16,
+2016,percentage (%),a) time series,adults (15 years and older),th,code16,
 2017,percentage (%),a) time series,adults (15 years and older),th,code16,26.24
+2018,percentage (%),a) time series,adults (15 years and older),th,code16,
+2019,percentage (%),a) time series,adults (15 years and older),th,code16,
+2030,percentage (%),a) time series,adults (15 years and older),th,code16,
