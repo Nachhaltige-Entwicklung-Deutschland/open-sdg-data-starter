@@ -178,6 +178,7 @@ Year,Units,display,age,Bundesland,GeoCode,Value
 2013,percentage (%),a) time series,adults (15 years and older),be,code11,28.85
 2014,percentage (%),a) time series,adults (15 years and older),be,code11,
 2015,percentage (%),a) time series,adults (15 years and older),be,code11,
+2016,percentage (%),a) time series,adults (15 years and older),be,code11,
 2017,percentage (%),a) time series,adults (15 years and older),be,code11,25.47
 2018,percentage (%),a) time series,adults (15 years and older),be,code11,
 2019,percentage (%),a) time series,adults (15 years and older),be,code11,
@@ -373,7 +374,7 @@ Year,Units,display,age,Bundesland,GeoCode,Value
 2001,percentage (%),a) time series,adults (15 years and older),rp,code07,
 2002,percentage (%),a) time series,adults (15 years and older),rp,code07,
 2003,percentage (%),a) time series,adults (15 years and older),rp,code07,27.59
-2003,percentage (%),a) time series,adults (15 years and older),rp,code07,
+2004,percentage (%),a) time series,adults (15 years and older),rp,code07,
 2005,percentage (%),a) time series,adults (15 years and older),rp,code07,26.0
 2006,percentage (%),a) time series,adults (15 years and older),rp,code07,
 2007,percentage (%),a) time series,adults (15 years and older),rp,code07,
@@ -408,6 +409,7 @@ Year,Units,display,age,Bundesland,GeoCode,Value
 2010,percentage (%),a) time series,adults (15 years and older),sl,code10,
 2011,percentage (%),a) time series,adults (15 years and older),sl,code10,
 2012,percentage (%),a) time series,adults (15 years and older),sl,code10,
+2013,percentage (%),a) time series,adults (15 years and older),sl,code10,
 2014,percentage (%),a) time series,adults (15 years and older),sl,code10,23.51
 2015,percentage (%),a) time series,adults (15 years and older),sl,code10,
 2016,percentage (%),a) time series,adults (15 years and older),sl,code10,
@@ -416,10 +418,10 @@ Year,Units,display,age,Bundesland,GeoCode,Value
 2019,percentage (%),a) time series,adults (15 years and older),sl,code10,
 2030,percentage (%),a) time series,adults (15 years and older),sl,code10,
 1995,percentage (%),a) time series,adults (15 years and older),sn,code14,21.7
-1995,percentage (%),a) time series,adults (15 years and older),sn,code14,
 1996,percentage (%),a) time series,adults (15 years and older),sn,code14,
 1997,percentage (%),a) time series,adults (15 years and older),sn,code14,
 1998,percentage (%),a) time series,adults (15 years and older),sn,code14,24.45
+1999,percentage (%),a) time series,adults (15 years and older),sn,code14,
 2000,percentage (%),a) time series,adults (15 years and older),sn,code14,
 2001,percentage (%),a) time series,adults (15 years and older),sn,code14,
 2002,percentage (%),a) time series,adults (15 years and older),sn,code14,
@@ -442,9 +444,9 @@ Year,Units,display,age,Bundesland,GeoCode,Value
 2019,percentage (%),a) time series,adults (15 years and older),sn,code14,
 2030,percentage (%),a) time series,adults (15 years and older),sn,code14,
 1995,percentage (%),a) time series,adults (15 years and older),st,code15,27.62
-1996,percentage (%),a) time series,adults (15 years and older),st,code15,27.62
-1997,percentage (%),a) time series,adults (15 years and older),st,code15,27.62
-1998,percentage (%),a) time series,adults (15 years and older),st,code15,27.62
+1996,percentage (%),a) time series,adults (15 years and older),st,code15,
+1997,percentage (%),a) time series,adults (15 years and older),st,code15,
+1998,percentage (%),a) time series,adults (15 years and older),st,code15,
 1999,percentage (%),a) time series,adults (15 years and older),st,code15,29.23
 2000,percentage (%),a) time series,adults (15 years and older),st,code15,
 2001,percentage (%),a) time series,adults (15 years and older),st,code15,
