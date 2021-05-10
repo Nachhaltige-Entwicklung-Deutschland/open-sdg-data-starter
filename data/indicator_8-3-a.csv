@@ -56,6 +56,7 @@ Year,Units,Bundesland,GeoCode,Value
 2015,percentage (%),bw,code08,20.8
 2016,percentage (%),bw,code08,21.0
 2017,percentage (%),bw,code08,21.9
+2018,percentage (%),bw,code08,23.0
 1991,percentage (%),by,code09,28.1
 1992,percentage (%),by,code09,27.4
 1993,percentage (%),by,code09,24.6
@@ -82,7 +83,8 @@ Year,Units,Bundesland,GeoCode,Value
 2014,percentage (%),by,code09,23.0
 2015,percentage (%),by,code09,23.1
 2016,percentage (%),by,code09,23.0
-2017,percentage (%),by,code09,23.6
+2017,percentage (%),by,code09,23.5
+2018,percentage (%),by,code09,24.4
 1991,percentage (%),be,code11,22.5
 1992,percentage (%),be,code11,23.0
 1993,percentage (%),be,code11,21.9
@@ -109,7 +111,8 @@ Year,Units,Bundesland,GeoCode,Value
 2014,percentage (%),be,code11,19.3
 2015,percentage (%),be,code11,19.8
 2016,percentage (%),be,code11,19.3
-2017,percentage (%),be,code11,18.7
+2017,percentage (%),be,code11,18.5
+2018,percentage (%),be,code11,19.1
 1991,percentage (%),bb,code12,41.4
 1992,percentage (%),bb,code12,44.8
 1993,percentage (%),bb,code12,49.6
@@ -134,9 +137,10 @@ Year,Units,Bundesland,GeoCode,Value
 2012,percentage (%),bb,code12,22.4
 2013,percentage (%),bb,code12,21.0
 2014,percentage (%),bb,code12,21.6
-2015,percentage (%),bb,code12,22.0
-2016,percentage (%),bb,code12,23.6
-2017,percentage (%),bb,code12,23.8
+2015,percentage (%),bb,code12,22.1
+2016,percentage (%),bb,code12,23.5
+2017,percentage (%),bb,code12,23.6
+2018,percentage (%),bb,code12,24.6
 1991,percentage (%),hb,code04,18.1
 1992,percentage (%),hb,code04,17.5
 1993,percentage (%),hb,code04,18.3
@@ -164,6 +168,7 @@ Year,Units,Bundesland,GeoCode,Value
 2015,percentage (%),hb,code04,16.8
 2016,percentage (%),hb,code04,15.8
 2017,percentage (%),hb,code04,14.1
+2018,percentage (%),hb,code04,16.2
 1991,percentage (%),hh,code02,16.5
 1992,percentage (%),hh,code02,18.1
 1993,percentage (%),hh,code02,17.1
@@ -190,7 +195,8 @@ Year,Units,Bundesland,GeoCode,Value
 2014,percentage (%),hh,code02,21.3
 2015,percentage (%),hh,code02,21.6
 2016,percentage (%),hh,code02,19.7
-2017,percentage (%),hh,code02,16.3
+2017,percentage (%),hh,code02,16.1
+2018,percentage (%),hh,code02,18.2
 1991,percentage (%),he,code06,21.9
 1992,percentage (%),he,code06,21.4
 1993,percentage (%),he,code06,20.5
@@ -217,7 +223,8 @@ Year,Units,Bundesland,GeoCode,Value
 2014,percentage (%),he,code06,17.3
 2015,percentage (%),he,code06,17.1
 2016,percentage (%),he,code06,18.0
-2017,percentage (%),he,code06,18.6
+2017,percentage (%),he,code06,18.5
+2018,percentage (%),he,code06,18.7
 1991,percentage (%),mv,code13,49.5
 1992,percentage (%),mv,code13,61.6
 1993,percentage (%),mv,code13,60.2
@@ -244,7 +251,8 @@ Year,Units,Bundesland,GeoCode,Value
 2014,percentage (%),mv,code13,21.5
 2015,percentage (%),mv,code13,21.9
 2016,percentage (%),mv,code13,24.1
-2017,percentage (%),mv,code13,23.1
+2017,percentage (%),mv,code13,23.0
+2018,percentage (%),mv,code13,25.6
 1991,percentage (%),ni,code03,27.8
 1992,percentage (%),ni,code03,26.4
 1993,percentage (%),ni,code03,24.0
@@ -272,6 +280,7 @@ Year,Units,Bundesland,GeoCode,Value
 2015,percentage (%),ni,code03,24.9
 2016,percentage (%),ni,code03,24.7
 2017,percentage (%),ni,code03,25.4
+2018,percentage (%),ni,code03,25.1
 1991,percentage (%),nw,code05,20.5
 1992,percentage (%),nw,code05,20.2
 1993,percentage (%),nw,code05,18.4
@@ -298,7 +307,8 @@ Year,Units,Bundesland,GeoCode,Value
 2014,percentage (%),nw,code05,16.1
 2015,percentage (%),nw,code05,15.7
 2016,percentage (%),nw,code05,16.1
-2017,percentage (%),nw,code05,16.7
+2017,percentage (%),nw,code05,16.6
+2018,percentage (%),nw,code05,16.8
 1991,percentage (%),rp,code07,23.7
 1992,percentage (%),rp,code07,22.7
 1993,percentage (%),rp,code07,21.9
@@ -325,7 +335,8 @@ Year,Units,Bundesland,GeoCode,Value
 2014,percentage (%),rp,code07,21.4
 2015,percentage (%),rp,code07,20.9
 2016,percentage (%),rp,code07,20.5
-2017,percentage (%),rp,code07,21.1
+2017,percentage (%),rp,code07,21.0
+2018,percentage (%),rp,code07,23.2
 1991,percentage (%),sl,code10,20.7
 1992,percentage (%),sl,code10,20.3
 1993,percentage (%),sl,code10,18.6
@@ -350,9 +361,10 @@ Year,Units,Bundesland,GeoCode,Value
 2012,percentage (%),sl,code10,16.9
 2013,percentage (%),sl,code10,17.5
 2014,percentage (%),sl,code10,17.6
-2015,percentage (%),sl,code10,18.0
-2016,percentage (%),sl,code10,17.3
-2017,percentage (%),sl,code10,16.7
+2015,percentage (%),sl,code10,18.1
+2016,percentage (%),sl,code10,17.4
+2017,percentage (%),sl,code10,16.6
+2018,percentage (%),sl,code10,17.6
 1991,percentage (%),sn,code14,42.7
 1992,percentage (%),sn,code14,41.6
 1993,percentage (%),sn,code14,39.3
@@ -379,7 +391,8 @@ Year,Units,Bundesland,GeoCode,Value
 2014,percentage (%),sn,code14,20.9
 2015,percentage (%),sn,code14,19.3
 2016,percentage (%),sn,code14,21.2
-2017,percentage (%),sn,code14,20.1
+2017,percentage (%),sn,code14,20.0
+2018,percentage (%),sn,code14,20.6
 1991,percentage (%),st,code15,42.8
 1992,percentage (%),st,code15,54.2
 1993,percentage (%),st,code15,53.4
@@ -404,9 +417,10 @@ Year,Units,Bundesland,GeoCode,Value
 2012,percentage (%),st,code15,19.7
 2013,percentage (%),st,code15,18.7
 2014,percentage (%),st,code15,18.3
-2015,percentage (%),st,code15,18.8
+2015,percentage (%),st,code15,18.9
 2016,percentage (%),st,code15,19.0
 2017,percentage (%),st,code15,18.9
+2018,percentage (%),st,code15,18.8
 1991,percentage (%),sh,code01,21.7
 1992,percentage (%),sh,code01,22.3
 1993,percentage (%),sh,code01,21.2
@@ -433,7 +447,8 @@ Year,Units,Bundesland,GeoCode,Value
 2014,percentage (%),sh,code01,21.5
 2015,percentage (%),sh,code01,20.6
 2016,percentage (%),sh,code01,23.2
-2017,percentage (%),sh,code01,21.6
+2017,percentage (%),sh,code01,21.5
+2018,percentage (%),sh,code01,21.4
 1991,percentage (%),th,code16,45.8
 1992,percentage (%),th,code16,52.5
 1993,percentage (%),th,code16,55.6
@@ -459,5 +474,6 @@ Year,Units,Bundesland,GeoCode,Value
 2013,percentage (%),th,code16,20.0
 2014,percentage (%),th,code16,20.0
 2015,percentage (%),th,code16,19.1
-2016,percentage (%),th,code16,20.8
+2016,percentage (%),th,code16,20.9
 2017,percentage (%),th,code16,19.1
+2018,percentage (%),th,code16,20.1
