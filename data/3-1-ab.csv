@@ -27,6 +27,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,women,a) germany (total),,152
 2017,per 100 000 inhabitants,a) time series,women,a) germany (total),,149
 2018,per 100 000 inhabitants,a) time series,women,a) germany (total),,151
+2019,per 100 000 inhabitants,a) time series,women,a) germany (total),,146
 2030,per 100 000 inhabitants,b) target (max),women,a) germany (total),,100
 1998,per 100 000 inhabitants,a) time series,women,bw,code08,169
 1999,per 100 000 inhabitants,a) time series,women,bw,code08,168
@@ -49,6 +50,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,women,bw,code08,132
 2017,per 100 000 inhabitants,a) time series,women,bw,code08,128
 2018,per 100 000 inhabitants,a) time series,women,bw,code08,130
+2019,per 100 000 inhabitants,a) time series,women,bw,code08,126
 1998,per 100 000 inhabitants,a) time series,women,by,code09,182
 1999,per 100 000 inhabitants,a) time series,women,by,code09,177
 2000,per 100 000 inhabitants,a) time series,women,by,code09,174
@@ -70,6 +72,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,women,by,code09,138
 2017,per 100 000 inhabitants,a) time series,women,by,code09,132
 2018,per 100 000 inhabitants,a) time series,women,by,code09,131
+2019,per 100 000 inhabitants,a) time series,women,by,code09,127
 1998,per 100 000 inhabitants,a) time series,women,be,code11,224
 1999,per 100 000 inhabitants,a) time series,women,be,code11,214
 2000,per 100 000 inhabitants,a) time series,women,be,code11,206
@@ -91,6 +94,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,women,be,code11,161
 2017,per 100 000 inhabitants,a) time series,women,be,code11,159
 2018,per 100 000 inhabitants,a) time series,women,be,code11,167
+2019,per 100 000 inhabitants,a) time series,women,be,code11,154
 1998,per 100 000 inhabitants,a) time series,women,bb,code12,207
 1999,per 100 000 inhabitants,a) time series,women,bb,code12,195
 2000,per 100 000 inhabitants,a) time series,women,bb,code12,187
@@ -112,6 +116,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,women,bb,code12,152
 2017,per 100 000 inhabitants,a) time series,women,bb,code12,151
 2018,per 100 000 inhabitants,a) time series,women,bb,code12,152
+2019,per 100 000 inhabitants,a) time series,women,bb,code12,141
 1998,per 100 000 inhabitants,a) time series,women,hb,code04,218
 1999,per 100 000 inhabitants,a) time series,women,hb,code04,201
 2000,per 100 000 inhabitants,a) time series,women,hb,code04,218
@@ -133,6 +138,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,women,hb,code04,185
 2017,per 100 000 inhabitants,a) time series,women,hb,code04,162
 2018,per 100 000 inhabitants,a) time series,women,hb,code04,189
+2019,per 100 000 inhabitants,a) time series,women,hb,code04,169
 1998,per 100 000 inhabitants,a) time series,women,hh,code02,207
 1999,per 100 000 inhabitants,a) time series,women,hh,code02,210
 2000,per 100 000 inhabitants,a) time series,women,hh,code02,203
@@ -154,6 +160,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,women,hh,code02,158
 2017,per 100 000 inhabitants,a) time series,women,hh,code02,157
 2018,per 100 000 inhabitants,a) time series,women,hh,code02,159
+2019,per 100 000 inhabitants,a) time series,women,hh,code02,150
 1998,per 100 000 inhabitants,a) time series,women,he,code06,183
 1999,per 100 000 inhabitants,a) time series,women,he,code06,184
 2000,per 100 000 inhabitants,a) time series,women,he,code06,179
@@ -175,6 +182,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,women,he,code06,145
 2017,per 100 000 inhabitants,a) time series,women,he,code06,143
 2018,per 100 000 inhabitants,a) time series,women,he,code06,145
+2019,per 100 000 inhabitants,a) time series,women,he,code06,140
 1998,per 100 000 inhabitants,a) time series,women,mv,code13,219
 1999,per 100 000 inhabitants,a) time series,women,mv,code13,203
 2000,per 100 000 inhabitants,a) time series,women,mv,code13,202
@@ -196,6 +204,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,women,mv,code13,154
 2017,per 100 000 inhabitants,a) time series,women,mv,code13,147
 2018,per 100 000 inhabitants,a) time series,women,mv,code13,162
+2019,per 100 000 inhabitants,a) time series,women,mv,code13,161
 1998,per 100 000 inhabitants,a) time series,women,ni,code03,192
 1999,per 100 000 inhabitants,a) time series,women,ni,code03,191
 2000,per 100 000 inhabitants,a) time series,women,ni,code03,186
@@ -217,6 +226,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,women,ni,code03,162
 2017,per 100 000 inhabitants,a) time series,women,ni,code03,160
 2018,per 100 000 inhabitants,a) time series,women,ni,code03,163
+2019,per 100 000 inhabitants,a) time series,women,ni,code03,155
 1998,per 100 000 inhabitants,a) time series,women,nw,code05,199
 1999,per 100 000 inhabitants,a) time series,women,nw,code05,195
 2000,per 100 000 inhabitants,a) time series,women,nw,code05,194
@@ -238,6 +248,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,women,nw,code05,167
 2017,per 100 000 inhabitants,a) time series,women,nw,code05,163
 2018,per 100 000 inhabitants,a) time series,women,nw,code05,165
+2019,per 100 000 inhabitants,a) time series,women,nw,code05,161
 1998,per 100 000 inhabitants,a) time series,women,rp,code07,190
 1999,per 100 000 inhabitants,a) time series,women,rp,code07,184
 2000,per 100 000 inhabitants,a) time series,women,rp,code07,185
@@ -259,6 +270,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,women,rp,code07,152
 2017,per 100 000 inhabitants,a) time series,women,rp,code07,154
 2018,per 100 000 inhabitants,a) time series,women,rp,code07,154
+2019,per 100 000 inhabitants,a) time series,women,rp,code07,154
 1998,per 100 000 inhabitants,a) time series,women,sl,code10,210
 1999,per 100 000 inhabitants,a) time series,women,sl,code10,216
 2000,per 100 000 inhabitants,a) time series,women,sl,code10,212
@@ -280,6 +292,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,women,sl,code10,174
 2017,per 100 000 inhabitants,a) time series,women,sl,code10,179
 2018,per 100 000 inhabitants,a) time series,women,sl,code10,188
+2019,per 100 000 inhabitants,a) time series,women,sl,code10,167
 1998,per 100 000 inhabitants,a) time series,women,sn,code14,191
 1999,per 100 000 inhabitants,a) time series,women,sn,code14,184
 2000,per 100 000 inhabitants,a) time series,women,sn,code14,177
@@ -301,6 +314,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,women,sn,code14,138
 2017,per 100 000 inhabitants,a) time series,women,sn,code14,132
 2018,per 100 000 inhabitants,a) time series,women,sn,code14,139
+2019,per 100 000 inhabitants,a) time series,women,sn,code14,138
 1998,per 100 000 inhabitants,a) time series,women,st,code15,220
 1999,per 100 000 inhabitants,a) time series,women,st,code15,202
 2000,per 100 000 inhabitants,a) time series,women,st,code15,200
@@ -322,6 +336,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,women,st,code15,160
 2017,per 100 000 inhabitants,a) time series,women,st,code15,166
 2018,per 100 000 inhabitants,a) time series,women,st,code15,166
+2019,per 100 000 inhabitants,a) time series,women,st,code15,168
 1998,per 100 000 inhabitants,a) time series,women,sh,code01,197
 1999,per 100 000 inhabitants,a) time series,women,sh,code01,197
 2000,per 100 000 inhabitants,a) time series,women,sh,code01,195
@@ -343,6 +358,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,women,sh,code01,164
 2017,per 100 000 inhabitants,a) time series,women,sh,code01,166
 2018,per 100 000 inhabitants,a) time series,women,sh,code01,167
+2019,per 100 000 inhabitants,a) time series,women,sh,code01,159
 1998,per 100 000 inhabitants,a) time series,women,th,code16,204
 1999,per 100 000 inhabitants,a) time series,women,th,code16,191
 2000,per 100 000 inhabitants,a) time series,women,th,code16,180
@@ -364,6 +380,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,women,th,code16,149
 2017,per 100 000 inhabitants,a) time series,women,th,code16,150
 2018,per 100 000 inhabitants,a) time series,women,th,code16,151
+2019,per 100 000 inhabitants,a) time series,women,th,code16,146
 1991,per 100 000 inhabitants,a) time series,men,a) germany (total),,492
 1992,per 100 000 inhabitants,a) time series,men,a) germany (total),,476
 1993,per 100 000 inhabitants,a) time series,men,a) germany (total),,472
@@ -392,6 +409,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,men,a) germany (total),,284
 2017,per 100 000 inhabitants,a) time series,men,a) germany (total),,276
 2018,per 100 000 inhabitants,a) time series,men,a) germany (total),,279
+2019,per 100 000 inhabitants,a) time series,men,a) germany (total),,271
 2030,per 100 000 inhabitants,b) target (max),men,a) germany (total),,190
 1998,per 100 000 inhabitants,a) time series,men,bw,code08,355
 1999,per 100 000 inhabitants,a) time series,men,bw,code08,342
@@ -414,6 +432,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,men,bw,code08,245
 2017,per 100 000 inhabitants,a) time series,men,bw,code08,232
 2018,per 100 000 inhabitants,a) time series,men,bw,code08,233
+2019,per 100 000 inhabitants,a) time series,men,bw,code08,228
 1998,per 100 000 inhabitants,a) time series,men,by,code09,381
 1999,per 100 000 inhabitants,a) time series,men,by,code09,369
 2000,per 100 000 inhabitants,a) time series,men,by,code09,359
@@ -435,6 +454,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,men,by,code09,247
 2017,per 100 000 inhabitants,a) time series,men,by,code09,245
 2018,per 100 000 inhabitants,a) time series,men,by,code09,243
+2019,per 100 000 inhabitants,a) time series,men,by,code09,235
 1998,per 100 000 inhabitants,a) time series,men,be,code11,421
 1999,per 100 000 inhabitants,a) time series,men,be,code11,430
 2000,per 100 000 inhabitants,a) time series,men,be,code11,406
@@ -456,6 +476,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,men,be,code11,309
 2017,per 100 000 inhabitants,a) time series,men,be,code11,296
 2018,per 100 000 inhabitants,a) time series,men,be,code11,297
+2019,per 100 000 inhabitants,a) time series,men,be,code11,287
 1998,per 100 000 inhabitants,a) time series,men,bb,code12,480
 1999,per 100 000 inhabitants,a) time series,men,bb,code12,461
 2000,per 100 000 inhabitants,a) time series,men,bb,code12,441
@@ -477,6 +498,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,men,bb,code12,320
 2017,per 100 000 inhabitants,a) time series,men,bb,code12,320
 2018,per 100 000 inhabitants,a) time series,men,bb,code12,314
+2019,per 100 000 inhabitants,a) time series,men,bb,code12,310
 1998,per 100 000 inhabitants,a) time series,men,hb,code04,465
 1999,per 100 000 inhabitants,a) time series,men,hb,code04,437
 2000,per 100 000 inhabitants,a) time series,men,hb,code04,441
@@ -498,6 +520,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,men,hb,code04,326
 2017,per 100 000 inhabitants,a) time series,men,hb,code04,326
 2018,per 100 000 inhabitants,a) time series,men,hb,code04,347
+2019,per 100 000 inhabitants,a) time series,men,hb,code04,319
 1998,per 100 000 inhabitants,a) time series,men,hh,code02,417
 1999,per 100 000 inhabitants,a) time series,men,hh,code02,405
 2000,per 100 000 inhabitants,a) time series,men,hh,code02,396
@@ -519,6 +542,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,men,hh,code02,298
 2017,per 100 000 inhabitants,a) time series,men,hh,code02,292
 2018,per 100 000 inhabitants,a) time series,men,hh,code02,284
+2019,per 100 000 inhabitants,a) time series,men,hh,code02,271
 1998,per 100 000 inhabitants,a) time series,men,he,code06,372
 1999,per 100 000 inhabitants,a) time series,men,he,code06,362
 2000,per 100 000 inhabitants,a) time series,men,he,code06,350
@@ -540,6 +564,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,men,he,code06,253
 2017,per 100 000 inhabitants,a) time series,men,he,code06,253
 2018,per 100 000 inhabitants,a) time series,men,he,code06,254
+2019,per 100 000 inhabitants,a) time series,men,he,code06,248
 1998,per 100 000 inhabitants,a) time series,men,mv,code13,525
 1999,per 100 000 inhabitants,a) time series,men,mv,code13,509
 2000,per 100 000 inhabitants,a) time series,men,mv,code13,488
@@ -561,6 +586,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,men,mv,code13,360
 2017,per 100 000 inhabitants,a) time series,men,mv,code13,353
 2018,per 100 000 inhabitants,a) time series,men,mv,code13,368
+2019,per 100 000 inhabitants,a) time series,men,mv,code13,361
 1998,per 100 000 inhabitants,a) time series,men,ni,code03,399
 1999,per 100 000 inhabitants,a) time series,men,ni,code03,387
 2000,per 100 000 inhabitants,a) time series,men,ni,code03,382
@@ -582,6 +608,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,men,ni,code03,294
 2017,per 100 000 inhabitants,a) time series,men,ni,code03,282
 2018,per 100 000 inhabitants,a) time series,men,ni,code03,292
+2019,per 100 000 inhabitants,a) time series,men,ni,code03,283
 1998,per 100 000 inhabitants,a) time series,men,nw,code05,404
 1999,per 100 000 inhabitants,a) time series,men,nw,code05,390
 2000,per 100 000 inhabitants,a) time series,men,nw,code05,382
@@ -603,6 +630,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,men,nw,code05,293
 2017,per 100 000 inhabitants,a) time series,men,nw,code05,281
 2018,per 100 000 inhabitants,a) time series,men,nw,code05,286
+2019,per 100 000 inhabitants,a) time series,men,nw,code05,278
 1998,per 100 000 inhabitants,a) time series,men,rp,code07,394
 1999,per 100 000 inhabitants,a) time series,men,rp,code07,375
 2000,per 100 000 inhabitants,a) time series,men,rp,code07,374
@@ -624,6 +652,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,men,rp,code07,263
 2017,per 100 000 inhabitants,a) time series,men,rp,code07,264
 2018,per 100 000 inhabitants,a) time series,men,rp,code07,272
+2019,per 100 000 inhabitants,a) time series,men,rp,code07,256
 1998,per 100 000 inhabitants,a) time series,men,sl,code10,429
 1999,per 100 000 inhabitants,a) time series,men,sl,code10,443
 2000,per 100 000 inhabitants,a) time series,men,sl,code10,421
@@ -645,6 +674,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,men,sl,code10,299
 2017,per 100 000 inhabitants,a) time series,men,sl,code10,307
 2018,per 100 000 inhabitants,a) time series,men,sl,code10,320
+2019,per 100 000 inhabitants,a) time series,men,sl,code10,303
 1998,per 100 000 inhabitants,a) time series,men,sn,code14,428
 1999,per 100 000 inhabitants,a) time series,men,sn,code14,416
 2000,per 100 000 inhabitants,a) time series,men,sn,code14,413
@@ -666,6 +696,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,men,sn,code14,324
 2017,per 100 000 inhabitants,a) time series,men,sn,code14,315
 2018,per 100 000 inhabitants,a) time series,men,sn,code14,318
+2019,per 100 000 inhabitants,a) time series,men,sn,code14,313
 1998,per 100 000 inhabitants,a) time series,men,st,code15,502
 1999,per 100 000 inhabitants,a) time series,men,st,code15,472
 2000,per 100 000 inhabitants,a) time series,men,st,code15,473
@@ -687,6 +718,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,men,st,code15,370
 2017,per 100 000 inhabitants,a) time series,men,st,code15,370
 2018,per 100 000 inhabitants,a) time series,men,st,code15,376
+2019,per 100 000 inhabitants,a) time series,men,st,code15,361
 1998,per 100 000 inhabitants,a) time series,men,sh,code01,389
 1999,per 100 000 inhabitants,a) time series,men,sh,code01,386
 2000,per 100 000 inhabitants,a) time series,men,sh,code01,381
@@ -708,6 +740,7 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,men,sh,code01,292
 2017,per 100 000 inhabitants,a) time series,men,sh,code01,281
 2018,per 100 000 inhabitants,a) time series,men,sh,code01,293
+2019,per 100 000 inhabitants,a) time series,men,sh,code01,287
 1998,per 100 000 inhabitants,a) time series,men,th,code16,454
 1999,per 100 000 inhabitants,a) time series,men,th,code16,439
 2000,per 100 000 inhabitants,a) time series,men,th,code16,415
@@ -729,3 +762,4 @@ Year,Units,display,sex,Bundesland,GeoCode,Value
 2016,per 100 000 inhabitants,a) time series,men,th,code16,333
 2017,per 100 000 inhabitants,a) time series,men,th,code16,325
 2018,per 100 000 inhabitants,a) time series,men,th,code16,320
+2019,per 100 000 inhabitants,a) time series,men,th,code16,313
