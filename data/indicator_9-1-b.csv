@@ -1,20 +1,20 @@
 Year,Units,display,title,Value
-7-12 2018,percentage (%),a) time series,all line-based technologies,27.30
-1-6 2019,percentage (%),a) time series,all line-based technologies,34.10
-7-12 2019,percentage (%),a) time series,all line-based technologies,43.22
-1-6 2020,percentage (%),a) time series,all line-based technologies,55.90
+2018 7-12,percentage (%),a) time series,all line-based technologies,27.30
+2019 1-6,percentage (%),a) time series,all line-based technologies,34.10
+2019 7-12,percentage (%),a) time series,all line-based technologies,43.22
+2020 1-6,percentage (%),a) time series,all line-based technologies,55.90
 2025,percentage (%),b) target (min),all line-based technologies,100.00
-7-12 2015,percentage (%),a) time series,pure fiber optic networks (fttb/h),6.70
-1-6 2016,percentage (%),a) time series,pure fiber optic networks (fttb/h),7.10
-7-12 2016,percentage (%),a) time series,pure fiber optic networks (fttb/h),7.10
-1-6 2017,percentage (%),a) time series,pure fiber optic networks (fttb/h),7.30
-7-12 2017,percentage (%),a) time series,pure fiber optic networks (fttb/h),8.00
-1-6 2018,percentage (%),a) time series,pure fiber optic networks (fttb/h),8.50
-7-12 2018,percentage (%),a) time series,pure fiber optic networks (fttb/h),9.00
-1-6 2019,percentage (%),a) time series,pure fiber optic networks (fttb/h),10.50
-7-12 2019,percentage (%),a) time series,pure fiber optic networks (fttb/h),11.82
-1-6 2020,percentage (%),a) time series,pure fiber optic networks (fttb/h),13.80
-7-12 2018,percentage (%),a) time series,cable television (catv),23.70
-1-6 2019,percentage (%),a) time series,cable television (catv),29.30
-7-12 2019,percentage (%),a) time series,cable television (catv),37.83
-1-6 2020,percentage (%),a) time series,cable television (catv),50.20
+2015 7-12,percentage (%),a) time series,pure fiber optic networks (fttb/h),6.70
+2016 1-6,percentage (%),a) time series,pure fiber optic networks (fttb/h),7.10
+2016 7-12,percentage (%),a) time series,pure fiber optic networks (fttb/h),7.10
+2017 1-6,percentage (%),a) time series,pure fiber optic networks (fttb/h),7.30
+2017 7-12,percentage (%),a) time series,pure fiber optic networks (fttb/h),8.00
+2018 1-6,percentage (%),a) time series,pure fiber optic networks (fttb/h),8.50
+2018 7-12,percentage (%),a) time series,pure fiber optic networks (fttb/h),9.00
+2019 1-6,percentage (%),a) time series,pure fiber optic networks (fttb/h),10.50
+2019 7-12,percentage (%),a) time series,pure fiber optic networks (fttb/h),11.82
+2020 1-6,percentage (%),a) time series,pure fiber optic networks (fttb/h),13.80
+2018 7-12,percentage (%),a) time series,cable television (catv),23.70
+2019 1-6,percentage (%),a) time series,cable television (catv),29.30
+2019 7-12,percentage (%),a) time series,cable television (catv),37.83
+2020 1-6,percentage (%),a) time series,cable television (catv),50.20
