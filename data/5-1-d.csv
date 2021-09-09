@@ -9,6 +9,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2015,percentage (%),a) time series,,,36.9
 2016,percentage (%),a) time series,,,38.8
 2017,percentage (%),a) time series,,,40.4
+2018,percentage (%),a) time series,,,42.1
 2030,percentage (%),b) target (min),,,65.0
 2008,percentage (%),a) time series,bw,code08,20.6
 2009,percentage (%),a) time series,bw,code08,24.6
@@ -20,6 +21,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2015,percentage (%),a) time series,bw,code08,40.9
 2016,percentage (%),a) time series,bw,code08,42.2
 2017,percentage (%),a) time series,bw,code08,43.7
+2018,percentage (%),a) time series,bw,code08,45.4
 2008,percentage (%),a) time series,by,code09,27.4
 2009,percentage (%),a) time series,by,code09,30.7
 2010,percentage (%),a) time series,by,code09,33.5
@@ -30,6 +32,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2015,percentage (%),a) time series,by,code09,44.8
 2016,percentage (%),a) time series,by,code09,46.5
 2017,percentage (%),a) time series,by,code09,47.7
+2018,percentage (%),a) time series,by,code09,49.3
 2008,percentage (%),a) time series,be,code11,27.5
 2009,percentage (%),a) time series,be,code11,30.7
 2010,percentage (%),a) time series,be,code11,32.2
@@ -40,6 +43,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2015,percentage (%),a) time series,be,code11,40.9
 2016,percentage (%),a) time series,be,code11,42.9
 2017,percentage (%),a) time series,be,code11,43.8
+2018,percentage (%),a) time series,be,code11,45.2
 2008,percentage (%),a) time series,bb,code12,25.5
 2009,percentage (%),a) time series,bb,code12,27.3
 2010,percentage (%),a) time series,bb,code12,28.1
@@ -50,6 +54,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2015,percentage (%),a) time series,bb,code12,40.0
 2016,percentage (%),a) time series,bb,code12,42.5
 2017,percentage (%),a) time series,bb,code12,44.9
+2018,percentage (%),a) time series,bb,code12,45.8
 2008,percentage (%),a) time series,hb,code04,18.3
 2009,percentage (%),a) time series,hb,code04,19.9
 2010,percentage (%),a) time series,hb,code04,19.3
@@ -60,6 +65,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2015,percentage (%),a) time series,hb,code04,28.1
 2016,percentage (%),a) time series,hb,code04,31.0
 2017,percentage (%),a) time series,hb,code04,33.4
+2018,percentage (%),a) time series,hb,code04,35.0
 2008,percentage (%),a) time series,hh,code02,22.9
 2009,percentage (%),a) time series,hh,code02,27.4
 2010,percentage (%),a) time series,hh,code02,28.5
@@ -70,6 +76,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2015,percentage (%),a) time series,hh,code02,40.2
 2016,percentage (%),a) time series,hh,code02,41.0
 2017,percentage (%),a) time series,hh,code02,42.5
+2018,percentage (%),a) time series,hh,code02,44.8
 2008,percentage (%),a) time series,he,code06,20.3
 2009,percentage (%),a) time series,he,code06,23.3
 2010,percentage (%),a) time series,he,code06,25.3
@@ -80,6 +87,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2015,percentage (%),a) time series,he,code06,34.4
 2016,percentage (%),a) time series,he,code06,35.8
 2017,percentage (%),a) time series,he,code06,37.3
+2018,percentage (%),a) time series,he,code06,38.5
 2008,percentage (%),a) time series,mv,code13,20.5
 2009,percentage (%),a) time series,mv,code13,23.3
 2010,percentage (%),a) time series,mv,code13,23.5
@@ -90,6 +98,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2015,percentage (%),a) time series,mv,code13,31.2
 2016,percentage (%),a) time series,mv,code13,35.2
 2017,percentage (%),a) time series,mv,code13,36.5
+2018,percentage (%),a) time series,mv,code13,38.4
 2008,percentage (%),a) time series,ni,code03,19.5
 2009,percentage (%),a) time series,ni,code03,21.6
 2010,percentage (%),a) time series,ni,code03,23.2
@@ -100,6 +109,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2015,percentage (%),a) time series,ni,code03,34.5
 2016,percentage (%),a) time series,ni,code03,36.7
 2017,percentage (%),a) time series,ni,code03,38.4
+2018,percentage (%),a) time series,ni,code03,40.6
 2008,percentage (%),a) time series,nw,code05,16.8
 2009,percentage (%),a) time series,nw,code05,18.5
 2010,percentage (%),a) time series,nw,code05,19.7
@@ -110,6 +120,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2015,percentage (%),a) time series,nw,code05,29.4
 2016,percentage (%),a) time series,nw,code05,31.7
 2017,percentage (%),a) time series,nw,code05,33.4
+2018,percentage (%),a) time series,nw,code05,35.3
 2008,percentage (%),a) time series,rp,code07,17.5
 2009,percentage (%),a) time series,rp,code07,20.1
 2010,percentage (%),a) time series,rp,code07,21.7
@@ -120,6 +131,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2015,percentage (%),a) time series,rp,code07,31.9
 2016,percentage (%),a) time series,rp,code07,33.5
 2017,percentage (%),a) time series,rp,code07,35.0
+2018,percentage (%),a) time series,rp,code07,37.0
 2008,percentage (%),a) time series,sl,code10,12.9
 2009,percentage (%),a) time series,sl,code10,14.6
 2010,percentage (%),a) time series,sl,code10,16.4
@@ -130,6 +142,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2015,percentage (%),a) time series,sl,code10,25.3
 2016,percentage (%),a) time series,sl,code10,28.5
 2017,percentage (%),a) time series,sl,code10,28.4
+2018,percentage (%),a) time series,sl,code10,29.2
 2008,percentage (%),a) time series,sn,code14,26.9
 2009,percentage (%),a) time series,sn,code14,31.0
 2010,percentage (%),a) time series,sn,code14,33.0
@@ -140,6 +153,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2015,percentage (%),a) time series,sn,code14,47.5
 2016,percentage (%),a) time series,sn,code14,49.1
 2017,percentage (%),a) time series,sn,code14,51.9
+2018,percentage (%),a) time series,sn,code14,53.5
 2008,percentage (%),a) time series,st,code15,17.6
 2009,percentage (%),a) time series,st,code15,17.9
 2010,percentage (%),a) time series,st,code15,20.1
@@ -150,6 +164,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2015,percentage (%),a) time series,st,code15,31.7
 2016,percentage (%),a) time series,st,code15,35.1
 2017,percentage (%),a) time series,st,code15,36.8
+2018,percentage (%),a) time series,st,code15,38.8
 2008,percentage (%),a) time series,sh,code01,18.4
 2009,percentage (%),a) time series,sh,code01,19.9
 2010,percentage (%),a) time series,sh,code01,22.0
@@ -160,6 +175,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2015,percentage (%),a) time series,sh,code01,30.8
 2016,percentage (%),a) time series,sh,code01,33.4
 2017,percentage (%),a) time series,sh,code01,34.6
+2018,percentage (%),a) time series,sh,code01,36.5
 2008,percentage (%),a) time series,th,code16,25.0
 2009,percentage (%),a) time series,th,code16,28.4
 2010,percentage (%),a) time series,th,code16,29.4
@@ -170,3 +186,4 @@ Year,Units,display,Bundesland,GeoCode,Value
 2015,percentage (%),a) time series,th,code16,43.3
 2016,percentage (%),a) time series,th,code16,45.2
 2017,percentage (%),a) time series,th,code16,47.6
+2018,percentage (%),a) time series,th,code16,49.1
