@@ -23,6 +23,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,,,,81.8
 2018,percentage (%),foreign school graduates,,,,81.8
 2019,percentage (%),foreign school graduates,,,,82.4
+2020,percentage (%),foreign school graduates,,,,85.3
 2002,percentage (%),foreign school graduates,female,,,84.4
 2003,percentage (%),foreign school graduates,female,,,84.6
 2004,percentage (%),foreign school graduates,female,,,85.8
@@ -41,6 +42,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,female,,,86.4
 2018,percentage (%),foreign school graduates,female,,,85.6
 2019,percentage (%),foreign school graduates,female,,,85.8
+2020,percentage (%),foreign school graduates,female,,,88.0
 2002,percentage (%),foreign school graduates,male,,,76.9
 2003,percentage (%),foreign school graduates,male,,,77.4
 2004,percentage (%),foreign school graduates,male,,,78.3
@@ -59,6 +61,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,male,,,78.0
 2018,percentage (%),foreign school graduates,male,,,78.8
 2019,percentage (%),foreign school graduates,male,,,79.5
+2020,percentage (%),foreign school graduates,male,,,83.0
 1996,percentage (%),german school graduates (share of all german leavers),,,,92.3
 1997,percentage (%),german school graduates (share of all german leavers),,,,92.3
 1998,percentage (%),german school graduates (share of all german leavers),,,,92.1
@@ -83,6 +86,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),german school graduates (share of all german leavers),,,,94.8
 2018,percentage (%),german school graduates (share of all german leavers),,,,94.6
 2019,percentage (%),german school graduates (share of all german leavers),,,,94.5
+2020,percentage (%),german school graduates (share of all german leavers),,,,94.9
 1996,percentage (%),foreign school graduates,a) total,bw,code08,80.0
 1997,percentage (%),foreign school graduates,a) total,bw,code08,80.3
 1998,percentage (%),foreign school graduates,a) total,bw,code08,81.2
@@ -107,6 +111,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,a) total,bw,code08,80.6
 2018,percentage (%),foreign school graduates,a) total,bw,code08,81.5
 2019,percentage (%),foreign school graduates,a) total,bw,code08,84.1
+2020,percentage (%),foreign school graduates,a) total,bw,code08,85.5
 1996,percentage (%),foreign school graduates,female,bw,code08,84.1
 1997,percentage (%),foreign school graduates,female,bw,code08,84.4
 1998,percentage (%),foreign school graduates,female,bw,code08,84.6
@@ -131,6 +136,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,female,bw,code08,85.5
 2018,percentage (%),foreign school graduates,female,bw,code08,85.5
 2019,percentage (%),foreign school graduates,female,bw,code08,87.0
+2020,percentage (%),foreign school graduates,female,bw,code08,88.1
 1996,percentage (%),foreign school graduates,male,bw,code08,76.3
 1997,percentage (%),foreign school graduates,male,bw,code08,76.6
 1998,percentage (%),foreign school graduates,male,bw,code08,78.0
@@ -155,6 +161,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,male,bw,code08,76.5
 2018,percentage (%),foreign school graduates,male,bw,code08,78.2
 2019,percentage (%),foreign school graduates,male,bw,code08,81.7
+2020,percentage (%),foreign school graduates,male,bw,code08,83.2
 1996,percentage (%),foreign school graduates,a) total,by,code09,74.8
 1997,percentage (%),foreign school graduates,a) total,by,code09,74.8
 1998,percentage (%),foreign school graduates,a) total,by,code09,72.8
@@ -179,6 +186,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,a) total,by,code09,79.0
 2018,percentage (%),foreign school graduates,a) total,by,code09,81.2
 2019,percentage (%),foreign school graduates,a) total,by,code09,82.2
+2020,percentage (%),foreign school graduates,a) total,by,code09,84.4
 1996,percentage (%),foreign school graduates,female,by,code09,80.1
 1997,percentage (%),foreign school graduates,female,by,code09,80.3
 1998,percentage (%),foreign school graduates,female,by,code09,76.8
@@ -203,6 +211,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,female,by,code09,86.0
 2018,percentage (%),foreign school graduates,female,by,code09,85.7
 2019,percentage (%),foreign school graduates,female,by,code09,86.6
+2020,percentage (%),foreign school graduates,female,by,code09,87.4
 1996,percentage (%),foreign school graduates,male,by,code09,70.1
 1997,percentage (%),foreign school graduates,male,by,code09,69.6
 1998,percentage (%),foreign school graduates,male,by,code09,69.1
@@ -227,6 +236,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,male,by,code09,73.4
 2018,percentage (%),foreign school graduates,male,by,code09,77.8
 2019,percentage (%),foreign school graduates,male,by,code09,78.5
+2020,percentage (%),foreign school graduates,male,by,code09,81.8
 1996,percentage (%),foreign school graduates,a) total,be,code11,73.3
 1997,percentage (%),foreign school graduates,a) total,be,code11,73.0
 1998,percentage (%),foreign school graduates,a) total,be,code11,69.4
@@ -251,6 +261,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,a) total,be,code11,79.2
 2018,percentage (%),foreign school graduates,a) total,be,code11,78.3
 2019,percentage (%),foreign school graduates,a) total,be,code11,81.1
+2020,percentage (%),foreign school graduates,a) total,be,code11,92.8
 1996,percentage (%),foreign school graduates,female,be,code11,79.8
 1997,percentage (%),foreign school graduates,female,be,code11,78.3
 1998,percentage (%),foreign school graduates,female,be,code11,76.2
@@ -275,6 +286,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,female,be,code11,82.4
 2018,percentage (%),foreign school graduates,female,be,code11,83.0
 2019,percentage (%),foreign school graduates,female,be,code11,85.3
+2020,percentage (%),foreign school graduates,female,be,code11,95.3
 1996,percentage (%),foreign school graduates,male,be,code11,67.5
 1997,percentage (%),foreign school graduates,male,be,code11,68.7
 1998,percentage (%),foreign school graduates,male,be,code11,63.8
@@ -299,6 +311,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,male,be,code11,76.3
 2018,percentage (%),foreign school graduates,male,be,code11,74.4
 2019,percentage (%),foreign school graduates,male,be,code11,77.5
+2020,percentage (%),foreign school graduates,male,be,code11,90.6
 1996,percentage (%),foreign school graduates,a) total,bb,code12,95.8
 1997,percentage (%),foreign school graduates,a) total,bb,code12,92.7
 1998,percentage (%),foreign school graduates,a) total,bb,code12,91.1
@@ -323,6 +336,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,a) total,bb,code12,82.7
 2018,percentage (%),foreign school graduates,a) total,bb,code12,81.0
 2019,percentage (%),foreign school graduates,a) total,bb,code12,83.9
+2020,percentage (%),foreign school graduates,a) total,bb,code12,93.8
 1996,percentage (%),foreign school graduates,female,bb,code12,100.0
 1997,percentage (%),foreign school graduates,female,bb,code12,97.8
 1998,percentage (%),foreign school graduates,female,bb,code12,94.3
@@ -347,6 +361,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,female,bb,code12,87.8
 2018,percentage (%),foreign school graduates,female,bb,code12,83.7
 2019,percentage (%),foreign school graduates,female,bb,code12,86.2
+2020,percentage (%),foreign school graduates,female,bb,code12,92.4
 1996,percentage (%),foreign school graduates,male,bb,code12,91.7
 1997,percentage (%),foreign school graduates,male,bb,code12,87.2
 1998,percentage (%),foreign school graduates,male,bb,code12,87.4
@@ -371,6 +386,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,male,bb,code12,79.5
 2018,percentage (%),foreign school graduates,male,bb,code12,79.4
 2019,percentage (%),foreign school graduates,male,bb,code12,82.6
+2020,percentage (%),foreign school graduates,male,bb,code12,95.0
 1996,percentage (%),foreign school graduates,a) total,hb,code04,77.6
 1997,percentage (%),foreign school graduates,a) total,hb,code04,82.4
 1998,percentage (%),foreign school graduates,a) total,hb,code04,82.4
@@ -395,6 +411,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,a) total,hb,code04,78.7
 2018,percentage (%),foreign school graduates,a) total,hb,code04,79.7
 2019,percentage (%),foreign school graduates,a) total,hb,code04,73.9
+2020,percentage (%),foreign school graduates,a) total,hb,code04,76.4
 1996,percentage (%),foreign school graduates,female,hb,code04,81.0
 1997,percentage (%),foreign school graduates,female,hb,code04,86.9
 1998,percentage (%),foreign school graduates,female,hb,code04,84.8
@@ -419,6 +436,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,female,hb,code04,82.9
 2018,percentage (%),foreign school graduates,female,hb,code04,82.1
 2019,percentage (%),foreign school graduates,female,hb,code04,75.3
+2020,percentage (%),foreign school graduates,female,hb,code04,78.3
 1996,percentage (%),foreign school graduates,male,hb,code04,74.6
 1997,percentage (%),foreign school graduates,male,hb,code04,78.7
 1998,percentage (%),foreign school graduates,male,hb,code04,80.2
@@ -443,6 +461,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,male,hb,code04,75.0
 2018,percentage (%),foreign school graduates,male,hb,code04,77.9
 2019,percentage (%),foreign school graduates,male,hb,code04,72.8
+2020,percentage (%),foreign school graduates,male,hb,code04,74.8
 1996,percentage (%),foreign school graduates,a) total,hh,code02,81.4
 1997,percentage (%),foreign school graduates,a) total,hh,code02,82.8
 1998,percentage (%),foreign school graduates,a) total,hh,code02,81.8
@@ -467,6 +486,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,a) total,hh,code02,87.6
 2018,percentage (%),foreign school graduates,a) total,hh,code02,84.9
 2019,percentage (%),foreign school graduates,a) total,hh,code02,86.7
+2020,percentage (%),foreign school graduates,a) total,hh,code02,84.5
 1996,percentage (%),foreign school graduates,female,hh,code02,83.8
 1997,percentage (%),foreign school graduates,female,hh,code02,86.0
 1998,percentage (%),foreign school graduates,female,hh,code02,85.1
@@ -491,6 +511,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,female,hh,code02,89.0
 2018,percentage (%),foreign school graduates,female,hh,code02,87.3
 2019,percentage (%),foreign school graduates,female,hh,code02,89.2
+2020,percentage (%),foreign school graduates,female,hh,code02,87.0
 1996,percentage (%),foreign school graduates,male,hh,code02,79.2
 1997,percentage (%),foreign school graduates,male,hh,code02,79.8
 1998,percentage (%),foreign school graduates,male,hh,code02,79.0
@@ -515,6 +536,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,male,hh,code02,86.4
 2018,percentage (%),foreign school graduates,male,hh,code02,83.1
 2019,percentage (%),foreign school graduates,male,hh,code02,84.7
+2020,percentage (%),foreign school graduates,male,hh,code02,82.4
 1996,percentage (%),foreign school graduates,a) total,he,code06,79.0
 1997,percentage (%),foreign school graduates,a) total,he,code06,80.5
 1998,percentage (%),foreign school graduates,a) total,he,code06,82.0
@@ -539,6 +561,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,a) total,he,code06,89.7
 2018,percentage (%),foreign school graduates,a) total,he,code06,89.7
 2019,percentage (%),foreign school graduates,a) total,he,code06,88.7
+2020,percentage (%),foreign school graduates,a) total,he,code06,90.4
 1996,percentage (%),foreign school graduates,female,he,code06,83.2
 1997,percentage (%),foreign school graduates,female,he,code06,84.2
 1998,percentage (%),foreign school graduates,female,he,code06,85.9
@@ -563,6 +586,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,female,he,code06,91.2
 2018,percentage (%),foreign school graduates,female,he,code06,91.9
 2019,percentage (%),foreign school graduates,female,he,code06,91.1
+2020,percentage (%),foreign school graduates,female,he,code06,92.9
 1996,percentage (%),foreign school graduates,male,he,code06,75.4
 1997,percentage (%),foreign school graduates,male,he,code06,77.1
 1998,percentage (%),foreign school graduates,male,he,code06,78.4
@@ -587,6 +611,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,male,he,code06,88.4
 2018,percentage (%),foreign school graduates,male,he,code06,88.0
 2019,percentage (%),foreign school graduates,male,he,code06,86.7
+2020,percentage (%),foreign school graduates,male,he,code06,88.1
 1996,percentage (%),foreign school graduates,a) total,mv,code13,87.2
 1997,percentage (%),foreign school graduates,a) total,mv,code13,85.7
 1998,percentage (%),foreign school graduates,a) total,mv,code13,73.9
@@ -611,6 +636,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,a) total,mv,code13,80.2
 2018,percentage (%),foreign school graduates,a) total,mv,code13,75.0
 2019,percentage (%),foreign school graduates,a) total,mv,code13,79.2
+2020,percentage (%),foreign school graduates,a) total,mv,code13,87.7
 1996,percentage (%),foreign school graduates,female,mv,code13,100.0
 1997,percentage (%),foreign school graduates,female,mv,code13,90.0
 1998,percentage (%),foreign school graduates,female,mv,code13,73.7
@@ -635,6 +661,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,female,mv,code13,89.9
 2018,percentage (%),foreign school graduates,female,mv,code13,84.7
 2019,percentage (%),foreign school graduates,female,mv,code13,82.8
+2020,percentage (%),foreign school graduates,female,mv,code13,91.1
 1996,percentage (%),foreign school graduates,male,mv,code13,75.0
 1997,percentage (%),foreign school graduates,male,mv,code13,81.8
 1998,percentage (%),foreign school graduates,male,mv,code13,74.1
@@ -659,6 +686,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,male,mv,code13,73.3
 2018,percentage (%),foreign school graduates,male,mv,code13,69.7
 2019,percentage (%),foreign school graduates,male,mv,code13,76.8
+2020,percentage (%),foreign school graduates,male,mv,code13,85.1
 1996,percentage (%),foreign school graduates,a) total,ni,code03,72.7
 1997,percentage (%),foreign school graduates,a) total,ni,code03,72.7
 1998,percentage (%),foreign school graduates,a) total,ni,code03,74.8
@@ -683,6 +711,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,a) total,ni,code03,77.1
 2018,percentage (%),foreign school graduates,a) total,ni,code03,77.1
 2019,percentage (%),foreign school graduates,a) total,ni,code03,76.9
+2020,percentage (%),foreign school graduates,a) total,ni,code03,79.5
 1996,percentage (%),foreign school graduates,female,ni,code03,77.4
 1997,percentage (%),foreign school graduates,female,ni,code03,77.4
 1998,percentage (%),foreign school graduates,female,ni,code03,80.1
@@ -707,6 +736,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,female,ni,code03,82.0
 2018,percentage (%),foreign school graduates,female,ni,code03,80.6
 2019,percentage (%),foreign school graduates,female,ni,code03,80.5
+2020,percentage (%),foreign school graduates,female,ni,code03,82.1
 1996,percentage (%),foreign school graduates,male,ni,code03,68.6
 1997,percentage (%),foreign school graduates,male,ni,code03,68.6
 1998,percentage (%),foreign school graduates,male,ni,code03,70.6
@@ -731,6 +761,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,male,ni,code03,73.2
 2018,percentage (%),foreign school graduates,male,ni,code03,74.5
 2019,percentage (%),foreign school graduates,male,ni,code03,73.9
+2020,percentage (%),foreign school graduates,male,ni,code03,77.2
 1996,percentage (%),foreign school graduates,a) total,nw,code05,87.3
 1997,percentage (%),foreign school graduates,a) total,nw,code05,87.0
 1998,percentage (%),foreign school graduates,a) total,nw,code05,87.2
@@ -755,6 +786,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,a) total,nw,code05,84.6
 2018,percentage (%),foreign school graduates,a) total,nw,code05,84.0
 2019,percentage (%),foreign school graduates,a) total,nw,code05,84.1
+2020,percentage (%),foreign school graduates,a) total,nw,code05,86.7
 1996,percentage (%),foreign school graduates,female,nw,code05,90.2
 1997,percentage (%),foreign school graduates,female,nw,code05,90.2
 1998,percentage (%),foreign school graduates,female,nw,code05,90.4
@@ -779,6 +811,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,female,nw,code05,87.8
 2018,percentage (%),foreign school graduates,female,nw,code05,86.7
 2019,percentage (%),foreign school graduates,female,nw,code05,86.5
+2020,percentage (%),foreign school graduates,female,nw,code05,89.1
 1996,percentage (%),foreign school graduates,male,nw,code05,84.7
 1997,percentage (%),foreign school graduates,male,nw,code05,84.1
 1998,percentage (%),foreign school graduates,male,nw,code05,84.3
@@ -803,6 +836,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,male,nw,code05,81.7
 2018,percentage (%),foreign school graduates,male,nw,code05,81.7
 2019,percentage (%),foreign school graduates,male,nw,code05,82.0
+2020,percentage (%),foreign school graduates,male,nw,code05,84.6
 1996,percentage (%),foreign school graduates,a) total,rp,code07,78.3
 1997,percentage (%),foreign school graduates,a) total,rp,code07,77.2
 1998,percentage (%),foreign school graduates,a) total,rp,code07,74.8
@@ -827,6 +861,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,a) total,rp,code07,82.4
 2018,percentage (%),foreign school graduates,a) total,rp,code07,82.1
 2019,percentage (%),foreign school graduates,a) total,rp,code07,82.2
+2020,percentage (%),foreign school graduates,a) total,rp,code07,85.9
 1996,percentage (%),foreign school graduates,female,rp,code07,84.8
 1997,percentage (%),foreign school graduates,female,rp,code07,81.9
 1998,percentage (%),foreign school graduates,female,rp,code07,81.2
@@ -851,6 +886,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,female,rp,code07,86.9
 2018,percentage (%),foreign school graduates,female,rp,code07,87.2
 2019,percentage (%),foreign school graduates,female,rp,code07,86.6
+2020,percentage (%),foreign school graduates,female,rp,code07,89.6
 1996,percentage (%),foreign school graduates,male,rp,code07,73.1
 1997,percentage (%),foreign school graduates,male,rp,code07,72.9
 1998,percentage (%),foreign school graduates,male,rp,code07,69.5
@@ -875,6 +911,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,male,rp,code07,78.7
 2018,percentage (%),foreign school graduates,male,rp,code07,78.3
 2019,percentage (%),foreign school graduates,male,rp,code07,78.5
+2020,percentage (%),foreign school graduates,male,rp,code07,82.7
 1996,percentage (%),foreign school graduates,a) total,sl,code10,76.6
 1997,percentage (%),foreign school graduates,a) total,sl,code10,82.8
 1998,percentage (%),foreign school graduates,a) total,sl,code10,80.6
@@ -899,6 +936,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,a) total,sl,code10,84.9
 2018,percentage (%),foreign school graduates,a) total,sl,code10,79.8
 2019,percentage (%),foreign school graduates,a) total,sl,code10,78.5
+2020,percentage (%),foreign school graduates,a) total,sl,code10,81.9
 1996,percentage (%),foreign school graduates,female,sl,code10,76.6
 1997,percentage (%),foreign school graduates,female,sl,code10,82.8
 1998,percentage (%),foreign school graduates,female,sl,code10,80.6
@@ -923,6 +961,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,female,sl,code10,84.9
 2018,percentage (%),foreign school graduates,female,sl,code10,79.8
 2019,percentage (%),foreign school graduates,female,sl,code10,83.9
+2020,percentage (%),foreign school graduates,female,sl,code10,82.0
 1996,percentage (%),foreign school graduates,male,sl,code10,67.7
 1997,percentage (%),foreign school graduates,male,sl,code10,73.4
 1998,percentage (%),foreign school graduates,male,sl,code10,70.9
@@ -947,6 +986,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,male,sl,code10,68.4
 2018,percentage (%),foreign school graduates,male,sl,code10,71.9
 2019,percentage (%),foreign school graduates,male,sl,code10,73.8
+2020,percentage (%),foreign school graduates,male,sl,code10,81.8
 1996,percentage (%),foreign school graduates,a) total,sn,code14,63.9
 1997,percentage (%),foreign school graduates,a) total,sn,code14,69.1
 1998,percentage (%),foreign school graduates,a) total,sn,code14,68.8
@@ -971,6 +1011,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,a) total,sn,code14,81.8
 2018,percentage (%),foreign school graduates,a) total,sn,code14,77.3
 2019,percentage (%),foreign school graduates,a) total,sn,code14,79.1
+2020,percentage (%),foreign school graduates,a) total,sn,code14,83.2
 1996,percentage (%),foreign school graduates,female,sn,code14,75.5
 1997,percentage (%),foreign school graduates,female,sn,code14,72.5
 1998,percentage (%),foreign school graduates,female,sn,code14,73.9
@@ -995,6 +1036,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,female,sn,code14,86.3
 2018,percentage (%),foreign school graduates,female,sn,code14,83.9
 2019,percentage (%),foreign school graduates,female,sn,code14,82.7
+2020,percentage (%),foreign school graduates,female,sn,code14,87.5
 1996,percentage (%),foreign school graduates,male,sn,code14,55.7
 1997,percentage (%),foreign school graduates,male,sn,code14,64.4
 1998,percentage (%),foreign school graduates,male,sn,code14,64.7
@@ -1019,6 +1061,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,male,sn,code14,78.1
 2018,percentage (%),foreign school graduates,male,sn,code14,72.5
 2019,percentage (%),foreign school graduates,male,sn,code14,76.4
+2020,percentage (%),foreign school graduates,male,sn,code14,79.6
 1996,percentage (%),foreign school graduates,a) total,st,code15,70.5
 1997,percentage (%),foreign school graduates,a) total,st,code15,60.7
 1998,percentage (%),foreign school graduates,a) total,st,code15,63.9
@@ -1043,6 +1086,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,a) total,st,code15,60.0
 2018,percentage (%),foreign school graduates,a) total,st,code15,61.8
 2019,percentage (%),foreign school graduates,a) total,st,code15,70.6
+2020,percentage (%),foreign school graduates,a) total,st,code15,75.3
 1996,percentage (%),foreign school graduates,female,st,code15,81.8
 1997,percentage (%),foreign school graduates,female,st,code15,67.9
 1998,percentage (%),foreign school graduates,female,st,code15,74.6
@@ -1067,6 +1111,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,female,st,code15,69.4
 2018,percentage (%),foreign school graduates,female,st,code15,66.2
 2019,percentage (%),foreign school graduates,female,st,code15,76.4
+2020,percentage (%),foreign school graduates,female,st,code15,80.6
 1996,percentage (%),foreign school graduates,male,st,code15,64.1
 1997,percentage (%),foreign school graduates,male,st,code15,55.1
 1998,percentage (%),foreign school graduates,male,st,code15,56.0
@@ -1091,6 +1136,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,male,st,code15,54.5
 2018,percentage (%),foreign school graduates,male,st,code15,58.7
 2019,percentage (%),foreign school graduates,male,st,code15,67.3
+2020,percentage (%),foreign school graduates,male,st,code15,71.9
 1996,percentage (%),foreign school graduates,a) total,sh,code01,77.3
 1997,percentage (%),foreign school graduates,a) total,sh,code01,74.5
 1998,percentage (%),foreign school graduates,a) total,sh,code01,75.8
@@ -1115,6 +1161,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,a) total,sh,code01,80.2
 2018,percentage (%),foreign school graduates,a) total,sh,code01,77.7
 2019,percentage (%),foreign school graduates,a) total,sh,code01,74.3
+2020,percentage (%),foreign school graduates,a) total,sh,code01,77.7
 1996,percentage (%),foreign school graduates,female,sh,code01,80.4
 1997,percentage (%),foreign school graduates,female,sh,code01,82.3
 1998,percentage (%),foreign school graduates,female,sh,code01,79.6
@@ -1139,6 +1186,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,female,sh,code01,86.3
 2018,percentage (%),foreign school graduates,female,sh,code01,82.4
 2019,percentage (%),foreign school graduates,female,sh,code01,79.7
+2020,percentage (%),foreign school graduates,female,sh,code01,80.8
 1996,percentage (%),foreign school graduates,male,sh,code01,74.5
 1997,percentage (%),foreign school graduates,male,sh,code01,67.9
 1998,percentage (%),foreign school graduates,male,sh,code01,72.3
@@ -1163,6 +1211,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,male,sh,code01,75.4
 2018,percentage (%),foreign school graduates,male,sh,code01,73.9
 2019,percentage (%),foreign school graduates,male,sh,code01,69.8
+2020,percentage (%),foreign school graduates,male,sh,code01,75.0
 1996,percentage (%),foreign school graduates,a) total,th,code16,62.1
 1997,percentage (%),foreign school graduates,a) total,th,code16,60.5
 1998,percentage (%),foreign school graduates,a) total,th,code16,61.5
@@ -1187,6 +1236,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,a) total,th,code16,53.2
 2018,percentage (%),foreign school graduates,a) total,th,code16,61.8
 2019,percentage (%),foreign school graduates,a) total,th,code16,67.1
+2020,percentage (%),foreign school graduates,a) total,th,code16,72.7
 1996,percentage (%),foreign school graduates,female,th,code16,56.5
 1997,percentage (%),foreign school graduates,female,th,code16,58.3
 1998,percentage (%),foreign school graduates,female,th,code16,74.4
@@ -1211,6 +1261,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,female,th,code16,67.4
 2018,percentage (%),foreign school graduates,female,th,code16,67.9
 2019,percentage (%),foreign school graduates,female,th,code16,76.4
+2020,percentage (%),foreign school graduates,female,th,code16,74.8
 1996,percentage (%),foreign school graduates,male,th,code16,65.1
 1997,percentage (%),foreign school graduates,male,th,code16,62.5
 1998,percentage (%),foreign school graduates,male,th,code16,52.6
@@ -1235,6 +1286,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),foreign school graduates,male,th,code16,44.9
 2018,percentage (%),foreign school graduates,male,th,code16,58.8
 2019,percentage (%),foreign school graduates,male,th,code16,60.9
+2020,percentage (%),foreign school graduates,male,th,code16,71.0
 1996,percentage (%),german school graduates (share of all german leavers),,bw,,93.7
 1997,percentage (%),german school graduates (share of all german leavers),,bw,,94.0
 1998,percentage (%),german school graduates (share of all german leavers),,bw,,94.0
@@ -1259,6 +1311,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),german school graduates (share of all german leavers),,bw,,94.8
 2018,percentage (%),german school graduates (share of all german leavers),,bw,,94.9
 2019,percentage (%),german school graduates (share of all german leavers),,bw,,95.2
+2020,percentage (%),german school graduates (share of all german leavers),,bw,,95.6
 1996,percentage (%),german school graduates (share of all german leavers),,by,,93.1
 1997,percentage (%),german school graduates (share of all german leavers),,by,,92.7
 1998,percentage (%),german school graduates (share of all german leavers),,by,,92.3
@@ -1283,6 +1336,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),german school graduates (share of all german leavers),,by,,96.1
 2018,percentage (%),german school graduates (share of all german leavers),,by,,95.9
 2019,percentage (%),german school graduates (share of all german leavers),,by,,96.0
+2020,percentage (%),german school graduates (share of all german leavers),,by,,96.2
 1996,percentage (%),german school graduates (share of all german leavers),,be,,90.8
 1997,percentage (%),german school graduates (share of all german leavers),,be,,90.3
 1998,percentage (%),german school graduates (share of all german leavers),,be,,89.5
@@ -1307,6 +1361,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),german school graduates (share of all german leavers),,be,,92.5
 2018,percentage (%),german school graduates (share of all german leavers),,be,,92.1
 2019,percentage (%),german school graduates (share of all german leavers),,be,,92.9
+2020,percentage (%),german school graduates (share of all german leavers),,be,,93.4
 1996,percentage (%),german school graduates (share of all german leavers),,bb,,90.5
 1997,percentage (%),german school graduates (share of all german leavers),,bb,,91.5
 1998,percentage (%),german school graduates (share of all german leavers),,bb,,91.2
@@ -1331,6 +1386,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),german school graduates (share of all german leavers),,bb,,92.9
 2018,percentage (%),german school graduates (share of all german leavers),,bb,,92.9
 2019,percentage (%),german school graduates (share of all german leavers),,bb,,93.0
+2020,percentage (%),german school graduates (share of all german leavers),,bb,,96.0
 1996,percentage (%),german school graduates (share of all german leavers),,hb,,91.8
 1997,percentage (%),german school graduates (share of all german leavers),,hb,,92.7
 1998,percentage (%),german school graduates (share of all german leavers),,hb,,90.6
@@ -1355,6 +1411,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),german school graduates (share of all german leavers),,hb,,94.0
 2018,percentage (%),german school graduates (share of all german leavers),,hb,,94.5
 2019,percentage (%),german school graduates (share of all german leavers),,hb,,93.8
+2020,percentage (%),german school graduates (share of all german leavers),,hb,,94.6
 1996,percentage (%),german school graduates (share of all german leavers),,hh,,90.7
 1997,percentage (%),german school graduates (share of all german leavers),,hh,,90.1
 1998,percentage (%),german school graduates (share of all german leavers),,hh,,90.6
@@ -1379,6 +1436,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),german school graduates (share of all german leavers),,hh,,95.8
 2018,percentage (%),german school graduates (share of all german leavers),,hh,,95.0
 2019,percentage (%),german school graduates (share of all german leavers),,hh,,95.1
+2020,percentage (%),german school graduates (share of all german leavers),,hh,,94.7
 1996,percentage (%),german school graduates (share of all german leavers),,he,,93.1
 1997,percentage (%),german school graduates (share of all german leavers),,he,,93.2
 1998,percentage (%),german school graduates (share of all german leavers),,he,,93.3
@@ -1403,6 +1461,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),german school graduates (share of all german leavers),,he,,95.9
 2018,percentage (%),german school graduates (share of all german leavers),,he,,95.9
 2019,percentage (%),german school graduates (share of all german leavers),,he,,95.8
+2020,percentage (%),german school graduates (share of all german leavers),,he,,96.5
 1996,percentage (%),german school graduates (share of all german leavers),,mv,,90.6
 1997,percentage (%),german school graduates (share of all german leavers),,mv,,90.8
 1998,percentage (%),german school graduates (share of all german leavers),,mv,,90.3
@@ -1427,6 +1486,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),german school graduates (share of all german leavers),,mv,,91.5
 2018,percentage (%),german school graduates (share of all german leavers),,mv,,91.9
 2019,percentage (%),german school graduates (share of all german leavers),,mv,,91.4
+2020,percentage (%),german school graduates (share of all german leavers),,mv,,93.1
 1996,percentage (%),german school graduates (share of all german leavers),,ni,,91.2
 1997,percentage (%),german school graduates (share of all german leavers),,ni,,91.1
 1998,percentage (%),german school graduates (share of all german leavers),,ni,,91.4
@@ -1451,6 +1511,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),german school graduates (share of all german leavers),,ni,,95.4
 2018,percentage (%),german school graduates (share of all german leavers),,ni,,95.1
 2019,percentage (%),german school graduates (share of all german leavers),,ni,,94.7
+2020,percentage (%),german school graduates (share of all german leavers),,ni,,93.4
 1996,percentage (%),german school graduates (share of all german leavers),,nw,,95.3
 1997,percentage (%),german school graduates (share of all german leavers),,nw,,95.0
 1998,percentage (%),german school graduates (share of all german leavers),,nw,,95.1
@@ -1475,6 +1536,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),german school graduates (share of all german leavers),,nw,,95.4
 2018,percentage (%),german school graduates (share of all german leavers),,nw,,95.0
 2019,percentage (%),german school graduates (share of all german leavers),,nw,,95.0
+2020,percentage (%),german school graduates (share of all german leavers),,nw,,95.4
 1996,percentage (%),german school graduates (share of all german leavers),,rp,,91.4
 1997,percentage (%),german school graduates (share of all german leavers),,rp,,91.5
 1998,percentage (%),german school graduates (share of all german leavers),,rp,,91.4
@@ -1499,6 +1561,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),german school graduates (share of all german leavers),,rp,,94.4
 2018,percentage (%),german school graduates (share of all german leavers),,rp,,94.3
 2019,percentage (%),german school graduates (share of all german leavers),,rp,,93.7
+2020,percentage (%),german school graduates (share of all german leavers),,rp,,94.2
 1996,percentage (%),german school graduates (share of all german leavers),,sl,,90.7
 1997,percentage (%),german school graduates (share of all german leavers),,sl,,90.5
 1998,percentage (%),german school graduates (share of all german leavers),,sl,,90.5
@@ -1523,6 +1586,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),german school graduates (share of all german leavers),,sl,,95.4
 2018,percentage (%),german school graduates (share of all german leavers),,sl,,95.2
 2019,percentage (%),german school graduates (share of all german leavers),,sl,,94.7
+2020,percentage (%),german school graduates (share of all german leavers),,sl,,95.4
 1996,percentage (%),german school graduates (share of all german leavers),,sn,,90.3
 1997,percentage (%),german school graduates (share of all german leavers),,sn,,90.6
 1998,percentage (%),german school graduates (share of all german leavers),,sn,,89.7
@@ -1547,6 +1611,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),german school graduates (share of all german leavers),,sn,,92.5
 2018,percentage (%),german school graduates (share of all german leavers),,sn,,92.4
 2019,percentage (%),german school graduates (share of all german leavers),,sn,,92.5
+2020,percentage (%),german school graduates (share of all german leavers),,sn,,93.0
 1996,percentage (%),german school graduates (share of all german leavers),,st,,89.4
 1997,percentage (%),german school graduates (share of all german leavers),,st,,90.0
 1998,percentage (%),german school graduates (share of all german leavers),,st,,89.1
@@ -1571,6 +1636,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),german school graduates (share of all german leavers),,st,,90.8
 2018,percentage (%),german school graduates (share of all german leavers),,st,,89.9
 2019,percentage (%),german school graduates (share of all german leavers),,st,,90.0
+2020,percentage (%),german school graduates (share of all german leavers),,st,,90.9
 1996,percentage (%),german school graduates (share of all german leavers),,sh,,91.0
 1997,percentage (%),german school graduates (share of all german leavers),,sh,,90.5
 1998,percentage (%),german school graduates (share of all german leavers),,sh,,89.9
@@ -1595,6 +1661,7 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),german school graduates (share of all german leavers),,sh,,93.1
 2018,percentage (%),german school graduates (share of all german leavers),,sh,,92.5
 2019,percentage (%),german school graduates (share of all german leavers),,sh,,91.9
+2020,percentage (%),german school graduates (share of all german leavers),,sh,,92.7
 1996,percentage (%),german school graduates (share of all german leavers),,th,,87.7
 1997,percentage (%),german school graduates (share of all german leavers),,th,,87.8
 1998,percentage (%),german school graduates (share of all german leavers),,th,,87.0
@@ -1619,3 +1686,4 @@ Year,Units,title,sex,Bundesland,GeoCode,Value
 2017,percentage (%),german school graduates (share of all german leavers),,th,,93.0
 2018,percentage (%),german school graduates (share of all german leavers),,th,,92.2
 2019,percentage (%),german school graduates (share of all german leavers),,th,,92.4
+2020,percentage (%),german school graduates (share of all german leavers),,th,,93.6
