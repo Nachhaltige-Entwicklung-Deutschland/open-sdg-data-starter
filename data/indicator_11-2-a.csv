@@ -14,6 +14,7 @@ Year,Units,display,title,Value
 2017,2005 = 100,a) time series,final energy consumption for the carriage of goods,104.3
 2018,2005 = 100,a) time series,final energy consumption for the carriage of goods,104.7
 2019,2005 = 100,a) time series,final energy consumption for the carriage of goods,105.1
+2020,2005 = 100,a) time series,final energy consumption for the carriage of goods,101.8
 2030,2005 = 100,b) target (max),final energy consumption for the carriage of goods,85.0
 2005,2005 = 100,a) time series,goods transport performance,100.0
 2006,2005 = 100,a) time series,goods transport performance,107.5
@@ -30,6 +31,7 @@ Year,Units,display,title,Value
 2017,2005 = 100,a) time series,goods transport performance,119.4
 2018,2005 = 100,a) time series,goods transport performance,120.1
 2019,2005 = 100,a) time series,goods transport performance,121.2
+2020,2005 = 100,a) time series,goods transport performance,115.9
 2005,2005 = 100,a) time series,final energy consumption per tonne-kilometre,100.0
 2006,2005 = 100,a) time series,final energy consumption per tonne-kilometre,98.0
 2007,2005 = 100,a) time series,final energy consumption per tonne-kilometre,96.7
@@ -45,3 +47,4 @@ Year,Units,display,title,Value
 2017,2005 = 100,a) time series,final energy consumption per tonne-kilometre,87.3
 2018,2005 = 100,a) time series,final energy consumption per tonne-kilometre,87.2
 2019,2005 = 100,a) time series,final energy consumption per tonne-kilometre,86.8
+2020,2005 = 100,a) time series,final energy consumption per tonne-kilometre,87.8

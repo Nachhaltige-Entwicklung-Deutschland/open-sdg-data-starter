@@ -13,7 +13,8 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2016,number,a) time series,a) total,,,230688
 2017,number,a) time series,a) total,,,247435
 2018,number,a) time series,a) total,,,267250
-2019,number,a) time series,a) total,,,285450
+2019,number,a) time series,a) total,,,285449
+2020,number,a) time series,a) total,,,298151
 2020,number,b) target (max),a) total,,,237000
 2006,number,a) time series,a) total,bw,code08,20133
 2007,number,a) time series,a) total,bw,code08,19383
@@ -28,7 +29,8 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2016,number,a) time series,a) total,bw,code08,32126
 2017,number,a) time series,a) total,bw,code08,32564
 2018,number,a) time series,a) total,bw,code08,32221
-2019,number,a) time series,a) total,bw,code08,31591
+2019,number,a) time series,a) total,bw,code08,31590
+2020,number,a) time series,a) total,bw,code08,30143
 2006,number,a) time series,a) total,by,code09,13978
 2007,number,a) time series,a) total,by,code09,13633
 2008,number,a) time series,a) total,by,code09,14130
@@ -43,6 +45,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,a) total,by,code09,30357
 2018,number,a) time series,a) total,by,code09,34357
 2019,number,a) time series,a) total,by,code09,37939
+2020,number,a) time series,a) total,by,code09,42253
 2006,number,a) time series,a) total,be,code11,9715
 2007,number,a) time series,a) total,be,code11,10005
 2008,number,a) time series,a) total,be,code11,10531
@@ -57,6 +60,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,a) total,be,code11,19899
 2018,number,a) time series,a) total,be,code11,22086
 2019,number,a) time series,a) total,be,code11,24341
+2020,number,a) time series,a) total,be,code11,25828
 2006,number,a) time series,a) total,bb,code12,2568
 2007,number,a) time series,a) total,bb,code12,2630
 2008,number,a) time series,a) total,bb,code12,2675
@@ -71,6 +75,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,a) total,bb,code12,4947
 2018,number,a) time series,a) total,bb,code12,5378
 2019,number,a) time series,a) total,bb,code12,5905
+2020,number,a) time series,a) total,bb,code12,6244
 2006,number,a) time series,a) total,hb,code04,3789
 2007,number,a) time series,a) total,hb,code04,3644
 2008,number,a) time series,a) total,hb,code04,3552
@@ -85,6 +90,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,a) total,hb,code04,4533
 2018,number,a) time series,a) total,hb,code04,4716
 2019,number,a) time series,a) total,hb,code04,5144
+2020,number,a) time series,a) total,hb,code04,5349
 2006,number,a) time series,a) total,hh,code02,5311
 2007,number,a) time series,a) total,hh,code02,4970
 2008,number,a) time series,a) total,hh,code02,5028
@@ -99,6 +105,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,a) total,hh,code02,7685
 2018,number,a) time series,a) total,hh,code02,8619
 2019,number,a) time series,a) total,hh,code02,9058
+2020,number,a) time series,a) total,hh,code02,9345
 2006,number,a) time series,a) total,he,code06,14955
 2007,number,a) time series,a) total,he,code06,13532
 2008,number,a) time series,a) total,he,code06,15441
@@ -113,6 +120,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,a) total,he,code06,25754
 2018,number,a) time series,a) total,he,code06,27467
 2019,number,a) time series,a) total,he,code06,28777
+2020,number,a) time series,a) total,he,code06,29788
 2006,number,a) time series,a) total,mv,code13,1194
 2007,number,a) time series,a) total,mv,code13,1207
 2008,number,a) time series,a) total,mv,code13,1195
@@ -127,6 +135,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,a) total,mv,code13,2775
 2018,number,a) time series,a) total,mv,code13,3115
 2019,number,a) time series,a) total,mv,code13,3247
+2020,number,a) time series,a) total,mv,code13,3352
 2006,number,a) time series,a) total,ni,code03,10759
 2007,number,a) time series,a) total,ni,code03,10237
 2008,number,a) time series,a) total,ni,code03,10357
@@ -141,6 +150,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,a) total,ni,code03,17702
 2018,number,a) time series,a) total,ni,code03,19333
 2019,number,a) time series,a) total,ni,code03,20687
+2020,number,a) time series,a) total,ni,code03,21354
 2006,number,a) time series,a) total,nw,code05,38324
 2007,number,a) time series,a) total,nw,code05,35303
 2008,number,a) time series,a) total,nw,code05,36388
@@ -155,6 +165,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,a) total,nw,code05,63089
 2018,number,a) time series,a) total,nw,code05,67424
 2019,number,a) time series,a) total,nw,code05,72166
+2020,number,a) time series,a) total,nw,code05,75112
 2006,number,a) time series,a) total,rp,code07,6488
 2007,number,a) time series,a) total,rp,code07,6993
 2008,number,a) time series,a) total,rp,code07,7166
@@ -169,6 +180,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,a) total,rp,code07,8928
 2018,number,a) time series,a) total,rp,code07,10194
 2019,number,a) time series,a) total,rp,code07,11069
+2020,number,a) time series,a) total,rp,code07,11896
 2006,number,a) time series,a) total,sl,code10,1572
 2007,number,a) time series,a) total,sl,code10,1573
 2008,number,a) time series,a) total,sl,code10,1597
@@ -183,6 +195,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,a) total,sl,code10,2481
 2018,number,a) time series,a) total,sl,code10,2725
 2019,number,a) time series,a) total,sl,code10,2961
+2020,number,a) time series,a) total,sl,code10,3114
 2006,number,a) time series,a) total,sn,code14,4963
 2007,number,a) time series,a) total,sn,code14,5139
 2008,number,a) time series,a) total,sn,code14,5053
@@ -197,6 +210,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,a) total,sn,code14,11340
 2018,number,a) time series,a) total,sn,code14,12575
 2019,number,a) time series,a) total,sn,code14,13267
+2020,number,a) time series,a) total,sn,code14,13507
 2006,number,a) time series,a) total,st,code15,3198
 2007,number,a) time series,a) total,st,code15,3247
 2008,number,a) time series,a) total,st,code15,3251
@@ -211,6 +225,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,a) total,st,code15,6091
 2018,number,a) time series,a) total,st,code15,6641
 2019,number,a) time series,a) total,st,code15,7321
+2020,number,a) time series,a) total,st,code15,7679
 2006,number,a) time series,a) total,sh,code01,2406
 2007,number,a) time series,a) total,sh,code01,2416
 2008,number,a) time series,a) total,sh,code01,2436
@@ -225,6 +240,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,a) total,sh,code01,3667
 2018,number,a) time series,a) total,sh,code01,4002
 2019,number,a) time series,a) total,sh,code01,4276
+2020,number,a) time series,a) total,sh,code01,4402
 2006,number,a) time series,a) total,th,code16,1937
 2007,number,a) time series,a) total,th,code16,2176
 2008,number,a) time series,a) total,th,code16,2192
@@ -239,6 +255,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,a) total,th,code16,5623
 2018,number,a) time series,a) total,th,code16,6397
 2019,number,a) time series,a) total,th,code16,7700
+2020,number,a) time series,a) total,th,code16,8785
 2005,number,a) time series,d) students from ldcs,,,4960
 2006,number,a) time series,d) students from ldcs,,,5012
 2007,number,a) time series,d) students from ldcs,,,4933
@@ -254,6 +271,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,d) students from ldcs,,,10576
 2018,number,a) time series,d) students from ldcs,,,11525
 2019,number,a) time series,d) students from ldcs,,,13067
+2020,number,a) time series,d) students from ldcs,,,15055
 2005,number,a) time series,d) students from ldcs,bw,,502
 2006,number,a) time series,d) students from ldcs,bw,,524
 2007,number,a) time series,d) students from ldcs,bw,,532
@@ -269,6 +287,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,d) students from ldcs,bw,,857
 2018,number,a) time series,d) students from ldcs,bw,,833
 2019,number,a) time series,d) students from ldcs,bw,,794
+2020,number,a) time series,d) students from ldcs,bw,,817
 2005,number,a) time series,d) students from ldcs,by,,320
 2006,number,a) time series,d) students from ldcs,by,,359
 2007,number,a) time series,d) students from ldcs,by,,352
@@ -284,6 +303,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,d) students from ldcs,by,,1036
 2018,number,a) time series,d) students from ldcs,by,,1170
 2019,number,a) time series,d) students from ldcs,by,,1347
+2020,number,a) time series,d) students from ldcs,by,,1751
 2005,number,a) time series,d) students from ldcs,be,,362
 2006,number,a) time series,d) students from ldcs,be,,370
 2007,number,a) time series,d) students from ldcs,be,,337
@@ -299,6 +319,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,d) students from ldcs,be,,852
 2018,number,a) time series,d) students from ldcs,be,,896
 2019,number,a) time series,d) students from ldcs,be,,1002
+2020,number,a) time series,d) students from ldcs,be,,1115
 2005,number,a) time series,d) students from ldcs,bb,,124
 2006,number,a) time series,d) students from ldcs,bb,,121
 2007,number,a) time series,d) students from ldcs,bb,,123
@@ -314,6 +335,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,d) students from ldcs,bb,,356
 2018,number,a) time series,d) students from ldcs,bb,,400
 2019,number,a) time series,d) students from ldcs,bb,,495
+2020,number,a) time series,d) students from ldcs,bb,,582
 2005,number,a) time series,d) students from ldcs,hb,,188
 2006,number,a) time series,d) students from ldcs,hb,,192
 2007,number,a) time series,d) students from ldcs,hb,,206
@@ -329,6 +351,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,d) students from ldcs,hb,,312
 2018,number,a) time series,d) students from ldcs,hb,,337
 2019,number,a) time series,d) students from ldcs,hb,,395
+2020,number,a) time series,d) students from ldcs,hb,,471
 2005,number,a) time series,d) students from ldcs,hh,,292
 2006,number,a) time series,d) students from ldcs,hh,,281
 2007,number,a) time series,d) students from ldcs,hh,,260
@@ -344,6 +367,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,d) students from ldcs,hh,,442
 2018,number,a) time series,d) students from ldcs,hh,,495
 2019,number,a) time series,d) students from ldcs,hh,,573
+2020,number,a) time series,d) students from ldcs,hh,,621
 2005,number,a) time series,d) students from ldcs,he,,728
 2006,number,a) time series,d) students from ldcs,he,,731
 2007,number,a) time series,d) students from ldcs,he,,665
@@ -359,6 +383,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,d) students from ldcs,he,,1385
 2018,number,a) time series,d) students from ldcs,he,,1481
 2019,number,a) time series,d) students from ldcs,he,,1649
+2020,number,a) time series,d) students from ldcs,he,,1826
 2005,number,a) time series,d) students from ldcs,mv,,61
 2006,number,a) time series,d) students from ldcs,mv,,66
 2007,number,a) time series,d) students from ldcs,mv,,68
@@ -374,6 +399,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,d) students from ldcs,mv,,143
 2018,number,a) time series,d) students from ldcs,mv,,172
 2019,number,a) time series,d) students from ldcs,mv,,177
+2020,number,a) time series,d) students from ldcs,mv,,155
 2005,number,a) time series,d) students from ldcs,ni,,374
 2006,number,a) time series,d) students from ldcs,ni,,351
 2007,number,a) time series,d) students from ldcs,ni,,340
@@ -389,6 +415,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,d) students from ldcs,ni,,703
 2018,number,a) time series,d) students from ldcs,ni,,757
 2019,number,a) time series,d) students from ldcs,ni,,830
+2020,number,a) time series,d) students from ldcs,ni,,949
 2005,number,a) time series,d) students from ldcs,nw,,1261
 2006,number,a) time series,d) students from ldcs,nw,,1213
 2007,number,a) time series,d) students from ldcs,nw,,1183
@@ -404,6 +431,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,d) students from ldcs,nw,,2684
 2018,number,a) time series,d) students from ldcs,nw,,2921
 2019,number,a) time series,d) students from ldcs,nw,,3316
+2020,number,a) time series,d) students from ldcs,nw,,3768
 2005,number,a) time series,d) students from ldcs,rp,,239
 2006,number,a) time series,d) students from ldcs,rp,,271
 2007,number,a) time series,d) students from ldcs,rp,,313
@@ -419,6 +447,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,d) students from ldcs,rp,,432
 2018,number,a) time series,d) students from ldcs,rp,,500
 2019,number,a) time series,d) students from ldcs,rp,,562
+2020,number,a) time series,d) students from ldcs,rp,,665
 2005,number,a) time series,d) students from ldcs,sl,,95
 2006,number,a) time series,d) students from ldcs,sl,,93
 2007,number,a) time series,d) students from ldcs,sl,,106
@@ -434,6 +463,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,d) students from ldcs,sl,,127
 2018,number,a) time series,d) students from ldcs,sl,,130
 2019,number,a) time series,d) students from ldcs,sl,,140
+2020,number,a) time series,d) students from ldcs,sl,,160
 2005,number,a) time series,d) students from ldcs,sn,,184
 2006,number,a) time series,d) students from ldcs,sn,,200
 2007,number,a) time series,d) students from ldcs,sn,,195
@@ -449,6 +479,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,d) students from ldcs,sn,,449
 2018,number,a) time series,d) students from ldcs,sn,,520
 2019,number,a) time series,d) students from ldcs,sn,,631
+2020,number,a) time series,d) students from ldcs,sn,,719
 2005,number,a) time series,d) students from ldcs,st,,100
 2006,number,a) time series,d) students from ldcs,st,,93
 2007,number,a) time series,d) students from ldcs,st,,88
@@ -464,6 +495,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,d) students from ldcs,st,,288
 2018,number,a) time series,d) students from ldcs,st,,344
 2019,number,a) time series,d) students from ldcs,st,,459
+2020,number,a) time series,d) students from ldcs,st,,550
 2005,number,a) time series,d) students from ldcs,sh,,105
 2006,number,a) time series,d) students from ldcs,sh,,118
 2007,number,a) time series,d) students from ldcs,sh,,132
@@ -479,6 +511,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,d) students from ldcs,sh,,270
 2018,number,a) time series,d) students from ldcs,sh,,295
 2019,number,a) time series,d) students from ldcs,sh,,339
+2020,number,a) time series,d) students from ldcs,sh,,402
 2005,number,a) time series,d) students from ldcs,th,,25
 2006,number,a) time series,d) students from ldcs,th,,29
 2007,number,a) time series,d) students from ldcs,th,,33
@@ -494,6 +527,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,d) students from ldcs,th,,240
 2018,number,a) time series,d) students from ldcs,th,,274
 2019,number,a) time series,d) students from ldcs,th,,357
+2020,number,a) time series,d) students from ldcs,th,,504
 2005,number,a) time series,b) students from other developing and emerging countries,,,129502
 2006,number,a) time series,b) students from other developing and emerging countries,,,129631
 2007,number,a) time series,b) students from other developing and emerging countries,,,124181
@@ -508,7 +542,8 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2016,number,a) time series,b) students from other developing and emerging countries,,,204694
 2017,number,a) time series,b) students from other developing and emerging countries,,,219306
 2018,number,a) time series,b) students from other developing and emerging countries,,,236609
-2019,number,a) time series,b) students from other developing and emerging countries,,,251488
+2019,number,a) time series,b) students from other developing and emerging countries,,,251487
+2020,number,a) time series,b) students from other developing and emerging countries,,,260001
 2005,number,a) time series,b) students from other developing and emerging countries,bw,,18582
 2006,number,a) time series,b) students from other developing and emerging countries,bw,,18379
 2007,number,a) time series,b) students from other developing and emerging countries,bw,,17473
@@ -523,7 +558,8 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2016,number,a) time series,b) students from other developing and emerging countries,bw,,28310
 2017,number,a) time series,b) students from other developing and emerging countries,bw,,28393
 2018,number,a) time series,b) students from other developing and emerging countries,bw,,27934
-2019,number,a) time series,b) students from other developing and emerging countries,bw,,27198
+2019,number,a) time series,b) students from other developing and emerging countries,bw,,27197
+2020,number,a) time series,b) students from other developing and emerging countries,bw,,25283
 2005,number,a) time series,b) students from other developing and emerging countries,by,,12251
 2006,number,a) time series,b) students from other developing and emerging countries,by,,12721
 2007,number,a) time series,b) students from other developing and emerging countries,by,,12324
@@ -539,6 +575,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,b) students from other developing and emerging countries,by,,26821
 2018,number,a) time series,b) students from other developing and emerging countries,by,,30524
 2019,number,a) time series,b) students from other developing and emerging countries,by,,33606
+2020,number,a) time series,b) students from other developing and emerging countries,by,,37132
 2005,number,a) time series,b) students from other developing and emerging countries,be,,9047
 2006,number,a) time series,b) students from other developing and emerging countries,be,,8871
 2007,number,a) time series,b) students from other developing and emerging countries,be,,9202
@@ -554,6 +591,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,b) students from other developing and emerging countries,be,,18083
 2018,number,a) time series,b) students from other developing and emerging countries,be,,20159
 2019,number,a) time series,b) students from other developing and emerging countries,be,,22166
+2020,number,a) time series,b) students from other developing and emerging countries,be,,23355
 2005,number,a) time series,b) students from other developing and emerging countries,bb,,2288
 2006,number,a) time series,b) students from other developing and emerging countries,bb,,2347
 2007,number,a) time series,b) students from other developing and emerging countries,bb,,2396
@@ -569,6 +607,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,b) students from other developing and emerging countries,bb,,4263
 2018,number,a) time series,b) students from other developing and emerging countries,bb,,4618
 2019,number,a) time series,b) students from other developing and emerging countries,bb,,4978
+2020,number,a) time series,b) students from other developing and emerging countries,bb,,5143
 2005,number,a) time series,b) students from other developing and emerging countries,hb,,3751
 2006,number,a) time series,b) students from other developing and emerging countries,hb,,3484
 2007,number,a) time series,b) students from other developing and emerging countries,hb,,3339
@@ -584,6 +623,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,b) students from other developing and emerging countries,hb,,3985
 2018,number,a) time series,b) students from other developing and emerging countries,hb,,4150
 2019,number,a) time series,b) students from other developing and emerging countries,hb,,4500
+2020,number,a) time series,b) students from other developing and emerging countries,hb,,4628
 2005,number,a) time series,b) students from other developing and emerging countries,hh,,4837
 2006,number,a) time series,b) students from other developing and emerging countries,hh,,4860
 2007,number,a) time series,b) students from other developing and emerging countries,hh,,4484
@@ -599,6 +639,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,b) students from other developing and emerging countries,hh,,6778
 2018,number,a) time series,b) students from other developing and emerging countries,hh,,7608
 2019,number,a) time series,b) students from other developing and emerging countries,hh,,7888
+2020,number,a) time series,b) students from other developing and emerging countries,hh,,8046
 2005,number,a) time series,b) students from other developing and emerging countries,he,,13808
 2006,number,a) time series,b) students from other developing and emerging countries,he,,13737
 2007,number,a) time series,b) students from other developing and emerging countries,he,,12328
@@ -614,6 +655,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,b) students from other developing and emerging countries,he,,23165
 2018,number,a) time series,b) students from other developing and emerging countries,he,,24689
 2019,number,a) time series,b) students from other developing and emerging countries,he,,25741
+2020,number,a) time series,b) students from other developing and emerging countries,he,,26496
 2005,number,a) time series,b) students from other developing and emerging countries,mv,,1071
 2006,number,a) time series,b) students from other developing and emerging countries,mv,,1056
 2007,number,a) time series,b) students from other developing and emerging countries,mv,,1063
@@ -629,6 +671,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,b) students from other developing and emerging countries,mv,,2406
 2018,number,a) time series,b) students from other developing and emerging countries,mv,,2691
 2019,number,a) time series,b) students from other developing and emerging countries,mv,,2785
+2020,number,a) time series,b) students from other developing and emerging countries,mv,,2875
 2005,number,a) time series,b) students from other developing and emerging countries,ni,,10134
 2006,number,a) time series,b) students from other developing and emerging countries,ni,,9857
 2007,number,a) time series,b) students from other developing and emerging countries,ni,,9224
@@ -644,6 +687,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,b) students from other developing and emerging countries,ni,,15599
 2018,number,a) time series,b) students from other developing and emerging countries,ni,,17043
 2019,number,a) time series,b) students from other developing and emerging countries,ni,,18259
+2020,number,a) time series,b) students from other developing and emerging countries,ni,,18710
 2005,number,a) time series,b) students from other developing and emerging countries,nw,,35892
 2006,number,a) time series,b) students from other developing and emerging countries,nw,,35688
 2007,number,a) time series,b) students from other developing and emerging countries,nw,,32856
@@ -659,6 +703,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,b) students from other developing and emerging countries,nw,,56753
 2018,number,a) time series,b) students from other developing and emerging countries,nw,,60421
 2019,number,a) time series,b) students from other developing and emerging countries,nw,,64421
+2020,number,a) time series,b) students from other developing and emerging countries,nw,,66566
 2005,number,a) time series,b) students from other developing and emerging countries,rp,,5760
 2006,number,a) time series,b) students from other developing and emerging countries,rp,,5969
 2007,number,a) time series,b) students from other developing and emerging countries,rp,,6413
@@ -674,6 +719,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,b) students from other developing and emerging countries,rp,,7835
 2018,number,a) time series,b) students from other developing and emerging countries,rp,,9016
 2019,number,a) time series,b) students from other developing and emerging countries,rp,,9720
+2020,number,a) time series,b) students from other developing and emerging countries,rp,,10360
 2005,number,a) time series,b) students from other developing and emerging countries,sl,,1243
 2006,number,a) time series,b) students from other developing and emerging countries,sl,,1365
 2007,number,a) time series,b) students from other developing and emerging countries,sl,,1362
@@ -689,6 +735,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,b) students from other developing and emerging countries,sl,,2031
 2018,number,a) time series,b) students from other developing and emerging countries,sl,,2203
 2019,number,a) time series,b) students from other developing and emerging countries,sl,,2441
+2020,number,a) time series,b) students from other developing and emerging countries,sl,,2535
 2005,number,a) time series,b) students from other developing and emerging countries,sn,,4328
 2006,number,a) time series,b) students from other developing and emerging countries,sn,,4440
 2007,number,a) time series,b) students from other developing and emerging countries,sn,,4601
@@ -704,6 +751,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,b) students from other developing and emerging countries,sn,,9846
 2018,number,a) time series,b) students from other developing and emerging countries,sn,,10885
 2019,number,a) time series,b) students from other developing and emerging countries,sn,,11245
+2020,number,a) time series,b) students from other developing and emerging countries,sn,,11340
 2005,number,a) time series,b) students from other developing and emerging countries,st,,2825
 2006,number,a) time series,b) students from other developing and emerging countries,st,,2964
 2007,number,a) time series,b) students from other developing and emerging countries,st,,2997
@@ -719,6 +767,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,b) students from other developing and emerging countries,st,,5401
 2018,number,a) time series,b) students from other developing and emerging countries,st,,5810
 2019,number,a) time series,b) students from other developing and emerging countries,st,,6336
+2020,number,a) time series,b) students from other developing and emerging countries,st,,6563
 2005,number,a) time series,b) students from other developing and emerging countries,sh,,2071
 2006,number,a) time series,b) students from other developing and emerging countries,sh,,2135
 2007,number,a) time series,b) students from other developing and emerging countries,sh,,2149
@@ -734,6 +783,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,b) students from other developing and emerging countries,sh,,3101
 2018,number,a) time series,b) students from other developing and emerging countries,sh,,3358
 2019,number,a) time series,b) students from other developing and emerging countries,sh,,3549
+2020,number,a) time series,b) students from other developing and emerging countries,sh,,3581
 2005,number,a) time series,b) students from other developing and emerging countries,th,,1615
 2006,number,a) time series,b) students from other developing and emerging countries,th,,1759
 2007,number,a) time series,b) students from other developing and emerging countries,th,,1971
@@ -749,6 +799,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,b) students from other developing and emerging countries,th,,4846
 2018,number,a) time series,b) students from other developing and emerging countries,th,,5500
 2019,number,a) time series,b) students from other developing and emerging countries,th,,6655
+2020,number,a) time series,b) students from other developing and emerging countries,th,,7388
 2005,number,a) time series,e) researchers from ldcs,,,209
 2006,number,a) time series,e) researchers from ldcs,,,212
 2007,number,a) time series,e) researchers from ldcs,,,207
@@ -764,6 +815,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,e) researchers from ldcs,,,649
 2018,number,a) time series,e) researchers from ldcs,,,687
 2019,number,a) time series,e) researchers from ldcs,,,681
+2020,number,a) time series,e) researchers from ldcs,,,838
 2006,number,a) time series,e) researchers from ldcs,bw,,40
 2007,number,a) time series,e) researchers from ldcs,bw,,45
 2008,number,a) time series,e) researchers from ldcs,bw,,52
@@ -778,6 +830,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,e) researchers from ldcs,bw,,150
 2018,number,a) time series,e) researchers from ldcs,bw,,140
 2019,number,a) time series,e) researchers from ldcs,bw,,141
+2020,number,a) time series,e) researchers from ldcs,bw,,146
 2006,number,a) time series,e) researchers from ldcs,by,,26
 2007,number,a) time series,e) researchers from ldcs,by,,23
 2008,number,a) time series,e) researchers from ldcs,by,,24
@@ -792,6 +845,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,e) researchers from ldcs,by,,75
 2018,number,a) time series,e) researchers from ldcs,by,,63
 2019,number,a) time series,e) researchers from ldcs,by,,76
+2020,number,a) time series,e) researchers from ldcs,by,,105
 2006,number,a) time series,e) researchers from ldcs,be,,6
 2007,number,a) time series,e) researchers from ldcs,be,,5
 2008,number,a) time series,e) researchers from ldcs,be,,7
@@ -806,6 +860,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,e) researchers from ldcs,be,,30
 2018,number,a) time series,e) researchers from ldcs,be,,31
 2019,number,a) time series,e) researchers from ldcs,be,,35
+2020,number,a) time series,e) researchers from ldcs,be,,36
 2006,number,a) time series,e) researchers from ldcs,bb,,3
 2007,number,a) time series,e) researchers from ldcs,bb,,2
 2008,number,a) time series,e) researchers from ldcs,bb,,6
@@ -820,6 +875,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,e) researchers from ldcs,bb,,6
 2018,number,a) time series,e) researchers from ldcs,bb,,8
 2019,number,a) time series,e) researchers from ldcs,bb,,18
+2020,number,a) time series,e) researchers from ldcs,bb,,27
 2006,number,a) time series,e) researchers from ldcs,hb,,5
 2007,number,a) time series,e) researchers from ldcs,hb,,3
 2008,number,a) time series,e) researchers from ldcs,hb,,6
@@ -834,6 +890,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,e) researchers from ldcs,hb,,11
 2018,number,a) time series,e) researchers from ldcs,hb,,10
 2019,number,a) time series,e) researchers from ldcs,hb,,11
+2020,number,a) time series,e) researchers from ldcs,hb,,12
 2006,number,a) time series,e) researchers from ldcs,hh,,8
 2007,number,a) time series,e) researchers from ldcs,hh,,11
 2008,number,a) time series,e) researchers from ldcs,hh,,5
@@ -848,6 +905,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,e) researchers from ldcs,hh,,23
 2018,number,a) time series,e) researchers from ldcs,hh,,20
 2019,number,a) time series,e) researchers from ldcs,hh,,19
+2020,number,a) time series,e) researchers from ldcs,hh,,29
 2006,number,a) time series,e) researchers from ldcs,he,,18
 2007,number,a) time series,e) researchers from ldcs,he,,19
 2008,number,a) time series,e) researchers from ldcs,he,,20
@@ -862,6 +920,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,e) researchers from ldcs,he,,58
 2018,number,a) time series,e) researchers from ldcs,he,,59
 2019,number,a) time series,e) researchers from ldcs,he,,43
+2020,number,a) time series,e) researchers from ldcs,he,,42
 2006,number,a) time series,e) researchers from ldcs,mv,,5
 2007,number,a) time series,e) researchers from ldcs,mv,,3
 2008,number,a) time series,e) researchers from ldcs,mv,,4
@@ -876,6 +935,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,e) researchers from ldcs,mv,,17
 2018,number,a) time series,e) researchers from ldcs,mv,,13
 2019,number,a) time series,e) researchers from ldcs,mv,,9
+2020,number,a) time series,e) researchers from ldcs,mv,,14
 2006,number,a) time series,e) researchers from ldcs,ni,,32
 2007,number,a) time series,e) researchers from ldcs,ni,,27
 2008,number,a) time series,e) researchers from ldcs,ni,,26
@@ -890,6 +950,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,e) researchers from ldcs,ni,,57
 2018,number,a) time series,e) researchers from ldcs,ni,,58
 2019,number,a) time series,e) researchers from ldcs,ni,,49
+2020,number,a) time series,e) researchers from ldcs,ni,,57
 2006,number,a) time series,e) researchers from ldcs,nw,,24
 2007,number,a) time series,e) researchers from ldcs,nw,,24
 2008,number,a) time series,e) researchers from ldcs,nw,,48
@@ -904,6 +965,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,e) researchers from ldcs,nw,,113
 2018,number,a) time series,e) researchers from ldcs,nw,,127
 2019,number,a) time series,e) researchers from ldcs,nw,,123
+2020,number,a) time series,e) researchers from ldcs,nw,,150
 2006,number,a) time series,e) researchers from ldcs,rp,,10
 2007,number,a) time series,e) researchers from ldcs,rp,,13
 2008,number,a) time series,e) researchers from ldcs,rp,,15
@@ -918,6 +980,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,e) researchers from ldcs,rp,,21
 2018,number,a) time series,e) researchers from ldcs,rp,,25
 2019,number,a) time series,e) researchers from ldcs,rp,,31
+2020,number,a) time series,e) researchers from ldcs,rp,,48
 2006,number,a) time series,e) researchers from ldcs,sl,,3
 2007,number,a) time series,e) researchers from ldcs,sl,,3
 2008,number,a) time series,e) researchers from ldcs,sl,,4
@@ -932,6 +995,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,e) researchers from ldcs,sl,,1
 2018,number,a) time series,e) researchers from ldcs,sl,,8
 2019,number,a) time series,e) researchers from ldcs,sl,,9
+2020,number,a) time series,e) researchers from ldcs,sl,,15
 2006,number,a) time series,e) researchers from ldcs,sn,,19
 2007,number,a) time series,e) researchers from ldcs,sn,,17
 2008,number,a) time series,e) researchers from ldcs,sn,,19
@@ -946,6 +1010,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,e) researchers from ldcs,sn,,42
 2018,number,a) time series,e) researchers from ldcs,sn,,56
 2019,number,a) time series,e) researchers from ldcs,sn,,53
+2020,number,a) time series,e) researchers from ldcs,sn,,69
 2006,number,a) time series,e) researchers from ldcs,st,,5
 2007,number,a) time series,e) researchers from ldcs,st,,1
 2008,number,a) time series,e) researchers from ldcs,st,,3
@@ -960,6 +1025,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,e) researchers from ldcs,st,,9
 2018,number,a) time series,e) researchers from ldcs,st,,17
 2019,number,a) time series,e) researchers from ldcs,st,,14
+2020,number,a) time series,e) researchers from ldcs,st,,22
 2006,number,a) time series,e) researchers from ldcs,sh,,5
 2007,number,a) time series,e) researchers from ldcs,sh,,6
 2008,number,a) time series,e) researchers from ldcs,sh,,8
@@ -974,6 +1040,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,e) researchers from ldcs,sh,,17
 2018,number,a) time series,e) researchers from ldcs,sh,,23
 2019,number,a) time series,e) researchers from ldcs,sh,,27
+2020,number,a) time series,e) researchers from ldcs,sh,,28
 2006,number,a) time series,e) researchers from ldcs,th,,3
 2007,number,a) time series,e) researchers from ldcs,th,,5
 2008,number,a) time series,e) researchers from ldcs,th,,7
@@ -988,6 +1055,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,e) researchers from ldcs,th,,19
 2018,number,a) time series,e) researchers from ldcs,th,,29
 2019,number,a) time series,e) researchers from ldcs,th,,23
+2020,number,a) time series,e) researchers from ldcs,th,,38
 2005,number,a) time series,c) researchers from other developing and emerging countries,,,5848
 2006,number,a) time series,c) researchers from other developing and emerging countries,,,6434
 2007,number,a) time series,c) researchers from other developing and emerging countries,,,6766
@@ -1003,6 +1071,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,c) researchers from other developing and emerging countries,,,16904
 2018,number,a) time series,c) researchers from other developing and emerging countries,,,18429
 2019,number,a) time series,c) researchers from other developing and emerging countries,,,20214
+2020,number,a) time series,c) researchers from other developing and emerging countries,,,22257
 2006,number,a) time series,c) researchers from other developing and emerging countries,bw,,1190
 2007,number,a) time series,c) researchers from other developing and emerging countries,bw,,1333
 2008,number,a) time series,c) researchers from other developing and emerging countries,bw,,1579
@@ -1017,6 +1086,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,c) researchers from other developing and emerging countries,bw,,3164
 2018,number,a) time series,c) researchers from other developing and emerging countries,bw,,3314
 2019,number,a) time series,c) researchers from other developing and emerging countries,bw,,3458
+2020,number,a) time series,c) researchers from other developing and emerging countries,bw,,3897
 2006,number,a) time series,c) researchers from other developing and emerging countries,by,,872
 2007,number,a) time series,c) researchers from other developing and emerging countries,by,,934
 2008,number,a) time series,c) researchers from other developing and emerging countries,by,,1171
@@ -1031,6 +1101,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,c) researchers from other developing and emerging countries,by,,2425
 2018,number,a) time series,c) researchers from other developing and emerging countries,by,,2600
 2019,number,a) time series,c) researchers from other developing and emerging countries,by,,2910
+2020,number,a) time series,c) researchers from other developing and emerging countries,by,,3265
 2006,number,a) time series,c) researchers from other developing and emerging countries,be,,468
 2007,number,a) time series,c) researchers from other developing and emerging countries,be,,461
 2008,number,a) time series,c) researchers from other developing and emerging countries,be,,550
@@ -1045,6 +1116,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,c) researchers from other developing and emerging countries,be,,934
 2018,number,a) time series,c) researchers from other developing and emerging countries,be,,1000
 2019,number,a) time series,c) researchers from other developing and emerging countries,be,,1138
+2020,number,a) time series,c) researchers from other developing and emerging countries,be,,1322
 2006,number,a) time series,c) researchers from other developing and emerging countries,bb,,97
 2007,number,a) time series,c) researchers from other developing and emerging countries,bb,,109
 2008,number,a) time series,c) researchers from other developing and emerging countries,bb,,124
@@ -1059,6 +1131,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,c) researchers from other developing and emerging countries,bb,,322
 2018,number,a) time series,c) researchers from other developing and emerging countries,bb,,352
 2019,number,a) time series,c) researchers from other developing and emerging countries,bb,,414
+2020,number,a) time series,c) researchers from other developing and emerging countries,bb,,492
 2006,number,a) time series,c) researchers from other developing and emerging countries,hb,,108
 2007,number,a) time series,c) researchers from other developing and emerging countries,hb,,96
 2008,number,a) time series,c) researchers from other developing and emerging countries,hb,,116
@@ -1073,6 +1146,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,c) researchers from other developing and emerging countries,hb,,225
 2018,number,a) time series,c) researchers from other developing and emerging countries,hb,,219
 2019,number,a) time series,c) researchers from other developing and emerging countries,hb,,238
+2020,number,a) time series,c) researchers from other developing and emerging countries,hb,,238
 2006,number,a) time series,c) researchers from other developing and emerging countries,hh,,162
 2007,number,a) time series,c) researchers from other developing and emerging countries,hh,,215
 2008,number,a) time series,c) researchers from other developing and emerging countries,hh,,242
@@ -1087,6 +1161,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,c) researchers from other developing and emerging countries,hh,,442
 2018,number,a) time series,c) researchers from other developing and emerging countries,hh,,496
 2019,number,a) time series,c) researchers from other developing and emerging countries,hh,,578
+2020,number,a) time series,c) researchers from other developing and emerging countries,hh,,649
 2006,number,a) time series,c) researchers from other developing and emerging countries,he,,469
 2007,number,a) time series,c) researchers from other developing and emerging countries,he,,520
 2008,number,a) time series,c) researchers from other developing and emerging countries,he,,628
@@ -1101,6 +1176,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,c) researchers from other developing and emerging countries,he,,1146
 2018,number,a) time series,c) researchers from other developing and emerging countries,he,,1238
 2019,number,a) time series,c) researchers from other developing and emerging countries,he,,1344
+2020,number,a) time series,c) researchers from other developing and emerging countries,he,,1424
 2006,number,a) time series,c) researchers from other developing and emerging countries,mv,,67
 2007,number,a) time series,c) researchers from other developing and emerging countries,mv,,73
 2008,number,a) time series,c) researchers from other developing and emerging countries,mv,,94
@@ -1115,6 +1191,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,c) researchers from other developing and emerging countries,mv,,209
 2018,number,a) time series,c) researchers from other developing and emerging countries,mv,,239
 2019,number,a) time series,c) researchers from other developing and emerging countries,mv,,276
+2020,number,a) time series,c) researchers from other developing and emerging countries,mv,,308
 2006,number,a) time series,c) researchers from other developing and emerging countries,ni,,519
 2007,number,a) time series,c) researchers from other developing and emerging countries,ni,,646
 2008,number,a) time series,c) researchers from other developing and emerging countries,ni,,710
@@ -1129,6 +1206,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,c) researchers from other developing and emerging countries,ni,,1343
 2018,number,a) time series,c) researchers from other developing and emerging countries,ni,,1475
 2019,number,a) time series,c) researchers from other developing and emerging countries,ni,,1549
+2020,number,a) time series,c) researchers from other developing and emerging countries,ni,,1638
 2006,number,a) time series,c) researchers from other developing and emerging countries,nw,,1399
 2007,number,a) time series,c) researchers from other developing and emerging countries,nw,,1240
 2008,number,a) time series,c) researchers from other developing and emerging countries,nw,,1675
@@ -1143,6 +1221,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,c) researchers from other developing and emerging countries,nw,,3539
 2018,number,a) time series,c) researchers from other developing and emerging countries,nw,,3955
 2019,number,a) time series,c) researchers from other developing and emerging countries,nw,,4306
+2020,number,a) time series,c) researchers from other developing and emerging countries,nw,,4628
 2006,number,a) time series,c) researchers from other developing and emerging countries,rp,,238
 2007,number,a) time series,c) researchers from other developing and emerging countries,rp,,254
 2008,number,a) time series,c) researchers from other developing and emerging countries,rp,,291
@@ -1157,6 +1236,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,c) researchers from other developing and emerging countries,rp,,640
 2018,number,a) time series,c) researchers from other developing and emerging countries,rp,,653
 2019,number,a) time series,c) researchers from other developing and emerging countries,rp,,756
+2020,number,a) time series,c) researchers from other developing and emerging countries,rp,,823
 2006,number,a) time series,c) researchers from other developing and emerging countries,sl,,111
 2007,number,a) time series,c) researchers from other developing and emerging countries,sl,,102
 2008,number,a) time series,c) researchers from other developing and emerging countries,sl,,108
@@ -1171,6 +1251,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,c) researchers from other developing and emerging countries,sl,,322
 2018,number,a) time series,c) researchers from other developing and emerging countries,sl,,384
 2019,number,a) time series,c) researchers from other developing and emerging countries,sl,,371
+2020,number,a) time series,c) researchers from other developing and emerging countries,sl,,404
 2006,number,a) time series,c) researchers from other developing and emerging countries,sn,,304
 2007,number,a) time series,c) researchers from other developing and emerging countries,sn,,326
 2008,number,a) time series,c) researchers from other developing and emerging countries,sn,,376
@@ -1185,6 +1266,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,c) researchers from other developing and emerging countries,sn,,1003
 2018,number,a) time series,c) researchers from other developing and emerging countries,sn,,1114
 2019,number,a) time series,c) researchers from other developing and emerging countries,sn,,1338
+2020,number,a) time series,c) researchers from other developing and emerging countries,sn,,1379
 2006,number,a) time series,c) researchers from other developing and emerging countries,st,,136
 2007,number,a) time series,c) researchers from other developing and emerging countries,st,,161
 2008,number,a) time series,c) researchers from other developing and emerging countries,st,,175
@@ -1199,6 +1281,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,c) researchers from other developing and emerging countries,st,,393
 2018,number,a) time series,c) researchers from other developing and emerging countries,st,,470
 2019,number,a) time series,c) researchers from other developing and emerging countries,st,,512
+2020,number,a) time series,c) researchers from other developing and emerging countries,st,,544
 2006,number,a) time series,c) researchers from other developing and emerging countries,sh,,148
 2007,number,a) time series,c) researchers from other developing and emerging countries,sh,,129
 2008,number,a) time series,c) researchers from other developing and emerging countries,sh,,147
@@ -1213,6 +1296,7 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,c) researchers from other developing and emerging countries,sh,,279
 2018,number,a) time series,c) researchers from other developing and emerging countries,sh,,326
 2019,number,a) time series,c) researchers from other developing and emerging countries,sh,,361
+2020,number,a) time series,c) researchers from other developing and emerging countries,sh,,391
 2006,number,a) time series,c) researchers from other developing and emerging countries,th,,146
 2007,number,a) time series,c) researchers from other developing and emerging countries,th,,167
 2008,number,a) time series,c) researchers from other developing and emerging countries,th,,194
@@ -1227,3 +1311,4 @@ Year,Units,display,title,Bundesland,GeoCode,Value
 2017,number,a) time series,c) researchers from other developing and emerging countries,th,,518
 2018,number,a) time series,c) researchers from other developing and emerging countries,th,,594
 2019,number,a) time series,c) researchers from other developing and emerging countries,th,,665
+2020,number,a) time series,c) researchers from other developing and emerging countries,th,,855
