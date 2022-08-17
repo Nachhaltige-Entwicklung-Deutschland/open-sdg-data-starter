@@ -1,5 +1,5 @@
 Year,Units,display,sea,Value
-1999,mg/l,a) time series,north sea,4.14
+1999,mg/l,a) time series,north sea,4.13
 2000,mg/l,a) time series,north sea,4.02
 2001,mg/l,a) time series,north sea,3.83
 2002,mg/l,a) time series,north sea,3.76
@@ -20,6 +20,7 @@ Year,Units,display,sea,Value
 2017,mg/l,a) time series,north sea,2.97
 2018,mg/l,a) time series,north sea,2.84
 2019,mg/l,a) time series,north sea,2.82
+2020,mg/l,a) time series,north sea,2.76
 1999,mg/l,b) target (max),north sea,2.8
 2000,mg/l,b) target (max),north sea,2.8
 2001,mg/l,b) target (max),north sea,2.8
@@ -41,6 +42,7 @@ Year,Units,display,sea,Value
 2017,mg/l,b) target (max),north sea,2.8
 2018,mg/l,b) target (max),north sea,2.8
 2019,mg/l,b) target (max),north sea,2.8
+2020,mg/l,b) target (max),north sea,2.8
 1999,mg/l,a) time series,baltic sea,3.92
 2000,mg/l,a) time series,baltic sea,3.83
 2001,mg/l,a) time series,baltic sea,3.96
@@ -62,6 +64,7 @@ Year,Units,display,sea,Value
 2017,mg/l,a) time series,baltic sea,3.19
 2018,mg/l,a) time series,baltic sea,3.14
 2019,mg/l,a) time series,baltic sea,3.17
+2020,mg/l,a) time series,baltic sea,3.07
 1999,mg/l,b) target (max),baltic sea,2.6
 2000,mg/l,b) target (max),baltic sea,2.6
 2001,mg/l,b) target (max),baltic sea,2.6
@@ -83,3 +86,4 @@ Year,Units,display,sea,Value
 2017,mg/l,b) target (max),baltic sea,2.6
 2018,mg/l,b) target (max),baltic sea,2.6
 2019,mg/l,b) target (max),baltic sea,2.6
+2020,mg/l,b) target (max),baltic sea,2.6

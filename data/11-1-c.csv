@@ -19,6 +19,7 @@ Year,Units,typification,Bundesland,GeoCode,Value
 2017,2000 = 100,a) rural and non-rural areas,,,91.0
 2018,2000 = 100,a) rural and non-rural areas,,,90.6
 2019,2000 = 100,a) rural and non-rural areas,,,90.5
+2020,2000 = 100,a) rural and non-rural areas,,,90.1
 2000,2000 = 100,non-rural areas,,,100.0
 2001,2000 = 100,non-rural areas,,,99.7
 2002,2000 = 100,non-rural areas,,,99.3
@@ -38,7 +39,8 @@ Year,Units,typification,Bundesland,GeoCode,Value
 2016,2000 = 100,non-rural areas,,,99.0
 2017,2000 = 100,non-rural areas,,,99.2
 2018,2000 = 100,non-rural areas,,,99.4
-2019,2000 = 100,non-rural areas,,,99.2
+2019,2000 = 100,non-rural areas,,,99.5
+2020,2000 = 100,non-rural areas,,,99.2
 2000,2000 = 100,rural areas,,,100.0
 2001,2000 = 100,rural areas,,,99.1
 2002,2000 = 100,rural areas,,,98.1
@@ -58,7 +60,8 @@ Year,Units,typification,Bundesland,GeoCode,Value
 2016,2000 = 100,rural areas,,,87.2
 2017,2000 = 100,rural areas,,,86.9
 2018,2000 = 100,rural areas,,,86.4
-2019,2000 = 100,rural areas,,,86.1
+2019,2000 = 100,rural areas,,,86.2
+2020,2000 = 100,rural areas,,,85.8
 2000,2000 = 100,a) rural and non-rural areas,bw,code08,100.0
 2001,2000 = 100,a) rural and non-rural areas,bw,code08,99.7
 2002,2000 = 100,a) rural and non-rural areas,bw,code08,99.3
@@ -79,6 +82,7 @@ Year,Units,typification,Bundesland,GeoCode,Value
 2017,2000 = 100,a) rural and non-rural areas,bw,code08,96.3
 2018,2000 = 100,a) rural and non-rural areas,bw,code08,96.4
 2019,2000 = 100,a) rural and non-rural areas,bw,code08,96.3
+2020,2000 = 100,a) rural and non-rural areas,bw,code08,96.0
 2000,2000 = 100,a) rural and non-rural areas,by,code09,100.0
 2001,2000 = 100,a) rural and non-rural areas,by,code09,99.7
 2002,2000 = 100,a) rural and non-rural areas,by,code09,99.2
@@ -99,6 +103,7 @@ Year,Units,typification,Bundesland,GeoCode,Value
 2017,2000 = 100,a) rural and non-rural areas,by,code09,92.6
 2018,2000 = 100,a) rural and non-rural areas,by,code09,92.7
 2019,2000 = 100,a) rural and non-rural areas,by,code09,92.6
+2020,2000 = 100,a) rural and non-rural areas,by,code09,92.3
 2000,2000 = 100,a) rural and non-rural areas,be,code11,100.0
 2001,2000 = 100,a) rural and non-rural areas,be,code11,99.6
 2002,2000 = 100,a) rural and non-rural areas,be,code11,99.3
@@ -119,6 +124,7 @@ Year,Units,typification,Bundesland,GeoCode,Value
 2017,2000 = 100,a) rural and non-rural areas,be,code11,107.7
 2018,2000 = 100,a) rural and non-rural areas,be,code11,108.5
 2019,2000 = 100,a) rural and non-rural areas,be,code11,109.2
+2020,2000 = 100,a) rural and non-rural areas,be,code11,109.1
 2000,2000 = 100,a) rural and non-rural areas,bb,code12,100.0
 2001,2000 = 100,a) rural and non-rural areas,bb,code12,98.2
 2002,2000 = 100,a) rural and non-rural areas,bb,code12,96.5
@@ -139,6 +145,7 @@ Year,Units,typification,Bundesland,GeoCode,Value
 2017,2000 = 100,a) rural and non-rural areas,bb,code12,83.5
 2018,2000 = 100,a) rural and non-rural areas,bb,code12,83.6
 2019,2000 = 100,a) rural and non-rural areas,bb,code12,83.8
+2020,2000 = 100,a) rural and non-rural areas,bb,code12,83.3
 2000,2000 = 100,a) rural and non-rural areas,hb,code04,100.0
 2001,2000 = 100,a) rural and non-rural areas,hb,code04,99.4
 2002,2000 = 100,a) rural and non-rural areas,hb,code04,99.7
@@ -159,6 +166,7 @@ Year,Units,typification,Bundesland,GeoCode,Value
 2017,2000 = 100,a) rural and non-rural areas,hb,code04,99.4
 2018,2000 = 100,a) rural and non-rural areas,hb,code04,99.8
 2019,2000 = 100,a) rural and non-rural areas,hb,code04,99.5
+2020,2000 = 100,a) rural and non-rural areas,hb,code04,99.1
 2000,2000 = 100,a) rural and non-rural areas,hh,code02,100.0
 2001,2000 = 100,a) rural and non-rural areas,hh,code02,100.4
 2002,2000 = 100,a) rural and non-rural areas,hh,code02,99.4
@@ -179,6 +187,7 @@ Year,Units,typification,Bundesland,GeoCode,Value
 2017,2000 = 100,a) rural and non-rural areas,hh,code02,105.7
 2018,2000 = 100,a) rural and non-rural areas,hh,code02,106.4
 2019,2000 = 100,a) rural and non-rural areas,hh,code02,106.8
+2020,2000 = 100,a) rural and non-rural areas,hh,code02,107.1
 2000,2000 = 100,a) rural and non-rural areas,he,code06,100.0
 2001,2000 = 100,a) rural and non-rural areas,he,code06,99.8
 2002,2000 = 100,a) rural and non-rural areas,he,code06,99.4
@@ -199,6 +208,7 @@ Year,Units,typification,Bundesland,GeoCode,Value
 2017,2000 = 100,a) rural and non-rural areas,he,code06,97.3
 2018,2000 = 100,a) rural and non-rural areas,he,code06,97.3
 2019,2000 = 100,a) rural and non-rural areas,he,code06,97.4
+2020,2000 = 100,a) rural and non-rural areas,he,code06,97.4
 2000,2000 = 100,a) rural and non-rural areas,mv,code13,100.0
 2001,2000 = 100,a) rural and non-rural areas,mv,code13,97.3
 2002,2000 = 100,a) rural and non-rural areas,mv,code13,94.1
@@ -219,6 +229,7 @@ Year,Units,typification,Bundesland,GeoCode,Value
 2017,2000 = 100,a) rural and non-rural areas,mv,code13,75.5
 2018,2000 = 100,a) rural and non-rural areas,mv,code13,75.4
 2019,2000 = 100,a) rural and non-rural areas,mv,code13,75.4
+2020,2000 = 100,a) rural and non-rural areas,mv,code13,75.4
 2000,2000 = 100,a) rural and non-rural areas,ni,code03,100.0
 2001,2000 = 100,a) rural and non-rural areas,ni,code03,99.4
 2002,2000 = 100,a) rural and non-rural areas,ni,code03,98.9
@@ -239,6 +250,7 @@ Year,Units,typification,Bundesland,GeoCode,Value
 2017,2000 = 100,a) rural and non-rural areas,ni,code03,90.9
 2018,2000 = 100,a) rural and non-rural areas,ni,code03,90.8
 2019,2000 = 100,a) rural and non-rural areas,ni,code03,90.6
+2020,2000 = 100,a) rural and non-rural areas,ni,code03,90.4
 2000,2000 = 100,a) rural and non-rural areas,nw,code05,100.0
 2001,2000 = 100,a) rural and non-rural areas,nw,code05,99.3
 2002,2000 = 100,a) rural and non-rural areas,nw,code05,98.6
@@ -259,6 +271,7 @@ Year,Units,typification,Bundesland,GeoCode,Value
 2017,2000 = 100,a) rural and non-rural areas,nw,code05,90.9
 2018,2000 = 100,a) rural and non-rural areas,nw,code05,90.8
 2019,2000 = 100,a) rural and non-rural areas,nw,code05,90.6
+2020,2000 = 100,a) rural and non-rural areas,nw,code05,90.2
 2000,2000 = 100,a) rural and non-rural areas,rp,code07,100.0
 2001,2000 = 100,a) rural and non-rural areas,rp,code07,99.6
 2002,2000 = 100,a) rural and non-rural areas,rp,code07,99.1
@@ -279,6 +292,7 @@ Year,Units,typification,Bundesland,GeoCode,Value
 2017,2000 = 100,a) rural and non-rural areas,rp,code07,94.9
 2018,2000 = 100,a) rural and non-rural areas,rp,code07,94.9
 2019,2000 = 100,a) rural and non-rural areas,rp,code07,94.9
+2020,2000 = 100,a) rural and non-rural areas,rp,code07,94.4
 2000,2000 = 100,a) rural and non-rural areas,sl,code10,100.0
 2001,2000 = 100,a) rural and non-rural areas,sl,code10,99.1
 2002,2000 = 100,a) rural and non-rural areas,sl,code10,98.5
@@ -299,6 +313,7 @@ Year,Units,typification,Bundesland,GeoCode,Value
 2017,2000 = 100,a) rural and non-rural areas,sl,code10,87.9
 2018,2000 = 100,a) rural and non-rural areas,sl,code10,87.5
 2019,2000 = 100,a) rural and non-rural areas,sl,code10,87.1
+2020,2000 = 100,a) rural and non-rural areas,sl,code10,86.7
 2000,2000 = 100,a) rural and non-rural areas,sn,code14,100.0
 2001,2000 = 100,a) rural and non-rural areas,sn,code14,97.6
 2002,2000 = 100,a) rural and non-rural areas,sn,code14,95.7
@@ -319,6 +334,7 @@ Year,Units,typification,Bundesland,GeoCode,Value
 2017,2000 = 100,a) rural and non-rural areas,sn,code14,79.2
 2018,2000 = 100,a) rural and non-rural areas,sn,code14,78.6
 2019,2000 = 100,a) rural and non-rural areas,sn,code14,77.9
+2020,2000 = 100,a) rural and non-rural areas,sn,code14,76.9
 2000,2000 = 100,a) rural and non-rural areas,st,code15,100.0
 2001,2000 = 100,a) rural and non-rural areas,st,code15,96.5
 2002,2000 = 100,a) rural and non-rural areas,st,code15,94.5
@@ -339,6 +355,7 @@ Year,Units,typification,Bundesland,GeoCode,Value
 2017,2000 = 100,a) rural and non-rural areas,st,code15,72.8
 2018,2000 = 100,a) rural and non-rural areas,st,code15,72.3
 2019,2000 = 100,a) rural and non-rural areas,st,code15,71.7
+2020,2000 = 100,a) rural and non-rural areas,st,code15,71.1
 2000,2000 = 100,a) rural and non-rural areas,sh,code01,100.0
 2001,2000 = 100,a) rural and non-rural areas,sh,code01,98.7
 2002,2000 = 100,a) rural and non-rural areas,sh,code01,97.4
@@ -359,6 +376,7 @@ Year,Units,typification,Bundesland,GeoCode,Value
 2017,2000 = 100,a) rural and non-rural areas,sh,code01,88.9
 2018,2000 = 100,a) rural and non-rural areas,sh,code01,88.7
 2019,2000 = 100,a) rural and non-rural areas,sh,code01,88.6
+2020,2000 = 100,a) rural and non-rural areas,sh,code01,87.9
 2000,2000 = 100,a) rural and non-rural areas,th,code16,100.0
 2001,2000 = 100,a) rural and non-rural areas,th,code16,98.5
 2002,2000 = 100,a) rural and non-rural areas,th,code16,96.6
@@ -379,3 +397,4 @@ Year,Units,typification,Bundesland,GeoCode,Value
 2017,2000 = 100,a) rural and non-rural areas,th,code16,74.1
 2018,2000 = 100,a) rural and non-rural areas,th,code16,67.4
 2019,2000 = 100,a) rural and non-rural areas,th,code16,66.8
+2020,2000 = 100,a) rural and non-rural areas,th,code16,66.7
