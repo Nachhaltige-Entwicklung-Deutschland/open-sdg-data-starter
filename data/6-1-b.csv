@@ -37,6 +37,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,bw,code08,92.5
 2018,percentage (%),a) time series,bw,code08,93.3
 2019,percentage (%),a) time series,bw,code08,91.7
+2020,percentage (%),a) time series,bw,code08,92.4
 2008,percentage (%),a) time series,by,code09,93.6
 2009,percentage (%),a) time series,by,code09,94.5
 2010,percentage (%),a) time series,by,code09,94.9
@@ -49,6 +50,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,by,code09,92.7
 2018,percentage (%),a) time series,by,code09,93.6
 2019,percentage (%),a) time series,by,code09,95.2
+2020,percentage (%),a) time series,by,code09,95.6
 2008,percentage (%),a) time series,bb,code12,84.7
 2009,percentage (%),a) time series,bb,code12,85.7
 2010,percentage (%),a) time series,bb,code12,84.7
@@ -61,6 +63,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,bb,code12,86.7
 2018,percentage (%),a) time series,bb,code12,88.8
 2019,percentage (%),a) time series,bb,code12,88.7
+2020,percentage (%),a) time series,bb,code12,87.6
 2008,percentage (%),a) time series,he,code06,87.9
 2009,percentage (%),a) time series,he,code06,86.4
 2010,percentage (%),a) time series,he,code06,83.6
@@ -73,6 +76,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,he,code06,87.3
 2018,percentage (%),a) time series,he,code06,80.9
 2019,percentage (%),a) time series,he,code06,85.9
+2020,percentage (%),a) time series,he,code06,83.8
 2008,percentage (%),a) time series,mv,code13,88.7
 2009,percentage (%),a) time series,mv,code13,90.0
 2010,percentage (%),a) time series,mv,code13,86.2
@@ -81,6 +85,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2013,percentage (%),a) time series,mv,code13,85.0
 2018,percentage (%),a) time series,mv,code13,81.4
 2019,percentage (%),a) time series,mv,code13,82.2
+2020,percentage (%),a) time series,mv,code13,81.9
 2008,percentage (%),a) time series,ni,code03,69.9
 2009,percentage (%),a) time series,ni,code03,73.0
 2010,percentage (%),a) time series,ni,code03,70.4
@@ -93,18 +98,20 @@ Year,Units,display,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,ni,code03,70.7
 2018,percentage (%),a) time series,ni,code03,69.7
 2019,percentage (%),a) time series,ni,code03,72.1
-2008,percentage (%),a) time series,nw,code05,85.1
-2009,percentage (%),a) time series,nw,code05,86.4
-2010,percentage (%),a) time series,nw,code05,84.0
-2011,percentage (%),a) time series,nw,code05,89.2
-2012,percentage (%),a) time series,nw,code05,84.6
-2013,percentage (%),a) time series,nw,code05,89.3
-2014,percentage (%),a) time series,nw,code05,89.3
-2015,percentage (%),a) time series,nw,code05,88.6
-2016,percentage (%),a) time series,nw,code05,87.4
-2017,percentage (%),a) time series,nw,code05,89.0
-2018,percentage (%),a) time series,nw,code05,88.5
-2019,percentage (%),a) time series,nw,code05,87.8
+2020,percentage (%),a) time series,ni,code03,73.5
+2008,percentage (%),a) time series,nw,code05,83.0
+2009,percentage (%),a) time series,nw,code05,85.3
+2010,percentage (%),a) time series,nw,code05,83.8
+2011,percentage (%),a) time series,nw,code05,84.3
+2012,percentage (%),a) time series,nw,code05,83.3
+2013,percentage (%),a) time series,nw,code05,84.3
+2014,percentage (%),a) time series,nw,code05,84.5
+2015,percentage (%),a) time series,nw,code05,86.5
+2016,percentage (%),a) time series,nw,code05,87.6
+2017,percentage (%),a) time series,nw,code05,87.9
+2018,percentage (%),a) time series,nw,code05,86.1
+2019,percentage (%),a) time series,nw,code05,85.6
+2020,percentage (%),a) time series,nw,code05,86.1
 2008,percentage (%),a) time series,rp,code07,78.3
 2009,percentage (%),a) time series,rp,code07,78.3
 2010,percentage (%),a) time series,rp,code07,76.8
@@ -117,6 +124,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,rp,code07,76.8
 2018,percentage (%),a) time series,rp,code07,72.1
 2019,percentage (%),a) time series,rp,code07,73.4
+2020,percentage (%),a) time series,rp,code07,71.2
 2008,percentage (%),a) time series,sl,code10,100.0
 2009,percentage (%),a) time series,sl,code10,100.0
 2010,percentage (%),a) time series,sl,code10,100.0
@@ -129,6 +137,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,sl,code10,100.0
 2018,percentage (%),a) time series,sl,code10,100.0
 2019,percentage (%),a) time series,sl,code10,100.0
+2020,percentage (%),a) time series,sl,code10,100.0
 2008,percentage (%),a) time series,sn,code14,63.0
 2009,percentage (%),a) time series,sn,code14,64.8
 2010,percentage (%),a) time series,sn,code14,64.4
@@ -141,6 +150,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,sn,code14,71.0
 2018,percentage (%),a) time series,sn,code14,70.7
 2019,percentage (%),a) time series,sn,code14,74.1
+2020,percentage (%),a) time series,sn,code14,81.7
 2008,percentage (%),a) time series,st,code15,78.5
 2009,percentage (%),a) time series,st,code15,76.9
 2010,percentage (%),a) time series,st,code15,76.8
@@ -153,6 +163,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,st,code15,80.0
 2018,percentage (%),a) time series,st,code15,77.3
 2019,percentage (%),a) time series,st,code15,79.1
+2020,percentage (%),a) time series,st,code15,81.2
 2008,percentage (%),a) time series,sh,code01,66.0
 2009,percentage (%),a) time series,sh,code01,64.2
 2010,percentage (%),a) time series,sh,code01,64.2
@@ -165,6 +176,7 @@ Year,Units,display,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,sh,code01,66.7
 2018,percentage (%),a) time series,sh,code01,69.8
 2019,percentage (%),a) time series,sh,code01,75.5
+2020,percentage (%),a) time series,sh,code01,68.5
 2008,percentage (%),a) time series,th,code16,72.7
 2009,percentage (%),a) time series,th,code16,74.5
 2010,percentage (%),a) time series,th,code16,76.4
@@ -176,3 +188,4 @@ Year,Units,display,Bundesland,GeoCode,Value
 2017,percentage (%),a) time series,th,code16,72.2
 2018,percentage (%),a) time series,th,code16,76.9
 2019,percentage (%),a) time series,th,code16,78.4
+2020,percentage (%),a) time series,th,code16,75.5
