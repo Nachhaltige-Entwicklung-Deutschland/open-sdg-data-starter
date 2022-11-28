@@ -1,0 +1,60 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "commercial exploited fish stocks assessed for msy that is fished sustainably",
+                "share of msy examined stocks in all managed fish stocks",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "north sea",
+                "baltic sea",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "14-1-b",
+  "title": "Anteil der nachhaltig befischten Fischbestände in Nord- und Ostsee"
+}

@@ -1,0 +1,86 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per 100,000 inhabitants",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "criminal offences",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Dangerous and serious bodily injury",
+                "Fraud",
+                "Domestic burglary",
+                "Other offences",
+                ""
+              ]
+            },
+            "title": "Criminal offences"
+          },
+          {
+            "name": "federal state",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Baden-Wuerttemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
+                ""
+              ]
+            },
+            "title": "Federal state"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-1",
+  "title": "Straftaten"
+}

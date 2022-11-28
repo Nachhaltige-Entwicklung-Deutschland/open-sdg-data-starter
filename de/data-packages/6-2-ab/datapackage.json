@@ -1,0 +1,54 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Millionen",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl der Menschen, die einen neuen oder hochwertigeren Zugang zur Trinkwasserversorgung oder Anschluss zur Sanitärversorgung durch deutsche Unterstützung erhalten",
+                "Anzahl der Menschen, die einen neuen oder hochwertigeren Zugang zur Trinkwasserversorgung durch deutsche Unterstützung erhalten",
+                "Anzahl der Menschen, die einen neuen oder verbesserten Anschluss zur Sanitärversorgung durch deutsche Unterstützung erhalten",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-2-ab",
+  "title": "Entwicklungszusammenarbeit für Trinkwasser- und Sanitärversorgung"
+}

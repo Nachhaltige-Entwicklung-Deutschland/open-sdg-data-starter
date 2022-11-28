@@ -1,0 +1,68 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gini-Koeffizient",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen",
+                "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens",
+                "Gini-Koeffizient des Markteinkommens",
+                "Gini-Koeffizient des Vermögens",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deutschland",
+                "EU",
+                "Eurozone",
+                ""
+              ]
+            },
+            "title": "Gebiet"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-2",
+  "title": "Gini-Koeffizient des Einkommens nach Sozialtransfers"
+}

@@ -1,0 +1,496 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+
+            <title>Disaggregation: time series - SDG data build documentation</title>
+
+            <script defer src="https://use.fontawesome.com/releases/v5.15.1/js/all.js"></script>
+            <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.css">
+            <style>
+                .btn-primary {
+                    background-color: #00703c;
+                    padding: 8px 10px 7px;
+                    border: 2px solid transparent;
+                    border-radius: 0;
+                    color: #fff;
+                    box-shadow: 0 2px 0 #002d18;
+                    text-decoration: none;
+                }
+                .btn-primary:visited {
+                    color: #fff;
+                }
+                .btn-primary:hover, .btn-primary:not(:disabled):not(.disabled):active {
+                    background-color: #005a30;
+                    text-decoration: none;
+                    border: 2px solid transparent;
+                }
+                .btn-primary:focus:not(:active):not(:hover) {
+                    border-color: #fd0;
+                    color: #0b0c0c;
+                    background-color: #fd0;
+                    box-shadow: 0 2px 0 #0b0c0c;
+                }
+                a {
+                    color: #1D70B8;
+                    text-decoration: underline;
+                }
+                a:hover {
+                    color: #003078;
+                }
+                a:visited {
+                    color: #4c2c92;
+                }
+                .download-info {
+                    margin-left: 12px;
+                }
+                .table-striped tbody tr:nth-of-type(2n+1) {
+                    background-color: #f3f2f1;
+                }
+                #skiplink {
+                    position: absolute;
+                    top: 0;
+                    left: 50%;
+                    z-index: 10000;
+                    width: 250px;
+                    margin-left: -125px;
+                    padding: 10px;
+                    background: white;
+                    text-align: center;
+                    border: 1px solid #0b0c0c;
+                    color: #0b0c0c;
+                    display: block;
+                }
+                .sr-only-focusable:not(:focus):not(:focus-within) {
+                    position: absolute !important;
+                    width: 1px !important;
+                    height: 1px !important;
+                    padding: 0 !important;
+                    margin: -1px !important;
+                    overflow: hidden !important;
+                    clip: rect(0, 0, 0, 0) !important;
+                    white-space: nowrap !important;
+                    border: 0 !important;
+                }
+            </style>
+        </head>
+        <body>
+            <a class="sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container">
+                    <a class="navbar-brand" href="index.html">SDG data build documentation</a>
+                </div>
+            </nav>
+            <main id="main-content" role="main">
+                <div class="container">
+                    <h1 style="margin:20px 0">Disaggregation: time series</h1>
+                    <div>
+                        
+        <div role="navigation" aria-describedby="contents-heading">
+            <h2 id="contents-heading">On this page</h2>
+            <ul>
+                <li><a href="#values-used">Values used in disaggregation</a></li>
+                <li><a href="#indicators-using">Indicators using disaggregation</a></li>
+            </ul>
+        </div>
+        <div>
+            <h2 id="values-used" tabindex="-1">Values used in disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="values--disaggregation--time-series.csv" role="button" class="btn btn-primary" aria-describedby="values--disaggregation--time-series">Download CSV of values used in this disaggregation</a>
+            <div id="values--disaggregation--time-series" class="download-info">Size: 2.4 kB</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">51</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="values-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Value</th>
+      <th>Disaggregation combinations using this value</th>
+      <th>Number of indicators</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="disaggregation-value--all-wired-technologies.html">all wired technologies</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--cable-television-catv.html">cable television (catv)</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--direct-and-indirect-co2-emissions.html">direct and indirect co2 emissions</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--direct-and-indirect-energy-consumption.html">direct and indirect energy consumption</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--direct-and-indirect-use-of-raw-materials.html">direct and indirect use of raw materials</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--energy-consumption-in-passenger-transport.html">energy consumption in passenger transport</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--energy-consumption-per-passenger-kilometre.html">energy consumption per passenger-kilometre</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--energy-consumption-per-tonne-kilometre.html">energy consumption per tonne-kilometre</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--final-energy-consumption-for-the-transport-of-goods.html">final energy consumption for the transport of goods</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--for-the-medium-sized-and-major-cities-of-2012.html">for the medium-sized and major cities of 2012</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--for-the-medium-sized-and-major-cities-of-the-year-in-question.html">for the medium-sized and major cities of the year in question</a></td>
+      <td>17</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--fully-fibre-optic-networks-fttbh.html">fully fibre-optic networks (fttb/h)</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--gini-coefficient-of-equivalised-disposable-income-before-social-transfers.html">gini coefficient of equivalised disposable income before social transfers</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--gini-coefficient-of-equivalised-disposable-income.html">gini coefficient of equivalised disposable income</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--gini-coefficient-of-market-income.html">gini coefficient of market income</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--gini-coefficient-of-wealth.html">gini coefficient of wealth</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--goods-transport-performance.html">goods transport performance</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--government-deficit.html">government deficit</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--gross-domestic-product-price-adjusted.html">gross domestic product (price-adjusted)</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--imports-of-processed-products.html">imports of processed products</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--imports.html">imports</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--in-management-positions-in-the-federal-civil-service.html">in management positions in the federal civil service</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--material-deprivation.html">material deprivation</a></td>
+      <td>6</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--nitrogen-input-in-coastal-and-marine-waters-of-the-baltic-sea.html">nitrogen input in coastal and marine waters of the baltic sea</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--nitrogen-input-in-coastal-and-marine-waters-of-the-north-sea.html">nitrogen input in coastal and marine waters of the north sea</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-people-gaining-first-time-or-improved-access-to-sanitation-owing-to-.html">number of people gaining first-time or improved access to sanitation owing to german support</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-people-gaining-first-time-or-upgraded-access-to-drinking-water-or-sa.html">number of people gaining first-time or upgraded access to drinking water or sanitation owing to german support</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number-of-people-gaining-first-time-or-upgraded-access-to-drinking-water-owing.html">number of people gaining first-time or upgraded access to drinking water owing to german support</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--obese.html">obese</a></td>
+      <td>6</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--objects-with-digitised-media.html">objects with digitised media</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--objects-without-digitised-media.html">objects without digitised media</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--on-supervisory-boards-of-listed-and-fully-co-determined-companies.html">on supervisory boards of listed and fully co-determined companies</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--overweight-without-obese.html">overweight without obese</a></td>
+      <td>6</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--pandemic-prevention-and-response.html">pandemic prevention and response</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--passenger-transport-performance.html">passenger transport performance</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--premature-mortality-men.html">premature mortality (men)</a></td>
+      <td>17</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--premature-mortality-women.html">premature mortality (women)</a></td>
+      <td>17</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--raw-material-input-for-consumption-investment-and-exports.html">raw material input for consumption, investment and exports</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--raw-material-input-productivity.html">raw material input productivity</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--researchers-from-ldcs.html">researchers from ldcs</a></td>
+      <td>17</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--researchers-from-other-developing-and-emerging-countries.html">researchers from other developing and emerging countries</a></td>
+      <td>17</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--separate-amount-devoted-to-curbing-the-covid-19-pandemic.html">separate amount devoted to curbing the covid-19 pandemic</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--severe-material-deprivation.html">severe material deprivation</a></td>
+      <td>6</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--smoking-rate-among-adolescents.html">smoking rate among adolescents</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--smoking-rate-among-adults.html">smoking rate among adults</a></td>
+      <td>17</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--structural-deficit.html">structural deficit</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--students-from-ldcs.html">students from ldcs</a></td>
+      <td>17</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--students-from-other-developing-and-emerging-countries.html">students from other developing and emerging countries</a></td>
+      <td>17</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--value-of-consumption-investment-and-exports-price-adjusted.html">value of consumption, investment and exports (price-adjusted)</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--with-post-secondary-non-tertiary-qualification.html">with post-secondary non-tertiary qualification</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--with-tertiary-qualification.html">with tertiary qualification</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--all-wired-technologies.html\">all wired technologies<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cable-television-catv.html\">cable television (catv)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--direct-and-indirect-co2-emissions.html\">direct and indirect co2 emissions<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--direct-and-indirect-energy-consumption.html\">direct and indirect energy consumption<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--direct-and-indirect-use-of-raw-materials.html\">direct and indirect use of raw materials<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--energy-consumption-in-passenger-transport.html\">energy consumption in passenger transport<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--energy-consumption-per-passenger-kilometre.html\">energy consumption per passenger-kilometre<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--energy-consumption-per-tonne-kilometre.html\">energy consumption per tonne-kilometre<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--final-energy-consumption-for-the-transport-of-goods.html\">final energy consumption for the transport of goods<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--for-the-medium-sized-and-major-cities-of-2012.html\">for the medium-sized and major cities of 2012<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--for-the-medium-sized-and-major-cities-of-the-year-in-question.html\">for the medium-sized and major cities of the year in question<\/a>","Disaggregation combinations using this value":17,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--fully-fibre-optic-networks-fttbh.html\">fully fibre-optic networks (fttb\/h)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--gini-coefficient-of-equivalised-disposable-income-before-social-transfers.html\">gini coefficient of equivalised disposable income before social transfers<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--gini-coefficient-of-equivalised-disposable-income.html\">gini coefficient of equivalised disposable income<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--gini-coefficient-of-market-income.html\">gini coefficient of market income<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--gini-coefficient-of-wealth.html\">gini coefficient of wealth<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--goods-transport-performance.html\">goods transport performance<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--government-deficit.html\">government deficit<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--gross-domestic-product-price-adjusted.html\">gross domestic product (price-adjusted)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--imports-of-processed-products.html\">imports of processed products<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--imports.html\">imports<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--in-management-positions-in-the-federal-civil-service.html\">in management positions in the federal civil service<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--material-deprivation.html\">material deprivation<\/a>","Disaggregation combinations using this value":6,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--nitrogen-input-in-coastal-and-marine-waters-of-the-baltic-sea.html\">nitrogen input in coastal and marine waters of the baltic sea<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--nitrogen-input-in-coastal-and-marine-waters-of-the-north-sea.html\">nitrogen input in coastal and marine waters of the north sea<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-people-gaining-first-time-or-improved-access-to-sanitation-owing-to-.html\">number of people gaining first-time or improved access to sanitation owing to german support<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-people-gaining-first-time-or-upgraded-access-to-drinking-water-or-sa.html\">number of people gaining first-time or upgraded access to drinking water or sanitation owing to german support<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number-of-people-gaining-first-time-or-upgraded-access-to-drinking-water-owing.html\">number of people gaining first-time or upgraded access to drinking water owing to german support<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--obese.html\">obese<\/a>","Disaggregation combinations using this value":6,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--objects-with-digitised-media.html\">objects with digitised media<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--objects-without-digitised-media.html\">objects without digitised media<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--on-supervisory-boards-of-listed-and-fully-co-determined-companies.html\">on supervisory boards of listed and fully co-determined companies<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--overweight-without-obese.html\">overweight without obese<\/a>","Disaggregation combinations using this value":6,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--pandemic-prevention-and-response.html\">pandemic prevention and response<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--passenger-transport-performance.html\">passenger transport performance<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--premature-mortality-men.html\">premature mortality (men)<\/a>","Disaggregation combinations using this value":17,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--premature-mortality-women.html\">premature mortality (women)<\/a>","Disaggregation combinations using this value":17,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--raw-material-input-for-consumption-investment-and-exports.html\">raw material input for consumption, investment and exports<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--raw-material-input-productivity.html\">raw material input productivity<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--researchers-from-ldcs.html\">researchers from ldcs<\/a>","Disaggregation combinations using this value":17,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--researchers-from-other-developing-and-emerging-countries.html\">researchers from other developing and emerging countries<\/a>","Disaggregation combinations using this value":17,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--separate-amount-devoted-to-curbing-the-covid-19-pandemic.html\">separate amount devoted to curbing the covid-19 pandemic<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--severe-material-deprivation.html\">severe material deprivation<\/a>","Disaggregation combinations using this value":6,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--smoking-rate-among-adolescents.html\">smoking rate among adolescents<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--smoking-rate-among-adults.html\">smoking rate among adults<\/a>","Disaggregation combinations using this value":17,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--structural-deficit.html\">structural deficit<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--students-from-ldcs.html\">students from ldcs<\/a>","Disaggregation combinations using this value":17,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--students-from-other-developing-and-emerging-countries.html\">students from other developing and emerging countries<\/a>","Disaggregation combinations using this value":17,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--value-of-consumption-investment-and-exports-price-adjusted.html\">value of consumption, investment and exports (price-adjusted)<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--with-post-secondary-non-tertiary-qualification.html\">with post-secondary non-tertiary qualification<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--with-tertiary-qualification.html\">with tertiary qualification<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1}];
+            </script>
+            
+        </div>
+        <div>
+            <h2 id="indicators-using" tabindex="-1">Indicators using disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="indicators--disaggregation--time-series.csv" role="button" class="btn btn-primary" aria-describedby="indicators--disaggregation--time-series">Download CSV of indicators using this disaggregation</a>
+            <div id="indicators--disaggregation--time-series" class="download-info">Size: 153 Bytes</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">20</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="indicators-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Indicator</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>#1-1-ab</td>
+    </tr>
+    <tr>
+      <td>#10-2</td>
+    </tr>
+    <tr>
+      <td>#11-2-a</td>
+    </tr>
+    <tr>
+      <td>#11-2-b</td>
+    </tr>
+    <tr>
+      <td>#11-2-c</td>
+    </tr>
+    <tr>
+      <td>#11-4</td>
+    </tr>
+    <tr>
+      <td>#12-1-b</td>
+    </tr>
+    <tr>
+      <td>#14-1-a</td>
+    </tr>
+    <tr>
+      <td>#17-2</td>
+    </tr>
+    <tr>
+      <td>#17-3</td>
+    </tr>
+    <tr>
+      <td>#3-1-ab</td>
+    </tr>
+    <tr>
+      <td>#3-1-cd</td>
+    </tr>
+    <tr>
+      <td>#3-1-e</td>
+    </tr>
+    <tr>
+      <td>#3-3</td>
+    </tr>
+    <tr>
+      <td>#4-1-b</td>
+    </tr>
+    <tr>
+      <td>#5-1-bc</td>
+    </tr>
+    <tr>
+      <td>#6-2-ab</td>
+    </tr>
+    <tr>
+      <td>#8-1</td>
+    </tr>
+    <tr>
+      <td>#8-2-ab</td>
+    </tr>
+    <tr>
+      <td>#9-1-b</td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['indicators-table'] = [{"Indicator":"#1-1-ab"},{"Indicator":"#10-2"},{"Indicator":"#11-2-a"},{"Indicator":"#11-2-b"},{"Indicator":"#11-2-c"},{"Indicator":"#11-4"},{"Indicator":"#12-1-b"},{"Indicator":"#14-1-a"},{"Indicator":"#17-2"},{"Indicator":"#17-3"},{"Indicator":"#3-1-ab"},{"Indicator":"#3-1-cd"},{"Indicator":"#3-1-e"},{"Indicator":"#3-3"},{"Indicator":"#4-1-b"},{"Indicator":"#5-1-bc"},{"Indicator":"#6-2-ab"},{"Indicator":"#8-1"},{"Indicator":"#8-2-ab"},{"Indicator":"#9-1-b"}];
+            </script>
+            
+        </div>
+        
+                    </div>
+                </div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+            <script>
+            if (typeof sdgBuild !== 'undefined' && sdgBuild.tables) {
+                var tableIds = Object.keys(sdgBuild.tables);
+                for (var i = 0; i < tableIds.length; i++) {
+                    var tableId = tableIds[i];
+                    $('#' + tableId).openSdgTable(sdgBuild.tables[tableId]).find('td').each(function() {
+                        if (!isNaN($(this).text())) {
+                            $(this).css('text-align', 'right');
+                        }
+                    })
+                }
+            }
+            </script>
+        </html>
+        
