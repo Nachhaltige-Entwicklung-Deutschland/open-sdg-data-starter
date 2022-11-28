@@ -228,7 +228,7 @@ Year,Units,sex,federal state,GeoCode,Value
 2017,percentage,male,berlin,code11,15.47
 2018,percentage,male,berlin,code11,16.89
 2019,percentage,male,berlin,code11,15.05
-2021,percentage,male,berlin,code11,1.2
+2021,percentage,male,berlin,code11,11.8
 2030,percentage,,,,
 2005,percentage,,brandenburg,code12,10.2
 2006,percentage,,brandenburg,code12,11.1
@@ -245,7 +245,7 @@ Year,Units,sex,federal state,GeoCode,Value
 2017,percentage,,brandenburg,code12,12.32
 2018,percentage,,brandenburg,code12,11.52
 2019,percentage,,brandenburg,code12,10.78
-2021,percentage,,brandenburg,code12,1.3
+2021,percentage,,brandenburg,code12,12.6
 2030,percentage,,,,
 2005,percentage,female,brandenburg,code12,10.1
 2006,percentage,female,brandenburg,code12,9.7
@@ -274,7 +274,7 @@ Year,Units,sex,federal state,GeoCode,Value
 2017,percentage,male,brandenburg,code12,15.0
 2018,percentage,male,brandenburg,code12,12.43
 2019,percentage,male,brandenburg,code12,13.55
-2021,percentage,male,brandenburg,code12,1.6
+2021,percentage,male,brandenburg,code12,15.9
 2030,percentage,,,,
 2005,percentage,,bremen,code04,19.1
 2006,percentage,,bremen,code04,17.5
@@ -292,7 +292,7 @@ Year,Units,sex,federal state,GeoCode,Value
 2018,percentage,,bremen,code04,14.64
 2019,percentage,,bremen,code04,16.04
 2020,percentage,,bremen,code04,15.3
-2021,percentage,,bremen,code04,1.4
+2021,percentage,,bremen,code04,14.4
 2030,percentage,,,,
 2005,percentage,female,bremen,code04,19.8
 2006,percentage,female,bremen,code04,20.0
@@ -319,7 +319,7 @@ Year,Units,sex,federal state,GeoCode,Value
 2018,percentage,,hamburg,code02,11.56
 2019,percentage,,hamburg,code02,13.96
 2020,percentage,,hamburg,code02,11.3
-2021,percentage,,hamburg,code02,1.3
+2021,percentage,,hamburg,code02,13.1
 2030,percentage,,,,
 2005,percentage,female,hamburg,code02,21.9
 2006,percentage,female,hamburg,code02,15.9
@@ -423,7 +423,7 @@ Year,Units,sex,federal state,GeoCode,Value
 2018,percentage,,mecklenburg western pomerania,code13,11.13
 2019,percentage,,mecklenburg western pomerania,code13,11.4
 2020,percentage,,mecklenburg western pomerania,code13,13.7
-2021,percentage,,mecklenburg western pomerania,code13,1.4
+2021,percentage,,mecklenburg western pomerania,code13,13.6
 2030,percentage,,,,
 2005,percentage,female,mecklenburg western pomerania,code13,12.7
 2006,percentage,female,mecklenburg western pomerania,code13,12.7
@@ -444,7 +444,7 @@ Year,Units,sex,federal state,GeoCode,Value
 2016,percentage,male,mecklenburg western pomerania,code13,14.3
 2018,percentage,male,mecklenburg western pomerania,code13,12.6
 2019,percentage,male,mecklenburg western pomerania,code13,11.75
-2021,percentage,male,mecklenburg western pomerania,code13,1.8
+2021,percentage,male,mecklenburg western pomerania,code13,11.7
 2030,percentage,,,,
 2005,percentage,,lower saxony,code03,16.0
 2006,percentage,,lower saxony,code03,14.6
@@ -675,7 +675,7 @@ Year,Units,sex,federal state,GeoCode,Value
 2017,percentage,female,saxony,code14,9.81
 2018,percentage,female,saxony,code14,7.0
 2019,percentage,female,saxony,code14,6.97
-2021,percentage,female,saxony,code14,0.8
+2021,percentage,female,saxony,code14,8.0
 2030,percentage,,,,
 2005,percentage,male,saxony,code14,9.1
 2006,percentage,male,saxony,code14,9.9
@@ -724,7 +724,7 @@ Year,Units,sex,federal state,GeoCode,Value
 2015,percentage,female,saxony-anhalt,code15,11.66
 2017,percentage,female,saxony-anhalt,code15,11.9
 2019,percentage,female,saxony-anhalt,code15,9.99
-2021,percentage,female,saxony-anhalt,code15,1.6
+2021,percentage,female,saxony-anhalt,code15,15.5
 2030,percentage,,,,
 2005,percentage,male,saxony-anhalt,code15,14.7
 2006,percentage,male,saxony-anhalt,code15,13.3
@@ -741,7 +741,7 @@ Year,Units,sex,federal state,GeoCode,Value
 2017,percentage,male,saxony-anhalt,code15,14.98
 2018,percentage,male,saxony-anhalt,code15,9.99
 2019,percentage,male,saxony-anhalt,code15,14.82
-2021,percentage,male,saxony-anhalt,code15,1.8
+2021,percentage,male,saxony-anhalt,code15,18.2
 2030,percentage,,,,
 2005,percentage,,schleswig-holstein,code01,15.1
 2006,percentage,,schleswig-holstein,code01,17.1
@@ -776,7 +776,7 @@ Year,Units,sex,federal state,GeoCode,Value
 2017,percentage,female,schleswig-holstein,code01,7.62
 2018,percentage,female,schleswig-holstein,code01,8.93
 2019,percentage,female,schleswig-holstein,code01,8.66
-2021,percentage,female,schleswig-holstein,code01,1.1
+2021,percentage,female,schleswig-holstein,code01,11.0
 2030,percentage,,,,
 2005,percentage,male,schleswig-holstein,code01,16.1
 2006,percentage,male,schleswig-holstein,code01,18.2
@@ -794,7 +794,7 @@ Year,Units,sex,federal state,GeoCode,Value
 2018,percentage,male,schleswig-holstein,code01,11.18
 2019,percentage,male,schleswig-holstein,code01,13.23
 2020,percentage,male,schleswig-holstein,code01,14.2
-2021,percentage,male,schleswig-holstein,code01,1.4
+2021,percentage,male,schleswig-holstein,code01,13.9
 2030,percentage,,,,
 2005,percentage,,thuringia,code16,6.6
 2006,percentage,,thuringia,code16,8.8
@@ -836,5 +836,5 @@ Year,Units,sex,federal state,GeoCode,Value
 2017,percentage,male,thuringia,code16,10.56
 2018,percentage,male,thuringia,code16,10.1
 2019,percentage,male,thuringia,code16,10.48
-2021,percentage,male,thuringia,code16,1.2
+2021,percentage,male,thuringia,code16,12.2
 2030,percentage,,,,
