@@ -1,89 +1,45 @@
-Year,Units,display,sea,Value
-1999,mg/l,a) time series,north sea,4.13
-2000,mg/l,a) time series,north sea,4.02
-2001,mg/l,a) time series,north sea,3.83
-2002,mg/l,a) time series,north sea,3.76
-2003,mg/l,a) time series,north sea,3.62
-2004,mg/l,a) time series,north sea,3.58
-2005,mg/l,a) time series,north sea,3.55
-2006,mg/l,a) time series,north sea,3.56
-2007,mg/l,a) time series,north sea,3.48
-2008,mg/l,a) time series,north sea,3.45
-2009,mg/l,a) time series,north sea,3.38
-2010,mg/l,a) time series,north sea,3.39
-2011,mg/l,a) time series,north sea,3.30
-2012,mg/l,a) time series,north sea,3.17
-2013,mg/l,a) time series,north sea,3.16
-2014,mg/l,a) time series,north sea,3.09
-2015,mg/l,a) time series,north sea,2.98
-2016,mg/l,a) time series,north sea,2.92
-2017,mg/l,a) time series,north sea,2.97
-2018,mg/l,a) time series,north sea,2.84
-2019,mg/l,a) time series,north sea,2.82
-2020,mg/l,a) time series,north sea,2.76
-1999,mg/l,b) target (max),north sea,2.80
-2000,mg/l,b) target (max),north sea,2.80
-2001,mg/l,b) target (max),north sea,2.80
-2002,mg/l,b) target (max),north sea,2.80
-2003,mg/l,b) target (max),north sea,2.80
-2004,mg/l,b) target (max),north sea,2.80
-2005,mg/l,b) target (max),north sea,2.80
-2006,mg/l,b) target (max),north sea,2.80
-2007,mg/l,b) target (max),north sea,2.80
-2008,mg/l,b) target (max),north sea,2.80
-2009,mg/l,b) target (max),north sea,2.80
-2010,mg/l,b) target (max),north sea,2.80
-2011,mg/l,b) target (max),north sea,2.80
-2012,mg/l,b) target (max),north sea,2.80
-2013,mg/l,b) target (max),north sea,2.80
-2014,mg/l,b) target (max),north sea,2.80
-2015,mg/l,b) target (max),north sea,2.80
-2016,mg/l,b) target (max),north sea,2.80
-2017,mg/l,b) target (max),north sea,2.80
-2018,mg/l,b) target (max),north sea,2.80
-2019,mg/l,b) target (max),north sea,2.80
-2020,mg/l,b) target (max),north sea,2.80
-1999,mg/l,a) time series,baltic sea,3.92
-2000,mg/l,a) time series,baltic sea,3.83
-2001,mg/l,a) time series,baltic sea,3.96
-2002,mg/l,a) time series,baltic sea,4.18
-2003,mg/l,a) time series,baltic sea,3.74
-2004,mg/l,a) time series,baltic sea,3.58
-2005,mg/l,a) time series,baltic sea,3.58
-2006,mg/l,a) time series,baltic sea,3.52
-2007,mg/l,a) time series,baltic sea,3.52
-2008,mg/l,a) time series,baltic sea,3.69
-2009,mg/l,a) time series,baltic sea,3.60
-2010,mg/l,a) time series,baltic sea,3.75
-2011,mg/l,a) time series,baltic sea,3.78
-2012,mg/l,a) time series,baltic sea,3.45
-2013,mg/l,a) time series,baltic sea,3.41
-2014,mg/l,a) time series,baltic sea,3.35
-2015,mg/l,a) time series,baltic sea,3.15
-2016,mg/l,a) time series,baltic sea,2.95
-2017,mg/l,a) time series,baltic sea,3.19
-2018,mg/l,a) time series,baltic sea,3.14
-2019,mg/l,a) time series,baltic sea,3.17
-2020,mg/l,a) time series,baltic sea,3.07
-1999,mg/l,b) target (max),baltic sea,2.60
-2000,mg/l,b) target (max),baltic sea,2.60
-2001,mg/l,b) target (max),baltic sea,2.60
-2002,mg/l,b) target (max),baltic sea,2.60
-2003,mg/l,b) target (max),baltic sea,2.60
-2004,mg/l,b) target (max),baltic sea,2.60
-2005,mg/l,b) target (max),baltic sea,2.60
-2006,mg/l,b) target (max),baltic sea,2.60
-2007,mg/l,b) target (max),baltic sea,2.60
-2008,mg/l,b) target (max),baltic sea,2.60
-2009,mg/l,b) target (max),baltic sea,2.60
-2010,mg/l,b) target (max),baltic sea,2.60
-2011,mg/l,b) target (max),baltic sea,2.60
-2012,mg/l,b) target (max),baltic sea,2.60
-2013,mg/l,b) target (max),baltic sea,2.60
-2014,mg/l,b) target (max),baltic sea,2.60
-2015,mg/l,b) target (max),baltic sea,2.60
-2016,mg/l,b) target (max),baltic sea,2.60
-2017,mg/l,b) target (max),baltic sea,2.60
-2018,mg/l,b) target (max),baltic sea,2.60
-2019,mg/l,b) target (max),baltic sea,2.60
-2020,mg/l,b) target (max),baltic sea,2.60
+Year,Units,time series,Value
+1999,miligrams per litre,nitrogen input in coastal and marine waters of the baltic sea,3.918
+2000,miligrams per litre,nitrogen input in coastal and marine waters of the baltic sea,3.832
+2001,miligrams per litre,nitrogen input in coastal and marine waters of the baltic sea,3.958
+2002,miligrams per litre,nitrogen input in coastal and marine waters of the baltic sea,4.182
+2003,miligrams per litre,nitrogen input in coastal and marine waters of the baltic sea,3.741
+2004,miligrams per litre,nitrogen input in coastal and marine waters of the baltic sea,3.582
+2005,miligrams per litre,nitrogen input in coastal and marine waters of the baltic sea,3.577
+2006,miligrams per litre,nitrogen input in coastal and marine waters of the baltic sea,3.515
+2007,miligrams per litre,nitrogen input in coastal and marine waters of the baltic sea,3.524
+2008,miligrams per litre,nitrogen input in coastal and marine waters of the baltic sea,3.686
+2009,miligrams per litre,nitrogen input in coastal and marine waters of the baltic sea,3.602
+2010,miligrams per litre,nitrogen input in coastal and marine waters of the baltic sea,3.754
+2011,miligrams per litre,nitrogen input in coastal and marine waters of the baltic sea,3.785
+2012,miligrams per litre,nitrogen input in coastal and marine waters of the baltic sea,3.447
+2013,miligrams per litre,nitrogen input in coastal and marine waters of the baltic sea,3.41
+2014,miligrams per litre,nitrogen input in coastal and marine waters of the baltic sea,3.352
+2015,miligrams per litre,nitrogen input in coastal and marine waters of the baltic sea,3.146
+2016,miligrams per litre,nitrogen input in coastal and marine waters of the baltic sea,2.954
+2017,miligrams per litre,nitrogen input in coastal and marine waters of the baltic sea,3.191
+2018,miligrams per litre,nitrogen input in coastal and marine waters of the baltic sea,3.145
+2019,miligrams per litre,nitrogen input in coastal and marine waters of the baltic sea,3.17
+2020,miligrams per litre,nitrogen input in coastal and marine waters of the baltic sea,3.071
+1999,miligrams per litre,nitrogen input in coastal and marine waters of the north sea,4.131
+2000,miligrams per litre,nitrogen input in coastal and marine waters of the north sea,4.022
+2001,miligrams per litre,nitrogen input in coastal and marine waters of the north sea,3.833
+2002,miligrams per litre,nitrogen input in coastal and marine waters of the north sea,3.76
+2003,miligrams per litre,nitrogen input in coastal and marine waters of the north sea,3.617
+2004,miligrams per litre,nitrogen input in coastal and marine waters of the north sea,3.583
+2005,miligrams per litre,nitrogen input in coastal and marine waters of the north sea,3.552
+2006,miligrams per litre,nitrogen input in coastal and marine waters of the north sea,3.558
+2007,miligrams per litre,nitrogen input in coastal and marine waters of the north sea,3.481
+2008,miligrams per litre,nitrogen input in coastal and marine waters of the north sea,3.446
+2009,miligrams per litre,nitrogen input in coastal and marine waters of the north sea,3.381
+2010,miligrams per litre,nitrogen input in coastal and marine waters of the north sea,3.385
+2011,miligrams per litre,nitrogen input in coastal and marine waters of the north sea,3.296
+2012,miligrams per litre,nitrogen input in coastal and marine waters of the north sea,3.169
+2013,miligrams per litre,nitrogen input in coastal and marine waters of the north sea,3.157
+2014,miligrams per litre,nitrogen input in coastal and marine waters of the north sea,3.086
+2015,miligrams per litre,nitrogen input in coastal and marine waters of the north sea,2.978
+2016,miligrams per litre,nitrogen input in coastal and marine waters of the north sea,2.921
+2017,miligrams per litre,nitrogen input in coastal and marine waters of the north sea,2.975
+2018,miligrams per litre,nitrogen input in coastal and marine waters of the north sea,2.838
+2019,miligrams per litre,nitrogen input in coastal and marine waters of the north sea,2.815
+2020,miligrams per litre,nitrogen input in coastal and marine waters of the north sea,2.756

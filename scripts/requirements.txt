@@ -1,7 +1,2 @@
-pyyaml
-pandas
-gitpython
-ruamel.yaml>=0.15
 git+https://github.com/dougmet/yamlmd
-git+https://github.com/open-sdg/sdg-build@0.3.0
-jsonschema
+git+https://github.com/open-sdg/sdg-build@2.1.0

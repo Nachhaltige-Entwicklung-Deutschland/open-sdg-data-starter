@@ -1,25 +1,28 @@
-Year,Units,display,title,Value
-2012,mio.,a) time series,a) drinking water and sanitation,10.60
-2013,mio.,a) time series,a) drinking water and sanitation,11.60
-2014,mio.,a) time series,a) drinking water and sanitation,31.00
-2015,mio.,a) time series,a) drinking water and sanitation,11.00
-2016,mio.,a) time series,a) drinking water and sanitation,14.30
-2017,mio.,a) time series,a) drinking water and sanitation,28.60
-2018,mio.,a) time series,a) drinking water and sanitation,60.30
-2012,mio.,b) target (min),a) drinking water and sanitation,10.00
-2013,mio.,b) target (min),a) drinking water and sanitation,10.00
-2014,mio.,b) target (min),a) drinking water and sanitation,10.00
-2015,mio.,b) target (min),a) drinking water and sanitation,10.00
-2016,mio.,b) target (min),a) drinking water and sanitation,10.00
-2017,mio.,b) target (min),a) drinking water and sanitation,10.00
-2018,mio.,b) target (min),a) drinking water and sanitation,10.00
-2019,mio.,a) time series,b) drinking water,14.30
-2020,mio.,a) time series,b) drinking water,10.90
-2019,mio.,b) target (min),b) drinking water,6.00
-2020,mio.,b) target (min),b) drinking water,6.00
-2030,mio.,b) target (min),b) drinking water,6.00
-2019,mio.,a) time series,c) sanitation,6.10
-2020,mio.,a) time series,c) sanitation,1.80
-2019,mio.,b) target (min),c) sanitation,4.00
-2020,mio.,b) target (min),c) sanitation,4.00
-2030,mio.,b) target (min),c) sanitation,4.00
+Year,Units,time series,Value
+2012,millions,number of people gaining first-time or upgraded access to drinking water or sanitation owing to german support,10.6
+2013,millions,number of people gaining first-time or upgraded access to drinking water or sanitation owing to german support,11.6
+2014,millions,number of people gaining first-time or upgraded access to drinking water or sanitation owing to german support,31.0
+2015,millions,number of people gaining first-time or upgraded access to drinking water or sanitation owing to german support,11.0
+2016,millions,number of people gaining first-time or upgraded access to drinking water or sanitation owing to german support,14.3
+2017,millions,number of people gaining first-time or upgraded access to drinking water or sanitation owing to german support,28.6
+2018,millions,number of people gaining first-time or upgraded access to drinking water or sanitation owing to german support,60.3
+2019,millions,number of people gaining first-time or upgraded access to drinking water or sanitation owing to german support,
+2020,millions,number of people gaining first-time or upgraded access to drinking water or sanitation owing to german support,
+2012,millions,number of people gaining first-time or upgraded access to drinking water owing to german support,
+2013,millions,number of people gaining first-time or upgraded access to drinking water owing to german support,
+2014,millions,number of people gaining first-time or upgraded access to drinking water owing to german support,
+2015,millions,number of people gaining first-time or upgraded access to drinking water owing to german support,
+2016,millions,number of people gaining first-time or upgraded access to drinking water owing to german support,
+2017,millions,number of people gaining first-time or upgraded access to drinking water owing to german support,
+2018,millions,number of people gaining first-time or upgraded access to drinking water owing to german support,
+2019,millions,number of people gaining first-time or upgraded access to drinking water owing to german support,14.3
+2020,millions,number of people gaining first-time or upgraded access to drinking water owing to german support,10.9
+2012,millions,number of people gaining first-time or improved access to sanitation owing to german support,
+2013,millions,number of people gaining first-time or improved access to sanitation owing to german support,
+2014,millions,number of people gaining first-time or improved access to sanitation owing to german support,
+2015,millions,number of people gaining first-time or improved access to sanitation owing to german support,
+2016,millions,number of people gaining first-time or improved access to sanitation owing to german support,
+2017,millions,number of people gaining first-time or improved access to sanitation owing to german support,
+2018,millions,number of people gaining first-time or improved access to sanitation owing to german support,
+2019,millions,number of people gaining first-time or improved access to sanitation owing to german support,6.1
+2020,millions,number of people gaining first-time or improved access to sanitation owing to german support,1.8
