@@ -51,6 +51,6 @@ jobs:
       with:
         REPOSITORY_NAME: sustainabledevelopment-deutschland/sdg-data-pub
         ACCESS_TOKEN: ${{ secrets.token }}
-        BRANCH: gh-pages
+        BRANCH: master
         FOLDER: _site
         CLEAN: true
