@@ -31,7 +31,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2013,percentage,data from the federal statistical office,baden-wuerttemberg,code08,7.8
 2016,percentage,data from the federal statistical office,baden-wuerttemberg,code08,9.3
 2020,percentage,data from the federal statistical office,baden-wuerttemberg,code08,12.3
-2030,percentage,data from the federal statistical office,,,
 2001,percentage,data from the federal statistical office,bavaria,code09,2.8
 2003,percentage,data from the federal statistical office,bavaria,code09,3.9
 2005,percentage,data from the federal statistical office,bavaria,code09,3.9
@@ -40,12 +39,10 @@ Year,Units,Series,federal state,GeoCode,Value
 2013,percentage,data from the federal statistical office,bavaria,code09,6.8
 2016,percentage,data from the federal statistical office,bavaria,code09,8.3
 2020,percentage,data from the federal statistical office,bavaria,code09,12.1
-2030,percentage,data from the federal statistical office,,,
 2010,percentage,data from the federal statistical office,berlin,code11,12.4
 2013,percentage,data from the federal statistical office,berlin,code11,15.0
 2016,percentage,data from the federal statistical office,berlin,code11,15.6
 2020,percentage,data from the federal statistical office,berlin,code11,15.8
-2030,percentage,data from the federal statistical office,,,
 2001,percentage,data from the federal statistical office,brandenburg,code12,7.1
 2003,percentage,data from the federal statistical office,brandenburg,code12,8.7
 2005,percentage,data from the federal statistical office,brandenburg,code12,9.8
@@ -54,17 +51,14 @@ Year,Units,Series,federal state,GeoCode,Value
 2013,percentage,data from the federal statistical office,brandenburg,code12,10.3
 2016,percentage,data from the federal statistical office,brandenburg,code12,10.4
 2020,percentage,data from the federal statistical office,brandenburg,code12,13.3
-2030,percentage,data from the federal statistical office,,,
 2010,percentage,data from the federal statistical office,bremen,code04,9.8
 2013,percentage,data from the federal statistical office,bremen,code04,11.8
 2016,percentage,data from the federal statistical office,bremen,code04,17.7
 2020,percentage,data from the federal statistical office,bremen,code04,22.7
-2030,percentage,data from the federal statistical office,,,
 2010,percentage,data from the federal statistical office,hamburg,code02,6.8
 2013,percentage,data from the federal statistical office,hamburg,code02,6.9
 2016,percentage,data from the federal statistical office,hamburg,code02,8.1
 2020,percentage,data from the federal statistical office,hamburg,code02,8.6
-2030,percentage,data from the federal statistical office,,,
 2001,percentage,data from the federal statistical office,hesse,code06,6.8
 2003,percentage,data from the federal statistical office,hesse,code06,7.0
 2005,percentage,data from the federal statistical office,hesse,code06,7.0
@@ -73,7 +67,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2013,percentage,data from the federal statistical office,hesse,code06,10.5
 2016,percentage,data from the federal statistical office,hesse,code06,11.6
 2020,percentage,data from the federal statistical office,hesse,code06,15.0
-2030,percentage,data from the federal statistical office,,,
 2001,percentage,data from the federal statistical office,mecklenburg western pomerania,code13,7.2
 2003,percentage,data from the federal statistical office,mecklenburg western pomerania,code13,8.1
 2005,percentage,data from the federal statistical office,mecklenburg western pomerania,code13,8.1
@@ -82,7 +75,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2013,percentage,data from the federal statistical office,mecklenburg western pomerania,code13,9.0
 2016,percentage,data from the federal statistical office,mecklenburg western pomerania,code13,9.4
 2020,percentage,data from the federal statistical office,mecklenburg western pomerania,code13,12.2
-2030,percentage,data from the federal statistical office,,,
 2001,percentage,data from the federal statistical office,lower saxony,code03,1.4
 2003,percentage,data from the federal statistical office,lower saxony,code03,2.1
 2005,percentage,data from the federal statistical office,lower saxony,code03,2.4
@@ -91,7 +83,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2013,percentage,data from the federal statistical office,lower saxony,code03,2.9
 2016,percentage,data from the federal statistical office,lower saxony,code03,3.2
 2020,percentage,data from the federal statistical office,lower saxony,code03,4.8
-2030,percentage,data from the federal statistical office,,,
 2001,percentage,data from the federal statistical office,north rhine-westphalia,code05,1.5
 2003,percentage,data from the federal statistical office,north rhine-westphalia,code05,2.5
 2005,percentage,data from the federal statistical office,north rhine-westphalia,code05,2.8
@@ -100,7 +91,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2013,percentage,data from the federal statistical office,north rhine-westphalia,code05,4.2
 2016,percentage,data from the federal statistical office,north rhine-westphalia,code05,4.2
 2020,percentage,data from the federal statistical office,north rhine-westphalia,code05,5.7
-2030,percentage,data from the federal statistical office,,,
 2001,percentage,data from the federal statistical office,rhineland palatinate,code07,2.2
 2003,percentage,data from the federal statistical office,rhineland palatinate,code07,2.4
 2005,percentage,data from the federal statistical office,rhineland palatinate,code07,2.7
@@ -109,7 +99,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2013,percentage,data from the federal statistical office,rhineland palatinate,code07,6.4
 2016,percentage,data from the federal statistical office,rhineland palatinate,code07,8.7
 2020,percentage,data from the federal statistical office,rhineland palatinate,code07,11.3
-2030,percentage,data from the federal statistical office,,,
 2001,percentage,data from the federal statistical office,saarland,code10,5.4
 2003,percentage,data from the federal statistical office,saarland,code10,6.7
 2005,percentage,data from the federal statistical office,saarland,code10,7.8
@@ -118,7 +107,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2013,percentage,data from the federal statistical office,saarland,code10,11.4
 2016,percentage,data from the federal statistical office,saarland,code10,14.9
 2020,percentage,data from the federal statistical office,saarland,code10,18.0
-2030,percentage,data from the federal statistical office,,,
 2001,percentage,data from the federal statistical office,saxony,code14,2.6
 2003,percentage,data from the federal statistical office,saxony,code14,3.4
 2005,percentage,data from the federal statistical office,saxony,code14,3.4
@@ -127,7 +115,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2013,percentage,data from the federal statistical office,saxony,code14,3.8
 2016,percentage,data from the federal statistical office,saxony,code14,4.6
 2020,percentage,data from the federal statistical office,saxony,code14,7.9
-2030,percentage,data from the federal statistical office,,,
 2001,percentage,data from the federal statistical office,saxony-anhalt,code15,2.6
 2003,percentage,data from the federal statistical office,saxony-anhalt,code15,3.2
 2005,percentage,data from the federal statistical office,saxony-anhalt,code15,4.2
@@ -136,7 +123,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2013,percentage,data from the federal statistical office,saxony-anhalt,code15,4.5
 2016,percentage,data from the federal statistical office,saxony-anhalt,code15,5.0
 2020,percentage,data from the federal statistical office,saxony-anhalt,code15,9.0
-2030,percentage,data from the federal statistical office,,,
 2001,percentage,data from the federal statistical office,schleswig-holstein,code01,1.9
 2003,percentage,data from the federal statistical office,schleswig-holstein,code01,2.2
 2005,percentage,data from the federal statistical office,schleswig-holstein,code01,2.8
@@ -145,7 +131,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2013,percentage,data from the federal statistical office,schleswig-holstein,code01,3.4
 2016,percentage,data from the federal statistical office,schleswig-holstein,code01,4.0
 2020,percentage,data from the federal statistical office,schleswig-holstein,code01,6.4
-2030,percentage,data from the federal statistical office,,,
 2001,percentage,data from the federal statistical office,thuringia,code16,2.1
 2003,percentage,data from the federal statistical office,thuringia,code16,3.0
 2005,percentage,data from the federal statistical office,thuringia,code16,3.1
@@ -154,7 +139,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2013,percentage,data from the federal statistical office,thuringia,code16,4.4
 2016,percentage,data from the federal statistical office,thuringia,code16,4.3
 2020,percentage,data from the federal statistical office,thuringia,code16,6.6
-2030,percentage,data from the federal statistical office,,,
 1999,percentage,data from the federal ministry of food and agriculture,,,
 2001,percentage,data from the federal ministry of food and agriculture,,,3.7
 2002,percentage,data from the federal ministry of food and agriculture,,,4.1
