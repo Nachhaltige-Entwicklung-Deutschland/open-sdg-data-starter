@@ -31,7 +31,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2013,Prozent,Daten des Statistischen Bundesamtes,Baden-Württemberg,code08,7.8
 2016,Prozent,Daten des Statistischen Bundesamtes,Baden-Württemberg,code08,9.3
 2020,Prozent,Daten des Statistischen Bundesamtes,Baden-Württemberg,code08,12.3
-2030,Prozent,Daten des Statistischen Bundesamtes,,,
 2001,Prozent,Daten des Statistischen Bundesamtes,Bayern,code09,2.8
 2003,Prozent,Daten des Statistischen Bundesamtes,Bayern,code09,3.9
 2005,Prozent,Daten des Statistischen Bundesamtes,Bayern,code09,3.9
@@ -40,12 +39,10 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2013,Prozent,Daten des Statistischen Bundesamtes,Bayern,code09,6.8
 2016,Prozent,Daten des Statistischen Bundesamtes,Bayern,code09,8.3
 2020,Prozent,Daten des Statistischen Bundesamtes,Bayern,code09,12.1
-2030,Prozent,Daten des Statistischen Bundesamtes,,,
 2010,Prozent,Daten des Statistischen Bundesamtes,Berlin,code11,12.4
 2013,Prozent,Daten des Statistischen Bundesamtes,Berlin,code11,15.0
 2016,Prozent,Daten des Statistischen Bundesamtes,Berlin,code11,15.6
 2020,Prozent,Daten des Statistischen Bundesamtes,Berlin,code11,15.8
-2030,Prozent,Daten des Statistischen Bundesamtes,,,
 2001,Prozent,Daten des Statistischen Bundesamtes,Brandenburg,code12,7.1
 2003,Prozent,Daten des Statistischen Bundesamtes,Brandenburg,code12,8.7
 2005,Prozent,Daten des Statistischen Bundesamtes,Brandenburg,code12,9.8
@@ -54,17 +51,14 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2013,Prozent,Daten des Statistischen Bundesamtes,Brandenburg,code12,10.3
 2016,Prozent,Daten des Statistischen Bundesamtes,Brandenburg,code12,10.4
 2020,Prozent,Daten des Statistischen Bundesamtes,Brandenburg,code12,13.3
-2030,Prozent,Daten des Statistischen Bundesamtes,,,
 2010,Prozent,Daten des Statistischen Bundesamtes,Bremen,code04,9.8
 2013,Prozent,Daten des Statistischen Bundesamtes,Bremen,code04,11.8
 2016,Prozent,Daten des Statistischen Bundesamtes,Bremen,code04,17.7
 2020,Prozent,Daten des Statistischen Bundesamtes,Bremen,code04,22.7
-2030,Prozent,Daten des Statistischen Bundesamtes,,,
 2010,Prozent,Daten des Statistischen Bundesamtes,Hamburg,code02,6.8
 2013,Prozent,Daten des Statistischen Bundesamtes,Hamburg,code02,6.9
 2016,Prozent,Daten des Statistischen Bundesamtes,Hamburg,code02,8.1
 2020,Prozent,Daten des Statistischen Bundesamtes,Hamburg,code02,8.6
-2030,Prozent,Daten des Statistischen Bundesamtes,,,
 2001,Prozent,Daten des Statistischen Bundesamtes,Hessen,code06,6.8
 2003,Prozent,Daten des Statistischen Bundesamtes,Hessen,code06,7.0
 2005,Prozent,Daten des Statistischen Bundesamtes,Hessen,code06,7.0
@@ -73,7 +67,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2013,Prozent,Daten des Statistischen Bundesamtes,Hessen,code06,10.5
 2016,Prozent,Daten des Statistischen Bundesamtes,Hessen,code06,11.6
 2020,Prozent,Daten des Statistischen Bundesamtes,Hessen,code06,15.0
-2030,Prozent,Daten des Statistischen Bundesamtes,,,
 2001,Prozent,Daten des Statistischen Bundesamtes,Mecklenburg-Vorpommern,code13,7.2
 2003,Prozent,Daten des Statistischen Bundesamtes,Mecklenburg-Vorpommern,code13,8.1
 2005,Prozent,Daten des Statistischen Bundesamtes,Mecklenburg-Vorpommern,code13,8.1
@@ -82,7 +75,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2013,Prozent,Daten des Statistischen Bundesamtes,Mecklenburg-Vorpommern,code13,9.0
 2016,Prozent,Daten des Statistischen Bundesamtes,Mecklenburg-Vorpommern,code13,9.4
 2020,Prozent,Daten des Statistischen Bundesamtes,Mecklenburg-Vorpommern,code13,12.2
-2030,Prozent,Daten des Statistischen Bundesamtes,,,
 2001,Prozent,Daten des Statistischen Bundesamtes,Niedersachsen,code03,1.4
 2003,Prozent,Daten des Statistischen Bundesamtes,Niedersachsen,code03,2.1
 2005,Prozent,Daten des Statistischen Bundesamtes,Niedersachsen,code03,2.4
@@ -91,7 +83,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2013,Prozent,Daten des Statistischen Bundesamtes,Niedersachsen,code03,2.9
 2016,Prozent,Daten des Statistischen Bundesamtes,Niedersachsen,code03,3.2
 2020,Prozent,Daten des Statistischen Bundesamtes,Niedersachsen,code03,4.8
-2030,Prozent,Daten des Statistischen Bundesamtes,,,
 2001,Prozent,Daten des Statistischen Bundesamtes,Nordrhein-Westfalen,code05,1.5
 2003,Prozent,Daten des Statistischen Bundesamtes,Nordrhein-Westfalen,code05,2.5
 2005,Prozent,Daten des Statistischen Bundesamtes,Nordrhein-Westfalen,code05,2.8
@@ -100,7 +91,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2013,Prozent,Daten des Statistischen Bundesamtes,Nordrhein-Westfalen,code05,4.2
 2016,Prozent,Daten des Statistischen Bundesamtes,Nordrhein-Westfalen,code05,4.2
 2020,Prozent,Daten des Statistischen Bundesamtes,Nordrhein-Westfalen,code05,5.7
-2030,Prozent,Daten des Statistischen Bundesamtes,,,
 2001,Prozent,Daten des Statistischen Bundesamtes,Rheinland-Pfalz,code07,2.2
 2003,Prozent,Daten des Statistischen Bundesamtes,Rheinland-Pfalz,code07,2.4
 2005,Prozent,Daten des Statistischen Bundesamtes,Rheinland-Pfalz,code07,2.7
@@ -109,7 +99,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2013,Prozent,Daten des Statistischen Bundesamtes,Rheinland-Pfalz,code07,6.4
 2016,Prozent,Daten des Statistischen Bundesamtes,Rheinland-Pfalz,code07,8.7
 2020,Prozent,Daten des Statistischen Bundesamtes,Rheinland-Pfalz,code07,11.3
-2030,Prozent,Daten des Statistischen Bundesamtes,,,
 2001,Prozent,Daten des Statistischen Bundesamtes,Saarland,code10,5.4
 2003,Prozent,Daten des Statistischen Bundesamtes,Saarland,code10,6.7
 2005,Prozent,Daten des Statistischen Bundesamtes,Saarland,code10,7.8
@@ -118,7 +107,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2013,Prozent,Daten des Statistischen Bundesamtes,Saarland,code10,11.4
 2016,Prozent,Daten des Statistischen Bundesamtes,Saarland,code10,14.9
 2020,Prozent,Daten des Statistischen Bundesamtes,Saarland,code10,18.0
-2030,Prozent,Daten des Statistischen Bundesamtes,,,
 2001,Prozent,Daten des Statistischen Bundesamtes,Sachsen,code14,2.6
 2003,Prozent,Daten des Statistischen Bundesamtes,Sachsen,code14,3.4
 2005,Prozent,Daten des Statistischen Bundesamtes,Sachsen,code14,3.4
@@ -127,7 +115,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2013,Prozent,Daten des Statistischen Bundesamtes,Sachsen,code14,3.8
 2016,Prozent,Daten des Statistischen Bundesamtes,Sachsen,code14,4.6
 2020,Prozent,Daten des Statistischen Bundesamtes,Sachsen,code14,7.9
-2030,Prozent,Daten des Statistischen Bundesamtes,,,
 2001,Prozent,Daten des Statistischen Bundesamtes,Sachsen-Anhalt,code15,2.6
 2003,Prozent,Daten des Statistischen Bundesamtes,Sachsen-Anhalt,code15,3.2
 2005,Prozent,Daten des Statistischen Bundesamtes,Sachsen-Anhalt,code15,4.2
@@ -136,7 +123,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2013,Prozent,Daten des Statistischen Bundesamtes,Sachsen-Anhalt,code15,4.5
 2016,Prozent,Daten des Statistischen Bundesamtes,Sachsen-Anhalt,code15,5.0
 2020,Prozent,Daten des Statistischen Bundesamtes,Sachsen-Anhalt,code15,9.0
-2030,Prozent,Daten des Statistischen Bundesamtes,,,
 2001,Prozent,Daten des Statistischen Bundesamtes,Schleswig-Holstein,code01,1.9
 2003,Prozent,Daten des Statistischen Bundesamtes,Schleswig-Holstein,code01,2.2
 2005,Prozent,Daten des Statistischen Bundesamtes,Schleswig-Holstein,code01,2.8
@@ -145,7 +131,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2013,Prozent,Daten des Statistischen Bundesamtes,Schleswig-Holstein,code01,3.4
 2016,Prozent,Daten des Statistischen Bundesamtes,Schleswig-Holstein,code01,4.0
 2020,Prozent,Daten des Statistischen Bundesamtes,Schleswig-Holstein,code01,6.4
-2030,Prozent,Daten des Statistischen Bundesamtes,,,
 2001,Prozent,Daten des Statistischen Bundesamtes,Thüringen,code16,2.1
 2003,Prozent,Daten des Statistischen Bundesamtes,Thüringen,code16,3.0
 2005,Prozent,Daten des Statistischen Bundesamtes,Thüringen,code16,3.1
@@ -154,7 +139,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2013,Prozent,Daten des Statistischen Bundesamtes,Thüringen,code16,4.4
 2016,Prozent,Daten des Statistischen Bundesamtes,Thüringen,code16,4.3
 2020,Prozent,Daten des Statistischen Bundesamtes,Thüringen,code16,6.6
-2030,Prozent,Daten des Statistischen Bundesamtes,,,
 1999,Prozent,Daten des BMEL,,,
 2001,Prozent,Daten des BMEL,,,3.7
 2002,Prozent,Daten des BMEL,,,4.1

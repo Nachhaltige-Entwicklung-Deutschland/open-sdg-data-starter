@@ -28,8 +28,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2018,2008 = 100,Endenergieproduktivität,Baden-Württemberg,code08,121.65
 2019,2008 = 100,Endenergieproduktivität,Baden-Württemberg,code08,117.75
 2020,2008 = 100,Endenergieproduktivität,Baden-Württemberg,code08,123.69
-2050,2008 = 100,Endenergieproduktivität,,,
-2030,2008 = 100,Endenergieproduktivität,,,
 2008,2008 = 100,Endenergieproduktivität,Bayern,code09,100.0
 2009,2008 = 100,Endenergieproduktivität,Bayern,code09,98.7
 2010,2008 = 100,Endenergieproduktivität,Bayern,code09,96.32
@@ -42,8 +40,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2017,2008 = 100,Endenergieproduktivität,Bayern,code09,114.29
 2018,2008 = 100,Endenergieproduktivität,Bayern,code09,113.39
 2019,2008 = 100,Endenergieproduktivität,Bayern,code09,112.21
-2050,2008 = 100,Endenergieproduktivität,,,
-2030,2008 = 100,Endenergieproduktivität,,,
 2008,2008 = 100,Endenergieproduktivität,Berlin,code11,100.0
 2009,2008 = 100,Endenergieproduktivität,Berlin,code11,98.34
 2010,2008 = 100,Endenergieproduktivität,Berlin,code11,93.1
@@ -57,8 +53,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2018,2008 = 100,Endenergieproduktivität,Berlin,code11,135.5
 2019,2008 = 100,Endenergieproduktivität,Berlin,code11,141.02
 2020,2008 = 100,Endenergieproduktivität,Berlin,code11,154.73
-2050,2008 = 100,Endenergieproduktivität,,,
-2030,2008 = 100,Endenergieproduktivität,,,
 2008,2008 = 100,Endenergieproduktivität,Brandenburg,code12,100.0
 2009,2008 = 100,Endenergieproduktivität,Brandenburg,code12,99.37
 2010,2008 = 100,Endenergieproduktivität,Brandenburg,code12,95.55
@@ -71,8 +65,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2017,2008 = 100,Endenergieproduktivität,Brandenburg,code12,104.0
 2018,2008 = 100,Endenergieproduktivität,Brandenburg,code12,103.29
 2019,2008 = 100,Endenergieproduktivität,Brandenburg,code12,109.04
-2050,2008 = 100,Endenergieproduktivität,,,
-2030,2008 = 100,Endenergieproduktivität,,,
 2008,2008 = 100,Endenergieproduktivität,Bremen,code04,100.0
 2009,2008 = 100,Endenergieproduktivität,Bremen,code04,97.32
 2010,2008 = 100,Endenergieproduktivität,Bremen,code04,91.27
@@ -86,8 +78,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2018,2008 = 100,Endenergieproduktivität,Bremen,code04,105.52
 2019,2008 = 100,Endenergieproduktivität,Bremen,code04,108.12
 2020,2008 = 100,Endenergieproduktivität,Bremen,code04,116.49
-2050,2008 = 100,Endenergieproduktivität,,,
-2030,2008 = 100,Endenergieproduktivität,,,
 2008,2008 = 100,Endenergieproduktivität,Hamburg,code02,100.0
 2009,2008 = 100,Endenergieproduktivität,Hamburg,code02,97.62
 2010,2008 = 100,Endenergieproduktivität,Hamburg,code02,94.0
@@ -101,8 +91,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2018,2008 = 100,Endenergieproduktivität,Hamburg,code02,110.62
 2019,2008 = 100,Endenergieproduktivität,Hamburg,code02,114.41
 2020,2008 = 100,Endenergieproduktivität,Hamburg,code02,118.79
-2050,2008 = 100,Endenergieproduktivität,,,
-2030,2008 = 100,Endenergieproduktivität,,,
 2008,2008 = 100,Endenergieproduktivität,Hessen,code06,100.0
 2009,2008 = 100,Endenergieproduktivität,Hessen,code06,97.8
 2010,2008 = 100,Endenergieproduktivität,Hessen,code06,98.68
@@ -116,8 +104,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2018,2008 = 100,Endenergieproduktivität,Hessen,code06,109.92
 2019,2008 = 100,Endenergieproduktivität,Hessen,code06,109.25
 2020,2008 = 100,Endenergieproduktivität,Hessen,code06,127.37
-2050,2008 = 100,Endenergieproduktivität,,,
-2030,2008 = 100,Endenergieproduktivität,,,
 2008,2008 = 100,Endenergieproduktivität,Mecklenburg-Vorpommern,code13,100.0
 2009,2008 = 100,Endenergieproduktivität,Mecklenburg-Vorpommern,code13,99.92
 2010,2008 = 100,Endenergieproduktivität,Mecklenburg-Vorpommern,code13,94.59
@@ -129,8 +115,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2016,2008 = 100,Endenergieproduktivität,Mecklenburg-Vorpommern,code13,111.42
 2017,2008 = 100,Endenergieproduktivität,Mecklenburg-Vorpommern,code13,107.49
 2018,2008 = 100,Endenergieproduktivität,Mecklenburg-Vorpommern,code13,109.2
-2050,2008 = 100,Endenergieproduktivität,,,
-2030,2008 = 100,Endenergieproduktivität,,,
 2008,2008 = 100,Endenergieproduktivität,Niedersachsen,code03,100.0
 2009,2008 = 100,Endenergieproduktivität,Niedersachsen,code03,98.99
 2010,2008 = 100,Endenergieproduktivität,Niedersachsen,code03,97.8
@@ -144,8 +128,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2018,2008 = 100,Endenergieproduktivität,Niedersachsen,code03,119.9
 2019,2008 = 100,Endenergieproduktivität,Niedersachsen,code03,122.55
 2020,2008 = 100,Endenergieproduktivität,Niedersachsen,code03,124.12
-2050,2008 = 100,Endenergieproduktivität,,,
-2030,2008 = 100,Endenergieproduktivität,,,
 2008,2008 = 100,Endenergieproduktivität,Nordrhein-Westfalen,code05,100.0
 2009,2008 = 100,Endenergieproduktivität,Nordrhein-Westfalen,code05,106.78
 2010,2008 = 100,Endenergieproduktivität,Nordrhein-Westfalen,code05,102.13
@@ -158,8 +140,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2017,2008 = 100,Endenergieproduktivität,Nordrhein-Westfalen,code05,121.19
 2018,2008 = 100,Endenergieproduktivität,Nordrhein-Westfalen,code05,107.47
 2019,2008 = 100,Endenergieproduktivität,Nordrhein-Westfalen,code05,119.28
-2050,2008 = 100,Endenergieproduktivität,,,
-2030,2008 = 100,Endenergieproduktivität,,,
 2008,2008 = 100,Endenergieproduktivität,Rheinland-Pfalz,code07,100.0
 2009,2008 = 100,Endenergieproduktivität,Rheinland-Pfalz,code07,99.39
 2010,2008 = 100,Endenergieproduktivität,Rheinland-Pfalz,code07,99.84
@@ -173,10 +153,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2018,2008 = 100,Endenergieproduktivität,Rheinland-Pfalz,code07,113.54
 2019,2008 = 100,Endenergieproduktivität,Rheinland-Pfalz,code07,112.81
 2020,2008 = 100,Endenergieproduktivität,Rheinland-Pfalz,code07,111.8
-2050,2008 = 100,Endenergieproduktivität,,,
-2030,2008 = 100,Endenergieproduktivität,,,
-2050,2008 = 100,Endenergieproduktivität,,,
-2030,2008 = 100,Endenergieproduktivität,,,
 2008,2008 = 100,Endenergieproduktivität,Sachsen,code14,100.0
 2009,2008 = 100,Endenergieproduktivität,Sachsen,code14,97.31
 2010,2008 = 100,Endenergieproduktivität,Sachsen,code14,95.38
@@ -189,8 +165,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2017,2008 = 100,Endenergieproduktivität,Sachsen,code14,105.78
 2018,2008 = 100,Endenergieproduktivität,Sachsen,code14,109.5
 2019,2008 = 100,Endenergieproduktivität,Sachsen,code14,112.39
-2050,2008 = 100,Endenergieproduktivität,,,
-2030,2008 = 100,Endenergieproduktivität,,,
 2008,2008 = 100,Endenergieproduktivität,Sachsen-Anhalt,code15,100.0
 2009,2008 = 100,Endenergieproduktivität,Sachsen-Anhalt,code15,95.9
 2010,2008 = 100,Endenergieproduktivität,Sachsen-Anhalt,code15,92.18
@@ -203,8 +177,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2017,2008 = 100,Endenergieproduktivität,Sachsen-Anhalt,code15,98.56
 2018,2008 = 100,Endenergieproduktivität,Sachsen-Anhalt,code15,95.94
 2019,2008 = 100,Endenergieproduktivität,Sachsen-Anhalt,code15,102.82
-2050,2008 = 100,Endenergieproduktivität,,,
-2030,2008 = 100,Endenergieproduktivität,,,
 2008,2008 = 100,Endenergieproduktivität,Schleswig-Holstein,code01,100.0
 2009,2008 = 100,Endenergieproduktivität,Schleswig-Holstein,code01,99.59
 2010,2008 = 100,Endenergieproduktivität,Schleswig-Holstein,code01,94.81
@@ -218,8 +190,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2018,2008 = 100,Endenergieproduktivität,Schleswig-Holstein,code01,107.84
 2019,2008 = 100,Endenergieproduktivität,Schleswig-Holstein,code01,114.83
 2020,2008 = 100,Endenergieproduktivität,Schleswig-Holstein,code01,112.08
-2050,2008 = 100,Endenergieproduktivität,,,
-2030,2008 = 100,Endenergieproduktivität,,,
 2008,2008 = 100,Endenergieproduktivität,Thüringen,code16,100.0
 2009,2008 = 100,Endenergieproduktivität,Thüringen,code16,100.4
 2010,2008 = 100,Endenergieproduktivität,Thüringen,code16,98.88
@@ -232,8 +202,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2017,2008 = 100,Endenergieproduktivität,Thüringen,code16,118.93
 2018,2008 = 100,Endenergieproduktivität,Thüringen,code16,118.84
 2019,2008 = 100,Endenergieproduktivität,Thüringen,code16,119.23
-2050,2008 = 100,Endenergieproduktivität,,,
-2030,2008 = 100,Endenergieproduktivität,,,
 2008,2008 = 100,Primärenergieverbrauch,,,100.0
 2009,2008 = 100,Primärenergieverbrauch,,,94.1
 2010,2008 = 100,Primärenergieverbrauch,,,98.87
@@ -263,8 +231,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2018,2008 = 100,Primärenergieverbrauch,Baden-Württemberg,code08,87.85
 2019,2008 = 100,Primärenergieverbrauch,Baden-Württemberg,code08,88.24
 2020,2008 = 100,Primärenergieverbrauch,Baden-Württemberg,code08,82.75
-2050,2008 = 100,Primärenergieverbrauch,,,
-2030,2008 = 100,Primärenergieverbrauch,,,
 2008,2008 = 100,Primärenergieverbrauch,Bayern,code09,100.0
 2009,2008 = 100,Primärenergieverbrauch,Bayern,code09,98.27
 2010,2008 = 100,Primärenergieverbrauch,Bayern,code09,102.05
@@ -277,8 +243,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2017,2008 = 100,Primärenergieverbrauch,Bayern,code09,95.4
 2018,2008 = 100,Primärenergieverbrauch,Bayern,code09,89.76
 2019,2008 = 100,Primärenergieverbrauch,Bayern,code09,91.53
-2050,2008 = 100,Primärenergieverbrauch,,,
-2030,2008 = 100,Primärenergieverbrauch,,,
 2008,2008 = 100,Primärenergieverbrauch,Berlin,code11,100.0
 2009,2008 = 100,Primärenergieverbrauch,Berlin,code11,98.6
 2010,2008 = 100,Primärenergieverbrauch,Berlin,code11,107.63
@@ -292,8 +256,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2018,2008 = 100,Primärenergieverbrauch,Berlin,code11,92.75
 2019,2008 = 100,Primärenergieverbrauch,Berlin,code11,91.99
 2020,2008 = 100,Primärenergieverbrauch,Berlin,code11,83.88
-2050,2008 = 100,Primärenergieverbrauch,,,
-2030,2008 = 100,Primärenergieverbrauch,,,
 2008,2008 = 100,Primärenergieverbrauch,Brandenburg,code12,100.0
 2009,2008 = 100,Primärenergieverbrauch,Brandenburg,code12,97.02
 2010,2008 = 100,Primärenergieverbrauch,Brandenburg,code12,102.12
@@ -306,8 +268,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2017,2008 = 100,Primärenergieverbrauch,Brandenburg,code12,103.67
 2018,2008 = 100,Primärenergieverbrauch,Brandenburg,code12,106.36
 2019,2008 = 100,Primärenergieverbrauch,Brandenburg,code12,96.19
-2050,2008 = 100,Primärenergieverbrauch,,,
-2030,2008 = 100,Primärenergieverbrauch,,,
 2008,2008 = 100,Primärenergieverbrauch,Bremen,code04,100.0
 2009,2008 = 100,Primärenergieverbrauch,Bremen,code04,96.2
 2010,2008 = 100,Primärenergieverbrauch,Bremen,code04,105.9
@@ -321,8 +281,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2018,2008 = 100,Primärenergieverbrauch,Bremen,code04,95.59
 2019,2008 = 100,Primärenergieverbrauch,Bremen,code04,89.68
 2020,2008 = 100,Primärenergieverbrauch,Bremen,code04,81.09
-2050,2008 = 100,Primärenergieverbrauch,,,
-2030,2008 = 100,Primärenergieverbrauch,,,
 2008,2008 = 100,Primärenergieverbrauch,Hamburg,code02,100.0
 2009,2008 = 100,Primärenergieverbrauch,Hamburg,code02,98.74
 2010,2008 = 100,Primärenergieverbrauch,Hamburg,code02,106.3
@@ -336,8 +294,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2018,2008 = 100,Primärenergieverbrauch,Hamburg,code02,114.51
 2019,2008 = 100,Primärenergieverbrauch,Hamburg,code02,110.11
 2020,2008 = 100,Primärenergieverbrauch,Hamburg,code02,98.06
-2050,2008 = 100,Primärenergieverbrauch,,,
-2030,2008 = 100,Primärenergieverbrauch,,,
 2008,2008 = 100,Primärenergieverbrauch,Hessen,code06,100.0
 2009,2008 = 100,Primärenergieverbrauch,Hessen,code06,83.48
 2010,2008 = 100,Primärenergieverbrauch,Hessen,code06,94.98
@@ -351,8 +307,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2018,2008 = 100,Primärenergieverbrauch,Hessen,code06,81.35
 2019,2008 = 100,Primärenergieverbrauch,Hessen,code06,82.38
 2020,2008 = 100,Primärenergieverbrauch,Hessen,code06,83.2
-2050,2008 = 100,Primärenergieverbrauch,,,
-2030,2008 = 100,Primärenergieverbrauch,,,
 2008,2008 = 100,Primärenergieverbrauch,Mecklenburg-Vorpommern,code13,100.0
 2009,2008 = 100,Primärenergieverbrauch,Mecklenburg-Vorpommern,code13,95.14
 2010,2008 = 100,Primärenergieverbrauch,Mecklenburg-Vorpommern,code13,101.93
@@ -364,8 +318,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2016,2008 = 100,Primärenergieverbrauch,Mecklenburg-Vorpommern,code13,106.07
 2017,2008 = 100,Primärenergieverbrauch,Mecklenburg-Vorpommern,code13,93.21
 2018,2008 = 100,Primärenergieverbrauch,Mecklenburg-Vorpommern,code13,91.07
-2050,2008 = 100,Primärenergieverbrauch,,,
-2030,2008 = 100,Primärenergieverbrauch,,,
 2008,2008 = 100,Primärenergieverbrauch,Niedersachsen,code03,100.0
 2009,2008 = 100,Primärenergieverbrauch,Niedersachsen,code03,97.64
 2010,2008 = 100,Primärenergieverbrauch,Niedersachsen,code03,100.68
@@ -379,8 +331,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2018,2008 = 100,Primärenergieverbrauch,Niedersachsen,code03,91.14
 2019,2008 = 100,Primärenergieverbrauch,Niedersachsen,code03,89.44
 2020,2008 = 100,Primärenergieverbrauch,Niedersachsen,code03,88.14
-2050,2008 = 100,Primärenergieverbrauch,,,
-2030,2008 = 100,Primärenergieverbrauch,,,
 2008,2008 = 100,Primärenergieverbrauch,Nordrhein-Westfalen,code05,100.0
 2009,2008 = 100,Primärenergieverbrauch,Nordrhein-Westfalen,code05,100.7
 2010,2008 = 100,Primärenergieverbrauch,Nordrhein-Westfalen,code05,105.72
@@ -393,8 +343,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2017,2008 = 100,Primärenergieverbrauch,Nordrhein-Westfalen,code05,94.96
 2018,2008 = 100,Primärenergieverbrauch,Nordrhein-Westfalen,code05,89.34
 2019,2008 = 100,Primärenergieverbrauch,Nordrhein-Westfalen,code05,86.49
-2050,2008 = 100,Primärenergieverbrauch,,,
-2030,2008 = 100,Primärenergieverbrauch,,,
 2008,2008 = 100,Primärenergieverbrauch,Rheinland-Pfalz,code07,100.0
 2009,2008 = 100,Primärenergieverbrauch,Rheinland-Pfalz,code07,92.72
 2010,2008 = 100,Primärenergieverbrauch,Rheinland-Pfalz,code07,100.2
@@ -408,8 +356,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2018,2008 = 100,Primärenergieverbrauch,Rheinland-Pfalz,code07,95.26
 2019,2008 = 100,Primärenergieverbrauch,Rheinland-Pfalz,code07,95.6
 2020,2008 = 100,Primärenergieverbrauch,Rheinland-Pfalz,code07,101.39
-2050,2008 = 100,Primärenergieverbrauch,,,
-2030,2008 = 100,Primärenergieverbrauch,,,
 2008,2008 = 100,Primärenergieverbrauch,Saarland,code10,100.0
 2009,2008 = 100,Primärenergieverbrauch,Saarland,code10,82.89
 2010,2008 = 100,Primärenergieverbrauch,Saarland,code10,87.41
@@ -418,8 +364,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2013,2008 = 100,Primärenergieverbrauch,Saarland,code10,99.3
 2014,2008 = 100,Primärenergieverbrauch,Saarland,code10,90.75
 2015,2008 = 100,Primärenergieverbrauch,Saarland,code10,87.67
-2050,2008 = 100,Primärenergieverbrauch,,,
-2030,2008 = 100,Primärenergieverbrauch,,,
 2008,2008 = 100,Primärenergieverbrauch,Sachsen,code14,100.0
 2009,2008 = 100,Primärenergieverbrauch,Sachsen,code14,99.52
 2010,2008 = 100,Primärenergieverbrauch,Sachsen,code14,101.53
@@ -432,8 +376,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2017,2008 = 100,Primärenergieverbrauch,Sachsen,code14,104.77
 2018,2008 = 100,Primärenergieverbrauch,Sachsen,code14,103.22
 2019,2008 = 100,Primärenergieverbrauch,Sachsen,code14,95.92
-2050,2008 = 100,Primärenergieverbrauch,,,
-2030,2008 = 100,Primärenergieverbrauch,,,
 2008,2008 = 100,Primärenergieverbrauch,Sachsen-Anhalt,code15,100.0
 2009,2008 = 100,Primärenergieverbrauch,Sachsen-Anhalt,code15,99.07
 2010,2008 = 100,Primärenergieverbrauch,Sachsen-Anhalt,code15,104.27
@@ -446,8 +388,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2017,2008 = 100,Primärenergieverbrauch,Sachsen-Anhalt,code15,99.37
 2018,2008 = 100,Primärenergieverbrauch,Sachsen-Anhalt,code15,108.23
 2019,2008 = 100,Primärenergieverbrauch,Sachsen-Anhalt,code15,101.43
-2050,2008 = 100,Primärenergieverbrauch,,,
-2030,2008 = 100,Primärenergieverbrauch,,,
 2008,2008 = 100,Primärenergieverbrauch,Schleswig-Holstein,code01,100.0
 2009,2008 = 100,Primärenergieverbrauch,Schleswig-Holstein,code01,97.2
 2010,2008 = 100,Primärenergieverbrauch,Schleswig-Holstein,code01,102.21
@@ -461,8 +401,6 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2018,2008 = 100,Primärenergieverbrauch,Schleswig-Holstein,code01,98.13
 2019,2008 = 100,Primärenergieverbrauch,Schleswig-Holstein,code01,93.77
 2020,2008 = 100,Primärenergieverbrauch,Schleswig-Holstein,code01,97.94
-2050,2008 = 100,Primärenergieverbrauch,,,
-2030,2008 = 100,Primärenergieverbrauch,,,
 2008,2008 = 100,Primärenergieverbrauch,Thüringen,code16,100.0
 2009,2008 = 100,Primärenergieverbrauch,Thüringen,code16,96.12
 2010,2008 = 100,Primärenergieverbrauch,Thüringen,code16,100.04
@@ -475,5 +413,3 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2017,2008 = 100,Primärenergieverbrauch,Thüringen,code16,96.49
 2018,2008 = 100,Primärenergieverbrauch,Thüringen,code16,95.14
 2019,2008 = 100,Primärenergieverbrauch,Thüringen,code16,93.27
-2050,2008 = 100,Primärenergieverbrauch,,,
-2030,2008 = 100,Primärenergieverbrauch,,,

@@ -54,7 +54,6 @@ Year,Units,sub index,Value
 2014,2030 = 100,forest sub-index,84.293
 2015,2030 = 100,forest sub-index,90.834
 2016,2030 = 100,forest sub-index,87.507
-2030,2030 = 100,,
 1990,2030 = 100,settlements sub-index,80.76
 1991,2030 = 100,settlements sub-index,73.731
 1992,2030 = 100,settlements sub-index,68.36
@@ -82,7 +81,6 @@ Year,Units,sub index,Value
 2014,2030 = 100,settlements sub-index,69.622
 2015,2030 = 100,settlements sub-index,72.21
 2016,2030 = 100,settlements sub-index,75.503
-2030,2030 = 100,,
 1990,2030 = 100,farmland sub-index,74.22
 1991,2030 = 100,farmland sub-index,71.237
 1992,2030 = 100,farmland sub-index,70.112
@@ -110,7 +108,6 @@ Year,Units,sub index,Value
 2014,2030 = 100,farmland sub-index,56.985
 2015,2030 = 100,farmland sub-index,58.049
 2016,2030 = 100,farmland sub-index,60.492
-2030,2030 = 100,,
 1990,2030 = 100,inland waters sub-index,64.132
 1991,2030 = 100,inland waters sub-index,55.763
 1992,2030 = 100,inland waters sub-index,57.338
@@ -138,7 +135,6 @@ Year,Units,sub index,Value
 2014,2030 = 100,inland waters sub-index,73.596
 2015,2030 = 100,inland waters sub-index,74.031
 2016,2030 = 100,inland waters sub-index,74.99
-2030,2030 = 100,,
 1990,2030 = 100,coasts and seas sub-index,79.679
 1991,2030 = 100,coasts and seas sub-index,72.333
 1992,2030 = 100,coasts and seas sub-index,78.956
@@ -166,4 +162,3 @@ Year,Units,sub index,Value
 2014,2030 = 100,coasts and seas sub-index,56.59
 2015,2030 = 100,coasts and seas sub-index,58.962
 2016,2030 = 100,coasts and seas sub-index,57.982
-2030,2030 = 100,,

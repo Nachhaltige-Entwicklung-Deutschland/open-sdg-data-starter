@@ -46,7 +46,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Weiblich,,,38.03
 2008,Prozent,,Weiblich,,,39.68
 2009,Prozent,,Weiblich,,,42.21
-2030,Prozent,,,,,
 1999,Prozent,,Männlich,,,35.22
 2010,Prozent,,Männlich,,,39.97
 2011,Prozent,,Männlich,,,40.07
@@ -70,7 +69,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Männlich,,,37.25
 2008,Prozent,,Männlich,,,37.86
 2009,Prozent,,Männlich,,,39.23
-2030,Prozent,,,,,
 2010,Prozent,,,Baden-Württemberg,code08,42.28
 2011,Prozent,,,Baden-Württemberg,code08,43.36
 2012,Prozent,,,Baden-Württemberg,code08,44.92
@@ -88,7 +86,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,,Baden-Württemberg,code08,37.6
 2008,Prozent,,,Baden-Württemberg,code08,37.8
 2009,Prozent,,,Baden-Württemberg,code08,41.9
-2030,Prozent,,,,,
 2010,Prozent,,Weiblich,Baden-Württemberg,code08,40.7
 2011,Prozent,,Weiblich,Baden-Württemberg,code08,41.9
 2012,Prozent,,Weiblich,Baden-Württemberg,code08,44.4
@@ -106,7 +103,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Weiblich,Baden-Württemberg,code08,35.7
 2008,Prozent,,Weiblich,Baden-Württemberg,code08,36.0
 2009,Prozent,,Weiblich,Baden-Württemberg,code08,41.0
-2030,Prozent,,,,,
 2010,Prozent,,Männlich,Baden-Württemberg,code08,43.9
 2011,Prozent,,Männlich,Baden-Württemberg,code08,44.9
 2012,Prozent,,Männlich,Baden-Württemberg,code08,45.4
@@ -124,7 +120,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Männlich,Baden-Württemberg,code08,39.5
 2008,Prozent,,Männlich,Baden-Württemberg,code08,39.7
 2009,Prozent,,Männlich,Baden-Württemberg,code08,42.8
-2030,Prozent,,,,,
 2010,Prozent,,,Bayern,code09,40.39
 2011,Prozent,,,Bayern,code09,41.1
 2012,Prozent,,,Bayern,code09,43.58
@@ -142,7 +137,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,,Bayern,code09,35.8
 2008,Prozent,,,Bayern,code09,37.5
 2009,Prozent,,,Bayern,code09,39.4
-2030,Prozent,,,,,
 2010,Prozent,,Weiblich,Bayern,code09,40.2
 2011,Prozent,,Weiblich,Bayern,code09,41.6
 2012,Prozent,,Weiblich,Bayern,code09,44.8
@@ -160,7 +154,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Weiblich,Bayern,code09,34.8
 2008,Prozent,,Weiblich,Bayern,code09,36.8
 2009,Prozent,,Weiblich,Bayern,code09,38.5
-2030,Prozent,,,,,
 2010,Prozent,,Männlich,Bayern,code09,40.6
 2011,Prozent,,Männlich,Bayern,code09,40.7
 2012,Prozent,,Männlich,Bayern,code09,42.4
@@ -178,7 +171,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Männlich,Bayern,code09,36.9
 2008,Prozent,,Männlich,Bayern,code09,38.3
 2009,Prozent,,Männlich,Bayern,code09,40.3
-2030,Prozent,,,,,
 2010,Prozent,,,Berlin,code11,50.74
 2011,Prozent,,,Berlin,code11,51.84
 2012,Prozent,,,Berlin,code11,53.7
@@ -196,7 +188,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,,Berlin,code11,49.2
 2008,Prozent,,,Berlin,code11,47.1
 2009,Prozent,,,Berlin,code11,50.4
-2030,Prozent,,,,,
 2010,Prozent,,Weiblich,Berlin,code11,56.0
 2011,Prozent,,Weiblich,Berlin,code11,59.3
 2012,Prozent,,Weiblich,Berlin,code11,60.2
@@ -214,7 +205,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Weiblich,Berlin,code11,53.0
 2008,Prozent,,Weiblich,Berlin,code11,49.9
 2009,Prozent,,Weiblich,Berlin,code11,56.2
-2030,Prozent,,,,,
 2010,Prozent,,Männlich,Berlin,code11,45.8
 2011,Prozent,,Männlich,Berlin,code11,44.7
 2012,Prozent,,Männlich,Berlin,code11,47.5
@@ -232,7 +222,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Männlich,Berlin,code11,45.5
 2008,Prozent,,Männlich,Berlin,code11,44.5
 2009,Prozent,,Männlich,Berlin,code11,44.4
-2030,Prozent,,,,,
 2010,Prozent,,,Brandenburg,code12,41.4
 2011,Prozent,,,Brandenburg,code12,44.47
 2012,Prozent,,,Brandenburg,code12,42.08
@@ -250,7 +239,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,,Brandenburg,code12,34.7
 2008,Prozent,,,Brandenburg,code12,38.6
 2009,Prozent,,,Brandenburg,code12,41.1
-2030,Prozent,,,,,
 2010,Prozent,,Weiblich,Brandenburg,code12,50.2
 2011,Prozent,,Weiblich,Brandenburg,code12,53.6
 2012,Prozent,,Weiblich,Brandenburg,code12,51.6
@@ -268,7 +256,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Weiblich,Brandenburg,code12,42.2
 2008,Prozent,,Weiblich,Brandenburg,code12,47.1
 2009,Prozent,,Weiblich,Brandenburg,code12,47.8
-2030,Prozent,,,,,
 2010,Prozent,,Männlich,Brandenburg,code12,33.4
 2011,Prozent,,Männlich,Brandenburg,code12,35.8
 2012,Prozent,,Männlich,Brandenburg,code12,33.9
@@ -286,7 +273,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Männlich,Brandenburg,code12,27.3
 2008,Prozent,,Männlich,Brandenburg,code12,30.4
 2009,Prozent,,Männlich,Brandenburg,code12,35.2
-2030,Prozent,,,,,
 2010,Prozent,,,Bremen,code04,41.46
 2011,Prozent,,,Bremen,code04,43.16
 2012,Prozent,,,Bremen,code04,41.83
@@ -304,7 +290,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,,Bremen,code04,38.2
 2008,Prozent,,,Bremen,code04,39.4
 2009,Prozent,,,Bremen,code04,32.7
-2030,Prozent,,,,,
 2010,Prozent,,Weiblich,Bremen,code04,36.9
 2011,Prozent,,Weiblich,Bremen,code04,47.8
 2012,Prozent,,Weiblich,Bremen,code04,46.0
@@ -322,7 +307,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Weiblich,Bremen,code04,40.3
 2008,Prozent,,Weiblich,Bremen,code04,40.8
 2009,Prozent,,Weiblich,Bremen,code04,36.1
-2030,Prozent,,,,,
 2010,Prozent,,Männlich,Bremen,code04,46.5
 2011,Prozent,,Männlich,Bremen,code04,37.8
 2012,Prozent,,Männlich,Bremen,code04,38.1
@@ -340,7 +324,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Männlich,Bremen,code04,36.3
 2008,Prozent,,Männlich,Bremen,code04,38.0
 2009,Prozent,,Männlich,Bremen,code04,28.8
-2030,Prozent,,,,,
 2010,Prozent,,,Hamburg,code02,52.5
 2011,Prozent,,,Hamburg,code02,55.37
 2012,Prozent,,,Hamburg,code02,54.42
@@ -358,7 +341,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,,Hamburg,code02,49.4
 2008,Prozent,,,Hamburg,code02,50.1
 2009,Prozent,,,Hamburg,code02,53.1
-2030,Prozent,,,,,
 2010,Prozent,,Weiblich,Hamburg,code02,53.8
 2011,Prozent,,Weiblich,Hamburg,code02,57.1
 2012,Prozent,,Weiblich,Hamburg,code02,57.6
@@ -376,7 +358,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Weiblich,Hamburg,code02,53.8
 2008,Prozent,,Weiblich,Hamburg,code02,53.0
 2009,Prozent,,Weiblich,Hamburg,code02,54.0
-2030,Prozent,,,,,
 2010,Prozent,,Männlich,Hamburg,code02,51.3
 2011,Prozent,,Männlich,Hamburg,code02,53.6
 2012,Prozent,,Männlich,Hamburg,code02,51.1
@@ -394,7 +375,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Männlich,Hamburg,code02,45.2
 2008,Prozent,,Männlich,Hamburg,code02,47.1
 2009,Prozent,,Männlich,Hamburg,code02,52.2
-2030,Prozent,,,,,
 2010,Prozent,,,Hessen,code06,45.45
 2011,Prozent,,,Hessen,code06,46.11
 2012,Prozent,,,Hessen,code06,47.16
@@ -412,7 +392,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,,Hessen,code06,40.9
 2008,Prozent,,,Hessen,code06,40.3
 2009,Prozent,,,Hessen,code06,43.1
-2030,Prozent,,,,,
 2010,Prozent,,Weiblich,Hessen,code06,46.3
 2011,Prozent,,Weiblich,Hessen,code06,46.7
 2012,Prozent,,Weiblich,Hessen,code06,48.0
@@ -430,7 +409,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Weiblich,Hessen,code06,39.8
 2008,Prozent,,Weiblich,Hessen,code06,40.6
 2009,Prozent,,Weiblich,Hessen,code06,44.1
-2030,Prozent,,,,,
 2010,Prozent,,Männlich,Hessen,code06,44.6
 2011,Prozent,,Männlich,Hessen,code06,45.5
 2012,Prozent,,Männlich,Hessen,code06,46.3
@@ -448,7 +426,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Männlich,Hessen,code06,41.9
 2008,Prozent,,Männlich,Hessen,code06,39.9
 2009,Prozent,,Männlich,Hessen,code06,42.0
-2030,Prozent,,,,,
 2010,Prozent,,,Mecklenburg-Vorpommern,code13,33.17
 2011,Prozent,,,Mecklenburg-Vorpommern,code13,32.11
 2012,Prozent,,,Mecklenburg-Vorpommern,code13,30.77
@@ -466,7 +443,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,,Mecklenburg-Vorpommern,code13,30.5
 2008,Prozent,,,Mecklenburg-Vorpommern,code13,32.3
 2009,Prozent,,,Mecklenburg-Vorpommern,code13,32.3
-2030,Prozent,,,,,
 2010,Prozent,,Weiblich,Mecklenburg-Vorpommern,code13,36.5
 2011,Prozent,,Weiblich,Mecklenburg-Vorpommern,code13,35.3
 2012,Prozent,,Weiblich,Mecklenburg-Vorpommern,code13,38.5
@@ -484,7 +460,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Weiblich,Mecklenburg-Vorpommern,code13,37.2
 2008,Prozent,,Weiblich,Mecklenburg-Vorpommern,code13,39.4
 2009,Prozent,,Weiblich,Mecklenburg-Vorpommern,code13,37.4
-2030,Prozent,,,,,
 2010,Prozent,,Männlich,Mecklenburg-Vorpommern,code13,30.4
 2011,Prozent,,Männlich,Mecklenburg-Vorpommern,code13,29.3
 2012,Prozent,,Männlich,Mecklenburg-Vorpommern,code13,23.9
@@ -502,7 +477,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Männlich,Mecklenburg-Vorpommern,code13,25.0
 2008,Prozent,,Männlich,Mecklenburg-Vorpommern,code13,26.7
 2009,Prozent,,Männlich,Mecklenburg-Vorpommern,code13,27.7
-2030,Prozent,,,,,
 2010,Prozent,,,Niedersachsen,code03,36.19
 2011,Prozent,,,Niedersachsen,code03,37.46
 2012,Prozent,,,Niedersachsen,code03,38.13
@@ -520,7 +494,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,,Niedersachsen,code03,33.0
 2008,Prozent,,,Niedersachsen,code03,34.0
 2009,Prozent,,,Niedersachsen,code03,35.6
-2030,Prozent,,,,,
 2010,Prozent,,Weiblich,Niedersachsen,code03,37.5
 2011,Prozent,,Weiblich,Niedersachsen,code03,39.6
 2012,Prozent,,Weiblich,Niedersachsen,code03,40.5
@@ -538,7 +511,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Weiblich,Niedersachsen,code03,30.9
 2008,Prozent,,Weiblich,Niedersachsen,code03,33.1
 2009,Prozent,,Weiblich,Niedersachsen,code03,36.2
-2030,Prozent,,,,,
 2010,Prozent,,Männlich,Niedersachsen,code03,34.9
 2011,Prozent,,Männlich,Niedersachsen,code03,35.4
 2012,Prozent,,Männlich,Niedersachsen,code03,35.7
@@ -556,7 +528,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Männlich,Niedersachsen,code03,35.1
 2008,Prozent,,Männlich,Niedersachsen,code03,34.9
 2009,Prozent,,Männlich,Niedersachsen,code03,34.9
-2030,Prozent,,,,,
 2010,Prozent,,,Nordrhein-Westfalen,code05,41.29
 2011,Prozent,,,Nordrhein-Westfalen,code05,42.01
 2012,Prozent,,,Nordrhein-Westfalen,code05,44.4
@@ -574,7 +545,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,,Nordrhein-Westfalen,code05,38.7
 2008,Prozent,,,Nordrhein-Westfalen,code05,40.9
 2009,Prozent,,,Nordrhein-Westfalen,code05,41.7
-2030,Prozent,,,,,
 2010,Prozent,,Weiblich,Nordrhein-Westfalen,code05,42.1
 2011,Prozent,,Weiblich,Nordrhein-Westfalen,code05,43.8
 2012,Prozent,,Weiblich,Nordrhein-Westfalen,code05,46.8
@@ -592,7 +562,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Weiblich,Nordrhein-Westfalen,code05,38.4
 2008,Prozent,,Weiblich,Nordrhein-Westfalen,code05,41.5
 2009,Prozent,,Weiblich,Nordrhein-Westfalen,code05,42.6
-2030,Prozent,,,,,
 2010,Prozent,,Männlich,Nordrhein-Westfalen,code05,40.5
 2011,Prozent,,Männlich,Nordrhein-Westfalen,code05,40.3
 2012,Prozent,,Männlich,Nordrhein-Westfalen,code05,42.0
@@ -610,7 +579,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Männlich,Nordrhein-Westfalen,code05,39.0
 2008,Prozent,,Männlich,Nordrhein-Westfalen,code05,40.3
 2009,Prozent,,Männlich,Nordrhein-Westfalen,code05,40.8
-2030,Prozent,,,,,
 2010,Prozent,,,Rheinland-Pfalz,code07,38.49
 2011,Prozent,,,Rheinland-Pfalz,code07,39.96
 2012,Prozent,,,Rheinland-Pfalz,code07,42.26
@@ -628,7 +596,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,,Rheinland-Pfalz,code07,32.9
 2008,Prozent,,,Rheinland-Pfalz,code07,35.3
 2009,Prozent,,,Rheinland-Pfalz,code07,36.7
-2030,Prozent,,,,,
 2010,Prozent,,Weiblich,Rheinland-Pfalz,code07,37.0
 2011,Prozent,,Weiblich,Rheinland-Pfalz,code07,40.9
 2012,Prozent,,Weiblich,Rheinland-Pfalz,code07,42.3
@@ -646,7 +613,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Weiblich,Rheinland-Pfalz,code07,31.8
 2008,Prozent,,Weiblich,Rheinland-Pfalz,code07,35.1
 2009,Prozent,,Weiblich,Rheinland-Pfalz,code07,37.0
-2030,Prozent,,,,,
 2010,Prozent,,Männlich,Rheinland-Pfalz,code07,40.1
 2011,Prozent,,Männlich,Rheinland-Pfalz,code07,39.0
 2012,Prozent,,Männlich,Rheinland-Pfalz,code07,42.2
@@ -664,7 +630,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Männlich,Rheinland-Pfalz,code07,34.0
 2008,Prozent,,Männlich,Rheinland-Pfalz,code07,35.5
 2009,Prozent,,Männlich,Rheinland-Pfalz,code07,36.3
-2030,Prozent,,,,,
 2010,Prozent,,,Saarland,code10,32.86
 2011,Prozent,,,Saarland,code10,34.78
 2012,Prozent,,,Saarland,code10,38.26
@@ -682,7 +647,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,,Saarland,code10,32.4
 2008,Prozent,,,Saarland,code10,36.2
 2009,Prozent,,,Saarland,code10,37.2
-2030,Prozent,,,,,
 2010,Prozent,,Weiblich,Saarland,code10,36.8
 2011,Prozent,,Weiblich,Saarland,code10,38.7
 2012,Prozent,,Weiblich,Saarland,code10,42.2
@@ -700,7 +664,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Weiblich,Saarland,code10,33.0
 2008,Prozent,,Weiblich,Saarland,code10,37.2
 2009,Prozent,,Weiblich,Saarland,code10,40.2
-2030,Prozent,,,,,
 2010,Prozent,,Männlich,Saarland,code10,28.8
 2011,Prozent,,Männlich,Saarland,code10,30.8
 2012,Prozent,,Männlich,Saarland,code10,34.7
@@ -718,7 +681,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Männlich,Saarland,code10,31.7
 2008,Prozent,,Männlich,Saarland,code10,35.1
 2009,Prozent,,Männlich,Saarland,code10,34.2
-2030,Prozent,,,,,
 2010,Prozent,,,Sachsen,code14,46.36
 2011,Prozent,,,Sachsen,code14,44.03
 2012,Prozent,,,Sachsen,code14,42.67
@@ -736,7 +698,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,,Sachsen,code14,44.3
 2008,Prozent,,,Sachsen,code14,44.4
 2009,Prozent,,,Sachsen,code14,46.0
-2030,Prozent,,,,,
 2010,Prozent,,Weiblich,Sachsen,code14,55.0
 2011,Prozent,,Weiblich,Sachsen,code14,53.1
 2012,Prozent,,Weiblich,Sachsen,code14,50.5
@@ -754,7 +715,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Weiblich,Sachsen,code14,52.4
 2008,Prozent,,Weiblich,Sachsen,code14,52.4
 2009,Prozent,,Weiblich,Sachsen,code14,55.4
-2030,Prozent,,,,,
 2010,Prozent,,Männlich,Sachsen,code14,38.6
 2011,Prozent,,Männlich,Sachsen,code14,36.2
 2012,Prozent,,Männlich,Sachsen,code14,36.0
@@ -772,7 +732,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Männlich,Sachsen,code14,37.3
 2008,Prozent,,Männlich,Sachsen,code14,37.8
 2009,Prozent,,Männlich,Sachsen,code14,37.8
-2030,Prozent,,,,,
 2010,Prozent,,,Sachsen-Anhalt,code15,32.16
 2011,Prozent,,,Sachsen-Anhalt,code15,31.44
 2012,Prozent,,,Sachsen-Anhalt,code15,30.9
@@ -790,7 +749,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,,Sachsen-Anhalt,code15,27.0
 2008,Prozent,,,Sachsen-Anhalt,code15,30.3
 2009,Prozent,,,Sachsen-Anhalt,code15,32.3
-2030,Prozent,,,,,
 2010,Prozent,,Weiblich,Sachsen-Anhalt,code15,37.1
 2011,Prozent,,Weiblich,Sachsen-Anhalt,code15,37.2
 2012,Prozent,,Weiblich,Sachsen-Anhalt,code15,36.3
@@ -808,7 +766,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Weiblich,Sachsen-Anhalt,code15,34.2
 2008,Prozent,,Weiblich,Sachsen-Anhalt,code15,36.6
 2009,Prozent,,Weiblich,Sachsen-Anhalt,code15,36.9
-2030,Prozent,,,,,
 2010,Prozent,,Männlich,Sachsen-Anhalt,code15,27.5
 2011,Prozent,,Männlich,Sachsen-Anhalt,code15,26.2
 2012,Prozent,,Männlich,Sachsen-Anhalt,code15,25.9
@@ -826,7 +783,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Männlich,Sachsen-Anhalt,code15,20.8
 2008,Prozent,,Männlich,Sachsen-Anhalt,code15,24.7
 2009,Prozent,,Männlich,Sachsen-Anhalt,code15,27.9
-2030,Prozent,,,,,
 2010,Prozent,,,Schleswig-Holstein,code01,35.78
 2011,Prozent,,,Schleswig-Holstein,code01,40.39
 2012,Prozent,,,Schleswig-Holstein,code01,37.28
@@ -844,7 +800,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,,Schleswig-Holstein,code01,31.8
 2008,Prozent,,,Schleswig-Holstein,code01,32.1
 2009,Prozent,,,Schleswig-Holstein,code01,34.6
-2030,Prozent,,,,,
 2010,Prozent,,Weiblich,Schleswig-Holstein,code01,36.7
 2011,Prozent,,Weiblich,Schleswig-Holstein,code01,41.7
 2012,Prozent,,Weiblich,Schleswig-Holstein,code01,39.2
@@ -862,7 +817,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Weiblich,Schleswig-Holstein,code01,31.2
 2008,Prozent,,Weiblich,Schleswig-Holstein,code01,32.7
 2009,Prozent,,Weiblich,Schleswig-Holstein,code01,35.8
-2030,Prozent,,,,,
 2010,Prozent,,Männlich,Schleswig-Holstein,code01,34.9
 2011,Prozent,,Männlich,Schleswig-Holstein,code01,39.0
 2012,Prozent,,Männlich,Schleswig-Holstein,code01,35.3
@@ -880,7 +834,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Männlich,Schleswig-Holstein,code01,32.5
 2008,Prozent,,Männlich,Schleswig-Holstein,code01,31.3
 2009,Prozent,,Männlich,Schleswig-Holstein,code01,33.4
-2030,Prozent,,,,,
 2010,Prozent,,,Thüringen,code16,36.4
 2011,Prozent,,,Thüringen,code16,37.2
 2012,Prozent,,,Thüringen,code16,39.1
@@ -898,7 +851,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,,Thüringen,code16,36.5
 2008,Prozent,,,Thüringen,code16,35.7
 2009,Prozent,,,Thüringen,code16,35.4
-2030,Prozent,,,,,
 2010,Prozent,,Weiblich,Thüringen,code16,43.0
 2011,Prozent,,Weiblich,Thüringen,code16,45.2
 2012,Prozent,,Weiblich,Thüringen,code16,46.3
@@ -916,7 +868,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Weiblich,Thüringen,code16,40.8
 2008,Prozent,,Weiblich,Thüringen,code16,41.9
 2009,Prozent,,Weiblich,Thüringen,code16,42.5
-2030,Prozent,,,,,
 2010,Prozent,,Männlich,Thüringen,code16,30.5
 2011,Prozent,,Männlich,Thüringen,code16,29.9
 2012,Prozent,,Männlich,Thüringen,code16,32.8
@@ -934,7 +885,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,,Männlich,Thüringen,code16,32.6
 2008,Prozent,,Männlich,Thüringen,code16,30.4
 2009,Prozent,,Männlich,Thüringen,code16,29.1
-2030,Prozent,,,,,
 1999,Prozent,Tertiärer Abschluss,,,,24.8
 2010,Prozent,Tertiärer Abschluss,,,,29.77
 2011,Prozent,Tertiärer Abschluss,,,,30.68
@@ -982,7 +932,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,Tertiärer Abschluss,Weiblich,,,25.663
 2008,Prozent,Tertiärer Abschluss,Weiblich,,,26.974
 2009,Prozent,Tertiärer Abschluss,Weiblich,,,29.178
-2030,Prozent,Tertiärer Abschluss,,,,
 1999,Prozent,Tertiärer Abschluss,Männlich,,,28.072
 2010,Prozent,Tertiärer Abschluss,Männlich,,,29.879
 2011,Prozent,Tertiärer Abschluss,Männlich,,,29.843
@@ -1006,7 +955,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,Tertiärer Abschluss,Männlich,,,27.31
 2008,Prozent,Tertiärer Abschluss,Männlich,,,28.226
 2009,Prozent,Tertiärer Abschluss,Männlich,,,29.56
-2030,Prozent,Tertiärer Abschluss,,,,
 1999,Prozent,Postsekundarer nicht-tertiärer Abschluss,,,,8.55
 2010,Prozent,Postsekundarer nicht-tertiärer Abschluss,,,,11.545
 2011,Prozent,Postsekundarer nicht-tertiärer Abschluss,,,,11.548
@@ -1054,7 +1002,6 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,Postsekundarer nicht-tertiärer Abschluss,Weiblich,,,12.363
 2008,Prozent,Postsekundarer nicht-tertiärer Abschluss,Weiblich,,,12.711
 2009,Prozent,Postsekundarer nicht-tertiärer Abschluss,Weiblich,,,13.032
-2030,Prozent,Postsekundarer nicht-tertiärer Abschluss,,,,
 1999,Prozent,Postsekundarer nicht-tertiärer Abschluss,Männlich,,,7.144
 2010,Prozent,Postsekundarer nicht-tertiärer Abschluss,Männlich,,,10.095
 2011,Prozent,Postsekundarer nicht-tertiärer Abschluss,Männlich,,,10.23
@@ -1078,4 +1025,3 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2007,Prozent,Postsekundarer nicht-tertiärer Abschluss,Männlich,,,9.941
 2008,Prozent,Postsekundarer nicht-tertiärer Abschluss,Männlich,,,9.633
 2009,Prozent,Postsekundarer nicht-tertiärer Abschluss,Männlich,,,9.673
-2030,Prozent,Postsekundarer nicht-tertiärer Abschluss,,,,

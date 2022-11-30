@@ -52,7 +52,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Weiblich,,,85.8
 2020,Prozent,Ausländer,Weiblich,,,88.0
 2021,Prozent,Ausländer,Weiblich,,,87.4
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Männlich,,,76.7
 1997,Prozent,Ausländer,Männlich,,,76.8
 1998,Prozent,Ausländer,Männlich,,,76.9
@@ -79,7 +78,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Männlich,,,79.5
 2020,Prozent,Ausländer,Männlich,,,83.0
 2021,Prozent,Ausländer,Männlich,,,81.6
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Deutsche,,,,92.3
 1997,Prozent,Deutsche,,,,92.3
 1998,Prozent,Deutsche,,,,92.1
@@ -133,7 +131,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,,Baden-Württemberg,code08,84.1
 2020,Prozent,Ausländer,,Baden-Württemberg,code08,85.5
 2021,Prozent,Ausländer,,Baden-Württemberg,code08,84.5
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Weiblich,Baden-Württemberg,code08,84.1
 1997,Prozent,Ausländer,Weiblich,Baden-Württemberg,code08,84.4
 1998,Prozent,Ausländer,Weiblich,Baden-Württemberg,code08,84.6
@@ -160,7 +157,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Weiblich,Baden-Württemberg,code08,87.0
 2020,Prozent,Ausländer,Weiblich,Baden-Württemberg,code08,88.1
 2021,Prozent,Ausländer,Weiblich,Baden-Württemberg,code08,87.7
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Männlich,Baden-Württemberg,code08,76.3
 1997,Prozent,Ausländer,Männlich,Baden-Württemberg,code08,76.6
 1998,Prozent,Ausländer,Männlich,Baden-Württemberg,code08,78.0
@@ -187,7 +183,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Männlich,Baden-Württemberg,code08,81.7
 2020,Prozent,Ausländer,Männlich,Baden-Württemberg,code08,83.2
 2021,Prozent,Ausländer,Männlich,Baden-Württemberg,code08,81.6
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,,Bayern,code09,74.8
 1997,Prozent,Ausländer,,Bayern,code09,74.8
 1998,Prozent,Ausländer,,Bayern,code09,72.8
@@ -214,7 +209,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,,Bayern,code09,82.2
 2020,Prozent,Ausländer,,Bayern,code09,84.4
 2021,Prozent,Ausländer,,Bayern,code09,84.8
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Weiblich,Bayern,code09,80.1
 1997,Prozent,Ausländer,Weiblich,Bayern,code09,80.3
 1998,Prozent,Ausländer,Weiblich,Bayern,code09,76.8
@@ -241,7 +235,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Weiblich,Bayern,code09,86.6
 2020,Prozent,Ausländer,Weiblich,Bayern,code09,87.4
 2021,Prozent,Ausländer,Weiblich,Bayern,code09,88.4
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Männlich,Bayern,code09,70.1
 1997,Prozent,Ausländer,Männlich,Bayern,code09,69.6
 1998,Prozent,Ausländer,Männlich,Bayern,code09,69.1
@@ -268,7 +261,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Männlich,Bayern,code09,78.5
 2020,Prozent,Ausländer,Männlich,Bayern,code09,81.8
 2021,Prozent,Ausländer,Männlich,Bayern,code09,81.6
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,,Berlin,code11,73.3
 1997,Prozent,Ausländer,,Berlin,code11,73.0
 1998,Prozent,Ausländer,,Berlin,code11,69.4
@@ -295,7 +287,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,,Berlin,code11,81.1
 2020,Prozent,Ausländer,,Berlin,code11,92.8
 2021,Prozent,Ausländer,,Berlin,code11,84.3
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Weiblich,Berlin,code11,79.8
 1997,Prozent,Ausländer,Weiblich,Berlin,code11,78.3
 1998,Prozent,Ausländer,Weiblich,Berlin,code11,76.2
@@ -322,7 +313,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Weiblich,Berlin,code11,85.3
 2020,Prozent,Ausländer,Weiblich,Berlin,code11,95.3
 2021,Prozent,Ausländer,Weiblich,Berlin,code11,85.7
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Männlich,Berlin,code11,67.5
 1997,Prozent,Ausländer,Männlich,Berlin,code11,68.7
 1998,Prozent,Ausländer,Männlich,Berlin,code11,63.8
@@ -349,7 +339,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Männlich,Berlin,code11,77.5
 2020,Prozent,Ausländer,Männlich,Berlin,code11,90.6
 2021,Prozent,Ausländer,Männlich,Berlin,code11,83.1
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,,Brandenburg,code12,95.8
 1997,Prozent,Ausländer,,Brandenburg,code12,92.7
 1998,Prozent,Ausländer,,Brandenburg,code12,91.1
@@ -376,7 +365,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,,Brandenburg,code12,83.9
 2020,Prozent,Ausländer,,Brandenburg,code12,95.2
 2021,Prozent,Ausländer,,Brandenburg,code12,91.4
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Weiblich,Brandenburg,code12,100.0
 1997,Prozent,Ausländer,Weiblich,Brandenburg,code12,97.8
 1998,Prozent,Ausländer,Weiblich,Brandenburg,code12,94.3
@@ -403,7 +391,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Weiblich,Brandenburg,code12,86.2
 2020,Prozent,Ausländer,Weiblich,Brandenburg,code12,94.9
 2021,Prozent,Ausländer,Weiblich,Brandenburg,code12,93.6
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Männlich,Brandenburg,code12,91.7
 1997,Prozent,Ausländer,Männlich,Brandenburg,code12,87.2
 1998,Prozent,Ausländer,Männlich,Brandenburg,code12,87.4
@@ -430,7 +417,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Männlich,Brandenburg,code12,82.6
 2020,Prozent,Ausländer,Männlich,Brandenburg,code12,95.4
 2021,Prozent,Ausländer,Männlich,Brandenburg,code12,89.7
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,,Bremen,code04,77.6
 1997,Prozent,Ausländer,,Bremen,code04,82.4
 1998,Prozent,Ausländer,,Bremen,code04,82.4
@@ -457,7 +443,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,,Bremen,code04,73.9
 2020,Prozent,Ausländer,,Bremen,code04,76.4
 2021,Prozent,Ausländer,,Bremen,code04,78.0
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Weiblich,Bremen,code04,81.0
 1997,Prozent,Ausländer,Weiblich,Bremen,code04,86.9
 1998,Prozent,Ausländer,Weiblich,Bremen,code04,84.8
@@ -484,7 +469,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Weiblich,Bremen,code04,75.3
 2020,Prozent,Ausländer,Weiblich,Bremen,code04,78.3
 2021,Prozent,Ausländer,Weiblich,Bremen,code04,78.9
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Männlich,Bremen,code04,74.6
 1997,Prozent,Ausländer,Männlich,Bremen,code04,78.7
 1998,Prozent,Ausländer,Männlich,Bremen,code04,80.2
@@ -511,7 +495,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Männlich,Bremen,code04,72.8
 2020,Prozent,Ausländer,Männlich,Bremen,code04,74.8
 2021,Prozent,Ausländer,Männlich,Bremen,code04,77.3
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,,Hamburg,code02,81.4
 1997,Prozent,Ausländer,,Hamburg,code02,82.8
 1998,Prozent,Ausländer,,Hamburg,code02,81.8
@@ -538,7 +521,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,,Hamburg,code02,86.7
 2020,Prozent,Ausländer,,Hamburg,code02,84.5
 2021,Prozent,Ausländer,,Hamburg,code02,86.5
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Weiblich,Hamburg,code02,83.8
 1997,Prozent,Ausländer,Weiblich,Hamburg,code02,86.0
 1998,Prozent,Ausländer,Weiblich,Hamburg,code02,85.1
@@ -565,7 +547,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Weiblich,Hamburg,code02,89.2
 2020,Prozent,Ausländer,Weiblich,Hamburg,code02,87.0
 2021,Prozent,Ausländer,Weiblich,Hamburg,code02,89.4
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Männlich,Hamburg,code02,79.2
 1997,Prozent,Ausländer,Männlich,Hamburg,code02,79.8
 1998,Prozent,Ausländer,Männlich,Hamburg,code02,79.0
@@ -592,7 +573,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Männlich,Hamburg,code02,84.7
 2020,Prozent,Ausländer,Männlich,Hamburg,code02,82.4
 2021,Prozent,Ausländer,Männlich,Hamburg,code02,83.9
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,,Hessen,code06,79.0
 1997,Prozent,Ausländer,,Hessen,code06,80.5
 1998,Prozent,Ausländer,,Hessen,code06,82.0
@@ -619,7 +599,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,,Hessen,code06,88.7
 2020,Prozent,Ausländer,,Hessen,code06,90.4
 2021,Prozent,Ausländer,,Hessen,code06,88.2
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Weiblich,Hessen,code06,83.2
 1997,Prozent,Ausländer,Weiblich,Hessen,code06,84.2
 1998,Prozent,Ausländer,Weiblich,Hessen,code06,85.9
@@ -646,7 +625,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Weiblich,Hessen,code06,91.1
 2020,Prozent,Ausländer,Weiblich,Hessen,code06,92.9
 2021,Prozent,Ausländer,Weiblich,Hessen,code06,90.1
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Männlich,Hessen,code06,75.4
 1997,Prozent,Ausländer,Männlich,Hessen,code06,77.1
 1998,Prozent,Ausländer,Männlich,Hessen,code06,78.4
@@ -673,7 +651,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Männlich,Hessen,code06,86.7
 2020,Prozent,Ausländer,Männlich,Hessen,code06,88.1
 2021,Prozent,Ausländer,Männlich,Hessen,code06,86.5
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,,Mecklenburg-Vorpommern,code13,87.2
 1997,Prozent,Ausländer,,Mecklenburg-Vorpommern,code13,85.7
 1998,Prozent,Ausländer,,Mecklenburg-Vorpommern,code13,73.9
@@ -700,7 +677,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,,Mecklenburg-Vorpommern,code13,79.2
 2020,Prozent,Ausländer,,Mecklenburg-Vorpommern,code13,87.7
 2021,Prozent,Ausländer,,Mecklenburg-Vorpommern,code13,86.6
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Weiblich,Mecklenburg-Vorpommern,code13,100.0
 1997,Prozent,Ausländer,Weiblich,Mecklenburg-Vorpommern,code13,90.0
 1998,Prozent,Ausländer,Weiblich,Mecklenburg-Vorpommern,code13,73.7
@@ -727,7 +703,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Weiblich,Mecklenburg-Vorpommern,code13,82.8
 2020,Prozent,Ausländer,Weiblich,Mecklenburg-Vorpommern,code13,91.1
 2021,Prozent,Ausländer,Weiblich,Mecklenburg-Vorpommern,code13,89.2
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Männlich,Mecklenburg-Vorpommern,code13,75.0
 1997,Prozent,Ausländer,Männlich,Mecklenburg-Vorpommern,code13,81.8
 1998,Prozent,Ausländer,Männlich,Mecklenburg-Vorpommern,code13,74.1
@@ -754,7 +729,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Männlich,Mecklenburg-Vorpommern,code13,76.8
 2020,Prozent,Ausländer,Männlich,Mecklenburg-Vorpommern,code13,85.1
 2021,Prozent,Ausländer,Männlich,Mecklenburg-Vorpommern,code13,84.5
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,,Niedersachsen,code03,72.7
 1997,Prozent,Ausländer,,Niedersachsen,code03,72.7
 1998,Prozent,Ausländer,,Niedersachsen,code03,74.8
@@ -781,7 +755,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,,Niedersachsen,code03,76.9
 2020,Prozent,Ausländer,,Niedersachsen,code03,79.5
 2021,Prozent,Ausländer,,Niedersachsen,code03,81.4
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Weiblich,Niedersachsen,code03,77.4
 1997,Prozent,Ausländer,Weiblich,Niedersachsen,code03,77.4
 1998,Prozent,Ausländer,Weiblich,Niedersachsen,code03,80.1
@@ -808,7 +781,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Weiblich,Niedersachsen,code03,80.5
 2020,Prozent,Ausländer,Weiblich,Niedersachsen,code03,82.1
 2021,Prozent,Ausländer,Weiblich,Niedersachsen,code03,84.1
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Männlich,Niedersachsen,code03,68.6
 1997,Prozent,Ausländer,Männlich,Niedersachsen,code03,68.6
 1998,Prozent,Ausländer,Männlich,Niedersachsen,code03,70.6
@@ -835,7 +807,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Männlich,Niedersachsen,code03,73.9
 2020,Prozent,Ausländer,Männlich,Niedersachsen,code03,77.2
 2021,Prozent,Ausländer,Männlich,Niedersachsen,code03,78.8
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,,Nordrhein-Westfalen,code05,87.3
 1997,Prozent,Ausländer,,Nordrhein-Westfalen,code05,87.0
 1998,Prozent,Ausländer,,Nordrhein-Westfalen,code05,87.2
@@ -862,7 +833,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,,Nordrhein-Westfalen,code05,84.1
 2020,Prozent,Ausländer,,Nordrhein-Westfalen,code05,86.7
 2021,Prozent,Ausländer,,Nordrhein-Westfalen,code05,85.4
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Weiblich,Nordrhein-Westfalen,code05,90.2
 1997,Prozent,Ausländer,Weiblich,Nordrhein-Westfalen,code05,90.2
 1998,Prozent,Ausländer,Weiblich,Nordrhein-Westfalen,code05,90.4
@@ -889,7 +859,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Weiblich,Nordrhein-Westfalen,code05,86.5
 2020,Prozent,Ausländer,Weiblich,Nordrhein-Westfalen,code05,89.1
 2021,Prozent,Ausländer,Weiblich,Nordrhein-Westfalen,code05,88.4
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Männlich,Nordrhein-Westfalen,code05,84.7
 1997,Prozent,Ausländer,Männlich,Nordrhein-Westfalen,code05,84.1
 1998,Prozent,Ausländer,Männlich,Nordrhein-Westfalen,code05,84.3
@@ -916,7 +885,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Männlich,Nordrhein-Westfalen,code05,82.1
 2020,Prozent,Ausländer,Männlich,Nordrhein-Westfalen,code05,84.6
 2021,Prozent,Ausländer,Männlich,Nordrhein-Westfalen,code05,82.7
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,,Rheinland-Pfalz,code07,78.3
 1997,Prozent,Ausländer,,Rheinland-Pfalz,code07,77.2
 1998,Prozent,Ausländer,,Rheinland-Pfalz,code07,74.8
@@ -943,7 +911,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,,Rheinland-Pfalz,code07,82.2
 2020,Prozent,Ausländer,,Rheinland-Pfalz,code07,85.9
 2021,Prozent,Ausländer,,Rheinland-Pfalz,code07,81.0
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Weiblich,Rheinland-Pfalz,code07,84.8
 1997,Prozent,Ausländer,Weiblich,Rheinland-Pfalz,code07,81.9
 1998,Prozent,Ausländer,Weiblich,Rheinland-Pfalz,code07,81.2
@@ -970,7 +937,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Weiblich,Rheinland-Pfalz,code07,86.6
 2020,Prozent,Ausländer,Weiblich,Rheinland-Pfalz,code07,89.6
 2021,Prozent,Ausländer,Weiblich,Rheinland-Pfalz,code07,86.2
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Männlich,Rheinland-Pfalz,code07,73.1
 1997,Prozent,Ausländer,Männlich,Rheinland-Pfalz,code07,72.9
 1998,Prozent,Ausländer,Männlich,Rheinland-Pfalz,code07,69.5
@@ -997,7 +963,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Männlich,Rheinland-Pfalz,code07,78.5
 2020,Prozent,Ausländer,Männlich,Rheinland-Pfalz,code07,82.7
 2021,Prozent,Ausländer,Männlich,Rheinland-Pfalz,code07,76.2
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,,Saarland,code10,71.8
 1997,Prozent,Ausländer,,Saarland,code10,77.7
 1998,Prozent,Ausländer,,Saarland,code10,74.8
@@ -1024,7 +989,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,,Saarland,code10,78.5
 2020,Prozent,Ausländer,,Saarland,code10,81.9
 2021,Prozent,Ausländer,,Saarland,code10,83.5
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Weiblich,Saarland,code10,76.6
 1997,Prozent,Ausländer,Weiblich,Saarland,code10,82.8
 1998,Prozent,Ausländer,Weiblich,Saarland,code10,80.6
@@ -1051,7 +1015,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Weiblich,Saarland,code10,83.9
 2020,Prozent,Ausländer,Weiblich,Saarland,code10,82.0
 2021,Prozent,Ausländer,Weiblich,Saarland,code10,84.0
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Männlich,Saarland,code10,67.7
 1997,Prozent,Ausländer,Männlich,Saarland,code10,73.4
 1998,Prozent,Ausländer,Männlich,Saarland,code10,70.9
@@ -1078,7 +1041,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Männlich,Saarland,code10,73.8
 2020,Prozent,Ausländer,Männlich,Saarland,code10,81.8
 2021,Prozent,Ausländer,Männlich,Saarland,code10,83.0
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,,Sachsen,code14,63.9
 1997,Prozent,Ausländer,,Sachsen,code14,69.1
 1998,Prozent,Ausländer,,Sachsen,code14,68.8
@@ -1105,7 +1067,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,,Sachsen,code14,79.1
 2020,Prozent,Ausländer,,Sachsen,code14,83.2
 2021,Prozent,Ausländer,,Sachsen,code14,82.9
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Weiblich,Sachsen,code14,75.5
 1997,Prozent,Ausländer,Weiblich,Sachsen,code14,72.5
 1998,Prozent,Ausländer,Weiblich,Sachsen,code14,73.9
@@ -1132,7 +1093,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Weiblich,Sachsen,code14,82.7
 2020,Prozent,Ausländer,Weiblich,Sachsen,code14,87.5
 2021,Prozent,Ausländer,Weiblich,Sachsen,code14,86.6
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Männlich,Sachsen,code14,55.7
 1997,Prozent,Ausländer,Männlich,Sachsen,code14,64.4
 1998,Prozent,Ausländer,Männlich,Sachsen,code14,64.7
@@ -1159,7 +1119,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Männlich,Sachsen,code14,76.4
 2020,Prozent,Ausländer,Männlich,Sachsen,code14,79.6
 2021,Prozent,Ausländer,Männlich,Sachsen,code14,79.4
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,,Sachsen-Anhalt,code15,70.5
 1997,Prozent,Ausländer,,Sachsen-Anhalt,code15,60.7
 1998,Prozent,Ausländer,,Sachsen-Anhalt,code15,63.9
@@ -1186,7 +1145,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,,Sachsen-Anhalt,code15,70.3
 2020,Prozent,Ausländer,,Sachsen-Anhalt,code15,75.3
 2021,Prozent,Ausländer,,Sachsen-Anhalt,code15,74.3
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Weiblich,Sachsen-Anhalt,code15,81.8
 1997,Prozent,Ausländer,Weiblich,Sachsen-Anhalt,code15,67.9
 1998,Prozent,Ausländer,Weiblich,Sachsen-Anhalt,code15,74.6
@@ -1213,7 +1171,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Weiblich,Sachsen-Anhalt,code15,76.4
 2020,Prozent,Ausländer,Weiblich,Sachsen-Anhalt,code15,80.6
 2021,Prozent,Ausländer,Weiblich,Sachsen-Anhalt,code15,78.5
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Männlich,Sachsen-Anhalt,code15,64.1
 1997,Prozent,Ausländer,Männlich,Sachsen-Anhalt,code15,55.1
 1998,Prozent,Ausländer,Männlich,Sachsen-Anhalt,code15,56.0
@@ -1240,7 +1197,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Männlich,Sachsen-Anhalt,code15,67.3
 2020,Prozent,Ausländer,Männlich,Sachsen-Anhalt,code15,71.9
 2021,Prozent,Ausländer,Männlich,Sachsen-Anhalt,code15,70.7
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,,Schleswig-Holstein,code01,77.3
 1997,Prozent,Ausländer,,Schleswig-Holstein,code01,74.5
 1998,Prozent,Ausländer,,Schleswig-Holstein,code01,75.8
@@ -1267,7 +1223,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,,Schleswig-Holstein,code01,74.4
 2020,Prozent,Ausländer,,Schleswig-Holstein,code01,77.7
 2021,Prozent,Ausländer,,Schleswig-Holstein,code01,79.0
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Weiblich,Schleswig-Holstein,code01,80.4
 1997,Prozent,Ausländer,Weiblich,Schleswig-Holstein,code01,82.3
 1998,Prozent,Ausländer,Weiblich,Schleswig-Holstein,code01,79.6
@@ -1294,7 +1249,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Weiblich,Schleswig-Holstein,code01,79.8
 2020,Prozent,Ausländer,Weiblich,Schleswig-Holstein,code01,80.8
 2021,Prozent,Ausländer,Weiblich,Schleswig-Holstein,code01,82.9
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Männlich,Schleswig-Holstein,code01,74.5
 1997,Prozent,Ausländer,Männlich,Schleswig-Holstein,code01,67.9
 1998,Prozent,Ausländer,Männlich,Schleswig-Holstein,code01,72.3
@@ -1321,7 +1275,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Männlich,Schleswig-Holstein,code01,70.0
 2020,Prozent,Ausländer,Männlich,Schleswig-Holstein,code01,75.0
 2021,Prozent,Ausländer,Männlich,Schleswig-Holstein,code01,75.5
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,,Thüringen,code16,62.1
 1997,Prozent,Ausländer,,Thüringen,code16,60.5
 1998,Prozent,Ausländer,,Thüringen,code16,61.5
@@ -1348,7 +1301,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,,Thüringen,code16,67.1
 2020,Prozent,Ausländer,,Thüringen,code16,72.7
 2021,Prozent,Ausländer,,Thüringen,code16,74.9
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Weiblich,Thüringen,code16,56.5
 1997,Prozent,Ausländer,Weiblich,Thüringen,code16,58.3
 1998,Prozent,Ausländer,Weiblich,Thüringen,code16,74.4
@@ -1375,7 +1327,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Weiblich,Thüringen,code16,76.4
 2020,Prozent,Ausländer,Weiblich,Thüringen,code16,74.8
 2021,Prozent,Ausländer,Weiblich,Thüringen,code16,81.6
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Ausländer,Männlich,Thüringen,code16,65.1
 1997,Prozent,Ausländer,Männlich,Thüringen,code16,62.5
 1998,Prozent,Ausländer,Männlich,Thüringen,code16,52.6
@@ -1402,7 +1353,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Ausländer,Männlich,Thüringen,code16,60.9
 2020,Prozent,Ausländer,Männlich,Thüringen,code16,71.0
 2021,Prozent,Ausländer,Männlich,Thüringen,code16,70.0
-2030,Prozent,Ausländer,,,,
 1996,Prozent,Deutsche,,Baden-Württemberg,code08,93.7
 1997,Prozent,Deutsche,,Baden-Württemberg,code08,94.0
 1998,Prozent,Deutsche,,Baden-Württemberg,code08,94.0
@@ -1429,7 +1379,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Deutsche,,Baden-Württemberg,code08,95.2
 2020,Prozent,Deutsche,,Baden-Württemberg,code08,95.6
 2021,Prozent,Deutsche,,Baden-Württemberg,code08,94.9
-2030,Prozent,Deutsche,,,,
 1996,Prozent,Deutsche,,Bayern,code09,93.1
 1997,Prozent,Deutsche,,Bayern,code09,92.7
 1998,Prozent,Deutsche,,Bayern,code09,92.3
@@ -1456,7 +1405,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Deutsche,,Bayern,code09,96.0
 2020,Prozent,Deutsche,,Bayern,code09,96.2
 2021,Prozent,Deutsche,,Bayern,code09,96.0
-2030,Prozent,Deutsche,,,,
 1996,Prozent,Deutsche,,Berlin,code11,90.8
 1997,Prozent,Deutsche,,Berlin,code11,90.3
 1998,Prozent,Deutsche,,Berlin,code11,89.5
@@ -1483,7 +1431,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Deutsche,,Berlin,code11,92.9
 2020,Prozent,Deutsche,,Berlin,code11,93.4
 2021,Prozent,Deutsche,,Berlin,code11,95.1
-2030,Prozent,Deutsche,,,,
 1996,Prozent,Deutsche,,Brandenburg,code12,90.5
 1997,Prozent,Deutsche,,Brandenburg,code12,91.5
 1998,Prozent,Deutsche,,Brandenburg,code12,91.2
@@ -1510,7 +1457,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Deutsche,,Brandenburg,code12,93.0
 2020,Prozent,Deutsche,,Brandenburg,code12,94.5
 2021,Prozent,Deutsche,,Brandenburg,code12,93.8
-2030,Prozent,Deutsche,,,,
 1996,Prozent,Deutsche,,Bremen,code04,91.8
 1997,Prozent,Deutsche,,Bremen,code04,92.7
 1998,Prozent,Deutsche,,Bremen,code04,90.6
@@ -1537,7 +1483,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Deutsche,,Bremen,code04,93.8
 2020,Prozent,Deutsche,,Bremen,code04,94.6
 2021,Prozent,Deutsche,,Bremen,code04,94.0
-2030,Prozent,Deutsche,,,,
 1996,Prozent,Deutsche,,Hamburg,code02,90.7
 1997,Prozent,Deutsche,,Hamburg,code02,90.1
 1998,Prozent,Deutsche,,Hamburg,code02,90.6
@@ -1564,7 +1509,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Deutsche,,Hamburg,code02,95.1
 2020,Prozent,Deutsche,,Hamburg,code02,94.7
 2021,Prozent,Deutsche,,Hamburg,code02,95.3
-2030,Prozent,Deutsche,,,,
 1996,Prozent,Deutsche,,Hessen,code06,93.1
 1997,Prozent,Deutsche,,Hessen,code06,93.2
 1998,Prozent,Deutsche,,Hessen,code06,93.3
@@ -1591,7 +1535,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Deutsche,,Hessen,code06,95.8
 2020,Prozent,Deutsche,,Hessen,code06,96.5
 2021,Prozent,Deutsche,,Hessen,code06,95.5
-2030,Prozent,Deutsche,,,,
 1996,Prozent,Deutsche,,Mecklenburg-Vorpommern,code13,90.6
 1997,Prozent,Deutsche,,Mecklenburg-Vorpommern,code13,90.8
 1998,Prozent,Deutsche,,Mecklenburg-Vorpommern,code13,90.3
@@ -1618,7 +1561,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Deutsche,,Mecklenburg-Vorpommern,code13,91.4
 2020,Prozent,Deutsche,,Mecklenburg-Vorpommern,code13,93.1
 2021,Prozent,Deutsche,,Mecklenburg-Vorpommern,code13,92.2
-2030,Prozent,Deutsche,,,,
 1996,Prozent,Deutsche,,Niedersachsen,code03,91.2
 1997,Prozent,Deutsche,,Niedersachsen,code03,91.1
 1998,Prozent,Deutsche,,Niedersachsen,code03,91.4
@@ -1645,7 +1587,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Deutsche,,Niedersachsen,code03,94.7
 2020,Prozent,Deutsche,,Niedersachsen,code03,93.4
 2021,Prozent,Deutsche,,Niedersachsen,code03,95.2
-2030,Prozent,Deutsche,,,,
 1996,Prozent,Deutsche,,Nordrhein-Westfalen,code05,95.3
 1997,Prozent,Deutsche,,Nordrhein-Westfalen,code05,95.0
 1998,Prozent,Deutsche,,Nordrhein-Westfalen,code05,95.1
@@ -1672,7 +1613,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Deutsche,,Nordrhein-Westfalen,code05,95.0
 2020,Prozent,Deutsche,,Nordrhein-Westfalen,code05,95.4
 2021,Prozent,Deutsche,,Nordrhein-Westfalen,code05,95.5
-2030,Prozent,Deutsche,,,,
 1996,Prozent,Deutsche,,Rheinland-Pfalz,code07,91.4
 1997,Prozent,Deutsche,,Rheinland-Pfalz,code07,91.5
 1998,Prozent,Deutsche,,Rheinland-Pfalz,code07,91.4
@@ -1699,7 +1639,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Deutsche,,Rheinland-Pfalz,code07,93.7
 2020,Prozent,Deutsche,,Rheinland-Pfalz,code07,94.2
 2021,Prozent,Deutsche,,Rheinland-Pfalz,code07,94.1
-2030,Prozent,Deutsche,,,,
 1996,Prozent,Deutsche,,Saarland,code10,90.7
 1997,Prozent,Deutsche,,Saarland,code10,90.5
 1998,Prozent,Deutsche,,Saarland,code10,90.5
@@ -1726,7 +1665,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Deutsche,,Saarland,code10,94.7
 2020,Prozent,Deutsche,,Saarland,code10,95.4
 2021,Prozent,Deutsche,,Saarland,code10,95.4
-2030,Prozent,Deutsche,,,,
 1996,Prozent,Deutsche,,Sachsen,code14,90.3
 1997,Prozent,Deutsche,,Sachsen,code14,90.6
 1998,Prozent,Deutsche,,Sachsen,code14,89.7
@@ -1753,7 +1691,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Deutsche,,Sachsen,code14,92.5
 2020,Prozent,Deutsche,,Sachsen,code14,93.0
 2021,Prozent,Deutsche,,Sachsen,code14,92.1
-2030,Prozent,Deutsche,,,,
 1996,Prozent,Deutsche,,Sachsen-Anhalt,code15,89.4
 1997,Prozent,Deutsche,,Sachsen-Anhalt,code15,90.0
 1998,Prozent,Deutsche,,Sachsen-Anhalt,code15,89.1
@@ -1780,7 +1717,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Deutsche,,Sachsen-Anhalt,code15,90.0
 2020,Prozent,Deutsche,,Sachsen-Anhalt,code15,90.9
 2021,Prozent,Deutsche,,Sachsen-Anhalt,code15,91.4
-2030,Prozent,Deutsche,,,,
 1996,Prozent,Deutsche,,Schleswig-Holstein,code01,91.0
 1997,Prozent,Deutsche,,Schleswig-Holstein,code01,90.5
 1998,Prozent,Deutsche,,Schleswig-Holstein,code01,89.9
@@ -1807,7 +1743,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Deutsche,,Schleswig-Holstein,code01,91.9
 2020,Prozent,Deutsche,,Schleswig-Holstein,code01,92.7
 2021,Prozent,Deutsche,,Schleswig-Holstein,code01,93.3
-2030,Prozent,Deutsche,,,,
 1996,Prozent,Deutsche,,Thüringen,code16,87.7
 1997,Prozent,Deutsche,,Thüringen,code16,87.8
 1998,Prozent,Deutsche,,Thüringen,code16,87.0
@@ -1834,7 +1769,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Deutsche,,Thüringen,code16,92.4
 2020,Prozent,Deutsche,,Thüringen,code16,93.6
 2021,Prozent,Deutsche,,Thüringen,code16,92.7
-2030,Prozent,Deutsche,,,,
 1996,Prozent,Deutsche,Weiblich,,,94.5
 1997,Prozent,Deutsche,Weiblich,,,94.6
 1998,Prozent,Deutsche,Weiblich,,,94.4
@@ -1861,7 +1795,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Deutsche,Weiblich,,,95.8
 2020,Prozent,Deutsche,Weiblich,,,96.0
 2021,Prozent,Deutsche,Weiblich,,,96.0
-2030,Prozent,Deutsche,,,,
 1996,Prozent,Deutsche,Männlich,,,90.1
 1997,Prozent,Deutsche,Männlich,,,90.1
 1998,Prozent,Deutsche,Männlich,,,89.8
@@ -1888,7 +1821,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,Deutsche,Männlich,,,93.3
 2020,Prozent,Deutsche,Männlich,,,93.8
 2021,Prozent,Deutsche,Männlich,,,93.8
-2030,Prozent,Deutsche,,,,
 1996,Prozentpunkte,Differenz,,,,11.9
 1997,Prozentpunkte,Differenz,,,,11.7
 1998,Prozentpunkte,Differenz,,,,11.6
@@ -1942,7 +1874,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozentpunkte,Differenz,Weiblich,,,10.0
 2020,Prozentpunkte,Differenz,Weiblich,,,8.0
 2021,Prozentpunkte,Differenz,Weiblich,,,8.6
-2030,Prozentpunkte,Differenz,,,,
 1996,Prozentpunkte,Differenz,Männlich,,,13.4
 1997,Prozentpunkte,Differenz,Männlich,,,13.3
 1998,Prozentpunkte,Differenz,Männlich,,,12.9
@@ -1969,7 +1900,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozentpunkte,Differenz,Männlich,,,13.8
 2020,Prozentpunkte,Differenz,Männlich,,,10.8
 2021,Prozentpunkte,Differenz,Männlich,,,12.2
-2030,Prozentpunkte,Differenz,,,,
 1996,Prozentpunkte,Differenz,,Baden-Württemberg,code08,13.7
 1997,Prozentpunkte,Differenz,,Baden-Württemberg,code08,14.0
 1998,Prozentpunkte,Differenz,,Baden-Württemberg,code08,14.0
@@ -1996,7 +1926,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozentpunkte,Differenz,,Baden-Württemberg,code08,15.2
 2020,Prozentpunkte,Differenz,,Baden-Württemberg,code08,15.6
 2021,Prozentpunkte,Differenz,,Baden-Württemberg,code08,14.9
-2030,Prozentpunkte,Differenz,,,,
 1996,Prozentpunkte,Differenz,,Bayern,code09,18.3
 1997,Prozentpunkte,Differenz,,Bayern,code09,17.9
 1998,Prozentpunkte,Differenz,,Bayern,code09,17.5
@@ -2023,7 +1952,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozentpunkte,Differenz,,Bayern,code09,21.2
 2020,Prozentpunkte,Differenz,,Bayern,code09,21.4
 2021,Prozentpunkte,Differenz,,Bayern,code09,21.2
-2030,Prozentpunkte,Differenz,,,,
 1996,Prozentpunkte,Differenz,,Berlin,code11,17.5
 1997,Prozentpunkte,Differenz,,Berlin,code11,17.0
 1998,Prozentpunkte,Differenz,,Berlin,code11,16.2
@@ -2050,7 +1978,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozentpunkte,Differenz,,Berlin,code11,19.6
 2020,Prozentpunkte,Differenz,,Berlin,code11,20.1
 2021,Prozentpunkte,Differenz,,Berlin,code11,21.8
-2030,Prozentpunkte,Differenz,,,,
 1996,Prozentpunkte,Differenz,,Brandenburg,code12,-5.3
 1997,Prozentpunkte,Differenz,,Brandenburg,code12,-4.3
 1998,Prozentpunkte,Differenz,,Brandenburg,code12,-4.6
@@ -2077,7 +2004,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozentpunkte,Differenz,,Brandenburg,code12,-2.8
 2020,Prozentpunkte,Differenz,,Brandenburg,code12,-1.3
 2021,Prozentpunkte,Differenz,,Brandenburg,code12,-2.0
-2030,Prozentpunkte,Differenz,,,,
 1996,Prozentpunkte,Differenz,,Bremen,code04,14.2
 1997,Prozentpunkte,Differenz,,Bremen,code04,15.1
 1998,Prozentpunkte,Differenz,,Bremen,code04,13.0
@@ -2104,7 +2030,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozentpunkte,Differenz,,Bremen,code04,16.2
 2020,Prozentpunkte,Differenz,,Bremen,code04,17.0
 2021,Prozentpunkte,Differenz,,Bremen,code04,16.4
-2030,Prozentpunkte,Differenz,,,,
 1996,Prozentpunkte,Differenz,,Hamburg,code02,9.3
 1997,Prozentpunkte,Differenz,,Hamburg,code02,8.7
 1998,Prozentpunkte,Differenz,,Hamburg,code02,9.2
@@ -2131,7 +2056,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozentpunkte,Differenz,,Hamburg,code02,13.7
 2020,Prozentpunkte,Differenz,,Hamburg,code02,13.3
 2021,Prozentpunkte,Differenz,,Hamburg,code02,13.9
-2030,Prozentpunkte,Differenz,,,,
 1996,Prozentpunkte,Differenz,,Hessen,code06,14.1
 1997,Prozentpunkte,Differenz,,Hessen,code06,14.2
 1998,Prozentpunkte,Differenz,,Hessen,code06,14.3
@@ -2158,7 +2082,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozentpunkte,Differenz,,Hessen,code06,16.8
 2020,Prozentpunkte,Differenz,,Hessen,code06,17.5
 2021,Prozentpunkte,Differenz,,Hessen,code06,16.5
-2030,Prozentpunkte,Differenz,,,,
 1996,Prozentpunkte,Differenz,,Mecklenburg-Vorpommern,code13,3.4
 1997,Prozentpunkte,Differenz,,Mecklenburg-Vorpommern,code13,3.6
 1998,Prozentpunkte,Differenz,,Mecklenburg-Vorpommern,code13,3.1
@@ -2185,7 +2108,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozentpunkte,Differenz,,Mecklenburg-Vorpommern,code13,4.2
 2020,Prozentpunkte,Differenz,,Mecklenburg-Vorpommern,code13,5.9
 2021,Prozentpunkte,Differenz,,Mecklenburg-Vorpommern,code13,5.0
-2030,Prozentpunkte,Differenz,,,,
 1996,Prozentpunkte,Differenz,,Niedersachsen,code03,18.5
 1997,Prozentpunkte,Differenz,,Niedersachsen,code03,18.4
 1998,Prozentpunkte,Differenz,,Niedersachsen,code03,18.7
@@ -2212,7 +2134,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozentpunkte,Differenz,,Niedersachsen,code03,22.0
 2020,Prozentpunkte,Differenz,,Niedersachsen,code03,20.7
 2021,Prozentpunkte,Differenz,,Niedersachsen,code03,22.5
-2030,Prozentpunkte,Differenz,,,,
 1996,Prozentpunkte,Differenz,,Nordrhein-Westfalen,code05,8.0
 1997,Prozentpunkte,Differenz,,Nordrhein-Westfalen,code05,7.7
 1998,Prozentpunkte,Differenz,,Nordrhein-Westfalen,code05,7.8
@@ -2239,7 +2160,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozentpunkte,Differenz,,Nordrhein-Westfalen,code05,7.7
 2020,Prozentpunkte,Differenz,,Nordrhein-Westfalen,code05,8.1
 2021,Prozentpunkte,Differenz,,Nordrhein-Westfalen,code05,8.2
-2030,Prozentpunkte,Differenz,,,,
 1996,Prozentpunkte,Differenz,,Rheinland-Pfalz,code07,13.1
 1997,Prozentpunkte,Differenz,,Rheinland-Pfalz,code07,13.2
 1998,Prozentpunkte,Differenz,,Rheinland-Pfalz,code07,13.1
@@ -2266,7 +2186,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozentpunkte,Differenz,,Rheinland-Pfalz,code07,15.4
 2020,Prozentpunkte,Differenz,,Rheinland-Pfalz,code07,15.9
 2021,Prozentpunkte,Differenz,,Rheinland-Pfalz,code07,15.8
-2030,Prozentpunkte,Differenz,,,,
 1996,Prozentpunkte,Differenz,,Saarland,code10,18.9
 1997,Prozentpunkte,Differenz,,Saarland,code10,18.7
 1998,Prozentpunkte,Differenz,,Saarland,code10,18.7
@@ -2293,7 +2212,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozentpunkte,Differenz,,Saarland,code10,22.9
 2020,Prozentpunkte,Differenz,,Saarland,code10,23.6
 2021,Prozentpunkte,Differenz,,Saarland,code10,23.6
-2030,Prozentpunkte,Differenz,,,,
 1996,Prozentpunkte,Differenz,,Sachsen,code14,26.4
 1997,Prozentpunkte,Differenz,,Sachsen,code14,26.7
 1998,Prozentpunkte,Differenz,,Sachsen,code14,25.8
@@ -2320,7 +2238,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozentpunkte,Differenz,,Sachsen,code14,28.6
 2020,Prozentpunkte,Differenz,,Sachsen,code14,29.1
 2021,Prozentpunkte,Differenz,,Sachsen,code14,28.2
-2030,Prozentpunkte,Differenz,,,,
 1996,Prozentpunkte,Differenz,,Sachsen-Anhalt,code15,18.9
 1997,Prozentpunkte,Differenz,,Sachsen-Anhalt,code15,19.5
 1998,Prozentpunkte,Differenz,,Sachsen-Anhalt,code15,18.6
@@ -2347,7 +2264,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozentpunkte,Differenz,,Sachsen-Anhalt,code15,19.5
 2020,Prozentpunkte,Differenz,,Sachsen-Anhalt,code15,20.4
 2021,Prozentpunkte,Differenz,,Sachsen-Anhalt,code15,20.9
-2030,Prozentpunkte,Differenz,,,,
 1996,Prozentpunkte,Differenz,,Schleswig-Holstein,code01,13.7
 1997,Prozentpunkte,Differenz,,Schleswig-Holstein,code01,13.2
 1998,Prozentpunkte,Differenz,,Schleswig-Holstein,code01,12.6
@@ -2374,7 +2290,6 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozentpunkte,Differenz,,Schleswig-Holstein,code01,14.6
 2020,Prozentpunkte,Differenz,,Schleswig-Holstein,code01,15.4
 2021,Prozentpunkte,Differenz,,Schleswig-Holstein,code01,16.0
-2030,Prozentpunkte,Differenz,,,,
 1996,Prozentpunkte,Differenz,,Thüringen,code16,25.6
 1997,Prozentpunkte,Differenz,,Thüringen,code16,25.7
 1998,Prozentpunkte,Differenz,,Thüringen,code16,24.9
@@ -2401,4 +2316,3 @@ Year,Units,Series,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozentpunkte,Differenz,,Thüringen,code16,30.3
 2020,Prozentpunkte,Differenz,,Thüringen,code16,31.5
 2021,Prozentpunkte,Differenz,,Thüringen,code16,30.6
-2030,Prozentpunkte,Differenz,,,,
