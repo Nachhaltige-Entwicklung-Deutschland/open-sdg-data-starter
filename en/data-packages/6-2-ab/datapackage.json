@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of people gaining first-time or upgraded access to drinking water or sanitation owing to German support",
-                "Number of people gaining first-time or upgraded access to drinking water owing to German support",
-                "Number of people gaining first-time or improved access to sanitation owing to German support",
+                "Number of people gaining first-time or upgraded access to drinking water or sanitation",
+                "Number of people gaining first-time or upgraded access to drinking water",
+                "Number of people gaining first-time or improved access to sanitation",
                 ""
               ]
             },

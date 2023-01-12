@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Stickstoffeinträge in Küsten- und Meeresgewässer der Ostsee",
-                "Stickstoffeinträge in Küsten- und Meeresgewässer der Nordsee",
+                "Stickstoffeintrag über die Zuflüsse in die Ostsee",
+                "Stickstoffeintrag über die Zuflüsse in die Nordsee",
                 ""
               ]
             },
