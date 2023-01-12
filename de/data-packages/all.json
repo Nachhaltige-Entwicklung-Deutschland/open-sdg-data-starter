@@ -446,8 +446,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Direkter und indirrekter Rohstoffeinsatz",
-                "Direkter und indirrekter Energieverbrauch",
+                "Direkter und indirekter Rohstoffeinsatz",
+                "Direkter und indirekter Energieverbrauch",
                 "Direkte und indirekte CO₂-Emissionen",
                 ""
               ]
