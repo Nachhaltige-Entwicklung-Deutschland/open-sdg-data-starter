@@ -39,6 +39,18 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
             "name": "federal state",
             "type": "string",
             "constraints": {

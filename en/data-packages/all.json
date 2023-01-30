@@ -591,7 +591,7 @@
             "constraints": {
               "enum": [
                 "All wired technologies",
-                "fully fibre-optic networks (fttb/h)",
+                "Fibre-to-the-Building/Home (FTTB/H)",
                 "Cable television (CATV)",
                 ""
               ]
@@ -1409,6 +1409,18 @@
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "federal state",
@@ -2768,8 +2780,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Premature mortality (women)",
-                "Premature mortality (men)",
+                "Premature death (women)",
+                "Premature death (men)",
                 ""
               ]
             },

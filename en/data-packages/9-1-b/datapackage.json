@@ -32,7 +32,7 @@
             "constraints": {
               "enum": [
                 "All wired technologies",
-                "fully fibre-optic networks (fttb/h)",
+                "Fibre-to-the-Building/Home (FTTB/H)",
                 "Cable television (CATV)",
                 ""
               ]

@@ -577,7 +577,7 @@
             "constraints": {
               "enum": [
                 "all wired technologies",
-                "fully fibre-optic networks (fttb/h)",
+                "fibre-to-the-building/home (fttb/h)",
                 "cable television (catv)",
                 ""
               ]
@@ -1324,6 +1324,17 @@
               "enum": [
                 "smoking rate among adolescents",
                 "smoking rate among adults",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
                 ""
               ]
             }
@@ -2579,8 +2590,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "premature mortality (women)",
-                "premature mortality (men)",
+                "premature death (women)",
+                "premature death (men)",
                 ""
               ]
             }
