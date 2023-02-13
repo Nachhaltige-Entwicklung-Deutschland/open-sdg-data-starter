@@ -29,8 +29,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "smoking rate among adolescents",
-                "smoking rate among adults",
+                "adolescents",
+                "adults",
                 ""
               ]
             }

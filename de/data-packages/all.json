@@ -1403,8 +1403,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Raucherquote von Jugendlichen",
-                "Raucherquote von Erwachsenen",
+                "Jugendliche",
+                "Erwachsene",
                 ""
               ]
             },
