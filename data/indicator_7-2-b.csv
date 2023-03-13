@@ -12,10 +12,10 @@ Year,Units,federal state,GeoCode,Value
 2015,percentage,,,31.4
 2016,percentage,,,31.6
 2017,percentage,,,36.0
-2018,percentage,,,37.6
-2019,percentage,,,41.9
-2020,percentage,,,45.2
-2021,percentage,,,41.1
+2018,percentage,,,37.7
+2019,percentage,,,42.0
+2020,percentage,,,45.3
+2021,percentage,,,41.0
 2030,percentage,,,
 2005,percentage,baden-wuerttemberg,code08,8.77
 2006,percentage,baden-wuerttemberg,code08,10.26
@@ -61,6 +61,8 @@ Year,Units,federal state,GeoCode,Value
 2017,percentage,berlin,code11,2.72
 2018,percentage,berlin,code11,2.7
 2019,percentage,berlin,code11,2.73
+2020,percentage,berlin,code11,3.1
+2021,percentage,berlin,code11,2.69
 2005,percentage,brandenburg,code12,22.21
 2006,percentage,brandenburg,code12,28.18
 2007,percentage,brandenburg,code12,38.86
@@ -76,6 +78,7 @@ Year,Units,federal state,GeoCode,Value
 2017,percentage,brandenburg,code12,82.26
 2018,percentage,brandenburg,code12,84.48
 2019,percentage,brandenburg,code12,94.96
+2020,percentage,brandenburg,code12,99.23
 2005,percentage,bremen,code04,3.91
 2006,percentage,bremen,code04,4.2
 2007,percentage,bremen,code04,5.02
@@ -157,7 +160,8 @@ Year,Units,federal state,GeoCode,Value
 2016,percentage,north rhine-westphalia,code05,12.29
 2017,percentage,north rhine-westphalia,code05,13.75
 2018,percentage,north rhine-westphalia,code05,14.18
-2019,percentage,north rhine-westphalia,code05,16.7
+2019,percentage,north rhine-westphalia,code05,16.44
+2020,percentage,north rhine-westphalia,code05,18.33
 2005,percentage,rhineland palatinate,code07,7.91
 2006,percentage,rhineland palatinate,code07,10.16
 2007,percentage,rhineland palatinate,code07,12.58
@@ -246,3 +250,4 @@ Year,Units,federal state,GeoCode,Value
 2017,percentage,thuringia,code16,39.74
 2018,percentage,thuringia,code16,39.46
 2019,percentage,thuringia,code16,42.44
+2020,percentage,thuringia,code16,45.58
