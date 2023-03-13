@@ -12,6 +12,7 @@ Year,Units,Federal state,GeoCode,Value
 2018,Percentage,,,82.7
 2019,Percentage,,,84.2
 2020,Percentage,,,84.1
+2021,Percentage,,,84.0
 2008,Percentage,Baden-Wuerttemberg,code08,89.2
 2009,Percentage,Baden-Wuerttemberg,code08,88.3
 2010,Percentage,Baden-Wuerttemberg,code08,89.2
@@ -24,6 +25,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Baden-Wuerttemberg,code08,92.5
 2018,Percentage,Baden-Wuerttemberg,code08,93.3
 2019,Percentage,Baden-Wuerttemberg,code08,91.7
+2020,Percentage,Baden-Wuerttemberg,code08,92.4
+2021,Percentage,Baden-Wuerttemberg,code08,92.4
 2008,Percentage,Bavaria,code09,93.6
 2009,Percentage,Bavaria,code09,94.5
 2010,Percentage,Bavaria,code09,94.9
@@ -36,6 +39,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Bavaria,code09,92.7
 2018,Percentage,Bavaria,code09,93.6
 2019,Percentage,Bavaria,code09,95.2
+2020,Percentage,Bavaria,code09,95.6
+2021,Percentage,Bavaria,code09,94.2
 2008,Percentage,Brandenburg,code12,84.7
 2009,Percentage,Brandenburg,code12,85.7
 2010,Percentage,Brandenburg,code12,84.7
@@ -48,6 +53,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Brandenburg,code12,86.7
 2018,Percentage,Brandenburg,code12,88.8
 2019,Percentage,Brandenburg,code12,88.7
+2020,Percentage,Brandenburg,code12,87.6
+2021,Percentage,Brandenburg,code12,86.6
 2008,Percentage,Hesse,code06,87.9
 2009,Percentage,Hesse,code06,86.4
 2010,Percentage,Hesse,code06,83.6
@@ -60,6 +67,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Hesse,code06,87.3
 2018,Percentage,Hesse,code06,80.9
 2019,Percentage,Hesse,code06,85.9
+2020,Percentage,Hesse,code06,83.8
+2021,Percentage,Hesse,code06,87.9
 2008,Percentage,Mecklenburg Western Pomerania,code13,88.7
 2009,Percentage,Mecklenburg Western Pomerania,code13,90.0
 2010,Percentage,Mecklenburg Western Pomerania,code13,86.2
@@ -68,6 +77,8 @@ Year,Units,Federal state,GeoCode,Value
 2013,Percentage,Mecklenburg Western Pomerania,code13,85.0
 2018,Percentage,Mecklenburg Western Pomerania,code13,81.4
 2019,Percentage,Mecklenburg Western Pomerania,code13,82.2
+2020,Percentage,Mecklenburg Western Pomerania,code13,81.9
+2021,Percentage,Mecklenburg Western Pomerania,code13,83.8
 2008,Percentage,Lower Saxony,code03,69.9
 2009,Percentage,Lower Saxony,code03,73.0
 2010,Percentage,Lower Saxony,code03,70.4
@@ -80,6 +91,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Lower Saxony,code03,70.7
 2018,Percentage,Lower Saxony,code03,69.7
 2019,Percentage,Lower Saxony,code03,72.1
+2020,Percentage,Lower Saxony,code03,73.5
+2021,Percentage,Lower Saxony,code03,70.9
 2008,Percentage,North Rhine-Westphalia,code05,85.1
 2009,Percentage,North Rhine-Westphalia,code05,86.4
 2010,Percentage,North Rhine-Westphalia,code05,84.0
@@ -92,6 +105,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,North Rhine-Westphalia,code05,89.0
 2018,Percentage,North Rhine-Westphalia,code05,88.5
 2019,Percentage,North Rhine-Westphalia,code05,87.8
+2020,Percentage,North Rhine-Westphalia,code05,86.1
+2021,Percentage,North Rhine-Westphalia,code05,86.0
 2008,Percentage,Rhineland Palatinate,code07,78.3
 2009,Percentage,Rhineland Palatinate,code07,78.3
 2010,Percentage,Rhineland Palatinate,code07,76.8
@@ -104,6 +119,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Rhineland Palatinate,code07,76.8
 2018,Percentage,Rhineland Palatinate,code07,72.1
 2019,Percentage,Rhineland Palatinate,code07,73.4
+2020,Percentage,Rhineland Palatinate,code07,71.2
+2021,Percentage,Rhineland Palatinate,code07,73.9
 2008,Percentage,Saarland,code10,100.0
 2009,Percentage,Saarland,code10,100.0
 2010,Percentage,Saarland,code10,100.0
@@ -116,6 +133,7 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Saarland,code10,100.0
 2018,Percentage,Saarland,code10,100.0
 2019,Percentage,Saarland,code10,100.0
+2020,Percentage,Saarland,code10,100.0
 2008,Percentage,Saxony,code14,63.0
 2009,Percentage,Saxony,code14,64.8
 2010,Percentage,Saxony,code14,64.4
@@ -128,6 +146,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Saxony,code14,71.0
 2018,Percentage,Saxony,code14,70.7
 2019,Percentage,Saxony,code14,74.1
+2020,Percentage,Saxony,code14,81.7
+2021,Percentage,Saxony,code14,76.6
 2008,Percentage,Saxony-Anhalt,code15,78.5
 2009,Percentage,Saxony-Anhalt,code15,76.9
 2010,Percentage,Saxony-Anhalt,code15,76.8
@@ -140,6 +160,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Saxony-Anhalt,code15,80.0
 2018,Percentage,Saxony-Anhalt,code15,77.3
 2019,Percentage,Saxony-Anhalt,code15,79.1
+2020,Percentage,Saxony-Anhalt,code15,81.2
+2021,Percentage,Saxony-Anhalt,code15,80.6
 2008,Percentage,Schleswig-Holstein,code01,66.0
 2009,Percentage,Schleswig-Holstein,code01,64.2
 2010,Percentage,Schleswig-Holstein,code01,64.2
@@ -152,6 +174,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Schleswig-Holstein,code01,66.7
 2018,Percentage,Schleswig-Holstein,code01,69.8
 2019,Percentage,Schleswig-Holstein,code01,75.5
+2020,Percentage,Schleswig-Holstein,code01,68.5
+2021,Percentage,Schleswig-Holstein,code01,79.2
 2008,Percentage,Thuringia,code16,72.7
 2009,Percentage,Thuringia,code16,74.5
 2010,Percentage,Thuringia,code16,76.4
@@ -163,3 +187,5 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Thuringia,code16,72.2
 2018,Percentage,Thuringia,code16,76.9
 2019,Percentage,Thuringia,code16,78.4
+2020,Percentage,Thuringia,code16,75.5
+2021,Percentage,Thuringia,code16,75.0

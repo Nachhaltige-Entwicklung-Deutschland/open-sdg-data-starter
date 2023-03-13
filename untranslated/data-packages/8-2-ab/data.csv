@@ -16,6 +16,7 @@ Year,Units,time series,Value
 2019,percentage,government deficit,1.531
 2020,percentage,government deficit,-4.333
 2021,percentage,government deficit,-3.727
+2022,percentage,government deficit,-2.62
 2005,percentage,structural deficit,-2.2
 2006,percentage,structural deficit,-1.8
 2007,percentage,structural deficit,-0.7
@@ -33,6 +34,7 @@ Year,Units,time series,Value
 2019,percentage,structural deficit,0.8
 2020,percentage,structural deficit,-2.2
 2021,percentage,structural deficit,-2.5
+2022,percentage,structural deficit,
 2005,percentage,gross domestic product (price-adjusted),0.7
 2006,percentage,gross domestic product (price-adjusted),3.8
 2007,percentage,gross domestic product (price-adjusted),3.0
@@ -50,3 +52,4 @@ Year,Units,time series,Value
 2019,percentage,gross domestic product (price-adjusted),1.1
 2020,percentage,gross domestic product (price-adjusted),-3.7
 2021,percentage,gross domestic product (price-adjusted),2.6
+2022,percentage,gross domestic product (price-adjusted),1.8

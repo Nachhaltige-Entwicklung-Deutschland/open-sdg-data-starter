@@ -12,10 +12,10 @@ Year,Units,Bundesland,GeoCode,Value
 2015,Prozent,,,31.4
 2016,Prozent,,,31.6
 2017,Prozent,,,36.0
-2018,Prozent,,,37.6
-2019,Prozent,,,41.9
-2020,Prozent,,,45.2
-2021,Prozent,,,41.1
+2018,Prozent,,,37.7
+2019,Prozent,,,42.0
+2020,Prozent,,,45.3
+2021,Prozent,,,41.0
 2030,Prozent,,,
 2005,Prozent,Baden-Württemberg,code08,8.77
 2006,Prozent,Baden-Württemberg,code08,10.26
@@ -61,6 +61,8 @@ Year,Units,Bundesland,GeoCode,Value
 2017,Prozent,Berlin,code11,2.72
 2018,Prozent,Berlin,code11,2.7
 2019,Prozent,Berlin,code11,2.73
+2020,Prozent,Berlin,code11,3.1
+2021,Prozent,Berlin,code11,2.69
 2005,Prozent,Brandenburg,code12,22.21
 2006,Prozent,Brandenburg,code12,28.18
 2007,Prozent,Brandenburg,code12,38.86
@@ -76,6 +78,7 @@ Year,Units,Bundesland,GeoCode,Value
 2017,Prozent,Brandenburg,code12,82.26
 2018,Prozent,Brandenburg,code12,84.48
 2019,Prozent,Brandenburg,code12,94.96
+2020,Prozent,Brandenburg,code12,99.23
 2005,Prozent,Bremen,code04,3.91
 2006,Prozent,Bremen,code04,4.2
 2007,Prozent,Bremen,code04,5.02
@@ -157,7 +160,8 @@ Year,Units,Bundesland,GeoCode,Value
 2016,Prozent,Nordrhein-Westfalen,code05,12.29
 2017,Prozent,Nordrhein-Westfalen,code05,13.75
 2018,Prozent,Nordrhein-Westfalen,code05,14.18
-2019,Prozent,Nordrhein-Westfalen,code05,16.7
+2019,Prozent,Nordrhein-Westfalen,code05,16.44
+2020,Prozent,Nordrhein-Westfalen,code05,18.33
 2005,Prozent,Rheinland-Pfalz,code07,7.91
 2006,Prozent,Rheinland-Pfalz,code07,10.16
 2007,Prozent,Rheinland-Pfalz,code07,12.58
@@ -246,3 +250,4 @@ Year,Units,Bundesland,GeoCode,Value
 2017,Prozent,Thüringen,code16,39.74
 2018,Prozent,Thüringen,code16,39.46
 2019,Prozent,Thüringen,code16,42.44
+2020,Prozent,Thüringen,code16,45.58

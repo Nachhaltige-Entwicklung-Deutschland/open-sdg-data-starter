@@ -2,24 +2,36 @@ Year,Units,time series,Value
 2015,percentage,all wired technologies,
 2016,percentage,all wired technologies,
 2017,percentage,all wired technologies,
-2018,percentage,all wired technologies,27.3
-2019,percentage,all wired technologies,43.2
-2020,percentage,all wired technologies,59.2
 2025,percentage,all wired technologies,
-2021/1,percentage,all wired technologies,62.1
+2018/2,percentage,all wired technologies,27.33
+2019/1,percentage,all wired technologies,34.12
+2019/2,percentage,all wired technologies,43.22
+2020/1,percentage,all wired technologies,55.9
+2020/2,percentage,all wired technologies,59.18
+2021/1,percentage,all wired technologies,62.13
+2021/2,percentage,all wired technologies,
+2022/1,percentage,all wired technologies,98.04
 2015,percentage,fibre-to-the-building/home (fttb/h),6.7
 2016,percentage,fibre-to-the-building/home (fttb/h),7.1
 2017,percentage,fibre-to-the-building/home (fttb/h),8.0
-2018,percentage,fibre-to-the-building/home (fttb/h),9.0
-2019,percentage,fibre-to-the-building/home (fttb/h),11.8
-2020,percentage,fibre-to-the-building/home (fttb/h),14.5
 2025,percentage,fibre-to-the-building/home (fttb/h),
-2021/1,percentage,fibre-to-the-building/home (fttb/h),15.4
-2015,percentage,cable television (catv),
-2016,percentage,cable television (catv),
-2017,percentage,cable television (catv),
-2018,percentage,cable television (catv),23.7
-2019,percentage,cable television (catv),37.8
-2020,percentage,cable television (catv),53.5
-2025,percentage,cable television (catv),
-2021/1,percentage,cable television (catv),56.5
+2018/2,percentage,fibre-to-the-building/home (fttb/h),8.92
+2019/1,percentage,fibre-to-the-building/home (fttb/h),10.51
+2019/2,percentage,fibre-to-the-building/home (fttb/h),11.82
+2020/1,percentage,fibre-to-the-building/home (fttb/h),13.82
+2020/2,percentage,fibre-to-the-building/home (fttb/h),14.5
+2021/1,percentage,fibre-to-the-building/home (fttb/h),15.43
+2021/2,percentage,fibre-to-the-building/home (fttb/h),
+2022/1,percentage,fibre-to-the-building/home (fttb/h),18.17
+2015,percentage,hybrid fiber coax (hfc),
+2016,percentage,hybrid fiber coax (hfc),
+2017,percentage,hybrid fiber coax (hfc),
+2025,percentage,hybrid fiber coax (hfc),
+2018/2,percentage,hybrid fiber coax (hfc),23.66
+2019/1,percentage,hybrid fiber coax (hfc),29.28
+2019/2,percentage,hybrid fiber coax (hfc),37.83
+2020/1,percentage,hybrid fiber coax (hfc),50.18
+2020/2,percentage,hybrid fiber coax (hfc),53.5
+2021/1,percentage,hybrid fiber coax (hfc),56.54
+2021/2,percentage,hybrid fiber coax (hfc),
+2022/1,percentage,hybrid fiber coax (hfc),59.07

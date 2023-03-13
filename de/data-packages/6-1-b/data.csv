@@ -12,6 +12,7 @@ Year,Units,Bundesland,GeoCode,Value
 2018,Prozent,,,82.7
 2019,Prozent,,,84.2
 2020,Prozent,,,84.1
+2021,Prozent,,,84.0
 2008,Prozent,Baden-Württemberg,code08,89.2
 2009,Prozent,Baden-Württemberg,code08,88.3
 2010,Prozent,Baden-Württemberg,code08,89.2
@@ -24,6 +25,8 @@ Year,Units,Bundesland,GeoCode,Value
 2017,Prozent,Baden-Württemberg,code08,92.5
 2018,Prozent,Baden-Württemberg,code08,93.3
 2019,Prozent,Baden-Württemberg,code08,91.7
+2020,Prozent,Baden-Württemberg,code08,92.4
+2021,Prozent,Baden-Württemberg,code08,92.4
 2008,Prozent,Bayern,code09,93.6
 2009,Prozent,Bayern,code09,94.5
 2010,Prozent,Bayern,code09,94.9
@@ -36,6 +39,8 @@ Year,Units,Bundesland,GeoCode,Value
 2017,Prozent,Bayern,code09,92.7
 2018,Prozent,Bayern,code09,93.6
 2019,Prozent,Bayern,code09,95.2
+2020,Prozent,Bayern,code09,95.6
+2021,Prozent,Bayern,code09,94.2
 2008,Prozent,Brandenburg,code12,84.7
 2009,Prozent,Brandenburg,code12,85.7
 2010,Prozent,Brandenburg,code12,84.7
@@ -48,6 +53,8 @@ Year,Units,Bundesland,GeoCode,Value
 2017,Prozent,Brandenburg,code12,86.7
 2018,Prozent,Brandenburg,code12,88.8
 2019,Prozent,Brandenburg,code12,88.7
+2020,Prozent,Brandenburg,code12,87.6
+2021,Prozent,Brandenburg,code12,86.6
 2008,Prozent,Hessen,code06,87.9
 2009,Prozent,Hessen,code06,86.4
 2010,Prozent,Hessen,code06,83.6
@@ -60,6 +67,8 @@ Year,Units,Bundesland,GeoCode,Value
 2017,Prozent,Hessen,code06,87.3
 2018,Prozent,Hessen,code06,80.9
 2019,Prozent,Hessen,code06,85.9
+2020,Prozent,Hessen,code06,83.8
+2021,Prozent,Hessen,code06,87.9
 2008,Prozent,Mecklenburg-Vorpommern,code13,88.7
 2009,Prozent,Mecklenburg-Vorpommern,code13,90.0
 2010,Prozent,Mecklenburg-Vorpommern,code13,86.2
@@ -68,6 +77,8 @@ Year,Units,Bundesland,GeoCode,Value
 2013,Prozent,Mecklenburg-Vorpommern,code13,85.0
 2018,Prozent,Mecklenburg-Vorpommern,code13,81.4
 2019,Prozent,Mecklenburg-Vorpommern,code13,82.2
+2020,Prozent,Mecklenburg-Vorpommern,code13,81.9
+2021,Prozent,Mecklenburg-Vorpommern,code13,83.8
 2008,Prozent,Niedersachsen,code03,69.9
 2009,Prozent,Niedersachsen,code03,73.0
 2010,Prozent,Niedersachsen,code03,70.4
@@ -80,6 +91,8 @@ Year,Units,Bundesland,GeoCode,Value
 2017,Prozent,Niedersachsen,code03,70.7
 2018,Prozent,Niedersachsen,code03,69.7
 2019,Prozent,Niedersachsen,code03,72.1
+2020,Prozent,Niedersachsen,code03,73.5
+2021,Prozent,Niedersachsen,code03,70.9
 2008,Prozent,Nordrhein-Westfalen,code05,85.1
 2009,Prozent,Nordrhein-Westfalen,code05,86.4
 2010,Prozent,Nordrhein-Westfalen,code05,84.0
@@ -92,6 +105,8 @@ Year,Units,Bundesland,GeoCode,Value
 2017,Prozent,Nordrhein-Westfalen,code05,89.0
 2018,Prozent,Nordrhein-Westfalen,code05,88.5
 2019,Prozent,Nordrhein-Westfalen,code05,87.8
+2020,Prozent,Nordrhein-Westfalen,code05,86.1
+2021,Prozent,Nordrhein-Westfalen,code05,86.0
 2008,Prozent,Rheinland-Pfalz,code07,78.3
 2009,Prozent,Rheinland-Pfalz,code07,78.3
 2010,Prozent,Rheinland-Pfalz,code07,76.8
@@ -104,6 +119,8 @@ Year,Units,Bundesland,GeoCode,Value
 2017,Prozent,Rheinland-Pfalz,code07,76.8
 2018,Prozent,Rheinland-Pfalz,code07,72.1
 2019,Prozent,Rheinland-Pfalz,code07,73.4
+2020,Prozent,Rheinland-Pfalz,code07,71.2
+2021,Prozent,Rheinland-Pfalz,code07,73.9
 2008,Prozent,Saarland,code10,100.0
 2009,Prozent,Saarland,code10,100.0
 2010,Prozent,Saarland,code10,100.0
@@ -116,6 +133,7 @@ Year,Units,Bundesland,GeoCode,Value
 2017,Prozent,Saarland,code10,100.0
 2018,Prozent,Saarland,code10,100.0
 2019,Prozent,Saarland,code10,100.0
+2020,Prozent,Saarland,code10,100.0
 2008,Prozent,Sachsen,code14,63.0
 2009,Prozent,Sachsen,code14,64.8
 2010,Prozent,Sachsen,code14,64.4
@@ -128,6 +146,8 @@ Year,Units,Bundesland,GeoCode,Value
 2017,Prozent,Sachsen,code14,71.0
 2018,Prozent,Sachsen,code14,70.7
 2019,Prozent,Sachsen,code14,74.1
+2020,Prozent,Sachsen,code14,81.7
+2021,Prozent,Sachsen,code14,76.6
 2008,Prozent,Sachsen-Anhalt,code15,78.5
 2009,Prozent,Sachsen-Anhalt,code15,76.9
 2010,Prozent,Sachsen-Anhalt,code15,76.8
@@ -140,6 +160,8 @@ Year,Units,Bundesland,GeoCode,Value
 2017,Prozent,Sachsen-Anhalt,code15,80.0
 2018,Prozent,Sachsen-Anhalt,code15,77.3
 2019,Prozent,Sachsen-Anhalt,code15,79.1
+2020,Prozent,Sachsen-Anhalt,code15,81.2
+2021,Prozent,Sachsen-Anhalt,code15,80.6
 2008,Prozent,Schleswig-Holstein,code01,66.0
 2009,Prozent,Schleswig-Holstein,code01,64.2
 2010,Prozent,Schleswig-Holstein,code01,64.2
@@ -152,6 +174,8 @@ Year,Units,Bundesland,GeoCode,Value
 2017,Prozent,Schleswig-Holstein,code01,66.7
 2018,Prozent,Schleswig-Holstein,code01,69.8
 2019,Prozent,Schleswig-Holstein,code01,75.5
+2020,Prozent,Schleswig-Holstein,code01,68.5
+2021,Prozent,Schleswig-Holstein,code01,79.2
 2008,Prozent,Thüringen,code16,72.7
 2009,Prozent,Thüringen,code16,74.5
 2010,Prozent,Thüringen,code16,76.4
@@ -163,3 +187,5 @@ Year,Units,Bundesland,GeoCode,Value
 2017,Prozent,Thüringen,code16,72.2
 2018,Prozent,Thüringen,code16,76.9
 2019,Prozent,Thüringen,code16,78.4
+2020,Prozent,Thüringen,code16,75.5
+2021,Prozent,Thüringen,code16,75.0
