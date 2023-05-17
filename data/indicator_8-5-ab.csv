@@ -20,7 +20,8 @@ Year,Units,Series,sex,federal state,GeoCode,Value
 2018,percentage,"employment rate, total (20 to 64-year-olds)",,,,79.9
 2019,percentage,"employment rate, total (20 to 64-year-olds)",,,,80.6
 2020,percentage,"employment rate, total (20 to 64-year-olds)",,,,79.2
-2021,percentage,"employment rate, total (20 to 64-year-olds)",,,,79.6
+2021,percentage,"employment rate, total (20 to 64-year-olds)",,,,79.4
+2022,percentage,"employment rate, total (20 to 64-year-olds)",,,,80.7
 2030,percentage,"employment rate, total (20 to 64-year-olds)",,,,
 2000,percentage,"employment rate, total (20 to 64-year-olds)",female,,,60.7
 2001,percentage,"employment rate, total (20 to 64-year-olds)",female,,,61.6
@@ -43,7 +44,8 @@ Year,Units,Series,sex,federal state,GeoCode,Value
 2018,percentage,"employment rate, total (20 to 64-year-olds)",female,,,75.8
 2019,percentage,"employment rate, total (20 to 64-year-olds)",female,,,76.6
 2020,percentage,"employment rate, total (20 to 64-year-olds)",female,,,75.4
-2021,percentage,"employment rate, total (20 to 64-year-olds)",female,,,75.9
+2021,percentage,"employment rate, total (20 to 64-year-olds)",female,,,75.6
+2022,percentage,"employment rate, total (20 to 64-year-olds)",female,,,76.8
 2000,percentage,"employment rate, total (20 to 64-year-olds)",male,,,76.5
 2001,percentage,"employment rate, total (20 to 64-year-olds)",male,,,76.4
 2002,percentage,"employment rate, total (20 to 64-year-olds)",male,,,75.6
@@ -65,7 +67,8 @@ Year,Units,Series,sex,federal state,GeoCode,Value
 2018,percentage,"employment rate, total (20 to 64-year-olds)",male,,,83.9
 2019,percentage,"employment rate, total (20 to 64-year-olds)",male,,,84.6
 2020,percentage,"employment rate, total (20 to 64-year-olds)",male,,,83.0
-2021,percentage,"employment rate, total (20 to 64-year-olds)",male,,,83.2
+2021,percentage,"employment rate, total (20 to 64-year-olds)",male,,,83.0
+2022,percentage,"employment rate, total (20 to 64-year-olds)",male,,,84.6
 2000,percentage,"employment rate, total (20 to 64-year-olds)",,baden-wuerttemberg,code08,73.1
 2001,percentage,"employment rate, total (20 to 64-year-olds)",,baden-wuerttemberg,code08,73.4
 2002,percentage,"employment rate, total (20 to 64-year-olds)",,baden-wuerttemberg,code08,73.5
@@ -1144,6 +1147,7 @@ Year,Units,Series,sex,federal state,GeoCode,Value
 2019,percentage,"employment rate, older people (60 to 64-year-olds)",,,,61.8
 2020,percentage,"employment rate, older people (60 to 64-year-olds)",,,,60.6
 2021,percentage,"employment rate, older people (60 to 64-year-olds)",,,,61.1
+2022,percentage,"employment rate, older people (60 to 64-year-olds)",,,,63.2
 2030,percentage,"employment rate, older people (60 to 64-year-olds)",,,,
 2000,percentage,"employment rate, older people (60 to 64-year-olds)",female,,,12.1
 2001,percentage,"employment rate, older people (60 to 64-year-olds)",female,,,13.4
@@ -1166,7 +1170,8 @@ Year,Units,Series,sex,federal state,GeoCode,Value
 2018,percentage,"employment rate, older people (60 to 64-year-olds)",female,,,55.4
 2019,percentage,"employment rate, older people (60 to 64-year-olds)",female,,,57.1
 2020,percentage,"employment rate, older people (60 to 64-year-olds)",female,,,56.7
-2021,percentage,"employment rate, older people (60 to 64-year-olds)",female,,,56.7
+2021,percentage,"employment rate, older people (60 to 64-year-olds)",female,,,56.6
+2022,percentage,"employment rate, older people (60 to 64-year-olds)",female,,,59.2
 2000,percentage,"employment rate, older people (60 to 64-year-olds)",male,,,27.2
 2001,percentage,"employment rate, older people (60 to 64-year-olds)",male,,,28.4
 2002,percentage,"employment rate, older people (60 to 64-year-olds)",male,,,30.2
@@ -1188,7 +1193,8 @@ Year,Units,Series,sex,federal state,GeoCode,Value
 2018,percentage,"employment rate, older people (60 to 64-year-olds)",male,,,65.4
 2019,percentage,"employment rate, older people (60 to 64-year-olds)",male,,,66.6
 2020,percentage,"employment rate, older people (60 to 64-year-olds)",male,,,64.5
-2021,percentage,"employment rate, older people (60 to 64-year-olds)",male,,,65.7
+2021,percentage,"employment rate, older people (60 to 64-year-olds)",male,,,65.8
+2022,percentage,"employment rate, older people (60 to 64-year-olds)",male,,,67.4
 2010,percentage,"employment rate, older people (60 to 64-year-olds)",,baden-wuerttemberg,code08,47.0
 2011,percentage,"employment rate, older people (60 to 64-year-olds)",,baden-wuerttemberg,code08,51.3
 2012,percentage,"employment rate, older people (60 to 64-year-olds)",,baden-wuerttemberg,code08,52.6
