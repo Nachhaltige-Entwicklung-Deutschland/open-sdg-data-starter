@@ -29,8 +29,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "nitrogen input in coastal and marine waters of the baltic sea",
-                "nitrogen input in coastal and marine waters of the north sea",
+                "nitrogen input via the inflows into the baltic sea",
+                "nitrogen input via the inflows into the north sea",
                 ""
               ]
             }
