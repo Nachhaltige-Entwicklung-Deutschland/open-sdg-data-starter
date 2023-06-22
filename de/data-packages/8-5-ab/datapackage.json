@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Erwerbstätigenquote insgesamt (20 bis 64 Jahre)",
-                "Erwerbstätigenquote Ältere (60 bis 64 Jahre)",
+                "Erwerbstätigenquote insgesamt (20- bis 64-Jährige)",
+                "Erwerbstätigenquote Ältere (60- bis 64-Jährige)",
                 ""
               ]
             },

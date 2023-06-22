@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Stickstoffeintrag über die Zuflüsse in die Ostsee",
-                "Stickstoffeintrag über die Zuflüsse in die Nordsee",
+                "nitrogen input in coastal and marine waters of the baltic sea",
+                "nitrogen input in coastal and marine waters of the north sea",
                 ""
               ]
             },
