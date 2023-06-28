@@ -28,6 +28,7 @@ Year,Units,Criminal offences,Federal state,GeoCode,Value
 2019,"Per 100,000 inhabitants",,,,6548.365
 2020,"Per 100,000 inhabitants",,,,6385.513
 2021,"Per 100,000 inhabitants",,,,6070.42
+2022,"Per 100,000 inhabitants",,,,6762.108
 2030,"Per 100,000 inhabitants",,,,
 1993,"Per 100,000 inhabitants",,Baden-Wuerttemberg,code08,6123.163
 1994,"Per 100,000 inhabitants",,Baden-Wuerttemberg,code08,5729.469
@@ -522,6 +523,7 @@ Year,Units,Criminal offences,Federal state,GeoCode,Value
 2019,"Per 100,000 inhabitants",Dangerous and serious bodily injury,,,160.305
 2020,"Per 100,000 inhabitants",Dangerous and serious bodily injury,,,156.857
 2021,"Per 100,000 inhabitants",Dangerous and serious bodily injury,,,147.124
+2022,"Per 100,000 inhabitants",Dangerous and serious bodily injury,,,173.796
 1993,"Per 100,000 inhabitants",Fraud,,,653.924
 1994,"Per 100,000 inhabitants",Fraud,,,724.436
 1995,"Per 100,000 inhabitants",Fraud,,,767.389
@@ -551,6 +553,7 @@ Year,Units,Criminal offences,Federal state,GeoCode,Value
 2019,"Per 100,000 inhabitants",Fraud,,,1003.341
 2020,"Per 100,000 inhabitants",Fraud,,,971.632
 2021,"Per 100,000 inhabitants",Fraud,,,954.388
+2022,"Per 100,000 inhabitants",Fraud,,,962.806
 1993,"Per 100,000 inhabitants",Domestic burglary,,,281.031
 1994,"Per 100,000 inhabitants",Domestic burglary,,,260.192
 1995,"Per 100,000 inhabitants",Domestic burglary,,,260.099
@@ -580,6 +583,7 @@ Year,Units,Criminal offences,Federal state,GeoCode,Value
 2019,"Per 100,000 inhabitants",Domestic burglary,,,104.97
 2020,"Per 100,000 inhabitants",Domestic burglary,,,90.208
 2021,"Per 100,000 inhabitants",Domestic burglary,,,65.223
+2022,"Per 100,000 inhabitants",Domestic burglary,,,79.181
 1993,"Per 100,000 inhabitants",Other offences,,,7310.504
 1994,"Per 100,000 inhabitants",Other offences,,,6969.442
 1995,"Per 100,000 inhabitants",Other offences,,,7066.485
@@ -609,3 +613,4 @@ Year,Units,Criminal offences,Federal state,GeoCode,Value
 2019,"Per 100,000 inhabitants",Other offences,,,5279.749
 2020,"Per 100,000 inhabitants",Other offences,,,5166.816
 2021,"Per 100,000 inhabitants",Other offences,,,4903.685
+2022,"Per 100,000 inhabitants",Other offences,,,5546.324
