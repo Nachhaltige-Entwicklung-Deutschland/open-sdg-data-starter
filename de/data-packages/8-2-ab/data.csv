@@ -1,55 +1,263 @@
-Year,Units,Zeitreihe,Value
-2005,Prozent,Staatsdefizit,-3.319
-2006,Prozent,Staatsdefizit,-1.653
-2007,Prozent,Staatsdefizit,0.261
-2008,Prozent,Staatsdefizit,-0.116
-2009,Prozent,Staatsdefizit,-3.151
-2010,Prozent,Staatsdefizit,-4.379
-2011,Prozent,Staatsdefizit,-0.881
-2012,Prozent,Staatsdefizit,0.009
-2013,Prozent,Staatsdefizit,0.04
-2014,Prozent,Staatsdefizit,0.58
-2015,Prozent,Staatsdefizit,0.961
-2016,Prozent,Staatsdefizit,1.16
-2017,Prozent,Staatsdefizit,1.336
-2018,Prozent,Staatsdefizit,1.95
-2019,Prozent,Staatsdefizit,1.531
-2020,Prozent,Staatsdefizit,-4.333
-2021,Prozent,Staatsdefizit,-3.727
-2022,Prozent,Staatsdefizit,-2.74
-2005,Prozent,Strukturelles Defizit,-2.2
-2006,Prozent,Strukturelles Defizit,-1.8
-2007,Prozent,Strukturelles Defizit,-0.7
-2008,Prozent,Strukturelles Defizit,-0.6
-2009,Prozent,Strukturelles Defizit,-0.5
-2010,Prozent,Strukturelles Defizit,-2.1
-2011,Prozent,Strukturelles Defizit,-1.2
-2012,Prozent,Strukturelles Defizit,0.1
-2013,Prozent,Strukturelles Defizit,0.6
-2014,Prozent,Strukturelles Defizit,0.9
-2015,Prozent,Strukturelles Defizit,1.1
-2016,Prozent,Strukturelles Defizit,1.0
-2017,Prozent,Strukturelles Defizit,0.7
-2018,Prozent,Strukturelles Defizit,1.3
-2019,Prozent,Strukturelles Defizit,0.8
-2020,Prozent,Strukturelles Defizit,-2.7
-2021,Prozent,Strukturelles Defizit,-2.9
-2022,Prozent,Strukturelles Defizit,-1.8
-2005,Prozent,Bruttoinlandsprodukt (preisbereinigt),0.7
-2006,Prozent,Bruttoinlandsprodukt (preisbereinigt),3.8
-2007,Prozent,Bruttoinlandsprodukt (preisbereinigt),3.0
-2008,Prozent,Bruttoinlandsprodukt (preisbereinigt),1.0
-2009,Prozent,Bruttoinlandsprodukt (preisbereinigt),-5.7
-2010,Prozent,Bruttoinlandsprodukt (preisbereinigt),4.2
-2011,Prozent,Bruttoinlandsprodukt (preisbereinigt),3.9
-2012,Prozent,Bruttoinlandsprodukt (preisbereinigt),0.4
-2013,Prozent,Bruttoinlandsprodukt (preisbereinigt),0.4
-2014,Prozent,Bruttoinlandsprodukt (preisbereinigt),2.2
-2015,Prozent,Bruttoinlandsprodukt (preisbereinigt),1.5
-2016,Prozent,Bruttoinlandsprodukt (preisbereinigt),2.2
-2017,Prozent,Bruttoinlandsprodukt (preisbereinigt),2.7
-2018,Prozent,Bruttoinlandsprodukt (preisbereinigt),1.0
-2019,Prozent,Bruttoinlandsprodukt (preisbereinigt),1.1
-2020,Prozent,Bruttoinlandsprodukt (preisbereinigt),-3.7
-2021,Prozent,Bruttoinlandsprodukt (preisbereinigt),2.6
-2022,Prozent,Bruttoinlandsprodukt (preisbereinigt),1.8
+Year,Units,Zeitreihe,Bundesland,GeoCode,Value
+2005,Prozent,Staatsdefizit,,,-3.319
+2006,Prozent,Staatsdefizit,,,-1.653
+2007,Prozent,Staatsdefizit,,,0.261
+2008,Prozent,Staatsdefizit,,,-0.116
+2009,Prozent,Staatsdefizit,,,-3.151
+2010,Prozent,Staatsdefizit,,,-4.379
+2011,Prozent,Staatsdefizit,,,-0.881
+2012,Prozent,Staatsdefizit,,,0.009
+2013,Prozent,Staatsdefizit,,,0.04
+2014,Prozent,Staatsdefizit,,,0.58
+2015,Prozent,Staatsdefizit,,,0.961
+2016,Prozent,Staatsdefizit,,,1.16
+2017,Prozent,Staatsdefizit,,,1.336
+2018,Prozent,Staatsdefizit,,,1.95
+2019,Prozent,Staatsdefizit,,,1.531
+2020,Prozent,Staatsdefizit,,,-4.333
+2021,Prozent,Staatsdefizit,,,-3.727
+2022,Prozent,Staatsdefizit,,,-2.74
+2005,Prozent,Strukturelles Defizit,,,-2.2
+2006,Prozent,Strukturelles Defizit,,,-1.8
+2007,Prozent,Strukturelles Defizit,,,-0.7
+2008,Prozent,Strukturelles Defizit,,,-0.6
+2009,Prozent,Strukturelles Defizit,,,-0.5
+2010,Prozent,Strukturelles Defizit,,,-2.1
+2011,Prozent,Strukturelles Defizit,,,-1.2
+2012,Prozent,Strukturelles Defizit,,,0.1
+2013,Prozent,Strukturelles Defizit,,,0.6
+2014,Prozent,Strukturelles Defizit,,,0.9
+2015,Prozent,Strukturelles Defizit,,,1.1
+2016,Prozent,Strukturelles Defizit,,,1.0
+2017,Prozent,Strukturelles Defizit,,,0.7
+2018,Prozent,Strukturelles Defizit,,,1.3
+2019,Prozent,Strukturelles Defizit,,,0.8
+2020,Prozent,Strukturelles Defizit,,,-2.7
+2021,Prozent,Strukturelles Defizit,,,-2.9
+2022,Prozent,Strukturelles Defizit,,,-1.8
+2005,Prozent,Bruttoinlandsprodukt (preisbereinigt),,,0.7
+2006,Prozent,Bruttoinlandsprodukt (preisbereinigt),,,3.8
+2007,Prozent,Bruttoinlandsprodukt (preisbereinigt),,,3.0
+2008,Prozent,Bruttoinlandsprodukt (preisbereinigt),,,1.0
+2009,Prozent,Bruttoinlandsprodukt (preisbereinigt),,,-5.7
+2010,Prozent,Bruttoinlandsprodukt (preisbereinigt),,,4.2
+2011,Prozent,Bruttoinlandsprodukt (preisbereinigt),,,3.9
+2012,Prozent,Bruttoinlandsprodukt (preisbereinigt),,,0.4
+2013,Prozent,Bruttoinlandsprodukt (preisbereinigt),,,0.4
+2014,Prozent,Bruttoinlandsprodukt (preisbereinigt),,,2.2
+2015,Prozent,Bruttoinlandsprodukt (preisbereinigt),,,1.5
+2016,Prozent,Bruttoinlandsprodukt (preisbereinigt),,,2.2
+2017,Prozent,Bruttoinlandsprodukt (preisbereinigt),,,2.7
+2018,Prozent,Bruttoinlandsprodukt (preisbereinigt),,,1.0
+2019,Prozent,Bruttoinlandsprodukt (preisbereinigt),,,1.1
+2020,Prozent,Bruttoinlandsprodukt (preisbereinigt),,,-3.7
+2021,Prozent,Bruttoinlandsprodukt (preisbereinigt),,,2.6
+2022,Prozent,Bruttoinlandsprodukt (preisbereinigt),,,1.8
+2010,Prozent,Strukturelles Defizit,Baden-Württemberg,code08,-0.396
+2011,Prozent,Strukturelles Defizit,Baden-Württemberg,code08,0.25
+2012,Prozent,Strukturelles Defizit,Baden-Württemberg,code08,0.386
+2013,Prozent,Strukturelles Defizit,Baden-Württemberg,code08,-0.117
+2014,Prozent,Strukturelles Defizit,Baden-Württemberg,code08,-0.042
+2015,Prozent,Strukturelles Defizit,Baden-Württemberg,code08,0.02
+2016,Prozent,Strukturelles Defizit,Baden-Württemberg,code08,0.11
+2017,Prozent,Strukturelles Defizit,Baden-Württemberg,code08,0.275
+2018,Prozent,Strukturelles Defizit,Baden-Württemberg,code08,0.852
+2019,Prozent,Strukturelles Defizit,Baden-Württemberg,code08,0.75
+2020,Prozent,Strukturelles Defizit,Baden-Württemberg,code08,-0.937
+2021,Prozent,Strukturelles Defizit,Baden-Württemberg,code08,0.664
+2022,Prozent,Strukturelles Defizit,Baden-Württemberg,code08,0.558
+2010,Prozent,Strukturelles Defizit,Bayern,code09,-0.368
+2011,Prozent,Strukturelles Defizit,Bayern,code09,0.318
+2012,Prozent,Strukturelles Defizit,Bayern,code09,0.541
+2013,Prozent,Strukturelles Defizit,Bayern,code09,0.69
+2014,Prozent,Strukturelles Defizit,Bayern,code09,0.648
+2015,Prozent,Strukturelles Defizit,Bayern,code09,0.637
+2016,Prozent,Strukturelles Defizit,Bayern,code09,0.658
+2017,Prozent,Strukturelles Defizit,Bayern,code09,0.926
+2018,Prozent,Strukturelles Defizit,Bayern,code09,1.055
+2019,Prozent,Strukturelles Defizit,Bayern,code09,0.147
+2020,Prozent,Strukturelles Defizit,Bayern,code09,-1.055
+2021,Prozent,Strukturelles Defizit,Bayern,code09,0.147
+2022,Prozent,Strukturelles Defizit,Bayern,code09,0.435
+2010,Prozent,Strukturelles Defizit,Berlin,code11,-1.374
+2011,Prozent,Strukturelles Defizit,Berlin,code11,-0.903
+2012,Prozent,Strukturelles Defizit,Berlin,code11,0.026
+2013,Prozent,Strukturelles Defizit,Berlin,code11,0.693
+2014,Prozent,Strukturelles Defizit,Berlin,code11,0.829
+2015,Prozent,Strukturelles Defizit,Berlin,code11,0.975
+2016,Prozent,Strukturelles Defizit,Berlin,code11,1.0
+2017,Prozent,Strukturelles Defizit,Berlin,code11,1.721
+2018,Prozent,Strukturelles Defizit,Berlin,code11,1.542
+2019,Prozent,Strukturelles Defizit,Berlin,code11,0.745
+2020,Prozent,Strukturelles Defizit,Berlin,code11,-1.086
+2021,Prozent,Strukturelles Defizit,Berlin,code11,-1.311
+2022,Prozent,Strukturelles Defizit,Berlin,code11,0.821
+2010,Prozent,Strukturelles Defizit,Brandenburg,code12,-1.079
+2011,Prozent,Strukturelles Defizit,Brandenburg,code12,0.145
+2012,Prozent,Strukturelles Defizit,Brandenburg,code12,0.212
+2013,Prozent,Strukturelles Defizit,Brandenburg,code12,1.592
+2014,Prozent,Strukturelles Defizit,Brandenburg,code12,0.904
+2015,Prozent,Strukturelles Defizit,Brandenburg,code12,1.387
+2016,Prozent,Strukturelles Defizit,Brandenburg,code12,1.192
+2017,Prozent,Strukturelles Defizit,Brandenburg,code12,1.41
+2018,Prozent,Strukturelles Defizit,Brandenburg,code12,1.482
+2019,Prozent,Strukturelles Defizit,Brandenburg,code12,-0.785
+2020,Prozent,Strukturelles Defizit,Brandenburg,code12,-1.069
+2021,Prozent,Strukturelles Defizit,Brandenburg,code12,-0.204
+2022,Prozent,Strukturelles Defizit,Brandenburg,code12,0.45
+2010,Prozent,Strukturelles Defizit,Bremen,code04,-4.818
+2011,Prozent,Strukturelles Defizit,Bremen,code04,-3.202
+2012,Prozent,Strukturelles Defizit,Bremen,code04,-2.037
+2013,Prozent,Strukturelles Defizit,Bremen,code04,-1.845
+2014,Prozent,Strukturelles Defizit,Bremen,code04,-1.54
+2015,Prozent,Strukturelles Defizit,Bremen,code04,-1.068
+2016,Prozent,Strukturelles Defizit,Bremen,code04,-0.273
+2017,Prozent,Strukturelles Defizit,Bremen,code04,0.321
+2018,Prozent,Strukturelles Defizit,Bremen,code04,0.557
+2019,Prozent,Strukturelles Defizit,Bremen,code04,0.647
+2020,Prozent,Strukturelles Defizit,Bremen,code04,-0.859
+2021,Prozent,Strukturelles Defizit,Bremen,code04,-0.071
+2022,Prozent,Strukturelles Defizit,Bremen,code04,-0.352
+2010,Prozent,Strukturelles Defizit,Hamburg,code02,-0.88
+2011,Prozent,Strukturelles Defizit,Hamburg,code02,-0.404
+2012,Prozent,Strukturelles Defizit,Hamburg,code02,-1.054
+2013,Prozent,Strukturelles Defizit,Hamburg,code02,-1.316
+2014,Prozent,Strukturelles Defizit,Hamburg,code02,0.069
+2015,Prozent,Strukturelles Defizit,Hamburg,code02,0.142
+2016,Prozent,Strukturelles Defizit,Hamburg,code02,-0.204
+2017,Prozent,Strukturelles Defizit,Hamburg,code02,-0.259
+2018,Prozent,Strukturelles Defizit,Hamburg,code02,-0.508
+2019,Prozent,Strukturelles Defizit,Hamburg,code02,0.202
+2020,Prozent,Strukturelles Defizit,Hamburg,code02,-0.832
+2021,Prozent,Strukturelles Defizit,Hamburg,code02,-0.323
+2022,Prozent,Strukturelles Defizit,Hamburg,code02,2.292
+2010,Prozent,Strukturelles Defizit,Hessen,code06,-2.018
+2011,Prozent,Strukturelles Defizit,Hessen,code06,-1.7
+2012,Prozent,Strukturelles Defizit,Hessen,code06,-1.52
+2013,Prozent,Strukturelles Defizit,Hessen,code06,-0.75
+2014,Prozent,Strukturelles Defizit,Hessen,code06,-0.459
+2015,Prozent,Strukturelles Defizit,Hessen,code06,-0.123
+2016,Prozent,Strukturelles Defizit,Hessen,code06,0.323
+2017,Prozent,Strukturelles Defizit,Hessen,code06,0.553
+2018,Prozent,Strukturelles Defizit,Hessen,code06,0.555
+2019,Prozent,Strukturelles Defizit,Hessen,code06,0.62
+2020,Prozent,Strukturelles Defizit,Hessen,code06,-0.984
+2021,Prozent,Strukturelles Defizit,Hessen,code06,0.392
+2022,Prozent,Strukturelles Defizit,Hessen,code06,0.628
+2010,Prozent,Strukturelles Defizit,Mecklenburg-Vorpommern,code13,-0.395
+2011,Prozent,Strukturelles Defizit,Mecklenburg-Vorpommern,code13,0.466
+2012,Prozent,Strukturelles Defizit,Mecklenburg-Vorpommern,code13,-0.316
+2013,Prozent,Strukturelles Defizit,Mecklenburg-Vorpommern,code13,1.136
+2014,Prozent,Strukturelles Defizit,Mecklenburg-Vorpommern,code13,1.035
+2015,Prozent,Strukturelles Defizit,Mecklenburg-Vorpommern,code13,1.818
+2016,Prozent,Strukturelles Defizit,Mecklenburg-Vorpommern,code13,2.44
+2017,Prozent,Strukturelles Defizit,Mecklenburg-Vorpommern,code13,2.486
+2018,Prozent,Strukturelles Defizit,Mecklenburg-Vorpommern,code13,1.858
+2019,Prozent,Strukturelles Defizit,Mecklenburg-Vorpommern,code13,0.433
+2020,Prozent,Strukturelles Defizit,Mecklenburg-Vorpommern,code13,-0.195
+2021,Prozent,Strukturelles Defizit,Mecklenburg-Vorpommern,code13,0.449
+2022,Prozent,Strukturelles Defizit,Mecklenburg-Vorpommern,code13,1.263
+2010,Prozent,Strukturelles Defizit,Niedersachsen,code03,-1.097
+2011,Prozent,Strukturelles Defizit,Niedersachsen,code03,-1.005
+2012,Prozent,Strukturelles Defizit,Niedersachsen,code03,-0.061
+2013,Prozent,Strukturelles Defizit,Niedersachsen,code03,0.157
+2014,Prozent,Strukturelles Defizit,Niedersachsen,code03,-0.011
+2015,Prozent,Strukturelles Defizit,Niedersachsen,code03,0.415
+2016,Prozent,Strukturelles Defizit,Niedersachsen,code03,0.784
+2017,Prozent,Strukturelles Defizit,Niedersachsen,code03,0.745
+2018,Prozent,Strukturelles Defizit,Niedersachsen,code03,1.274
+2019,Prozent,Strukturelles Defizit,Niedersachsen,code03,1.088
+2020,Prozent,Strukturelles Defizit,Niedersachsen,code03,-0.465
+2021,Prozent,Strukturelles Defizit,Niedersachsen,code03,0.268
+2022,Prozent,Strukturelles Defizit,Niedersachsen,code03,0.431
+2010,Prozent,Strukturelles Defizit,Nordrhein-Westfalen,code05,-1.592
+2011,Prozent,Strukturelles Defizit,Nordrhein-Westfalen,code05,-0.98
+2012,Prozent,Strukturelles Defizit,Nordrhein-Westfalen,code05,-0.696
+2013,Prozent,Strukturelles Defizit,Nordrhein-Westfalen,code05,-0.392
+2014,Prozent,Strukturelles Defizit,Nordrhein-Westfalen,code05,-0.49
+2015,Prozent,Strukturelles Defizit,Nordrhein-Westfalen,code05,-0.249
+2016,Prozent,Strukturelles Defizit,Nordrhein-Westfalen,code05,0.178
+2017,Prozent,Strukturelles Defizit,Nordrhein-Westfalen,code05,0.4
+2018,Prozent,Strukturelles Defizit,Nordrhein-Westfalen,code05,0.728
+2019,Prozent,Strukturelles Defizit,Nordrhein-Westfalen,code05,0.949
+2020,Prozent,Strukturelles Defizit,Nordrhein-Westfalen,code05,-1.036
+2021,Prozent,Strukturelles Defizit,Nordrhein-Westfalen,code05,0.077
+2022,Prozent,Strukturelles Defizit,Nordrhein-Westfalen,code05,-0.585
+2010,Prozent,Strukturelles Defizit,Rheinland-Pfalz,code07,-2.326
+2011,Prozent,Strukturelles Defizit,Rheinland-Pfalz,code07,-1.978
+2012,Prozent,Strukturelles Defizit,Rheinland-Pfalz,code07,-1.033
+2013,Prozent,Strukturelles Defizit,Rheinland-Pfalz,code07,-0.717
+2014,Prozent,Strukturelles Defizit,Rheinland-Pfalz,code07,-0.755
+2015,Prozent,Strukturelles Defizit,Rheinland-Pfalz,code07,-0.348
+2016,Prozent,Strukturelles Defizit,Rheinland-Pfalz,code07,0.318
+2017,Prozent,Strukturelles Defizit,Rheinland-Pfalz,code07,1.082
+2018,Prozent,Strukturelles Defizit,Rheinland-Pfalz,code07,1.016
+2019,Prozent,Strukturelles Defizit,Rheinland-Pfalz,code07,1.06
+2020,Prozent,Strukturelles Defizit,Rheinland-Pfalz,code07,-0.358
+2021,Prozent,Strukturelles Defizit,Rheinland-Pfalz,code07,1.79
+2022,Prozent,Strukturelles Defizit,Rheinland-Pfalz,code07,1.165
+2010,Prozent,Strukturelles Defizit,Saarland,code10,-3.954
+2011,Prozent,Strukturelles Defizit,Saarland,code10,-3.21
+2012,Prozent,Strukturelles Defizit,Saarland,code10,-3.24
+2013,Prozent,Strukturelles Defizit,Saarland,code10,-2.455
+2014,Prozent,Strukturelles Defizit,Saarland,code10,-2.24
+2015,Prozent,Strukturelles Defizit,Saarland,code10,-1.289
+2016,Prozent,Strukturelles Defizit,Saarland,code10,-0.996
+2017,Prozent,Strukturelles Defizit,Saarland,code10,0.131
+2018,Prozent,Strukturelles Defizit,Saarland,code10,0.826
+2019,Prozent,Strukturelles Defizit,Saarland,code10,0.67
+2020,Prozent,Strukturelles Defizit,Saarland,code10,-0.113
+2021,Prozent,Strukturelles Defizit,Saarland,code10,-0.221
+2022,Prozent,Strukturelles Defizit,Saarland,code10,-8.193
+2010,Prozent,Strukturelles Defizit,Sachsen,code14,0.036
+2011,Prozent,Strukturelles Defizit,Sachsen,code14,1.943
+2012,Prozent,Strukturelles Defizit,Sachsen,code14,1.63
+2013,Prozent,Strukturelles Defizit,Sachsen,code14,1.114
+2014,Prozent,Strukturelles Defizit,Sachsen,code14,1.158
+2015,Prozent,Strukturelles Defizit,Sachsen,code14,0.987
+2016,Prozent,Strukturelles Defizit,Sachsen,code14,1.157
+2017,Prozent,Strukturelles Defizit,Sachsen,code14,0.902
+2018,Prozent,Strukturelles Defizit,Sachsen,code14,2.205
+2019,Prozent,Strukturelles Defizit,Sachsen,code14,0.638
+2020,Prozent,Strukturelles Defizit,Sachsen,code14,-2.271
+2021,Prozent,Strukturelles Defizit,Sachsen,code14,0.112
+2022,Prozent,Strukturelles Defizit,Sachsen,code14,0.969
+2010,Prozent,Strukturelles Defizit,Sachsen-Anhalt,code15,-1.291
+2011,Prozent,Strukturelles Defizit,Sachsen-Anhalt,code15,-0.031
+2012,Prozent,Strukturelles Defizit,Sachsen-Anhalt,code15,0.344
+2013,Prozent,Strukturelles Defizit,Sachsen-Anhalt,code15,0.678
+2014,Prozent,Strukturelles Defizit,Sachsen-Anhalt,code15,0.245
+2015,Prozent,Strukturelles Defizit,Sachsen-Anhalt,code15,1.579
+2016,Prozent,Strukturelles Defizit,Sachsen-Anhalt,code15,1.838
+2017,Prozent,Strukturelles Defizit,Sachsen-Anhalt,code15,1.173
+2018,Prozent,Strukturelles Defizit,Sachsen-Anhalt,code15,1.294
+2019,Prozent,Strukturelles Defizit,Sachsen-Anhalt,code15,0.805
+2020,Prozent,Strukturelles Defizit,Sachsen-Anhalt,code15,-1.008
+2021,Prozent,Strukturelles Defizit,Sachsen-Anhalt,code15,0.359
+2022,Prozent,Strukturelles Defizit,Sachsen-Anhalt,code15,0.517
+2010,Prozent,Strukturelles Defizit,Schleswig-Holstein,code01,-2.265
+2011,Prozent,Strukturelles Defizit,Schleswig-Holstein,code01,-1.04
+2012,Prozent,Strukturelles Defizit,Schleswig-Holstein,code01,-0.39
+2013,Prozent,Strukturelles Defizit,Schleswig-Holstein,code01,-0.014
+2014,Prozent,Strukturelles Defizit,Schleswig-Holstein,code01,-0.346
+2015,Prozent,Strukturelles Defizit,Schleswig-Holstein,code01,0.275
+2016,Prozent,Strukturelles Defizit,Schleswig-Holstein,code01,-0.487
+2017,Prozent,Strukturelles Defizit,Schleswig-Holstein,code01,0.449
+2018,Prozent,Strukturelles Defizit,Schleswig-Holstein,code01,-1.724
+2019,Prozent,Strukturelles Defizit,Schleswig-Holstein,code01,0.079
+2020,Prozent,Strukturelles Defizit,Schleswig-Holstein,code01,-0.208
+2021,Prozent,Strukturelles Defizit,Schleswig-Holstein,code01,0.206
+2022,Prozent,Strukturelles Defizit,Schleswig-Holstein,code01,0.234
+2010,Prozent,Strukturelles Defizit,Thüringen,code16,-1.273
+2011,Prozent,Strukturelles Defizit,Thüringen,code16,-0.388
+2012,Prozent,Strukturelles Defizit,Thüringen,code16,0.658
+2013,Prozent,Strukturelles Defizit,Thüringen,code16,0.943
+2014,Prozent,Strukturelles Defizit,Thüringen,code16,0.749
+2015,Prozent,Strukturelles Defizit,Thüringen,code16,0.893
+2016,Prozent,Strukturelles Defizit,Thüringen,code16,1.476
+2017,Prozent,Strukturelles Defizit,Thüringen,code16,2.136
+2018,Prozent,Strukturelles Defizit,Thüringen,code16,1.776
+2019,Prozent,Strukturelles Defizit,Thüringen,code16,1.309
+2020,Prozent,Strukturelles Defizit,Thüringen,code16,-0.413
+2021,Prozent,Strukturelles Defizit,Thüringen,code16,0.128
+2022,Prozent,Strukturelles Defizit,Thüringen,code16,1.893

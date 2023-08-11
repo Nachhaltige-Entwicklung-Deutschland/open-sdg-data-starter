@@ -28,7 +28,7 @@ Year,Units,Criminal offences,Federal state,GeoCode,Value
 2019,"Per 100,000 inhabitants",,,,6548.365
 2020,"Per 100,000 inhabitants",,,,6385.513
 2021,"Per 100,000 inhabitants",,,,6070.42
-2022,"Per 100,000 inhabitants",,,,6762.108
+2022,"Per 100,000 inhabitants",,,,6762.102
 2030,"Per 100,000 inhabitants",,,,
 1993,"Per 100,000 inhabitants",,Baden-Wuerttemberg,code08,6123.163
 1994,"Per 100,000 inhabitants",,Baden-Wuerttemberg,code08,5729.469
@@ -59,6 +59,7 @@ Year,Units,Criminal offences,Federal state,GeoCode,Value
 2019,"Per 100,000 inhabitants",,Baden-Wuerttemberg,code08,5183.715
 2020,"Per 100,000 inhabitants",,Baden-Wuerttemberg,code08,4851.774
 2021,"Per 100,000 inhabitants",,Baden-Wuerttemberg,code08,4380.16
+2022,"Per 100,000 inhabitants",,Baden-Wuerttemberg,code08,4944.051
 1993,"Per 100,000 inhabitants",,Bavaria,code09,5698.936
 1994,"Per 100,000 inhabitants",,Bavaria,code09,5755.526
 1995,"Per 100,000 inhabitants",,Bavaria,code09,5659.312
@@ -88,6 +89,7 @@ Year,Units,Criminal offences,Federal state,GeoCode,Value
 2019,"Per 100,000 inhabitants",,Bavaria,code09,4614.796
 2020,"Per 100,000 inhabitants",,Bavaria,code09,4527.656
 2021,"Per 100,000 inhabitants",,Bavaria,code09,4137.538
+2022,"Per 100,000 inhabitants",,Bavaria,code09,4698.258
 1993,"Per 100,000 inhabitants",,Berlin,code11,16398.424
 1994,"Per 100,000 inhabitants",,Berlin,code11,15960.884
 1995,"Per 100,000 inhabitants",,Berlin,code11,16889.159
@@ -117,6 +119,7 @@ Year,Units,Criminal offences,Federal state,GeoCode,Value
 2019,"Per 100,000 inhabitants",,Berlin,code11,14086.434
 2020,"Per 100,000 inhabitants",,Berlin,code11,13738.745
 2021,"Per 100,000 inhabitants",,Berlin,code11,13158.172
+2022,"Per 100,000 inhabitants",,Berlin,code11,14135.308
 1993,"Per 100,000 inhabitants",,Brandenburg,code12,12918.761
 1994,"Per 100,000 inhabitants",,Brandenburg,code12,12974.273
 1995,"Per 100,000 inhabitants",,Brandenburg,code12,12097.324
@@ -146,6 +149,7 @@ Year,Units,Criminal offences,Federal state,GeoCode,Value
 2019,"Per 100,000 inhabitants",,Brandenburg,code12,6840.513
 2020,"Per 100,000 inhabitants",,Brandenburg,code12,6461.059
 2021,"Per 100,000 inhabitants",,Brandenburg,code12,6280.503
+2022,"Per 100,000 inhabitants",,Brandenburg,code12,6706.574
 1993,"Per 100,000 inhabitants",,Bremen,code04,16134.251
 1994,"Per 100,000 inhabitants",,Bremen,code04,14849.41
 1995,"Per 100,000 inhabitants",,Bremen,code04,14854.991
@@ -175,6 +179,7 @@ Year,Units,Criminal offences,Federal state,GeoCode,Value
 2019,"Per 100,000 inhabitants",,Bremen,code04,11453.822
 2020,"Per 100,000 inhabitants",,Bremen,code04,11871.515
 2021,"Per 100,000 inhabitants",,Bremen,code04,11169.335
+2022,"Per 100,000 inhabitants",,Bremen,code04,11783.793
 1993,"Per 100,000 inhabitants",,Hamburg,code02,16919.817
 1994,"Per 100,000 inhabitants",,Hamburg,code02,15401.776
 1995,"Per 100,000 inhabitants",,Hamburg,code02,16734.975
@@ -204,6 +209,7 @@ Year,Units,Criminal offences,Federal state,GeoCode,Value
 2019,"Per 100,000 inhabitants",,Hamburg,code02,11450.924
 2020,"Per 100,000 inhabitants",,Hamburg,code02,11017.765
 2021,"Per 100,000 inhabitants",,Hamburg,code02,10062.36
+2022,"Per 100,000 inhabitants",,Hamburg,code02,11394.089
 1993,"Per 100,000 inhabitants",,Hesse,code06,8362.552
 1994,"Per 100,000 inhabitants",,Hesse,code06,7940.082
 1995,"Per 100,000 inhabitants",,Hesse,code06,7776.079
@@ -233,6 +239,7 @@ Year,Units,Criminal offences,Federal state,GeoCode,Value
 2019,"Per 100,000 inhabitants",,Hesse,code06,5822.6
 2020,"Per 100,000 inhabitants",,Hesse,code06,5445.589
 2021,"Per 100,000 inhabitants",,Hesse,code06,5339.612
+2022,"Per 100,000 inhabitants",,Hesse,code06,5855.091
 1993,"Per 100,000 inhabitants",,Mecklenburg Western Pomerania,code13,13811.726
 1994,"Per 100,000 inhabitants",,Mecklenburg Western Pomerania,code13,11897.681
 1995,"Per 100,000 inhabitants",,Mecklenburg Western Pomerania,code13,12060.317
@@ -262,6 +269,7 @@ Year,Units,Criminal offences,Federal state,GeoCode,Value
 2019,"Per 100,000 inhabitants",,Mecklenburg Western Pomerania,code13,6916.241
 2020,"Per 100,000 inhabitants",,Mecklenburg Western Pomerania,code13,6587.246
 2021,"Per 100,000 inhabitants",,Mecklenburg Western Pomerania,code13,6484.584
+2022,"Per 100,000 inhabitants",,Mecklenburg Western Pomerania,code13,6613.806
 1993,"Per 100,000 inhabitants",,Lower Saxony,code03,8597.417
 1994,"Per 100,000 inhabitants",,Lower Saxony,code03,7710.205
 1995,"Per 100,000 inhabitants",,Lower Saxony,code03,7787.852
@@ -291,6 +299,7 @@ Year,Units,Criminal offences,Federal state,GeoCode,Value
 2019,"Per 100,000 inhabitants",,Lower Saxony,code03,6346.199
 2020,"Per 100,000 inhabitants",,Lower Saxony,code03,6219.444
 2021,"Per 100,000 inhabitants",,Lower Saxony,code03,5898.678
+2022,"Per 100,000 inhabitants",,Lower Saxony,code03,6527.893
 1993,"Per 100,000 inhabitants",,North Rhine-Westphalia,code05,7806.263
 1994,"Per 100,000 inhabitants",,North Rhine-Westphalia,code05,7517.726
 1995,"Per 100,000 inhabitants",,North Rhine-Westphalia,code05,7680.641
@@ -320,6 +329,7 @@ Year,Units,Criminal offences,Federal state,GeoCode,Value
 2019,"Per 100,000 inhabitants",,North Rhine-Westphalia,code05,6847.448
 2020,"Per 100,000 inhabitants",,North Rhine-Westphalia,code05,6774.102
 2021,"Per 100,000 inhabitants",,North Rhine-Westphalia,code05,6702.56
+2022,"Per 100,000 inhabitants",,North Rhine-Westphalia,code05,7624.168
 1993,"Per 100,000 inhabitants",,Rhineland Palatinate,code07,6087.154
 1994,"Per 100,000 inhabitants",,Rhineland Palatinate,code07,6241.908
 1995,"Per 100,000 inhabitants",,Rhineland Palatinate,code07,6331.018
@@ -349,6 +359,7 @@ Year,Units,Criminal offences,Federal state,GeoCode,Value
 2019,"Per 100,000 inhabitants",,Rhineland Palatinate,code07,5912.808
 2020,"Per 100,000 inhabitants",,Rhineland Palatinate,code07,5625.536
 2021,"Per 100,000 inhabitants",,Rhineland Palatinate,code07,5302.203
+2022,"Per 100,000 inhabitants",,Rhineland Palatinate,code07,5887.736
 1993,"Per 100,000 inhabitants",,Saarland,code10,6278.272
 1994,"Per 100,000 inhabitants",,Saarland,code10,5852.276
 1995,"Per 100,000 inhabitants",,Saarland,code10,5983.061
@@ -378,6 +389,7 @@ Year,Units,Criminal offences,Federal state,GeoCode,Value
 2019,"Per 100,000 inhabitants",,Saarland,code10,7543.495
 2020,"Per 100,000 inhabitants",,Saarland,code10,6930.885
 2021,"Per 100,000 inhabitants",,Saarland,code10,5960.522
+2022,"Per 100,000 inhabitants",,Saarland,code10,6936.34
 1993,"Per 100,000 inhabitants",,Saxony,code14,7652.857
 1994,"Per 100,000 inhabitants",,Saxony,code14,8402.371
 1995,"Per 100,000 inhabitants",,Saxony,code14,8831.66
@@ -407,6 +419,7 @@ Year,Units,Criminal offences,Federal state,GeoCode,Value
 2019,"Per 100,000 inhabitants",,Saxony,code14,6665.037
 2020,"Per 100,000 inhabitants",,Saxony,code14,6694.252
 2021,"Per 100,000 inhabitants",,Saxony,code14,6078.841
+2022,"Per 100,000 inhabitants",,Saxony,code14,6611.721
 1993,"Per 100,000 inhabitants",,Saxony-Anhalt,code15,10814.783
 1994,"Per 100,000 inhabitants",,Saxony-Anhalt,code15,10867.948
 1995,"Per 100,000 inhabitants",,Saxony-Anhalt,code15,11616.502
@@ -436,6 +449,7 @@ Year,Units,Criminal offences,Federal state,GeoCode,Value
 2019,"Per 100,000 inhabitants",,Saxony-Anhalt,code15,7849.719
 2020,"Per 100,000 inhabitants",,Saxony-Anhalt,code15,8105.771
 2021,"Per 100,000 inhabitants",,Saxony-Anhalt,code15,7816.997
+2022,"Per 100,000 inhabitants",,Saxony-Anhalt,code15,8226.334
 1993,"Per 100,000 inhabitants",,Schleswig-Holstein,code01,10172.416
 1994,"Per 100,000 inhabitants",,Schleswig-Holstein,code01,9732.496
 1995,"Per 100,000 inhabitants",,Schleswig-Holstein,code01,10232.419
@@ -465,6 +479,7 @@ Year,Units,Criminal offences,Federal state,GeoCode,Value
 2019,"Per 100,000 inhabitants",,Schleswig-Holstein,code01,6332.87
 2020,"Per 100,000 inhabitants",,Schleswig-Holstein,code01,5989.759
 2021,"Per 100,000 inhabitants",,Schleswig-Holstein,code01,6076.97
+2022,"Per 100,000 inhabitants",,Schleswig-Holstein,code01,7569.563
 1993,"Per 100,000 inhabitants",,Thuringia,code16,6331.544
 1994,"Per 100,000 inhabitants",,Thuringia,code16,6501.611
 1995,"Per 100,000 inhabitants",,Thuringia,code16,7448.463
@@ -494,6 +509,7 @@ Year,Units,Criminal offences,Federal state,GeoCode,Value
 2019,"Per 100,000 inhabitants",,Thuringia,code16,6033.236
 2020,"Per 100,000 inhabitants",,Thuringia,code16,6652.97
 2021,"Per 100,000 inhabitants",,Thuringia,code16,6150.775
+2022,"Per 100,000 inhabitants",,Thuringia,code16,6444.752
 1993,"Per 100,000 inhabitants",Dangerous and serious bodily injury,,,108.635
 1994,"Per 100,000 inhabitants",Dangerous and serious bodily injury,,,108.571
 1995,"Per 100,000 inhabitants",Dangerous and serious bodily injury,,,117.918
@@ -614,3 +630,835 @@ Year,Units,Criminal offences,Federal state,GeoCode,Value
 2020,"Per 100,000 inhabitants",Other offences,,,5166.816
 2021,"Per 100,000 inhabitants",Other offences,,,4903.685
 2022,"Per 100,000 inhabitants",Other offences,,,5546.324
+2010,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Baden-Wuerttemberg,code08,140.436
+2011,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Baden-Wuerttemberg,code08,136.651
+2012,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Baden-Wuerttemberg,code08,130.95
+2013,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Baden-Wuerttemberg,code08,120.7
+2014,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Baden-Wuerttemberg,code08,121.6
+2015,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Baden-Wuerttemberg,code08,126.961
+2016,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Baden-Wuerttemberg,code08,135.244
+2017,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Baden-Wuerttemberg,code08,132.762
+2018,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Baden-Wuerttemberg,code08,129.941
+2019,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Baden-Wuerttemberg,code08,119.273
+2020,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Baden-Wuerttemberg,code08,118.735
+2021,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Baden-Wuerttemberg,code08,101.288
+2022,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Baden-Wuerttemberg,code08,127.501
+2010,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bavaria,code09,131.983
+2011,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bavaria,code09,132.928
+2012,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bavaria,code09,130.744
+2013,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bavaria,code09,128.3
+2014,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bavaria,code09,122.8
+2015,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bavaria,code09,121.758
+2016,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bavaria,code09,134.566
+2017,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bavaria,code09,127.997
+2018,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bavaria,code09,128.743
+2019,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bavaria,code09,124.16
+2020,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bavaria,code09,118.136
+2021,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bavaria,code09,102.274
+2022,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bavaria,code09,123.344
+2010,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Berlin,code11,336.171
+2011,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Berlin,code11,321.717
+2012,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Berlin,code11,334.576
+2013,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Berlin,code11,306.4
+2014,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Berlin,code11,290.7
+2015,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Berlin,code11,289.033
+2016,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Berlin,code11,297.043
+2017,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Berlin,code11,300.462
+2018,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Berlin,code11,299.239
+2019,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Berlin,code11,298.889
+2020,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Berlin,code11,297.998
+2021,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Berlin,code11,283.563
+2022,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Berlin,code11,321.797
+2010,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Brandenburg,code12,144.577
+2011,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Brandenburg,code12,127.375
+2012,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Brandenburg,code12,130.565
+2013,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Brandenburg,code12,121.0
+2014,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Brandenburg,code12,118.7
+2015,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Brandenburg,code12,113.879
+2016,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Brandenburg,code12,139.97
+2017,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Brandenburg,code12,151.805
+2018,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Brandenburg,code12,146.563
+2019,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Brandenburg,code12,145.068
+2020,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Brandenburg,code12,138.547
+2021,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Brandenburg,code12,123.979
+2022,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Brandenburg,code12,133.143
+2010,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bremen,code04,305.227
+2011,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bremen,code04,308.534
+2012,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bremen,code04,320.616
+2013,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bremen,code04,284.5
+2014,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bremen,code04,286.6
+2015,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bremen,code04,292.648
+2016,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bremen,code04,326.588
+2017,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bremen,code04,289.649
+2018,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bremen,code04,264.745
+2019,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bremen,code04,263.402
+2020,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bremen,code04,251.614
+2021,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bremen,code04,305.677
+2022,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Bremen,code04,274.664
+2010,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hamburg,code02,334.862
+2011,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hamburg,code02,346.954
+2012,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hamburg,code02,323.539
+2013,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hamburg,code02,311.7
+2014,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hamburg,code02,330.9
+2015,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hamburg,code02,331.69
+2016,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hamburg,code02,330.199
+2017,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hamburg,code02,297.166
+2018,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hamburg,code02,295.261
+2019,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hamburg,code02,276.833
+2020,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hamburg,code02,270.077
+2021,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hamburg,code02,272.878
+2022,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hamburg,code02,299.633
+2010,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hesse,code06,166.222
+2011,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hesse,code06,156.062
+2012,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hesse,code06,152.041
+2013,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hesse,code06,142.6
+2014,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hesse,code06,142.5
+2015,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hesse,code06,140.797
+2016,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hesse,code06,150.627
+2017,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hesse,code06,154.802
+2018,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hesse,code06,150.883
+2019,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hesse,code06,147.531
+2020,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hesse,code06,153.099
+2021,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hesse,code06,144.681
+2022,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Hesse,code06,168.975
+2010,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Mecklenburg Western Pomerania,code13,175.995
+2011,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Mecklenburg Western Pomerania,code13,179.404
+2012,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Mecklenburg Western Pomerania,code13,169.581
+2013,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Mecklenburg Western Pomerania,code13,154.3
+2014,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Mecklenburg Western Pomerania,code13,139.7
+2015,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Mecklenburg Western Pomerania,code13,145.829
+2016,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Mecklenburg Western Pomerania,code13,154.866
+2017,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Mecklenburg Western Pomerania,code13,153.414
+2018,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Mecklenburg Western Pomerania,code13,160.199
+2019,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Mecklenburg Western Pomerania,code13,168.854
+2020,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Mecklenburg Western Pomerania,code13,147.562
+2021,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Mecklenburg Western Pomerania,code13,160.668
+2022,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Mecklenburg Western Pomerania,code13,176.333
+2010,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Lower Saxony,code03,192.096
+2011,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Lower Saxony,code03,189.823
+2012,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Lower Saxony,code03,184.455
+2013,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Lower Saxony,code03,171.5
+2014,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Lower Saxony,code03,159.5
+2015,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Lower Saxony,code03,162.251
+2016,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Lower Saxony,code03,178.538
+2017,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Lower Saxony,code03,167.525
+2018,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Lower Saxony,code03,165.583
+2019,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Lower Saxony,code03,165.726
+2020,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Lower Saxony,code03,152.697
+2021,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Lower Saxony,code03,140.315
+2022,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Lower Saxony,code03,172.554
+2010,"Per 100,000 inhabitants",Dangerous and serious bodily injury,North Rhine-Westphalia,code05,194.819
+2011,"Per 100,000 inhabitants",Dangerous and serious bodily injury,North Rhine-Westphalia,code05,190.098
+2012,"Per 100,000 inhabitants",Dangerous and serious bodily injury,North Rhine-Westphalia,code05,182.269
+2013,"Per 100,000 inhabitants",Dangerous and serious bodily injury,North Rhine-Westphalia,code05,171.3
+2014,"Per 100,000 inhabitants",Dangerous and serious bodily injury,North Rhine-Westphalia,code05,171.5
+2015,"Per 100,000 inhabitants",Dangerous and serious bodily injury,North Rhine-Westphalia,code05,173.04
+2016,"Per 100,000 inhabitants",Dangerous and serious bodily injury,North Rhine-Westphalia,code05,186.555
+2017,"Per 100,000 inhabitants",Dangerous and serious bodily injury,North Rhine-Westphalia,code05,180.295
+2018,"Per 100,000 inhabitants",Dangerous and serious bodily injury,North Rhine-Westphalia,code05,179.856
+2019,"Per 100,000 inhabitants",Dangerous and serious bodily injury,North Rhine-Westphalia,code05,174.826
+2020,"Per 100,000 inhabitants",Dangerous and serious bodily injury,North Rhine-Westphalia,code05,172.801
+2021,"Per 100,000 inhabitants",Dangerous and serious bodily injury,North Rhine-Westphalia,code05,172.781
+2022,"Per 100,000 inhabitants",Dangerous and serious bodily injury,North Rhine-Westphalia,code05,208.005
+2010,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Rhineland Palatinate,code07,190.73
+2011,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Rhineland Palatinate,code07,186.546
+2012,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Rhineland Palatinate,code07,182.78
+2013,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Rhineland Palatinate,code07,173.1
+2014,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Rhineland Palatinate,code07,157.8
+2015,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Rhineland Palatinate,code07,155.101
+2016,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Rhineland Palatinate,code07,160.383
+2017,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Rhineland Palatinate,code07,164.828
+2018,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Rhineland Palatinate,code07,163.734
+2019,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Rhineland Palatinate,code07,165.514
+2020,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Rhineland Palatinate,code07,152.788
+2021,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Rhineland Palatinate,code07,135.199
+2022,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Rhineland Palatinate,code07,165.689
+2010,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saarland,code10,220.905
+2011,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saarland,code10,206.312
+2012,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saarland,code10,203.336
+2013,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saarland,code10,179.5
+2014,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saarland,code10,179.5
+2015,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saarland,code10,203.431
+2016,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saarland,code10,209.623
+2017,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saarland,code10,210.003
+2018,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saarland,code10,192.217
+2019,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saarland,code10,197.979
+2020,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saarland,code10,187.559
+2021,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saarland,code10,159.046
+2022,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saarland,code10,197.69
+2010,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony,code14,115.541
+2011,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony,code14,114.38
+2012,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony,code14,116.694
+2013,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony,code14,108.4
+2014,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony,code14,116.5
+2015,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony,code14,124.652
+2016,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony,code14,146.762
+2017,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony,code14,142.683
+2018,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony,code14,142.503
+2019,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony,code14,139.58
+2020,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony,code14,141.332
+2021,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony,code14,130.566
+2022,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony,code14,148.355
+2010,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony-Anhalt,code15,184.761
+2011,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony-Anhalt,code15,179.247
+2012,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony-Anhalt,code15,174.504
+2013,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony-Anhalt,code15,158.9
+2014,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony-Anhalt,code15,160.7
+2015,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony-Anhalt,code15,163.137
+2016,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony-Anhalt,code15,185.485
+2017,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony-Anhalt,code15,183.387
+2018,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony-Anhalt,code15,191.986
+2019,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony-Anhalt,code15,178.959
+2020,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony-Anhalt,code15,194.325
+2021,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony-Anhalt,code15,184.896
+2022,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Saxony-Anhalt,code15,214.913
+2010,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Schleswig-Holstein,code01,195.294
+2011,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Schleswig-Holstein,code01,182.277
+2012,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Schleswig-Holstein,code01,170.219
+2013,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Schleswig-Holstein,code01,149.9
+2014,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Schleswig-Holstein,code01,145.1
+2015,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Schleswig-Holstein,code01,137.52
+2016,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Schleswig-Holstein,code01,153.985
+2017,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Schleswig-Holstein,code01,146.569
+2018,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Schleswig-Holstein,code01,152.605
+2019,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Schleswig-Holstein,code01,148.651
+2020,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Schleswig-Holstein,code01,140.128
+2021,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Schleswig-Holstein,code01,128.106
+2022,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Schleswig-Holstein,code01,147.399
+2010,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Thuringia,code16,147.412
+2011,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Thuringia,code16,135.651
+2012,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Thuringia,code16,142.464
+2013,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Thuringia,code16,144.9
+2014,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Thuringia,code16,136.0
+2015,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Thuringia,code16,128.109
+2016,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Thuringia,code16,164.784
+2017,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Thuringia,code16,161.9
+2018,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Thuringia,code16,162.792
+2019,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Thuringia,code16,139.841
+2020,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Thuringia,code16,151.028
+2021,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Thuringia,code16,138.428
+2022,"Per 100,000 inhabitants",Dangerous and serious bodily injury,Thuringia,code16,155.25
+2010,"Per 100,000 inhabitants",Fraud,Baden-Wuerttemberg,code08,996.529
+2011,"Per 100,000 inhabitants",Fraud,Baden-Wuerttemberg,code08,943.455
+2012,"Per 100,000 inhabitants",Fraud,Baden-Wuerttemberg,code08,908.267
+2013,"Per 100,000 inhabitants",Fraud,Baden-Wuerttemberg,code08,914.7
+2014,"Per 100,000 inhabitants",Fraud,Baden-Wuerttemberg,code08,948.7
+2015,"Per 100,000 inhabitants",Fraud,Baden-Wuerttemberg,code08,953.022
+2016,"Per 100,000 inhabitants",Fraud,Baden-Wuerttemberg,code08,820.056
+2017,"Per 100,000 inhabitants",Fraud,Baden-Wuerttemberg,code08,812.554
+2018,"Per 100,000 inhabitants",Fraud,Baden-Wuerttemberg,code08,840.41
+2019,"Per 100,000 inhabitants",Fraud,Baden-Wuerttemberg,code08,953.979
+2020,"Per 100,000 inhabitants",Fraud,Baden-Wuerttemberg,code08,822.89
+2021,"Per 100,000 inhabitants",Fraud,Baden-Wuerttemberg,code08,742.517
+2022,"Per 100,000 inhabitants",Fraud,Baden-Wuerttemberg,code08,673.019
+2010,"Per 100,000 inhabitants",Fraud,Bavaria,code09,719.686
+2011,"Per 100,000 inhabitants",Fraud,Bavaria,code09,699.04
+2012,"Per 100,000 inhabitants",Fraud,Bavaria,code09,683.569
+2013,"Per 100,000 inhabitants",Fraud,Bavaria,code09,708.7
+2014,"Per 100,000 inhabitants",Fraud,Bavaria,code09,714.6
+2015,"Per 100,000 inhabitants",Fraud,Bavaria,code09,763.846
+2016,"Per 100,000 inhabitants",Fraud,Bavaria,code09,726.81
+2017,"Per 100,000 inhabitants",Fraud,Bavaria,code09,693.479
+2018,"Per 100,000 inhabitants",Fraud,Bavaria,code09,714.407
+2019,"Per 100,000 inhabitants",Fraud,Bavaria,code09,656.319
+2020,"Per 100,000 inhabitants",Fraud,Bavaria,code09,662.329
+2021,"Per 100,000 inhabitants",Fraud,Bavaria,code09,611.148
+2022,"Per 100,000 inhabitants",Fraud,Bavaria,code09,611.225
+2010,"Per 100,000 inhabitants",Fraud,Berlin,code11,2466.773
+2011,"Per 100,000 inhabitants",Fraud,Berlin,code11,2512.669
+2012,"Per 100,000 inhabitants",Fraud,Berlin,code11,2421.646
+2013,"Per 100,000 inhabitants",Fraud,Berlin,code11,2361.7
+2014,"Per 100,000 inhabitants",Fraud,Berlin,code11,3096.7
+2015,"Per 100,000 inhabitants",Fraud,Berlin,code11,3050.133
+2016,"Per 100,000 inhabitants",Fraud,Berlin,code11,2564.012
+2017,"Per 100,000 inhabitants",Fraud,Berlin,code11,2585.605
+2018,"Per 100,000 inhabitants",Fraud,Berlin,code11,2352.376
+2019,"Per 100,000 inhabitants",Fraud,Berlin,code11,2400.499
+2020,"Per 100,000 inhabitants",Fraud,Berlin,code11,2237.477
+2021,"Per 100,000 inhabitants",Fraud,Berlin,code11,2397.868
+2022,"Per 100,000 inhabitants",Fraud,Berlin,code11,2086.46
+2010,"Per 100,000 inhabitants",Fraud,Brandenburg,code12,1143.626
+2011,"Per 100,000 inhabitants",Fraud,Brandenburg,code12,1061.944
+2012,"Per 100,000 inhabitants",Fraud,Brandenburg,code12,1111.333
+2013,"Per 100,000 inhabitants",Fraud,Brandenburg,code12,1009.2
+2014,"Per 100,000 inhabitants",Fraud,Brandenburg,code12,979.8
+2015,"Per 100,000 inhabitants",Fraud,Brandenburg,code12,899.07
+2016,"Per 100,000 inhabitants",Fraud,Brandenburg,code12,802.269
+2017,"Per 100,000 inhabitants",Fraud,Brandenburg,code12,805.565
+2018,"Per 100,000 inhabitants",Fraud,Brandenburg,code12,771.992
+2019,"Per 100,000 inhabitants",Fraud,Brandenburg,code12,705.358
+2020,"Per 100,000 inhabitants",Fraud,Brandenburg,code12,628.1
+2021,"Per 100,000 inhabitants",Fraud,Brandenburg,code12,639.69
+2022,"Per 100,000 inhabitants",Fraud,Brandenburg,code12,624.855
+2010,"Per 100,000 inhabitants",Fraud,Bremen,code04,2115.606
+2011,"Per 100,000 inhabitants",Fraud,Bremen,code04,2100.644
+2012,"Per 100,000 inhabitants",Fraud,Bremen,code04,2096.654
+2013,"Per 100,000 inhabitants",Fraud,Bremen,code04,2064.1
+2014,"Per 100,000 inhabitants",Fraud,Bremen,code04,2061.3
+2015,"Per 100,000 inhabitants",Fraud,Bremen,code04,2284.828
+2016,"Per 100,000 inhabitants",Fraud,Bremen,code04,2213.29
+2017,"Per 100,000 inhabitants",Fraud,Bremen,code04,1838.077
+2018,"Per 100,000 inhabitants",Fraud,Bremen,code04,1946.898
+2019,"Per 100,000 inhabitants",Fraud,Bremen,code04,1865.338
+2020,"Per 100,000 inhabitants",Fraud,Bremen,code04,2104.515
+2021,"Per 100,000 inhabitants",Fraud,Bremen,code04,2024.172
+2022,"Per 100,000 inhabitants",Fraud,Bremen,code04,2056.727
+2010,"Per 100,000 inhabitants",Fraud,Hamburg,code02,2068.49
+2011,"Per 100,000 inhabitants",Fraud,Hamburg,code02,1968.81
+2012,"Per 100,000 inhabitants",Fraud,Hamburg,code02,1852.592
+2013,"Per 100,000 inhabitants",Fraud,Hamburg,code02,1970.7
+2014,"Per 100,000 inhabitants",Fraud,Hamburg,code02,1735.6
+2015,"Per 100,000 inhabitants",Fraud,Hamburg,code02,1768.049
+2016,"Per 100,000 inhabitants",Fraud,Hamburg,code02,1692.507
+2017,"Per 100,000 inhabitants",Fraud,Hamburg,code02,1798.073
+2018,"Per 100,000 inhabitants",Fraud,Hamburg,code02,1812.154
+2019,"Per 100,000 inhabitants",Fraud,Hamburg,code02,1663.934
+2020,"Per 100,000 inhabitants",Fraud,Hamburg,code02,1502.122
+2021,"Per 100,000 inhabitants",Fraud,Hamburg,code02,1370.597
+2022,"Per 100,000 inhabitants",Fraud,Hamburg,code02,1607.715
+2010,"Per 100,000 inhabitants",Fraud,Hesse,code06,1322.437
+2011,"Per 100,000 inhabitants",Fraud,Hesse,code06,1267.814
+2012,"Per 100,000 inhabitants",Fraud,Hesse,code06,1273.939
+2013,"Per 100,000 inhabitants",Fraud,Hesse,code06,1154.2
+2014,"Per 100,000 inhabitants",Fraud,Hesse,code06,1135.0
+2015,"Per 100,000 inhabitants",Fraud,Hesse,code06,1189.208
+2016,"Per 100,000 inhabitants",Fraud,Hesse,code06,1155.878
+2017,"Per 100,000 inhabitants",Fraud,Hesse,code06,1090.376
+2018,"Per 100,000 inhabitants",Fraud,Hesse,code06,1203.169
+2019,"Per 100,000 inhabitants",Fraud,Hesse,code06,1192.839
+2020,"Per 100,000 inhabitants",Fraud,Hesse,code06,1002.643
+2021,"Per 100,000 inhabitants",Fraud,Hesse,code06,969.832
+2022,"Per 100,000 inhabitants",Fraud,Hesse,code06,871.499
+2010,"Per 100,000 inhabitants",Fraud,Mecklenburg Western Pomerania,code13,1373.256
+2011,"Per 100,000 inhabitants",Fraud,Mecklenburg Western Pomerania,code13,1256.015
+2012,"Per 100,000 inhabitants",Fraud,Mecklenburg Western Pomerania,code13,1155.58
+2013,"Per 100,000 inhabitants",Fraud,Mecklenburg Western Pomerania,code13,1101.0
+2014,"Per 100,000 inhabitants",Fraud,Mecklenburg Western Pomerania,code13,1074.3
+2015,"Per 100,000 inhabitants",Fraud,Mecklenburg Western Pomerania,code13,1002.353
+2016,"Per 100,000 inhabitants",Fraud,Mecklenburg Western Pomerania,code13,1130.143
+2017,"Per 100,000 inhabitants",Fraud,Mecklenburg Western Pomerania,code13,1054.9
+2018,"Per 100,000 inhabitants",Fraud,Mecklenburg Western Pomerania,code13,1065.843
+2019,"Per 100,000 inhabitants",Fraud,Mecklenburg Western Pomerania,code13,1050.523
+2020,"Per 100,000 inhabitants",Fraud,Mecklenburg Western Pomerania,code13,997.24
+2021,"Per 100,000 inhabitants",Fraud,Mecklenburg Western Pomerania,code13,949.419
+2022,"Per 100,000 inhabitants",Fraud,Mecklenburg Western Pomerania,code13,681.559
+2010,"Per 100,000 inhabitants",Fraud,Lower Saxony,code03,1403.771
+2011,"Per 100,000 inhabitants",Fraud,Lower Saxony,code03,1033.588
+2012,"Per 100,000 inhabitants",Fraud,Lower Saxony,code03,1102.46
+2013,"Per 100,000 inhabitants",Fraud,Lower Saxony,code03,1132.8
+2014,"Per 100,000 inhabitants",Fraud,Lower Saxony,code03,1151.9
+2015,"Per 100,000 inhabitants",Fraud,Lower Saxony,code03,1175.611
+2016,"Per 100,000 inhabitants",Fraud,Lower Saxony,code03,1142.23
+2017,"Per 100,000 inhabitants",Fraud,Lower Saxony,code03,1071.462
+2018,"Per 100,000 inhabitants",Fraud,Lower Saxony,code03,970.29
+2019,"Per 100,000 inhabitants",Fraud,Lower Saxony,code03,1003.063
+2020,"Per 100,000 inhabitants",Fraud,Lower Saxony,code03,1041.432
+2021,"Per 100,000 inhabitants",Fraud,Lower Saxony,code03,991.551
+2022,"Per 100,000 inhabitants",Fraud,Lower Saxony,code03,971.43
+2010,"Per 100,000 inhabitants",Fraud,North Rhine-Westphalia,code05,1216.348
+2011,"Per 100,000 inhabitants",Fraud,North Rhine-Westphalia,code05,1349.828
+2012,"Per 100,000 inhabitants",Fraud,North Rhine-Westphalia,code05,1504.679
+2013,"Per 100,000 inhabitants",Fraud,North Rhine-Westphalia,code05,1401.6
+2014,"Per 100,000 inhabitants",Fraud,North Rhine-Westphalia,code05,1441.7
+2015,"Per 100,000 inhabitants",Fraud,North Rhine-Westphalia,code05,1402.368
+2016,"Per 100,000 inhabitants",Fraud,North Rhine-Westphalia,code05,1269.031
+2017,"Per 100,000 inhabitants",Fraud,North Rhine-Westphalia,code05,1277.192
+2018,"Per 100,000 inhabitants",Fraud,North Rhine-Westphalia,code05,1078.023
+2019,"Per 100,000 inhabitants",Fraud,North Rhine-Westphalia,code05,1020.368
+2020,"Per 100,000 inhabitants",Fraud,North Rhine-Westphalia,code05,1070.01
+2021,"Per 100,000 inhabitants",Fraud,North Rhine-Westphalia,code05,1087.709
+2022,"Per 100,000 inhabitants",Fraud,North Rhine-Westphalia,code05,1118.151
+2010,"Per 100,000 inhabitants",Fraud,Rhineland Palatinate,code07,1192.163
+2011,"Per 100,000 inhabitants",Fraud,Rhineland Palatinate,code07,1055.234
+2012,"Per 100,000 inhabitants",Fraud,Rhineland Palatinate,code07,1055.079
+2013,"Per 100,000 inhabitants",Fraud,Rhineland Palatinate,code07,1078.1
+2014,"Per 100,000 inhabitants",Fraud,Rhineland Palatinate,code07,995.3
+2015,"Per 100,000 inhabitants",Fraud,Rhineland Palatinate,code07,1022.44
+2016,"Per 100,000 inhabitants",Fraud,Rhineland Palatinate,code07,924.767
+2017,"Per 100,000 inhabitants",Fraud,Rhineland Palatinate,code07,913.539
+2018,"Per 100,000 inhabitants",Fraud,Rhineland Palatinate,code07,838.603
+2019,"Per 100,000 inhabitants",Fraud,Rhineland Palatinate,code07,810.019
+2020,"Per 100,000 inhabitants",Fraud,Rhineland Palatinate,code07,703.632
+2021,"Per 100,000 inhabitants",Fraud,Rhineland Palatinate,code07,681.926
+2022,"Per 100,000 inhabitants",Fraud,Rhineland Palatinate,code07,662.951
+2010,"Per 100,000 inhabitants",Fraud,Saarland,code10,1046.274
+2011,"Per 100,000 inhabitants",Fraud,Saarland,code10,986.546
+2012,"Per 100,000 inhabitants",Fraud,Saarland,code10,1040.732
+2013,"Per 100,000 inhabitants",Fraud,Saarland,code10,1063.1
+2014,"Per 100,000 inhabitants",Fraud,Saarland,code10,1104.6
+2015,"Per 100,000 inhabitants",Fraud,Saarland,code10,1156.885
+2016,"Per 100,000 inhabitants",Fraud,Saarland,code10,1067.601
+2017,"Per 100,000 inhabitants",Fraud,Saarland,code10,1053.428
+2018,"Per 100,000 inhabitants",Fraud,Saarland,code10,1141.435
+2019,"Per 100,000 inhabitants",Fraud,Saarland,code10,1338.201
+2020,"Per 100,000 inhabitants",Fraud,Saarland,code10,1060.608
+2021,"Per 100,000 inhabitants",Fraud,Saarland,code10,779.275
+2022,"Per 100,000 inhabitants",Fraud,Saarland,code10,772.435
+2010,"Per 100,000 inhabitants",Fraud,Saxony,code14,1280.54
+2011,"Per 100,000 inhabitants",Fraud,Saxony,code14,1296.352
+2012,"Per 100,000 inhabitants",Fraud,Saxony,code14,1326.679
+2013,"Per 100,000 inhabitants",Fraud,Saxony,code14,1279.6
+2014,"Per 100,000 inhabitants",Fraud,Saxony,code14,1305.0
+2015,"Per 100,000 inhabitants",Fraud,Saxony,code14,1123.697
+2016,"Per 100,000 inhabitants",Fraud,Saxony,code14,1054.8
+2017,"Per 100,000 inhabitants",Fraud,Saxony,code14,1562.748
+2018,"Per 100,000 inhabitants",Fraud,Saxony,code14,824.662
+2019,"Per 100,000 inhabitants",Fraud,Saxony,code14,751.556
+2020,"Per 100,000 inhabitants",Fraud,Saxony,code14,838.881
+2021,"Per 100,000 inhabitants",Fraud,Saxony,code14,758.724
+2022,"Per 100,000 inhabitants",Fraud,Saxony,code14,752.015
+2010,"Per 100,000 inhabitants",Fraud,Saxony-Anhalt,code15,1339.654
+2011,"Per 100,000 inhabitants",Fraud,Saxony-Anhalt,code15,1216.992
+2012,"Per 100,000 inhabitants",Fraud,Saxony-Anhalt,code15,1216.039
+2013,"Per 100,000 inhabitants",Fraud,Saxony-Anhalt,code15,1257.0
+2014,"Per 100,000 inhabitants",Fraud,Saxony-Anhalt,code15,1230.1
+2015,"Per 100,000 inhabitants",Fraud,Saxony-Anhalt,code15,1132.474
+2016,"Per 100,000 inhabitants",Fraud,Saxony-Anhalt,code15,1013.329
+2017,"Per 100,000 inhabitants",Fraud,Saxony-Anhalt,code15,1076.802
+2018,"Per 100,000 inhabitants",Fraud,Saxony-Anhalt,code15,1004.552
+2019,"Per 100,000 inhabitants",Fraud,Saxony-Anhalt,code15,1013.44
+2020,"Per 100,000 inhabitants",Fraud,Saxony-Anhalt,code15,1075.414
+2021,"Per 100,000 inhabitants",Fraud,Saxony-Anhalt,code15,1090.254
+2022,"Per 100,000 inhabitants",Fraud,Saxony-Anhalt,code15,1224.385
+2010,"Per 100,000 inhabitants",Fraud,Schleswig-Holstein,code01,912.672
+2011,"Per 100,000 inhabitants",Fraud,Schleswig-Holstein,code01,906.778
+2012,"Per 100,000 inhabitants",Fraud,Schleswig-Holstein,code01,809.345
+2013,"Per 100,000 inhabitants",Fraud,Schleswig-Holstein,code01,795.4
+2014,"Per 100,000 inhabitants",Fraud,Schleswig-Holstein,code01,759.5
+2015,"Per 100,000 inhabitants",Fraud,Schleswig-Holstein,code01,721.441
+2016,"Per 100,000 inhabitants",Fraud,Schleswig-Holstein,code01,692.269
+2017,"Per 100,000 inhabitants",Fraud,Schleswig-Holstein,code01,693.321
+2018,"Per 100,000 inhabitants",Fraud,Schleswig-Holstein,code01,672.118
+2019,"Per 100,000 inhabitants",Fraud,Schleswig-Holstein,code01,682.636
+2020,"Per 100,000 inhabitants",Fraud,Schleswig-Holstein,code01,652.083
+2021,"Per 100,000 inhabitants",Fraud,Schleswig-Holstein,code01,940.301
+2022,"Per 100,000 inhabitants",Fraud,Schleswig-Holstein,code01,1830.319
+2010,"Per 100,000 inhabitants",Fraud,Thuringia,code16,1129.931
+2011,"Per 100,000 inhabitants",Fraud,Thuringia,code16,1019.886
+2012,"Per 100,000 inhabitants",Fraud,Thuringia,code16,1072.56
+2013,"Per 100,000 inhabitants",Fraud,Thuringia,code16,1060.0
+2014,"Per 100,000 inhabitants",Fraud,Thuringia,code16,1054.2
+2015,"Per 100,000 inhabitants",Fraud,Thuringia,code16,992.183
+2016,"Per 100,000 inhabitants",Fraud,Thuringia,code16,947.338
+2017,"Per 100,000 inhabitants",Fraud,Thuringia,code16,939.611
+2018,"Per 100,000 inhabitants",Fraud,Thuringia,code16,973.966
+2019,"Per 100,000 inhabitants",Fraud,Thuringia,code16,891.587
+2020,"Per 100,000 inhabitants",Fraud,Thuringia,code16,910.95
+2021,"Per 100,000 inhabitants",Fraud,Thuringia,code16,917.869
+2022,"Per 100,000 inhabitants",Fraud,Thuringia,code16,957.53
+2010,"Per 100,000 inhabitants",Domestic burglary,Baden-Wuerttemberg,code08,74.83
+2011,"Per 100,000 inhabitants",Domestic burglary,Baden-Wuerttemberg,code08,78.179
+2012,"Per 100,000 inhabitants",Domestic burglary,Baden-Wuerttemberg,code08,81.541
+2013,"Per 100,000 inhabitants",Domestic burglary,Baden-Wuerttemberg,code08,106.9
+2014,"Per 100,000 inhabitants",Domestic burglary,Baden-Wuerttemberg,code08,126.8
+2015,"Per 100,000 inhabitants",Domestic burglary,Baden-Wuerttemberg,code08,114.355
+2016,"Per 100,000 inhabitants",Domestic burglary,Baden-Wuerttemberg,code08,101.98
+2017,"Per 100,000 inhabitants",Domestic burglary,Baden-Wuerttemberg,code08,77.037
+2018,"Per 100,000 inhabitants",Domestic burglary,Baden-Wuerttemberg,code08,64.644
+2019,"Per 100,000 inhabitants",Domestic burglary,Baden-Wuerttemberg,code08,57.979
+2020,"Per 100,000 inhabitants",Domestic burglary,Baden-Wuerttemberg,code08,42.305
+2021,"Per 100,000 inhabitants",Domestic burglary,Baden-Wuerttemberg,code08,29.704
+2022,"Per 100,000 inhabitants",Domestic burglary,Baden-Wuerttemberg,code08,40.523
+2010,"Per 100,000 inhabitants",Domestic burglary,Bavaria,code09,36.159
+2011,"Per 100,000 inhabitants",Domestic burglary,Bavaria,code09,42.29
+2012,"Per 100,000 inhabitants",Domestic burglary,Bavaria,code09,45.88
+2013,"Per 100,000 inhabitants",Domestic burglary,Bavaria,code09,51.0
+2014,"Per 100,000 inhabitants",Domestic burglary,Bavaria,code09,65.1
+2015,"Per 100,000 inhabitants",Domestic burglary,Bavaria,code09,58.937
+2016,"Per 100,000 inhabitants",Domestic burglary,Bavaria,code09,58.162
+2017,"Per 100,000 inhabitants",Domestic burglary,Bavaria,code09,46.749
+2018,"Per 100,000 inhabitants",Domestic burglary,Bavaria,code09,40.309
+2019,"Per 100,000 inhabitants",Domestic burglary,Bavaria,code09,33.204
+2020,"Per 100,000 inhabitants",Domestic burglary,Bavaria,code09,31.856
+2021,"Per 100,000 inhabitants",Domestic burglary,Bavaria,code09,17.671
+2022,"Per 100,000 inhabitants",Domestic burglary,Bavaria,code09,21.583
+2010,"Per 100,000 inhabitants",Domestic burglary,Berlin,code11,266.448
+2011,"Per 100,000 inhabitants",Domestic burglary,Berlin,code11,335.718
+2012,"Per 100,000 inhabitants",Domestic burglary,Berlin,code11,369.543
+2013,"Per 100,000 inhabitants",Domestic burglary,Berlin,code11,342.7
+2014,"Per 100,000 inhabitants",Domestic burglary,Berlin,code11,355.3
+2015,"Per 100,000 inhabitants",Domestic burglary,Berlin,code11,340.505
+2016,"Per 100,000 inhabitants",Domestic burglary,Berlin,code11,326.901
+2017,"Per 100,000 inhabitants",Domestic burglary,Berlin,code11,240.011
+2018,"Per 100,000 inhabitants",Domestic burglary,Berlin,code11,209.603
+2019,"Per 100,000 inhabitants",Domestic burglary,Berlin,code11,218.529
+2020,"Per 100,000 inhabitants",Domestic burglary,Berlin,code11,192.67
+2021,"Per 100,000 inhabitants",Domestic burglary,Berlin,code11,136.023
+2022,"Per 100,000 inhabitants",Domestic burglary,Berlin,code11,167.37
+2010,"Per 100,000 inhabitants",Domestic burglary,Brandenburg,code12,114.877
+2011,"Per 100,000 inhabitants",Domestic burglary,Brandenburg,code12,120.508
+2012,"Per 100,000 inhabitants",Domestic burglary,Brandenburg,code12,152.251
+2013,"Per 100,000 inhabitants",Domestic burglary,Brandenburg,code12,163.3
+2014,"Per 100,000 inhabitants",Domestic burglary,Brandenburg,code12,163.0
+2015,"Per 100,000 inhabitants",Domestic burglary,Brandenburg,code12,180.481
+2016,"Per 100,000 inhabitants",Domestic burglary,Brandenburg,code12,168.221
+2017,"Per 100,000 inhabitants",Domestic burglary,Brandenburg,code12,126.952
+2018,"Per 100,000 inhabitants",Domestic burglary,Brandenburg,code12,103.553
+2019,"Per 100,000 inhabitants",Domestic burglary,Brandenburg,code12,105.656
+2020,"Per 100,000 inhabitants",Domestic burglary,Brandenburg,code12,98.656
+2021,"Per 100,000 inhabitants",Domestic burglary,Brandenburg,code12,73.842
+2022,"Per 100,000 inhabitants",Domestic burglary,Brandenburg,code12,98.744
+2010,"Per 100,000 inhabitants",Domestic burglary,Bremen,code04,440.611
+2011,"Per 100,000 inhabitants",Domestic burglary,Bremen,code04,525.737
+2012,"Per 100,000 inhabitants",Domestic burglary,Bremen,code04,547.087
+2013,"Per 100,000 inhabitants",Domestic burglary,Bremen,code04,525.2
+2014,"Per 100,000 inhabitants",Domestic burglary,Bremen,code04,540.8
+2015,"Per 100,000 inhabitants",Domestic burglary,Bremen,code04,535.438
+2016,"Per 100,000 inhabitants",Domestic burglary,Bremen,code04,458.98
+2017,"Per 100,000 inhabitants",Domestic burglary,Bremen,code04,383.939
+2018,"Per 100,000 inhabitants",Domestic burglary,Bremen,code04,278.842
+2019,"Per 100,000 inhabitants",Domestic burglary,Bremen,code04,272.48
+2020,"Per 100,000 inhabitants",Domestic burglary,Bremen,code04,221.08
+2021,"Per 100,000 inhabitants",Domestic burglary,Bremen,code04,186.435
+2022,"Per 100,000 inhabitants",Domestic burglary,Bremen,code04,219.672
+2010,"Per 100,000 inhabitants",Domestic burglary,Hamburg,code02,443.892
+2011,"Per 100,000 inhabitants",Domestic burglary,Hamburg,code02,380.02
+2012,"Per 100,000 inhabitants",Domestic burglary,Hamburg,code02,412.877
+2013,"Per 100,000 inhabitants",Domestic burglary,Hamburg,code02,399.2
+2014,"Per 100,000 inhabitants",Domestic burglary,Hamburg,code02,428.9
+2015,"Per 100,000 inhabitants",Domestic burglary,Hamburg,code02,510.894
+2016,"Per 100,000 inhabitants",Domestic burglary,Hamburg,code02,420.161
+2017,"Per 100,000 inhabitants",Domestic burglary,Hamburg,code02,318.652
+2018,"Per 100,000 inhabitants",Domestic burglary,Hamburg,code02,251.341
+2019,"Per 100,000 inhabitants",Domestic burglary,Hamburg,code02,234.252
+2020,"Per 100,000 inhabitants",Domestic burglary,Hamburg,code02,186.331
+2021,"Per 100,000 inhabitants",Domestic burglary,Hamburg,code02,118.976
+2022,"Per 100,000 inhabitants",Domestic burglary,Hamburg,code02,135.172
+2010,"Per 100,000 inhabitants",Domestic burglary,Hesse,code06,167.093
+2011,"Per 100,000 inhabitants",Domestic burglary,Hesse,code06,182.162
+2012,"Per 100,000 inhabitants",Domestic burglary,Hesse,code06,176.35
+2013,"Per 100,000 inhabitants",Domestic burglary,Hesse,code06,179.4
+2014,"Per 100,000 inhabitants",Domestic burglary,Hesse,code06,181.6
+2015,"Per 100,000 inhabitants",Domestic burglary,Hesse,code06,190.273
+2016,"Per 100,000 inhabitants",Domestic burglary,Hesse,code06,168.47
+2017,"Per 100,000 inhabitants",Domestic burglary,Hesse,code06,133.38
+2018,"Per 100,000 inhabitants",Domestic burglary,Hesse,code06,120.162
+2019,"Per 100,000 inhabitants",Domestic burglary,Hesse,code06,108.015
+2020,"Per 100,000 inhabitants",Domestic burglary,Hesse,code06,82.14
+2021,"Per 100,000 inhabitants",Domestic burglary,Hesse,code06,61.305
+2022,"Per 100,000 inhabitants",Domestic burglary,Hesse,code06,67.911
+2010,"Per 100,000 inhabitants",Domestic burglary,Mecklenburg Western Pomerania,code13,77.721
+2011,"Per 100,000 inhabitants",Domestic burglary,Mecklenburg Western Pomerania,code13,82.611
+2012,"Per 100,000 inhabitants",Domestic burglary,Mecklenburg Western Pomerania,code13,87.933
+2013,"Per 100,000 inhabitants",Domestic burglary,Mecklenburg Western Pomerania,code13,95.0
+2014,"Per 100,000 inhabitants",Domestic burglary,Mecklenburg Western Pomerania,code13,95.8
+2015,"Per 100,000 inhabitants",Domestic burglary,Mecklenburg Western Pomerania,code13,95.114
+2016,"Per 100,000 inhabitants",Domestic burglary,Mecklenburg Western Pomerania,code13,91.605
+2017,"Per 100,000 inhabitants",Domestic burglary,Mecklenburg Western Pomerania,code13,73.261
+2018,"Per 100,000 inhabitants",Domestic burglary,Mecklenburg Western Pomerania,code13,68.338
+2019,"Per 100,000 inhabitants",Domestic burglary,Mecklenburg Western Pomerania,code13,55.104
+2020,"Per 100,000 inhabitants",Domestic burglary,Mecklenburg Western Pomerania,code13,48.876
+2021,"Per 100,000 inhabitants",Domestic burglary,Mecklenburg Western Pomerania,code13,57.55
+2022,"Per 100,000 inhabitants",Domestic burglary,Mecklenburg Western Pomerania,code13,49.964
+2010,"Per 100,000 inhabitants",Domestic burglary,Lower Saxony,code03,151.942
+2011,"Per 100,000 inhabitants",Domestic burglary,Lower Saxony,code03,151.835
+2012,"Per 100,000 inhabitants",Domestic burglary,Lower Saxony,code03,187.774
+2013,"Per 100,000 inhabitants",Domestic burglary,Lower Saxony,code03,202.4
+2014,"Per 100,000 inhabitants",Domestic burglary,Lower Saxony,code03,188.1
+2015,"Per 100,000 inhabitants",Domestic burglary,Lower Saxony,code03,211.774
+2016,"Per 100,000 inhabitants",Domestic burglary,Lower Saxony,code03,206.961
+2017,"Per 100,000 inhabitants",Domestic burglary,Lower Saxony,code03,171.099
+2018,"Per 100,000 inhabitants",Domestic burglary,Lower Saxony,code03,140.68
+2019,"Per 100,000 inhabitants",Domestic burglary,Lower Saxony,code03,118.46
+2020,"Per 100,000 inhabitants",Domestic burglary,Lower Saxony,code03,96.802
+2021,"Per 100,000 inhabitants",Domestic burglary,Lower Saxony,code03,64.66
+2022,"Per 100,000 inhabitants",Domestic burglary,Lower Saxony,code03,81.101
+2010,"Per 100,000 inhabitants",Domestic burglary,North Rhine-Westphalia,code05,254.548
+2011,"Per 100,000 inhabitants",Domestic burglary,North Rhine-Westphalia,code05,287.076
+2012,"Per 100,000 inhabitants",Domestic burglary,North Rhine-Westphalia,code05,308.733
+2013,"Per 100,000 inhabitants",Domestic burglary,North Rhine-Westphalia,code05,313.0
+2014,"Per 100,000 inhabitants",Domestic burglary,North Rhine-Westphalia,code05,300.4
+2015,"Per 100,000 inhabitants",Domestic burglary,North Rhine-Westphalia,code05,353.564
+2016,"Per 100,000 inhabitants",Domestic burglary,North Rhine-Westphalia,code05,294.299
+2017,"Per 100,000 inhabitants",Domestic burglary,North Rhine-Westphalia,code05,218.316
+2018,"Per 100,000 inhabitants",Domestic burglary,North Rhine-Westphalia,code05,166.948
+2019,"Per 100,000 inhabitants",Domestic burglary,North Rhine-Westphalia,code05,149.766
+2020,"Per 100,000 inhabitants",Domestic burglary,North Rhine-Westphalia,code05,138.072
+2021,"Per 100,000 inhabitants",Domestic burglary,North Rhine-Westphalia,code05,103.629
+2022,"Per 100,000 inhabitants",Domestic burglary,North Rhine-Westphalia,code05,131.261
+2010,"Per 100,000 inhabitants",Domestic burglary,Rhineland Palatinate,code07,114.423
+2011,"Per 100,000 inhabitants",Domestic burglary,Rhineland Palatinate,code07,127.936
+2012,"Per 100,000 inhabitants",Domestic burglary,Rhineland Palatinate,code07,137.317
+2013,"Per 100,000 inhabitants",Domestic burglary,Rhineland Palatinate,code07,146.8
+2014,"Per 100,000 inhabitants",Domestic burglary,Rhineland Palatinate,code07,145.7
+2015,"Per 100,000 inhabitants",Domestic burglary,Rhineland Palatinate,code07,177.611
+2016,"Per 100,000 inhabitants",Domestic burglary,Rhineland Palatinate,code07,166.403
+2017,"Per 100,000 inhabitants",Domestic burglary,Rhineland Palatinate,code07,118.887
+2018,"Per 100,000 inhabitants",Domestic burglary,Rhineland Palatinate,code07,100.597
+2019,"Per 100,000 inhabitants",Domestic burglary,Rhineland Palatinate,code07,79.513
+2020,"Per 100,000 inhabitants",Domestic burglary,Rhineland Palatinate,code07,64.169
+2021,"Per 100,000 inhabitants",Domestic burglary,Rhineland Palatinate,code07,45.725
+2022,"Per 100,000 inhabitants",Domestic burglary,Rhineland Palatinate,code07,61.245
+2010,"Per 100,000 inhabitants",Domestic burglary,Saarland,code10,168.309
+2011,"Per 100,000 inhabitants",Domestic burglary,Saarland,code10,166.188
+2012,"Per 100,000 inhabitants",Domestic burglary,Saarland,code10,203.537
+2013,"Per 100,000 inhabitants",Domestic burglary,Saarland,code10,210.7
+2014,"Per 100,000 inhabitants",Domestic burglary,Saarland,code10,250.8
+2015,"Per 100,000 inhabitants",Domestic burglary,Saarland,code10,246.402
+2016,"Per 100,000 inhabitants",Domestic burglary,Saarland,code10,195.561
+2017,"Per 100,000 inhabitants",Domestic burglary,Saarland,code10,139.567
+2018,"Per 100,000 inhabitants",Domestic burglary,Saarland,code10,172.603
+2019,"Per 100,000 inhabitants",Domestic burglary,Saarland,code10,149.418
+2020,"Per 100,000 inhabitants",Domestic burglary,Saarland,code10,138.922
+2021,"Per 100,000 inhabitants",Domestic burglary,Saarland,code10,106.099
+2022,"Per 100,000 inhabitants",Domestic burglary,Saarland,code10,102.408
+2010,"Per 100,000 inhabitants",Domestic burglary,Saxony,code14,78.739
+2011,"Per 100,000 inhabitants",Domestic burglary,Saxony,code14,85.263
+2012,"Per 100,000 inhabitants",Domestic burglary,Saxony,code14,94.717
+2013,"Per 100,000 inhabitants",Domestic burglary,Saxony,code14,89.4
+2014,"Per 100,000 inhabitants",Domestic burglary,Saxony,code14,95.6
+2015,"Per 100,000 inhabitants",Domestic burglary,Saxony,code14,104.974
+2016,"Per 100,000 inhabitants",Domestic burglary,Saxony,code14,114.668
+2017,"Per 100,000 inhabitants",Domestic burglary,Saxony,code14,99.736
+2018,"Per 100,000 inhabitants",Domestic burglary,Saxony,code14,98.032
+2019,"Per 100,000 inhabitants",Domestic burglary,Saxony,code14,74.547
+2020,"Per 100,000 inhabitants",Domestic burglary,Saxony,code14,69.524
+2021,"Per 100,000 inhabitants",Domestic burglary,Saxony,code14,48.731
+2022,"Per 100,000 inhabitants",Domestic burglary,Saxony,code14,51.694
+2010,"Per 100,000 inhabitants",Domestic burglary,Saxony-Anhalt,code15,99.082
+2011,"Per 100,000 inhabitants",Domestic burglary,Saxony-Anhalt,code15,105.468
+2012,"Per 100,000 inhabitants",Domestic burglary,Saxony-Anhalt,code15,109.104
+2013,"Per 100,000 inhabitants",Domestic burglary,Saxony-Anhalt,code15,114.5
+2014,"Per 100,000 inhabitants",Domestic burglary,Saxony-Anhalt,code15,115.7
+2015,"Per 100,000 inhabitants",Domestic burglary,Saxony-Anhalt,code15,125.025
+2016,"Per 100,000 inhabitants",Domestic burglary,Saxony-Anhalt,code15,136.319
+2017,"Per 100,000 inhabitants",Domestic burglary,Saxony-Anhalt,code15,121.408
+2018,"Per 100,000 inhabitants",Domestic burglary,Saxony-Anhalt,code15,126.896
+2019,"Per 100,000 inhabitants",Domestic burglary,Saxony-Anhalt,code15,107.91
+2020,"Per 100,000 inhabitants",Domestic burglary,Saxony-Anhalt,code15,96.821
+2021,"Per 100,000 inhabitants",Domestic burglary,Saxony-Anhalt,code15,78.049
+2022,"Per 100,000 inhabitants",Domestic burglary,Saxony-Anhalt,code15,79.106
+2010,"Per 100,000 inhabitants",Domestic burglary,Schleswig-Holstein,code01,242.126
+2011,"Per 100,000 inhabitants",Domestic burglary,Schleswig-Holstein,code01,261.345
+2012,"Per 100,000 inhabitants",Domestic burglary,Schleswig-Holstein,code01,273.136
+2013,"Per 100,000 inhabitants",Domestic burglary,Schleswig-Holstein,code01,268.4
+2014,"Per 100,000 inhabitants",Domestic burglary,Schleswig-Holstein,code01,267.4
+2015,"Per 100,000 inhabitants",Domestic burglary,Schleswig-Holstein,code01,298.707
+2016,"Per 100,000 inhabitants",Domestic burglary,Schleswig-Holstein,code01,269.737
+2017,"Per 100,000 inhabitants",Domestic burglary,Schleswig-Holstein,code01,187.479
+2018,"Per 100,000 inhabitants",Domestic burglary,Schleswig-Holstein,code01,169.249
+2019,"Per 100,000 inhabitants",Domestic burglary,Schleswig-Holstein,code01,154.52
+2020,"Per 100,000 inhabitants",Domestic burglary,Schleswig-Holstein,code01,112.543
+2021,"Per 100,000 inhabitants",Domestic burglary,Schleswig-Holstein,code01,77.262
+2022,"Per 100,000 inhabitants",Domestic burglary,Schleswig-Holstein,code01,91.547
+2010,"Per 100,000 inhabitants",Domestic burglary,Thuringia,code16,29.112
+2011,"Per 100,000 inhabitants",Domestic burglary,Thuringia,code16,41.77
+2012,"Per 100,000 inhabitants",Domestic burglary,Thuringia,code16,41.804
+2013,"Per 100,000 inhabitants",Domestic burglary,Thuringia,code16,54.5
+2014,"Per 100,000 inhabitants",Domestic burglary,Thuringia,code16,45.3
+2015,"Per 100,000 inhabitants",Domestic burglary,Thuringia,code16,68.482
+2016,"Per 100,000 inhabitants",Domestic burglary,Thuringia,code16,64.91
+2017,"Per 100,000 inhabitants",Domestic burglary,Thuringia,code16,65.01
+2018,"Per 100,000 inhabitants",Domestic burglary,Thuringia,code16,57.456
+2019,"Per 100,000 inhabitants",Domestic burglary,Thuringia,code16,46.52
+2020,"Per 100,000 inhabitants",Domestic burglary,Thuringia,code16,44.483
+2021,"Per 100,000 inhabitants",Domestic burglary,Thuringia,code16,42.873
+2022,"Per 100,000 inhabitants",Domestic burglary,Thuringia,code16,37.129
+2010,"Per 100,000 inhabitants",Other offences,Baden-Wuerttemberg,code08,5457.241
+2011,"Per 100,000 inhabitants",Other offences,Baden-Wuerttemberg,code08,5562.282
+2012,"Per 100,000 inhabitants",Other offences,Baden-Wuerttemberg,code08,5455.051
+2013,"Per 100,000 inhabitants",Other offences,Baden-Wuerttemberg,code08,5450.5
+2014,"Per 100,000 inhabitants",Other offences,Baden-Wuerttemberg,code08,5592.3
+2015,"Per 100,000 inhabitants",Other offences,Baden-Wuerttemberg,code08,5760.805
+2016,"Per 100,000 inhabitants",Other offences,Baden-Wuerttemberg,code08,5598.845
+2017,"Per 100,000 inhabitants",Other offences,Baden-Wuerttemberg,code08,5295.459
+2018,"Per 100,000 inhabitants",Other offences,Baden-Wuerttemberg,code08,5190.519
+2019,"Per 100,000 inhabitants",Other offences,Baden-Wuerttemberg,code08,5183.715
+2020,"Per 100,000 inhabitants",Other offences,Baden-Wuerttemberg,code08,4851.774
+2021,"Per 100,000 inhabitants",Other offences,Baden-Wuerttemberg,code08,4380.16
+2022,"Per 100,000 inhabitants",Other offences,Baden-Wuerttemberg,code08,4103.008
+2010,"Per 100,000 inhabitants",Other offences,Bavaria,code09,5017.309
+2011,"Per 100,000 inhabitants",Other offences,Bavaria,code09,5031.799
+2012,"Per 100,000 inhabitants",Other offences,Bavaria,code09,5037.742
+2013,"Per 100,000 inhabitants",Other offences,Bavaria,code09,5073.1
+2014,"Per 100,000 inhabitants",Other offences,Bavaria,code09,5163.9
+2015,"Per 100,000 inhabitants",Other offences,Bavaria,code09,6350.003
+2016,"Per 100,000 inhabitants",Other offences,Bavaria,code09,6870.962
+2017,"Per 100,000 inhabitants",Other offences,Bavaria,code09,4868.333
+2018,"Per 100,000 inhabitants",Other offences,Bavaria,code09,4888.905
+2019,"Per 100,000 inhabitants",Other offences,Bavaria,code09,4614.796
+2020,"Per 100,000 inhabitants",Other offences,Bavaria,code09,4527.656
+2021,"Per 100,000 inhabitants",Other offences,Bavaria,code09,4137.538
+2022,"Per 100,000 inhabitants",Other offences,Bavaria,code09,3942.107
+2010,"Per 100,000 inhabitants",Other offences,Berlin,code11,14526.391
+2011,"Per 100,000 inhabitants",Other offences,Berlin,code11,15080.318
+2012,"Per 100,000 inhabitants",Other offences,Berlin,code11,14891.663
+2013,"Per 100,000 inhabitants",Other offences,Berlin,code11,14907.6
+2014,"Per 100,000 inhabitants",Other offences,Berlin,code11,15873.3
+2015,"Per 100,000 inhabitants",Other offences,Berlin,code11,16414.259
+2016,"Per 100,000 inhabitants",Other offences,Berlin,code11,16160.653
+2017,"Per 100,000 inhabitants",Other offences,Berlin,code11,14558.371
+2018,"Per 100,000 inhabitants",Other offences,Berlin,code11,14160.169
+2019,"Per 100,000 inhabitants",Other offences,Berlin,code11,14086.434
+2020,"Per 100,000 inhabitants",Other offences,Berlin,code11,13738.745
+2021,"Per 100,000 inhabitants",Other offences,Berlin,code11,13158.172
+2022,"Per 100,000 inhabitants",Other offences,Berlin,code11,11559.68
+2010,"Per 100,000 inhabitants",Other offences,Brandenburg,code12,8267.145
+2011,"Per 100,000 inhabitants",Other offences,Brandenburg,code12,8031.067
+2012,"Per 100,000 inhabitants",Other offences,Brandenburg,code12,7954.818
+2013,"Per 100,000 inhabitants",Other offences,Brandenburg,code12,8051.7
+2014,"Per 100,000 inhabitants",Other offences,Brandenburg,code12,8004.0
+2015,"Per 100,000 inhabitants",Other offences,Brandenburg,code12,7659.634
+2016,"Per 100,000 inhabitants",Other offences,Brandenburg,code12,7478.632
+2017,"Per 100,000 inhabitants",Other offences,Brandenburg,code12,7015.138
+2018,"Per 100,000 inhabitants",Other offences,Brandenburg,code12,6901.966
+2019,"Per 100,000 inhabitants",Other offences,Brandenburg,code12,6840.513
+2020,"Per 100,000 inhabitants",Other offences,Brandenburg,code12,6461.059
+2021,"Per 100,000 inhabitants",Other offences,Brandenburg,code12,6280.503
+2022,"Per 100,000 inhabitants",Other offences,Brandenburg,code12,5849.831
+2010,"Per 100,000 inhabitants",Other offences,Bremen,code04,13643.624
+2011,"Per 100,000 inhabitants",Other offences,Bremen,code04,14276.548
+2012,"Per 100,000 inhabitants",Other offences,Bremen,code04,13311.315
+2013,"Per 100,000 inhabitants",Other offences,Bremen,code04,13059.2
+2014,"Per 100,000 inhabitants",Other offences,Bremen,code04,12743.9
+2015,"Per 100,000 inhabitants",Other offences,Bremen,code04,13784.356
+2016,"Per 100,000 inhabitants",Other offences,Bremen,code04,13686.598
+2017,"Per 100,000 inhabitants",Other offences,Bremen,code04,11959.579
+2018,"Per 100,000 inhabitants",Other offences,Bremen,code04,10942.804
+2019,"Per 100,000 inhabitants",Other offences,Bremen,code04,11453.822
+2020,"Per 100,000 inhabitants",Other offences,Bremen,code04,11871.515
+2021,"Per 100,000 inhabitants",Other offences,Bremen,code04,11169.335
+2022,"Per 100,000 inhabitants",Other offences,Bremen,code04,9232.73
+2010,"Per 100,000 inhabitants",Other offences,Hamburg,code02,13239.878
+2011,"Per 100,000 inhabitants",Other offences,Hamburg,code02,13418.186
+2012,"Per 100,000 inhabitants",Other offences,Hamburg,code02,13244.775
+2013,"Per 100,000 inhabitants",Other offences,Hamburg,code02,13724.4
+2014,"Per 100,000 inhabitants",Other offences,Hamburg,code02,13742.9
+2015,"Per 100,000 inhabitants",Other offences,Hamburg,code02,13839.36
+2016,"Per 100,000 inhabitants",Other offences,Hamburg,code02,13384.185
+2017,"Per 100,000 inhabitants",Other offences,Hamburg,code02,12480.24
+2018,"Per 100,000 inhabitants",Other offences,Hamburg,code02,11941.217
+2019,"Per 100,000 inhabitants",Other offences,Hamburg,code02,11450.924
+2020,"Per 100,000 inhabitants",Other offences,Hamburg,code02,11017.765
+2021,"Per 100,000 inhabitants",Other offences,Hamburg,code02,10062.36
+2022,"Per 100,000 inhabitants",Other offences,Hamburg,code02,9351.568
+2010,"Per 100,000 inhabitants",Other offences,Hesse,code06,6732.368
+2011,"Per 100,000 inhabitants",Other offences,Hesse,code06,6647.795
+2012,"Per 100,000 inhabitants",Other offences,Hesse,code06,6600.619
+2013,"Per 100,000 inhabitants",Other offences,Hesse,code06,6428.6
+2014,"Per 100,000 inhabitants",Other offences,Hesse,code06,6565.8
+2015,"Per 100,000 inhabitants",Other offences,Hesse,code06,6616.269
+2016,"Per 100,000 inhabitants",Other offences,Hesse,code06,6672.483
+2017,"Per 100,000 inhabitants",Other offences,Hesse,code06,6045.818
+2018,"Per 100,000 inhabitants",Other offences,Hesse,code06,5971.205
+2019,"Per 100,000 inhabitants",Other offences,Hesse,code06,5822.6
+2020,"Per 100,000 inhabitants",Other offences,Hesse,code06,5445.589
+2021,"Per 100,000 inhabitants",Other offences,Hesse,code06,5339.612
+2022,"Per 100,000 inhabitants",Other offences,Hesse,code06,4746.707
+2010,"Per 100,000 inhabitants",Other offences,Mecklenburg Western Pomerania,code13,7968.343
+2011,"Per 100,000 inhabitants",Other offences,Mecklenburg Western Pomerania,code13,7953.113
+2012,"Per 100,000 inhabitants",Other offences,Mecklenburg Western Pomerania,code13,7883.321
+2013,"Per 100,000 inhabitants",Other offences,Mecklenburg Western Pomerania,code13,7528.7
+2014,"Per 100,000 inhabitants",Other offences,Mecklenburg Western Pomerania,code13,7304.0
+2015,"Per 100,000 inhabitants",Other offences,Mecklenburg Western Pomerania,code13,7332.763
+2016,"Per 100,000 inhabitants",Other offences,Mecklenburg Western Pomerania,code13,7632.343
+2017,"Per 100,000 inhabitants",Other offences,Mecklenburg Western Pomerania,code13,6850.362
+2018,"Per 100,000 inhabitants",Other offences,Mecklenburg Western Pomerania,code13,6744.691
+2019,"Per 100,000 inhabitants",Other offences,Mecklenburg Western Pomerania,code13,6916.241
+2020,"Per 100,000 inhabitants",Other offences,Mecklenburg Western Pomerania,code13,6587.246
+2021,"Per 100,000 inhabitants",Other offences,Mecklenburg Western Pomerania,code13,6484.584
+2022,"Per 100,000 inhabitants",Other offences,Mecklenburg Western Pomerania,code13,5705.951
+2010,"Per 100,000 inhabitants",Other offences,Lower Saxony,code03,7473.27
+2011,"Per 100,000 inhabitants",Other offences,Lower Saxony,code03,7099.489
+2012,"Per 100,000 inhabitants",Other offences,Lower Saxony,code03,7167.492
+2013,"Per 100,000 inhabitants",Other offences,Lower Saxony,code03,7015.1
+2014,"Per 100,000 inhabitants",Other offences,Lower Saxony,code03,7094.9
+2015,"Per 100,000 inhabitants",Other offences,Lower Saxony,code03,7263.178
+2016,"Per 100,000 inhabitants",Other offences,Lower Saxony,code03,7089.585
+2017,"Per 100,000 inhabitants",Other offences,Lower Saxony,code03,6621.456
+2018,"Per 100,000 inhabitants",Other offences,Lower Saxony,code03,6361.915
+2019,"Per 100,000 inhabitants",Other offences,Lower Saxony,code03,6346.199
+2020,"Per 100,000 inhabitants",Other offences,Lower Saxony,code03,6219.444
+2021,"Per 100,000 inhabitants",Other offences,Lower Saxony,code03,5898.678
+2022,"Per 100,000 inhabitants",Other offences,Lower Saxony,code03,5302.807
+2010,"Per 100,000 inhabitants",Other offences,North Rhine-Westphalia,code05,8203.493
+2011,"Per 100,000 inhabitants",Other offences,North Rhine-Westphalia,code05,8614.719
+2012,"Per 100,000 inhabitants",Other offences,North Rhine-Westphalia,code05,8654.171
+2013,"Per 100,000 inhabitants",Other offences,North Rhine-Westphalia,code05,8459.1
+2014,"Per 100,000 inhabitants",Other offences,North Rhine-Westphalia,code05,8542.8
+2015,"Per 100,000 inhabitants",Other offences,North Rhine-Westphalia,code05,8603.241
+2016,"Per 100,000 inhabitants",Other offences,North Rhine-Westphalia,code05,8224.929
+2017,"Per 100,000 inhabitants",Other offences,North Rhine-Westphalia,code05,7676.816
+2018,"Per 100,000 inhabitants",Other offences,North Rhine-Westphalia,code05,7159.622
+2019,"Per 100,000 inhabitants",Other offences,North Rhine-Westphalia,code05,6847.448
+2020,"Per 100,000 inhabitants",Other offences,North Rhine-Westphalia,code05,6774.102
+2021,"Per 100,000 inhabitants",Other offences,North Rhine-Westphalia,code05,6702.56
+2022,"Per 100,000 inhabitants",Other offences,North Rhine-Westphalia,code05,6166.752
+2010,"Per 100,000 inhabitants",Other offences,Rhineland Palatinate,code07,6989.426
+2011,"Per 100,000 inhabitants",Other offences,Rhineland Palatinate,code07,6877.573
+2012,"Per 100,000 inhabitants",Other offences,Rhineland Palatinate,code07,6703.478
+2013,"Per 100,000 inhabitants",Other offences,Rhineland Palatinate,code07,6702.3
+2014,"Per 100,000 inhabitants",Other offences,Rhineland Palatinate,code07,6623.2
+2015,"Per 100,000 inhabitants",Other offences,Rhineland Palatinate,code07,6817.535
+2016,"Per 100,000 inhabitants",Other offences,Rhineland Palatinate,code07,6775.385
+2017,"Per 100,000 inhabitants",Other offences,Rhineland Palatinate,code07,6190.598
+2018,"Per 100,000 inhabitants",Other offences,Rhineland Palatinate,code07,6001.16
+2019,"Per 100,000 inhabitants",Other offences,Rhineland Palatinate,code07,5912.808
+2020,"Per 100,000 inhabitants",Other offences,Rhineland Palatinate,code07,5625.536
+2021,"Per 100,000 inhabitants",Other offences,Rhineland Palatinate,code07,5302.203
+2022,"Per 100,000 inhabitants",Other offences,Rhineland Palatinate,code07,4997.851
+2010,"Per 100,000 inhabitants",Other offences,Saarland,code10,7133.975
+2011,"Per 100,000 inhabitants",Other offences,Saarland,code10,6913.809
+2012,"Per 100,000 inhabitants",Other offences,Saarland,code10,7302.865
+2013,"Per 100,000 inhabitants",Other offences,Saarland,code10,7295.7
+2014,"Per 100,000 inhabitants",Other offences,Saarland,code10,7641.5
+2015,"Per 100,000 inhabitants",Other offences,Saarland,code10,7885.767
+2016,"Per 100,000 inhabitants",Other offences,Saarland,code10,7732.145
+2017,"Per 100,000 inhabitants",Other offences,Saarland,code10,7109.811
+2018,"Per 100,000 inhabitants",Other offences,Saarland,code10,7128.739
+2019,"Per 100,000 inhabitants",Other offences,Saarland,code10,7543.495
+2020,"Per 100,000 inhabitants",Other offences,Saarland,code10,6930.885
+2021,"Per 100,000 inhabitants",Other offences,Saarland,code10,5960.522
+2022,"Per 100,000 inhabitants",Other offences,Saarland,code10,5863.808
+2010,"Per 100,000 inhabitants",Other offences,Saxony,code14,7107.245
+2011,"Per 100,000 inhabitants",Other offences,Saxony,code14,7227.656
+2012,"Per 100,000 inhabitants",Other offences,Saxony,code14,7705.771
+2013,"Per 100,000 inhabitants",Other offences,Saxony,code14,7715.7
+2014,"Per 100,000 inhabitants",Other offences,Saxony,code14,8086.1
+2015,"Per 100,000 inhabitants",Other offences,Saxony,code14,7764.235
+2016,"Per 100,000 inhabitants",Other offences,Saxony,code14,7949.764
+2017,"Per 100,000 inhabitants",Other offences,Saxony,code14,7916.54
+2018,"Per 100,000 inhabitants",Other offences,Saxony,code14,6831.045
+2019,"Per 100,000 inhabitants",Other offences,Saxony,code14,6665.037
+2020,"Per 100,000 inhabitants",Other offences,Saxony,code14,6694.252
+2021,"Per 100,000 inhabitants",Other offences,Saxony,code14,6078.841
+2022,"Per 100,000 inhabitants",Other offences,Saxony,code14,5659.656
+2010,"Per 100,000 inhabitants",Other offences,Saxony-Anhalt,code15,8152.566
+2011,"Per 100,000 inhabitants",Other offences,Saxony-Anhalt,code15,8151.917
+2012,"Per 100,000 inhabitants",Other offences,Saxony-Anhalt,code15,8311.636
+2013,"Per 100,000 inhabitants",Other offences,Saxony-Anhalt,code15,8581.1
+2014,"Per 100,000 inhabitants",Other offences,Saxony-Anhalt,code15,8664.7
+2015,"Per 100,000 inhabitants",Other offences,Saxony-Anhalt,code15,8893.077
+2016,"Per 100,000 inhabitants",Other offences,Saxony-Anhalt,code15,8749.349
+2017,"Per 100,000 inhabitants",Other offences,Saxony-Anhalt,code15,8342.173
+2018,"Per 100,000 inhabitants",Other offences,Saxony-Anhalt,code15,7900.072
+2019,"Per 100,000 inhabitants",Other offences,Saxony-Anhalt,code15,7849.719
+2020,"Per 100,000 inhabitants",Other offences,Saxony-Anhalt,code15,8105.771
+2021,"Per 100,000 inhabitants",Other offences,Saxony-Anhalt,code15,7816.997
+2022,"Per 100,000 inhabitants",Other offences,Saxony-Anhalt,code15,6707.931
+2010,"Per 100,000 inhabitants",Other offences,Schleswig-Holstein,code01,7912.869
+2011,"Per 100,000 inhabitants",Other offences,Schleswig-Holstein,code01,7845.803
+2012,"Per 100,000 inhabitants",Other offences,Schleswig-Holstein,code01,7562.737
+2013,"Per 100,000 inhabitants",Other offences,Schleswig-Holstein,code01,7125.0
+2014,"Per 100,000 inhabitants",Other offences,Schleswig-Holstein,code01,7184.1
+2015,"Per 100,000 inhabitants",Other offences,Schleswig-Holstein,code01,7156.755
+2016,"Per 100,000 inhabitants",Other offences,Schleswig-Holstein,code01,7224.962
+2017,"Per 100,000 inhabitants",Other offences,Schleswig-Holstein,code01,6557.386
+2018,"Per 100,000 inhabitants",Other offences,Schleswig-Holstein,code01,6467.321
+2019,"Per 100,000 inhabitants",Other offences,Schleswig-Holstein,code01,6332.87
+2020,"Per 100,000 inhabitants",Other offences,Schleswig-Holstein,code01,5989.759
+2021,"Per 100,000 inhabitants",Other offences,Schleswig-Holstein,code01,6076.97
+2022,"Per 100,000 inhabitants",Other offences,Schleswig-Holstein,code01,5500.299
+2010,"Per 100,000 inhabitants",Other offences,Thuringia,code16,6240.479
+2011,"Per 100,000 inhabitants",Other offences,Thuringia,code16,6239.159
+2012,"Per 100,000 inhabitants",Other offences,Thuringia,code16,6421.287
+2013,"Per 100,000 inhabitants",Other offences,Thuringia,code16,6556.7
+2014,"Per 100,000 inhabitants",Other offences,Thuringia,code16,6574.3
+2015,"Per 100,000 inhabitants",Other offences,Thuringia,code16,6502.349
+2016,"Per 100,000 inhabitants",Other offences,Thuringia,code16,6874.512
+2017,"Per 100,000 inhabitants",Other offences,Thuringia,code16,6637.095
+2018,"Per 100,000 inhabitants",Other offences,Thuringia,code16,6654.782
+2019,"Per 100,000 inhabitants",Other offences,Thuringia,code16,6033.236
+2020,"Per 100,000 inhabitants",Other offences,Thuringia,code16,6652.97
+2021,"Per 100,000 inhabitants",Other offences,Thuringia,code16,6150.775
+2022,"Per 100,000 inhabitants",Other offences,Thuringia,code16,5294.844
