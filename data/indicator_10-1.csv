@@ -25,6 +25,7 @@ Year,Units,Series,sex,federal state,GeoCode,Value
 2019,percentage,foreigns,,,,82.4
 2020,percentage,foreigns,,,,85.3
 2021,percentage,foreigns,,,,84.3
+2022,percentage,foreigns,,,,84.0
 2030,percentage,foreigns,,,,
 1996,percentage,foreigns,female,,,84.5
 1997,percentage,foreigns,female,,,84.7
@@ -52,6 +53,7 @@ Year,Units,Series,sex,federal state,GeoCode,Value
 2019,percentage,foreigns,female,,,85.8
 2020,percentage,foreigns,female,,,88.0
 2021,percentage,foreigns,female,,,87.4
+2022,percentage,foreigns,female,,,86.9
 1996,percentage,foreigns,male,,,76.7
 1997,percentage,foreigns,male,,,76.8
 1998,percentage,foreigns,male,,,76.9
@@ -78,6 +80,7 @@ Year,Units,Series,sex,federal state,GeoCode,Value
 2019,percentage,foreigns,male,,,79.5
 2020,percentage,foreigns,male,,,83.0
 2021,percentage,foreigns,male,,,81.6
+2022,percentage,foreigns,male,,,81.4
 1996,percentage,germans,,,,92.3
 1997,percentage,germans,,,,92.3
 1998,percentage,germans,,,,92.1
@@ -104,6 +107,7 @@ Year,Units,Series,sex,federal state,GeoCode,Value
 2019,percentage,germans,,,,94.5
 2020,percentage,germans,,,,94.9
 2021,percentage,germans,,,,94.9
+2022,percentage,germans,,,,94.3
 2030,percentage,germans,,,,
 1996,percentage,foreigns,,baden-wuerttemberg,code08,80.0
 1997,percentage,foreigns,,baden-wuerttemberg,code08,80.3
@@ -1795,6 +1799,7 @@ Year,Units,Series,sex,federal state,GeoCode,Value
 2019,percentage,germans,female,,,95.8
 2020,percentage,germans,female,,,96.0
 2021,percentage,germans,female,,,96.0
+2022,percentage,germans,female,,,95.5
 1996,percentage,germans,male,,,90.1
 1997,percentage,germans,male,,,90.1
 1998,percentage,germans,male,,,89.8
@@ -1821,6 +1826,7 @@ Year,Units,Series,sex,federal state,GeoCode,Value
 2019,percentage,germans,male,,,93.3
 2020,percentage,germans,male,,,93.8
 2021,percentage,germans,male,,,93.8
+2022,percentage,germans,male,,,93.0
 1996,percentage points,difference,,,,11.9
 1997,percentage points,difference,,,,11.7
 1998,percentage points,difference,,,,11.6
@@ -1828,25 +1834,26 @@ Year,Units,Series,sex,federal state,GeoCode,Value
 2000,percentage points,difference,,,,11.6
 2001,percentage points,difference,,,,11.5
 2002,percentage points,difference,,,,11.2
-2003,percentage points,difference,,,,11.2
+2003,percentage points,difference,,,,11.1
 2004,percentage points,difference,,,,10.7
 2005,percentage points,difference,,,,10.2
-2006,percentage points,difference,,,,9.9
+2006,percentage points,difference,,,,9.8
 2007,percentage points,difference,,,,9.6
 2008,percentage points,difference,,,,8.8
-2009,percentage points,difference,,,,8.0
+2009,percentage points,difference,,,,8.1
 2010,percentage points,difference,,,,7.4
 2011,percentage points,difference,,,,6.8
 2012,percentage points,difference,,,,6.5
 2013,percentage points,difference,,,,6.1
-2014,percentage points,difference,,,,6.6
+2014,percentage points,difference,,,,7.1
 2015,percentage points,difference,,,,6.8
-2016,percentage points,difference,,,,9.3
-2017,percentage points,difference,,,,13.0
+2016,percentage points,difference,,,,9.2
+2017,percentage points,difference,,,,12.8
 2018,percentage points,difference,,,,12.8
-2019,percentage points,difference,,,,12.1
+2019,percentage points,difference,,,,12.2
 2020,percentage points,difference,,,,9.6
-2021,percentage points,difference,,,,10.6
+2021,percentage points,difference,,,,10.5
+2022,percentage points,difference,,,,10.3
 2030,percentage points,difference,,,,
 1996,percentage points,difference,female,,,10.0
 1997,percentage points,difference,female,,,9.9
@@ -1859,47 +1866,49 @@ Year,Units,Series,sex,federal state,GeoCode,Value
 2004,percentage points,difference,female,,,8.8
 2005,percentage points,difference,female,,,8.3
 2006,percentage points,difference,female,,,8.3
-2007,percentage points,difference,female,,,8.2
+2007,percentage points,difference,female,,,8.1
 2008,percentage points,difference,female,,,7.3
-2009,percentage points,difference,female,,,7.0
-2010,percentage points,difference,female,,,6.3
-2011,percentage points,difference,female,,,5.7
-2012,percentage points,difference,female,,,5.5
-2013,percentage points,difference,female,,,5.2
-2014,percentage points,difference,female,,,5.7
-2015,percentage points,difference,female,,,5.8
-2016,percentage points,difference,female,,,7.0
-2017,percentage points,difference,female,,,9.5
+2009,percentage points,difference,female,,,7.5
+2010,percentage points,difference,female,,,6.6
+2011,percentage points,difference,female,,,5.8
+2012,percentage points,difference,female,,,5.3
+2013,percentage points,difference,female,,,4.7
+2014,percentage points,difference,female,,,6.4
+2015,percentage points,difference,female,,,5.7
+2016,percentage points,difference,female,,,6.9
+2017,percentage points,difference,female,,,9.4
 2018,percentage points,difference,female,,,10.2
 2019,percentage points,difference,female,,,10.0
 2020,percentage points,difference,female,,,8.0
 2021,percentage points,difference,female,,,8.6
+2022,percentage points,difference,female,,,8.7
 1996,percentage points,difference,male,,,13.4
 1997,percentage points,difference,male,,,13.3
 1998,percentage points,difference,male,,,12.9
 1999,percentage points,difference,male,,,12.9
 2000,percentage points,difference,male,,,13.1
-2001,percentage points,difference,male,,,13.3
+2001,percentage points,difference,male,,,13.2
 2002,percentage points,difference,male,,,12.7
 2003,percentage points,difference,male,,,12.6
 2004,percentage points,difference,male,,,12.3
 2005,percentage points,difference,male,,,11.8
-2006,percentage points,difference,male,,,11.2
+2006,percentage points,difference,male,,,11.3
 2007,percentage points,difference,male,,,10.8
 2008,percentage points,difference,male,,,10.2
-2009,percentage points,difference,male,,,9.1
-2010,percentage points,difference,male,,,8.4
-2011,percentage points,difference,male,,,7.8
-2012,percentage points,difference,male,,,7.4
-2013,percentage points,difference,male,,,6.9
-2014,percentage points,difference,male,,,7.3
-2015,percentage points,difference,male,,,7.8
-2016,percentage points,difference,male,,,11.2
-2017,percentage points,difference,male,,,15.8
+2009,percentage points,difference,male,,,10.3
+2010,percentage points,difference,male,,,9.0
+2011,percentage points,difference,male,,,7.9
+2012,percentage points,difference,male,,,7.1
+2013,percentage points,difference,male,,,5.9
+2014,percentage points,difference,male,,,6.5
+2015,percentage points,difference,male,,,7.6
+2016,percentage points,difference,male,,,10.9
+2017,percentage points,difference,male,,,15.7
 2018,percentage points,difference,male,,,14.7
 2019,percentage points,difference,male,,,13.8
 2020,percentage points,difference,male,,,10.8
-2021,percentage points,difference,male,,,12.2
+2021,percentage points,difference,male,,,12.1
+2022,percentage points,difference,male,,,11.6
 1996,percentage points,difference,,baden-wuerttemberg,code08,13.7
 1997,percentage points,difference,,baden-wuerttemberg,code08,14.0
 1998,percentage points,difference,,baden-wuerttemberg,code08,14.0
