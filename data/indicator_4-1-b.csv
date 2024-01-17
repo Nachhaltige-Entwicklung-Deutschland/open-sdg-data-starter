@@ -1,74 +1,77 @@
 Year,Units,time series,sex,federal state,GeoCode,Value
-1999,percentage,,,,,33.35
-2010,percentage,,,,,41.31
-2011,percentage,,,,,42.22
-2012,percentage,,,,,43.43
-2013,percentage,,,,,44.48
-2014,percentage,,,,,45.67
-2015,percentage,,,,,46.77
-2016,percentage,,,,,47.88
-2017,percentage,,,,,48.84
-2018,percentage,,,,,49.83
-2019,percentage,,,,,50.49
+1999,percentage,,,,,33.4
+2010,percentage,,,,,41.3
+2011,percentage,,,,,42.2
+2012,percentage,,,,,43.4
+2013,percentage,,,,,44.5
+2014,percentage,,,,,45.7
+2015,percentage,,,,,46.8
+2016,percentage,,,,,47.9
+2017,percentage,,,,,48.8
+2018,percentage,,,,,49.8
+2019,percentage,,,,,50.5
 2020,percentage,,,,,52.3
-2021,percentage,,,,,53.238
+2021,percentage,,,,,53.2
+2022,percentage,,,,,53.7
 2000,percentage,,,,,33.0
-2001,percentage,,,,,33.17
-2002,percentage,,,,,33.28
-2003,percentage,,,,,33.89
-2004,percentage,,,,,36.22
-2005,percentage,,,,,35.99
+2001,percentage,,,,,33.2
+2002,percentage,,,,,33.3
+2003,percentage,,,,,33.9
+2004,percentage,,,,,36.2
+2005,percentage,,,,,36.0
 2006,percentage,,,,,36.5
-2007,percentage,,,,,37.63
-2008,percentage,,,,,38.77
-2009,percentage,,,,,40.71
+2007,percentage,,,,,37.6
+2008,percentage,,,,,38.8
+2009,percentage,,,,,40.7
 2030,percentage,,,,,
-1999,percentage,,female,,,31.39
-2010,percentage,,female,,,42.68
-2011,percentage,,female,,,44.42
-2012,percentage,,female,,,46.04
+1999,percentage,,female,,,31.4
+2010,percentage,,female,,,42.7
+2011,percentage,,female,,,44.4
+2012,percentage,,female,,,46.0
 2013,percentage,,female,,,46.8
-2014,percentage,,female,,,48.42
-2015,percentage,,female,,,50.52
+2014,percentage,,female,,,48.4
+2015,percentage,,female,,,50.5
 2016,percentage,,female,,,51.3
-2017,percentage,,female,,,52.64
-2018,percentage,,female,,,53.83
-2019,percentage,,female,,,54.41
-2020,percentage,,female,,,56.63
-2021,percentage,,female,,,57.158
-2000,percentage,,female,,,30.88
-2001,percentage,,female,,,31.09
-2002,percentage,,female,,,31.25
-2003,percentage,,female,,,32.19
-2004,percentage,,female,,,34.65
+2017,percentage,,female,,,52.6
+2018,percentage,,female,,,53.8
+2019,percentage,,female,,,54.4
+2020,percentage,,female,,,56.6
+2021,percentage,,female,,,57.2
+2022,percentage,,female,,,57.7
+2000,percentage,,female,,,30.9
+2001,percentage,,female,,,31.1
+2002,percentage,,female,,,31.3
+2003,percentage,,female,,,32.2
+2004,percentage,,female,,,34.7
 2005,percentage,,female,,,35.0
-2006,percentage,,female,,,36.48
-2007,percentage,,female,,,38.03
-2008,percentage,,female,,,39.68
-2009,percentage,,female,,,42.21
-1999,percentage,,male,,,35.22
-2010,percentage,,male,,,39.97
-2011,percentage,,male,,,40.07
-2012,percentage,,male,,,40.88
+2006,percentage,,female,,,36.5
+2007,percentage,,female,,,38.0
+2008,percentage,,female,,,39.7
+2009,percentage,,female,,,42.2
+1999,percentage,,male,,,35.2
+2010,percentage,,male,,,40.0
+2011,percentage,,male,,,40.1
+2012,percentage,,male,,,40.9
 2013,percentage,,male,,,42.2
-2014,percentage,,male,,,42.94
-2015,percentage,,male,,,43.11
-2016,percentage,,male,,,44.57
-2017,percentage,,male,,,45.19
-2018,percentage,,male,,,46.02
-2019,percentage,,male,,,46.76
-2020,percentage,,male,,,48.26
-2021,percentage,,male,,,49.553
-2000,percentage,,male,,,35.05
+2014,percentage,,male,,,42.9
+2015,percentage,,male,,,43.1
+2016,percentage,,male,,,44.6
+2017,percentage,,male,,,45.2
+2018,percentage,,male,,,46.0
+2019,percentage,,male,,,46.8
+2020,percentage,,male,,,48.3
+2021,percentage,,male,,,49.6
+2022,percentage,,male,,,50.0
+2000,percentage,,male,,,35.0
 2001,percentage,,male,,,35.2
-2002,percentage,,male,,,35.22
-2003,percentage,,male,,,35.49
-2004,percentage,,male,,,37.72
-2005,percentage,,male,,,36.95
-2006,percentage,,male,,,36.52
-2007,percentage,,male,,,37.25
-2008,percentage,,male,,,37.86
-2009,percentage,,male,,,39.23
+2002,percentage,,male,,,35.2
+2003,percentage,,male,,,35.5
+2004,percentage,,male,,,37.7
+2005,percentage,,male,,,37.0
+2006,percentage,,male,,,36.5
+2007,percentage,,male,,,37.3
+2008,percentage,,male,,,37.9
+2009,percentage,,male,,,39.2
 2010,percentage,,,baden-wuerttemberg,code08,42.28
 2011,percentage,,,baden-wuerttemberg,code08,43.36
 2012,percentage,,,baden-wuerttemberg,code08,44.92
@@ -885,143 +888,149 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,male,thuringia,code16,32.6
 2008,percentage,,male,thuringia,code16,30.4
 2009,percentage,,male,thuringia,code16,29.1
-1999,percentage,with tertiary qualification,,,,24.8
-2010,percentage,with tertiary qualification,,,,29.77
-2011,percentage,with tertiary qualification,,,,30.68
-2012,percentage,with tertiary qualification,,,,31.9
-2013,percentage,with tertiary qualification,,,,33.08
-2014,percentage,with tertiary qualification,,,,31.36
-2015,percentage,with tertiary qualification,,,,32.25
-2016,percentage,with tertiary qualification,,,,33.1
+1999,percentage,with tertiary qualification,,,,24.5
+2010,percentage,with tertiary qualification,,,,29.7
+2011,percentage,with tertiary qualification,,,,30.6
+2012,percentage,with tertiary qualification,,,,31.8
+2013,percentage,with tertiary qualification,,,,32.9
+2014,percentage,with tertiary qualification,,,,31.4
+2015,percentage,with tertiary qualification,,,,32.3
+2016,percentage,with tertiary qualification,,,,33.2
 2017,percentage,with tertiary qualification,,,,34.0
-2018,percentage,with tertiary qualification,,,,34.93
+2018,percentage,with tertiary qualification,,,,34.9
 2019,percentage,with tertiary qualification,,,,35.5
 2020,percentage,with tertiary qualification,,,,36.6
-2021,percentage,with tertiary qualification,,,,37.8
-2000,percentage,with tertiary qualification,,,,25.33
-2001,percentage,with tertiary qualification,,,,25.05
-2002,percentage,with tertiary qualification,,,,25.07
-2003,percentage,with tertiary qualification,,,,25.05
-2004,percentage,with tertiary qualification,,,,26.76
-2005,percentage,with tertiary qualification,,,,26.06
-2006,percentage,with tertiary qualification,,,,25.85
+2021,percentage,with tertiary qualification,,,,38.9
+2022,percentage,with tertiary qualification,,,,39.3
+2000,percentage,with tertiary qualification,,,,25.7
+2001,percentage,with tertiary qualification,,,,25.5
+2002,percentage,with tertiary qualification,,,,24.2
+2003,percentage,with tertiary qualification,,,,25.1
+2004,percentage,with tertiary qualification,,,,26.8
+2005,percentage,with tertiary qualification,,,,26.1
+2006,percentage,with tertiary qualification,,,,25.8
 2007,percentage,with tertiary qualification,,,,26.5
-2008,percentage,with tertiary qualification,,,,27.6
-2009,percentage,with tertiary qualification,,,,29.37
+2008,percentage,with tertiary qualification,,,,27.7
+2009,percentage,with tertiary qualification,,,,29.4
 2030,percentage,with tertiary qualification,,,,
-1999,percentage,with tertiary qualification,female,,,21.358
-2010,percentage,with tertiary qualification,female,,,29.658
-2011,percentage,with tertiary qualification,female,,,31.528
-2012,percentage,with tertiary qualification,female,,,32.87
-2013,percentage,with tertiary qualification,female,,,34.0
-2014,percentage,with tertiary qualification,female,,,30.804
-2015,percentage,with tertiary qualification,female,,,32.321
-2016,percentage,with tertiary qualification,female,,,32.9
-2017,percentage,with tertiary qualification,female,,,34.191
-2018,percentage,with tertiary qualification,female,,,35.335
-2019,percentage,with tertiary qualification,female,,,36.0
-2020,percentage,with tertiary qualification,female,,,37.3
-2021,percentage,with tertiary qualification,female,,,38.6
-2000,percentage,with tertiary qualification,female,,,21.778
-2001,percentage,with tertiary qualification,female,,,21.688
-2002,percentage,with tertiary qualification,female,,,22.091
-2003,percentage,with tertiary qualification,female,,,22.511
-2004,percentage,with tertiary qualification,female,,,24.258
-2005,percentage,with tertiary qualification,female,,,24.128
-2006,percentage,with tertiary qualification,female,,,24.415
-2007,percentage,with tertiary qualification,female,,,25.663
-2008,percentage,with tertiary qualification,female,,,26.974
-2009,percentage,with tertiary qualification,female,,,29.178
-1999,percentage,with tertiary qualification,male,,,28.072
-2010,percentage,with tertiary qualification,male,,,29.879
-2011,percentage,with tertiary qualification,male,,,29.843
-2012,percentage,with tertiary qualification,male,,,30.946
-2013,percentage,with tertiary qualification,male,,,32.178
-2014,percentage,with tertiary qualification,male,,,31.922
-2015,percentage,with tertiary qualification,male,,,32.19
-2016,percentage,with tertiary qualification,male,,,33.3
-2017,percentage,with tertiary qualification,male,,,33.816
-2018,percentage,with tertiary qualification,male,,,34.535
+1999,percentage,with tertiary qualification,female,,,20.9
+2010,percentage,with tertiary qualification,female,,,29.4
+2011,percentage,with tertiary qualification,female,,,31.3
+2012,percentage,with tertiary qualification,female,,,32.6
+2013,percentage,with tertiary qualification,female,,,33.7
+2014,percentage,with tertiary qualification,female,,,30.8
+2015,percentage,with tertiary qualification,female,,,32.4
+2016,percentage,with tertiary qualification,female,,,33.0
+2017,percentage,with tertiary qualification,female,,,34.2
+2018,percentage,with tertiary qualification,female,,,35.4
+2019,percentage,with tertiary qualification,female,,,35.9
+2020,percentage,with tertiary qualification,female,,,36.6
+2021,percentage,with tertiary qualification,female,,,39.6
+2022,percentage,with tertiary qualification,female,,,40.6
+2000,percentage,with tertiary qualification,female,,,22.6
+2001,percentage,with tertiary qualification,female,,,21.9
+2002,percentage,with tertiary qualification,female,,,21.4
+2003,percentage,with tertiary qualification,female,,,22.5
+2004,percentage,with tertiary qualification,female,,,24.3
+2005,percentage,with tertiary qualification,female,,,24.1
+2006,percentage,with tertiary qualification,female,,,24.4
+2007,percentage,with tertiary qualification,female,,,25.7
+2008,percentage,with tertiary qualification,female,,,27.0
+2009,percentage,with tertiary qualification,female,,,29.2
+1999,percentage,with tertiary qualification,male,,,28.0
+2010,percentage,with tertiary qualification,male,,,29.9
+2011,percentage,with tertiary qualification,male,,,29.9
+2012,percentage,with tertiary qualification,male,,,31.0
+2013,percentage,with tertiary qualification,male,,,32.2
+2014,percentage,with tertiary qualification,male,,,32.0
+2015,percentage,with tertiary qualification,male,,,32.2
+2016,percentage,with tertiary qualification,male,,,33.4
+2017,percentage,with tertiary qualification,male,,,33.8
+2018,percentage,with tertiary qualification,male,,,34.5
 2019,percentage,with tertiary qualification,male,,,35.1
-2020,percentage,with tertiary qualification,male,,,36.0
-2021,percentage,with tertiary qualification,male,,,37.0
-2000,percentage,with tertiary qualification,male,,,28.762
-2001,percentage,with tertiary qualification,male,,,28.33
-2002,percentage,with tertiary qualification,male,,,27.933
-2003,percentage,with tertiary qualification,male,,,27.431
-2004,percentage,with tertiary qualification,male,,,29.151
-2005,percentage,with tertiary qualification,male,,,27.957
-2006,percentage,with tertiary qualification,male,,,27.247
-2007,percentage,with tertiary qualification,male,,,27.31
-2008,percentage,with tertiary qualification,male,,,28.226
-2009,percentage,with tertiary qualification,male,,,29.56
-1999,percentage,with post-secondary non-tertiary qualification,,,,8.55
-2010,percentage,with post-secondary non-tertiary qualification,,,,11.545
-2011,percentage,with post-secondary non-tertiary qualification,,,,11.548
-2012,percentage,with post-secondary non-tertiary qualification,,,,11.535
-2013,percentage,with post-secondary non-tertiary qualification,,,,11.4
-2014,percentage,with post-secondary non-tertiary qualification,,,,14.306
-2015,percentage,with post-secondary non-tertiary qualification,,,,14.515
-2016,percentage,with post-secondary non-tertiary qualification,,,,14.779
-2017,percentage,with post-secondary non-tertiary qualification,,,,14.836
-2018,percentage,with post-secondary non-tertiary qualification,,,,14.907
-2019,percentage,with post-secondary non-tertiary qualification,,,,14.988
+2020,percentage,with tertiary qualification,male,,,36.6
+2021,percentage,with tertiary qualification,male,,,38.3
+2022,percentage,with tertiary qualification,male,,,38.1
+2000,percentage,with tertiary qualification,male,,,28.8
+2001,percentage,with tertiary qualification,male,,,29.0
+2002,percentage,with tertiary qualification,male,,,26.8
+2003,percentage,with tertiary qualification,male,,,27.5
+2004,percentage,with tertiary qualification,male,,,29.1
+2005,percentage,with tertiary qualification,male,,,28.0
+2006,percentage,with tertiary qualification,male,,,27.2
+2007,percentage,with tertiary qualification,male,,,27.3
+2008,percentage,with tertiary qualification,male,,,28.3
+2009,percentage,with tertiary qualification,male,,,29.6
+1999,percentage,with post-secondary non-tertiary qualification,,,,8.9
+2010,percentage,with post-secondary non-tertiary qualification,,,,11.6
+2011,percentage,with post-secondary non-tertiary qualification,,,,11.6
+2012,percentage,with post-secondary non-tertiary qualification,,,,11.6
+2013,percentage,with post-secondary non-tertiary qualification,,,,11.6
+2014,percentage,with post-secondary non-tertiary qualification,,,,14.3
+2015,percentage,with post-secondary non-tertiary qualification,,,,14.5
+2016,percentage,with post-secondary non-tertiary qualification,,,,14.7
+2017,percentage,with post-secondary non-tertiary qualification,,,,14.8
+2018,percentage,with post-secondary non-tertiary qualification,,,,14.9
+2019,percentage,with post-secondary non-tertiary qualification,,,,15.0
 2020,percentage,with post-secondary non-tertiary qualification,,,,15.7
-2021,percentage,with post-secondary non-tertiary qualification,,,,15.4
-2000,percentage,with post-secondary non-tertiary qualification,,,,7.666
-2001,percentage,with post-secondary non-tertiary qualification,,,,8.12
-2002,percentage,with post-secondary non-tertiary qualification,,,,8.206
-2003,percentage,with post-secondary non-tertiary qualification,,,,8.847
-2004,percentage,with post-secondary non-tertiary qualification,,,,9.463
-2005,percentage,with post-secondary non-tertiary qualification,,,,9.923
-2006,percentage,with post-secondary non-tertiary qualification,,,,10.655
-2007,percentage,with post-secondary non-tertiary qualification,,,,11.135
-2008,percentage,with post-secondary non-tertiary qualification,,,,11.163
-2009,percentage,with post-secondary non-tertiary qualification,,,,11.343
+2021,percentage,with post-secondary non-tertiary qualification,,,,14.3
+2022,percentage,with post-secondary non-tertiary qualification,,,,14.4
+2000,percentage,with post-secondary non-tertiary qualification,,,,7.3
+2001,percentage,with post-secondary non-tertiary qualification,,,,7.7
+2002,percentage,with post-secondary non-tertiary qualification,,,,9.1
+2003,percentage,with post-secondary non-tertiary qualification,,,,8.8
+2004,percentage,with post-secondary non-tertiary qualification,,,,9.4
+2005,percentage,with post-secondary non-tertiary qualification,,,,9.9
+2006,percentage,with post-secondary non-tertiary qualification,,,,10.7
+2007,percentage,with post-secondary non-tertiary qualification,,,,11.1
+2008,percentage,with post-secondary non-tertiary qualification,,,,11.1
+2009,percentage,with post-secondary non-tertiary qualification,,,,11.3
 2030,percentage,with post-secondary non-tertiary qualification,,,,
-1999,percentage,with post-secondary non-tertiary qualification,female,,,10.031
-2010,percentage,with post-secondary non-tertiary qualification,female,,,13.019
-2011,percentage,with post-secondary non-tertiary qualification,female,,,12.891
-2012,percentage,with post-secondary non-tertiary qualification,female,,,13.171
-2013,percentage,with post-secondary non-tertiary qualification,female,,,12.803
-2014,percentage,with post-secondary non-tertiary qualification,female,,,17.611
-2015,percentage,with post-secondary non-tertiary qualification,female,,,18.2
-2016,percentage,with post-secondary non-tertiary qualification,female,,,18.395
-2017,percentage,with post-secondary non-tertiary qualification,female,,,18.449
-2018,percentage,with post-secondary non-tertiary qualification,female,,,18.492
-2019,percentage,with post-secondary non-tertiary qualification,female,,,18.411
-2020,percentage,with post-secondary non-tertiary qualification,female,,,19.328
-2021,percentage,with post-secondary non-tertiary qualification,female,,,18.8
-2000,percentage,with post-secondary non-tertiary qualification,female,,,9.101
-2001,percentage,with post-secondary non-tertiary qualification,female,,,9.4
-2002,percentage,with post-secondary non-tertiary qualification,female,,,9.16
-2003,percentage,with post-secondary non-tertiary qualification,female,,,9.682
-2004,percentage,with post-secondary non-tertiary qualification,female,,,10.395
-2005,percentage,with post-secondary non-tertiary qualification,female,,,10.873
-2006,percentage,with post-secondary non-tertiary qualification,female,,,12.066
-2007,percentage,with post-secondary non-tertiary qualification,female,,,12.363
-2008,percentage,with post-secondary non-tertiary qualification,female,,,12.711
-2009,percentage,with post-secondary non-tertiary qualification,female,,,13.032
-1999,percentage,with post-secondary non-tertiary qualification,male,,,7.144
-2010,percentage,with post-secondary non-tertiary qualification,male,,,10.095
-2011,percentage,with post-secondary non-tertiary qualification,male,,,10.23
-2012,percentage,with post-secondary non-tertiary qualification,male,,,9.935
-2013,percentage,with post-secondary non-tertiary qualification,male,,,10.018
-2014,percentage,with post-secondary non-tertiary qualification,male,,,11.015
-2015,percentage,with post-secondary non-tertiary qualification,male,,,10.918
-2016,percentage,with post-secondary non-tertiary qualification,male,,,11.274
-2017,percentage,with post-secondary non-tertiary qualification,male,,,11.372
-2018,percentage,with post-secondary non-tertiary qualification,male,,,11.485
-2019,percentage,with post-secondary non-tertiary qualification,male,,,11.664
-2020,percentage,with post-secondary non-tertiary qualification,male,,,12.261
-2021,percentage,with post-secondary non-tertiary qualification,male,,,12.1
-2000,percentage,with post-secondary non-tertiary qualification,male,,,6.283
-2001,percentage,with post-secondary non-tertiary qualification,male,,,6.869
-2002,percentage,with post-secondary non-tertiary qualification,male,,,7.29
-2003,percentage,with post-secondary non-tertiary qualification,male,,,8.062
-2004,percentage,with post-secondary non-tertiary qualification,male,,,8.571
-2005,percentage,with post-secondary non-tertiary qualification,male,,,8.995
-2006,percentage,with post-secondary non-tertiary qualification,male,,,9.273
-2007,percentage,with post-secondary non-tertiary qualification,male,,,9.941
-2008,percentage,with post-secondary non-tertiary qualification,male,,,9.633
-2009,percentage,with post-secondary non-tertiary qualification,male,,,9.673
+1999,percentage,with post-secondary non-tertiary qualification,female,,,10.5
+2010,percentage,with post-secondary non-tertiary qualification,female,,,13.3
+2011,percentage,with post-secondary non-tertiary qualification,female,,,13.1
+2012,percentage,with post-secondary non-tertiary qualification,female,,,13.4
+2013,percentage,with post-secondary non-tertiary qualification,female,,,13.1
+2014,percentage,with post-secondary non-tertiary qualification,female,,,17.6
+2015,percentage,with post-secondary non-tertiary qualification,female,,,18.1
+2016,percentage,with post-secondary non-tertiary qualification,female,,,18.3
+2017,percentage,with post-secondary non-tertiary qualification,female,,,18.4
+2018,percentage,with post-secondary non-tertiary qualification,female,,,18.4
+2019,percentage,with post-secondary non-tertiary qualification,female,,,18.5
+2020,percentage,with post-secondary non-tertiary qualification,female,,,20.0
+2021,percentage,with post-secondary non-tertiary qualification,female,,,17.6
+2022,percentage,with post-secondary non-tertiary qualification,female,,,17.1
+2000,percentage,with post-secondary non-tertiary qualification,female,,,8.3
+2001,percentage,with post-secondary non-tertiary qualification,female,,,9.2
+2002,percentage,with post-secondary non-tertiary qualification,female,,,9.9
+2003,percentage,with post-secondary non-tertiary qualification,female,,,9.7
+2004,percentage,with post-secondary non-tertiary qualification,female,,,10.4
+2005,percentage,with post-secondary non-tertiary qualification,female,,,10.9
+2006,percentage,with post-secondary non-tertiary qualification,female,,,12.1
+2007,percentage,with post-secondary non-tertiary qualification,female,,,12.3
+2008,percentage,with post-secondary non-tertiary qualification,female,,,12.7
+2009,percentage,with post-secondary non-tertiary qualification,female,,,13.0
+1999,percentage,with post-secondary non-tertiary qualification,male,,,7.2
+2010,percentage,with post-secondary non-tertiary qualification,male,,,10.1
+2011,percentage,with post-secondary non-tertiary qualification,male,,,10.2
+2012,percentage,with post-secondary non-tertiary qualification,male,,,9.9
+2013,percentage,with post-secondary non-tertiary qualification,male,,,10.0
+2014,percentage,with post-secondary non-tertiary qualification,male,,,10.9
+2015,percentage,with post-secondary non-tertiary qualification,male,,,10.9
+2016,percentage,with post-secondary non-tertiary qualification,male,,,11.2
+2017,percentage,with post-secondary non-tertiary qualification,male,,,11.4
+2018,percentage,with post-secondary non-tertiary qualification,male,,,11.5
+2019,percentage,with post-secondary non-tertiary qualification,male,,,11.7
+2020,percentage,with post-secondary non-tertiary qualification,male,,,11.7
+2021,percentage,with post-secondary non-tertiary qualification,male,,,11.3
+2022,percentage,with post-secondary non-tertiary qualification,male,,,11.9
+2000,percentage,with post-secondary non-tertiary qualification,male,,,6.2
+2001,percentage,with post-secondary non-tertiary qualification,male,,,6.2
+2002,percentage,with post-secondary non-tertiary qualification,male,,,8.4
+2003,percentage,with post-secondary non-tertiary qualification,male,,,8.0
+2004,percentage,with post-secondary non-tertiary qualification,male,,,8.6
+2005,percentage,with post-secondary non-tertiary qualification,male,,,9.0
+2006,percentage,with post-secondary non-tertiary qualification,male,,,9.3
+2007,percentage,with post-secondary non-tertiary qualification,male,,,10.0
+2008,percentage,with post-secondary non-tertiary qualification,male,,,9.6
+2009,percentage,with post-secondary non-tertiary qualification,male,,,9.6
