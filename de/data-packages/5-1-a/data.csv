@@ -16,6 +16,7 @@ Year,Units,Bundesland,GeoCode,Value
 2020,Prozent,,,18.0
 2021,Prozent,,,18.0
 2022,Prozent,,,18.0
+2023,Prozent,,,18.0
 2006,Prozent,Baden-Württemberg,code08,28.0
 2007,Prozent,Baden-Württemberg,code08,28.0
 2008,Prozent,Baden-Württemberg,code08,28.0
@@ -33,6 +34,7 @@ Year,Units,Bundesland,GeoCode,Value
 2020,Prozent,Baden-Württemberg,code08,23.0
 2021,Prozent,Baden-Württemberg,code08,22.0
 2022,Prozent,Baden-Württemberg,code08,23.0
+2023,Prozent,Baden-Württemberg,code08,22.0
 2006,Prozent,Bayern,code09,23.0
 2007,Prozent,Bayern,code09,24.0
 2008,Prozent,Bayern,code09,25.0
@@ -50,6 +52,7 @@ Year,Units,Bundesland,GeoCode,Value
 2020,Prozent,Bayern,code09,22.0
 2021,Prozent,Bayern,code09,21.0
 2022,Prozent,Bayern,code09,21.0
+2023,Prozent,Bayern,code09,21.0
 2006,Prozent,Berlin,code11,14.0
 2007,Prozent,Berlin,code11,14.0
 2008,Prozent,Berlin,code11,16.0
@@ -67,6 +70,7 @@ Year,Units,Bundesland,GeoCode,Value
 2020,Prozent,Berlin,code11,10.0
 2021,Prozent,Berlin,code11,10.0
 2022,Prozent,Berlin,code11,10.0
+2023,Prozent,Berlin,code11,11.0
 2006,Prozent,Brandenburg,code12,6.0
 2007,Prozent,Brandenburg,code12,7.0
 2008,Prozent,Brandenburg,code12,7.0
@@ -84,6 +88,7 @@ Year,Units,Bundesland,GeoCode,Value
 2020,Prozent,Brandenburg,code12,6.0
 2021,Prozent,Brandenburg,code12,5.0
 2022,Prozent,Brandenburg,code12,6.0
+2023,Prozent,Brandenburg,code12,4.0
 2006,Prozent,Bremen,code04,25.0
 2007,Prozent,Bremen,code04,27.0
 2008,Prozent,Bremen,code04,27.0
@@ -101,6 +106,7 @@ Year,Units,Bundesland,GeoCode,Value
 2020,Prozent,Bremen,code04,22.0
 2021,Prozent,Bremen,code04,22.0
 2022,Prozent,Bremen,code04,20.0
+2023,Prozent,Bremen,code04,19.0
 2006,Prozent,Hamburg,code02,20.0
 2007,Prozent,Hamburg,code02,22.0
 2008,Prozent,Hamburg,code02,22.0
@@ -118,6 +124,7 @@ Year,Units,Bundesland,GeoCode,Value
 2020,Prozent,Hamburg,code02,21.0
 2021,Prozent,Hamburg,code02,21.0
 2022,Prozent,Hamburg,code02,18.0
+2023,Prozent,Hamburg,code02,18.0
 2006,Prozent,Hessen,code06,23.0
 2007,Prozent,Hessen,code06,24.0
 2008,Prozent,Hessen,code06,24.0
@@ -135,6 +142,7 @@ Year,Units,Bundesland,GeoCode,Value
 2020,Prozent,Hessen,code06,18.0
 2021,Prozent,Hessen,code06,18.0
 2022,Prozent,Hessen,code06,21.0
+2023,Prozent,Hessen,code06,20.0
 2006,Prozent,Mecklenburg-Vorpommern,code13,2.0
 2007,Prozent,Mecklenburg-Vorpommern,code13,2.0
 2008,Prozent,Mecklenburg-Vorpommern,code13,3.0
@@ -152,6 +160,7 @@ Year,Units,Bundesland,GeoCode,Value
 2020,Prozent,Mecklenburg-Vorpommern,code13,6.0
 2021,Prozent,Mecklenburg-Vorpommern,code13,5.0
 2022,Prozent,Mecklenburg-Vorpommern,code13,6.0
+2023,Prozent,Mecklenburg-Vorpommern,code13,7.0
 2006,Prozent,Niedersachsen,code03,25.0
 2007,Prozent,Niedersachsen,code03,24.0
 2008,Prozent,Niedersachsen,code03,23.0
@@ -169,6 +178,7 @@ Year,Units,Bundesland,GeoCode,Value
 2020,Prozent,Niedersachsen,code03,19.0
 2021,Prozent,Niedersachsen,code03,19.0
 2022,Prozent,Niedersachsen,code03,18.0
+2023,Prozent,Niedersachsen,code03,18.0
 2006,Prozent,Nordrhein-Westfalen,code05,24.0
 2007,Prozent,Nordrhein-Westfalen,code05,24.0
 2008,Prozent,Nordrhein-Westfalen,code05,24.0
@@ -186,6 +196,7 @@ Year,Units,Bundesland,GeoCode,Value
 2020,Prozent,Nordrhein-Westfalen,code05,18.0
 2021,Prozent,Nordrhein-Westfalen,code05,17.0
 2022,Prozent,Nordrhein-Westfalen,code05,17.0
+2023,Prozent,Nordrhein-Westfalen,code05,17.0
 2006,Prozent,Rheinland-Pfalz,code07,21.0
 2007,Prozent,Rheinland-Pfalz,code07,22.0
 2008,Prozent,Rheinland-Pfalz,code07,22.0
@@ -203,6 +214,7 @@ Year,Units,Bundesland,GeoCode,Value
 2020,Prozent,Rheinland-Pfalz,code07,15.0
 2021,Prozent,Rheinland-Pfalz,code07,15.0
 2022,Prozent,Rheinland-Pfalz,code07,15.0
+2023,Prozent,Rheinland-Pfalz,code07,15.0
 2006,Prozent,Saarland,code10,24.0
 2007,Prozent,Saarland,code10,26.0
 2008,Prozent,Saarland,code10,26.0
@@ -220,6 +232,7 @@ Year,Units,Bundesland,GeoCode,Value
 2020,Prozent,Saarland,code10,20.0
 2021,Prozent,Saarland,code10,20.0
 2022,Prozent,Saarland,code10,18.0
+2023,Prozent,Saarland,code10,22.0
 2006,Prozent,Sachsen,code14,9.0
 2007,Prozent,Sachsen,code14,9.0
 2008,Prozent,Sachsen,code14,9.0
@@ -237,6 +250,7 @@ Year,Units,Bundesland,GeoCode,Value
 2020,Prozent,Sachsen,code14,7.0
 2021,Prozent,Sachsen,code14,6.0
 2022,Prozent,Sachsen,code14,8.0
+2023,Prozent,Sachsen,code14,9.0
 2006,Prozent,Sachsen-Anhalt,code15,3.0
 2007,Prozent,Sachsen-Anhalt,code15,3.0
 2008,Prozent,Sachsen-Anhalt,code15,3.0
@@ -254,6 +268,7 @@ Year,Units,Bundesland,GeoCode,Value
 2020,Prozent,Sachsen-Anhalt,code15,8.0
 2021,Prozent,Sachsen-Anhalt,code15,7.0
 2022,Prozent,Sachsen-Anhalt,code15,6.0
+2023,Prozent,Sachsen-Anhalt,code15,5.0
 2006,Prozent,Schleswig-Holstein,code01,18.0
 2007,Prozent,Schleswig-Holstein,code01,18.0
 2008,Prozent,Schleswig-Holstein,code01,19.0
@@ -271,6 +286,7 @@ Year,Units,Bundesland,GeoCode,Value
 2020,Prozent,Schleswig-Holstein,code01,13.0
 2021,Prozent,Schleswig-Holstein,code01,12.0
 2022,Prozent,Schleswig-Holstein,code01,12.0
+2023,Prozent,Schleswig-Holstein,code01,12.0
 2006,Prozent,Thüringen,code16,6.0
 2007,Prozent,Thüringen,code16,5.0
 2008,Prozent,Thüringen,code16,5.0
@@ -288,3 +304,4 @@ Year,Units,Bundesland,GeoCode,Value
 2020,Prozent,Thüringen,code16,5.0
 2021,Prozent,Thüringen,code16,5.0
 2022,Prozent,Thüringen,code16,7.0
+2023,Prozent,Thüringen,code16,7.0
