@@ -534,37 +534,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prozent",
-                "Prozentpunkte",
+                "2000 = 100",
+                "Einwohner/-innen pro m² Siedlungs- und Verkehrsfläche",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Series",
+            "name": "degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ausländer",
-                "Deutsche",
-                "Differenz",
+                "Nicht-ländliche Gebiete",
+                "Ländliche Gebiete",
                 ""
               ]
             },
-            "title": "Series"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
+            "title": "Verstädterungsgrad"
           },
           {
             "name": "federal state",

@@ -492,31 +492,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
-                "percentage points",
+                "2000 = 100",
+                "inhabitants per m² settlement and transport area",
                 ""
               ]
             }
           },
           {
-            "name": "Series",
+            "name": "degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "foreigns",
-                "germans",
-                "difference",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
+                "non-rural areas",
+                "rural areas",
                 ""
               ]
             }
