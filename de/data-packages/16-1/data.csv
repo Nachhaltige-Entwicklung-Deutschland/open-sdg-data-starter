@@ -22,13 +22,14 @@ Year,Units,Straftaten,Bundesland,GeoCode,Value
 2013,Je 100 000 Einwohner/-innen,,,,7403.6
 2014,Je 100 000 Einwohner/-innen,,,,7530.3
 2015,Je 100 000 Einwohner/-innen,,,,7796.6
-2016,Je 100 000 Einwohner/-innen,,,,7754.759
+2016,Je 100 000 Einwohner/-innen,,,,7754.8
 2017,Je 100 000 Einwohner/-innen,,,,6982.4
 2018,Je 100 000 Einwohner/-innen,,,,6710.185
 2019,Je 100 000 Einwohner/-innen,,,,6548.365
 2020,Je 100 000 Einwohner/-innen,,,,6385.513
 2021,Je 100 000 Einwohner/-innen,,,,6070.42
-2022,Je 100 000 Einwohner/-innen,,,,6762.102
+2022,Je 100 000 Einwohner/-innen,,,,6762.108
+2023,Je 100 000 Einwohner/-innen,,,,7042.139
 2030,Je 100 000 Einwohner/-innen,,,,
 1993,Je 100 000 Einwohner/-innen,,Baden-Württemberg,code08,6123.163
 1994,Je 100 000 Einwohner/-innen,,Baden-Württemberg,code08,5729.469
@@ -533,13 +534,14 @@ Year,Units,Straftaten,Bundesland,GeoCode,Value
 2013,Je 100 000 Einwohner/-innen,Gefährliche und schwere Körperverletzung,,,158.8
 2014,Je 100 000 Einwohner/-innen,Gefährliche und schwere Körperverletzung,,,155.7
 2015,Je 100 000 Einwohner/-innen,Gefährliche und schwere Körperverletzung,,,156.9
-2016,Je 100 000 Einwohner/-innen,Gefährliche und schwere Körperverletzung,,,170.407
-2017,Je 100 000 Einwohner/-innen,Gefährliche und schwere Körperverletzung,,,166.3
+2016,Je 100 000 Einwohner/-innen,Gefährliche und schwere Körperverletzung,,,170.4
+2017,Je 100 000 Einwohner/-innen,Gefährliche und schwere Körperverletzung,,,166.1
 2018,Je 100 000 Einwohner/-innen,Gefährliche und schwere Körperverletzung,,,165.144
 2019,Je 100 000 Einwohner/-innen,Gefährliche und schwere Körperverletzung,,,160.305
 2020,Je 100 000 Einwohner/-innen,Gefährliche und schwere Körperverletzung,,,156.857
 2021,Je 100 000 Einwohner/-innen,Gefährliche und schwere Körperverletzung,,,147.124
 2022,Je 100 000 Einwohner/-innen,Gefährliche und schwere Körperverletzung,,,173.796
+2023,Je 100 000 Einwohner/-innen,Gefährliche und schwere Körperverletzung,,,183.195
 1993,Je 100 000 Einwohner/-innen,Betrug,,,653.924
 1994,Je 100 000 Einwohner/-innen,Betrug,,,724.436
 1995,Je 100 000 Einwohner/-innen,Betrug,,,767.389
@@ -570,6 +572,7 @@ Year,Units,Straftaten,Bundesland,GeoCode,Value
 2020,Je 100 000 Einwohner/-innen,Betrug,,,971.632
 2021,Je 100 000 Einwohner/-innen,Betrug,,,954.388
 2022,Je 100 000 Einwohner/-innen,Betrug,,,962.806
+2023,Je 100 000 Einwohner/-innen,Betrug,,,894.38
 1993,Je 100 000 Einwohner/-innen,Wohnungseinbruchsdiebstahl,,,281.031
 1994,Je 100 000 Einwohner/-innen,Wohnungseinbruchsdiebstahl,,,260.192
 1995,Je 100 000 Einwohner/-innen,Wohnungseinbruchsdiebstahl,,,260.099
@@ -593,13 +596,14 @@ Year,Units,Straftaten,Bundesland,GeoCode,Value
 2013,Je 100 000 Einwohner/-innen,Wohnungseinbruchsdiebstahl,,,185.7
 2014,Je 100 000 Einwohner/-innen,Wohnungseinbruchsdiebstahl,,,188.3
 2015,Je 100 000 Einwohner/-innen,Wohnungseinbruchsdiebstahl,,,205.8
-2016,Je 100 000 Einwohner/-innen,Wohnungseinbruchsdiebstahl,,,184.075
+2016,Je 100 000 Einwohner/-innen,Wohnungseinbruchsdiebstahl,,,184.1
 2017,Je 100 000 Einwohner/-innen,Wohnungseinbruchsdiebstahl,,,141.2
 2018,Je 100 000 Einwohner/-innen,Wohnungseinbruchsdiebstahl,,,117.769
 2019,Je 100 000 Einwohner/-innen,Wohnungseinbruchsdiebstahl,,,104.97
 2020,Je 100 000 Einwohner/-innen,Wohnungseinbruchsdiebstahl,,,90.208
 2021,Je 100 000 Einwohner/-innen,Wohnungseinbruchsdiebstahl,,,65.223
 2022,Je 100 000 Einwohner/-innen,Wohnungseinbruchsdiebstahl,,,79.181
+2023,Je 100 000 Einwohner/-innen,Wohnungseinbruchsdiebstahl,,,92.248
 1993,Je 100 000 Einwohner/-innen,Sonstige Straftaten,,,7310.504
 1994,Je 100 000 Einwohner/-innen,Sonstige Straftaten,,,6969.442
 1995,Je 100 000 Einwohner/-innen,Sonstige Straftaten,,,7066.485
@@ -623,13 +627,14 @@ Year,Units,Straftaten,Bundesland,GeoCode,Value
 2013,Je 100 000 Einwohner/-innen,Sonstige Straftaten,,,5894.4
 2014,Je 100 000 Einwohner/-innen,Sonstige Straftaten,,,5986.7
 2015,Je 100 000 Einwohner/-innen,Sonstige Straftaten,,,6243.8
-2016,Je 100 000 Einwohner/-innen,Sonstige Straftaten,,,6306.277
-2017,Je 100 000 Einwohner/-innen,Sonstige Straftaten,,,5571.7
+2016,Je 100 000 Einwohner/-innen,Sonstige Straftaten,,,6306.3
+2017,Je 100 000 Einwohner/-innen,Sonstige Straftaten,,,5571.9
 2018,Je 100 000 Einwohner/-innen,Sonstige Straftaten,,,5411.739
 2019,Je 100 000 Einwohner/-innen,Sonstige Straftaten,,,5279.749
 2020,Je 100 000 Einwohner/-innen,Sonstige Straftaten,,,5166.816
 2021,Je 100 000 Einwohner/-innen,Sonstige Straftaten,,,4903.685
 2022,Je 100 000 Einwohner/-innen,Sonstige Straftaten,,,5546.324
+2023,Je 100 000 Einwohner/-innen,Sonstige Straftaten,,,5872.316
 2010,Je 100 000 Einwohner/-innen,Gefährliche und schwere Körperverletzung,Baden-Württemberg,code08,140.436
 2011,Je 100 000 Einwohner/-innen,Gefährliche und schwere Körperverletzung,Baden-Württemberg,code08,136.651
 2012,Je 100 000 Einwohner/-innen,Gefährliche und schwere Körperverletzung,Baden-Württemberg,code08,130.95
