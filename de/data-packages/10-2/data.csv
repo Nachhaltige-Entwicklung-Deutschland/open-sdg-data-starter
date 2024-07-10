@@ -15,7 +15,7 @@ Year,Units,Zeitreihe,Gebiet,Bundesland,GeoCode,Value
 2020,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Deutschland,,,0.362
 2021,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Deutschland,,,0.381
 2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Deutschland,,,0.356
-2023,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Deutschland,,,0.356
+2023,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Deutschland,,,0.358
 2007,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,EU,,,0.361
 2008,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,EU,,,0.361
 2009,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,EU,,,0.36
@@ -32,7 +32,7 @@ Year,Units,Zeitreihe,Gebiet,Bundesland,GeoCode,Value
 2020,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,EU,,,0.349
 2021,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,EU,,,0.36
 2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,EU,,,0.349
-2023,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,EU,,,
+2023,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,EU,,,0.347
 2007,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,,0.304
 2008,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,,0.302
 2009,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,,0.291
@@ -49,7 +49,7 @@ Year,Units,Zeitreihe,Gebiet,Bundesland,GeoCode,Value
 2020,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,,0.305
 2021,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,,0.312
 2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,,0.29
-2023,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,,0.293
+2023,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,,0.294
 2007,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,EU,,,0.306
 2008,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,EU,,,0.31
 2009,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,EU,,,0.306
@@ -66,7 +66,7 @@ Year,Units,Zeitreihe,Gebiet,Bundesland,GeoCode,Value
 2020,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,EU,,,0.3
 2021,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,EU,,,0.302
 2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,EU,,,0.296
-2023,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,EU,,,
+2023,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,EU,,,0.296
 2007,Gini-Koeffizient,Gini-Koeffizient des Markteinkommens,Deutschland,,,
 2008,Gini-Koeffizient,Gini-Koeffizient des Markteinkommens,Deutschland,,,0.494
 2009,Gini-Koeffizient,Gini-Koeffizient des Markteinkommens,Deutschland,,,0.493
@@ -121,48 +121,64 @@ Year,Units,Zeitreihe,Gebiet,Bundesland,GeoCode,Value
 2020,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Baden-Württemberg,code08,0.29
 2021,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Baden-Württemberg,code08,0.29
 2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Baden-Württemberg,code08,0.29
+2023,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Baden-Württemberg,code08,0.29
 2020,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Bayern,code09,0.29
 2021,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Bayern,code09,0.3
 2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Bayern,code09,0.3
+2023,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Bayern,code09,0.3
 2020,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Berlin,code11,0.32
 2021,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Berlin,code11,0.32
 2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Berlin,code11,0.31
+2023,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Berlin,code11,0.32
 2020,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Brandenburg,code12,0.28
 2021,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Brandenburg,code12,0.28
-2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Brandenburg,code12,0.26
+2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Brandenburg,code12,0.27
+2023,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Brandenburg,code12,0.27
 2020,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Bremen,code04,0.32
 2021,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Bremen,code04,0.33
 2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Bremen,code04,0.31
+2023,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Bremen,code04,0.31
 2020,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Hamburg,code02,0.31
 2021,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Hamburg,code02,0.33
 2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Hamburg,code02,0.33
+2023,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Hamburg,code02,0.32
 2020,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Hessen,code06,0.32
 2021,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Hessen,code06,0.32
 2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Hessen,code06,0.31
+2023,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Hessen,code06,0.32
 2020,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Mecklenburg-Vorpommern,code13,0.26
 2021,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Mecklenburg-Vorpommern,code13,0.25
 2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Mecklenburg-Vorpommern,code13,0.25
+2023,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Mecklenburg-Vorpommern,code13,0.26
 2020,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Niedersachsen,code03,0.29
 2021,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Niedersachsen,code03,0.3
 2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Niedersachsen,code03,0.3
+2023,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Niedersachsen,code03,0.29
 2020,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Nordrhein-Westfalen,code05,0.3
 2021,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Nordrhein-Westfalen,code05,0.32
-2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Nordrhein-Westfalen,code05,0.31
+2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Nordrhein-Westfalen,code05,0.32
+2023,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Nordrhein-Westfalen,code05,0.31
 2020,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Rheinland-Pfalz,code07,0.29
 2021,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Rheinland-Pfalz,code07,0.29
-2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Rheinland-Pfalz,code07,0.29
+2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Rheinland-Pfalz,code07,0.3
+2023,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Rheinland-Pfalz,code07,0.29
 2020,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Saarland,code10,0.28
 2021,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Saarland,code10,0.29
-2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Saarland,code10,0.3
+2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Saarland,code10,0.29
+2023,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Saarland,code10,0.29
 2020,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Sachsen,code14,0.25
 2021,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Sachsen,code14,0.26
 2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Sachsen,code14,0.25
+2023,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Sachsen,code14,0.25
 2020,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Sachsen-Anhalt,code15,0.26
 2021,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Sachsen-Anhalt,code15,0.26
 2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Sachsen-Anhalt,code15,0.26
+2023,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Sachsen-Anhalt,code15,0.26
 2020,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Schleswig-Holstein,code01,0.29
 2021,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Schleswig-Holstein,code01,0.29
-2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Schleswig-Holstein,code01,0.29
+2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Schleswig-Holstein,code01,0.3
+2023,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Schleswig-Holstein,code01,0.3
 2020,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Thüringen,code16,0.25
 2021,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Thüringen,code16,0.26
 2022,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Thüringen,code16,0.25
+2023,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,,Thüringen,code16,0.25

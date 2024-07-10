@@ -68,7 +68,8 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Percentage,Structural deficit,Baden-Wuerttemberg,code08,0.75
 2020,Percentage,Structural deficit,Baden-Wuerttemberg,code08,-0.937
 2021,Percentage,Structural deficit,Baden-Wuerttemberg,code08,0.664
-2022,Percentage,Structural deficit,Baden-Wuerttemberg,code08,0.558
+2022,Percentage,Structural deficit,Baden-Wuerttemberg,code08,0.555
+2023,Percentage,Structural deficit,Baden-Wuerttemberg,code08,0.087
 2010,Percentage,Structural deficit,Bavaria,code09,-0.368
 2011,Percentage,Structural deficit,Bavaria,code09,0.318
 2012,Percentage,Structural deficit,Bavaria,code09,0.541
@@ -79,9 +80,10 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2017,Percentage,Structural deficit,Bavaria,code09,0.926
 2018,Percentage,Structural deficit,Bavaria,code09,1.055
 2019,Percentage,Structural deficit,Bavaria,code09,0.147
-2020,Percentage,Structural deficit,Bavaria,code09,-1.055
-2021,Percentage,Structural deficit,Bavaria,code09,0.147
+2020,Percentage,Structural deficit,Bavaria,code09,-1.057
+2021,Percentage,Structural deficit,Bavaria,code09,0.146
 2022,Percentage,Structural deficit,Bavaria,code09,0.435
+2023,Percentage,Structural deficit,Bavaria,code09,-0.304
 2010,Percentage,Structural deficit,Berlin,code11,-1.374
 2011,Percentage,Structural deficit,Berlin,code11,-0.903
 2012,Percentage,Structural deficit,Berlin,code11,0.026
@@ -92,9 +94,10 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2017,Percentage,Structural deficit,Berlin,code11,1.721
 2018,Percentage,Structural deficit,Berlin,code11,1.542
 2019,Percentage,Structural deficit,Berlin,code11,0.745
-2020,Percentage,Structural deficit,Berlin,code11,-1.086
-2021,Percentage,Structural deficit,Berlin,code11,-1.311
-2022,Percentage,Structural deficit,Berlin,code11,0.821
+2020,Percentage,Structural deficit,Berlin,code11,-1.088
+2021,Percentage,Structural deficit,Berlin,code11,-1.307
+2022,Percentage,Structural deficit,Berlin,code11,0.823
+2023,Percentage,Structural deficit,Berlin,code11,-0.401
 2010,Percentage,Structural deficit,Brandenburg,code12,-1.079
 2011,Percentage,Structural deficit,Brandenburg,code12,0.145
 2012,Percentage,Structural deficit,Brandenburg,code12,0.212
@@ -105,9 +108,10 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2017,Percentage,Structural deficit,Brandenburg,code12,1.41
 2018,Percentage,Structural deficit,Brandenburg,code12,1.482
 2019,Percentage,Structural deficit,Brandenburg,code12,-0.785
-2020,Percentage,Structural deficit,Brandenburg,code12,-1.069
-2021,Percentage,Structural deficit,Brandenburg,code12,-0.204
+2020,Percentage,Structural deficit,Brandenburg,code12,-1.067
+2021,Percentage,Structural deficit,Brandenburg,code12,-0.203
 2022,Percentage,Structural deficit,Brandenburg,code12,0.45
+2023,Percentage,Structural deficit,Brandenburg,code12,-0.122
 2010,Percentage,Structural deficit,Bremen,code04,-4.818
 2011,Percentage,Structural deficit,Bremen,code04,-3.202
 2012,Percentage,Structural deficit,Bremen,code04,-2.037
@@ -120,7 +124,8 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Percentage,Structural deficit,Bremen,code04,0.647
 2020,Percentage,Structural deficit,Bremen,code04,-0.859
 2021,Percentage,Structural deficit,Bremen,code04,-0.071
-2022,Percentage,Structural deficit,Bremen,code04,-0.352
+2022,Percentage,Structural deficit,Bremen,code04,-0.367
+2023,Percentage,Structural deficit,Bremen,code04,-1.361
 2010,Percentage,Structural deficit,Hamburg,code02,-0.88
 2011,Percentage,Structural deficit,Hamburg,code02,-0.404
 2012,Percentage,Structural deficit,Hamburg,code02,-1.054
@@ -131,9 +136,10 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2017,Percentage,Structural deficit,Hamburg,code02,-0.259
 2018,Percentage,Structural deficit,Hamburg,code02,-0.508
 2019,Percentage,Structural deficit,Hamburg,code02,0.202
-2020,Percentage,Structural deficit,Hamburg,code02,-0.832
-2021,Percentage,Structural deficit,Hamburg,code02,-0.323
-2022,Percentage,Structural deficit,Hamburg,code02,2.292
+2020,Percentage,Structural deficit,Hamburg,code02,-0.829
+2021,Percentage,Structural deficit,Hamburg,code02,-0.315
+2022,Percentage,Structural deficit,Hamburg,code02,2.229
+2023,Percentage,Structural deficit,Hamburg,code02,0.462
 2010,Percentage,Structural deficit,Hesse,code06,-2.018
 2011,Percentage,Structural deficit,Hesse,code06,-1.7
 2012,Percentage,Structural deficit,Hesse,code06,-1.52
@@ -144,9 +150,10 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2017,Percentage,Structural deficit,Hesse,code06,0.553
 2018,Percentage,Structural deficit,Hesse,code06,0.555
 2019,Percentage,Structural deficit,Hesse,code06,0.62
-2020,Percentage,Structural deficit,Hesse,code06,-0.984
-2021,Percentage,Structural deficit,Hesse,code06,0.392
-2022,Percentage,Structural deficit,Hesse,code06,0.628
+2020,Percentage,Structural deficit,Hesse,code06,-0.985
+2021,Percentage,Structural deficit,Hesse,code06,0.388
+2022,Percentage,Structural deficit,Hesse,code06,0.624
+2023,Percentage,Structural deficit,Hesse,code06,-0.373
 2010,Percentage,Structural deficit,Mecklenburg Western Pomerania,code13,-0.395
 2011,Percentage,Structural deficit,Mecklenburg Western Pomerania,code13,0.466
 2012,Percentage,Structural deficit,Mecklenburg Western Pomerania,code13,-0.316
@@ -159,7 +166,8 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Percentage,Structural deficit,Mecklenburg Western Pomerania,code13,0.433
 2020,Percentage,Structural deficit,Mecklenburg Western Pomerania,code13,-0.195
 2021,Percentage,Structural deficit,Mecklenburg Western Pomerania,code13,0.449
-2022,Percentage,Structural deficit,Mecklenburg Western Pomerania,code13,1.263
+2022,Percentage,Structural deficit,Mecklenburg Western Pomerania,code13,1.231
+2023,Percentage,Structural deficit,Mecklenburg Western Pomerania,code13,-0.401
 2010,Percentage,Structural deficit,Lower Saxony,code03,-1.097
 2011,Percentage,Structural deficit,Lower Saxony,code03,-1.005
 2012,Percentage,Structural deficit,Lower Saxony,code03,-0.061
@@ -171,8 +179,9 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2018,Percentage,Structural deficit,Lower Saxony,code03,1.274
 2019,Percentage,Structural deficit,Lower Saxony,code03,1.088
 2020,Percentage,Structural deficit,Lower Saxony,code03,-0.465
-2021,Percentage,Structural deficit,Lower Saxony,code03,0.268
-2022,Percentage,Structural deficit,Lower Saxony,code03,0.431
+2021,Percentage,Structural deficit,Lower Saxony,code03,0.267
+2022,Percentage,Structural deficit,Lower Saxony,code03,0.43
+2023,Percentage,Structural deficit,Lower Saxony,code03,0.387
 2010,Percentage,Structural deficit,North Rhine-Westphalia,code05,-1.592
 2011,Percentage,Structural deficit,North Rhine-Westphalia,code05,-0.98
 2012,Percentage,Structural deficit,North Rhine-Westphalia,code05,-0.696
@@ -183,9 +192,10 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2017,Percentage,Structural deficit,North Rhine-Westphalia,code05,0.4
 2018,Percentage,Structural deficit,North Rhine-Westphalia,code05,0.728
 2019,Percentage,Structural deficit,North Rhine-Westphalia,code05,0.949
-2020,Percentage,Structural deficit,North Rhine-Westphalia,code05,-1.036
+2020,Percentage,Structural deficit,North Rhine-Westphalia,code05,-1.037
 2021,Percentage,Structural deficit,North Rhine-Westphalia,code05,0.077
 2022,Percentage,Structural deficit,North Rhine-Westphalia,code05,-0.585
+2023,Percentage,Structural deficit,North Rhine-Westphalia,code05,-0.515
 2010,Percentage,Structural deficit,Rhineland Palatinate,code07,-2.326
 2011,Percentage,Structural deficit,Rhineland Palatinate,code07,-1.978
 2012,Percentage,Structural deficit,Rhineland Palatinate,code07,-1.033
@@ -196,9 +206,10 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2017,Percentage,Structural deficit,Rhineland Palatinate,code07,1.082
 2018,Percentage,Structural deficit,Rhineland Palatinate,code07,1.016
 2019,Percentage,Structural deficit,Rhineland Palatinate,code07,1.06
-2020,Percentage,Structural deficit,Rhineland Palatinate,code07,-0.358
-2021,Percentage,Structural deficit,Rhineland Palatinate,code07,1.79
-2022,Percentage,Structural deficit,Rhineland Palatinate,code07,1.165
+2020,Percentage,Structural deficit,Rhineland Palatinate,code07,-0.359
+2021,Percentage,Structural deficit,Rhineland Palatinate,code07,1.786
+2022,Percentage,Structural deficit,Rhineland Palatinate,code07,1.164
+2023,Percentage,Structural deficit,Rhineland Palatinate,code07,0.024
 2010,Percentage,Structural deficit,Saarland,code10,-3.954
 2011,Percentage,Structural deficit,Saarland,code10,-3.21
 2012,Percentage,Structural deficit,Saarland,code10,-3.24
@@ -210,8 +221,9 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2018,Percentage,Structural deficit,Saarland,code10,0.826
 2019,Percentage,Structural deficit,Saarland,code10,0.67
 2020,Percentage,Structural deficit,Saarland,code10,-0.113
-2021,Percentage,Structural deficit,Saarland,code10,-0.221
-2022,Percentage,Structural deficit,Saarland,code10,-8.193
+2021,Percentage,Structural deficit,Saarland,code10,-0.217
+2022,Percentage,Structural deficit,Saarland,code10,-8.124
+2023,Percentage,Structural deficit,Saarland,code10,1.225
 2010,Percentage,Structural deficit,Saxony,code14,0.036
 2011,Percentage,Structural deficit,Saxony,code14,1.943
 2012,Percentage,Structural deficit,Saxony,code14,1.63
@@ -224,7 +236,8 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Percentage,Structural deficit,Saxony,code14,0.638
 2020,Percentage,Structural deficit,Saxony,code14,-2.271
 2021,Percentage,Structural deficit,Saxony,code14,0.112
-2022,Percentage,Structural deficit,Saxony,code14,0.969
+2022,Percentage,Structural deficit,Saxony,code14,0.971
+2023,Percentage,Structural deficit,Saxony,code14,0.226
 2010,Percentage,Structural deficit,Saxony-Anhalt,code15,-1.291
 2011,Percentage,Structural deficit,Saxony-Anhalt,code15,-0.031
 2012,Percentage,Structural deficit,Saxony-Anhalt,code15,0.344
@@ -235,9 +248,10 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2017,Percentage,Structural deficit,Saxony-Anhalt,code15,1.173
 2018,Percentage,Structural deficit,Saxony-Anhalt,code15,1.294
 2019,Percentage,Structural deficit,Saxony-Anhalt,code15,0.805
-2020,Percentage,Structural deficit,Saxony-Anhalt,code15,-1.008
-2021,Percentage,Structural deficit,Saxony-Anhalt,code15,0.359
-2022,Percentage,Structural deficit,Saxony-Anhalt,code15,0.517
+2020,Percentage,Structural deficit,Saxony-Anhalt,code15,-1.007
+2021,Percentage,Structural deficit,Saxony-Anhalt,code15,0.361
+2022,Percentage,Structural deficit,Saxony-Anhalt,code15,0.523
+2023,Percentage,Structural deficit,Saxony-Anhalt,code15,0.037
 2010,Percentage,Structural deficit,Schleswig-Holstein,code01,-2.265
 2011,Percentage,Structural deficit,Schleswig-Holstein,code01,-1.04
 2012,Percentage,Structural deficit,Schleswig-Holstein,code01,-0.39
@@ -248,9 +262,10 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2017,Percentage,Structural deficit,Schleswig-Holstein,code01,0.449
 2018,Percentage,Structural deficit,Schleswig-Holstein,code01,-1.724
 2019,Percentage,Structural deficit,Schleswig-Holstein,code01,0.079
-2020,Percentage,Structural deficit,Schleswig-Holstein,code01,-0.208
-2021,Percentage,Structural deficit,Schleswig-Holstein,code01,0.206
-2022,Percentage,Structural deficit,Schleswig-Holstein,code01,0.234
+2020,Percentage,Structural deficit,Schleswig-Holstein,code01,-0.207
+2021,Percentage,Structural deficit,Schleswig-Holstein,code01,0.205
+2022,Percentage,Structural deficit,Schleswig-Holstein,code01,0.233
+2023,Percentage,Structural deficit,Schleswig-Holstein,code01,-0.97
 2010,Percentage,Structural deficit,Thuringia,code16,-1.273
 2011,Percentage,Structural deficit,Thuringia,code16,-0.388
 2012,Percentage,Structural deficit,Thuringia,code16,0.658
@@ -262,5 +277,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2018,Percentage,Structural deficit,Thuringia,code16,1.776
 2019,Percentage,Structural deficit,Thuringia,code16,1.309
 2020,Percentage,Structural deficit,Thuringia,code16,-0.413
-2021,Percentage,Structural deficit,Thuringia,code16,0.128
-2022,Percentage,Structural deficit,Thuringia,code16,1.893
+2021,Percentage,Structural deficit,Thuringia,code16,0.129
+2022,Percentage,Structural deficit,Thuringia,code16,1.903
+2023,Percentage,Structural deficit,Thuringia,code16,0.329
