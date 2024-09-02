@@ -50,8 +50,9 @@ Year,Units,federal state,GeoCode,Value
 2016,percentage,bavaria,code09,19.828
 2017,percentage,bavaria,code09,20.312
 2018,percentage,bavaria,code09,21.17
-2019,percentage,bavaria,code09,20.684
+2019,percentage,bavaria,code09,21.748
 2020,percentage,bavaria,code09,24.227
+2021,percentage,bavaria,code09,24.498
 2005,percentage,berlin,code11,1.248
 2006,percentage,berlin,code11,1.934
 2007,percentage,berlin,code11,2.346
@@ -114,7 +115,8 @@ Year,Units,federal state,GeoCode,Value
 2018,percentage,hamburg,code02,5.635
 2019,percentage,hamburg,code02,7.267
 2020,percentage,hamburg,code02,8.241
-2021,percentage,hamburg,code02,9.205
+2021,percentage,hamburg,code02,9.236
+2022,percentage,hamburg,code02,9.899
 2005,percentage,hesse,code06,4.264
 2006,percentage,hesse,code06,5.286
 2007,percentage,hesse,code06,6.082
@@ -144,7 +146,8 @@ Year,Units,federal state,GeoCode,Value
 2018,percentage,lower saxony,code03,22.324
 2019,percentage,lower saxony,code03,24.27
 2020,percentage,lower saxony,code03,26.952
-2021,percentage,lower saxony,code03,24.536
+2021,percentage,lower saxony,code03,24.496
+2022,percentage,lower saxony,code03,26.424
 2005,percentage,north rhine-westphalia,code05,3.177
 2006,percentage,north rhine-westphalia,code05,4.068
 2007,percentage,north rhine-westphalia,code05,4.63
@@ -158,24 +161,24 @@ Year,Units,federal state,GeoCode,Value
 2015,percentage,north rhine-westphalia,code05,6.331
 2016,percentage,north rhine-westphalia,code05,6.422
 2017,percentage,north rhine-westphalia,code05,6.841
-2018,percentage,north rhine-westphalia,code05,7.303
-2019,percentage,north rhine-westphalia,code05,7.93
-2020,percentage,north rhine-westphalia,code05,8.764
-2005,percentage,rhineland palatinate,code07,5.512
-2006,percentage,rhineland palatinate,code07,7.517
-2007,percentage,rhineland palatinate,code07,9.187
-2008,percentage,rhineland palatinate,code07,8.67
-2009,percentage,rhineland palatinate,code07,9.193
-2010,percentage,rhineland palatinate,code07,10.023
-2011,percentage,rhineland palatinate,code07,10.784
-2012,percentage,rhineland palatinate,code07,12.313
-2013,percentage,rhineland palatinate,code07,12.818
-2014,percentage,rhineland palatinate,code07,13.046
-2015,percentage,rhineland palatinate,code07,14.27
-2016,percentage,rhineland palatinate,code07,14.094
-2017,percentage,rhineland palatinate,code07,14.67
-2018,percentage,rhineland palatinate,code07,15.403
-2019,percentage,rhineland palatinate,code07,15.957
+2018,percentage,north rhine-westphalia,code05,7.304
+2019,percentage,north rhine-westphalia,code05,7.931
+2020,percentage,north rhine-westphalia,code05,8.772
+2021,percentage,north rhine-westphalia,code05,9.501
+2005,percentage,rhineland palatinate,code07,5.863
+2006,percentage,rhineland palatinate,code07,7.9
+2007,percentage,rhineland palatinate,code07,9.58
+2008,percentage,rhineland palatinate,code07,9.22
+2009,percentage,rhineland palatinate,code07,9.789
+2010,percentage,rhineland palatinate,code07,10.749
+2011,percentage,rhineland palatinate,code07,11.357
+2012,percentage,rhineland palatinate,code07,12.91
+2013,percentage,rhineland palatinate,code07,13.435
+2014,percentage,rhineland palatinate,code07,13.543
+2015,percentage,rhineland palatinate,code07,14.801
+2016,percentage,rhineland palatinate,code07,14.602
+2017,percentage,rhineland palatinate,code07,15.192
+2018,percentage,rhineland palatinate,code07,15.488
 2005,percentage,saarland,code10,1.83
 2006,percentage,saarland,code10,2.212
 2007,percentage,saarland,code10,2.704
@@ -187,11 +190,11 @@ Year,Units,federal state,GeoCode,Value
 2013,percentage,saarland,code10,3.651
 2014,percentage,saarland,code10,3.938
 2015,percentage,saarland,code10,4.439
-2005,percentage,saxony,code14,3.583
-2006,percentage,saxony,code14,6.585
-2007,percentage,saxony,code14,7.859
-2008,percentage,saxony,code14,7.57
-2009,percentage,saxony,code14,8.121
+2005,percentage,saxony,code14,4.923
+2006,percentage,saxony,code14,6.111
+2007,percentage,saxony,code14,7.587
+2008,percentage,saxony,code14,7.312
+2009,percentage,saxony,code14,7.847
 2010,percentage,saxony,code14,8.45
 2011,percentage,saxony,code14,9.628
 2012,percentage,saxony,code14,10.239
@@ -202,38 +205,41 @@ Year,Units,federal state,GeoCode,Value
 2017,percentage,saxony,code14,11.887
 2018,percentage,saxony,code14,12.137
 2019,percentage,saxony,code14,12.638
-2005,percentage,saxony-anhalt,code15,7.941
-2006,percentage,saxony-anhalt,code15,12.39
-2007,percentage,saxony-anhalt,code15,16.33
-2008,percentage,saxony-anhalt,code15,16.791
-2009,percentage,saxony-anhalt,code15,17.829
-2010,percentage,saxony-anhalt,code15,18.188
-2011,percentage,saxony-anhalt,code15,20.586
-2012,percentage,saxony-anhalt,code15,20.781
-2013,percentage,saxony-anhalt,code15,21.86
-2014,percentage,saxony-anhalt,code15,22.859
-2015,percentage,saxony-anhalt,code15,25.687
-2016,percentage,saxony-anhalt,code15,23.397
-2017,percentage,saxony-anhalt,code15,26.263
+2005,percentage,saxony-anhalt,code15,8.595
+2006,percentage,saxony-anhalt,code15,10.852
+2007,percentage,saxony-anhalt,code15,14.71
+2008,percentage,saxony-anhalt,code15,15.349
+2009,percentage,saxony-anhalt,code15,16.371
+2010,percentage,saxony-anhalt,code15,16.237
+2011,percentage,saxony-anhalt,code15,18.804
+2012,percentage,saxony-anhalt,code15,19.43
+2013,percentage,saxony-anhalt,code15,20.384
+2014,percentage,saxony-anhalt,code15,21.568
+2015,percentage,saxony-anhalt,code15,24.163
+2016,percentage,saxony-anhalt,code15,22.093
+2017,percentage,saxony-anhalt,code15,24.943
 2018,percentage,saxony-anhalt,code15,23.752
 2019,percentage,saxony-anhalt,code15,25.995
 2020,percentage,saxony-anhalt,code15,18.961
+2021,percentage,saxony-anhalt,code15,25.434
 2005,percentage,schleswig-holstein,code01,9.253
 2006,percentage,schleswig-holstein,code01,10.516
 2007,percentage,schleswig-holstein,code01,13.925
 2008,percentage,schleswig-holstein,code01,14.399
 2009,percentage,schleswig-holstein,code01,15.047
 2010,percentage,schleswig-holstein,code01,17.187
-2011,percentage,schleswig-holstein,code01,19.77
-2012,percentage,schleswig-holstein,code01,20.774
-2013,percentage,schleswig-holstein,code01,20.577
-2014,percentage,schleswig-holstein,code01,23.474
-2015,percentage,schleswig-holstein,code01,30.563
-2016,percentage,schleswig-holstein,code01,31.867
-2017,percentage,schleswig-holstein,code01,36.084
-2018,percentage,schleswig-holstein,code01,37.198
-2019,percentage,schleswig-holstein,code01,40.25
-2020,percentage,schleswig-holstein,code01,41.595
+2011,percentage,schleswig-holstein,code01,19.771
+2012,percentage,schleswig-holstein,code01,20.891
+2013,percentage,schleswig-holstein,code01,20.585
+2014,percentage,schleswig-holstein,code01,23.477
+2015,percentage,schleswig-holstein,code01,30.655
+2016,percentage,schleswig-holstein,code01,31.916
+2017,percentage,schleswig-holstein,code01,36.152
+2018,percentage,schleswig-holstein,code01,37.235
+2019,percentage,schleswig-holstein,code01,40.251
+2020,percentage,schleswig-holstein,code01,41.593
+2021,percentage,schleswig-holstein,code01,39.187
+2022,percentage,schleswig-holstein,code01,12.065
 2005,percentage,thuringia,code16,12.43
 2006,percentage,thuringia,code16,13.675
 2007,percentage,thuringia,code16,16.69
