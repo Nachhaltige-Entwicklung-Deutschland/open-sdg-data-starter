@@ -134,7 +134,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,,Baden-Wuerttemberg,code08,81.5
 2019,Percentage,Foreigns,,Baden-Wuerttemberg,code08,84.1
 2020,Percentage,Foreigns,,Baden-Wuerttemberg,code08,85.5
-2021,Percentage,Foreigns,,Baden-Wuerttemberg,code08,84.5
+2021,Percentage,Foreigns,,Baden-Wuerttemberg,code08,84.46
+2022,Percentage,Foreigns,,Baden-Wuerttemberg,code08,82.944
 1996,Percentage,Foreigns,Female,Baden-Wuerttemberg,code08,84.1
 1997,Percentage,Foreigns,Female,Baden-Wuerttemberg,code08,84.4
 1998,Percentage,Foreigns,Female,Baden-Wuerttemberg,code08,84.6
@@ -157,10 +158,11 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2015,Percentage,Foreigns,Female,Baden-Wuerttemberg,code08,91.5
 2016,Percentage,Foreigns,Female,Baden-Wuerttemberg,code08,89.7
 2017,Percentage,Foreigns,Female,Baden-Wuerttemberg,code08,85.5
-2018,Percentage,Foreigns,Female,Baden-Wuerttemberg,code08,85.5
-2019,Percentage,Foreigns,Female,Baden-Wuerttemberg,code08,87.0
-2020,Percentage,Foreigns,Female,Baden-Wuerttemberg,code08,88.1
+2018,Percentage,Foreigns,Female,Baden-Wuerttemberg,code08,87.0
+2019,Percentage,Foreigns,Female,Baden-Wuerttemberg,code08,88.1
+2020,Percentage,Foreigns,Female,Baden-Wuerttemberg,code08,87.7
 2021,Percentage,Foreigns,Female,Baden-Wuerttemberg,code08,87.7
+2022,Percentage,Foreigns,Female,Baden-Wuerttemberg,code08,85.286
 1996,Percentage,Foreigns,Male,Baden-Wuerttemberg,code08,76.3
 1997,Percentage,Foreigns,Male,Baden-Wuerttemberg,code08,76.6
 1998,Percentage,Foreigns,Male,Baden-Wuerttemberg,code08,78.0
@@ -186,7 +188,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Male,Baden-Wuerttemberg,code08,78.2
 2019,Percentage,Foreigns,Male,Baden-Wuerttemberg,code08,81.7
 2020,Percentage,Foreigns,Male,Baden-Wuerttemberg,code08,83.2
-2021,Percentage,Foreigns,Male,Baden-Wuerttemberg,code08,81.6
+2021,Percentage,Foreigns,Male,Baden-Wuerttemberg,code08,81.553
+2022,Percentage,Foreigns,Male,Baden-Wuerttemberg,code08,80.838
 1996,Percentage,Foreigns,,Bavaria,code09,74.8
 1997,Percentage,Foreigns,,Bavaria,code09,74.8
 1998,Percentage,Foreigns,,Bavaria,code09,72.8
@@ -212,7 +215,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,,Bavaria,code09,81.2
 2019,Percentage,Foreigns,,Bavaria,code09,82.2
 2020,Percentage,Foreigns,,Bavaria,code09,84.4
-2021,Percentage,Foreigns,,Bavaria,code09,84.8
+2021,Percentage,Foreigns,,Bavaria,code09,84.84
+2022,Percentage,Foreigns,,Bavaria,code09,86.702
 1996,Percentage,Foreigns,Female,Bavaria,code09,80.1
 1997,Percentage,Foreigns,Female,Bavaria,code09,80.3
 1998,Percentage,Foreigns,Female,Bavaria,code09,76.8
@@ -238,7 +242,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Female,Bavaria,code09,85.7
 2019,Percentage,Foreigns,Female,Bavaria,code09,86.6
 2020,Percentage,Foreigns,Female,Bavaria,code09,87.4
-2021,Percentage,Foreigns,Female,Bavaria,code09,88.4
+2021,Percentage,Foreigns,Female,Bavaria,code09,88.397
+2022,Percentage,Foreigns,Female,Bavaria,code09,89.926
 1996,Percentage,Foreigns,Male,Bavaria,code09,70.1
 1997,Percentage,Foreigns,Male,Bavaria,code09,69.6
 1998,Percentage,Foreigns,Male,Bavaria,code09,69.1
@@ -264,7 +269,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Male,Bavaria,code09,77.8
 2019,Percentage,Foreigns,Male,Bavaria,code09,78.5
 2020,Percentage,Foreigns,Male,Bavaria,code09,81.8
-2021,Percentage,Foreigns,Male,Bavaria,code09,81.6
+2021,Percentage,Foreigns,Male,Bavaria,code09,81.585
+2022,Percentage,Foreigns,Male,Bavaria,code09,83.801
 1996,Percentage,Foreigns,,Berlin,code11,73.3
 1997,Percentage,Foreigns,,Berlin,code11,73.0
 1998,Percentage,Foreigns,,Berlin,code11,69.4
@@ -290,7 +296,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,,Berlin,code11,78.3
 2019,Percentage,Foreigns,,Berlin,code11,81.1
 2020,Percentage,Foreigns,,Berlin,code11,92.8
-2021,Percentage,Foreigns,,Berlin,code11,84.3
+2021,Percentage,Foreigns,,Berlin,code11,84.313
+2022,Percentage,Foreigns,,Berlin,code11,100.0
 1996,Percentage,Foreigns,Female,Berlin,code11,79.8
 1997,Percentage,Foreigns,Female,Berlin,code11,78.3
 1998,Percentage,Foreigns,Female,Berlin,code11,76.2
@@ -315,8 +322,9 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2017,Percentage,Foreigns,Female,Berlin,code11,82.4
 2018,Percentage,Foreigns,Female,Berlin,code11,83.0
 2019,Percentage,Foreigns,Female,Berlin,code11,85.3
-2020,Percentage,Foreigns,Female,Berlin,code11,95.3
-2021,Percentage,Foreigns,Female,Berlin,code11,85.7
+2020,Percentage,Foreigns,Female,Berlin,code11,85.7
+2021,Percentage,Foreigns,Female,Berlin,code11,85.722
+2022,Percentage,Foreigns,Female,Berlin,code11,100.0
 1996,Percentage,Foreigns,Male,Berlin,code11,67.5
 1997,Percentage,Foreigns,Male,Berlin,code11,68.7
 1998,Percentage,Foreigns,Male,Berlin,code11,63.8
@@ -342,7 +350,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Male,Berlin,code11,74.4
 2019,Percentage,Foreigns,Male,Berlin,code11,77.5
 2020,Percentage,Foreigns,Male,Berlin,code11,90.6
-2021,Percentage,Foreigns,Male,Berlin,code11,83.1
+2021,Percentage,Foreigns,Male,Berlin,code11,83.07
+2022,Percentage,Foreigns,Male,Berlin,code11,100.0
 1996,Percentage,Foreigns,,Brandenburg,code12,95.8
 1997,Percentage,Foreigns,,Brandenburg,code12,92.7
 1998,Percentage,Foreigns,,Brandenburg,code12,91.1
@@ -368,7 +377,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,,Brandenburg,code12,81.0
 2019,Percentage,Foreigns,,Brandenburg,code12,83.9
 2020,Percentage,Foreigns,,Brandenburg,code12,95.2
-2021,Percentage,Foreigns,,Brandenburg,code12,91.4
+2021,Percentage,Foreigns,,Brandenburg,code12,91.35
+2022,Percentage,Foreigns,,Brandenburg,code12,88.53
 1996,Percentage,Foreigns,Female,Brandenburg,code12,100.0
 1997,Percentage,Foreigns,Female,Brandenburg,code12,97.8
 1998,Percentage,Foreigns,Female,Brandenburg,code12,94.3
@@ -394,7 +404,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Female,Brandenburg,code12,83.7
 2019,Percentage,Foreigns,Female,Brandenburg,code12,86.2
 2020,Percentage,Foreigns,Female,Brandenburg,code12,94.9
-2021,Percentage,Foreigns,Female,Brandenburg,code12,93.6
+2021,Percentage,Foreigns,Female,Brandenburg,code12,93.573
+2022,Percentage,Foreigns,Female,Brandenburg,code12,92.27
 1996,Percentage,Foreigns,Male,Brandenburg,code12,91.7
 1997,Percentage,Foreigns,Male,Brandenburg,code12,87.2
 1998,Percentage,Foreigns,Male,Brandenburg,code12,87.4
@@ -420,7 +431,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Male,Brandenburg,code12,79.4
 2019,Percentage,Foreigns,Male,Brandenburg,code12,82.6
 2020,Percentage,Foreigns,Male,Brandenburg,code12,95.4
-2021,Percentage,Foreigns,Male,Brandenburg,code12,89.7
+2021,Percentage,Foreigns,Male,Brandenburg,code12,89.689
+2022,Percentage,Foreigns,Male,Brandenburg,code12,85.239
 1996,Percentage,Foreigns,,Bremen,code04,77.6
 1997,Percentage,Foreigns,,Bremen,code04,82.4
 1998,Percentage,Foreigns,,Bremen,code04,82.4
@@ -446,7 +458,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,,Bremen,code04,79.7
 2019,Percentage,Foreigns,,Bremen,code04,73.9
 2020,Percentage,Foreigns,,Bremen,code04,76.4
-2021,Percentage,Foreigns,,Bremen,code04,78.0
+2021,Percentage,Foreigns,,Bremen,code04,77.973
+2022,Percentage,Foreigns,,Bremen,code04,75.097
 1996,Percentage,Foreigns,Female,Bremen,code04,81.0
 1997,Percentage,Foreigns,Female,Bremen,code04,86.9
 1998,Percentage,Foreigns,Female,Bremen,code04,84.8
@@ -472,7 +485,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Female,Bremen,code04,82.1
 2019,Percentage,Foreigns,Female,Bremen,code04,75.3
 2020,Percentage,Foreigns,Female,Bremen,code04,78.3
-2021,Percentage,Foreigns,Female,Bremen,code04,78.9
+2021,Percentage,Foreigns,Female,Bremen,code04,78.868
+2022,Percentage,Foreigns,Female,Bremen,code04,81.675
 1996,Percentage,Foreigns,Male,Bremen,code04,74.6
 1997,Percentage,Foreigns,Male,Bremen,code04,78.7
 1998,Percentage,Foreigns,Male,Bremen,code04,80.2
@@ -498,7 +512,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Male,Bremen,code04,77.9
 2019,Percentage,Foreigns,Male,Bremen,code04,72.8
 2020,Percentage,Foreigns,Male,Bremen,code04,74.8
-2021,Percentage,Foreigns,Male,Bremen,code04,77.3
+2021,Percentage,Foreigns,Male,Bremen,code04,77.259
+2022,Percentage,Foreigns,Male,Bremen,code04,69.832
 1996,Percentage,Foreigns,,Hamburg,code02,81.4
 1997,Percentage,Foreigns,,Hamburg,code02,82.8
 1998,Percentage,Foreigns,,Hamburg,code02,81.8
@@ -524,7 +539,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,,Hamburg,code02,84.9
 2019,Percentage,Foreigns,,Hamburg,code02,86.7
 2020,Percentage,Foreigns,,Hamburg,code02,84.5
-2021,Percentage,Foreigns,,Hamburg,code02,86.5
+2021,Percentage,Foreigns,,Hamburg,code02,86.504
+2022,Percentage,Foreigns,,Hamburg,code02,86.006
 1996,Percentage,Foreigns,Female,Hamburg,code02,83.8
 1997,Percentage,Foreigns,Female,Hamburg,code02,86.0
 1998,Percentage,Foreigns,Female,Hamburg,code02,85.1
@@ -550,7 +566,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Female,Hamburg,code02,87.3
 2019,Percentage,Foreigns,Female,Hamburg,code02,89.2
 2020,Percentage,Foreigns,Female,Hamburg,code02,87.0
-2021,Percentage,Foreigns,Female,Hamburg,code02,89.4
+2021,Percentage,Foreigns,Female,Hamburg,code02,89.36
+2022,Percentage,Foreigns,Female,Hamburg,code02,88.622
 1996,Percentage,Foreigns,Male,Hamburg,code02,79.2
 1997,Percentage,Foreigns,Male,Hamburg,code02,79.8
 1998,Percentage,Foreigns,Male,Hamburg,code02,79.0
@@ -576,7 +593,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Male,Hamburg,code02,83.1
 2019,Percentage,Foreigns,Male,Hamburg,code02,84.7
 2020,Percentage,Foreigns,Male,Hamburg,code02,82.4
-2021,Percentage,Foreigns,Male,Hamburg,code02,83.9
+2021,Percentage,Foreigns,Male,Hamburg,code02,83.937
+2022,Percentage,Foreigns,Male,Hamburg,code02,83.689
 1996,Percentage,Foreigns,,Hesse,code06,79.0
 1997,Percentage,Foreigns,,Hesse,code06,80.5
 1998,Percentage,Foreigns,,Hesse,code06,82.0
@@ -602,7 +620,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,,Hesse,code06,89.7
 2019,Percentage,Foreigns,,Hesse,code06,88.7
 2020,Percentage,Foreigns,,Hesse,code06,90.4
-2021,Percentage,Foreigns,,Hesse,code06,88.2
+2021,Percentage,Foreigns,,Hesse,code06,88.229
+2022,Percentage,Foreigns,,Hesse,code06,87.57
 1996,Percentage,Foreigns,Female,Hesse,code06,83.2
 1997,Percentage,Foreigns,Female,Hesse,code06,84.2
 1998,Percentage,Foreigns,Female,Hesse,code06,85.9
@@ -628,7 +647,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Female,Hesse,code06,91.9
 2019,Percentage,Foreigns,Female,Hesse,code06,91.1
 2020,Percentage,Foreigns,Female,Hesse,code06,92.9
-2021,Percentage,Foreigns,Female,Hesse,code06,90.1
+2021,Percentage,Foreigns,Female,Hesse,code06,90.111
+2022,Percentage,Foreigns,Female,Hesse,code06,89.706
 1996,Percentage,Foreigns,Male,Hesse,code06,75.4
 1997,Percentage,Foreigns,Male,Hesse,code06,77.1
 1998,Percentage,Foreigns,Male,Hesse,code06,78.4
@@ -654,7 +674,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Male,Hesse,code06,88.0
 2019,Percentage,Foreigns,Male,Hesse,code06,86.7
 2020,Percentage,Foreigns,Male,Hesse,code06,88.1
-2021,Percentage,Foreigns,Male,Hesse,code06,86.5
+2021,Percentage,Foreigns,Male,Hesse,code06,86.517
+2022,Percentage,Foreigns,Male,Hesse,code06,85.708
 1996,Percentage,Foreigns,,Mecklenburg Western Pomerania,code13,87.2
 1997,Percentage,Foreigns,,Mecklenburg Western Pomerania,code13,85.7
 1998,Percentage,Foreigns,,Mecklenburg Western Pomerania,code13,73.9
@@ -680,7 +701,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,,Mecklenburg Western Pomerania,code13,75.0
 2019,Percentage,Foreigns,,Mecklenburg Western Pomerania,code13,79.2
 2020,Percentage,Foreigns,,Mecklenburg Western Pomerania,code13,87.7
-2021,Percentage,Foreigns,,Mecklenburg Western Pomerania,code13,86.6
+2021,Percentage,Foreigns,,Mecklenburg Western Pomerania,code13,86.628
+2022,Percentage,Foreigns,,Mecklenburg Western Pomerania,code13,80.575
 1996,Percentage,Foreigns,Female,Mecklenburg Western Pomerania,code13,100.0
 1997,Percentage,Foreigns,Female,Mecklenburg Western Pomerania,code13,90.0
 1998,Percentage,Foreigns,Female,Mecklenburg Western Pomerania,code13,73.7
@@ -706,7 +728,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Female,Mecklenburg Western Pomerania,code13,84.7
 2019,Percentage,Foreigns,Female,Mecklenburg Western Pomerania,code13,82.8
 2020,Percentage,Foreigns,Female,Mecklenburg Western Pomerania,code13,91.1
-2021,Percentage,Foreigns,Female,Mecklenburg Western Pomerania,code13,89.2
+2021,Percentage,Foreigns,Female,Mecklenburg Western Pomerania,code13,89.172
+2022,Percentage,Foreigns,Female,Mecklenburg Western Pomerania,code13,85.879
 1996,Percentage,Foreigns,Male,Mecklenburg Western Pomerania,code13,75.0
 1997,Percentage,Foreigns,Male,Mecklenburg Western Pomerania,code13,81.8
 1998,Percentage,Foreigns,Male,Mecklenburg Western Pomerania,code13,74.1
@@ -732,7 +755,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Male,Mecklenburg Western Pomerania,code13,69.7
 2019,Percentage,Foreigns,Male,Mecklenburg Western Pomerania,code13,76.8
 2020,Percentage,Foreigns,Male,Mecklenburg Western Pomerania,code13,85.1
-2021,Percentage,Foreigns,Male,Mecklenburg Western Pomerania,code13,84.5
+2021,Percentage,Foreigns,Male,Mecklenburg Western Pomerania,code13,84.492
+2022,Percentage,Foreigns,Male,Mecklenburg Western Pomerania,code13,75.781
 1996,Percentage,Foreigns,,Lower Saxony,code03,72.7
 1997,Percentage,Foreigns,,Lower Saxony,code03,72.7
 1998,Percentage,Foreigns,,Lower Saxony,code03,74.8
@@ -758,7 +782,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,,Lower Saxony,code03,77.1
 2019,Percentage,Foreigns,,Lower Saxony,code03,76.9
 2020,Percentage,Foreigns,,Lower Saxony,code03,79.5
-2021,Percentage,Foreigns,,Lower Saxony,code03,81.4
+2021,Percentage,Foreigns,,Lower Saxony,code03,81.372
+2022,Percentage,Foreigns,,Lower Saxony,code03,81.129
 1996,Percentage,Foreigns,Female,Lower Saxony,code03,77.4
 1997,Percentage,Foreigns,Female,Lower Saxony,code03,77.4
 1998,Percentage,Foreigns,Female,Lower Saxony,code03,80.1
@@ -784,7 +809,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Female,Lower Saxony,code03,80.6
 2019,Percentage,Foreigns,Female,Lower Saxony,code03,80.5
 2020,Percentage,Foreigns,Female,Lower Saxony,code03,82.1
-2021,Percentage,Foreigns,Female,Lower Saxony,code03,84.1
+2021,Percentage,Foreigns,Female,Lower Saxony,code03,84.138
+2022,Percentage,Foreigns,Female,Lower Saxony,code03,83.473
 1996,Percentage,Foreigns,Male,Lower Saxony,code03,68.6
 1997,Percentage,Foreigns,Male,Lower Saxony,code03,68.6
 1998,Percentage,Foreigns,Male,Lower Saxony,code03,70.6
@@ -810,7 +836,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Male,Lower Saxony,code03,74.5
 2019,Percentage,Foreigns,Male,Lower Saxony,code03,73.9
 2020,Percentage,Foreigns,Male,Lower Saxony,code03,77.2
-2021,Percentage,Foreigns,Male,Lower Saxony,code03,78.8
+2021,Percentage,Foreigns,Male,Lower Saxony,code03,78.82
+2022,Percentage,Foreigns,Male,Lower Saxony,code03,79.069
 1996,Percentage,Foreigns,,North Rhine-Westphalia,code05,87.3
 1997,Percentage,Foreigns,,North Rhine-Westphalia,code05,87.0
 1998,Percentage,Foreigns,,North Rhine-Westphalia,code05,87.2
@@ -836,7 +863,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,,North Rhine-Westphalia,code05,84.0
 2019,Percentage,Foreigns,,North Rhine-Westphalia,code05,84.1
 2020,Percentage,Foreigns,,North Rhine-Westphalia,code05,86.7
-2021,Percentage,Foreigns,,North Rhine-Westphalia,code05,85.4
+2021,Percentage,Foreigns,,North Rhine-Westphalia,code05,85.406
+2022,Percentage,Foreigns,,North Rhine-Westphalia,code05,85.037
 1996,Percentage,Foreigns,Female,North Rhine-Westphalia,code05,90.2
 1997,Percentage,Foreigns,Female,North Rhine-Westphalia,code05,90.2
 1998,Percentage,Foreigns,Female,North Rhine-Westphalia,code05,90.4
@@ -862,7 +890,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Female,North Rhine-Westphalia,code05,86.7
 2019,Percentage,Foreigns,Female,North Rhine-Westphalia,code05,86.5
 2020,Percentage,Foreigns,Female,North Rhine-Westphalia,code05,89.1
-2021,Percentage,Foreigns,Female,North Rhine-Westphalia,code05,88.4
+2021,Percentage,Foreigns,Female,North Rhine-Westphalia,code05,88.377
+2022,Percentage,Foreigns,Female,North Rhine-Westphalia,code05,87.585
 1996,Percentage,Foreigns,Male,North Rhine-Westphalia,code05,84.7
 1997,Percentage,Foreigns,Male,North Rhine-Westphalia,code05,84.1
 1998,Percentage,Foreigns,Male,North Rhine-Westphalia,code05,84.3
@@ -888,7 +917,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Male,North Rhine-Westphalia,code05,81.7
 2019,Percentage,Foreigns,Male,North Rhine-Westphalia,code05,82.1
 2020,Percentage,Foreigns,Male,North Rhine-Westphalia,code05,84.6
-2021,Percentage,Foreigns,Male,North Rhine-Westphalia,code05,82.7
+2021,Percentage,Foreigns,Male,North Rhine-Westphalia,code05,82.717
+2022,Percentage,Foreigns,Male,North Rhine-Westphalia,code05,82.658
 1996,Percentage,Foreigns,,Rhineland Palatinate,code07,78.3
 1997,Percentage,Foreigns,,Rhineland Palatinate,code07,77.2
 1998,Percentage,Foreigns,,Rhineland Palatinate,code07,74.8
@@ -914,7 +944,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,,Rhineland Palatinate,code07,82.1
 2019,Percentage,Foreigns,,Rhineland Palatinate,code07,82.2
 2020,Percentage,Foreigns,,Rhineland Palatinate,code07,85.9
-2021,Percentage,Foreigns,,Rhineland Palatinate,code07,81.0
+2021,Percentage,Foreigns,,Rhineland Palatinate,code07,80.963
+2022,Percentage,Foreigns,,Rhineland Palatinate,code07,82.845
 1996,Percentage,Foreigns,Female,Rhineland Palatinate,code07,84.8
 1997,Percentage,Foreigns,Female,Rhineland Palatinate,code07,81.9
 1998,Percentage,Foreigns,Female,Rhineland Palatinate,code07,81.2
@@ -940,7 +971,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Female,Rhineland Palatinate,code07,87.2
 2019,Percentage,Foreigns,Female,Rhineland Palatinate,code07,86.6
 2020,Percentage,Foreigns,Female,Rhineland Palatinate,code07,89.6
-2021,Percentage,Foreigns,Female,Rhineland Palatinate,code07,86.2
+2021,Percentage,Foreigns,Female,Rhineland Palatinate,code07,86.201
+2022,Percentage,Foreigns,Female,Rhineland Palatinate,code07,86.131
 1996,Percentage,Foreigns,Male,Rhineland Palatinate,code07,73.1
 1997,Percentage,Foreigns,Male,Rhineland Palatinate,code07,72.9
 1998,Percentage,Foreigns,Male,Rhineland Palatinate,code07,69.5
@@ -966,7 +998,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Male,Rhineland Palatinate,code07,78.3
 2019,Percentage,Foreigns,Male,Rhineland Palatinate,code07,78.5
 2020,Percentage,Foreigns,Male,Rhineland Palatinate,code07,82.7
-2021,Percentage,Foreigns,Male,Rhineland Palatinate,code07,76.2
+2021,Percentage,Foreigns,Male,Rhineland Palatinate,code07,76.247
+2022,Percentage,Foreigns,Male,Rhineland Palatinate,code07,79.851
 1996,Percentage,Foreigns,,Saarland,code10,71.8
 1997,Percentage,Foreigns,,Saarland,code10,77.7
 1998,Percentage,Foreigns,,Saarland,code10,74.8
@@ -992,7 +1025,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,,Saarland,code10,75.5
 2019,Percentage,Foreigns,,Saarland,code10,78.5
 2020,Percentage,Foreigns,,Saarland,code10,81.9
-2021,Percentage,Foreigns,,Saarland,code10,83.5
+2021,Percentage,Foreigns,,Saarland,code10,83.476
+2022,Percentage,Foreigns,,Saarland,code10,77.972
 1996,Percentage,Foreigns,Female,Saarland,code10,76.6
 1997,Percentage,Foreigns,Female,Saarland,code10,82.8
 1998,Percentage,Foreigns,Female,Saarland,code10,80.6
@@ -1018,7 +1052,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Female,Saarland,code10,79.8
 2019,Percentage,Foreigns,Female,Saarland,code10,83.9
 2020,Percentage,Foreigns,Female,Saarland,code10,82.0
-2021,Percentage,Foreigns,Female,Saarland,code10,84.0
+2021,Percentage,Foreigns,Female,Saarland,code10,84.015
+2022,Percentage,Foreigns,Female,Saarland,code10,79.378
 1996,Percentage,Foreigns,Male,Saarland,code10,67.7
 1997,Percentage,Foreigns,Male,Saarland,code10,73.4
 1998,Percentage,Foreigns,Male,Saarland,code10,70.9
@@ -1044,7 +1079,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Male,Saarland,code10,71.9
 2019,Percentage,Foreigns,Male,Saarland,code10,73.8
 2020,Percentage,Foreigns,Male,Saarland,code10,81.8
-2021,Percentage,Foreigns,Male,Saarland,code10,83.0
+2021,Percentage,Foreigns,Male,Saarland,code10,83.016
+2022,Percentage,Foreigns,Male,Saarland,code10,76.52
 1996,Percentage,Foreigns,,Saxony,code14,63.9
 1997,Percentage,Foreigns,,Saxony,code14,69.1
 1998,Percentage,Foreigns,,Saxony,code14,68.8
@@ -1070,7 +1106,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,,Saxony,code14,77.3
 2019,Percentage,Foreigns,,Saxony,code14,79.1
 2020,Percentage,Foreigns,,Saxony,code14,83.2
-2021,Percentage,Foreigns,,Saxony,code14,82.9
+2021,Percentage,Foreigns,,Saxony,code14,82.922
+2022,Percentage,Foreigns,,Saxony,code14,81.79
 1996,Percentage,Foreigns,Female,Saxony,code14,75.5
 1997,Percentage,Foreigns,Female,Saxony,code14,72.5
 1998,Percentage,Foreigns,Female,Saxony,code14,73.9
@@ -1096,7 +1133,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Female,Saxony,code14,83.9
 2019,Percentage,Foreigns,Female,Saxony,code14,82.7
 2020,Percentage,Foreigns,Female,Saxony,code14,87.5
-2021,Percentage,Foreigns,Female,Saxony,code14,86.6
+2021,Percentage,Foreigns,Female,Saxony,code14,86.609
+2022,Percentage,Foreigns,Female,Saxony,code14,85.244
 1996,Percentage,Foreigns,Male,Saxony,code14,55.7
 1997,Percentage,Foreigns,Male,Saxony,code14,64.4
 1998,Percentage,Foreigns,Male,Saxony,code14,64.7
@@ -1122,7 +1160,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Male,Saxony,code14,72.5
 2019,Percentage,Foreigns,Male,Saxony,code14,76.4
 2020,Percentage,Foreigns,Male,Saxony,code14,79.6
-2021,Percentage,Foreigns,Male,Saxony,code14,79.4
+2021,Percentage,Foreigns,Male,Saxony,code14,79.377
+2022,Percentage,Foreigns,Male,Saxony,code14,78.686
 1996,Percentage,Foreigns,,Saxony-Anhalt,code15,70.5
 1997,Percentage,Foreigns,,Saxony-Anhalt,code15,60.7
 1998,Percentage,Foreigns,,Saxony-Anhalt,code15,63.9
@@ -1148,7 +1187,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,,Saxony-Anhalt,code15,61.3
 2019,Percentage,Foreigns,,Saxony-Anhalt,code15,70.3
 2020,Percentage,Foreigns,,Saxony-Anhalt,code15,75.3
-2021,Percentage,Foreigns,,Saxony-Anhalt,code15,74.3
+2021,Percentage,Foreigns,,Saxony-Anhalt,code15,74.254
+2022,Percentage,Foreigns,,Saxony-Anhalt,code15,77.389
 1996,Percentage,Foreigns,Female,Saxony-Anhalt,code15,81.8
 1997,Percentage,Foreigns,Female,Saxony-Anhalt,code15,67.9
 1998,Percentage,Foreigns,Female,Saxony-Anhalt,code15,74.6
@@ -1169,12 +1209,13 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2013,Percentage,Foreigns,Female,Saxony-Anhalt,code15,91.5
 2014,Percentage,Foreigns,Female,Saxony-Anhalt,code15,85.0
 2015,Percentage,Foreigns,Female,Saxony-Anhalt,code15,79.3
-2016,Percentage,Foreigns,Female,Saxony-Anhalt,code15,73.9
-2017,Percentage,Foreigns,Female,Saxony-Anhalt,code15,69.4
-2018,Percentage,Foreigns,Female,Saxony-Anhalt,code15,66.2
-2019,Percentage,Foreigns,Female,Saxony-Anhalt,code15,76.4
-2020,Percentage,Foreigns,Female,Saxony-Anhalt,code15,80.6
-2021,Percentage,Foreigns,Female,Saxony-Anhalt,code15,78.5
+2016,Percentage,Foreigns,Female,Saxony-Anhalt,code15,69.4
+2017,Percentage,Foreigns,Female,Saxony-Anhalt,code15,66.2
+2018,Percentage,Foreigns,Female,Saxony-Anhalt,code15,76.4
+2019,Percentage,Foreigns,Female,Saxony-Anhalt,code15,80.6
+2020,Percentage,Foreigns,Female,Saxony-Anhalt,code15,78.5
+2021,Percentage,Foreigns,Female,Saxony-Anhalt,code15,78.512
+2022,Percentage,Foreigns,Female,Saxony-Anhalt,code15,81.022
 1996,Percentage,Foreigns,Male,Saxony-Anhalt,code15,64.1
 1997,Percentage,Foreigns,Male,Saxony-Anhalt,code15,55.1
 1998,Percentage,Foreigns,Male,Saxony-Anhalt,code15,56.0
@@ -1200,7 +1241,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Male,Saxony-Anhalt,code15,58.7
 2019,Percentage,Foreigns,Male,Saxony-Anhalt,code15,67.3
 2020,Percentage,Foreigns,Male,Saxony-Anhalt,code15,71.9
-2021,Percentage,Foreigns,Male,Saxony-Anhalt,code15,70.7
+2021,Percentage,Foreigns,Male,Saxony-Anhalt,code15,70.748
+2022,Percentage,Foreigns,Male,Saxony-Anhalt,code15,75.0
 1996,Percentage,Foreigns,,Schleswig-Holstein,code01,77.3
 1997,Percentage,Foreigns,,Schleswig-Holstein,code01,74.5
 1998,Percentage,Foreigns,,Schleswig-Holstein,code01,75.8
@@ -1226,7 +1268,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,,Schleswig-Holstein,code01,77.7
 2019,Percentage,Foreigns,,Schleswig-Holstein,code01,74.4
 2020,Percentage,Foreigns,,Schleswig-Holstein,code01,77.7
-2021,Percentage,Foreigns,,Schleswig-Holstein,code01,79.0
+2021,Percentage,Foreigns,,Schleswig-Holstein,code01,78.992
+2022,Percentage,Foreigns,,Schleswig-Holstein,code01,76.462
 1996,Percentage,Foreigns,Female,Schleswig-Holstein,code01,80.4
 1997,Percentage,Foreigns,Female,Schleswig-Holstein,code01,82.3
 1998,Percentage,Foreigns,Female,Schleswig-Holstein,code01,79.6
@@ -1252,7 +1295,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Female,Schleswig-Holstein,code01,82.4
 2019,Percentage,Foreigns,Female,Schleswig-Holstein,code01,79.8
 2020,Percentage,Foreigns,Female,Schleswig-Holstein,code01,80.8
-2021,Percentage,Foreigns,Female,Schleswig-Holstein,code01,82.9
+2021,Percentage,Foreigns,Female,Schleswig-Holstein,code01,82.932
+2022,Percentage,Foreigns,Female,Schleswig-Holstein,code01,81.515
 1996,Percentage,Foreigns,Male,Schleswig-Holstein,code01,74.5
 1997,Percentage,Foreigns,Male,Schleswig-Holstein,code01,67.9
 1998,Percentage,Foreigns,Male,Schleswig-Holstein,code01,72.3
@@ -1278,7 +1322,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Male,Schleswig-Holstein,code01,73.9
 2019,Percentage,Foreigns,Male,Schleswig-Holstein,code01,70.0
 2020,Percentage,Foreigns,Male,Schleswig-Holstein,code01,75.0
-2021,Percentage,Foreigns,Male,Schleswig-Holstein,code01,75.5
+2021,Percentage,Foreigns,Male,Schleswig-Holstein,code01,75.529
+2022,Percentage,Foreigns,Male,Schleswig-Holstein,code01,71.675
 1996,Percentage,Foreigns,,Thuringia,code16,62.1
 1997,Percentage,Foreigns,,Thuringia,code16,60.5
 1998,Percentage,Foreigns,,Thuringia,code16,61.5
@@ -1304,7 +1349,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,,Thuringia,code16,61.8
 2019,Percentage,Foreigns,,Thuringia,code16,67.1
 2020,Percentage,Foreigns,,Thuringia,code16,72.7
-2021,Percentage,Foreigns,,Thuringia,code16,74.9
+2021,Percentage,Foreigns,,Thuringia,code16,74.922
+2022,Percentage,Foreigns,,Thuringia,code16,73.327
 1996,Percentage,Foreigns,Female,Thuringia,code16,56.5
 1997,Percentage,Foreigns,Female,Thuringia,code16,58.3
 1998,Percentage,Foreigns,Female,Thuringia,code16,74.4
@@ -1330,7 +1376,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Foreigns,Female,Thuringia,code16,67.9
 2019,Percentage,Foreigns,Female,Thuringia,code16,76.4
 2020,Percentage,Foreigns,Female,Thuringia,code16,74.8
-2021,Percentage,Foreigns,Female,Thuringia,code16,81.6
+2021,Percentage,Foreigns,Female,Thuringia,code16,81.572
+2022,Percentage,Foreigns,Female,Thuringia,code16,79.266
 1996,Percentage,Foreigns,Male,Thuringia,code16,65.1
 1997,Percentage,Foreigns,Male,Thuringia,code16,62.5
 1998,Percentage,Foreigns,Male,Thuringia,code16,52.6
@@ -1357,6 +1404,7 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2019,Percentage,Foreigns,Male,Thuringia,code16,60.9
 2020,Percentage,Foreigns,Male,Thuringia,code16,71.0
 2021,Percentage,Foreigns,Male,Thuringia,code16,70.0
+2022,Percentage,Foreigns,Male,Thuringia,code16,68.486
 1996,Percentage,Germans,,Baden-Wuerttemberg,code08,93.7
 1997,Percentage,Germans,,Baden-Wuerttemberg,code08,94.0
 1998,Percentage,Germans,,Baden-Wuerttemberg,code08,94.0
@@ -1383,6 +1431,7 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2019,Percentage,Germans,,Baden-Wuerttemberg,code08,95.2
 2020,Percentage,Germans,,Baden-Wuerttemberg,code08,95.6
 2021,Percentage,Germans,,Baden-Wuerttemberg,code08,94.9
+2022,Percentage,Germans,,Baden-Wuerttemberg,code08,94.424
 1996,Percentage,Germans,,Bavaria,code09,93.1
 1997,Percentage,Germans,,Bavaria,code09,92.7
 1998,Percentage,Germans,,Bavaria,code09,92.3
@@ -1408,7 +1457,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Germans,,Bavaria,code09,95.9
 2019,Percentage,Germans,,Bavaria,code09,96.0
 2020,Percentage,Germans,,Bavaria,code09,96.2
-2021,Percentage,Germans,,Bavaria,code09,96.0
+2021,Percentage,Germans,,Bavaria,code09,96.019
+2022,Percentage,Germans,,Bavaria,code09,95.949
 1996,Percentage,Germans,,Berlin,code11,90.8
 1997,Percentage,Germans,,Berlin,code11,90.3
 1998,Percentage,Germans,,Berlin,code11,89.5
@@ -1434,7 +1484,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Germans,,Berlin,code11,92.1
 2019,Percentage,Germans,,Berlin,code11,92.9
 2020,Percentage,Germans,,Berlin,code11,93.4
-2021,Percentage,Germans,,Berlin,code11,95.1
+2021,Percentage,Germans,,Berlin,code11,95.087
+2022,Percentage,Germans,,Berlin,code11,93.209
 1996,Percentage,Germans,,Brandenburg,code12,90.5
 1997,Percentage,Germans,,Brandenburg,code12,91.5
 1998,Percentage,Germans,,Brandenburg,code12,91.2
@@ -1460,7 +1511,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Germans,,Brandenburg,code12,92.9
 2019,Percentage,Germans,,Brandenburg,code12,93.0
 2020,Percentage,Germans,,Brandenburg,code12,94.5
-2021,Percentage,Germans,,Brandenburg,code12,93.8
+2021,Percentage,Germans,,Brandenburg,code12,93.778
+2022,Percentage,Germans,,Brandenburg,code12,92.992
 1996,Percentage,Germans,,Bremen,code04,91.8
 1997,Percentage,Germans,,Bremen,code04,92.7
 1998,Percentage,Germans,,Bremen,code04,90.6
@@ -1486,7 +1538,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Germans,,Bremen,code04,94.5
 2019,Percentage,Germans,,Bremen,code04,93.8
 2020,Percentage,Germans,,Bremen,code04,94.6
-2021,Percentage,Germans,,Bremen,code04,94.0
+2021,Percentage,Germans,,Bremen,code04,94.025
+2022,Percentage,Germans,,Bremen,code04,94.451
 1996,Percentage,Germans,,Hamburg,code02,90.7
 1997,Percentage,Germans,,Hamburg,code02,90.1
 1998,Percentage,Germans,,Hamburg,code02,90.6
@@ -1512,7 +1565,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Germans,,Hamburg,code02,95.0
 2019,Percentage,Germans,,Hamburg,code02,95.1
 2020,Percentage,Germans,,Hamburg,code02,94.7
-2021,Percentage,Germans,,Hamburg,code02,95.3
+2021,Percentage,Germans,,Hamburg,code02,95.334
+2022,Percentage,Germans,,Hamburg,code02,94.976
 1996,Percentage,Germans,,Hesse,code06,93.1
 1997,Percentage,Germans,,Hesse,code06,93.2
 1998,Percentage,Germans,,Hesse,code06,93.3
@@ -1538,7 +1592,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Germans,,Hesse,code06,95.9
 2019,Percentage,Germans,,Hesse,code06,95.8
 2020,Percentage,Germans,,Hesse,code06,96.5
-2021,Percentage,Germans,,Hesse,code06,95.5
+2021,Percentage,Germans,,Hesse,code06,95.451
+2022,Percentage,Germans,,Hesse,code06,94.7
 1996,Percentage,Germans,,Mecklenburg Western Pomerania,code13,90.6
 1997,Percentage,Germans,,Mecklenburg Western Pomerania,code13,90.8
 1998,Percentage,Germans,,Mecklenburg Western Pomerania,code13,90.3
@@ -1564,7 +1619,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Germans,,Mecklenburg Western Pomerania,code13,91.9
 2019,Percentage,Germans,,Mecklenburg Western Pomerania,code13,91.4
 2020,Percentage,Germans,,Mecklenburg Western Pomerania,code13,93.1
-2021,Percentage,Germans,,Mecklenburg Western Pomerania,code13,92.2
+2021,Percentage,Germans,,Mecklenburg Western Pomerania,code13,92.232
+2022,Percentage,Germans,,Mecklenburg Western Pomerania,code13,90.398
 1996,Percentage,Germans,,Lower Saxony,code03,91.2
 1997,Percentage,Germans,,Lower Saxony,code03,91.1
 1998,Percentage,Germans,,Lower Saxony,code03,91.4
@@ -1590,7 +1646,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Germans,,Lower Saxony,code03,95.1
 2019,Percentage,Germans,,Lower Saxony,code03,94.7
 2020,Percentage,Germans,,Lower Saxony,code03,93.4
-2021,Percentage,Germans,,Lower Saxony,code03,95.2
+2021,Percentage,Germans,,Lower Saxony,code03,95.164
+2022,Percentage,Germans,,Lower Saxony,code03,94.7
 1996,Percentage,Germans,,North Rhine-Westphalia,code05,95.3
 1997,Percentage,Germans,,North Rhine-Westphalia,code05,95.0
 1998,Percentage,Germans,,North Rhine-Westphalia,code05,95.1
@@ -1616,7 +1673,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Germans,,North Rhine-Westphalia,code05,95.0
 2019,Percentage,Germans,,North Rhine-Westphalia,code05,95.0
 2020,Percentage,Germans,,North Rhine-Westphalia,code05,95.4
-2021,Percentage,Germans,,North Rhine-Westphalia,code05,95.5
+2021,Percentage,Germans,,North Rhine-Westphalia,code05,95.49
+2022,Percentage,Germans,,North Rhine-Westphalia,code05,94.808
 1996,Percentage,Germans,,Rhineland Palatinate,code07,91.4
 1997,Percentage,Germans,,Rhineland Palatinate,code07,91.5
 1998,Percentage,Germans,,Rhineland Palatinate,code07,91.4
@@ -1642,7 +1700,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Germans,,Rhineland Palatinate,code07,94.3
 2019,Percentage,Germans,,Rhineland Palatinate,code07,93.7
 2020,Percentage,Germans,,Rhineland Palatinate,code07,94.2
-2021,Percentage,Germans,,Rhineland Palatinate,code07,94.1
+2021,Percentage,Germans,,Rhineland Palatinate,code07,94.066
+2022,Percentage,Germans,,Rhineland Palatinate,code07,93.669
 1996,Percentage,Germans,,Saarland,code10,90.7
 1997,Percentage,Germans,,Saarland,code10,90.5
 1998,Percentage,Germans,,Saarland,code10,90.5
@@ -1668,7 +1727,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Germans,,Saarland,code10,95.2
 2019,Percentage,Germans,,Saarland,code10,94.7
 2020,Percentage,Germans,,Saarland,code10,95.4
-2021,Percentage,Germans,,Saarland,code10,95.4
+2021,Percentage,Germans,,Saarland,code10,95.449
+2022,Percentage,Germans,,Saarland,code10,94.845
 1996,Percentage,Germans,,Saxony,code14,90.3
 1997,Percentage,Germans,,Saxony,code14,90.6
 1998,Percentage,Germans,,Saxony,code14,89.7
@@ -1694,7 +1754,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Germans,,Saxony,code14,92.4
 2019,Percentage,Germans,,Saxony,code14,92.5
 2020,Percentage,Germans,,Saxony,code14,93.0
-2021,Percentage,Germans,,Saxony,code14,92.1
+2021,Percentage,Germans,,Saxony,code14,92.133
+2022,Percentage,Germans,,Saxony,code14,92.518
 1996,Percentage,Germans,,Saxony-Anhalt,code15,89.4
 1997,Percentage,Germans,,Saxony-Anhalt,code15,90.0
 1998,Percentage,Germans,,Saxony-Anhalt,code15,89.1
@@ -1720,7 +1781,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Germans,,Saxony-Anhalt,code15,89.9
 2019,Percentage,Germans,,Saxony-Anhalt,code15,90.0
 2020,Percentage,Germans,,Saxony-Anhalt,code15,90.9
-2021,Percentage,Germans,,Saxony-Anhalt,code15,91.4
+2021,Percentage,Germans,,Saxony-Anhalt,code15,91.37
+2022,Percentage,Germans,,Saxony-Anhalt,code15,89.339
 1996,Percentage,Germans,,Schleswig-Holstein,code01,91.0
 1997,Percentage,Germans,,Schleswig-Holstein,code01,90.5
 1998,Percentage,Germans,,Schleswig-Holstein,code01,89.9
@@ -1746,7 +1808,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Germans,,Schleswig-Holstein,code01,92.5
 2019,Percentage,Germans,,Schleswig-Holstein,code01,91.9
 2020,Percentage,Germans,,Schleswig-Holstein,code01,92.7
-2021,Percentage,Germans,,Schleswig-Holstein,code01,93.3
+2021,Percentage,Germans,,Schleswig-Holstein,code01,93.302
+2022,Percentage,Germans,,Schleswig-Holstein,code01,92.46
 1996,Percentage,Germans,,Thuringia,code16,87.7
 1997,Percentage,Germans,,Thuringia,code16,87.8
 1998,Percentage,Germans,,Thuringia,code16,87.0
@@ -1772,7 +1835,8 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Germans,,Thuringia,code16,92.2
 2019,Percentage,Germans,,Thuringia,code16,92.4
 2020,Percentage,Germans,,Thuringia,code16,93.6
-2021,Percentage,Germans,,Thuringia,code16,92.7
+2021,Percentage,Germans,,Thuringia,code16,92.678
+2022,Percentage,Germans,,Thuringia,code16,91.746
 1996,Percentage,Germans,Female,,,94.5
 1997,Percentage,Germans,Female,,,94.6
 1998,Percentage,Germans,Female,,,94.4
@@ -1910,418 +1974,434 @@ Year,Units,Series,Sex,Federal state,GeoCode,Value
 2021,Percentage points,Difference,Male,,,12.1
 2022,Percentage points,Difference,Male,,,11.6
 1996,Percentage points,Difference,,Baden-Wuerttemberg,code08,13.7
-1997,Percentage points,Difference,,Baden-Wuerttemberg,code08,14.0
-1998,Percentage points,Difference,,Baden-Wuerttemberg,code08,14.0
-1999,Percentage points,Difference,,Baden-Wuerttemberg,code08,13.9
-2000,Percentage points,Difference,,Baden-Wuerttemberg,code08,13.7
-2001,Percentage points,Difference,,Baden-Wuerttemberg,code08,13.7
-2002,Percentage points,Difference,,Baden-Wuerttemberg,code08,13.8
-2003,Percentage points,Difference,,Baden-Wuerttemberg,code08,14.3
-2004,Percentage points,Difference,,Baden-Wuerttemberg,code08,14.3
-2005,Percentage points,Difference,,Baden-Wuerttemberg,code08,14.7
-2006,Percentage points,Difference,,Baden-Wuerttemberg,code08,15.1
-2007,Percentage points,Difference,,Baden-Wuerttemberg,code08,15.5
-2008,Percentage points,Difference,,Baden-Wuerttemberg,code08,15.7
-2009,Percentage points,Difference,,Baden-Wuerttemberg,code08,15.6
-2010,Percentage points,Difference,,Baden-Wuerttemberg,code08,15.8
-2011,Percentage points,Difference,,Baden-Wuerttemberg,code08,16.0
-2012,Percentage points,Difference,,Baden-Wuerttemberg,code08,16.6
-2013,Percentage points,Difference,,Baden-Wuerttemberg,code08,16.2
-2014,Percentage points,Difference,,Baden-Wuerttemberg,code08,15.9
-2015,Percentage points,Difference,,Baden-Wuerttemberg,code08,15.9
-2016,Percentage points,Difference,,Baden-Wuerttemberg,code08,15.7
-2017,Percentage points,Difference,,Baden-Wuerttemberg,code08,14.8
-2018,Percentage points,Difference,,Baden-Wuerttemberg,code08,14.9
-2019,Percentage points,Difference,,Baden-Wuerttemberg,code08,15.2
-2020,Percentage points,Difference,,Baden-Wuerttemberg,code08,15.6
-2021,Percentage points,Difference,,Baden-Wuerttemberg,code08,14.9
+1997,Percentage points,Difference,,Baden-Wuerttemberg,code08,13.7
+1998,Percentage points,Difference,,Baden-Wuerttemberg,code08,12.8
+1999,Percentage points,Difference,,Baden-Wuerttemberg,code08,13.1
+2000,Percentage points,Difference,,Baden-Wuerttemberg,code08,13.6
+2001,Percentage points,Difference,,Baden-Wuerttemberg,code08,13.9
+2002,Percentage points,Difference,,Baden-Wuerttemberg,code08,13.5
+2003,Percentage points,Difference,,Baden-Wuerttemberg,code08,12.8
+2004,Percentage points,Difference,,Baden-Wuerttemberg,code08,11.8
+2005,Percentage points,Difference,,Baden-Wuerttemberg,code08,11.4
+2006,Percentage points,Difference,,Baden-Wuerttemberg,code08,11.2
+2007,Percentage points,Difference,,Baden-Wuerttemberg,code08,10.6
+2008,Percentage points,Difference,,Baden-Wuerttemberg,code08,9.4
+2009,Percentage points,Difference,,Baden-Wuerttemberg,code08,8.4
+2010,Percentage points,Difference,,Baden-Wuerttemberg,code08,7.5
+2011,Percentage points,Difference,,Baden-Wuerttemberg,code08,7.3
+2012,Percentage points,Difference,,Baden-Wuerttemberg,code08,8.6
+2013,Percentage points,Difference,,Baden-Wuerttemberg,code08,6.2
+2014,Percentage points,Difference,,Baden-Wuerttemberg,code08,6.8
+2015,Percentage points,Difference,,Baden-Wuerttemberg,code08,5.8
+2016,Percentage points,Difference,,Baden-Wuerttemberg,code08,7.9
+2017,Percentage points,Difference,,Baden-Wuerttemberg,code08,14.2
+2018,Percentage points,Difference,,Baden-Wuerttemberg,code08,13.4
+2019,Percentage points,Difference,,Baden-Wuerttemberg,code08,11.1
+2020,Percentage points,Difference,,Baden-Wuerttemberg,code08,10.1
+2021,Percentage points,Difference,,Baden-Wuerttemberg,code08,10.4
+2022,Percentage points,Difference,,Baden-Wuerttemberg,code08,11.5
 1996,Percentage points,Difference,,Bavaria,code09,18.3
 1997,Percentage points,Difference,,Bavaria,code09,17.9
-1998,Percentage points,Difference,,Bavaria,code09,17.5
-1999,Percentage points,Difference,,Bavaria,code09,17.8
-2000,Percentage points,Difference,,Bavaria,code09,17.3
-2001,Percentage points,Difference,,Bavaria,code09,16.6
-2002,Percentage points,Difference,,Bavaria,code09,17.0
-2003,Percentage points,Difference,,Bavaria,code09,17.7
-2004,Percentage points,Difference,,Bavaria,code09,17.8
-2005,Percentage points,Difference,,Bavaria,code09,18.4
-2006,Percentage points,Difference,,Bavaria,code09,18.8
-2007,Percentage points,Difference,,Bavaria,code09,19.2
-2008,Percentage points,Difference,,Bavaria,code09,19.8
-2009,Percentage points,Difference,,Bavaria,code09,20.1
-2010,Percentage points,Difference,,Bavaria,code09,20.4
-2011,Percentage points,Difference,,Bavaria,code09,21.6
-2012,Percentage points,Difference,,Bavaria,code09,21.2
-2013,Percentage points,Difference,,Bavaria,code09,21.4
-2014,Percentage points,Difference,,Bavaria,code09,21.6
-2015,Percentage points,Difference,,Bavaria,code09,21.5
-2016,Percentage points,Difference,,Bavaria,code09,21.6
-2017,Percentage points,Difference,,Bavaria,code09,21.3
-2018,Percentage points,Difference,,Bavaria,code09,21.1
-2019,Percentage points,Difference,,Bavaria,code09,21.2
-2020,Percentage points,Difference,,Bavaria,code09,21.4
-2021,Percentage points,Difference,,Bavaria,code09,21.2
+1998,Percentage points,Difference,,Bavaria,code09,19.5
+1999,Percentage points,Difference,,Bavaria,code09,18.0
+2000,Percentage points,Difference,,Bavaria,code09,17.4
+2001,Percentage points,Difference,,Bavaria,code09,19.3
+2002,Percentage points,Difference,,Bavaria,code09,16.1
+2003,Percentage points,Difference,,Bavaria,code09,14.8
+2004,Percentage points,Difference,,Bavaria,code09,14.1
+2005,Percentage points,Difference,,Bavaria,code09,13.2
+2006,Percentage points,Difference,,Bavaria,code09,11.7
+2007,Percentage points,Difference,,Bavaria,code09,10.6
+2008,Percentage points,Difference,,Bavaria,code09,10.2
+2009,Percentage points,Difference,,Bavaria,code09,9.5
+2010,Percentage points,Difference,,Bavaria,code09,7.8
+2011,Percentage points,Difference,,Bavaria,code09,7.0
+2012,Percentage points,Difference,,Bavaria,code09,7.5
+2013,Percentage points,Difference,,Bavaria,code09,7.1
+2014,Percentage points,Difference,,Bavaria,code09,8.1
+2015,Percentage points,Difference,,Bavaria,code09,9.8
+2016,Percentage points,Difference,,Bavaria,code09,14.8
+2017,Percentage points,Difference,,Bavaria,code09,17.1
+2018,Percentage points,Difference,,Bavaria,code09,14.7
+2019,Percentage points,Difference,,Bavaria,code09,13.8
+2020,Percentage points,Difference,,Bavaria,code09,11.8
+2021,Percentage points,Difference,,Bavaria,code09,11.2
+2022,Percentage points,Difference,,Bavaria,code09,9.2
 1996,Percentage points,Difference,,Berlin,code11,17.5
-1997,Percentage points,Difference,,Berlin,code11,17.0
-1998,Percentage points,Difference,,Berlin,code11,16.2
-1999,Percentage points,Difference,,Berlin,code11,16.2
-2000,Percentage points,Difference,,Berlin,code11,16.3
-2001,Percentage points,Difference,,Berlin,code11,17.8
-2002,Percentage points,Difference,,Berlin,code11,17.8
-2003,Percentage points,Difference,,Berlin,code11,17.9
-2004,Percentage points,Difference,,Berlin,code11,18.3
-2005,Percentage points,Difference,,Berlin,code11,19.3
-2006,Percentage points,Difference,,Berlin,code11,19.3
-2007,Percentage points,Difference,,Berlin,code11,19.1
-2008,Percentage points,Difference,,Berlin,code11,19.3
-2009,Percentage points,Difference,,Berlin,code11,19.3
-2010,Percentage points,Difference,,Berlin,code11,19.2
-2011,Percentage points,Difference,,Berlin,code11,19.4
-2012,Percentage points,Difference,,Berlin,code11,21.0
-2013,Percentage points,Difference,,Berlin,code11,20.6
-2014,Percentage points,Difference,,Berlin,code11,19.8
-2015,Percentage points,Difference,,Berlin,code11,18.7
-2016,Percentage points,Difference,,Berlin,code11,20.1
-2017,Percentage points,Difference,,Berlin,code11,19.2
-2018,Percentage points,Difference,,Berlin,code11,18.8
-2019,Percentage points,Difference,,Berlin,code11,19.6
-2020,Percentage points,Difference,,Berlin,code11,20.1
-2021,Percentage points,Difference,,Berlin,code11,21.8
+1997,Percentage points,Difference,,Berlin,code11,17.3
+1998,Percentage points,Difference,,Berlin,code11,20.1
+1999,Percentage points,Difference,,Berlin,code11,17.1
+2000,Percentage points,Difference,,Berlin,code11,15.2
+2001,Percentage points,Difference,,Berlin,code11,15.1
+2002,Percentage points,Difference,,Berlin,code11,15.2
+2003,Percentage points,Difference,,Berlin,code11,17.1
+2004,Percentage points,Difference,,Berlin,code11,14.5
+2005,Percentage points,Difference,,Berlin,code11,14.7
+2006,Percentage points,Difference,,Berlin,code11,13.3
+2007,Percentage points,Difference,,Berlin,code11,12.8
+2008,Percentage points,Difference,,Berlin,code11,12.3
+2009,Percentage points,Difference,,Berlin,code11,9.0
+2010,Percentage points,Difference,,Berlin,code11,9.6
+2011,Percentage points,Difference,,Berlin,code11,8.0
+2012,Percentage points,Difference,,Berlin,code11,6.9
+2013,Percentage points,Difference,,Berlin,code11,6.4
+2014,Percentage points,Difference,,Berlin,code11,9.6
+2015,Percentage points,Difference,,Berlin,code11,13.3
+2016,Percentage points,Difference,,Berlin,code11,12.4
+2017,Percentage points,Difference,,Berlin,code11,13.3
+2018,Percentage points,Difference,,Berlin,code11,13.8
+2019,Percentage points,Difference,,Berlin,code11,11.8
+2020,Percentage points,Difference,,Berlin,code11,0.6
+2021,Percentage points,Difference,,Berlin,code11,10.8
+2022,Percentage points,Difference,,Berlin,code11,-6.8
 1996,Percentage points,Difference,,Brandenburg,code12,-5.3
-1997,Percentage points,Difference,,Brandenburg,code12,-4.3
-1998,Percentage points,Difference,,Brandenburg,code12,-4.6
-1999,Percentage points,Difference,,Brandenburg,code12,-4.4
-2000,Percentage points,Difference,,Brandenburg,code12,-4.7
-2001,Percentage points,Difference,,Brandenburg,code12,-4.7
-2002,Percentage points,Difference,,Brandenburg,code12,-4.7
-2003,Percentage points,Difference,,Brandenburg,code12,-4.2
-2004,Percentage points,Difference,,Brandenburg,code12,-4.7
-2005,Percentage points,Difference,,Brandenburg,code12,-5.4
-2006,Percentage points,Difference,,Brandenburg,code12,-5.9
-2007,Percentage points,Difference,,Brandenburg,code12,-5.6
-2008,Percentage points,Difference,,Brandenburg,code12,-5.4
-2009,Percentage points,Difference,,Brandenburg,code12,-4.1
-2010,Percentage points,Difference,,Brandenburg,code12,-4.0
-2011,Percentage points,Difference,,Brandenburg,code12,-4.4
-2012,Percentage points,Difference,,Brandenburg,code12,-2.9
-2013,Percentage points,Difference,,Brandenburg,code12,-3.8
-2014,Percentage points,Difference,,Brandenburg,code12,-3.9
-2015,Percentage points,Difference,,Brandenburg,code12,-3.3
-2016,Percentage points,Difference,,Brandenburg,code12,-2.9
-2017,Percentage points,Difference,,Brandenburg,code12,-2.9
-2018,Percentage points,Difference,,Brandenburg,code12,-2.9
-2019,Percentage points,Difference,,Brandenburg,code12,-2.8
-2020,Percentage points,Difference,,Brandenburg,code12,-1.3
-2021,Percentage points,Difference,,Brandenburg,code12,-2.0
+1997,Percentage points,Difference,,Brandenburg,code12,-1.2
+1998,Percentage points,Difference,,Brandenburg,code12,0.1
+1999,Percentage points,Difference,,Brandenburg,code12,0.4
+2000,Percentage points,Difference,,Brandenburg,code12,0.8
+2001,Percentage points,Difference,,Brandenburg,code12,-1.3
+2002,Percentage points,Difference,,Brandenburg,code12,-3.3
+2003,Percentage points,Difference,,Brandenburg,code12,1.6
+2004,Percentage points,Difference,,Brandenburg,code12,-2.1
+2005,Percentage points,Difference,,Brandenburg,code12,4.1
+2006,Percentage points,Difference,,Brandenburg,code12,3.3
+2007,Percentage points,Difference,,Brandenburg,code12,-0.3
+2008,Percentage points,Difference,,Brandenburg,code12,-1.2
+2009,Percentage points,Difference,,Brandenburg,code12,-3.2
+2010,Percentage points,Difference,,Brandenburg,code12,-1.5
+2011,Percentage points,Difference,,Brandenburg,code12,-1.5
+2012,Percentage points,Difference,,Brandenburg,code12,-1.4
+2013,Percentage points,Difference,,Brandenburg,code12,-2.0
+2014,Percentage points,Difference,,Brandenburg,code12,-2.8
+2015,Percentage points,Difference,,Brandenburg,code12,-2.0
+2016,Percentage points,Difference,,Brandenburg,code12,10.2
+2017,Percentage points,Difference,,Brandenburg,code12,10.2
+2018,Percentage points,Difference,,Brandenburg,code12,11.9
+2019,Percentage points,Difference,,Brandenburg,code12,9.1
+2020,Percentage points,Difference,,Brandenburg,code12,-0.7
+2021,Percentage points,Difference,,Brandenburg,code12,2.4
+2022,Percentage points,Difference,,Brandenburg,code12,4.5
 1996,Percentage points,Difference,,Bremen,code04,14.2
-1997,Percentage points,Difference,,Bremen,code04,15.1
-1998,Percentage points,Difference,,Bremen,code04,13.0
-1999,Percentage points,Difference,,Bremen,code04,14.9
-2000,Percentage points,Difference,,Bremen,code04,15.0
-2001,Percentage points,Difference,,Bremen,code04,14.2
-2002,Percentage points,Difference,,Bremen,code04,14.8
-2003,Percentage points,Difference,,Bremen,code04,14.8
-2004,Percentage points,Difference,,Bremen,code04,13.7
-2005,Percentage points,Difference,,Bremen,code04,14.8
-2006,Percentage points,Difference,,Bremen,code04,16.3
-2007,Percentage points,Difference,,Bremen,code04,16.1
-2008,Percentage points,Difference,,Bremen,code04,16.6
-2009,Percentage points,Difference,,Bremen,code04,17.4
-2010,Percentage points,Difference,,Bremen,code04,18.4
-2011,Percentage points,Difference,,Bremen,code04,17.5
-2012,Percentage points,Difference,,Bremen,code04,18.3
-2013,Percentage points,Difference,,Bremen,code04,17.6
-2014,Percentage points,Difference,,Bremen,code04,17.2
-2015,Percentage points,Difference,,Bremen,code04,17.3
-2016,Percentage points,Difference,,Bremen,code04,17.5
-2017,Percentage points,Difference,,Bremen,code04,16.4
-2018,Percentage points,Difference,,Bremen,code04,16.9
-2019,Percentage points,Difference,,Bremen,code04,16.2
-2020,Percentage points,Difference,,Bremen,code04,17.0
-2021,Percentage points,Difference,,Bremen,code04,16.4
+1997,Percentage points,Difference,,Bremen,code04,10.3
+1998,Percentage points,Difference,,Bremen,code04,8.2
+1999,Percentage points,Difference,,Bremen,code04,8.7
+2000,Percentage points,Difference,,Bremen,code04,12.6
+2001,Percentage points,Difference,,Bremen,code04,10.7
+2002,Percentage points,Difference,,Bremen,code04,6.7
+2003,Percentage points,Difference,,Bremen,code04,10.7
+2004,Percentage points,Difference,,Bremen,code04,9.1
+2005,Percentage points,Difference,,Bremen,code04,9.0
+2006,Percentage points,Difference,,Bremen,code04,8.5
+2007,Percentage points,Difference,,Bremen,code04,9.6
+2008,Percentage points,Difference,,Bremen,code04,5.8
+2009,Percentage points,Difference,,Bremen,code04,5.9
+2010,Percentage points,Difference,,Bremen,code04,5.9
+2011,Percentage points,Difference,,Bremen,code04,7.8
+2012,Percentage points,Difference,,Bremen,code04,4.7
+2013,Percentage points,Difference,,Bremen,code04,7.9
+2014,Percentage points,Difference,,Bremen,code04,4.8
+2015,Percentage points,Difference,,Bremen,code04,5.4
+2016,Percentage points,Difference,,Bremen,code04,10.5
+2017,Percentage points,Difference,,Bremen,code04,15.3
+2018,Percentage points,Difference,,Bremen,code04,14.8
+2019,Percentage points,Difference,,Bremen,code04,19.9
+2020,Percentage points,Difference,,Bremen,code04,18.2
+2021,Percentage points,Difference,,Bremen,code04,16.1
+2022,Percentage points,Difference,,Bremen,code04,19.4
 1996,Percentage points,Difference,,Hamburg,code02,9.3
-1997,Percentage points,Difference,,Hamburg,code02,8.7
-1998,Percentage points,Difference,,Hamburg,code02,9.2
-1999,Percentage points,Difference,,Hamburg,code02,9.1
-2000,Percentage points,Difference,,Hamburg,code02,8.0
-2001,Percentage points,Difference,,Hamburg,code02,7.7
-2002,Percentage points,Difference,,Hamburg,code02,8.3
-2003,Percentage points,Difference,,Hamburg,code02,8.6
-2004,Percentage points,Difference,,Hamburg,code02,9.2
-2005,Percentage points,Difference,,Hamburg,code02,9.0
-2006,Percentage points,Difference,,Hamburg,code02,9.2
-2007,Percentage points,Difference,,Hamburg,code02,10.1
-2008,Percentage points,Difference,,Hamburg,code02,12.0
-2009,Percentage points,Difference,,Hamburg,code02,12.2
-2010,Percentage points,Difference,,Hamburg,code02,13.8
-2011,Percentage points,Difference,,Hamburg,code02,12.6
-2012,Percentage points,Difference,,Hamburg,code02,12.7
-2013,Percentage points,Difference,,Hamburg,code02,14.4
-2014,Percentage points,Difference,,Hamburg,code02,14.6
-2015,Percentage points,Difference,,Hamburg,code02,14.0
-2016,Percentage points,Difference,,Hamburg,code02,13.9
-2017,Percentage points,Difference,,Hamburg,code02,14.4
-2018,Percentage points,Difference,,Hamburg,code02,13.6
-2019,Percentage points,Difference,,Hamburg,code02,13.7
-2020,Percentage points,Difference,,Hamburg,code02,13.3
-2021,Percentage points,Difference,,Hamburg,code02,13.9
+1997,Percentage points,Difference,,Hamburg,code02,7.3
+1998,Percentage points,Difference,,Hamburg,code02,8.8
+1999,Percentage points,Difference,,Hamburg,code02,10.9
+2000,Percentage points,Difference,,Hamburg,code02,9.9
+2001,Percentage points,Difference,,Hamburg,code02,8.8
+2002,Percentage points,Difference,,Hamburg,code02,7.4
+2003,Percentage points,Difference,,Hamburg,code02,8.3
+2004,Percentage points,Difference,,Hamburg,code02,10.5
+2005,Percentage points,Difference,,Hamburg,code02,10.3
+2006,Percentage points,Difference,,Hamburg,code02,11.0
+2007,Percentage points,Difference,,Hamburg,code02,9.9
+2008,Percentage points,Difference,,Hamburg,code02,8.7
+2009,Percentage points,Difference,,Hamburg,code02,8.5
+2010,Percentage points,Difference,,Hamburg,code02,7.8
+2011,Percentage points,Difference,,Hamburg,code02,6.4
+2012,Percentage points,Difference,,Hamburg,code02,4.6
+2013,Percentage points,Difference,,Hamburg,code02,5.3
+2014,Percentage points,Difference,,Hamburg,code02,6.0
+2015,Percentage points,Difference,,Hamburg,code02,5.8
+2016,Percentage points,Difference,,Hamburg,code02,8.8
+2017,Percentage points,Difference,,Hamburg,code02,8.2
+2018,Percentage points,Difference,,Hamburg,code02,10.1
+2019,Percentage points,Difference,,Hamburg,code02,8.4
+2020,Percentage points,Difference,,Hamburg,code02,10.2
+2021,Percentage points,Difference,,Hamburg,code02,8.8
+2022,Percentage points,Difference,,Hamburg,code02,9.0
 1996,Percentage points,Difference,,Hesse,code06,14.1
-1997,Percentage points,Difference,,Hesse,code06,14.2
-1998,Percentage points,Difference,,Hesse,code06,14.3
-1999,Percentage points,Difference,,Hesse,code06,13.6
-2000,Percentage points,Difference,,Hesse,code06,12.8
-2001,Percentage points,Difference,,Hesse,code06,13.1
-2002,Percentage points,Difference,,Hesse,code06,13.9
-2003,Percentage points,Difference,,Hesse,code06,13.4
-2004,Percentage points,Difference,,Hesse,code06,14.0
-2005,Percentage points,Difference,,Hesse,code06,14.4
-2006,Percentage points,Difference,,Hesse,code06,14.5
-2007,Percentage points,Difference,,Hesse,code06,14.5
-2008,Percentage points,Difference,,Hesse,code06,15.5
-2009,Percentage points,Difference,,Hesse,code06,15.8
-2010,Percentage points,Difference,,Hesse,code06,16.4
-2011,Percentage points,Difference,,Hesse,code06,16.9
-2012,Percentage points,Difference,,Hesse,code06,16.8
-2013,Percentage points,Difference,,Hesse,code06,17.7
-2014,Percentage points,Difference,,Hesse,code06,17.4
-2015,Percentage points,Difference,,Hesse,code06,17.5
-2016,Percentage points,Difference,,Hesse,code06,16.8
-2017,Percentage points,Difference,,Hesse,code06,16.9
-2018,Percentage points,Difference,,Hesse,code06,16.9
-2019,Percentage points,Difference,,Hesse,code06,16.8
-2020,Percentage points,Difference,,Hesse,code06,17.5
-2021,Percentage points,Difference,,Hesse,code06,16.5
+1997,Percentage points,Difference,,Hesse,code06,12.7
+1998,Percentage points,Difference,,Hesse,code06,11.3
+1999,Percentage points,Difference,,Hesse,code06,12.7
+2000,Percentage points,Difference,,Hesse,code06,13.3
+2001,Percentage points,Difference,,Hesse,code06,12.1
+2002,Percentage points,Difference,,Hesse,code06,12.0
+2003,Percentage points,Difference,,Hesse,code06,11.3
+2004,Percentage points,Difference,,Hesse,code06,11.2
+2005,Percentage points,Difference,,Hesse,code06,10.2
+2006,Percentage points,Difference,,Hesse,code06,9.6
+2007,Percentage points,Difference,,Hesse,code06,9.5
+2008,Percentage points,Difference,,Hesse,code06,7.4
+2009,Percentage points,Difference,,Hesse,code06,8.9
+2010,Percentage points,Difference,,Hesse,code06,8.4
+2011,Percentage points,Difference,,Hesse,code06,7.6
+2012,Percentage points,Difference,,Hesse,code06,6.8
+2013,Percentage points,Difference,,Hesse,code06,6.4
+2014,Percentage points,Difference,,Hesse,code06,5.7
+2015,Percentage points,Difference,,Hesse,code06,4.6
+2016,Percentage points,Difference,,Hesse,code06,6.0
+2017,Percentage points,Difference,,Hesse,code06,6.2
+2018,Percentage points,Difference,,Hesse,code06,6.2
+2019,Percentage points,Difference,,Hesse,code06,7.1
+2020,Percentage points,Difference,,Hesse,code06,6.1
+2021,Percentage points,Difference,,Hesse,code06,7.2
+2022,Percentage points,Difference,,Hesse,code06,7.1
 1996,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,3.4
-1997,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,3.6
-1998,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,3.1
-1999,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,2.4
-2000,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,1.9
-2001,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,-0.8
-2002,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,2.2
-2003,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,2.6
-2004,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,3.1
-2005,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,2.1
-2006,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,1.5
-2007,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,2.5
-2008,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,3.1
-2009,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,0.7
-2010,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,-0.4
-2011,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,-1.2
-2012,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,0.5
-2013,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,2.0
+1997,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,5.1
+1998,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,16.4
+1999,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,10.9
+2000,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,3.5
+2001,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,13.4
+2002,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,6.0
+2003,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,10.3
+2004,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,5.0
+2005,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,10.6
+2006,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,3.5
+2007,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,8.2
+2008,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,3.6
+2009,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,2.6
+2010,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,3.0
+2011,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,4.1
+2012,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,-1.6
+2013,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,6.1
 2014,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,4.2
-2015,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,4.5
-2016,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,3.6
-2017,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,4.3
-2018,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,4.7
-2019,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,4.2
-2020,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,5.9
-2021,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,5.0
+2015,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,-0.1
+2016,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,6.7
+2017,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,11.3
+2018,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,16.9
+2019,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,12.2
+2020,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,5.4
+2021,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,5.6
+2022,Percentage points,Difference,,Mecklenburg Western Pomerania,code13,9.8
 1996,Percentage points,Difference,,Lower Saxony,code03,18.5
 1997,Percentage points,Difference,,Lower Saxony,code03,18.4
-1998,Percentage points,Difference,,Lower Saxony,code03,18.7
-1999,Percentage points,Difference,,Lower Saxony,code03,19.1
-2000,Percentage points,Difference,,Lower Saxony,code03,18.4
-2001,Percentage points,Difference,,Lower Saxony,code03,18.4
-2002,Percentage points,Difference,,Lower Saxony,code03,18.7
-2003,Percentage points,Difference,,Lower Saxony,code03,18.0
-2004,Percentage points,Difference,,Lower Saxony,code03,20.7
-2005,Percentage points,Difference,,Lower Saxony,code03,19.4
-2006,Percentage points,Difference,,Lower Saxony,code03,19.9
-2007,Percentage points,Difference,,Lower Saxony,code03,20.6
-2008,Percentage points,Difference,,Lower Saxony,code03,20.7
-2009,Percentage points,Difference,,Lower Saxony,code03,21.6
-2010,Percentage points,Difference,,Lower Saxony,code03,22.0
-2011,Percentage points,Difference,,Lower Saxony,code03,22.9
-2012,Percentage points,Difference,,Lower Saxony,code03,22.3
-2013,Percentage points,Difference,,Lower Saxony,code03,22.7
-2014,Percentage points,Difference,,Lower Saxony,code03,22.9
-2015,Percentage points,Difference,,Lower Saxony,code03,22.9
-2016,Percentage points,Difference,,Lower Saxony,code03,23.0
-2017,Percentage points,Difference,,Lower Saxony,code03,22.7
-2018,Percentage points,Difference,,Lower Saxony,code03,22.4
-2019,Percentage points,Difference,,Lower Saxony,code03,22.0
-2020,Percentage points,Difference,,Lower Saxony,code03,20.7
-2021,Percentage points,Difference,,Lower Saxony,code03,22.5
+1998,Percentage points,Difference,,Lower Saxony,code03,16.6
+1999,Percentage points,Difference,,Lower Saxony,code03,17.7
+2000,Percentage points,Difference,,Lower Saxony,code03,18.7
+2001,Percentage points,Difference,,Lower Saxony,code03,18.5
+2002,Percentage points,Difference,,Lower Saxony,code03,18.0
+2003,Percentage points,Difference,,Lower Saxony,code03,19.2
+2004,Percentage points,Difference,,Lower Saxony,code03,15.8
+2005,Percentage points,Difference,,Lower Saxony,code03,17.1
+2006,Percentage points,Difference,,Lower Saxony,code03,17.5
+2007,Percentage points,Difference,,Lower Saxony,code03,13.4
+2008,Percentage points,Difference,,Lower Saxony,code03,13.4
+2009,Percentage points,Difference,,Lower Saxony,code03,11.6
+2010,Percentage points,Difference,,Lower Saxony,code03,10.9
+2011,Percentage points,Difference,,Lower Saxony,code03,11.3
+2012,Percentage points,Difference,,Lower Saxony,code03,8.6
+2013,Percentage points,Difference,,Lower Saxony,code03,9.1
+2014,Percentage points,Difference,,Lower Saxony,code03,7.8
+2015,Percentage points,Difference,,Lower Saxony,code03,10.0
+2016,Percentage points,Difference,,Lower Saxony,code03,12.0
+2017,Percentage points,Difference,,Lower Saxony,code03,18.3
+2018,Percentage points,Difference,,Lower Saxony,code03,18.0
+2019,Percentage points,Difference,,Lower Saxony,code03,17.8
+2020,Percentage points,Difference,,Lower Saxony,code03,13.9
+2021,Percentage points,Difference,,Lower Saxony,code03,13.8
+2022,Percentage points,Difference,,Lower Saxony,code03,13.6
 1996,Percentage points,Difference,,North Rhine-Westphalia,code05,8.0
-1997,Percentage points,Difference,,North Rhine-Westphalia,code05,7.7
-1998,Percentage points,Difference,,North Rhine-Westphalia,code05,7.8
-1999,Percentage points,Difference,,North Rhine-Westphalia,code05,7.8
-2000,Percentage points,Difference,,North Rhine-Westphalia,code05,7.6
-2001,Percentage points,Difference,,North Rhine-Westphalia,code05,6.8
-2002,Percentage points,Difference,,North Rhine-Westphalia,code05,6.7
-2003,Percentage points,Difference,,North Rhine-Westphalia,code05,6.8
-2004,Percentage points,Difference,,North Rhine-Westphalia,code05,6.7
-2005,Percentage points,Difference,,North Rhine-Westphalia,code05,6.8
-2006,Percentage points,Difference,,North Rhine-Westphalia,code05,7.1
-2007,Percentage points,Difference,,North Rhine-Westphalia,code05,7.2
-2008,Percentage points,Difference,,North Rhine-Westphalia,code05,7.3
-2009,Percentage points,Difference,,North Rhine-Westphalia,code05,7.5
-2010,Percentage points,Difference,,North Rhine-Westphalia,code05,8.0
-2011,Percentage points,Difference,,North Rhine-Westphalia,code05,8.1
-2012,Percentage points,Difference,,North Rhine-Westphalia,code05,8.4
-2013,Percentage points,Difference,,North Rhine-Westphalia,code05,9.0
-2014,Percentage points,Difference,,North Rhine-Westphalia,code05,7.9
-2015,Percentage points,Difference,,North Rhine-Westphalia,code05,8.1
-2016,Percentage points,Difference,,North Rhine-Westphalia,code05,8.1
-2017,Percentage points,Difference,,North Rhine-Westphalia,code05,8.1
-2018,Percentage points,Difference,,North Rhine-Westphalia,code05,7.7
-2019,Percentage points,Difference,,North Rhine-Westphalia,code05,7.7
-2020,Percentage points,Difference,,North Rhine-Westphalia,code05,8.1
-2021,Percentage points,Difference,,North Rhine-Westphalia,code05,8.2
+1997,Percentage points,Difference,,North Rhine-Westphalia,code05,8.0
+1998,Percentage points,Difference,,North Rhine-Westphalia,code05,7.9
+1999,Percentage points,Difference,,North Rhine-Westphalia,code05,7.4
+2000,Percentage points,Difference,,North Rhine-Westphalia,code05,8.0
+2001,Percentage points,Difference,,North Rhine-Westphalia,code05,7.7
+2002,Percentage points,Difference,,North Rhine-Westphalia,code05,8.4
+2003,Percentage points,Difference,,North Rhine-Westphalia,code05,7.8
+2004,Percentage points,Difference,,North Rhine-Westphalia,code05,7.9
+2005,Percentage points,Difference,,North Rhine-Westphalia,code05,8.2
+2006,Percentage points,Difference,,North Rhine-Westphalia,code05,8.2
+2007,Percentage points,Difference,,North Rhine-Westphalia,code05,8.7
+2008,Percentage points,Difference,,North Rhine-Westphalia,code05,8.7
+2009,Percentage points,Difference,,North Rhine-Westphalia,code05,7.9
+2010,Percentage points,Difference,,North Rhine-Westphalia,code05,7.6
+2011,Percentage points,Difference,,North Rhine-Westphalia,code05,6.7
+2012,Percentage points,Difference,,North Rhine-Westphalia,code05,6.7
+2013,Percentage points,Difference,,North Rhine-Westphalia,code05,6.5
+2014,Percentage points,Difference,,North Rhine-Westphalia,code05,6.7
+2015,Percentage points,Difference,,North Rhine-Westphalia,code05,6.5
+2016,Percentage points,Difference,,North Rhine-Westphalia,code05,7.0
+2017,Percentage points,Difference,,North Rhine-Westphalia,code05,10.8
+2018,Percentage points,Difference,,North Rhine-Westphalia,code05,11.0
+2019,Percentage points,Difference,,North Rhine-Westphalia,code05,10.9
+2020,Percentage points,Difference,,North Rhine-Westphalia,code05,8.7
+2021,Percentage points,Difference,,North Rhine-Westphalia,code05,10.1
+2022,Percentage points,Difference,,North Rhine-Westphalia,code05,9.8
 1996,Percentage points,Difference,,Rhineland Palatinate,code07,13.1
-1997,Percentage points,Difference,,Rhineland Palatinate,code07,13.2
-1998,Percentage points,Difference,,Rhineland Palatinate,code07,13.1
-1999,Percentage points,Difference,,Rhineland Palatinate,code07,13.6
-2000,Percentage points,Difference,,Rhineland Palatinate,code07,13.1
-2001,Percentage points,Difference,,Rhineland Palatinate,code07,13.3
-2002,Percentage points,Difference,,Rhineland Palatinate,code07,13.5
-2003,Percentage points,Difference,,Rhineland Palatinate,code07,13.9
-2004,Percentage points,Difference,,Rhineland Palatinate,code07,14.7
-2005,Percentage points,Difference,,Rhineland Palatinate,code07,14.8
-2006,Percentage points,Difference,,Rhineland Palatinate,code07,14.9
-2007,Percentage points,Difference,,Rhineland Palatinate,code07,14.9
-2008,Percentage points,Difference,,Rhineland Palatinate,code07,15.4
-2009,Percentage points,Difference,,Rhineland Palatinate,code07,15.6
-2010,Percentage points,Difference,,Rhineland Palatinate,code07,16.5
-2011,Percentage points,Difference,,Rhineland Palatinate,code07,16.6
-2012,Percentage points,Difference,,Rhineland Palatinate,code07,16.8
-2013,Percentage points,Difference,,Rhineland Palatinate,code07,16.9
-2014,Percentage points,Difference,,Rhineland Palatinate,code07,16.8
-2015,Percentage points,Difference,,Rhineland Palatinate,code07,16.1
-2016,Percentage points,Difference,,Rhineland Palatinate,code07,16.5
-2017,Percentage points,Difference,,Rhineland Palatinate,code07,16.1
-2018,Percentage points,Difference,,Rhineland Palatinate,code07,16.0
-2019,Percentage points,Difference,,Rhineland Palatinate,code07,15.4
-2020,Percentage points,Difference,,Rhineland Palatinate,code07,15.9
-2021,Percentage points,Difference,,Rhineland Palatinate,code07,15.8
+1997,Percentage points,Difference,,Rhineland Palatinate,code07,14.3
+1998,Percentage points,Difference,,Rhineland Palatinate,code07,16.6
+1999,Percentage points,Difference,,Rhineland Palatinate,code07,18.9
+2000,Percentage points,Difference,,Rhineland Palatinate,code07,16.6
+2001,Percentage points,Difference,,Rhineland Palatinate,code07,14.8
+2002,Percentage points,Difference,,Rhineland Palatinate,code07,13.7
+2003,Percentage points,Difference,,Rhineland Palatinate,code07,17.6
+2004,Percentage points,Difference,,Rhineland Palatinate,code07,14.5
+2005,Percentage points,Difference,,Rhineland Palatinate,code07,8.1
+2006,Percentage points,Difference,,Rhineland Palatinate,code07,10.0
+2007,Percentage points,Difference,,Rhineland Palatinate,code07,8.3
+2008,Percentage points,Difference,,Rhineland Palatinate,code07,9.6
+2009,Percentage points,Difference,,Rhineland Palatinate,code07,7.5
+2010,Percentage points,Difference,,Rhineland Palatinate,code07,6.6
+2011,Percentage points,Difference,,Rhineland Palatinate,code07,5.7
+2012,Percentage points,Difference,,Rhineland Palatinate,code07,5.1
+2013,Percentage points,Difference,,Rhineland Palatinate,code07,5.5
+2014,Percentage points,Difference,,Rhineland Palatinate,code07,6.1
+2015,Percentage points,Difference,,Rhineland Palatinate,code07,6.3
+2016,Percentage points,Difference,,Rhineland Palatinate,code07,8.8
+2017,Percentage points,Difference,,Rhineland Palatinate,code07,12.0
+2018,Percentage points,Difference,,Rhineland Palatinate,code07,12.2
+2019,Percentage points,Difference,,Rhineland Palatinate,code07,11.5
+2020,Percentage points,Difference,,Rhineland Palatinate,code07,8.3
+2021,Percentage points,Difference,,Rhineland Palatinate,code07,13.1
+2022,Percentage points,Difference,,Rhineland Palatinate,code07,10.8
 1996,Percentage points,Difference,,Saarland,code10,18.9
-1997,Percentage points,Difference,,Saarland,code10,18.7
-1998,Percentage points,Difference,,Saarland,code10,18.7
-1999,Percentage points,Difference,,Saarland,code10,18.1
-2000,Percentage points,Difference,,Saarland,code10,19.0
-2001,Percentage points,Difference,,Saarland,code10,18.0
-2002,Percentage points,Difference,,Saarland,code10,20.0
-2003,Percentage points,Difference,,Saarland,code10,20.0
-2004,Percentage points,Difference,,Saarland,code10,20.4
-2005,Percentage points,Difference,,Saarland,code10,20.6
-2006,Percentage points,Difference,,Saarland,code10,21.1
-2007,Percentage points,Difference,,Saarland,code10,21.7
-2008,Percentage points,Difference,,Saarland,code10,22.2
-2009,Percentage points,Difference,,Saarland,code10,23.5
-2010,Percentage points,Difference,,Saarland,code10,23.2
-2011,Percentage points,Difference,,Saarland,code10,23.7
-2012,Percentage points,Difference,,Saarland,code10,23.3
-2013,Percentage points,Difference,,Saarland,code10,23.6
-2014,Percentage points,Difference,,Saarland,code10,23.6
-2015,Percentage points,Difference,,Saarland,code10,24.3
-2016,Percentage points,Difference,,Saarland,code10,23.3
-2017,Percentage points,Difference,,Saarland,code10,23.6
-2018,Percentage points,Difference,,Saarland,code10,23.4
-2019,Percentage points,Difference,,Saarland,code10,22.9
-2020,Percentage points,Difference,,Saarland,code10,23.6
-2021,Percentage points,Difference,,Saarland,code10,23.6
+1997,Percentage points,Difference,,Saarland,code10,12.8
+1998,Percentage points,Difference,,Saarland,code10,15.7
+1999,Percentage points,Difference,,Saarland,code10,15.0
+2000,Percentage points,Difference,,Saarland,code10,18.1
+2001,Percentage points,Difference,,Saarland,code10,15.8
+2002,Percentage points,Difference,,Saarland,code10,14.4
+2003,Percentage points,Difference,,Saarland,code10,11.8
+2004,Percentage points,Difference,,Saarland,code10,13.1
+2005,Percentage points,Difference,,Saarland,code10,10.5
+2006,Percentage points,Difference,,Saarland,code10,9.0
+2007,Percentage points,Difference,,Saarland,code10,9.2
+2008,Percentage points,Difference,,Saarland,code10,9.4
+2009,Percentage points,Difference,,Saarland,code10,9.0
+2010,Percentage points,Difference,,Saarland,code10,7.3
+2011,Percentage points,Difference,,Saarland,code10,6.1
+2012,Percentage points,Difference,,Saarland,code10,5.3
+2013,Percentage points,Difference,,Saarland,code10,5.2
+2014,Percentage points,Difference,,Saarland,code10,5.0
+2015,Percentage points,Difference,,Saarland,code10,8.3
+2016,Percentage points,Difference,,Saarland,code10,21.4
+2017,Percentage points,Difference,,Saarland,code10,20.0
+2018,Percentage points,Difference,,Saarland,code10,19.7
+2019,Percentage points,Difference,,Saarland,code10,16.2
+2020,Percentage points,Difference,,Saarland,code10,13.5
+2021,Percentage points,Difference,,Saarland,code10,12.0
+2022,Percentage points,Difference,,Saarland,code10,16.9
 1996,Percentage points,Difference,,Saxony,code14,26.4
-1997,Percentage points,Difference,,Saxony,code14,26.7
-1998,Percentage points,Difference,,Saxony,code14,25.8
-1999,Percentage points,Difference,,Saxony,code14,24.3
-2000,Percentage points,Difference,,Saxony,code14,24.1
-2001,Percentage points,Difference,,Saxony,code14,25.1
-2002,Percentage points,Difference,,Saxony,code14,26.2
-2003,Percentage points,Difference,,Saxony,code14,26.3
-2004,Percentage points,Difference,,Saxony,code14,26.8
-2005,Percentage points,Difference,,Saxony,code14,27.1
-2006,Percentage points,Difference,,Saxony,code14,27.6
-2007,Percentage points,Difference,,Saxony,code14,27.9
-2008,Percentage points,Difference,,Saxony,code14,27.8
-2009,Percentage points,Difference,,Saxony,code14,27.6
-2010,Percentage points,Difference,,Saxony,code14,26.7
-2011,Percentage points,Difference,,Saxony,code14,26.4
-2012,Percentage points,Difference,,Saxony,code14,26.5
-2013,Percentage points,Difference,,Saxony,code14,26.4
-2014,Percentage points,Difference,,Saxony,code14,28.0
-2015,Percentage points,Difference,,Saxony,code14,28.2
-2016,Percentage points,Difference,,Saxony,code14,28.2
-2017,Percentage points,Difference,,Saxony,code14,28.6
-2018,Percentage points,Difference,,Saxony,code14,28.5
-2019,Percentage points,Difference,,Saxony,code14,28.6
-2020,Percentage points,Difference,,Saxony,code14,29.1
-2021,Percentage points,Difference,,Saxony,code14,28.2
+1997,Percentage points,Difference,,Saxony,code14,21.5
+1998,Percentage points,Difference,,Saxony,code14,20.9
+1999,Percentage points,Difference,,Saxony,code14,14.9
+2000,Percentage points,Difference,,Saxony,code14,7.8
+2001,Percentage points,Difference,,Saxony,code14,13.6
+2002,Percentage points,Difference,,Saxony,code14,21.9
+2003,Percentage points,Difference,,Saxony,code14,12.3
+2004,Percentage points,Difference,,Saxony,code14,10.6
+2005,Percentage points,Difference,,Saxony,code14,10.3
+2006,Percentage points,Difference,,Saxony,code14,10.3
+2007,Percentage points,Difference,,Saxony,code14,12.4
+2008,Percentage points,Difference,,Saxony,code14,7.9
+2009,Percentage points,Difference,,Saxony,code14,3.4
+2010,Percentage points,Difference,,Saxony,code14,5.8
+2011,Percentage points,Difference,,Saxony,code14,2.0
+2012,Percentage points,Difference,,Saxony,code14,1.0
+2013,Percentage points,Difference,,Saxony,code14,5.5
+2014,Percentage points,Difference,,Saxony,code14,7.3
+2015,Percentage points,Difference,,Saxony,code14,6.9
+2016,Percentage points,Difference,,Saxony,code14,7.5
+2017,Percentage points,Difference,,Saxony,code14,10.7
+2018,Percentage points,Difference,,Saxony,code14,15.1
+2019,Percentage points,Difference,,Saxony,code14,13.4
+2020,Percentage points,Difference,,Saxony,code14,9.8
+2021,Percentage points,Difference,,Saxony,code14,9.2
+2022,Percentage points,Difference,,Saxony,code14,10.7
 1996,Percentage points,Difference,,Saxony-Anhalt,code15,18.9
-1997,Percentage points,Difference,,Saxony-Anhalt,code15,19.5
-1998,Percentage points,Difference,,Saxony-Anhalt,code15,18.6
-1999,Percentage points,Difference,,Saxony-Anhalt,code15,18.0
-2000,Percentage points,Difference,,Saxony-Anhalt,code15,17.2
-2001,Percentage points,Difference,,Saxony-Anhalt,code15,11.6
-2002,Percentage points,Difference,,Saxony-Anhalt,code15,15.4
-2003,Percentage points,Difference,,Saxony-Anhalt,code15,15.5
-2004,Percentage points,Difference,,Saxony-Anhalt,code15,15.8
-2005,Percentage points,Difference,,Saxony-Anhalt,code15,17.8
-2006,Percentage points,Difference,,Saxony-Anhalt,code15,18.8
-2007,Percentage points,Difference,,Saxony-Anhalt,code15,21.8
-2008,Percentage points,Difference,,Saxony-Anhalt,code15,19.1
-2009,Percentage points,Difference,,Saxony-Anhalt,code15,19.2
-2010,Percentage points,Difference,,Saxony-Anhalt,code15,17.9
-2011,Percentage points,Difference,,Saxony-Anhalt,code15,17.7
-2012,Percentage points,Difference,,Saxony-Anhalt,code15,18.4
-2013,Percentage points,Difference,,Saxony-Anhalt,code15,19.4
-2014,Percentage points,Difference,,Saxony-Anhalt,code15,20.0
-2015,Percentage points,Difference,,Saxony-Anhalt,code15,19.4
-2016,Percentage points,Difference,,Saxony-Anhalt,code15,20.5
-2017,Percentage points,Difference,,Saxony-Anhalt,code15,20.3
-2018,Percentage points,Difference,,Saxony-Anhalt,code15,19.4
-2019,Percentage points,Difference,,Saxony-Anhalt,code15,19.5
-2020,Percentage points,Difference,,Saxony-Anhalt,code15,20.4
-2021,Percentage points,Difference,,Saxony-Anhalt,code15,20.9
+1997,Percentage points,Difference,,Saxony-Anhalt,code15,29.3
+1998,Percentage points,Difference,,Saxony-Anhalt,code15,25.2
+1999,Percentage points,Difference,,Saxony-Anhalt,code15,16.5
+2000,Percentage points,Difference,,Saxony-Anhalt,code15,16.8
+2001,Percentage points,Difference,,Saxony-Anhalt,code15,10.0
+2002,Percentage points,Difference,,Saxony-Anhalt,code15,21.3
+2003,Percentage points,Difference,,Saxony-Anhalt,code15,21.6
+2004,Percentage points,Difference,,Saxony-Anhalt,code15,21.9
+2005,Percentage points,Difference,,Saxony-Anhalt,code15,17.3
+2006,Percentage points,Difference,,Saxony-Anhalt,code15,13.4
+2007,Percentage points,Difference,,Saxony-Anhalt,code15,13.8
+2008,Percentage points,Difference,,Saxony-Anhalt,code15,6.9
+2009,Percentage points,Difference,,Saxony-Anhalt,code15,7.5
+2010,Percentage points,Difference,,Saxony-Anhalt,code15,7.2
+2011,Percentage points,Difference,,Saxony-Anhalt,code15,7.2
+2012,Percentage points,Difference,,Saxony-Anhalt,code15,5.4
+2013,Percentage points,Difference,,Saxony-Anhalt,code15,2.8
+2014,Percentage points,Difference,,Saxony-Anhalt,code15,9.5
+2015,Percentage points,Difference,,Saxony-Anhalt,code15,14.8
+2016,Percentage points,Difference,,Saxony-Anhalt,code15,25.0
+2017,Percentage points,Difference,,Saxony-Anhalt,code15,30.8
+2018,Percentage points,Difference,,Saxony-Anhalt,code15,28.6
+2019,Percentage points,Difference,,Saxony-Anhalt,code15,19.7
+2020,Percentage points,Difference,,Saxony-Anhalt,code15,15.6
+2021,Percentage points,Difference,,Saxony-Anhalt,code15,17.1
+2022,Percentage points,Difference,,Saxony-Anhalt,code15,11.9
 1996,Percentage points,Difference,,Schleswig-Holstein,code01,13.7
-1997,Percentage points,Difference,,Schleswig-Holstein,code01,13.2
-1998,Percentage points,Difference,,Schleswig-Holstein,code01,12.6
-1999,Percentage points,Difference,,Schleswig-Holstein,code01,13.0
-2000,Percentage points,Difference,,Schleswig-Holstein,code01,13.0
-2001,Percentage points,Difference,,Schleswig-Holstein,code01,12.4
-2002,Percentage points,Difference,,Schleswig-Holstein,code01,12.4
-2003,Percentage points,Difference,,Schleswig-Holstein,code01,13.3
-2004,Percentage points,Difference,,Schleswig-Holstein,code01,13.3
-2005,Percentage points,Difference,,Schleswig-Holstein,code01,13.4
-2006,Percentage points,Difference,,Schleswig-Holstein,code01,13.5
-2007,Percentage points,Difference,,Schleswig-Holstein,code01,14.5
-2008,Percentage points,Difference,,Schleswig-Holstein,code01,14.6
-2009,Percentage points,Difference,,Schleswig-Holstein,code01,16.2
-2010,Percentage points,Difference,,Schleswig-Holstein,code01,16.2
-2011,Percentage points,Difference,,Schleswig-Holstein,code01,15.8
-2012,Percentage points,Difference,,Schleswig-Holstein,code01,15.7
-2013,Percentage points,Difference,,Schleswig-Holstein,code01,15.5
-2014,Percentage points,Difference,,Schleswig-Holstein,code01,15.3
-2015,Percentage points,Difference,,Schleswig-Holstein,code01,15.5
-2016,Percentage points,Difference,,Schleswig-Holstein,code01,16.6
-2017,Percentage points,Difference,,Schleswig-Holstein,code01,15.8
-2018,Percentage points,Difference,,Schleswig-Holstein,code01,15.2
-2019,Percentage points,Difference,,Schleswig-Holstein,code01,14.6
-2020,Percentage points,Difference,,Schleswig-Holstein,code01,15.4
-2021,Percentage points,Difference,,Schleswig-Holstein,code01,16.0
+1997,Percentage points,Difference,,Schleswig-Holstein,code01,16.0
+1998,Percentage points,Difference,,Schleswig-Holstein,code01,14.1
+1999,Percentage points,Difference,,Schleswig-Holstein,code01,12.3
+2000,Percentage points,Difference,,Schleswig-Holstein,code01,11.8
+2001,Percentage points,Difference,,Schleswig-Holstein,code01,11.2
+2002,Percentage points,Difference,,Schleswig-Holstein,code01,8.1
+2003,Percentage points,Difference,,Schleswig-Holstein,code01,6.9
+2004,Percentage points,Difference,,Schleswig-Holstein,code01,9.5
+2005,Percentage points,Difference,,Schleswig-Holstein,code01,8.6
+2006,Percentage points,Difference,,Schleswig-Holstein,code01,9.4
+2007,Percentage points,Difference,,Schleswig-Holstein,code01,7.9
+2008,Percentage points,Difference,,Schleswig-Holstein,code01,7.2
+2009,Percentage points,Difference,,Schleswig-Holstein,code01,6.2
+2010,Percentage points,Difference,,Schleswig-Holstein,code01,5.9
+2011,Percentage points,Difference,,Schleswig-Holstein,code01,4.9
+2012,Percentage points,Difference,,Schleswig-Holstein,code01,4.4
+2013,Percentage points,Difference,,Schleswig-Holstein,code01,6.7
+2014,Percentage points,Difference,,Schleswig-Holstein,code01,5.5
+2015,Percentage points,Difference,,Schleswig-Holstein,code01,5.8
+2016,Percentage points,Difference,,Schleswig-Holstein,code01,11.1
+2017,Percentage points,Difference,,Schleswig-Holstein,code01,12.9
+2018,Percentage points,Difference,,Schleswig-Holstein,code01,14.8
+2019,Percentage points,Difference,,Schleswig-Holstein,code01,17.5
+2020,Percentage points,Difference,,Schleswig-Holstein,code01,15.0
+2021,Percentage points,Difference,,Schleswig-Holstein,code01,14.3
+2022,Percentage points,Difference,,Schleswig-Holstein,code01,16.0
 1996,Percentage points,Difference,,Thuringia,code16,25.6
-1997,Percentage points,Difference,,Thuringia,code16,25.7
-1998,Percentage points,Difference,,Thuringia,code16,24.9
-1999,Percentage points,Difference,,Thuringia,code16,24.9
-2000,Percentage points,Difference,,Thuringia,code16,25.4
-2001,Percentage points,Difference,,Thuringia,code16,25.6
-2002,Percentage points,Difference,,Thuringia,code16,26.2
-2003,Percentage points,Difference,,Thuringia,code16,28.6
-2004,Percentage points,Difference,,Thuringia,code16,29.2
-2005,Percentage points,Difference,,Thuringia,code16,30.0
-2006,Percentage points,Difference,,Thuringia,code16,29.9
-2007,Percentage points,Difference,,Thuringia,code16,31.0
-2008,Percentage points,Difference,,Thuringia,code16,31.1
-2009,Percentage points,Difference,,Thuringia,code16,30.8
-2010,Percentage points,Difference,,Thuringia,code16,29.5
-2011,Percentage points,Difference,,Thuringia,code16,29.3
-2012,Percentage points,Difference,,Thuringia,code16,30.4
-2013,Percentage points,Difference,,Thuringia,code16,30.1
-2014,Percentage points,Difference,,Thuringia,code16,31.0
-2015,Percentage points,Difference,,Thuringia,code16,30.9
-2016,Percentage points,Difference,,Thuringia,code16,30.8
-2017,Percentage points,Difference,,Thuringia,code16,30.9
-2018,Percentage points,Difference,,Thuringia,code16,30.1
-2019,Percentage points,Difference,,Thuringia,code16,30.3
-2020,Percentage points,Difference,,Thuringia,code16,31.5
-2021,Percentage points,Difference,,Thuringia,code16,30.6
+1997,Percentage points,Difference,,Thuringia,code16,27.3
+1998,Percentage points,Difference,,Thuringia,code16,25.5
+1999,Percentage points,Difference,,Thuringia,code16,31.1
+2000,Percentage points,Difference,,Thuringia,code16,26.0
+2001,Percentage points,Difference,,Thuringia,code16,26.1
+2002,Percentage points,Difference,,Thuringia,code16,13.9
+2003,Percentage points,Difference,,Thuringia,code16,8.1
+2004,Percentage points,Difference,,Thuringia,code16,6.8
+2005,Percentage points,Difference,,Thuringia,code16,9.7
+2006,Percentage points,Difference,,Thuringia,code16,10.4
+2007,Percentage points,Difference,,Thuringia,code16,7.5
+2008,Percentage points,Difference,,Thuringia,code16,8.6
+2009,Percentage points,Difference,,Thuringia,code16,3.3
+2010,Percentage points,Difference,,Thuringia,code16,1.6
+2011,Percentage points,Difference,,Thuringia,code16,2.0
+2012,Percentage points,Difference,,Thuringia,code16,1.7
+2013,Percentage points,Difference,,Thuringia,code16,7.3
+2014,Percentage points,Difference,,Thuringia,code16,6.4
+2015,Percentage points,Difference,,Thuringia,code16,11.2
+2016,Percentage points,Difference,,Thuringia,code16,15.6
+2017,Percentage points,Difference,,Thuringia,code16,39.8
+2018,Percentage points,Difference,,Thuringia,code16,30.4
+2019,Percentage points,Difference,,Thuringia,code16,25.3
+2020,Percentage points,Difference,,Thuringia,code16,20.9
+2021,Percentage points,Difference,,Thuringia,code16,17.8
+2022,Percentage points,Difference,,Thuringia,code16,18.4

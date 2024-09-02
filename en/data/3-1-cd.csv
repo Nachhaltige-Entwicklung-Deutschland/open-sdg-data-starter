@@ -16,8 +16,10 @@ Year,Units,Time series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Adolescents,,,,8.7
 2019,Percentage,Adolescents,,,,7.2
 2021,Percentage,Adolescents,,,,6.1
+2023,Percentage,Adolescents,,,,6.8
 2006,Percentage,Adolescents,,,,
 2020,Percentage,Adolescents,,,,
+2022,Percentage,Adolescents,,,,
 2030,Percentage,Adolescents,,,,
 2003,Percentage,Adolescents,Female,,,23.2
 2004,Percentage,Adolescents,Female,,,22.7
@@ -36,8 +38,10 @@ Year,Units,Time series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Adolescents,Female,,,8.3
 2019,Percentage,Adolescents,Female,,,6.3
 2021,Percentage,Adolescents,Female,,,6.8
+2023,Percentage,Adolescents,Female,,,6.4
 2006,Percentage,Adolescents,Female,,,
 2020,Percentage,Adolescents,Female,,,
+2022,Percentage,Adolescents,Female,,,
 2003,Percentage,Adolescents,Male,,,21.9
 2004,Percentage,Adolescents,Male,,,24.2
 2005,Percentage,Adolescents,Male,,,20.7
@@ -55,8 +59,10 @@ Year,Units,Time series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Adolescents,Male,,,9.1
 2019,Percentage,Adolescents,Male,,,8.0
 2021,Percentage,Adolescents,Male,,,5.5
+2023,Percentage,Adolescents,Male,,,7.2
 2006,Percentage,Adolescents,Male,,,
 2020,Percentage,Adolescents,Male,,,
+2022,Percentage,Adolescents,Male,,,
 2003,Percentage,Adults,,,,27.4
 2004,Percentage,Adults,,,,
 2005,Percentage,Adults,,,,27.2
@@ -74,8 +80,10 @@ Year,Units,Time series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Adults,,,,
 2019,Percentage,Adults,,,,
 2021,Percentage,Adults,,,,18.9
+2023,Percentage,Adults,,,,
 2006,Percentage,Adults,,,,
 2020,Percentage,Adults,,,,
+2022,Percentage,Adults,,,,
 2030,Percentage,Adults,,,,
 2003,Percentage,Adults,Female,,,22.1
 2004,Percentage,Adults,Female,,,
@@ -94,8 +102,10 @@ Year,Units,Time series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Adults,Female,,,
 2019,Percentage,Adults,Female,,,
 2021,Percentage,Adults,Female,,,15.7
+2023,Percentage,Adults,Female,,,
 2006,Percentage,Adults,Female,,,
 2020,Percentage,Adults,Female,,,
+2022,Percentage,Adults,Female,,,
 2003,Percentage,Adults,Male,,,33.2
 2004,Percentage,Adults,Male,,,
 2005,Percentage,Adults,Male,,,32.2
@@ -113,8 +123,10 @@ Year,Units,Time series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Adults,Male,,,
 2019,Percentage,Adults,Male,,,
 2021,Percentage,Adults,Male,,,22.3
+2023,Percentage,Adults,Male,,,
 2006,Percentage,Adults,Male,,,
 2020,Percentage,Adults,Male,,,
+2022,Percentage,Adults,Male,,,
 2003,Percentage,Adults,,Baden-Wuerttemberg,code08,25.53
 2005,Percentage,Adults,,Baden-Wuerttemberg,code08,24.5
 2009,Percentage,Adults,,Baden-Wuerttemberg,code08,22.8
