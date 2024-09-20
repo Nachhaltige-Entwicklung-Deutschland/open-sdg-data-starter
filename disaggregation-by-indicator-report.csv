@@ -1,10 +1,10 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-1-ab,"sex, time series, area",3
-#10-1,"sex, federal state",2
+#1-1-ab,"time series, sex, area",3
+#10-1,"federal state, sex",2
 #10-2,"federal state, time series, area",3
 #11-1-a,"federal state, type of area",2
-#11-1-b,"federal state, degree of urbanisation",2
-#11-1-c,"federal state, degree of urbanisation",2
+#11-1-b,"degree of urbanisation, federal state",2
+#11-1-c,"degree of urbanisation, federal state",2
 #11-2-a,time series,1
 #11-2-b,time series,1
 #11-2-c,"federal state, time series",2
@@ -22,13 +22,13 @@ Indicator,Disaggregations,Number of disaggregations
 #17-3,time series,1
 #2-1-b,federal state,1
 #3-1-ab,"federal state, time series",2
-#3-1-cd,"sex, federal state, time series",3
-#3-1-e,"sex, time series, age group",3
-#3-1-f,"sex, federal state, age group",3
+#3-1-cd,"federal state, time series, sex",3
+#3-1-e,"time series, sex, age group",3
+#3-1-f,"federal state, sex, age group",3
 #3-2-a,air pollutant,1
 #3-3,time series,1
-#4-1-a,"sex, federal state",2
-#4-1-b,"sex, federal state, time series",3
+#4-1-a,"federal state, sex",2
+#4-1-b,"federal state, time series, sex",3
 #4-2-ab,federal state,1
 #5-1-a,federal state,1
 #5-1-bc,time series,1
@@ -43,6 +43,6 @@ Indicator,Disaggregations,Number of disaggregations
 #8-2-c,federal state,1
 #8-3,federal state,1
 #8-4,"federal state, county",2
-#8-5-ab,"sex, federal state",2
+#8-5-ab,"federal state, sex",2
 #9-1-a,federal state,1
 #9-1-b,"federal state, time series",2
