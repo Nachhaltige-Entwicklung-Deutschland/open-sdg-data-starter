@@ -17,6 +17,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,number,,,,298149.0
 2021,number,,,,316001.0
 2022,number,,,,335016.0
+2023,number,,,,348976.0
 2006,number,,baden-wuerttemberg,code08,20133.0
 2007,number,,baden-wuerttemberg,code08,19383.0
 2008,number,,baden-wuerttemberg,code08,19840.0
@@ -307,6 +308,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,number,students from ldcs,,,15055.0
 2021,number,students from ldcs,,,17113.0
 2022,number,students from ldcs,,,18315.0
+2023,number,students from ldcs,,,19505.0
 2005,number,students from ldcs,baden-wuerttemberg,code08,502.0
 2006,number,students from ldcs,baden-wuerttemberg,code08,524.0
 2007,number,students from ldcs,baden-wuerttemberg,code08,532.0
@@ -612,7 +614,8 @@ Year,Units,time series,federal state,GeoCode,Value
 2019,number,students from other developing and emerging countries,,,251488.0
 2020,number,students from other developing and emerging countries,,,259999.0
 2021,number,students from other developing and emerging countries,,,273340.0
-2022,number,students from other developing and emerging countries,,,288587.0
+2022,number,students from other developing and emerging countries,,,288586.0
+2023,number,students from other developing and emerging countries,,,299158.0
 2005,number,students from other developing and emerging countries,baden-wuerttemberg,code08,18582.0
 2006,number,students from other developing and emerging countries,baden-wuerttemberg,code08,18379.0
 2007,number,students from other developing and emerging countries,baden-wuerttemberg,code08,17473.0
@@ -919,6 +922,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,number,researchers from ldcs,,,838.0
 2021,number,researchers from ldcs,,,924.0
 2022,number,researchers from ldcs,,,1070.0
+2023,number,researchers from ldcs,,,1190.0
 2006,number,researchers from ldcs,baden-wuerttemberg,code08,40.0
 2007,number,researchers from ldcs,baden-wuerttemberg,code08,45.0
 2008,number,researchers from ldcs,baden-wuerttemberg,code08,52.0
@@ -1209,6 +1213,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,number,researchers from other developing and emerging countries,,,22257.0
 2021,number,researchers from other developing and emerging countries,,,24624.0
 2022,number,researchers from other developing and emerging countries,,,27044.0
+2023,number,researchers from other developing and emerging countries,,,29123.0
 2006,number,researchers from other developing and emerging countries,baden-wuerttemberg,code08,1190.0
 2007,number,researchers from other developing and emerging countries,baden-wuerttemberg,code08,1333.0
 2008,number,researchers from other developing and emerging countries,baden-wuerttemberg,code08,1579.0
