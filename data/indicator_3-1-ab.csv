@@ -31,6 +31,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (women),,,145.4
 2021,"per 100,000 inhabitants",premature death (women),,,151.8
 2022,"per 100,000 inhabitants",premature death (women),,,152.7
+2023,"per 100,000 inhabitants",premature death (women),,,146.5
 2030,"per 100,000 inhabitants",premature death (women),,,
 1991,"per 100,000 inhabitants",premature death (women),baden-wuerttemberg,code08,194.7
 1992,"per 100,000 inhabitants",premature death (women),baden-wuerttemberg,code08,193.3
@@ -64,6 +65,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (women),baden-wuerttemberg,code08,120.2
 2021,"per 100,000 inhabitants",premature death (women),baden-wuerttemberg,code08,125.0
 2022,"per 100,000 inhabitants",premature death (women),baden-wuerttemberg,code08,128.2
+2023,"per 100,000 inhabitants",premature death (women),baden-wuerttemberg,code08,122.1
 1991,"per 100,000 inhabitants",premature death (women),bavaria,code09,211.9
 1992,"per 100,000 inhabitants",premature death (women),bavaria,code09,203.1
 1993,"per 100,000 inhabitants",premature death (women),bavaria,code09,205.8
@@ -96,6 +98,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (women),bavaria,code09,131.2
 2021,"per 100,000 inhabitants",premature death (women),bavaria,code09,135.7
 2022,"per 100,000 inhabitants",premature death (women),bavaria,code09,135.3
+2023,"per 100,000 inhabitants",premature death (women),bavaria,code09,127.5
 1991,"per 100,000 inhabitants",premature death (women),berlin,code11,299.4
 1992,"per 100,000 inhabitants",premature death (women),berlin,code11,284.1
 1993,"per 100,000 inhabitants",premature death (women),berlin,code11,262.2
@@ -128,6 +131,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (women),berlin,code11,158.1
 2021,"per 100,000 inhabitants",premature death (women),berlin,code11,154.3
 2022,"per 100,000 inhabitants",premature death (women),berlin,code11,160.1
+2023,"per 100,000 inhabitants",premature death (women),berlin,code11,151.2
 1991,"per 100,000 inhabitants",premature death (women),brandenburg,code12,299.7
 1992,"per 100,000 inhabitants",premature death (women),brandenburg,code12,280.3
 1993,"per 100,000 inhabitants",premature death (women),brandenburg,code12,262.2
@@ -160,6 +164,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (women),brandenburg,code12,145.0
 2021,"per 100,000 inhabitants",premature death (women),brandenburg,code12,155.7
 2022,"per 100,000 inhabitants",premature death (women),brandenburg,code12,154.2
+2023,"per 100,000 inhabitants",premature death (women),brandenburg,code12,145.6
 1991,"per 100,000 inhabitants",premature death (women),bremen,code04,262.1
 1992,"per 100,000 inhabitants",premature death (women),bremen,code04,237.4
 1993,"per 100,000 inhabitants",premature death (women),bremen,code04,258.8
@@ -192,6 +197,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (women),bremen,code04,177.1
 2021,"per 100,000 inhabitants",premature death (women),bremen,code04,181.2
 2022,"per 100,000 inhabitants",premature death (women),bremen,code04,195.5
+2023,"per 100,000 inhabitants",premature death (women),bremen,code04,196.6
 1991,"per 100,000 inhabitants",premature death (women),hamburg,code02,246.4
 1992,"per 100,000 inhabitants",premature death (women),hamburg,code02,239.8
 1993,"per 100,000 inhabitants",premature death (women),hamburg,code02,242.8
@@ -224,6 +230,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (women),hamburg,code02,145.4
 2021,"per 100,000 inhabitants",premature death (women),hamburg,code02,157.6
 2022,"per 100,000 inhabitants",premature death (women),hamburg,code02,153.0
+2023,"per 100,000 inhabitants",premature death (women),hamburg,code02,145.5
 1991,"per 100,000 inhabitants",premature death (women),hesse,code06,220.5
 1992,"per 100,000 inhabitants",premature death (women),hesse,code06,206.8
 1993,"per 100,000 inhabitants",premature death (women),hesse,code06,212.3
@@ -256,6 +263,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (women),hesse,code06,140.0
 2021,"per 100,000 inhabitants",premature death (women),hesse,code06,144.1
 2022,"per 100,000 inhabitants",premature death (women),hesse,code06,148.3
+2023,"per 100,000 inhabitants",premature death (women),hesse,code06,142.1
 1991,"per 100,000 inhabitants",premature death (women),mecklenburg western pomerania,code13,312.1
 1992,"per 100,000 inhabitants",premature death (women),mecklenburg western pomerania,code13,293.8
 1993,"per 100,000 inhabitants",premature death (women),mecklenburg western pomerania,code13,275.6
@@ -288,6 +296,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (women),mecklenburg western pomerania,code13,163.6
 2021,"per 100,000 inhabitants",premature death (women),mecklenburg western pomerania,code13,167.5
 2022,"per 100,000 inhabitants",premature death (women),mecklenburg western pomerania,code13,164.6
+2023,"per 100,000 inhabitants",premature death (women),mecklenburg western pomerania,code13,160.4
 1991,"per 100,000 inhabitants",premature death (women),lower saxony,code03,218.5
 1992,"per 100,000 inhabitants",premature death (women),lower saxony,code03,210.9
 1993,"per 100,000 inhabitants",premature death (women),lower saxony,code03,214.4
@@ -320,6 +329,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (women),lower saxony,code03,152.0
 2021,"per 100,000 inhabitants",premature death (women),lower saxony,code03,160.7
 2022,"per 100,000 inhabitants",premature death (women),lower saxony,code03,162.6
+2023,"per 100,000 inhabitants",premature death (women),lower saxony,code03,158.2
 1991,"per 100,000 inhabitants",premature death (women),north rhine-westphalia,code05,227.9
 1992,"per 100,000 inhabitants",premature death (women),north rhine-westphalia,code05,219.1
 1993,"per 100,000 inhabitants",premature death (women),north rhine-westphalia,code05,222.6
@@ -352,6 +362,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (women),north rhine-westphalia,code05,161.0
 2021,"per 100,000 inhabitants",premature death (women),north rhine-westphalia,code05,165.6
 2022,"per 100,000 inhabitants",premature death (women),north rhine-westphalia,code05,167.7
+2023,"per 100,000 inhabitants",premature death (women),north rhine-westphalia,code05,160.9
 1991,"per 100,000 inhabitants",premature death (women),rhineland palatinate,code07,209.9
 1992,"per 100,000 inhabitants",premature death (women),rhineland palatinate,code07,216.4
 1993,"per 100,000 inhabitants",premature death (women),rhineland palatinate,code07,210.3
@@ -384,6 +395,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (women),rhineland palatinate,code07,153.3
 2021,"per 100,000 inhabitants",premature death (women),rhineland palatinate,code07,151.9
 2022,"per 100,000 inhabitants",premature death (women),rhineland palatinate,code07,154.2
+2023,"per 100,000 inhabitants",premature death (women),rhineland palatinate,code07,145.6
 1991,"per 100,000 inhabitants",premature death (women),saarland,code10,233.7
 1992,"per 100,000 inhabitants",premature death (women),saarland,code10,233.2
 1993,"per 100,000 inhabitants",premature death (women),saarland,code10,238.4
@@ -416,6 +428,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (women),saarland,code10,171.6
 2021,"per 100,000 inhabitants",premature death (women),saarland,code10,178.1
 2022,"per 100,000 inhabitants",premature death (women),saarland,code10,185.2
+2023,"per 100,000 inhabitants",premature death (women),saarland,code10,179.1
 1991,"per 100,000 inhabitants",premature death (women),saxony,code14,275.5
 1992,"per 100,000 inhabitants",premature death (women),saxony,code14,255.2
 1993,"per 100,000 inhabitants",premature death (women),saxony,code14,245.6
@@ -448,6 +461,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (women),saxony,code14,138.1
 2021,"per 100,000 inhabitants",premature death (women),saxony,code14,151.1
 2022,"per 100,000 inhabitants",premature death (women),saxony,code14,142.1
+2023,"per 100,000 inhabitants",premature death (women),saxony,code14,139.0
 1991,"per 100,000 inhabitants",premature death (women),saxony-anhalt,code15,307.2
 1992,"per 100,000 inhabitants",premature death (women),saxony-anhalt,code15,291.6
 1993,"per 100,000 inhabitants",premature death (women),saxony-anhalt,code15,267.2
@@ -480,6 +494,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (women),saxony-anhalt,code15,163.5
 2021,"per 100,000 inhabitants",premature death (women),saxony-anhalt,code15,182.6
 2022,"per 100,000 inhabitants",premature death (women),saxony-anhalt,code15,177.0
+2023,"per 100,000 inhabitants",premature death (women),saxony-anhalt,code15,182.0
 1991,"per 100,000 inhabitants",premature death (women),schleswig-holstein,code01,228.8
 1992,"per 100,000 inhabitants",premature death (women),schleswig-holstein,code01,218.7
 1993,"per 100,000 inhabitants",premature death (women),schleswig-holstein,code01,219.7
@@ -512,6 +527,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (women),schleswig-holstein,code01,154.1
 2021,"per 100,000 inhabitants",premature death (women),schleswig-holstein,code01,164.6
 2022,"per 100,000 inhabitants",premature death (women),schleswig-holstein,code01,163.7
+2023,"per 100,000 inhabitants",premature death (women),schleswig-holstein,code01,161.7
 1991,"per 100,000 inhabitants",premature death (women),thuringia,code16,276.5
 1992,"per 100,000 inhabitants",premature death (women),thuringia,code16,255.1
 1993,"per 100,000 inhabitants",premature death (women),thuringia,code16,249.6
@@ -544,6 +560,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (women),thuringia,code16,138.3
 2021,"per 100,000 inhabitants",premature death (women),thuringia,code16,166.7
 2022,"per 100,000 inhabitants",premature death (women),thuringia,code16,163.5
+2023,"per 100,000 inhabitants",premature death (women),thuringia,code16,148.9
 1991,"per 100,000 inhabitants",premature death (men),,,491.9
 1992,"per 100,000 inhabitants",premature death (men),,,476.2
 1993,"per 100,000 inhabitants",premature death (men),,,471.5
@@ -576,6 +593,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (men),,,276.3
 2021,"per 100,000 inhabitants",premature death (men),,,289.9
 2022,"per 100,000 inhabitants",premature death (men),,,283.7
+2023,"per 100,000 inhabitants",premature death (men),,,271.4
 2030,"per 100,000 inhabitants",premature death (men),,,
 1991,"per 100,000 inhabitants",premature death (men),baden-wuerttemberg,code08,418.7
 1992,"per 100,000 inhabitants",premature death (men),baden-wuerttemberg,code08,400.6
@@ -609,6 +627,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (men),baden-wuerttemberg,code08,227.6
 2021,"per 100,000 inhabitants",premature death (men),baden-wuerttemberg,code08,238.2
 2022,"per 100,000 inhabitants",premature death (men),baden-wuerttemberg,code08,234.0
+2023,"per 100,000 inhabitants",premature death (men),baden-wuerttemberg,code08,220.5
 1991,"per 100,000 inhabitants",premature death (men),bavaria,code09,446.1
 1992,"per 100,000 inhabitants",premature death (men),bavaria,code09,438.2
 1993,"per 100,000 inhabitants",premature death (men),bavaria,code09,428.5
@@ -641,6 +660,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (men),bavaria,code09,245.2
 2021,"per 100,000 inhabitants",premature death (men),bavaria,code09,253.4
 2022,"per 100,000 inhabitants",premature death (men),bavaria,code09,248.4
+2023,"per 100,000 inhabitants",premature death (men),bavaria,code09,234.3
 1991,"per 100,000 inhabitants",premature death (men),berlin,code11,573.5
 1992,"per 100,000 inhabitants",premature death (men),berlin,code11,543.1
 1993,"per 100,000 inhabitants",premature death (men),berlin,code11,534.2
@@ -673,6 +693,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (men),berlin,code11,305.7
 2021,"per 100,000 inhabitants",premature death (men),berlin,code11,310.0
 2022,"per 100,000 inhabitants",premature death (men),berlin,code11,295.4
+2023,"per 100,000 inhabitants",premature death (men),berlin,code11,281.8
 1991,"per 100,000 inhabitants",premature death (men),brandenburg,code12,670.4
 1992,"per 100,000 inhabitants",premature death (men),brandenburg,code12,657.1
 1993,"per 100,000 inhabitants",premature death (men),brandenburg,code12,639.7
@@ -705,6 +726,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (men),brandenburg,code12,323.6
 2021,"per 100,000 inhabitants",premature death (men),brandenburg,code12,344.1
 2022,"per 100,000 inhabitants",premature death (men),brandenburg,code12,327.9
+2023,"per 100,000 inhabitants",premature death (men),brandenburg,code12,315.4
 1991,"per 100,000 inhabitants",premature death (men),bremen,code04,538.5
 1992,"per 100,000 inhabitants",premature death (men),bremen,code04,494.1
 1993,"per 100,000 inhabitants",premature death (men),bremen,code04,511.3
@@ -737,6 +759,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (men),bremen,code04,348.0
 2021,"per 100,000 inhabitants",premature death (men),bremen,code04,353.2
 2022,"per 100,000 inhabitants",premature death (men),bremen,code04,368.5
+2023,"per 100,000 inhabitants",premature death (men),bremen,code04,340.0
 1991,"per 100,000 inhabitants",premature death (men),hamburg,code02,516.5
 1992,"per 100,000 inhabitants",premature death (men),hamburg,code02,478.8
 1993,"per 100,000 inhabitants",premature death (men),hamburg,code02,490.7
@@ -769,6 +792,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (men),hamburg,code02,268.9
 2021,"per 100,000 inhabitants",premature death (men),hamburg,code02,286.3
 2022,"per 100,000 inhabitants",premature death (men),hamburg,code02,288.5
+2023,"per 100,000 inhabitants",premature death (men),hamburg,code02,269.6
 1991,"per 100,000 inhabitants",premature death (men),hesse,code06,434.8
 1992,"per 100,000 inhabitants",premature death (men),hesse,code06,433.3
 1993,"per 100,000 inhabitants",premature death (men),hesse,code06,420.5
@@ -801,6 +825,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (men),hesse,code06,252.9
 2021,"per 100,000 inhabitants",premature death (men),hesse,code06,265.5
 2022,"per 100,000 inhabitants",premature death (men),hesse,code06,260.0
+2023,"per 100,000 inhabitants",premature death (men),hesse,code06,251.1
 1991,"per 100,000 inhabitants",premature death (men),mecklenburg western pomerania,code13,731.9
 1992,"per 100,000 inhabitants",premature death (men),mecklenburg western pomerania,code13,699.2
 1993,"per 100,000 inhabitants",premature death (men),mecklenburg western pomerania,code13,697.7
@@ -833,6 +858,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (men),mecklenburg western pomerania,code13,356.9
 2021,"per 100,000 inhabitants",premature death (men),mecklenburg western pomerania,code13,378.0
 2022,"per 100,000 inhabitants",premature death (men),mecklenburg western pomerania,code13,354.8
+2023,"per 100,000 inhabitants",premature death (men),mecklenburg western pomerania,code13,346.7
 1991,"per 100,000 inhabitants",premature death (men),lower saxony,code03,464.0
 1992,"per 100,000 inhabitants",premature death (men),lower saxony,code03,453.3
 1993,"per 100,000 inhabitants",premature death (men),lower saxony,code03,450.0
@@ -865,6 +891,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (men),lower saxony,code03,288.5
 2021,"per 100,000 inhabitants",premature death (men),lower saxony,code03,294.4
 2022,"per 100,000 inhabitants",premature death (men),lower saxony,code03,294.2
+2023,"per 100,000 inhabitants",premature death (men),lower saxony,code03,288.9
 1991,"per 100,000 inhabitants",premature death (men),north rhine-westphalia,code05,470.9
 1992,"per 100,000 inhabitants",premature death (men),north rhine-westphalia,code05,458.4
 1993,"per 100,000 inhabitants",premature death (men),north rhine-westphalia,code05,454.3
@@ -897,6 +924,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (men),north rhine-westphalia,code05,281.1
 2021,"per 100,000 inhabitants",premature death (men),north rhine-westphalia,code05,292.7
 2022,"per 100,000 inhabitants",premature death (men),north rhine-westphalia,code05,291.5
+2023,"per 100,000 inhabitants",premature death (men),north rhine-westphalia,code05,284.4
 1991,"per 100,000 inhabitants",premature death (men),rhineland palatinate,code07,460.8
 1992,"per 100,000 inhabitants",premature death (men),rhineland palatinate,code07,448.2
 1993,"per 100,000 inhabitants",premature death (men),rhineland palatinate,code07,450.0
@@ -929,6 +957,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (men),rhineland palatinate,code07,260.8
 2021,"per 100,000 inhabitants",premature death (men),rhineland palatinate,code07,279.0
 2022,"per 100,000 inhabitants",premature death (men),rhineland palatinate,code07,274.7
+2023,"per 100,000 inhabitants",premature death (men),rhineland palatinate,code07,256.6
 1991,"per 100,000 inhabitants",premature death (men),saarland,code10,508.9
 1992,"per 100,000 inhabitants",premature death (men),saarland,code10,496.0
 1993,"per 100,000 inhabitants",premature death (men),saarland,code10,485.9
@@ -961,6 +990,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (men),saarland,code10,299.7
 2021,"per 100,000 inhabitants",premature death (men),saarland,code10,310.6
 2022,"per 100,000 inhabitants",premature death (men),saarland,code10,324.4
+2023,"per 100,000 inhabitants",premature death (men),saarland,code10,311.6
 1991,"per 100,000 inhabitants",premature death (men),saxony,code14,588.3
 1992,"per 100,000 inhabitants",premature death (men),saxony,code14,560.1
 1993,"per 100,000 inhabitants",premature death (men),saxony,code14,546.3
@@ -993,6 +1023,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (men),saxony,code14,328.1
 2021,"per 100,000 inhabitants",premature death (men),saxony,code14,359.7
 2022,"per 100,000 inhabitants",premature death (men),saxony,code14,325.5
+2023,"per 100,000 inhabitants",premature death (men),saxony,code14,307.1
 1991,"per 100,000 inhabitants",premature death (men),saxony-anhalt,code15,670.5
 1992,"per 100,000 inhabitants",premature death (men),saxony-anhalt,code15,638.3
 1993,"per 100,000 inhabitants",premature death (men),saxony-anhalt,code15,628.2
@@ -1025,6 +1056,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (men),saxony-anhalt,code15,366.8
 2021,"per 100,000 inhabitants",premature death (men),saxony-anhalt,code15,410.7
 2022,"per 100,000 inhabitants",premature death (men),saxony-anhalt,code15,396.0
+2023,"per 100,000 inhabitants",premature death (men),saxony-anhalt,code15,376.8
 1991,"per 100,000 inhabitants",premature death (men),schleswig-holstein,code01,454.5
 1992,"per 100,000 inhabitants",premature death (men),schleswig-holstein,code01,422.6
 1993,"per 100,000 inhabitants",premature death (men),schleswig-holstein,code01,429.3
@@ -1057,6 +1089,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (men),schleswig-holstein,code01,279.0
 2021,"per 100,000 inhabitants",premature death (men),schleswig-holstein,code01,278.2
 2022,"per 100,000 inhabitants",premature death (men),schleswig-holstein,code01,293.3
+2023,"per 100,000 inhabitants",premature death (men),schleswig-holstein,code01,272.8
 1991,"per 100,000 inhabitants",premature death (men),thuringia,code16,585.1
 1992,"per 100,000 inhabitants",premature death (men),thuringia,code16,574.2
 1993,"per 100,000 inhabitants",premature death (men),thuringia,code16,557.3
@@ -1089,3 +1122,4 @@ Year,Units,time series,federal state,GeoCode,Value
 2020,"per 100,000 inhabitants",premature death (men),thuringia,code16,316.2
 2021,"per 100,000 inhabitants",premature death (men),thuringia,code16,365.6
 2022,"per 100,000 inhabitants",premature death (men),thuringia,code16,338.0
+2023,"per 100,000 inhabitants",premature death (men),thuringia,code16,320.3
