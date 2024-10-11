@@ -35,6 +35,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,,Baden-Württemberg,code08,30143.0
 2021,Anzahl,,Baden-Württemberg,code08,30127.0
 2022,Anzahl,,Baden-Württemberg,code08,31266.0
+2023,Anzahl,,Baden-Württemberg,code08,31761.0
 2006,Anzahl,,Bayern,code09,13978.0
 2007,Anzahl,,Bayern,code09,13633.0
 2008,Anzahl,,Bayern,code09,14130.0
@@ -52,6 +53,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,,Bayern,code09,42253.0
 2021,Anzahl,,Bayern,code09,47700.0
 2022,Anzahl,,Bayern,code09,53851.0
+2023,Anzahl,,Bayern,code09,59560.0
 2006,Anzahl,,Berlin,code11,9715.0
 2007,Anzahl,,Berlin,code11,10005.0
 2008,Anzahl,,Berlin,code11,10531.0
@@ -69,6 +71,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,,Berlin,code11,25828.0
 2021,Anzahl,,Berlin,code11,28264.0
 2022,Anzahl,,Berlin,code11,29458.0
+2023,Anzahl,,Berlin,code11,30553.0
 2006,Anzahl,,Brandenburg,code12,2568.0
 2007,Anzahl,,Brandenburg,code12,2630.0
 2008,Anzahl,,Brandenburg,code12,2675.0
@@ -86,6 +89,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,,Brandenburg,code12,6244.0
 2021,Anzahl,,Brandenburg,code12,6988.0
 2022,Anzahl,,Brandenburg,code12,8362.0
+2023,Anzahl,,Brandenburg,code12,9373.0
 2006,Anzahl,,Bremen,code04,3789.0
 2007,Anzahl,,Bremen,code04,3644.0
 2008,Anzahl,,Bremen,code04,3552.0
@@ -103,6 +107,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,,Bremen,code04,5349.0
 2021,Anzahl,,Bremen,code04,5526.0
 2022,Anzahl,,Bremen,code04,5770.0
+2023,Anzahl,,Bremen,code04,6002.0
 2006,Anzahl,,Hamburg,code02,5311.0
 2007,Anzahl,,Hamburg,code02,4970.0
 2008,Anzahl,,Hamburg,code02,5028.0
@@ -120,6 +125,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,,Hamburg,code02,9345.0
 2021,Anzahl,,Hamburg,code02,10293.0
 2022,Anzahl,,Hamburg,code02,11075.0
+2023,Anzahl,,Hamburg,code02,11532.0
 2006,Anzahl,,Hessen,code06,14955.0
 2007,Anzahl,,Hessen,code06,13532.0
 2008,Anzahl,,Hessen,code06,15441.0
@@ -137,6 +143,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,,Hessen,code06,29788.0
 2021,Anzahl,,Hessen,code06,30299.0
 2022,Anzahl,,Hessen,code06,31334.0
+2023,Anzahl,,Hessen,code06,31933.0
 2006,Anzahl,,Mecklenburg-Vorpommern,code13,1194.0
 2007,Anzahl,,Mecklenburg-Vorpommern,code13,1207.0
 2008,Anzahl,,Mecklenburg-Vorpommern,code13,1195.0
@@ -154,6 +161,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,,Mecklenburg-Vorpommern,code13,3352.0
 2021,Anzahl,,Mecklenburg-Vorpommern,code13,3477.0
 2022,Anzahl,,Mecklenburg-Vorpommern,code13,3555.0
+2023,Anzahl,,Mecklenburg-Vorpommern,code13,3404.0
 2006,Anzahl,,Niedersachsen,code03,10759.0
 2007,Anzahl,,Niedersachsen,code03,10237.0
 2008,Anzahl,,Niedersachsen,code03,10357.0
@@ -171,6 +179,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,,Niedersachsen,code03,21354.0
 2021,Anzahl,,Niedersachsen,code03,21592.0
 2022,Anzahl,,Niedersachsen,code03,22020.0
+2023,Anzahl,,Niedersachsen,code03,22429.0
 2006,Anzahl,,Nordrhein-Westfalen,code05,38324.0
 2007,Anzahl,,Nordrhein-Westfalen,code05,35303.0
 2008,Anzahl,,Nordrhein-Westfalen,code05,36388.0
@@ -188,6 +197,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,,Nordrhein-Westfalen,code05,75112.0
 2021,Anzahl,,Nordrhein-Westfalen,code05,77363.0
 2022,Anzahl,,Nordrhein-Westfalen,code05,79204.0
+2023,Anzahl,,Nordrhein-Westfalen,code05,79691.0
 2006,Anzahl,,Rheinland-Pfalz,code07,6488.0
 2007,Anzahl,,Rheinland-Pfalz,code07,6993.0
 2008,Anzahl,,Rheinland-Pfalz,code07,7166.0
@@ -205,6 +215,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,,Rheinland-Pfalz,code07,11896.0
 2021,Anzahl,,Rheinland-Pfalz,code07,12426.0
 2022,Anzahl,,Rheinland-Pfalz,code07,12964.0
+2023,Anzahl,,Rheinland-Pfalz,code07,12957.0
 2006,Anzahl,,Saarland,code10,1572.0
 2007,Anzahl,,Saarland,code10,1573.0
 2008,Anzahl,,Saarland,code10,1597.0
@@ -222,6 +233,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,,Saarland,code10,3114.0
 2021,Anzahl,,Saarland,code10,3436.0
 2022,Anzahl,,Saarland,code10,3650.0
+2023,Anzahl,,Saarland,code10,3859.0
 2006,Anzahl,,Sachsen,code14,4963.0
 2007,Anzahl,,Sachsen,code14,5139.0
 2008,Anzahl,,Sachsen,code14,5053.0
@@ -239,6 +251,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,,Sachsen,code14,13507.0
 2021,Anzahl,,Sachsen,code14,13915.0
 2022,Anzahl,,Sachsen,code14,14487.0
+2023,Anzahl,,Sachsen,code14,15487.0
 2006,Anzahl,,Sachsen-Anhalt,code15,3198.0
 2007,Anzahl,,Sachsen-Anhalt,code15,3247.0
 2008,Anzahl,,Sachsen-Anhalt,code15,3251.0
@@ -256,6 +269,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,,Sachsen-Anhalt,code15,7679.0
 2021,Anzahl,,Sachsen-Anhalt,code15,8442.0
 2022,Anzahl,,Sachsen-Anhalt,code15,9383.0
+2023,Anzahl,,Sachsen-Anhalt,code15,9687.0
 2006,Anzahl,,Schleswig-Holstein,code01,2406.0
 2007,Anzahl,,Schleswig-Holstein,code01,2416.0
 2008,Anzahl,,Schleswig-Holstein,code01,2436.0
@@ -273,6 +287,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,,Schleswig-Holstein,code01,4402.0
 2021,Anzahl,,Schleswig-Holstein,code01,4740.0
 2022,Anzahl,,Schleswig-Holstein,code01,4828.0
+2023,Anzahl,,Schleswig-Holstein,code01,4972.0
 2006,Anzahl,,Thüringen,code16,1937.0
 2007,Anzahl,,Thüringen,code16,2176.0
 2008,Anzahl,,Thüringen,code16,2192.0
@@ -290,6 +305,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,,Thüringen,code16,8785.0
 2021,Anzahl,,Thüringen,code16,11414.0
 2022,Anzahl,,Thüringen,code16,13809.0
+2023,Anzahl,,Thüringen,code16,15776.0
 2005,Anzahl,Studierende aus LDCs,,,4960.0
 2006,Anzahl,Studierende aus LDCs,,,5012.0
 2007,Anzahl,Studierende aus LDCs,,,4933.0
@@ -327,6 +343,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus LDCs,Baden-Württemberg,code08,817.0
 2021,Anzahl,Studierende aus LDCs,Baden-Württemberg,code08,927.0
 2022,Anzahl,Studierende aus LDCs,Baden-Württemberg,code08,929.0
+2023,Anzahl,Studierende aus LDCs,Baden-Württemberg,code08,1029.0
 2005,Anzahl,Studierende aus LDCs,Bayern,code09,320.0
 2006,Anzahl,Studierende aus LDCs,Bayern,code09,359.0
 2007,Anzahl,Studierende aus LDCs,Bayern,code09,352.0
@@ -345,6 +362,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus LDCs,Bayern,code09,1751.0
 2021,Anzahl,Studierende aus LDCs,Bayern,code09,2217.0
 2022,Anzahl,Studierende aus LDCs,Bayern,code09,2484.0
+2023,Anzahl,Studierende aus LDCs,Bayern,code09,2841.0
 2005,Anzahl,Studierende aus LDCs,Berlin,code11,362.0
 2006,Anzahl,Studierende aus LDCs,Berlin,code11,370.0
 2007,Anzahl,Studierende aus LDCs,Berlin,code11,337.0
@@ -363,6 +381,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus LDCs,Berlin,code11,1115.0
 2021,Anzahl,Studierende aus LDCs,Berlin,code11,1203.0
 2022,Anzahl,Studierende aus LDCs,Berlin,code11,1284.0
+2023,Anzahl,Studierende aus LDCs,Berlin,code11,1397.0
 2005,Anzahl,Studierende aus LDCs,Brandenburg,code12,124.0
 2006,Anzahl,Studierende aus LDCs,Brandenburg,code12,121.0
 2007,Anzahl,Studierende aus LDCs,Brandenburg,code12,123.0
@@ -381,6 +400,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus LDCs,Brandenburg,code12,582.0
 2021,Anzahl,Studierende aus LDCs,Brandenburg,code12,669.0
 2022,Anzahl,Studierende aus LDCs,Brandenburg,code12,765.0
+2023,Anzahl,Studierende aus LDCs,Brandenburg,code12,872.0
 2005,Anzahl,Studierende aus LDCs,Bremen,code04,188.0
 2006,Anzahl,Studierende aus LDCs,Bremen,code04,192.0
 2007,Anzahl,Studierende aus LDCs,Bremen,code04,206.0
@@ -399,6 +419,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus LDCs,Bremen,code04,471.0
 2021,Anzahl,Studierende aus LDCs,Bremen,code04,525.0
 2022,Anzahl,Studierende aus LDCs,Bremen,code04,556.0
+2023,Anzahl,Studierende aus LDCs,Bremen,code04,571.0
 2005,Anzahl,Studierende aus LDCs,Hamburg,code02,292.0
 2006,Anzahl,Studierende aus LDCs,Hamburg,code02,281.0
 2007,Anzahl,Studierende aus LDCs,Hamburg,code02,260.0
@@ -417,6 +438,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus LDCs,Hamburg,code02,621.0
 2021,Anzahl,Studierende aus LDCs,Hamburg,code02,694.0
 2022,Anzahl,Studierende aus LDCs,Hamburg,code02,761.0
+2023,Anzahl,Studierende aus LDCs,Hamburg,code02,801.0
 2005,Anzahl,Studierende aus LDCs,Hessen,code06,728.0
 2006,Anzahl,Studierende aus LDCs,Hessen,code06,731.0
 2007,Anzahl,Studierende aus LDCs,Hessen,code06,665.0
@@ -435,6 +457,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus LDCs,Hessen,code06,1826.0
 2021,Anzahl,Studierende aus LDCs,Hessen,code06,2071.0
 2022,Anzahl,Studierende aus LDCs,Hessen,code06,2192.0
+2023,Anzahl,Studierende aus LDCs,Hessen,code06,2342.0
 2005,Anzahl,Studierende aus LDCs,Mecklenburg-Vorpommern,code13,61.0
 2006,Anzahl,Studierende aus LDCs,Mecklenburg-Vorpommern,code13,66.0
 2007,Anzahl,Studierende aus LDCs,Mecklenburg-Vorpommern,code13,68.0
@@ -453,6 +476,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus LDCs,Mecklenburg-Vorpommern,code13,155.0
 2021,Anzahl,Studierende aus LDCs,Mecklenburg-Vorpommern,code13,159.0
 2022,Anzahl,Studierende aus LDCs,Mecklenburg-Vorpommern,code13,150.0
+2023,Anzahl,Studierende aus LDCs,Mecklenburg-Vorpommern,code13,156.0
 2005,Anzahl,Studierende aus LDCs,Niedersachsen,code03,374.0
 2006,Anzahl,Studierende aus LDCs,Niedersachsen,code03,351.0
 2007,Anzahl,Studierende aus LDCs,Niedersachsen,code03,340.0
@@ -471,6 +495,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus LDCs,Niedersachsen,code03,949.0
 2021,Anzahl,Studierende aus LDCs,Niedersachsen,code03,1009.0
 2022,Anzahl,Studierende aus LDCs,Niedersachsen,code03,1062.0
+2023,Anzahl,Studierende aus LDCs,Niedersachsen,code03,1117.0
 2005,Anzahl,Studierende aus LDCs,Nordrhein-Westfalen,code05,1261.0
 2006,Anzahl,Studierende aus LDCs,Nordrhein-Westfalen,code05,1213.0
 2007,Anzahl,Studierende aus LDCs,Nordrhein-Westfalen,code05,1183.0
@@ -489,6 +514,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus LDCs,Nordrhein-Westfalen,code05,3768.0
 2021,Anzahl,Studierende aus LDCs,Nordrhein-Westfalen,code05,4013.0
 2022,Anzahl,Studierende aus LDCs,Nordrhein-Westfalen,code05,4283.0
+2023,Anzahl,Studierende aus LDCs,Nordrhein-Westfalen,code05,4509.0
 2005,Anzahl,Studierende aus LDCs,Rheinland-Pfalz,code07,239.0
 2006,Anzahl,Studierende aus LDCs,Rheinland-Pfalz,code07,271.0
 2007,Anzahl,Studierende aus LDCs,Rheinland-Pfalz,code07,313.0
@@ -507,6 +533,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus LDCs,Rheinland-Pfalz,code07,665.0
 2021,Anzahl,Studierende aus LDCs,Rheinland-Pfalz,code07,706.0
 2022,Anzahl,Studierende aus LDCs,Rheinland-Pfalz,code07,755.0
+2023,Anzahl,Studierende aus LDCs,Rheinland-Pfalz,code07,767.0
 2005,Anzahl,Studierende aus LDCs,Saarland,code10,95.0
 2006,Anzahl,Studierende aus LDCs,Saarland,code10,93.0
 2007,Anzahl,Studierende aus LDCs,Saarland,code10,106.0
@@ -525,6 +552,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus LDCs,Saarland,code10,160.0
 2021,Anzahl,Studierende aus LDCs,Saarland,code10,186.0
 2022,Anzahl,Studierende aus LDCs,Saarland,code10,201.0
+2023,Anzahl,Studierende aus LDCs,Saarland,code10,192.0
 2005,Anzahl,Studierende aus LDCs,Sachsen,code14,184.0
 2006,Anzahl,Studierende aus LDCs,Sachsen,code14,200.0
 2007,Anzahl,Studierende aus LDCs,Sachsen,code14,195.0
@@ -543,6 +571,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus LDCs,Sachsen,code14,719.0
 2021,Anzahl,Studierende aus LDCs,Sachsen,code14,833.0
 2022,Anzahl,Studierende aus LDCs,Sachsen,code14,919.0
+2023,Anzahl,Studierende aus LDCs,Sachsen,code14,857.0
 2005,Anzahl,Studierende aus LDCs,Sachsen-Anhalt,code15,100.0
 2006,Anzahl,Studierende aus LDCs,Sachsen-Anhalt,code15,93.0
 2007,Anzahl,Studierende aus LDCs,Sachsen-Anhalt,code15,88.0
@@ -561,6 +590,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus LDCs,Sachsen-Anhalt,code15,550.0
 2021,Anzahl,Studierende aus LDCs,Sachsen-Anhalt,code15,688.0
 2022,Anzahl,Studierende aus LDCs,Sachsen-Anhalt,code15,746.0
+2023,Anzahl,Studierende aus LDCs,Sachsen-Anhalt,code15,755.0
 2005,Anzahl,Studierende aus LDCs,Schleswig-Holstein,code01,105.0
 2006,Anzahl,Studierende aus LDCs,Schleswig-Holstein,code01,118.0
 2007,Anzahl,Studierende aus LDCs,Schleswig-Holstein,code01,132.0
@@ -579,6 +609,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus LDCs,Schleswig-Holstein,code01,402.0
 2021,Anzahl,Studierende aus LDCs,Schleswig-Holstein,code01,450.0
 2022,Anzahl,Studierende aus LDCs,Schleswig-Holstein,code01,485.0
+2023,Anzahl,Studierende aus LDCs,Schleswig-Holstein,code01,502.0
 2005,Anzahl,Studierende aus LDCs,Thüringen,code16,25.0
 2006,Anzahl,Studierende aus LDCs,Thüringen,code16,29.0
 2007,Anzahl,Studierende aus LDCs,Thüringen,code16,33.0
@@ -597,6 +628,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus LDCs,Thüringen,code16,504.0
 2021,Anzahl,Studierende aus LDCs,Thüringen,code16,763.0
 2022,Anzahl,Studierende aus LDCs,Thüringen,code16,743.0
+2023,Anzahl,Studierende aus LDCs,Thüringen,code16,797.0
 2005,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,,,129502.0
 2006,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,,,129631.0
 2007,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,,,124181.0
@@ -634,6 +666,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Baden-Württemberg,code08,25283.0
 2021,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Baden-Württemberg,code08,24921.0
 2022,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Baden-Württemberg,code08,25522.0
+2023,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Baden-Württemberg,code08,25608.0
 2005,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Bayern,code09,12251.0
 2006,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Bayern,code09,12721.0
 2007,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Bayern,code09,12324.0
@@ -652,6 +685,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Bayern,code09,37132.0
 2021,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Bayern,code09,41719.0
 2022,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Bayern,code09,47030.0
+2023,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Bayern,code09,52228.0
 2005,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Berlin,code11,9047.0
 2006,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Berlin,code11,8871.0
 2007,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Berlin,code11,9202.0
@@ -670,6 +704,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Berlin,code11,23355.0
 2021,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Berlin,code11,25441.0
 2022,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Berlin,code11,26450.0
+2023,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Berlin,code11,27212.0
 2005,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Brandenburg,code12,2288.0
 2006,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Brandenburg,code12,2347.0
 2007,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Brandenburg,code12,2396.0
@@ -688,6 +723,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Brandenburg,code12,5143.0
 2021,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Brandenburg,code12,5748.0
 2022,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Brandenburg,code12,6933.0
+2023,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Brandenburg,code12,7798.0
 2005,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Bremen,code04,3751.0
 2006,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Bremen,code04,3484.0
 2007,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Bremen,code04,3339.0
@@ -706,6 +742,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Bremen,code04,4628.0
 2021,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Bremen,code04,4745.0
 2022,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Bremen,code04,4869.0
+2023,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Bremen,code04,5064.0
 2005,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Hamburg,code02,4837.0
 2006,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Hamburg,code02,4860.0
 2007,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Hamburg,code02,4484.0
@@ -724,6 +761,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Hamburg,code02,8046.0
 2021,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Hamburg,code02,8782.0
 2022,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Hamburg,code02,9425.0
+2023,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Hamburg,code02,9642.0
 2005,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Hessen,code06,13808.0
 2006,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Hessen,code06,13737.0
 2007,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Hessen,code06,12328.0
@@ -742,6 +780,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Hessen,code06,26496.0
 2021,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Hessen,code06,26581.0
 2022,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Hessen,code06,27319.0
+2023,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Hessen,code06,27666.0
 2005,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Mecklenburg-Vorpommern,code13,1071.0
 2006,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Mecklenburg-Vorpommern,code13,1056.0
 2007,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Mecklenburg-Vorpommern,code13,1063.0
@@ -760,6 +799,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Mecklenburg-Vorpommern,code13,2875.0
 2021,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Mecklenburg-Vorpommern,code13,2951.0
 2022,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Mecklenburg-Vorpommern,code13,3031.0
+2023,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Mecklenburg-Vorpommern,code13,2849.0
 2005,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Niedersachsen,code03,10134.0
 2006,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Niedersachsen,code03,9857.0
 2007,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Niedersachsen,code03,9224.0
@@ -778,6 +818,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Niedersachsen,code03,18710.0
 2021,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Niedersachsen,code03,18693.0
 2022,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Niedersachsen,code03,18955.0
+2023,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Niedersachsen,code03,19187.0
 2005,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Nordrhein-Westfalen,code05,35892.0
 2006,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Nordrhein-Westfalen,code05,35688.0
 2007,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Nordrhein-Westfalen,code05,32856.0
@@ -796,6 +837,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Nordrhein-Westfalen,code05,66566.0
 2021,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Nordrhein-Westfalen,code05,68071.0
 2022,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Nordrhein-Westfalen,code05,69369.0
+2023,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Nordrhein-Westfalen,code05,69086.0
 2005,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Rheinland-Pfalz,code07,5760.0
 2006,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Rheinland-Pfalz,code07,5969.0
 2007,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Rheinland-Pfalz,code07,6413.0
@@ -814,6 +856,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Rheinland-Pfalz,code07,10360.0
 2021,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Rheinland-Pfalz,code07,10826.0
 2022,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Rheinland-Pfalz,code07,11177.0
+2023,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Rheinland-Pfalz,code07,11072.0
 2005,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Saarland,code10,1243.0
 2006,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Saarland,code10,1365.0
 2007,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Saarland,code10,1362.0
@@ -832,6 +875,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Saarland,code10,2535.0
 2021,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Saarland,code10,2824.0
 2022,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Saarland,code10,2992.0
+2023,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Saarland,code10,3185.0
 2005,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen,code14,4328.0
 2006,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen,code14,4440.0
 2007,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen,code14,4601.0
@@ -850,6 +894,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen,code14,11340.0
 2021,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen,code14,11470.0
 2022,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen,code14,11735.0
+2023,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen,code14,12513.0
 2005,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen-Anhalt,code15,2825.0
 2006,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen-Anhalt,code15,2964.0
 2007,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen-Anhalt,code15,2997.0
@@ -868,6 +913,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen-Anhalt,code15,6563.0
 2021,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen-Anhalt,code15,7114.0
 2022,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen-Anhalt,code15,7982.0
+2023,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen-Anhalt,code15,8286.0
 2005,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Schleswig-Holstein,code01,2071.0
 2006,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Schleswig-Holstein,code01,2135.0
 2007,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Schleswig-Holstein,code01,2149.0
@@ -886,6 +932,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Schleswig-Holstein,code01,3581.0
 2021,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Schleswig-Holstein,code01,3795.0
 2022,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Schleswig-Holstein,code01,3831.0
+2023,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Schleswig-Holstein,code01,3921.0
 2005,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Thüringen,code16,1615.0
 2006,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Thüringen,code16,1759.0
 2007,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Thüringen,code16,1971.0
@@ -904,6 +951,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Thüringen,code16,7388.0
 2021,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Thüringen,code16,9660.0
 2022,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Thüringen,code16,11967.0
+2023,Anzahl,Studierende aus den übrigen Entwicklungs- und Schwellenländern,Thüringen,code16,13841.0
 2005,Anzahl,Forschende aus LDCs,,,209.0
 2006,Anzahl,Forschende aus LDCs,,,212.0
 2007,Anzahl,Forschende aus LDCs,,,207.0
@@ -940,6 +988,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus LDCs,Baden-Württemberg,code08,146.0
 2021,Anzahl,Forschende aus LDCs,Baden-Württemberg,code08,149.0
 2022,Anzahl,Forschende aus LDCs,Baden-Württemberg,code08,179.0
+2023,Anzahl,Forschende aus LDCs,Baden-Württemberg,code08,170.0
 2006,Anzahl,Forschende aus LDCs,Bayern,code09,26.0
 2007,Anzahl,Forschende aus LDCs,Bayern,code09,23.0
 2008,Anzahl,Forschende aus LDCs,Bayern,code09,24.0
@@ -957,6 +1006,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus LDCs,Bayern,code09,105.0
 2021,Anzahl,Forschende aus LDCs,Bayern,code09,113.0
 2022,Anzahl,Forschende aus LDCs,Bayern,code09,144.0
+2023,Anzahl,Forschende aus LDCs,Bayern,code09,151.0
 2006,Anzahl,Forschende aus LDCs,Berlin,code11,6.0
 2007,Anzahl,Forschende aus LDCs,Berlin,code11,5.0
 2008,Anzahl,Forschende aus LDCs,Berlin,code11,7.0
@@ -974,6 +1024,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus LDCs,Berlin,code11,36.0
 2021,Anzahl,Forschende aus LDCs,Berlin,code11,49.0
 2022,Anzahl,Forschende aus LDCs,Berlin,code11,56.0
+2023,Anzahl,Forschende aus LDCs,Berlin,code11,71.0
 2006,Anzahl,Forschende aus LDCs,Brandenburg,code12,3.0
 2007,Anzahl,Forschende aus LDCs,Brandenburg,code12,2.0
 2008,Anzahl,Forschende aus LDCs,Brandenburg,code12,6.0
@@ -991,6 +1042,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus LDCs,Brandenburg,code12,27.0
 2021,Anzahl,Forschende aus LDCs,Brandenburg,code12,28.0
 2022,Anzahl,Forschende aus LDCs,Brandenburg,code12,45.0
+2023,Anzahl,Forschende aus LDCs,Brandenburg,code12,45.0
 2006,Anzahl,Forschende aus LDCs,Bremen,code04,5.0
 2007,Anzahl,Forschende aus LDCs,Bremen,code04,3.0
 2008,Anzahl,Forschende aus LDCs,Bremen,code04,6.0
@@ -1008,6 +1060,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus LDCs,Bremen,code04,12.0
 2021,Anzahl,Forschende aus LDCs,Bremen,code04,12.0
 2022,Anzahl,Forschende aus LDCs,Bremen,code04,22.0
+2023,Anzahl,Forschende aus LDCs,Bremen,code04,23.0
 2006,Anzahl,Forschende aus LDCs,Hamburg,code02,8.0
 2007,Anzahl,Forschende aus LDCs,Hamburg,code02,11.0
 2008,Anzahl,Forschende aus LDCs,Hamburg,code02,5.0
@@ -1025,6 +1078,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus LDCs,Hamburg,code02,29.0
 2021,Anzahl,Forschende aus LDCs,Hamburg,code02,34.0
 2022,Anzahl,Forschende aus LDCs,Hamburg,code02,42.0
+2023,Anzahl,Forschende aus LDCs,Hamburg,code02,57.0
 2006,Anzahl,Forschende aus LDCs,Hessen,code06,18.0
 2007,Anzahl,Forschende aus LDCs,Hessen,code06,19.0
 2008,Anzahl,Forschende aus LDCs,Hessen,code06,20.0
@@ -1042,6 +1096,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus LDCs,Hessen,code06,42.0
 2021,Anzahl,Forschende aus LDCs,Hessen,code06,50.0
 2022,Anzahl,Forschende aus LDCs,Hessen,code06,65.0
+2023,Anzahl,Forschende aus LDCs,Hessen,code06,62.0
 2006,Anzahl,Forschende aus LDCs,Mecklenburg-Vorpommern,code13,5.0
 2007,Anzahl,Forschende aus LDCs,Mecklenburg-Vorpommern,code13,3.0
 2008,Anzahl,Forschende aus LDCs,Mecklenburg-Vorpommern,code13,4.0
@@ -1059,6 +1114,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus LDCs,Mecklenburg-Vorpommern,code13,14.0
 2021,Anzahl,Forschende aus LDCs,Mecklenburg-Vorpommern,code13,17.0
 2022,Anzahl,Forschende aus LDCs,Mecklenburg-Vorpommern,code13,17.0
+2023,Anzahl,Forschende aus LDCs,Mecklenburg-Vorpommern,code13,16.0
 2006,Anzahl,Forschende aus LDCs,Niedersachsen,code03,32.0
 2007,Anzahl,Forschende aus LDCs,Niedersachsen,code03,27.0
 2008,Anzahl,Forschende aus LDCs,Niedersachsen,code03,26.0
@@ -1076,6 +1132,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus LDCs,Niedersachsen,code03,57.0
 2021,Anzahl,Forschende aus LDCs,Niedersachsen,code03,68.0
 2022,Anzahl,Forschende aus LDCs,Niedersachsen,code03,73.0
+2023,Anzahl,Forschende aus LDCs,Niedersachsen,code03,86.0
 2006,Anzahl,Forschende aus LDCs,Nordrhein-Westfalen,code05,24.0
 2007,Anzahl,Forschende aus LDCs,Nordrhein-Westfalen,code05,24.0
 2008,Anzahl,Forschende aus LDCs,Nordrhein-Westfalen,code05,48.0
@@ -1093,6 +1150,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus LDCs,Nordrhein-Westfalen,code05,150.0
 2021,Anzahl,Forschende aus LDCs,Nordrhein-Westfalen,code05,183.0
 2022,Anzahl,Forschende aus LDCs,Nordrhein-Westfalen,code05,195.0
+2023,Anzahl,Forschende aus LDCs,Nordrhein-Westfalen,code05,240.0
 2006,Anzahl,Forschende aus LDCs,Rheinland-Pfalz,code07,10.0
 2007,Anzahl,Forschende aus LDCs,Rheinland-Pfalz,code07,13.0
 2008,Anzahl,Forschende aus LDCs,Rheinland-Pfalz,code07,15.0
@@ -1110,6 +1168,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus LDCs,Rheinland-Pfalz,code07,48.0
 2021,Anzahl,Forschende aus LDCs,Rheinland-Pfalz,code07,43.0
 2022,Anzahl,Forschende aus LDCs,Rheinland-Pfalz,code07,30.0
+2023,Anzahl,Forschende aus LDCs,Rheinland-Pfalz,code07,31.0
 2006,Anzahl,Forschende aus LDCs,Saarland,code10,3.0
 2007,Anzahl,Forschende aus LDCs,Saarland,code10,3.0
 2008,Anzahl,Forschende aus LDCs,Saarland,code10,4.0
@@ -1127,6 +1186,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus LDCs,Saarland,code10,15.0
 2021,Anzahl,Forschende aus LDCs,Saarland,code10,14.0
 2022,Anzahl,Forschende aus LDCs,Saarland,code10,17.0
+2023,Anzahl,Forschende aus LDCs,Saarland,code10,19.0
 2006,Anzahl,Forschende aus LDCs,Sachsen,code14,19.0
 2007,Anzahl,Forschende aus LDCs,Sachsen,code14,17.0
 2008,Anzahl,Forschende aus LDCs,Sachsen,code14,19.0
@@ -1144,6 +1204,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus LDCs,Sachsen,code14,69.0
 2021,Anzahl,Forschende aus LDCs,Sachsen,code14,70.0
 2022,Anzahl,Forschende aus LDCs,Sachsen,code14,92.0
+2023,Anzahl,Forschende aus LDCs,Sachsen,code14,105.0
 2006,Anzahl,Forschende aus LDCs,Sachsen-Anhalt,code15,5.0
 2007,Anzahl,Forschende aus LDCs,Sachsen-Anhalt,code15,1.0
 2008,Anzahl,Forschende aus LDCs,Sachsen-Anhalt,code15,3.0
@@ -1161,6 +1222,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus LDCs,Sachsen-Anhalt,code15,22.0
 2021,Anzahl,Forschende aus LDCs,Sachsen-Anhalt,code15,24.0
 2022,Anzahl,Forschende aus LDCs,Sachsen-Anhalt,code15,23.0
+2023,Anzahl,Forschende aus LDCs,Sachsen-Anhalt,code15,29.0
 2006,Anzahl,Forschende aus LDCs,Schleswig-Holstein,code01,5.0
 2007,Anzahl,Forschende aus LDCs,Schleswig-Holstein,code01,6.0
 2008,Anzahl,Forschende aus LDCs,Schleswig-Holstein,code01,8.0
@@ -1178,6 +1240,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus LDCs,Schleswig-Holstein,code01,28.0
 2021,Anzahl,Forschende aus LDCs,Schleswig-Holstein,code01,38.0
 2022,Anzahl,Forschende aus LDCs,Schleswig-Holstein,code01,33.0
+2023,Anzahl,Forschende aus LDCs,Schleswig-Holstein,code01,33.0
 2006,Anzahl,Forschende aus LDCs,Thüringen,code16,3.0
 2007,Anzahl,Forschende aus LDCs,Thüringen,code16,5.0
 2008,Anzahl,Forschende aus LDCs,Thüringen,code16,7.0
@@ -1195,6 +1258,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus LDCs,Thüringen,code16,38.0
 2021,Anzahl,Forschende aus LDCs,Thüringen,code16,32.0
 2022,Anzahl,Forschende aus LDCs,Thüringen,code16,37.0
+2023,Anzahl,Forschende aus LDCs,Thüringen,code16,52.0
 2005,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,,,5848.0
 2006,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,,,6434.0
 2007,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,,,6766.0
@@ -1231,6 +1295,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Baden-Württemberg,code08,3897.0
 2021,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Baden-Württemberg,code08,4130.0
 2022,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Baden-Württemberg,code08,4636.0
+2023,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Baden-Württemberg,code08,4954.0
 2006,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Bayern,code09,872.0
 2007,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Bayern,code09,934.0
 2008,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Bayern,code09,1171.0
@@ -1248,6 +1313,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Bayern,code09,3265.0
 2021,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Bayern,code09,3651.0
 2022,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Bayern,code09,4193.0
+2023,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Bayern,code09,4340.0
 2006,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Berlin,code11,468.0
 2007,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Berlin,code11,461.0
 2008,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Berlin,code11,550.0
@@ -1265,6 +1331,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Berlin,code11,1322.0
 2021,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Berlin,code11,1571.0
 2022,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Berlin,code11,1668.0
+2023,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Berlin,code11,1873.0
 2006,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Brandenburg,code12,97.0
 2007,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Brandenburg,code12,109.0
 2008,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Brandenburg,code12,124.0
@@ -1282,6 +1349,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Brandenburg,code12,492.0
 2021,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Brandenburg,code12,543.0
 2022,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Brandenburg,code12,619.0
+2023,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Brandenburg,code12,658.0
 2006,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Bremen,code04,108.0
 2007,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Bremen,code04,96.0
 2008,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Bremen,code04,116.0
@@ -1299,6 +1367,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Bremen,code04,238.0
 2021,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Bremen,code04,244.0
 2022,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Bremen,code04,323.0
+2023,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Bremen,code04,344.0
 2006,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Hamburg,code02,162.0
 2007,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Hamburg,code02,215.0
 2008,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Hamburg,code02,242.0
@@ -1316,6 +1385,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Hamburg,code02,649.0
 2021,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Hamburg,code02,783.0
 2022,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Hamburg,code02,847.0
+2023,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Hamburg,code02,1032.0
 2006,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Hessen,code06,469.0
 2007,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Hessen,code06,520.0
 2008,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Hessen,code06,628.0
@@ -1333,6 +1403,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Hessen,code06,1424.0
 2021,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Hessen,code06,1597.0
 2022,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Hessen,code06,1758.0
+2023,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Hessen,code06,1863.0
 2006,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Mecklenburg-Vorpommern,code13,67.0
 2007,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Mecklenburg-Vorpommern,code13,73.0
 2008,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Mecklenburg-Vorpommern,code13,94.0
@@ -1350,6 +1421,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Mecklenburg-Vorpommern,code13,308.0
 2021,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Mecklenburg-Vorpommern,code13,350.0
 2022,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Mecklenburg-Vorpommern,code13,357.0
+2023,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Mecklenburg-Vorpommern,code13,383.0
 2006,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Niedersachsen,code03,519.0
 2007,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Niedersachsen,code03,646.0
 2008,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Niedersachsen,code03,710.0
@@ -1367,6 +1439,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Niedersachsen,code03,1638.0
 2021,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Niedersachsen,code03,1822.0
 2022,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Niedersachsen,code03,1930.0
+2023,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Niedersachsen,code03,2039.0
 2006,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Nordrhein-Westfalen,code05,1399.0
 2007,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Nordrhein-Westfalen,code05,1240.0
 2008,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Nordrhein-Westfalen,code05,1675.0
@@ -1384,6 +1457,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Nordrhein-Westfalen,code05,4628.0
 2021,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Nordrhein-Westfalen,code05,5096.0
 2022,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Nordrhein-Westfalen,code05,5357.0
+2023,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Nordrhein-Westfalen,code05,5856.0
 2006,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Rheinland-Pfalz,code07,238.0
 2007,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Rheinland-Pfalz,code07,254.0
 2008,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Rheinland-Pfalz,code07,291.0
@@ -1401,6 +1475,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Rheinland-Pfalz,code07,823.0
 2021,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Rheinland-Pfalz,code07,851.0
 2022,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Rheinland-Pfalz,code07,1002.0
+2023,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Rheinland-Pfalz,code07,1087.0
 2006,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Saarland,code10,111.0
 2007,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Saarland,code10,102.0
 2008,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Saarland,code10,108.0
@@ -1418,6 +1493,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Saarland,code10,404.0
 2021,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Saarland,code10,412.0
 2022,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Saarland,code10,440.0
+2023,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Saarland,code10,463.0
 2006,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen,code14,304.0
 2007,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen,code14,326.0
 2008,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen,code14,376.0
@@ -1435,6 +1511,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen,code14,1379.0
 2021,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen,code14,1542.0
 2022,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen,code14,1741.0
+2023,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen,code14,2012.0
 2006,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen-Anhalt,code15,136.0
 2007,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen-Anhalt,code15,161.0
 2008,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen-Anhalt,code15,175.0
@@ -1452,6 +1529,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen-Anhalt,code15,544.0
 2021,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen-Anhalt,code15,616.0
 2022,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen-Anhalt,code15,632.0
+2023,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Sachsen-Anhalt,code15,617.0
 2006,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Schleswig-Holstein,code01,148.0
 2007,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Schleswig-Holstein,code01,129.0
 2008,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Schleswig-Holstein,code01,147.0
@@ -1469,6 +1547,7 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Schleswig-Holstein,code01,391.0
 2021,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Schleswig-Holstein,code01,457.0
 2022,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Schleswig-Holstein,code01,479.0
+2023,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Schleswig-Holstein,code01,516.0
 2006,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Thüringen,code16,146.0
 2007,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Thüringen,code16,167.0
 2008,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Thüringen,code16,194.0
@@ -1486,3 +1565,4 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Value
 2020,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Thüringen,code16,855.0
 2021,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Thüringen,code16,959.0
 2022,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Thüringen,code16,1062.0
+2023,Anzahl,Forschende aus den übrigen Entwicklungs- und Schwellenländern,Thüringen,code16,1086.0
