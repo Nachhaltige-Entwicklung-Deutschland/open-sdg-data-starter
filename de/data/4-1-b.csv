@@ -12,7 +12,8 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2019,Prozent,,,,,50.5
 2020,Prozent,,,,,52.3
 2021,Prozent,,,,,53.2
-2022,Prozent,,,,,53.7
+2022,Prozent,,,,,53.4
+2023,Prozent,,,,,56.3
 2000,Prozent,,,,,33.0
 2001,Prozent,,,,,33.2
 2002,Prozent,,,,,33.3
@@ -38,6 +39,7 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,,Weiblich,,,56.6
 2021,Prozent,,Weiblich,,,57.2
 2022,Prozent,,Weiblich,,,57.7
+2023,Prozent,,Weiblich,,,
 2000,Prozent,,Weiblich,,,30.9
 2001,Prozent,,Weiblich,,,31.1
 2002,Prozent,,Weiblich,,,31.3
@@ -62,6 +64,7 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,,Männlich,,,48.3
 2021,Prozent,,Männlich,,,49.6
 2022,Prozent,,Männlich,,,50.0
+2023,Prozent,,Männlich,,,
 2000,Prozent,,Männlich,,,35.0
 2001,Prozent,,Männlich,,,35.2
 2002,Prozent,,Männlich,,,35.2
@@ -902,6 +905,7 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,Tertiärer Abschluss,,,,36.6
 2021,Prozent,Tertiärer Abschluss,,,,38.9
 2022,Prozent,Tertiärer Abschluss,,,,39.3
+2023,Prozent,Tertiärer Abschluss,,,,
 2000,Prozent,Tertiärer Abschluss,,,,25.7
 2001,Prozent,Tertiärer Abschluss,,,,25.5
 2002,Prozent,Tertiärer Abschluss,,,,24.2
@@ -927,6 +931,7 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,Tertiärer Abschluss,Weiblich,,,36.6
 2021,Prozent,Tertiärer Abschluss,Weiblich,,,39.6
 2022,Prozent,Tertiärer Abschluss,Weiblich,,,40.6
+2023,Prozent,Tertiärer Abschluss,Weiblich,,,
 2000,Prozent,Tertiärer Abschluss,Weiblich,,,22.6
 2001,Prozent,Tertiärer Abschluss,Weiblich,,,21.9
 2002,Prozent,Tertiärer Abschluss,Weiblich,,,21.4
@@ -951,6 +956,7 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,Tertiärer Abschluss,Männlich,,,36.6
 2021,Prozent,Tertiärer Abschluss,Männlich,,,38.3
 2022,Prozent,Tertiärer Abschluss,Männlich,,,38.1
+2023,Prozent,Tertiärer Abschluss,Männlich,,,
 2000,Prozent,Tertiärer Abschluss,Männlich,,,28.8
 2001,Prozent,Tertiärer Abschluss,Männlich,,,29.0
 2002,Prozent,Tertiärer Abschluss,Männlich,,,26.8
@@ -975,6 +981,7 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,Postsekundarer nicht-tertiärer Abschluss,,,,15.7
 2021,Prozent,Postsekundarer nicht-tertiärer Abschluss,,,,14.3
 2022,Prozent,Postsekundarer nicht-tertiärer Abschluss,,,,14.4
+2023,Prozent,Postsekundarer nicht-tertiärer Abschluss,,,,
 2000,Prozent,Postsekundarer nicht-tertiärer Abschluss,,,,7.3
 2001,Prozent,Postsekundarer nicht-tertiärer Abschluss,,,,7.7
 2002,Prozent,Postsekundarer nicht-tertiärer Abschluss,,,,9.1
@@ -1000,6 +1007,7 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,Postsekundarer nicht-tertiärer Abschluss,Weiblich,,,20.0
 2021,Prozent,Postsekundarer nicht-tertiärer Abschluss,Weiblich,,,17.6
 2022,Prozent,Postsekundarer nicht-tertiärer Abschluss,Weiblich,,,17.1
+2023,Prozent,Postsekundarer nicht-tertiärer Abschluss,Weiblich,,,
 2000,Prozent,Postsekundarer nicht-tertiärer Abschluss,Weiblich,,,8.3
 2001,Prozent,Postsekundarer nicht-tertiärer Abschluss,Weiblich,,,9.2
 2002,Prozent,Postsekundarer nicht-tertiärer Abschluss,Weiblich,,,9.9
@@ -1024,6 +1032,7 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2020,Prozent,Postsekundarer nicht-tertiärer Abschluss,Männlich,,,11.7
 2021,Prozent,Postsekundarer nicht-tertiärer Abschluss,Männlich,,,11.3
 2022,Prozent,Postsekundarer nicht-tertiärer Abschluss,Männlich,,,11.9
+2023,Prozent,Postsekundarer nicht-tertiärer Abschluss,Männlich,,,
 2000,Prozent,Postsekundarer nicht-tertiärer Abschluss,Männlich,,,6.2
 2001,Prozent,Postsekundarer nicht-tertiärer Abschluss,Männlich,,,6.2
 2002,Prozent,Postsekundarer nicht-tertiärer Abschluss,Männlich,,,8.4
