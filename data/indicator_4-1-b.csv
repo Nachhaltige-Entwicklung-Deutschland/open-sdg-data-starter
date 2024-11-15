@@ -12,7 +12,8 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2019,percentage,,,,,50.5
 2020,percentage,,,,,52.3
 2021,percentage,,,,,53.2
-2022,percentage,,,,,53.7
+2022,percentage,,,,,53.4
+2023,percentage,,,,,56.3
 2000,percentage,,,,,33.0
 2001,percentage,,,,,33.2
 2002,percentage,,,,,33.3
@@ -38,6 +39,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2020,percentage,,female,,,56.6
 2021,percentage,,female,,,57.2
 2022,percentage,,female,,,57.7
+2023,percentage,,female,,,
 2000,percentage,,female,,,30.9
 2001,percentage,,female,,,31.1
 2002,percentage,,female,,,31.3
@@ -62,6 +64,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2020,percentage,,male,,,48.3
 2021,percentage,,male,,,49.6
 2022,percentage,,male,,,50.0
+2023,percentage,,male,,,
 2000,percentage,,male,,,35.0
 2001,percentage,,male,,,35.2
 2002,percentage,,male,,,35.2
@@ -902,6 +905,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2020,percentage,with tertiary qualification,,,,36.6
 2021,percentage,with tertiary qualification,,,,38.9
 2022,percentage,with tertiary qualification,,,,39.3
+2023,percentage,with tertiary qualification,,,,
 2000,percentage,with tertiary qualification,,,,25.7
 2001,percentage,with tertiary qualification,,,,25.5
 2002,percentage,with tertiary qualification,,,,24.2
@@ -927,6 +931,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2020,percentage,with tertiary qualification,female,,,36.6
 2021,percentage,with tertiary qualification,female,,,39.6
 2022,percentage,with tertiary qualification,female,,,40.6
+2023,percentage,with tertiary qualification,female,,,
 2000,percentage,with tertiary qualification,female,,,22.6
 2001,percentage,with tertiary qualification,female,,,21.9
 2002,percentage,with tertiary qualification,female,,,21.4
@@ -951,6 +956,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2020,percentage,with tertiary qualification,male,,,36.6
 2021,percentage,with tertiary qualification,male,,,38.3
 2022,percentage,with tertiary qualification,male,,,38.1
+2023,percentage,with tertiary qualification,male,,,
 2000,percentage,with tertiary qualification,male,,,28.8
 2001,percentage,with tertiary qualification,male,,,29.0
 2002,percentage,with tertiary qualification,male,,,26.8
@@ -975,6 +981,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2020,percentage,with post-secondary non-tertiary qualification,,,,15.7
 2021,percentage,with post-secondary non-tertiary qualification,,,,14.3
 2022,percentage,with post-secondary non-tertiary qualification,,,,14.4
+2023,percentage,with post-secondary non-tertiary qualification,,,,
 2000,percentage,with post-secondary non-tertiary qualification,,,,7.3
 2001,percentage,with post-secondary non-tertiary qualification,,,,7.7
 2002,percentage,with post-secondary non-tertiary qualification,,,,9.1
@@ -1000,6 +1007,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2020,percentage,with post-secondary non-tertiary qualification,female,,,20.0
 2021,percentage,with post-secondary non-tertiary qualification,female,,,17.6
 2022,percentage,with post-secondary non-tertiary qualification,female,,,17.1
+2023,percentage,with post-secondary non-tertiary qualification,female,,,
 2000,percentage,with post-secondary non-tertiary qualification,female,,,8.3
 2001,percentage,with post-secondary non-tertiary qualification,female,,,9.2
 2002,percentage,with post-secondary non-tertiary qualification,female,,,9.9
@@ -1024,6 +1032,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2020,percentage,with post-secondary non-tertiary qualification,male,,,11.7
 2021,percentage,with post-secondary non-tertiary qualification,male,,,11.3
 2022,percentage,with post-secondary non-tertiary qualification,male,,,11.9
+2023,percentage,with post-secondary non-tertiary qualification,male,,,
 2000,percentage,with post-secondary non-tertiary qualification,male,,,6.2
 2001,percentage,with post-secondary non-tertiary qualification,male,,,6.2
 2002,percentage,with post-secondary non-tertiary qualification,male,,,8.4
