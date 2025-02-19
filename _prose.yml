@@ -101,41 +101,77 @@ prose:
             element: text
             label: "Indicator definition"
             scope: national
-      - name: "national_geographical_coverage"
-        field:
-            element: text
-            label: "Geographical coverage"
-            scope: national
       - name: "dns_indicator_intention"
         field:
             element: text
             label: "Intention"
+            scope: national
+      - name: "dns_indicator_definition_new"
+        field:
+            element: text
+            label: "Indicator definition new"
+            scope: national
+      - name: "dns_political_intention"
+        field:
+            element: text
+            label: "Intention"
+            scope: national
+      - name: "political_target"
+        field:
+            element: text
+            label: "Ziel"
+            scope: national
+      - name: "type_target"
+        field:
+            element: text
+            label: "Art des Ziels"
+            scope: national
+      - name: "target_description"
+        field:
+            element: text
+            label: "Beschreibung des Ziels"
+            scope: national
+      - name: "rating"
+        field:
+            element: text
+            label: "Bewertung"
             scope: national
       - name: "data_state"
         field:
           element: text
           lable: "data state"
           scope: national
-      - name: "national_data_update_url"
-        field:
-            element: hidden
-            label: "Data last updated"
-            scope: national
-      - name: "national_data_update_url_text"
-        field:
-            element: hidden
-            label: "Data last updated"
-            scope: national
-      - name: "national_metadata_update_url"
-        field:
-            element: hidden
-            label: "Metadata last updated"
-            scope: national
-      - name: "national_metadata_update_url_text"
-        field:
-            element: hidden
-            label: "Metadata last updated"
-            scope: national
+      # - name: "national_data_updated_date"
+      #   field:
+      #       element: hidden
+      #       label: "Data last updated"
+      #       scope: national
+      #       translation_key: metadata_fields.data_last_update
+      # - name: "national_metadata_updated_date"
+      #   field:
+      #       element: hidden
+      #       label: "Metadata last updated"
+      #       scope: national
+      # - name: "national_data_update_url"
+      #   field:
+      #       element: hidden
+      #       label: "Data last updated"
+      #       scope: national
+      # - name: "national_data_update_url_text"
+      #   field:
+      #       element: hidden
+      #       label: "Data last updated"
+      #       scope: national
+      # - name: "national_metadata_update_url"
+      #   field:
+      #       element: hidden
+      #       label: "Metadata last updated"
+      #       scope: national
+      # - name: "national_metadata_update_url_text"
+      #   field:
+      #       element: hidden
+      #       label: "Metadata last updated"
+      #       scope: national
 
       ######### Weather #########
       ## Weather 1
@@ -4268,3 +4304,4 @@ prose:
             help: Additional link to data source text
             value: "Link to source"
             scope: source_7
+###
