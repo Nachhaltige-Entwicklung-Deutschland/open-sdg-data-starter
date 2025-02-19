@@ -27,35 +27,17 @@
             "title": "Units"
           },
           {
-            "name": "federal state",
+            "name": "xxxsektoren",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Württemberg",
-                "Bayern",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hessen",
-                "Mecklenburg-Vorpommern",
-                "Niedersachsen",
-                "Nordrhein-Westfalen",
-                "Rheinland-Pfalz",
-                "Saarland",
-                "Sachsen",
-                "Sachsen-Anhalt",
-                "Schleswig-Holstein",
-                "Thüringen",
+                "Staat und private Institutionen ohne Erwerbszweck",
+                "Hochschulen",
+                "Wirtschaft",
                 ""
               ]
             },
-            "title": "Bundesland"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "title": "Sektoren"
           },
           {
             "name": "Value",

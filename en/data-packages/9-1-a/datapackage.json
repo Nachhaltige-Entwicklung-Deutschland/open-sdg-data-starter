@@ -27,35 +27,17 @@
             "title": "Units"
           },
           {
-            "name": "federal state",
+            "name": "xxxsektoren",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "XXXStaat und private Institutionen ohne Erwerbszweck",
+                "XXXHochschulen",
+                "XXXWirtschaft",
                 ""
               ]
             },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "title": "XXXSektoren"
           },
           {
             "name": "Value",

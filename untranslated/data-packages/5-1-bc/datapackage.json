@@ -29,8 +29,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "on supervisory boards of listed and fully co-determined companies",
-                "in management positions in the federal civil service",
+                "b) on supervisory boards of listed and fully co-determined companies",
+                "c) in management positions in the federal civil service",
                 ""
               ]
             }

@@ -25,11 +25,11 @@
             }
           },
           {
-            "name": "Series",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "moving five-year average shown for each middle year",
+                "moving five-year average shown for the last year",
                 "calculated annual values",
                 ""
               ]

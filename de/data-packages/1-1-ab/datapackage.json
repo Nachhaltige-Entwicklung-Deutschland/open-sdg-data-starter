@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Materielle Deprivation",
-                "Erhebliche materielle Deprivation",
+                "a) Materielle und soziale Deprivation",
+                "b) Erhebliche materielle und soziale Deprivation",
                 ""
               ]
             },
@@ -73,5 +73,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-ab",
-  "title": "Materielle Deprivation sowie erhebliche materielle Deprivation"
+  "title": "Materielle und soziale Deprivation sowie erhebliche materielle und soziale Deprivation"
 }

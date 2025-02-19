@@ -49,35 +49,6 @@
             }
           },
           {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "baden-wuerttemberg",
-                "bavaria",
-                "berlin",
-                "brandenburg",
-                "bremen",
-                "hamburg",
-                "hesse",
-                "mecklenburg western pomerania",
-                "lower saxony",
-                "north rhine-westphalia",
-                "rhineland palatinate",
-                "saarland",
-                "saxony",
-                "saxony-anhalt",
-                "schleswig-holstein",
-                "thuringia",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -87,5 +58,5 @@
   ],
   "profile": "data-package",
   "name": "10-1",
-  "title": "Ausländische Schulabsolventinnen und Schulabsolventen"
+  "title": "Ausländische Schulabsolvierende"
 }

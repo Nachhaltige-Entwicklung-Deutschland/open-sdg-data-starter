@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "miligrams per litre",
+                "milligrams per litre",
                 ""
               ]
             }
@@ -29,8 +29,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "nitrogen input via the inflows into the baltic sea",
-                "nitrogen input via the inflows into the north sea",
+                "aa) baltic sea",
+                "ab) north sea",
                 ""
               ]
             }
@@ -45,5 +45,5 @@
   ],
   "profile": "data-package",
   "name": "14-1-a",
-  "title": "Stickstoffeintrag über die Zuflüsse in die Nord- und Ostsee"
+  "title": "Nährstoffeinträge in Küsten- und Meeresgewässer - Stickstoffeintrag über die Zuflüsse in die Ost- und Nordsee"
 }

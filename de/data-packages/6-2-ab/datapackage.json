@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anzahl der Menschen, die einen neuen oder hochwertigeren Zugang zur Trinkwasserversorgung oder Anschluss zur Sanitärversorgung erhalten haben",
-                "Anzahl der Menschen, die einen neuen oder hochwertigeren Zugang zur Trinkwasserversorgung erhalten haben",
-                "Anzahl der Menschen, die einen neuen oder verbesserten Anschluss zur Sanitärversorgung erhalten haben",
+                "Mit einem neuen oder hochwertigeren Zugang zur Trinkwasserversorgung oder Anschluss zur Sanitärversorgung",
+                "a) Mit einer neuen oder verbesserten Trinkwasserversorgung",
+                "b) Mit einer neuen oder verbesserten Basissanitärversorgung oder Abwasserbehandlung",
                 ""
               ]
             },

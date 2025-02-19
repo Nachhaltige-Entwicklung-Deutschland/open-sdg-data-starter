@@ -25,25 +25,6 @@
             }
           },
           {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "baden-wuerttemberg",
-                "bavaria",
-                "hesse",
-                "rhineland palatinate",
-                "saxony-anhalt",
-                "schleswig-holstein",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
             "name": "Value",
             "type": "number"
           }

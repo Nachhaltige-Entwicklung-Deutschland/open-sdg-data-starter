@@ -31,12 +31,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "With tertiary qualification",
-                "With post-secondary non-tertiary qualification",
+                "XXXAkademisch Qualifizierte und beruflich Höherqualifizierte",
+                "XXXFachkräftepotenzial (insgesamt)",
                 ""
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "qualification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "XXXZweitausbildung, Ausbildung nach Abitur",
+                "XXXHöherqualifizierende Berufsausbildung",
+                "XXXHochschulabschlüsse",
+                "XXXErstausbildung",
+                ""
+              ]
+            },
+            "title": "Qualification"
           },
           {
             "name": "sex",
@@ -49,37 +63,6 @@
               ]
             },
             "title": "Sex"
-          },
-          {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                ""
-              ]
-            },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
           },
           {
             "name": "Value",

@@ -1,60 +1,31 @@
-Year,Units,Berechnungsmethode,Value
-1995,Prozent,Berechnung als Netto-Ausgabe,0.31
-1996,Prozent,Berechnung als Netto-Ausgabe,0.32
-1997,Prozent,Berechnung als Netto-Ausgabe,0.28
-1998,Prozent,Berechnung als Netto-Ausgabe,0.26
-1999,Prozent,Berechnung als Netto-Ausgabe,0.26
-2000,Prozent,Berechnung als Netto-Ausgabe,0.27
-2001,Prozent,Berechnung als Netto-Ausgabe,0.27
-2002,Prozent,Berechnung als Netto-Ausgabe,0.27
-2003,Prozent,Berechnung als Netto-Ausgabe,0.28
-2004,Prozent,Berechnung als Netto-Ausgabe,0.28
-2005,Prozent,Berechnung als Netto-Ausgabe,0.36
-2006,Prozent,Berechnung als Netto-Ausgabe,0.36
-2007,Prozent,Berechnung als Netto-Ausgabe,0.37
-2008,Prozent,Berechnung als Netto-Ausgabe,0.38
-2009,Prozent,Berechnung als Netto-Ausgabe,0.35
-2010,Prozent,Berechnung als Netto-Ausgabe,0.39
-2011,Prozent,Berechnung als Netto-Ausgabe,0.39
-2012,Prozent,Berechnung als Netto-Ausgabe,0.37
-2013,Prozent,Berechnung als Netto-Ausgabe,0.38
-2014,Prozent,Berechnung als Netto-Ausgabe,0.42
-2015,Prozent,Berechnung als Netto-Ausgabe,0.52
-2016,Prozent,Berechnung als Netto-Ausgabe,0.7
-2017,Prozent,Berechnung als Netto-Ausgabe,0.67
-2018,Prozent,Berechnung als Netto-Ausgabe,
-2019,Prozent,Berechnung als Netto-Ausgabe,
-2020,Prozent,Berechnung als Netto-Ausgabe,
-2021,Prozent,Berechnung als Netto-Ausgabe,
-2022,Prozent,Berechnung als Netto-Ausgabe,
-2023,Prozent,Berechnung als Netto-Ausgabe,
-1995,Prozent,Berechnung in Zuschussäquivalenten,
-1996,Prozent,Berechnung in Zuschussäquivalenten,
-1997,Prozent,Berechnung in Zuschussäquivalenten,
-1998,Prozent,Berechnung in Zuschussäquivalenten,
-1999,Prozent,Berechnung in Zuschussäquivalenten,
-2000,Prozent,Berechnung in Zuschussäquivalenten,
-2001,Prozent,Berechnung in Zuschussäquivalenten,
-2002,Prozent,Berechnung in Zuschussäquivalenten,
-2003,Prozent,Berechnung in Zuschussäquivalenten,
-2004,Prozent,Berechnung in Zuschussäquivalenten,
-2005,Prozent,Berechnung in Zuschussäquivalenten,
-2006,Prozent,Berechnung in Zuschussäquivalenten,
-2007,Prozent,Berechnung in Zuschussäquivalenten,
-2008,Prozent,Berechnung in Zuschussäquivalenten,
-2009,Prozent,Berechnung in Zuschussäquivalenten,
-2010,Prozent,Berechnung in Zuschussäquivalenten,
-2011,Prozent,Berechnung in Zuschussäquivalenten,
-2012,Prozent,Berechnung in Zuschussäquivalenten,
-2013,Prozent,Berechnung in Zuschussäquivalenten,
-2014,Prozent,Berechnung in Zuschussäquivalenten,
-2015,Prozent,Berechnung in Zuschussäquivalenten,
-2016,Prozent,Berechnung in Zuschussäquivalenten,
-2017,Prozent,Berechnung in Zuschussäquivalenten,
-2018,Prozent,Berechnung in Zuschussäquivalenten,0.61
-2019,Prozent,Berechnung in Zuschussäquivalenten,0.61
-2020,Prozent,Berechnung in Zuschussäquivalenten,0.73
-2021,Prozent,Berechnung in Zuschussäquivalenten,0.76
-2022,Prozent,Berechnung in Zuschussäquivalenten,0.85
-2023,Prozent,Berechnung in Zuschussäquivalenten,0.82
-2030,Prozent,Berechnung in Zuschussäquivalenten,
+Year,Units,Value
+1995,Prozent,0.31
+1996,Prozent,0.32
+1997,Prozent,0.28
+1998,Prozent,0.26
+1999,Prozent,0.26
+2000,Prozent,0.27
+2001,Prozent,0.27
+2002,Prozent,0.27
+2003,Prozent,0.28
+2004,Prozent,0.28
+2005,Prozent,0.36
+2006,Prozent,0.36
+2007,Prozent,0.37
+2008,Prozent,0.38
+2009,Prozent,0.35
+2010,Prozent,0.39
+2011,Prozent,0.39
+2012,Prozent,0.37
+2013,Prozent,0.38
+2014,Prozent,0.42
+2015,Prozent,0.52
+2016,Prozent,0.7
+2017,Prozent,0.67
+2018,Prozent,0.61
+2019,Prozent,0.61
+2020,Prozent,0.73
+2021,Prozent,0.76
+2022,Prozent,0.85
+2023,Prozent,0.82
+2030,Prozent,

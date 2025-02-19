@@ -31,43 +31,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All-day care provision for 0 to 2-year-old children",
-                "All-day care provision for 3 to 5-year-old children",
+                "a) 0 to 2-year-olds",
+                "b) 3 to 5-year-olds",
                 ""
               ]
             },
             "title": "Series"
           },
           {
-            "name": "federal state",
+            "name": "xxxart der betreuung",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "XXXKindertageseinrichtungen",
+                "XXXTagespflege",
                 ""
               ]
             },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "title": "XXXArt der Betreuung"
           },
           {
             "name": "Value",

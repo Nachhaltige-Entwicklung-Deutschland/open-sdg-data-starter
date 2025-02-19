@@ -27,16 +27,16 @@
             "title": "Units"
           },
           {
-            "name": "Series",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Gleitender Fünfjahresdurchschnitt mit Bezug auf das mittlere Jahr",
+                "Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr",
                 "Berechnete jährliche Werte",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

@@ -19,7 +19,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1 000",
+                "hours",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mothers",
+                "fathers",
+                "difference",
                 ""
               ]
             }
@@ -34,5 +46,5 @@
   ],
   "profile": "data-package",
   "name": "5-1-e",
-  "title": "Berufliche Qualifizierung von Frauen und Mädchen durch deutsche entwicklungspolitische Zusammenarbeit"
+  "title": "Durchschnittliche wöchentliche Erwerbsarbeitszeit bezogen auf alle Mütter und Väter"
 }

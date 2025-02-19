@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millionen",
+                "Prozent",
                 ""
               ]
             },
@@ -37,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "3-2-b",
-  "title": "Anteil der Bevölkerung mit erhöhter PM₁₀-Feinstaubexposition"
+  "title": "Anteil der Bevölkerung mit erhöhter PM₂,₅-Feinstaubexposition"
 }

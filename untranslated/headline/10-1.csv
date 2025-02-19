@@ -1,88 +1,88 @@
-Year,Value,Units,Series,GeoCode
-1996,80.444,percentage,foreigns,
-1997,80.574,percentage,foreigns,
-1998,80.505,percentage,foreigns,
-1999,80.687,percentage,foreigns,
-2000,80.102,percentage,foreigns,
-2001,79.799,percentage,foreigns,
-2002,80.62,percentage,foreigns,
-2003,80.946,percentage,foreigns,
-2004,81.911,percentage,foreigns,
-2005,82.599,percentage,foreigns,
-2006,83.227,percentage,foreigns,
-2007,84.036,percentage,foreigns,
-2008,85.041,percentage,foreigns,
-2009,86.154,percentage,foreigns,
-2010,87.191,percentage,foreigns,
-2011,88.221,percentage,foreigns,
-2012,88.614,percentage,foreigns,
-2013,89.287,percentage,foreigns,
-2014,88.057,percentage,foreigns,
-2015,88.2,percentage,foreigns,
-2016,85.874,percentage,foreigns,
-2017,81.921,percentage,foreigns,
-2018,81.795,percentage,foreigns,
-2019,82.371,percentage,foreigns,
-2020,85.345,percentage,foreigns,
-2021,84.342,percentage,foreigns,
-2022,84.008,percentage,foreigns,
-2023,82.271,percentage,foreigns,
-2030,,percentage,foreigns,
-1996,92.284,percentage,germans,
-1997,92.286,percentage,germans,
-1998,92.059,percentage,germans,
-1999,92.002,percentage,germans,
-2000,91.691,percentage,germans,
-2001,91.347,percentage,germans,
-2002,91.795,percentage,germans,
-2003,92.074,percentage,germans,
-2004,92.58,percentage,germans,
-2005,92.761,percentage,germans,
-2006,93.047,percentage,germans,
-2007,93.6,percentage,germans,
-2008,93.8,percentage,germans,
-2009,94.227,percentage,germans,
-2010,94.572,percentage,germans,
-2011,95.006,percentage,germans,
-2012,95.102,percentage,germans,
-2013,95.377,percentage,germans,
-2014,95.136,percentage,germans,
-2015,95.0,percentage,germans,
-2016,95.1,percentage,germans,
-2017,94.733,percentage,germans,
-2018,94.58,percentage,germans,
-2019,94.526,percentage,germans,
-2020,94.906,percentage,germans,
-2021,94.86,percentage,germans,
-2022,94.259,percentage,germans,
-2023,94.212,percentage,germans,
-2030,,percentage,germans,
-1996,11.841,percentage points,difference,
-1997,11.711,percentage points,difference,
-1998,11.554,percentage points,difference,
-1999,11.315,percentage points,difference,
-2000,11.589,percentage points,difference,
-2001,11.548,percentage points,difference,
-2002,11.175,percentage points,difference,
-2003,11.128,percentage points,difference,
-2004,10.669,percentage points,difference,
-2005,10.163,percentage points,difference,
-2006,9.82,percentage points,difference,
-2007,9.564,percentage points,difference,
-2008,8.759,percentage points,difference,
-2009,8.073,percentage points,difference,
-2010,7.38,percentage points,difference,
-2011,6.784,percentage points,difference,
-2012,6.488,percentage points,difference,
-2013,6.09,percentage points,difference,
-2014,7.079,percentage points,difference,
-2015,6.8,percentage points,difference,
-2016,9.226,percentage points,difference,
-2017,12.812,percentage points,difference,
-2018,12.785,percentage points,difference,
-2019,12.155,percentage points,difference,
-2020,9.56,percentage points,difference,
-2021,10.518,percentage points,difference,
-2022,10.251,percentage points,difference,
-2023,11.941,percentage points,difference,
-2030,,percentage points,difference,
+Year,Value,Units,Series
+1996,80.444,percentage,foreigns
+1997,80.574,percentage,foreigns
+1998,80.505,percentage,foreigns
+1999,80.687,percentage,foreigns
+2000,80.102,percentage,foreigns
+2001,79.799,percentage,foreigns
+2002,80.62,percentage,foreigns
+2003,80.946,percentage,foreigns
+2004,81.911,percentage,foreigns
+2005,82.599,percentage,foreigns
+2006,83.227,percentage,foreigns
+2007,84.036,percentage,foreigns
+2008,85.041,percentage,foreigns
+2009,86.154,percentage,foreigns
+2010,87.191,percentage,foreigns
+2011,88.221,percentage,foreigns
+2012,88.614,percentage,foreigns
+2013,89.287,percentage,foreigns
+2014,88.057,percentage,foreigns
+2015,88.2,percentage,foreigns
+2016,85.874,percentage,foreigns
+2017,81.921,percentage,foreigns
+2018,81.795,percentage,foreigns
+2019,82.371,percentage,foreigns
+2020,85.345,percentage,foreigns
+2021,84.342,percentage,foreigns
+2022,84.008,percentage,foreigns
+2023,82.271,percentage,foreigns
+2030,,percentage,foreigns
+1996,92.284,percentage,germans
+1997,92.286,percentage,germans
+1998,92.059,percentage,germans
+1999,92.002,percentage,germans
+2000,91.691,percentage,germans
+2001,91.347,percentage,germans
+2002,91.795,percentage,germans
+2003,92.074,percentage,germans
+2004,92.58,percentage,germans
+2005,92.761,percentage,germans
+2006,93.047,percentage,germans
+2007,93.6,percentage,germans
+2008,93.8,percentage,germans
+2009,94.227,percentage,germans
+2010,94.572,percentage,germans
+2011,95.006,percentage,germans
+2012,95.102,percentage,germans
+2013,95.377,percentage,germans
+2014,95.136,percentage,germans
+2015,95.0,percentage,germans
+2016,95.1,percentage,germans
+2017,94.733,percentage,germans
+2018,94.58,percentage,germans
+2019,94.526,percentage,germans
+2020,94.906,percentage,germans
+2021,94.86,percentage,germans
+2022,94.259,percentage,germans
+2023,94.212,percentage,germans
+2030,,percentage,germans
+1996,11.841,percentage points,difference
+1997,11.711,percentage points,difference
+1998,11.554,percentage points,difference
+1999,11.315,percentage points,difference
+2000,11.589,percentage points,difference
+2001,11.548,percentage points,difference
+2002,11.175,percentage points,difference
+2003,11.128,percentage points,difference
+2004,10.669,percentage points,difference
+2005,10.163,percentage points,difference
+2006,9.82,percentage points,difference
+2007,9.564,percentage points,difference
+2008,8.759,percentage points,difference
+2009,8.073,percentage points,difference
+2010,7.38,percentage points,difference
+2011,6.784,percentage points,difference
+2012,6.488,percentage points,difference
+2013,6.09,percentage points,difference
+2014,7.079,percentage points,difference
+2015,6.8,percentage points,difference
+2016,9.226,percentage points,difference
+2017,12.812,percentage points,difference
+2018,12.785,percentage points,difference
+2019,12.155,percentage points,difference
+2020,9.56,percentage points,difference
+2021,10.518,percentage points,difference
+2022,10.251,percentage points,difference
+2023,11.941,percentage points,difference
+2030,,percentage points,difference

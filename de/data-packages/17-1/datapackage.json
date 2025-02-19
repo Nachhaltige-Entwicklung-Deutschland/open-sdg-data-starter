@@ -27,18 +27,6 @@
             "title": "Units"
           },
           {
-            "name": "calculation method",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Berechnung als Netto-Ausgabe",
-                "Berechnung in Zuschussäquivalenten",
-                ""
-              ]
-            },
-            "title": "Berechnungsmethode"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

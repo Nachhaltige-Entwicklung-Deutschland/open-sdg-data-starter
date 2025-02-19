@@ -25,17 +25,6 @@
             }
           },
           {
-            "name": "calculation method",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "calculated as net expenditure",
-                "calculated in grant equivalents",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

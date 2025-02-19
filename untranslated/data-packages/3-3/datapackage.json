@@ -19,17 +19,29 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "percentage",
                 "million eur",
                 ""
               ]
             }
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "pandemic prevention and response",
+                "xxxanteil der länder, die deutschland bei der pandemieprävention, -vorsorge und -reaktion (ppr) unterstützt und die im global health security index (ghsi) fortschritte gemacht haben, an der anzahl der länder, die deutschland im bereich ppr unterstützt",
+                "xxxinfolinie - beitrag deutschlands zur globalen pandemieprävention und -reaktion",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "xxxzuordnung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "germany’s contribution to global pandemic prevention and response",
                 "separate amount devoted to curbing the covid-19 pandemic",
                 ""
               ]
@@ -45,5 +57,5 @@
   ],
   "profile": "data-package",
   "name": "3-3",
-  "title": "Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion"
+  "title": "Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt"
 }

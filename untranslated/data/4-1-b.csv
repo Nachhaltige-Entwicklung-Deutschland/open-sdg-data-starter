@@ -1,1141 +1,453 @@
-Year,Units,time series,sex,federal state,GeoCode,Value
-1999,percentage,,,,,33.351
-2010,percentage,,,,,41.315
-2011,percentage,,,,,42.225
-2012,percentage,,,,,43.433
-2013,percentage,,,,,44.482
-2014,percentage,,,,,45.67
-2015,percentage,,,,,46.77
-2016,percentage,,,,,47.879
-2017,percentage,,,,,48.835
-2018,percentage,,,,,49.833
-2019,percentage,,,,,50.488
-2020,percentage,,,,,52.3
-2021,percentage,,,,,53.6
-2022,percentage,,,,,53.4
-2023,percentage,,,,,56.327
-2000,percentage,,,,,32.997
-2001,percentage,,,,,33.171
-2002,percentage,,,,,33.277
-2003,percentage,,,,,33.892
-2004,percentage,,,,,36.22
-2005,percentage,,,,,35.988
-2006,percentage,,,,,36.5
-2007,percentage,,,,,37.633
-2008,percentage,,,,,38.766
-2009,percentage,,,,,40.713
-2030,percentage,,,,,
-1999,percentage,,female,,,31.389
-2010,percentage,,female,,,42.678
-2011,percentage,,female,,,44.419
-2012,percentage,,female,,,46.041
-2013,percentage,,female,,,46.803
-2014,percentage,,female,,,48.415
-2015,percentage,,female,,,50.521
-2016,percentage,,female,,,51.295
-2017,percentage,,female,,,52.64
-2018,percentage,,female,,,53.827
-2019,percentage,,female,,,54.411
-2020,percentage,,female,,,56.5
-2021,percentage,,female,,,57.4
-2022,percentage,,female,,,57.353
-2023,percentage,,female,,,60.244
-2000,percentage,,female,,,30.88
-2001,percentage,,female,,,31.088
-2002,percentage,,female,,,31.25
-2003,percentage,,female,,,32.194
-2004,percentage,,female,,,34.652
-2005,percentage,,female,,,35.001
-2006,percentage,,female,,,36.481
-2007,percentage,,female,,,38.026
-2008,percentage,,female,,,39.685
-2009,percentage,,female,,,42.21
-1999,percentage,,male,,,35.216
-2010,percentage,,male,,,39.974
-2011,percentage,,male,,,40.073
-2012,percentage,,male,,,40.881
-2013,percentage,,male,,,42.196
-2014,percentage,,male,,,42.937
-2015,percentage,,male,,,43.109
-2016,percentage,,male,,,44.574
-2017,percentage,,male,,,45.188
-2018,percentage,,male,,,46.02
-2019,percentage,,male,,,46.764
-2020,percentage,,male,,,48.2
-2021,percentage,,male,,,50.0
-2022,percentage,,male,,,49.666
-2023,percentage,,male,,,52.616
-2000,percentage,,male,,,35.045
-2001,percentage,,male,,,35.199
-2002,percentage,,male,,,35.223
-2003,percentage,,male,,,35.493
-2004,percentage,,male,,,37.722
-2005,percentage,,male,,,36.952
-2006,percentage,,male,,,36.52
-2007,percentage,,male,,,37.251
-2008,percentage,,male,,,37.859
-2009,percentage,,male,,,39.234
-2010,percentage,,,baden-wuerttemberg,code08,42.275
-2011,percentage,,,baden-wuerttemberg,code08,43.361
-2012,percentage,,,baden-wuerttemberg,code08,44.923
-2013,percentage,,,baden-wuerttemberg,code08,47.288
-2014,percentage,,,baden-wuerttemberg,code08,47.346
-2015,percentage,,,baden-wuerttemberg,code08,48.374
-2016,percentage,,,baden-wuerttemberg,code08,50.185
-2017,percentage,,,baden-wuerttemberg,code08,50.534
-2018,percentage,,,baden-wuerttemberg,code08,51.293
-2019,percentage,,,baden-wuerttemberg,code08,53.689
-2020,percentage,,,baden-wuerttemberg,code08,53.97
-2021,percentage,,,baden-wuerttemberg,code08,54.924
-2022,percentage,,,baden-wuerttemberg,code08,55.408
-2023,percentage,,,baden-wuerttemberg,code08,57.61
-2005,percentage,,,baden-wuerttemberg,code08,36.883
-2006,percentage,,,baden-wuerttemberg,code08,36.866
-2007,percentage,,,baden-wuerttemberg,code08,37.592
-2008,percentage,,,baden-wuerttemberg,code08,37.838
-2009,percentage,,,baden-wuerttemberg,code08,41.901
-2010,percentage,,female,baden-wuerttemberg,code08,40.693
-2011,percentage,,female,baden-wuerttemberg,code08,41.862
-2012,percentage,,female,baden-wuerttemberg,code08,44.431
-2013,percentage,,female,baden-wuerttemberg,code08,46.144
-2014,percentage,,female,baden-wuerttemberg,code08,48.068
-2015,percentage,,female,baden-wuerttemberg,code08,49.588
-2016,percentage,,female,baden-wuerttemberg,code08,50.933
-2017,percentage,,female,baden-wuerttemberg,code08,51.385
-2018,percentage,,female,baden-wuerttemberg,code08,52.186
-2019,percentage,,female,baden-wuerttemberg,code08,56.364
-2020,percentage,,female,baden-wuerttemberg,code08,56.993
-2021,percentage,,female,baden-wuerttemberg,code08,58.152
-2022,percentage,,female,baden-wuerttemberg,code08,58.323
-2023,percentage,,female,baden-wuerttemberg,code08,60.612
-2005,percentage,,female,baden-wuerttemberg,code08,33.109
-2006,percentage,,female,baden-wuerttemberg,code08,34.227
-2007,percentage,,female,baden-wuerttemberg,code08,35.694
-2008,percentage,,female,baden-wuerttemberg,code08,36.015
-2009,percentage,,female,baden-wuerttemberg,code08,41.037
-2010,percentage,,male,baden-wuerttemberg,code08,43.877
-2011,percentage,,male,baden-wuerttemberg,code08,44.857
-2012,percentage,,male,baden-wuerttemberg,code08,45.413
-2013,percentage,,male,baden-wuerttemberg,code08,48.428
-2014,percentage,,male,baden-wuerttemberg,code08,46.645
-2015,percentage,,male,baden-wuerttemberg,code08,47.207
-2016,percentage,,male,baden-wuerttemberg,code08,49.479
-2017,percentage,,male,baden-wuerttemberg,code08,49.718
-2018,percentage,,male,baden-wuerttemberg,code08,50.463
-2019,percentage,,male,baden-wuerttemberg,code08,51.236
-2020,percentage,,male,baden-wuerttemberg,code08,51.226
-2021,percentage,,male,baden-wuerttemberg,code08,52.019
-2022,percentage,,male,baden-wuerttemberg,code08,52.739
-2023,percentage,,male,baden-wuerttemberg,code08,54.825
-2005,percentage,,male,baden-wuerttemberg,code08,40.459
-2006,percentage,,male,baden-wuerttemberg,code08,39.43
-2007,percentage,,male,baden-wuerttemberg,code08,39.471
-2008,percentage,,male,baden-wuerttemberg,code08,39.693
-2009,percentage,,male,baden-wuerttemberg,code08,42.792
-2010,percentage,,,bavaria,code09,40.387
-2011,percentage,,,bavaria,code09,41.098
-2012,percentage,,,bavaria,code09,43.579
-2013,percentage,,,bavaria,code09,45.314
-2014,percentage,,,bavaria,code09,45.821
-2015,percentage,,,bavaria,code09,45.682
-2016,percentage,,,bavaria,code09,48.009
-2017,percentage,,,bavaria,code09,48.604
-2018,percentage,,,bavaria,code09,49.827
-2019,percentage,,,bavaria,code09,49.32
-2020,percentage,,,bavaria,code09,51.069
-2021,percentage,,,bavaria,code09,54.096
-2022,percentage,,,bavaria,code09,52.735
-2023,percentage,,,bavaria,code09,56.237
-2005,percentage,,,bavaria,code09,35.151
-2006,percentage,,,bavaria,code09,34.678
-2007,percentage,,,bavaria,code09,35.837
-2008,percentage,,,bavaria,code09,37.516
-2009,percentage,,,bavaria,code09,39.422
-2010,percentage,,female,bavaria,code09,40.153
-2011,percentage,,female,bavaria,code09,41.562
-2012,percentage,,female,bavaria,code09,44.785
-2013,percentage,,female,bavaria,code09,45.332
-2014,percentage,,female,bavaria,code09,46.105
-2015,percentage,,female,bavaria,code09,47.412
-2016,percentage,,female,bavaria,code09,49.515
-2017,percentage,,female,bavaria,code09,50.679
-2018,percentage,,female,bavaria,code09,52.125
-2019,percentage,,female,bavaria,code09,50.639
-2020,percentage,,female,bavaria,code09,52.607
-2021,percentage,,female,bavaria,code09,56.22
-2022,percentage,,female,bavaria,code09,55.121
-2023,percentage,,female,bavaria,code09,58.126
-2005,percentage,,female,bavaria,code09,32.879
-2006,percentage,,female,bavaria,code09,33.134
-2007,percentage,,female,bavaria,code09,34.766
-2008,percentage,,female,bavaria,code09,36.77
-2009,percentage,,female,bavaria,code09,38.524
-2010,percentage,,male,bavaria,code09,40.614
-2011,percentage,,male,bavaria,code09,40.654
-2012,percentage,,male,bavaria,code09,42.36
-2013,percentage,,male,bavaria,code09,45.291
-2014,percentage,,male,bavaria,code09,45.527
-2015,percentage,,male,bavaria,code09,43.947
-2016,percentage,,male,bavaria,code09,46.553
-2017,percentage,,male,bavaria,code09,46.68
-2018,percentage,,male,bavaria,code09,47.731
-2019,percentage,,male,bavaria,code09,48.066
-2020,percentage,,male,bavaria,code09,49.638
-2021,percentage,,male,bavaria,code09,52.173
-2022,percentage,,male,bavaria,code09,50.487
-2023,percentage,,male,bavaria,code09,54.471
-2005,percentage,,male,bavaria,code09,37.367
-2006,percentage,,male,bavaria,code09,36.229
-2007,percentage,,male,bavaria,code09,36.854
-2008,percentage,,male,bavaria,code09,38.268
-2009,percentage,,male,bavaria,code09,40.279
-2010,percentage,,,berlin,code11,50.741
-2011,percentage,,,berlin,code11,51.842
-2012,percentage,,,berlin,code11,53.682
-2013,percentage,,,berlin,code11,53.226
-2014,percentage,,,berlin,code11,53.955
-2015,percentage,,,berlin,code11,56.682
-2016,percentage,,,berlin,code11,59.716
-2017,percentage,,,berlin,code11,60.877
-2018,percentage,,,berlin,code11,62.555
-2019,percentage,,,berlin,code11,64.708
-2020,percentage,,,berlin,code11,65.78
-2021,percentage,,,berlin,code11,68.733
-2022,percentage,,,berlin,code11,70.316
-2023,percentage,,,berlin,code11,70.194
-2005,percentage,,,berlin,code11,46.171
-2006,percentage,,,berlin,code11,46.613
-2007,percentage,,,berlin,code11,49.178
-2008,percentage,,,berlin,code11,47.103
-2009,percentage,,,berlin,code11,50.363
-2010,percentage,,female,berlin,code11,55.98
-2011,percentage,,female,berlin,code11,59.257
-2012,percentage,,female,berlin,code11,60.203
-2013,percentage,,female,berlin,code11,59.132
-2014,percentage,,female,berlin,code11,59.84
-2015,percentage,,female,berlin,code11,63.74
-2016,percentage,,female,berlin,code11,63.622
-2017,percentage,,female,berlin,code11,66.054
-2018,percentage,,female,berlin,code11,66.938
-2019,percentage,,female,berlin,code11,69.033
-2020,percentage,,female,berlin,code11,70.086
-2021,percentage,,female,berlin,code11,71.8
-2022,percentage,,female,berlin,code11,73.897
-2023,percentage,,female,berlin,code11,73.012
-2005,percentage,,female,berlin,code11,47.091
-2006,percentage,,female,berlin,code11,50.091
-2007,percentage,,female,berlin,code11,53.045
-2008,percentage,,female,berlin,code11,49.895
-2009,percentage,,female,berlin,code11,56.248
-2010,percentage,,male,berlin,code11,45.795
-2011,percentage,,male,berlin,code11,44.749
-2012,percentage,,male,berlin,code11,47.454
-2013,percentage,,male,berlin,code11,47.616
-2014,percentage,,male,berlin,code11,48.408
-2015,percentage,,male,berlin,code11,49.661
-2016,percentage,,male,berlin,code11,55.666
-2017,percentage,,male,berlin,code11,55.64
-2018,percentage,,male,berlin,code11,58.121
-2019,percentage,,male,berlin,code11,60.28
-2020,percentage,,male,berlin,code11,61.697
-2021,percentage,,male,berlin,code11,65.67
-2022,percentage,,male,berlin,code11,66.914
-2023,percentage,,male,berlin,code11,67.442
-2005,percentage,,male,berlin,code11,45.299
-2006,percentage,,male,berlin,code11,43.233
-2007,percentage,,male,berlin,code11,45.499
-2008,percentage,,male,berlin,code11,44.525
-2009,percentage,,male,berlin,code11,44.408
-2010,percentage,,,brandenburg,code12,41.399
-2011,percentage,,,brandenburg,code12,44.471
-2012,percentage,,,brandenburg,code12,42.083
-2013,percentage,,,brandenburg,code12,42.574
-2014,percentage,,,brandenburg,code12,44.166
-2015,percentage,,,brandenburg,code12,43.263
-2016,percentage,,,brandenburg,code12,45.406
-2017,percentage,,,brandenburg,code12,42.317
-2018,percentage,,,brandenburg,code12,45.003
-2019,percentage,,,brandenburg,code12,44.383
-2020,percentage,,,brandenburg,code12,49.207
-2021,percentage,,,brandenburg,code12,54.778
-2022,percentage,,,brandenburg,code12,53.32
-2023,percentage,,,brandenburg,code12,54.765
-2005,percentage,,,brandenburg,code12,32.105
-2006,percentage,,,brandenburg,code12,33.245
-2007,percentage,,,brandenburg,code12,34.748
-2008,percentage,,,brandenburg,code12,38.584
-2009,percentage,,,brandenburg,code12,41.101
-2010,percentage,,female,brandenburg,code12,50.174
-2011,percentage,,female,brandenburg,code12,53.551
-2012,percentage,,female,brandenburg,code12,51.561
-2013,percentage,,female,brandenburg,code12,48.956
-2014,percentage,,female,brandenburg,code12,50.463
-2015,percentage,,female,brandenburg,code12,53.238
-2016,percentage,,female,brandenburg,code12,54.237
-2017,percentage,,female,brandenburg,code12,48.388
-2018,percentage,,female,brandenburg,code12,53.229
-2019,percentage,,female,brandenburg,code12,52.09
-2020,percentage,,female,brandenburg,code12,54.649
-2021,percentage,,female,brandenburg,code12,60.362
-2022,percentage,,female,brandenburg,code12,61.187
-2023,percentage,,female,brandenburg,code12,62.104
-2005,percentage,,female,brandenburg,code12,36.872
-2006,percentage,,female,brandenburg,code12,39.533
-2007,percentage,,female,brandenburg,code12,42.239
-2008,percentage,,female,brandenburg,code12,47.104
-2009,percentage,,female,brandenburg,code12,47.811
-2010,percentage,,male,brandenburg,code12,33.438
-2011,percentage,,male,brandenburg,code12,35.83
-2012,percentage,,male,brandenburg,code12,33.854
-2013,percentage,,male,brandenburg,code12,36.482
-2014,percentage,,male,brandenburg,code12,37.614
-2015,percentage,,male,brandenburg,code12,34.099
-2016,percentage,,male,brandenburg,code12,36.92
-2017,percentage,,male,brandenburg,code12,36.607
-2018,percentage,,male,brandenburg,code12,36.604
-2019,percentage,,male,brandenburg,code12,36.622
-2020,percentage,,male,brandenburg,code12,43.576
-2021,percentage,,male,brandenburg,code12,49.12
-2022,percentage,,male,brandenburg,code12,45.646
-2023,percentage,,male,brandenburg,code12,47.682
-2005,percentage,,male,brandenburg,code12,27.534
-2006,percentage,,male,brandenburg,code12,27.45
-2007,percentage,,male,brandenburg,code12,27.288
-2008,percentage,,male,brandenburg,code12,30.42
-2009,percentage,,male,brandenburg,code12,35.19
-2010,percentage,,,bremen,code04,41.46
-2011,percentage,,,bremen,code04,43.164
-2012,percentage,,,bremen,code04,41.831
-2013,percentage,,,bremen,code04,44.323
-2014,percentage,,,bremen,code04,53.395
-2015,percentage,,,bremen,code04,50.505
-2016,percentage,,,bremen,code04,46.57
-2017,percentage,,,bremen,code04,51.915
-2018,percentage,,,bremen,code04,52.19
-2019,percentage,,,bremen,code04,49.131
-2020,percentage,,,bremen,code04,50.924
-2021,percentage,,,bremen,code04,55.719
-2022,percentage,,,bremen,code04,51.219
-2023,percentage,,,bremen,code04,50.308
-2005,percentage,,,bremen,code04,33.792
-2006,percentage,,,bremen,code04,36.816
-2007,percentage,,,bremen,code04,38.2
-2008,percentage,,,bremen,code04,39.415
-2009,percentage,,,bremen,code04,32.736
-2010,percentage,,female,bremen,code04,36.931
-2011,percentage,,female,bremen,code04,47.784
-2012,percentage,,female,bremen,code04,45.999
-2013,percentage,,female,bremen,code04,48.15
-2014,percentage,,female,bremen,code04,57.459
-2015,percentage,,female,bremen,code04,54.611
-2016,percentage,,female,bremen,code04,50.1
-2017,percentage,,female,bremen,code04,56.96
-2018,percentage,,female,bremen,code04,56.557
-2019,percentage,,female,bremen,code04,56.672
-2020,percentage,,female,bremen,code04,58.881
-2021,percentage,,female,bremen,code04,62.746
-2022,percentage,,female,bremen,code04,55.065
-2023,percentage,,female,bremen,code04,51.611
-2005,percentage,,female,bremen,code04,35.318
-2006,percentage,,female,bremen,code04,40.104
-2007,percentage,,female,bremen,code04,40.341
-2008,percentage,,female,bremen,code04,40.847
-2009,percentage,,female,bremen,code04,36.118
-2010,percentage,,male,bremen,code04,46.491
-2011,percentage,,male,bremen,code04,37.811
-2012,percentage,,male,bremen,code04,38.121
-2013,percentage,,male,bremen,code04,41.296
-2014,percentage,,male,bremen,code04,49.645
-2015,percentage,,male,bremen,code04,46.769
-2016,percentage,,male,bremen,code04,42.708
-2017,percentage,,male,bremen,code04,47.095
-2018,percentage,,male,bremen,code04,47.898
-2019,percentage,,male,bremen,code04,42.249
-2020,percentage,,male,bremen,code04,43.555
-2021,percentage,,male,bremen,code04,49.671
-2022,percentage,,male,bremen,code04,47.678
-2023,percentage,,male,bremen,code04,48.952
-2005,percentage,,male,bremen,code04,32.333
-2006,percentage,,male,bremen,code04,33.914
-2007,percentage,,male,bremen,code04,36.337
-2008,percentage,,male,bremen,code04,37.962
-2009,percentage,,male,bremen,code04,28.794
-2010,percentage,,,hamburg,code02,52.498
-2011,percentage,,,hamburg,code02,55.365
-2012,percentage,,,hamburg,code02,54.419
-2013,percentage,,,hamburg,code02,55.401
-2014,percentage,,,hamburg,code02,58.515
-2015,percentage,,,hamburg,code02,60.569
-2016,percentage,,,hamburg,code02,59.974
-2017,percentage,,,hamburg,code02,57.945
-2018,percentage,,,hamburg,code02,61.864
-2019,percentage,,,hamburg,code02,59.512
-2020,percentage,,,hamburg,code02,60.132
-2021,percentage,,,hamburg,code02,65.502
-2022,percentage,,,hamburg,code02,59.075
-2023,percentage,,,hamburg,code02,62.993
-2005,percentage,,,hamburg,code02,45.718
-2006,percentage,,,hamburg,code02,48.641
-2007,percentage,,,hamburg,code02,49.433
-2008,percentage,,,hamburg,code02,50.068
-2009,percentage,,,hamburg,code02,53.062
-2010,percentage,,female,hamburg,code02,53.76
-2011,percentage,,female,hamburg,code02,57.145
-2012,percentage,,female,hamburg,code02,57.634
-2013,percentage,,female,hamburg,code02,60.093
-2014,percentage,,female,hamburg,code02,61.448
-2015,percentage,,female,hamburg,code02,62.499
-2016,percentage,,female,hamburg,code02,62.062
-2017,percentage,,female,hamburg,code02,62.558
-2018,percentage,,female,hamburg,code02,64.238
-2019,percentage,,female,hamburg,code02,60.42
-2020,percentage,,female,hamburg,code02,63.751
-2021,percentage,,female,hamburg,code02,69.875
-2022,percentage,,female,hamburg,code02,63.018
-2023,percentage,,female,hamburg,code02,67.857
-2005,percentage,,female,hamburg,code02,47.503
-2006,percentage,,female,hamburg,code02,48.986
-2007,percentage,,female,hamburg,code02,53.833
-2008,percentage,,female,hamburg,code02,53.04
-2009,percentage,,female,hamburg,code02,54.022
-2010,percentage,,male,hamburg,code02,51.299
-2011,percentage,,male,hamburg,code02,53.572
-2012,percentage,,male,hamburg,code02,51.051
-2013,percentage,,male,hamburg,code02,50.681
-2014,percentage,,male,hamburg,code02,55.353
-2015,percentage,,male,hamburg,code02,58.535
-2016,percentage,,male,hamburg,code02,57.967
-2017,percentage,,male,hamburg,code02,53.277
-2018,percentage,,male,hamburg,code02,59.441
-2019,percentage,,male,hamburg,code02,58.631
-2020,percentage,,male,hamburg,code02,56.579
-2021,percentage,,male,hamburg,code02,61.17
-2022,percentage,,male,hamburg,code02,55.308
-2023,percentage,,male,hamburg,code02,58.392
-2005,percentage,,male,hamburg,code02,44.1
-2006,percentage,,male,hamburg,code02,48.299
-2007,percentage,,male,hamburg,code02,45.16
-2008,percentage,,male,hamburg,code02,47.117
-2009,percentage,,male,hamburg,code02,52.168
-2010,percentage,,,hesse,code06,45.446
-2011,percentage,,,hesse,code06,46.114
-2012,percentage,,,hesse,code06,47.165
-2013,percentage,,,hesse,code06,47.566
-2014,percentage,,,hesse,code06,46.33
-2015,percentage,,,hesse,code06,49.362
-2016,percentage,,,hesse,code06,50.411
-2017,percentage,,,hesse,code06,53.931
-2018,percentage,,,hesse,code06,52.38
-2019,percentage,,,hesse,code06,52.684
-2020,percentage,,,hesse,code06,52.672
-2021,percentage,,,hesse,code06,51.93
-2022,percentage,,,hesse,code06,51.691
-2023,percentage,,,hesse,code06,55.541
-2005,percentage,,,hesse,code06,40.651
-2006,percentage,,,hesse,code06,40.198
-2007,percentage,,,hesse,code06,40.853
-2008,percentage,,,hesse,code06,40.292
-2009,percentage,,,hesse,code06,43.095
-2010,percentage,,female,hesse,code06,46.294
-2011,percentage,,female,hesse,code06,46.657
-2012,percentage,,female,hesse,code06,47.982
-2013,percentage,,female,hesse,code06,48.939
-2014,percentage,,female,hesse,code06,47.9
-2015,percentage,,female,hesse,code06,52.106
-2016,percentage,,female,hesse,code06,52.978
-2017,percentage,,female,hesse,code06,58.31
-2018,percentage,,female,hesse,code06,56.935
-2019,percentage,,female,hesse,code06,57.322
-2020,percentage,,female,hesse,code06,54.372
-2021,percentage,,female,hesse,code06,54.978
-2022,percentage,,female,hesse,code06,54.449
-2023,percentage,,female,hesse,code06,59.29
-2005,percentage,,female,hesse,code06,38.717
-2006,percentage,,female,hesse,code06,38.815
-2007,percentage,,female,hesse,code06,39.772
-2008,percentage,,female,hesse,code06,40.646
-2009,percentage,,female,hesse,code06,44.105
-2010,percentage,,male,hesse,code06,44.56
-2011,percentage,,male,hesse,code06,45.539
-2012,percentage,,male,hesse,code06,46.331
-2013,percentage,,male,hesse,code06,46.136
-2014,percentage,,male,hesse,code06,44.808
-2015,percentage,,male,hesse,code06,46.628
-2016,percentage,,male,hesse,code06,47.759
-2017,percentage,,male,hesse,code06,49.527
-2018,percentage,,male,hesse,code06,47.943
-2019,percentage,,male,hesse,code06,48.29
-2020,percentage,,male,hesse,code06,51.008
-2021,percentage,,male,hesse,code06,49.043
-2022,percentage,,male,hesse,code06,49.045
-2023,percentage,,male,hesse,code06,51.997
-2005,percentage,,male,hesse,code06,42.617
-2006,percentage,,male,hesse,code06,41.635
-2007,percentage,,male,hesse,code06,41.942
-2008,percentage,,male,hesse,code06,39.918
-2009,percentage,,male,hesse,code06,42.047
-2010,percentage,,,mecklenburg western pomerania,code13,33.166
-2011,percentage,,,mecklenburg western pomerania,code13,32.109
-2012,percentage,,,mecklenburg western pomerania,code13,30.765
-2013,percentage,,,mecklenburg western pomerania,code13,33.239
-2014,percentage,,,mecklenburg western pomerania,code13,35.446
-2015,percentage,,,mecklenburg western pomerania,code13,34.818
-2016,percentage,,,mecklenburg western pomerania,code13,32.651
-2017,percentage,,,mecklenburg western pomerania,code13,32.671
-2018,percentage,,,mecklenburg western pomerania,code13,37.897
-2019,percentage,,,mecklenburg western pomerania,code13,38.553
-2020,percentage,,,mecklenburg western pomerania,code13,38.949
-2021,percentage,,,mecklenburg western pomerania,code13,43.201
-2022,percentage,,,mecklenburg western pomerania,code13,42.386
-2023,percentage,,,mecklenburg western pomerania,code13,44.57
-2005,percentage,,,mecklenburg western pomerania,code13,26.349
-2006,percentage,,,mecklenburg western pomerania,code13,31.139
-2007,percentage,,,mecklenburg western pomerania,code13,30.477
-2008,percentage,,,mecklenburg western pomerania,code13,32.339
-2009,percentage,,,mecklenburg western pomerania,code13,32.28
-2010,percentage,,female,mecklenburg western pomerania,code13,36.472
-2011,percentage,,female,mecklenburg western pomerania,code13,35.261
-2012,percentage,,female,mecklenburg western pomerania,code13,38.453
-2013,percentage,,female,mecklenburg western pomerania,code13,42.102
-2014,percentage,,female,mecklenburg western pomerania,code13,43.336
-2015,percentage,,female,mecklenburg western pomerania,code13,44.062
-2016,percentage,,female,mecklenburg western pomerania,code13,39.157
-2017,percentage,,female,mecklenburg western pomerania,code13,39.66
-2018,percentage,,female,mecklenburg western pomerania,code13,44.25
-2019,percentage,,female,mecklenburg western pomerania,code13,41.128
-2020,percentage,,female,mecklenburg western pomerania,code13,45.227
-2021,percentage,,female,mecklenburg western pomerania,code13,48.031
-2022,percentage,,female,mecklenburg western pomerania,code13,50.016
-2023,percentage,,female,mecklenburg western pomerania,code13,54.887
-2005,percentage,,female,mecklenburg western pomerania,code13,27.026
-2006,percentage,,female,mecklenburg western pomerania,code13,37.251
-2007,percentage,,female,mecklenburg western pomerania,code13,37.159
-2008,percentage,,female,mecklenburg western pomerania,code13,39.407
-2009,percentage,,female,mecklenburg western pomerania,code13,37.392
-2010,percentage,,male,mecklenburg western pomerania,code13,30.4
-2011,percentage,,male,mecklenburg western pomerania,code13,29.308
-2012,percentage,,male,mecklenburg western pomerania,code13,23.899
-2013,percentage,,male,mecklenburg western pomerania,code13,25.37
-2014,percentage,,male,mecklenburg western pomerania,code13,28.336
-2015,percentage,,male,mecklenburg western pomerania,code13,26.877
-2016,percentage,,male,mecklenburg western pomerania,code13,27.014
-2017,percentage,,male,mecklenburg western pomerania,code13,26.062
-2018,percentage,,male,mecklenburg western pomerania,code13,32.373
-2019,percentage,,male,mecklenburg western pomerania,code13,36.334
-2020,percentage,,male,mecklenburg western pomerania,code13,33.038
-2021,percentage,,male,mecklenburg western pomerania,code13,38.584
-2022,percentage,,male,mecklenburg western pomerania,code13,34.802
-2023,percentage,,male,mecklenburg western pomerania,code13,34.965
-2005,percentage,,male,mecklenburg western pomerania,code13,25.759
-2006,percentage,,male,mecklenburg western pomerania,code13,26.081
-2007,percentage,,male,mecklenburg western pomerania,code13,25.045
-2008,percentage,,male,mecklenburg western pomerania,code13,26.693
-2009,percentage,,male,mecklenburg western pomerania,code13,27.74
-2010,percentage,,,lower saxony,code03,36.194
-2011,percentage,,,lower saxony,code03,37.461
-2012,percentage,,,lower saxony,code03,38.135
-2013,percentage,,,lower saxony,code03,37.886
-2014,percentage,,,lower saxony,code03,40.067
-2015,percentage,,,lower saxony,code03,43.155
-2016,percentage,,,lower saxony,code03,41.378
-2017,percentage,,,lower saxony,code03,42.479
-2018,percentage,,,lower saxony,code03,43.91
-2019,percentage,,,lower saxony,code03,44.617
-2020,percentage,,,lower saxony,code03,47.773
-2021,percentage,,,lower saxony,code03,47.852
-2022,percentage,,,lower saxony,code03,49.115
-2023,percentage,,,lower saxony,code03,53.616
-2005,percentage,,,lower saxony,code03,32.058
-2006,percentage,,,lower saxony,code03,31.721
-2007,percentage,,,lower saxony,code03,32.983
-2008,percentage,,,lower saxony,code03,34.019
-2009,percentage,,,lower saxony,code03,35.555
-2010,percentage,,female,lower saxony,code03,37.49
-2011,percentage,,female,lower saxony,code03,39.557
-2012,percentage,,female,lower saxony,code03,40.541
-2013,percentage,,female,lower saxony,code03,38.771
-2014,percentage,,female,lower saxony,code03,42.278
-2015,percentage,,female,lower saxony,code03,46.252
-2016,percentage,,female,lower saxony,code03,44.533
-2017,percentage,,female,lower saxony,code03,45.786
-2018,percentage,,female,lower saxony,code03,48.456
-2019,percentage,,female,lower saxony,code03,48.978
-2020,percentage,,female,lower saxony,code03,52.709
-2021,percentage,,female,lower saxony,code03,51.993
-2022,percentage,,female,lower saxony,code03,52.357
-2023,percentage,,female,lower saxony,code03,57.502
-2005,percentage,,female,lower saxony,code03,29.536
-2006,percentage,,female,lower saxony,code03,29.946
-2007,percentage,,female,lower saxony,code03,30.943
-2008,percentage,,female,lower saxony,code03,33.098
-2009,percentage,,female,lower saxony,code03,36.193
-2010,percentage,,male,lower saxony,code03,34.885
-2011,percentage,,male,lower saxony,code03,35.387
-2012,percentage,,male,lower saxony,code03,35.7
-2013,percentage,,male,lower saxony,code03,37.024
-2014,percentage,,male,lower saxony,code03,37.941
-2015,percentage,,male,lower saxony,code03,40.11
-2016,percentage,,male,lower saxony,code03,38.445
-2017,percentage,,male,lower saxony,code03,39.425
-2018,percentage,,male,lower saxony,code03,39.666
-2019,percentage,,male,lower saxony,code03,40.618
-2020,percentage,,male,lower saxony,code03,43.017
-2021,percentage,,male,lower saxony,code03,43.971
-2022,percentage,,male,lower saxony,code03,46.025
-2023,percentage,,male,lower saxony,code03,49.855
-2005,percentage,,male,lower saxony,code03,34.551
-2006,percentage,,male,lower saxony,code03,33.505
-2007,percentage,,male,lower saxony,code03,35.072
-2008,percentage,,male,lower saxony,code03,34.922
-2009,percentage,,male,lower saxony,code03,34.938
-2010,percentage,,,north rhine-westphalia,code05,41.293
-2011,percentage,,,north rhine-westphalia,code05,42.014
-2012,percentage,,,north rhine-westphalia,code05,44.352
-2013,percentage,,,north rhine-westphalia,code05,45.022
-2014,percentage,,,north rhine-westphalia,code05,47.837
-2015,percentage,,,north rhine-westphalia,code05,48.708
-2016,percentage,,,north rhine-westphalia,code05,50.251
-2017,percentage,,,north rhine-westphalia,code05,50.965
-2018,percentage,,,north rhine-westphalia,code05,50.432
-2019,percentage,,,north rhine-westphalia,code05,50.876
-2020,percentage,,,north rhine-westphalia,code05,54.558
-2021,percentage,,,north rhine-westphalia,code05,54.199
-2022,percentage,,,north rhine-westphalia,code05,53.555
-2023,percentage,,,north rhine-westphalia,code05,57.182
-2005,percentage,,,north rhine-westphalia,code05,36.964
-2006,percentage,,,north rhine-westphalia,code05,37.839
-2007,percentage,,,north rhine-westphalia,code05,38.718
-2008,percentage,,,north rhine-westphalia,code05,40.871
-2009,percentage,,,north rhine-westphalia,code05,41.718
-2010,percentage,,female,north rhine-westphalia,code05,42.117
-2011,percentage,,female,north rhine-westphalia,code05,43.755
-2012,percentage,,female,north rhine-westphalia,code05,46.777
-2013,percentage,,female,north rhine-westphalia,code05,47.394
-2014,percentage,,female,north rhine-westphalia,code05,50.762
-2015,percentage,,female,north rhine-westphalia,code05,52.563
-2016,percentage,,female,north rhine-westphalia,code05,54.162
-2017,percentage,,female,north rhine-westphalia,code05,54.479
-2018,percentage,,female,north rhine-westphalia,code05,55.026
-2019,percentage,,female,north rhine-westphalia,code05,55.289
-2020,percentage,,female,north rhine-westphalia,code05,60.36
-2021,percentage,,female,north rhine-westphalia,code05,57.824
-2022,percentage,,female,north rhine-westphalia,code05,58.021
-2023,percentage,,female,north rhine-westphalia,code05,61.781
-2005,percentage,,female,north rhine-westphalia,code05,36.443
-2006,percentage,,female,north rhine-westphalia,code05,38.012
-2007,percentage,,female,north rhine-westphalia,code05,38.428
-2008,percentage,,female,north rhine-westphalia,code05,41.468
-2009,percentage,,female,north rhine-westphalia,code05,42.575
-2010,percentage,,male,north rhine-westphalia,code05,40.478
-2011,percentage,,male,north rhine-westphalia,code05,40.299
-2012,percentage,,male,north rhine-westphalia,code05,41.997
-2013,percentage,,male,north rhine-westphalia,code05,42.638
-2014,percentage,,male,north rhine-westphalia,code05,44.795
-2015,percentage,,male,north rhine-westphalia,code05,44.757
-2016,percentage,,male,north rhine-westphalia,code05,46.302
-2017,percentage,,male,north rhine-westphalia,code05,47.513
-2018,percentage,,male,north rhine-westphalia,code05,45.945
-2019,percentage,,male,north rhine-westphalia,code05,46.65
-2020,percentage,,male,north rhine-westphalia,code05,48.942
-2021,percentage,,male,north rhine-westphalia,code05,50.732
-2022,percentage,,male,north rhine-westphalia,code05,49.274
-2023,percentage,,male,north rhine-westphalia,code05,52.801
-2005,percentage,,male,north rhine-westphalia,code05,37.481
-2006,percentage,,male,north rhine-westphalia,code05,37.668
-2007,percentage,,male,north rhine-westphalia,code05,39.003
-2008,percentage,,male,north rhine-westphalia,code05,40.274
-2009,percentage,,male,north rhine-westphalia,code05,40.845
-2010,percentage,,,rhineland palatinate,code07,38.488
-2011,percentage,,,rhineland palatinate,code07,39.962
-2012,percentage,,,rhineland palatinate,code07,42.26
-2013,percentage,,,rhineland palatinate,code07,41.899
-2014,percentage,,,rhineland palatinate,code07,43.672
-2015,percentage,,,rhineland palatinate,code07,42.583
-2016,percentage,,,rhineland palatinate,code07,44.232
-2017,percentage,,,rhineland palatinate,code07,44.041
-2018,percentage,,,rhineland palatinate,code07,44.52
-2019,percentage,,,rhineland palatinate,code07,48.132
-2020,percentage,,,rhineland palatinate,code07,49.737
-2021,percentage,,,rhineland palatinate,code07,48.91
-2022,percentage,,,rhineland palatinate,code07,49.839
-2023,percentage,,,rhineland palatinate,code07,53.04
-2005,percentage,,,rhineland palatinate,code07,30.417
-2006,percentage,,,rhineland palatinate,code07,31.903
-2007,percentage,,,rhineland palatinate,code07,32.928
-2008,percentage,,,rhineland palatinate,code07,35.283
-2009,percentage,,,rhineland palatinate,code07,36.669
-2010,percentage,,female,rhineland palatinate,code07,37.007
-2011,percentage,,female,rhineland palatinate,code07,40.919
-2012,percentage,,female,rhineland palatinate,code07,42.304
-2013,percentage,,female,rhineland palatinate,code07,42.15
-2014,percentage,,female,rhineland palatinate,code07,45.628
-2015,percentage,,female,rhineland palatinate,code07,44.601
-2016,percentage,,female,rhineland palatinate,code07,46.604
-2017,percentage,,female,rhineland palatinate,code07,47.892
-2018,percentage,,female,rhineland palatinate,code07,46.58
-2019,percentage,,female,rhineland palatinate,code07,51.172
-2020,percentage,,female,rhineland palatinate,code07,53.188
-2021,percentage,,female,rhineland palatinate,code07,51.96
-2022,percentage,,female,rhineland palatinate,code07,53.002
-2023,percentage,,female,rhineland palatinate,code07,55.37
-2005,percentage,,female,rhineland palatinate,code07,26.574
-2006,percentage,,female,rhineland palatinate,code07,29.304
-2007,percentage,,female,rhineland palatinate,code07,31.826
-2008,percentage,,female,rhineland palatinate,code07,35.112
-2009,percentage,,female,rhineland palatinate,code07,36.994
-2010,percentage,,male,rhineland palatinate,code07,40.121
-2011,percentage,,male,rhineland palatinate,code07,38.951
-2012,percentage,,male,rhineland palatinate,code07,42.203
-2013,percentage,,male,rhineland palatinate,code07,41.659
-2014,percentage,,male,rhineland palatinate,code07,41.632
-2015,percentage,,male,rhineland palatinate,code07,40.644
-2016,percentage,,male,rhineland palatinate,code07,41.923
-2017,percentage,,male,rhineland palatinate,code07,40.268
-2018,percentage,,male,rhineland palatinate,code07,42.472
-2019,percentage,,male,rhineland palatinate,code07,45.228
-2020,percentage,,male,rhineland palatinate,code07,46.338
-2021,percentage,,male,rhineland palatinate,code07,46.084
-2022,percentage,,male,rhineland palatinate,code07,46.776
-2023,percentage,,male,rhineland palatinate,code07,50.815
-2005,percentage,,male,rhineland palatinate,code07,34.607
-2006,percentage,,male,rhineland palatinate,code07,34.728
-2007,percentage,,male,rhineland palatinate,code07,34.014
-2008,percentage,,male,rhineland palatinate,code07,35.456
-2009,percentage,,male,rhineland palatinate,code07,36.32
-2010,percentage,,,saarland,code10,32.859
-2011,percentage,,,saarland,code10,34.783
-2012,percentage,,,saarland,code10,38.257
-2013,percentage,,,saarland,code10,35.694
-2014,percentage,,,saarland,code10,35.753
-2015,percentage,,,saarland,code10,40.201
-2016,percentage,,,saarland,code10,41.396
-2017,percentage,,,saarland,code10,39.696
-2018,percentage,,,saarland,code10,44.468
-2019,percentage,,,saarland,code10,47.733
-2020,percentage,,,saarland,code10,55.251
-2021,percentage,,,saarland,code10,51.872
-2022,percentage,,,saarland,code10,50.554
-2023,percentage,,,saarland,code10,50.417
-2005,percentage,,,saarland,code10,32.673
-2006,percentage,,,saarland,code10,35.007
-2007,percentage,,,saarland,code10,32.395
-2008,percentage,,,saarland,code10,36.201
-2009,percentage,,,saarland,code10,37.232
-2010,percentage,,female,saarland,code10,36.76
-2011,percentage,,female,saarland,code10,38.665
-2012,percentage,,female,saarland,code10,42.193
-2013,percentage,,female,saarland,code10,39.873
-2014,percentage,,female,saarland,code10,35.754
-2015,percentage,,female,saarland,code10,41.255
-2016,percentage,,female,saarland,code10,37.913
-2017,percentage,,female,saarland,code10,40.066
-2018,percentage,,female,saarland,code10,49.159
-2019,percentage,,female,saarland,code10,54.215
-2020,percentage,,female,saarland,code10,66.671
-2021,percentage,,female,saarland,code10,55.619
-2022,percentage,,female,saarland,code10,55.517
-2023,percentage,,female,saarland,code10,55.242
-2005,percentage,,female,saarland,code10,32.814
-2006,percentage,,female,saarland,code10,34.97
-2007,percentage,,female,saarland,code10,33.02
-2008,percentage,,female,saarland,code10,37.247
-2009,percentage,,female,saarland,code10,40.175
-2010,percentage,,male,saarland,code10,28.772
-2011,percentage,,male,saarland,code10,30.839
-2012,percentage,,male,saarland,code10,34.733
-2013,percentage,,male,saarland,code10,32.34
-2014,percentage,,male,saarland,code10,35.774
-2015,percentage,,male,saarland,code10,39.245
-2016,percentage,,male,saarland,code10,44.365
-2017,percentage,,male,saarland,code10,39.374
-2018,percentage,,male,saarland,code10,40.597
-2019,percentage,,male,saarland,code10,41.476
-2020,percentage,,male,saarland,code10,43.5
-2021,percentage,,male,saarland,code10,48.514
-2022,percentage,,male,saarland,code10,45.484
-2023,percentage,,male,saarland,code10,45.91
-2005,percentage,,male,saarland,code10,32.494
-2006,percentage,,male,saarland,code10,35.005
-2007,percentage,,male,saarland,code10,31.656
-2008,percentage,,male,saarland,code10,35.063
-2009,percentage,,male,saarland,code10,34.162
-2010,percentage,,,saxony,code14,46.36
-2011,percentage,,,saxony,code14,44.031
-2012,percentage,,,saxony,code14,42.673
-2013,percentage,,,saxony,code14,45.802
-2014,percentage,,,saxony,code14,46.177
-2015,percentage,,,saxony,code14,48.273
-2016,percentage,,,saxony,code14,46.221
-2017,percentage,,,saxony,code14,47.941
-2018,percentage,,,saxony,code14,49.148
-2019,percentage,,,saxony,code14,50.696
-2020,percentage,,,saxony,code14,50.961
-2021,percentage,,,saxony,code14,52.873
-2022,percentage,,,saxony,code14,54.831
-2023,percentage,,,saxony,code14,55.116
-2005,percentage,,,saxony,code14,37.891
-2006,percentage,,,saxony,code14,40.594
-2007,percentage,,,saxony,code14,44.325
-2008,percentage,,,saxony,code14,44.41
-2009,percentage,,,saxony,code14,46.019
-2010,percentage,,female,saxony,code14,54.98
-2011,percentage,,female,saxony,code14,53.073
-2012,percentage,,female,saxony,code14,50.538
-2013,percentage,,female,saxony,code14,55.404
-2014,percentage,,female,saxony,code14,54.31
-2015,percentage,,female,saxony,code14,56.29
-2016,percentage,,female,saxony,code14,54.852
-2017,percentage,,female,saxony,code14,56.794
-2018,percentage,,female,saxony,code14,57.312
-2019,percentage,,female,saxony,code14,59.714
-2020,percentage,,female,saxony,code14,58.286
-2021,percentage,,female,saxony,code14,59.487
-2022,percentage,,female,saxony,code14,62.528
-2023,percentage,,female,saxony,code14,62.817
-2005,percentage,,female,saxony,code14,42.11
-2006,percentage,,female,saxony,code14,48.179
-2007,percentage,,female,saxony,code14,52.442
-2008,percentage,,female,saxony,code14,52.404
-2009,percentage,,female,saxony,code14,55.446
-2010,percentage,,male,saxony,code14,38.611
-2011,percentage,,male,saxony,code14,36.216
-2012,percentage,,male,saxony,code14,35.996
-2013,percentage,,male,saxony,code14,37.767
-2014,percentage,,male,saxony,code14,39.06
-2015,percentage,,male,saxony,code14,41.035
-2016,percentage,,male,saxony,code14,38.415
-2017,percentage,,male,saxony,code14,39.792
-2018,percentage,,male,saxony,code14,41.556
-2019,percentage,,male,saxony,code14,41.69
-2020,percentage,,male,saxony,code14,43.812
-2021,percentage,,male,saxony,code14,46.659
-2022,percentage,,male,saxony,code14,47.728
-2023,percentage,,male,saxony,code14,47.761
-2005,percentage,,male,saxony,code14,34.289
-2006,percentage,,male,saxony,code14,34.049
-2007,percentage,,male,saxony,code14,37.29
-2008,percentage,,male,saxony,code14,37.805
-2009,percentage,,male,saxony,code14,37.79
-2010,percentage,,,saxony-anhalt,code15,32.162
-2011,percentage,,,saxony-anhalt,code15,31.441
-2012,percentage,,,saxony-anhalt,code15,30.9
-2013,percentage,,,saxony-anhalt,code15,30.624
-2014,percentage,,,saxony-anhalt,code15,32.348
-2015,percentage,,,saxony-anhalt,code15,34.211
-2016,percentage,,,saxony-anhalt,code15,33.406
-2017,percentage,,,saxony-anhalt,code15,35.575
-2018,percentage,,,saxony-anhalt,code15,38.136
-2019,percentage,,,saxony-anhalt,code15,36.378
-2020,percentage,,,saxony-anhalt,code15,39.675
-2021,percentage,,,saxony-anhalt,code15,41.607
-2022,percentage,,,saxony-anhalt,code15,43.367
-2023,percentage,,,saxony-anhalt,code15,43.501
-2005,percentage,,,saxony-anhalt,code15,27.938
-2006,percentage,,,saxony-anhalt,code15,28.391
-2007,percentage,,,saxony-anhalt,code15,27.008
-2008,percentage,,,saxony-anhalt,code15,30.33
-2009,percentage,,,saxony-anhalt,code15,32.299
-2010,percentage,,female,saxony-anhalt,code15,37.129
-2011,percentage,,female,saxony-anhalt,code15,37.218
-2012,percentage,,female,saxony-anhalt,code15,36.312
-2013,percentage,,female,saxony-anhalt,code15,36.466
-2014,percentage,,female,saxony-anhalt,code15,38.901
-2015,percentage,,female,saxony-anhalt,code15,39.839
-2016,percentage,,female,saxony-anhalt,code15,41.477
-2017,percentage,,female,saxony-anhalt,code15,41.127
-2018,percentage,,female,saxony-anhalt,code15,43.569
-2019,percentage,,female,saxony-anhalt,code15,41.099
-2020,percentage,,female,saxony-anhalt,code15,49.659
-2021,percentage,,female,saxony-anhalt,code15,50.665
-2022,percentage,,female,saxony-anhalt,code15,51.305
-2023,percentage,,female,saxony-anhalt,code15,50.75
-2005,percentage,,female,saxony-anhalt,code15,31.213
-2006,percentage,,female,saxony-anhalt,code15,32.102
-2007,percentage,,female,saxony-anhalt,code15,34.167
-2008,percentage,,female,saxony-anhalt,code15,36.559
-2009,percentage,,female,saxony-anhalt,code15,36.875
-2010,percentage,,male,saxony-anhalt,code15,27.529
-2011,percentage,,male,saxony-anhalt,code15,26.228
-2012,percentage,,male,saxony-anhalt,code15,25.92
-2013,percentage,,male,saxony-anhalt,code15,25.562
-2014,percentage,,male,saxony-anhalt,code15,26.457
-2015,percentage,,male,saxony-anhalt,code15,29.624
-2016,percentage,,male,saxony-anhalt,code15,26.434
-2017,percentage,,male,saxony-anhalt,code15,30.478
-2018,percentage,,male,saxony-anhalt,code15,32.629
-2019,percentage,,male,saxony-anhalt,code15,32.142
-2020,percentage,,male,saxony-anhalt,code15,30.554
-2021,percentage,,male,saxony-anhalt,code15,33.261
-2022,percentage,,male,saxony-anhalt,code15,36.279
-2023,percentage,,male,saxony-anhalt,code15,36.785
-2005,percentage,,male,saxony-anhalt,code15,25.223
-2006,percentage,,male,saxony-anhalt,code15,24.949
-2007,percentage,,male,saxony-anhalt,code15,20.758
-2008,percentage,,male,saxony-anhalt,code15,24.701
-2009,percentage,,male,saxony-anhalt,code15,27.922
-2010,percentage,,,schleswig-holstein,code01,35.779
-2011,percentage,,,schleswig-holstein,code01,40.395
-2012,percentage,,,schleswig-holstein,code01,37.279
-2013,percentage,,,schleswig-holstein,code01,38.185
-2014,percentage,,,schleswig-holstein,code01,38.887
-2015,percentage,,,schleswig-holstein,code01,39.661
-2016,percentage,,,schleswig-holstein,code01,40.057
-2017,percentage,,,schleswig-holstein,code01,42.03
-2018,percentage,,,schleswig-holstein,code01,42.889
-2019,percentage,,,schleswig-holstein,code01,43.159
-2020,percentage,,,schleswig-holstein,code01,43.492
-2021,percentage,,,schleswig-holstein,code01,45.893
-2022,percentage,,,schleswig-holstein,code01,45.508
-2023,percentage,,,schleswig-holstein,code01,51.585
-2005,percentage,,,schleswig-holstein,code01,32.522
-2006,percentage,,,schleswig-holstein,code01,30.614
-2007,percentage,,,schleswig-holstein,code01,31.821
-2008,percentage,,,schleswig-holstein,code01,32.074
-2009,percentage,,,schleswig-holstein,code01,34.571
-2010,percentage,,female,schleswig-holstein,code01,36.664
-2011,percentage,,female,schleswig-holstein,code01,41.709
-2012,percentage,,female,schleswig-holstein,code01,39.199
-2013,percentage,,female,schleswig-holstein,code01,40.66
-2014,percentage,,female,schleswig-holstein,code01,40.683
-2015,percentage,,female,schleswig-holstein,code01,43.863
-2016,percentage,,female,schleswig-holstein,code01,42.871
-2017,percentage,,female,schleswig-holstein,code01,46.648
-2018,percentage,,female,schleswig-holstein,code01,48.486
-2019,percentage,,female,schleswig-holstein,code01,45.606
-2020,percentage,,female,schleswig-holstein,code01,47.986
-2021,percentage,,female,schleswig-holstein,code01,50.451
-2022,percentage,,female,schleswig-holstein,code01,51.465
-2023,percentage,,female,schleswig-holstein,code01,57.185
-2005,percentage,,female,schleswig-holstein,code01,32.061
-2006,percentage,,female,schleswig-holstein,code01,30.892
-2007,percentage,,female,schleswig-holstein,code01,31.164
-2008,percentage,,female,schleswig-holstein,code01,32.735
-2009,percentage,,female,schleswig-holstein,code01,35.757
-2010,percentage,,male,schleswig-holstein,code01,34.881
-2011,percentage,,male,schleswig-holstein,code01,39.019
-2012,percentage,,male,schleswig-holstein,code01,35.318
-2013,percentage,,male,schleswig-holstein,code01,35.435
-2014,percentage,,male,schleswig-holstein,code01,36.952
-2015,percentage,,male,schleswig-holstein,code01,35.491
-2016,percentage,,male,schleswig-holstein,code01,37.372
-2017,percentage,,male,schleswig-holstein,code01,37.522
-2018,percentage,,male,schleswig-holstein,code01,37.395
-2019,percentage,,male,schleswig-holstein,code01,40.827
-2020,percentage,,male,schleswig-holstein,code01,39.053
-2021,percentage,,male,schleswig-holstein,code01,41.606
-2022,percentage,,male,schleswig-holstein,code01,39.994
-2023,percentage,,male,schleswig-holstein,code01,46.303
-2005,percentage,,male,schleswig-holstein,code01,32.983
-2006,percentage,,male,schleswig-holstein,code01,30.334
-2007,percentage,,male,schleswig-holstein,code01,32.499
-2008,percentage,,male,schleswig-holstein,code01,31.347
-2009,percentage,,male,schleswig-holstein,code01,33.408
-2010,percentage,,,thuringia,code16,36.366
-2011,percentage,,,thuringia,code16,37.239
-2012,percentage,,,thuringia,code16,39.128
-2013,percentage,,,thuringia,code16,39.753
-2014,percentage,,,thuringia,code16,37.562
-2015,percentage,,,thuringia,code16,36.89
-2016,percentage,,,thuringia,code16,40.279
-2017,percentage,,,thuringia,code16,40.681
-2018,percentage,,,thuringia,code16,44.536
-2019,percentage,,,thuringia,code16,44.773
-2020,percentage,,,thuringia,code16,46.068
-2021,percentage,,,thuringia,code16,46.869
-2022,percentage,,,thuringia,code16,48.946
-2023,percentage,,,thuringia,code16,48.853
-2005,percentage,,,thuringia,code16,31.24
-2006,percentage,,,thuringia,code16,32.24
-2007,percentage,,,thuringia,code16,36.495
-2008,percentage,,,thuringia,code16,35.718
-2009,percentage,,,thuringia,code16,35.356
-2010,percentage,,female,thuringia,code16,42.954
-2011,percentage,,female,thuringia,code16,45.156
-2012,percentage,,female,thuringia,code16,46.336
-2013,percentage,,female,thuringia,code16,47.056
-2014,percentage,,female,thuringia,code16,44.548
-2015,percentage,,female,thuringia,code16,45.386
-2016,percentage,,female,thuringia,code16,47.965
-2017,percentage,,female,thuringia,code16,49.471
-2018,percentage,,female,thuringia,code16,51.644
-2019,percentage,,female,thuringia,code16,51.22
-2020,percentage,,female,thuringia,code16,48.544
-2021,percentage,,female,thuringia,code16,53.832
-2022,percentage,,female,thuringia,code16,53.893
-2023,percentage,,female,thuringia,code16,52.883
-2005,percentage,,female,thuringia,code16,33.837
-2006,percentage,,female,thuringia,code16,35.134
-2007,percentage,,female,thuringia,code16,40.816
-2008,percentage,,female,thuringia,code16,41.872
-2009,percentage,,female,thuringia,code16,42.476
-2010,percentage,,male,thuringia,code16,30.543
-2011,percentage,,male,thuringia,code16,29.904
-2012,percentage,,male,thuringia,code16,32.762
-2013,percentage,,male,thuringia,code16,32.984
-2014,percentage,,male,thuringia,code16,31.294
-2015,percentage,,male,thuringia,code16,29.867
-2016,percentage,,male,thuringia,code16,33.397
-2017,percentage,,male,thuringia,code16,32.923
-2018,percentage,,male,thuringia,code16,38.098
-2019,percentage,,male,thuringia,code16,38.895
-2020,percentage,,male,thuringia,code16,43.843
-2021,percentage,,male,thuringia,code16,40.774
-2022,percentage,,male,thuringia,code16,44.671
-2023,percentage,,male,thuringia,code16,45.236
-2005,percentage,,male,thuringia,code16,29.065
-2006,percentage,,male,thuringia,code16,29.747
-2007,percentage,,male,thuringia,code16,32.62
-2008,percentage,,male,thuringia,code16,30.442
-2009,percentage,,male,thuringia,code16,29.14
-1999,percentage,with tertiary qualification,,,,24.801
-2010,percentage,with tertiary qualification,,,,29.77
-2011,percentage,with tertiary qualification,,,,30.677
-2012,percentage,with tertiary qualification,,,,31.898
-2013,percentage,with tertiary qualification,,,,33.082
-2014,percentage,with tertiary qualification,,,,31.364
-2015,percentage,with tertiary qualification,,,,32.255
-2016,percentage,with tertiary qualification,,,,33.1
-2017,percentage,with tertiary qualification,,,,33.999
-2018,percentage,with tertiary qualification,,,,34.926
-2019,percentage,with tertiary qualification,,,,35.5
-2020,percentage,with tertiary qualification,,,,36.6
-2021,percentage,with tertiary qualification,,,,37.8
-2022,percentage,with tertiary qualification,,,,39.075
-2023,percentage,with tertiary qualification,,,,41.071
-2000,percentage,with tertiary qualification,,,,25.331
-2001,percentage,with tertiary qualification,,,,25.052
-2002,percentage,with tertiary qualification,,,,25.071
-2003,percentage,with tertiary qualification,,,,25.045
-2004,percentage,with tertiary qualification,,,,26.757
-2005,percentage,with tertiary qualification,,,,26.065
-2006,percentage,with tertiary qualification,,,,25.845
-2007,percentage,with tertiary qualification,,,,26.498
-2008,percentage,with tertiary qualification,,,,27.604
-2009,percentage,with tertiary qualification,,,,29.37
-2030,percentage,with tertiary qualification,,,,
-1999,percentage,with tertiary qualification,female,,,21.358
-2010,percentage,with tertiary qualification,female,,,29.658
-2011,percentage,with tertiary qualification,female,,,31.528
-2012,percentage,with tertiary qualification,female,,,32.87
-2013,percentage,with tertiary qualification,female,,,34.0
-2014,percentage,with tertiary qualification,female,,,30.804
-2015,percentage,with tertiary qualification,female,,,32.321
-2016,percentage,with tertiary qualification,female,,,32.9
-2017,percentage,with tertiary qualification,female,,,34.191
-2018,percentage,with tertiary qualification,female,,,35.335
-2019,percentage,with tertiary qualification,female,,,36.0
-2020,percentage,with tertiary qualification,female,,,37.3
-2021,percentage,with tertiary qualification,female,,,38.6
-2022,percentage,with tertiary qualification,female,,,40.098
-2023,percentage,with tertiary qualification,female,,,41.854
-2000,percentage,with tertiary qualification,female,,,21.778
-2001,percentage,with tertiary qualification,female,,,21.688
-2002,percentage,with tertiary qualification,female,,,22.091
-2003,percentage,with tertiary qualification,female,,,22.511
-2004,percentage,with tertiary qualification,female,,,24.258
-2005,percentage,with tertiary qualification,female,,,24.128
-2006,percentage,with tertiary qualification,female,,,24.415
-2007,percentage,with tertiary qualification,female,,,25.663
-2008,percentage,with tertiary qualification,female,,,26.974
-2009,percentage,with tertiary qualification,female,,,29.178
-1999,percentage,with tertiary qualification,male,,,28.072
-2010,percentage,with tertiary qualification,male,,,29.879
-2011,percentage,with tertiary qualification,male,,,29.843
-2012,percentage,with tertiary qualification,male,,,30.946
-2013,percentage,with tertiary qualification,male,,,32.178
-2014,percentage,with tertiary qualification,male,,,31.922
-2015,percentage,with tertiary qualification,male,,,32.19
-2016,percentage,with tertiary qualification,male,,,33.3
-2017,percentage,with tertiary qualification,male,,,33.816
-2018,percentage,with tertiary qualification,male,,,34.535
-2019,percentage,with tertiary qualification,male,,,35.1
-2020,percentage,with tertiary qualification,male,,,36.0
-2021,percentage,with tertiary qualification,male,,,37.0
-2022,percentage,with tertiary qualification,male,,,38.11
-2023,percentage,with tertiary qualification,male,,,40.331
-2000,percentage,with tertiary qualification,male,,,28.762
-2001,percentage,with tertiary qualification,male,,,28.33
-2002,percentage,with tertiary qualification,male,,,27.933
-2003,percentage,with tertiary qualification,male,,,27.431
-2004,percentage,with tertiary qualification,male,,,29.151
-2005,percentage,with tertiary qualification,male,,,27.957
-2006,percentage,with tertiary qualification,male,,,27.247
-2007,percentage,with tertiary qualification,male,,,27.31
-2008,percentage,with tertiary qualification,male,,,28.226
-2009,percentage,with tertiary qualification,male,,,29.56
-1999,percentage,with post-secondary non-tertiary qualification,,,,8.55
-2010,percentage,with post-secondary non-tertiary qualification,,,,11.545
-2011,percentage,with post-secondary non-tertiary qualification,,,,11.548
-2012,percentage,with post-secondary non-tertiary qualification,,,,11.535
-2013,percentage,with post-secondary non-tertiary qualification,,,,11.4
-2014,percentage,with post-secondary non-tertiary qualification,,,,14.306
-2015,percentage,with post-secondary non-tertiary qualification,,,,14.515
-2016,percentage,with post-secondary non-tertiary qualification,,,,14.779
-2017,percentage,with post-secondary non-tertiary qualification,,,,14.836
-2018,percentage,with post-secondary non-tertiary qualification,,,,14.907
-2019,percentage,with post-secondary non-tertiary qualification,,,,14.988
-2020,percentage,with post-secondary non-tertiary qualification,,,,15.7
-2021,percentage,with post-secondary non-tertiary qualification,,,,15.438
-2022,percentage,with post-secondary non-tertiary qualification,,,,14.325
-2023,percentage,with post-secondary non-tertiary qualification,,,,15.256
-2000,percentage,with post-secondary non-tertiary qualification,,,,7.666
-2001,percentage,with post-secondary non-tertiary qualification,,,,8.119
-2002,percentage,with post-secondary non-tertiary qualification,,,,8.206
-2003,percentage,with post-secondary non-tertiary qualification,,,,8.847
-2004,percentage,with post-secondary non-tertiary qualification,,,,9.463
-2005,percentage,with post-secondary non-tertiary qualification,,,,9.923
-2006,percentage,with post-secondary non-tertiary qualification,,,,10.655
-2007,percentage,with post-secondary non-tertiary qualification,,,,11.135
-2008,percentage,with post-secondary non-tertiary qualification,,,,11.162
-2009,percentage,with post-secondary non-tertiary qualification,,,,11.343
-2030,percentage,with post-secondary non-tertiary qualification,,,,
-1999,percentage,with post-secondary non-tertiary qualification,female,,,10.031
-2010,percentage,with post-secondary non-tertiary qualification,female,,,13.02
-2011,percentage,with post-secondary non-tertiary qualification,female,,,12.891
-2012,percentage,with post-secondary non-tertiary qualification,female,,,13.171
-2013,percentage,with post-secondary non-tertiary qualification,female,,,12.803
-2014,percentage,with post-secondary non-tertiary qualification,female,,,17.611
-2015,percentage,with post-secondary non-tertiary qualification,female,,,18.2
-2016,percentage,with post-secondary non-tertiary qualification,female,,,18.395
-2017,percentage,with post-secondary non-tertiary qualification,female,,,18.449
-2018,percentage,with post-secondary non-tertiary qualification,female,,,18.492
-2019,percentage,with post-secondary non-tertiary qualification,female,,,18.411
-2020,percentage,with post-secondary non-tertiary qualification,female,,,19.328
-2021,percentage,with post-secondary non-tertiary qualification,female,,,18.558
-2022,percentage,with post-secondary non-tertiary qualification,female,,,17.255
-2023,percentage,with post-secondary non-tertiary qualification,female,,,18.39
-2000,percentage,with post-secondary non-tertiary qualification,female,,,9.102
-2001,percentage,with post-secondary non-tertiary qualification,female,,,9.4
-2002,percentage,with post-secondary non-tertiary qualification,female,,,9.159
-2003,percentage,with post-secondary non-tertiary qualification,female,,,9.683
-2004,percentage,with post-secondary non-tertiary qualification,female,,,10.394
-2005,percentage,with post-secondary non-tertiary qualification,female,,,10.873
-2006,percentage,with post-secondary non-tertiary qualification,female,,,12.066
-2007,percentage,with post-secondary non-tertiary qualification,female,,,12.363
-2008,percentage,with post-secondary non-tertiary qualification,female,,,12.711
-2009,percentage,with post-secondary non-tertiary qualification,female,,,13.032
-1999,percentage,with post-secondary non-tertiary qualification,male,,,7.144
-2010,percentage,with post-secondary non-tertiary qualification,male,,,10.095
-2011,percentage,with post-secondary non-tertiary qualification,male,,,10.23
-2012,percentage,with post-secondary non-tertiary qualification,male,,,9.935
-2013,percentage,with post-secondary non-tertiary qualification,male,,,10.018
-2014,percentage,with post-secondary non-tertiary qualification,male,,,11.015
-2015,percentage,with post-secondary non-tertiary qualification,male,,,10.919
-2016,percentage,with post-secondary non-tertiary qualification,male,,,11.274
-2017,percentage,with post-secondary non-tertiary qualification,male,,,11.372
-2018,percentage,with post-secondary non-tertiary qualification,male,,,11.485
-2019,percentage,with post-secondary non-tertiary qualification,male,,,11.664
-2020,percentage,with post-secondary non-tertiary qualification,male,,,12.261
-2021,percentage,with post-secondary non-tertiary qualification,male,,,12.553
-2022,percentage,with post-secondary non-tertiary qualification,male,,,11.556
-2023,percentage,with post-secondary non-tertiary qualification,male,,,12.285
-2000,percentage,with post-secondary non-tertiary qualification,male,,,6.283
-2001,percentage,with post-secondary non-tertiary qualification,male,,,6.869
-2002,percentage,with post-secondary non-tertiary qualification,male,,,7.29
-2003,percentage,with post-secondary non-tertiary qualification,male,,,8.062
-2004,percentage,with post-secondary non-tertiary qualification,male,,,8.571
-2005,percentage,with post-secondary non-tertiary qualification,male,,,8.995
-2006,percentage,with post-secondary non-tertiary qualification,male,,,9.273
-2007,percentage,with post-secondary non-tertiary qualification,male,,,9.941
-2008,percentage,with post-secondary non-tertiary qualification,male,,,9.633
-2009,percentage,with post-secondary non-tertiary qualification,male,,,9.674
+Year,Units,time series,qualification,sex,Value
+1999,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,33.351
+2010,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,41.37
+2011,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,42.263
+2012,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,43.464
+2013,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,44.518
+2014,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,45.734
+2015,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,46.839
+2016,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,47.908
+2017,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,48.835
+2018,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,49.833
+2019,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,50.488
+2020,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,52.285
+2021,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,53.555
+2022,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,53.4
+2023,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,56.327
+2000,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,32.997
+2001,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,33.172
+2002,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,33.277
+2003,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,33.948
+2004,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,36.221
+2005,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,36.0
+2006,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,36.504
+2007,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,37.638
+2008,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,38.866
+2009,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,40.802
+2030,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,,
+1999,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,31.358
+2010,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,42.746
+2011,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,44.361
+2012,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,45.984
+2013,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,46.843
+2014,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,48.374
+2015,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,50.493
+2016,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,51.329
+2017,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,52.64
+2018,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,53.827
+2019,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,54.411
+2020,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,56.649
+2021,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,57.167
+2022,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,57.353
+2023,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,60.244
+2000,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,30.88
+2001,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,31.088
+2002,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,31.291
+2003,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,32.233
+2004,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,34.654
+2005,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,34.992
+2006,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,36.482
+2007,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,38.032
+2008,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,39.689
+2009,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,female,42.199
+1999,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,35.172
+2010,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,40.016
+2011,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,40.109
+2012,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,40.903
+2013,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,42.229
+2014,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,42.906
+2015,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,43.075
+2016,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,44.598
+2017,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,45.188
+2018,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,46.02
+2019,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,46.764
+2020,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,48.319
+2021,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,49.586
+2022,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,49.666
+2023,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,52.616
+2000,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,35.042
+2001,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,35.23
+2002,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,35.233
+2003,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,35.467
+2004,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,37.722
+2005,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,36.975
+2006,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,36.526
+2007,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,37.256
+2008,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,37.854
+2009,percentage,xxxakademisch qualifizierte und beruflich höherqualifizierte,,male,39.223
+1999,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,8.55
+2010,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,11.56
+2011,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,11.558
+2012,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,11.543
+2013,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,11.409
+2014,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,14.326
+2015,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,14.536
+2016,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,14.797
+2017,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,14.836
+2018,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,14.907
+2019,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,14.973
+2020,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,15.756
+2021,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,14.546
+2022,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,14.325
+2023,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,15.255
+2000,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,7.666
+2001,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,8.12
+2002,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,8.206
+2003,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,8.873
+2004,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,9.464
+2005,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,9.929
+2006,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,10.656
+2007,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,11.136
+2008,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,11.191
+2009,percentage,,"xxxzweitausbildung, ausbildung nach abitur",,11.368
+1999,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,
+2010,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,13.04
+2011,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,12.903
+2012,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,13.183
+2013,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,12.814
+2014,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,17.633
+2015,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,18.226
+2016,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,18.417
+2017,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,18.449
+2018,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,18.492
+2019,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,18.438
+2020,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,19.419
+2021,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,17.977
+2022,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,17.255
+2023,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,18.391
+2000,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,9.1
+2001,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,
+2002,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,
+2003,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,9.703
+2004,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,10.396
+2005,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,10.87
+2006,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,12.066
+2007,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,12.365
+2008,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,12.744
+2009,percentage,,"xxxzweitausbildung, ausbildung nach abitur",female,13.059
+1999,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,
+2010,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,10.105
+2011,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,10.239
+2012,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,9.94
+2013,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,10.026
+2014,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,11.033
+2015,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,10.935
+2016,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,11.297
+2017,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,11.372
+2018,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,11.485
+2019,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,11.683
+2020,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,12.264
+2021,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,11.335
+2022,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,11.556
+2023,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,12.285
+2000,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,6.282
+2001,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,
+2002,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,
+2003,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,8.088
+2004,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,8.572
+2005,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,9.018
+2006,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,9.274
+2007,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,9.942
+2008,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,9.657
+2009,percentage,,"xxxzweitausbildung, ausbildung nach abitur",male,9.695
+1999,percentage,,xxxhöherqualifizierende berufsausbildung,,10.043
+2010,percentage,,xxxhöherqualifizierende berufsausbildung,,7.965
+2011,percentage,,xxxhöherqualifizierende berufsausbildung,,9.987
+2012,percentage,,xxxhöherqualifizierende berufsausbildung,,10.0
+2013,percentage,,xxxhöherqualifizierende berufsausbildung,,9.449
+2014,percentage,,xxxhöherqualifizierende berufsausbildung,,4.846
+2015,percentage,,xxxhöherqualifizierende berufsausbildung,,4.99
+2016,percentage,,xxxhöherqualifizierende berufsausbildung,,4.982
+2017,percentage,,xxxhöherqualifizierende berufsausbildung,,5.384
+2018,percentage,,xxxhöherqualifizierende berufsausbildung,,5.502
+2019,percentage,,xxxhöherqualifizierende berufsausbildung,,5.442
+2020,percentage,,xxxhöherqualifizierende berufsausbildung,,6.478
+2021,percentage,,xxxhöherqualifizierende berufsausbildung,,7.246
+2022,percentage,,xxxhöherqualifizierende berufsausbildung,,7.306
+2023,percentage,,xxxhöherqualifizierende berufsausbildung,,6.986
+2000,percentage,,xxxhöherqualifizierende berufsausbildung,,10.298
+2001,percentage,,xxxhöherqualifizierende berufsausbildung,,9.434
+2002,percentage,,xxxhöherqualifizierende berufsausbildung,,9.594
+2003,percentage,,xxxhöherqualifizierende berufsausbildung,,8.973
+2004,percentage,,xxxhöherqualifizierende berufsausbildung,,9.322
+2005,percentage,,xxxhöherqualifizierende berufsausbildung,,8.395
+2006,percentage,,xxxhöherqualifizierende berufsausbildung,,7.852
+2007,percentage,,xxxhöherqualifizierende berufsausbildung,,7.318
+2008,percentage,,xxxhöherqualifizierende berufsausbildung,,7.331
+2009,percentage,,xxxhöherqualifizierende berufsausbildung,,7.447
+1999,percentage,,xxxhöherqualifizierende berufsausbildung,female,
+2010,percentage,,xxxhöherqualifizierende berufsausbildung,female,7.551
+2011,percentage,,xxxhöherqualifizierende berufsausbildung,female,10.477
+2012,percentage,,xxxhöherqualifizierende berufsausbildung,female,10.372
+2013,percentage,,xxxhöherqualifizierende berufsausbildung,female,9.931
+2014,percentage,,xxxhöherqualifizierende berufsausbildung,female,3.468
+2015,percentage,,xxxhöherqualifizierende berufsausbildung,female,3.678
+2016,percentage,,xxxhöherqualifizierende berufsausbildung,female,3.726
+2017,percentage,,xxxhöherqualifizierende berufsausbildung,female,3.955
+2018,percentage,,xxxhöherqualifizierende berufsausbildung,female,4.282
+2019,percentage,,xxxhöherqualifizierende berufsausbildung,female,4.016
+2020,percentage,,xxxhöherqualifizierende berufsausbildung,female,5.214
+2021,percentage,,xxxhöherqualifizierende berufsausbildung,female,5.661
+2022,percentage,,xxxhöherqualifizierende berufsausbildung,female,5.645
+2023,percentage,,xxxhöherqualifizierende berufsausbildung,female,5.362
+2000,percentage,,xxxhöherqualifizierende berufsausbildung,female,9.033
+2001,percentage,,xxxhöherqualifizierende berufsausbildung,female,
+2002,percentage,,xxxhöherqualifizierende berufsausbildung,female,
+2003,percentage,,xxxhöherqualifizierende berufsausbildung,female,8.205
+2004,percentage,,xxxhöherqualifizierende berufsausbildung,female,8.513
+2005,percentage,,xxxhöherqualifizierende berufsausbildung,female,7.528
+2006,percentage,,xxxhöherqualifizierende berufsausbildung,female,7.131
+2007,percentage,,xxxhöherqualifizierende berufsausbildung,female,6.83
+2008,percentage,,xxxhöherqualifizierende berufsausbildung,female,6.782
+2009,percentage,,xxxhöherqualifizierende berufsausbildung,female,7.175
+1999,percentage,,xxxhöherqualifizierende berufsausbildung,male,
+2010,percentage,,xxxhöherqualifizierende berufsausbildung,male,8.371
+2011,percentage,,xxxhöherqualifizierende berufsausbildung,male,9.506
+2012,percentage,,xxxhöherqualifizierende berufsausbildung,male,9.637
+2013,percentage,,xxxhöherqualifizierende berufsausbildung,male,8.973
+2014,percentage,,xxxhöherqualifizierende berufsausbildung,male,6.22
+2015,percentage,,xxxhöherqualifizierende berufsausbildung,male,6.271
+2016,percentage,,xxxhöherqualifizierende berufsausbildung,male,6.196
+2017,percentage,,xxxhöherqualifizierende berufsausbildung,male,6.754
+2018,percentage,,xxxhöherqualifizierende berufsausbildung,male,6.667
+2019,percentage,,xxxhöherqualifizierende berufsausbildung,male,6.796
+2020,percentage,,xxxhöherqualifizierende berufsausbildung,male,7.682
+2021,percentage,,xxxhöherqualifizierende berufsausbildung,male,8.73
+2022,percentage,,xxxhöherqualifizierende berufsausbildung,male,8.875
+2023,percentage,,xxxhöherqualifizierende berufsausbildung,male,8.523
+2000,percentage,,xxxhöherqualifizierende berufsausbildung,male,11.521
+2001,percentage,,xxxhöherqualifizierende berufsausbildung,male,
+2002,percentage,,xxxhöherqualifizierende berufsausbildung,male,
+2003,percentage,,xxxhöherqualifizierende berufsausbildung,male,9.698
+2004,percentage,,xxxhöherqualifizierende berufsausbildung,male,10.096
+2005,percentage,,xxxhöherqualifizierende berufsausbildung,male,9.233
+2006,percentage,,xxxhöherqualifizierende berufsausbildung,male,8.559
+2007,percentage,,xxxhöherqualifizierende berufsausbildung,male,7.792
+2008,percentage,,xxxhöherqualifizierende berufsausbildung,male,7.873
+2009,percentage,,xxxhöherqualifizierende berufsausbildung,male,7.716
+1999,percentage,,xxxhochschulabschlüsse,,14.758
+2010,percentage,,xxxhochschulabschlüsse,,21.845
+2011,percentage,,xxxhochschulabschlüsse,,20.718
+2012,percentage,,xxxhochschulabschlüsse,,21.921
+2013,percentage,,xxxhochschulabschlüsse,,23.661
+2014,percentage,,xxxhochschulabschlüsse,,26.562
+2015,percentage,,xxxhochschulabschlüsse,,27.312
+2016,percentage,,xxxhochschulabschlüsse,,28.228
+2017,percentage,,xxxhochschulabschlüsse,,28.615
+2018,percentage,,xxxhochschulabschlüsse,,29.424
+2019,percentage,,xxxhochschulabschlüsse,,30.073
+2020,percentage,,xxxhochschulabschlüsse,,30.051
+2021,percentage,,xxxhochschulabschlüsse,,31.762
+2022,percentage,,xxxhochschulabschlüsse,,31.769
+2023,percentage,,xxxhochschulabschlüsse,,34.086
+2000,percentage,,xxxhochschulabschlüsse,,15.033
+2001,percentage,,xxxhochschulabschlüsse,,15.618
+2002,percentage,,xxxhochschulabschlüsse,,15.477
+2003,percentage,,xxxhochschulabschlüsse,,16.102
+2004,percentage,,xxxhochschulabschlüsse,,17.435
+2005,percentage,,xxxhochschulabschlüsse,,17.677
+2006,percentage,,xxxhochschulabschlüsse,,17.995
+2007,percentage,,xxxhochschulabschlüsse,,19.184
+2008,percentage,,xxxhochschulabschlüsse,,20.344
+2009,percentage,,xxxhochschulabschlüsse,,21.988
+1999,percentage,,xxxhochschulabschlüsse,female,
+2010,percentage,,xxxhochschulabschlüsse,female,22.156
+2011,percentage,,xxxhochschulabschlüsse,female,21.081
+2012,percentage,,xxxhochschulabschlüsse,female,22.529
+2013,percentage,,xxxhochschulabschlüsse,female,24.098
+2014,percentage,,xxxhochschulabschlüsse,female,27.374
+2015,percentage,,xxxhochschulabschlüsse,female,28.689
+2016,percentage,,xxxhochschulabschlüsse,female,29.285
+2017,percentage,,xxxhochschulabschlüsse,female,30.235
+2018,percentage,,xxxhochschulabschlüsse,female,31.053
+2019,percentage,,xxxhochschulabschlüsse,female,31.956
+2020,percentage,,xxxhochschulabschlüsse,female,31.916
+2021,percentage,,xxxhochschulabschlüsse,female,33.729
+2022,percentage,,xxxhochschulabschlüsse,female,34.453
+2023,percentage,,xxxhochschulabschlüsse,female,36.491
+2000,percentage,,xxxhochschulabschlüsse,female,12.747
+2001,percentage,,xxxhochschulabschlüsse,female,
+2002,percentage,,xxxhochschulabschlüsse,female,
+2003,percentage,,xxxhochschulabschlüsse,female,14.324
+2004,percentage,,xxxhochschulabschlüsse,female,15.746
+2005,percentage,,xxxhochschulabschlüsse,female,16.594
+2006,percentage,,xxxhochschulabschlüsse,female,17.284
+2007,percentage,,xxxhochschulabschlüsse,female,18.837
+2008,percentage,,xxxhochschulabschlüsse,female,20.263
+2009,percentage,,xxxhochschulabschlüsse,female,22.064
+1999,percentage,,xxxhochschulabschlüsse,male,
+2010,percentage,,xxxhochschulabschlüsse,male,21.539
+2011,percentage,,xxxhochschulabschlüsse,male,20.363
+2012,percentage,,xxxhochschulabschlüsse,male,21.326
+2013,percentage,,xxxhochschulabschlüsse,male,23.23
+2014,percentage,,xxxhochschulabschlüsse,male,25.753
+2015,percentage,,xxxhochschulabschlüsse,male,25.969
+2016,percentage,,xxxhochschulabschlüsse,male,27.206
+2017,percentage,,xxxhochschulabschlüsse,male,27.062
+2018,percentage,,xxxhochschulabschlüsse,male,27.868
+2019,percentage,,xxxhochschulabschlüsse,male,28.285
+2020,percentage,,xxxhochschulabschlüsse,male,28.273
+2021,percentage,,xxxhochschulabschlüsse,male,29.922
+2022,percentage,,xxxhochschulabschlüsse,male,29.234
+2023,percentage,,xxxhochschulabschlüsse,male,31.807
+2000,percentage,,xxxhochschulabschlüsse,male,17.239
+2001,percentage,,xxxhochschulabschlüsse,male,
+2002,percentage,,xxxhochschulabschlüsse,male,
+2003,percentage,,xxxhochschulabschlüsse,male,17.781
+2004,percentage,,xxxhochschulabschlüsse,male,19.053
+2005,percentage,,xxxhochschulabschlüsse,male,18.724
+2006,percentage,,xxxhochschulabschlüsse,male,18.693
+2007,percentage,,xxxhochschulabschlüsse,male,19.522
+2008,percentage,,xxxhochschulabschlüsse,male,20.424
+2009,percentage,,xxxhochschulabschlüsse,male,21.912
+1999,percentage,,xxxerstausbildung,,49.396
+2010,percentage,,xxxerstausbildung,,41.065
+2011,percentage,,xxxerstausbildung,,40.482
+2012,percentage,,xxxerstausbildung,,39.425
+2013,percentage,,xxxerstausbildung,,38.693
+2014,percentage,,xxxerstausbildung,,38.047
+2015,percentage,,xxxerstausbildung,,36.855
+2016,percentage,,xxxerstausbildung,,35.171
+2017,percentage,,xxxerstausbildung,,34.264
+2018,percentage,,xxxerstausbildung,,33.065
+2019,percentage,,xxxerstausbildung,,32.248
+2020,percentage,,xxxerstausbildung,,28.838
+2021,percentage,,xxxerstausbildung,,26.004
+2022,percentage,,xxxerstausbildung,,24.477
+2023,percentage,,xxxerstausbildung,,21.8
+2000,percentage,,xxxerstausbildung,,49.322
+2001,percentage,,xxxerstausbildung,,49.65
+2002,percentage,,xxxerstausbildung,,48.917
+2003,percentage,,xxxerstausbildung,,48.646
+2004,percentage,,xxxerstausbildung,,46.517
+2005,percentage,,xxxerstausbildung,,44.75
+2006,percentage,,xxxerstausbildung,,43.96
+2007,percentage,,xxxerstausbildung,,43.504
+2008,percentage,,xxxerstausbildung,,42.921
+2009,percentage,,xxxerstausbildung,,41.204
+1999,percentage,,xxxerstausbildung,female,
+2010,percentage,,xxxerstausbildung,female,39.405
+2011,percentage,,xxxerstausbildung,female,38.186
+2012,percentage,,xxxerstausbildung,female,36.887
+2013,percentage,,xxxerstausbildung,female,36.193
+2014,percentage,,xxxerstausbildung,female,35.163
+2015,percentage,,xxxerstausbildung,female,33.5
+2016,percentage,,xxxerstausbildung,female,32.001
+2017,percentage,,xxxerstausbildung,female,31.554
+2018,percentage,,xxxerstausbildung,female,30.558
+2019,percentage,,xxxerstausbildung,female,29.631
+2020,percentage,,xxxerstausbildung,female,25.707
+2021,percentage,,xxxerstausbildung,female,23.698
+2022,percentage,,xxxerstausbildung,female,22.03
+2023,percentage,,xxxerstausbildung,female,19.152
+2000,percentage,,xxxerstausbildung,female,50.121
+2001,percentage,,xxxerstausbildung,female,
+2002,percentage,,xxxerstausbildung,female,
+2003,percentage,,xxxerstausbildung,female,48.995
+2004,percentage,,xxxerstausbildung,female,46.648
+2005,percentage,,xxxerstausbildung,female,44.886
+2006,percentage,,xxxerstausbildung,female,43.095
+2007,percentage,,xxxerstausbildung,female,42.657
+2008,percentage,,xxxerstausbildung,female,41.379
+2009,percentage,,xxxerstausbildung,female,39.704
+1999,percentage,,xxxerstausbildung,male,
+2010,percentage,,xxxerstausbildung,male,42.697
+2011,percentage,,xxxerstausbildung,male,42.734
+2012,percentage,,xxxerstausbildung,male,41.907
+2013,percentage,,xxxerstausbildung,male,41.153
+2014,percentage,,xxxerstausbildung,male,40.92
+2015,percentage,,xxxerstausbildung,male,40.13
+2016,percentage,,xxxerstausbildung,male,38.238
+2017,percentage,,xxxerstausbildung,male,36.862
+2018,percentage,,xxxerstausbildung,male,35.459
+2019,percentage,,xxxerstausbildung,male,34.733
+2020,percentage,,xxxerstausbildung,male,31.825
+2021,percentage,,xxxerstausbildung,male,28.163
+2022,percentage,,xxxerstausbildung,male,26.787
+2023,percentage,,xxxerstausbildung,male,24.308
+2000,percentage,,xxxerstausbildung,male,48.549
+2001,percentage,,xxxerstausbildung,male,
+2002,percentage,,xxxerstausbildung,male,
+2003,percentage,,xxxerstausbildung,male,48.317
+2004,percentage,,xxxerstausbildung,male,46.391
+2005,percentage,,xxxerstausbildung,male,44.619
+2006,percentage,,xxxerstausbildung,male,44.808
+2007,percentage,,xxxerstausbildung,male,44.327
+2008,percentage,,xxxerstausbildung,male,44.444
+2009,percentage,,xxxerstausbildung,male,42.688
+1999,percentage,xxxfachkräftepotenzial (insgesamt),,,82.747
+2010,percentage,xxxfachkräftepotenzial (insgesamt),,,82.435
+2011,percentage,xxxfachkräftepotenzial (insgesamt),,,82.745
+2012,percentage,xxxfachkräftepotenzial (insgesamt),,,82.889
+2013,percentage,xxxfachkräftepotenzial (insgesamt),,,83.211
+2014,percentage,xxxfachkräftepotenzial (insgesamt),,,83.781
+2015,percentage,xxxfachkräftepotenzial (insgesamt),,,83.694
+2016,percentage,xxxfachkräftepotenzial (insgesamt),,,83.079
+2017,percentage,xxxfachkräftepotenzial (insgesamt),,,83.099
+2018,percentage,xxxfachkräftepotenzial (insgesamt),,,82.898
+2019,percentage,xxxfachkräftepotenzial (insgesamt),,,82.736
+2020,percentage,xxxfachkräftepotenzial (insgesamt),,,81.124
+2021,percentage,xxxfachkräftepotenzial (insgesamt),,,79.559
+2022,percentage,xxxfachkräftepotenzial (insgesamt),,,77.876
+2023,percentage,xxxfachkräftepotenzial (insgesamt),,,78.127
+2000,percentage,xxxfachkräftepotenzial (insgesamt),,,82.319
+2001,percentage,xxxfachkräftepotenzial (insgesamt),,,82.822
+2002,percentage,xxxfachkräftepotenzial (insgesamt),,,82.193
+2003,percentage,xxxfachkräftepotenzial (insgesamt),,,82.594
+2004,percentage,xxxfachkräftepotenzial (insgesamt),,,82.738
+2005,percentage,xxxfachkräftepotenzial (insgesamt),,,80.75
+2006,percentage,xxxfachkräftepotenzial (insgesamt),,,80.464
+2007,percentage,xxxfachkräftepotenzial (insgesamt),,,81.142
+2008,percentage,xxxfachkräftepotenzial (insgesamt),,,81.787
+2009,percentage,xxxfachkräftepotenzial (insgesamt),,,82.007
+2030,percentage,xxxfachkräftepotenzial (insgesamt),,,
+1999,percentage,xxxfachkräftepotenzial (insgesamt),,female,
+2010,percentage,xxxfachkräftepotenzial (insgesamt),,female,82.152
+2011,percentage,xxxfachkräftepotenzial (insgesamt),,female,82.547
+2012,percentage,xxxfachkräftepotenzial (insgesamt),,female,82.871
+2013,percentage,xxxfachkräftepotenzial (insgesamt),,female,83.036
+2014,percentage,xxxfachkräftepotenzial (insgesamt),,female,83.537
+2015,percentage,xxxfachkräftepotenzial (insgesamt),,female,83.993
+2016,percentage,xxxfachkräftepotenzial (insgesamt),,female,83.329
+2017,percentage,xxxfachkräftepotenzial (insgesamt),,female,84.193
+2018,percentage,xxxfachkräftepotenzial (insgesamt),,female,84.384
+2019,percentage,xxxfachkräftepotenzial (insgesamt),,female,84.042
+2020,percentage,xxxfachkräftepotenzial (insgesamt),,female,82.356
+2021,percentage,xxxfachkräftepotenzial (insgesamt),,female,80.865
+2022,percentage,xxxfachkräftepotenzial (insgesamt),,female,79.383
+2023,percentage,xxxfachkräftepotenzial (insgesamt),,female,79.396
+2000,percentage,xxxfachkräftepotenzial (insgesamt),,female,81.001
+2001,percentage,xxxfachkräftepotenzial (insgesamt),,female,
+2002,percentage,xxxfachkräftepotenzial (insgesamt),,female,
+2003,percentage,xxxfachkräftepotenzial (insgesamt),,female,81.227
+2004,percentage,xxxfachkräftepotenzial (insgesamt),,female,81.302
+2005,percentage,xxxfachkräftepotenzial (insgesamt),,female,79.878
+2006,percentage,xxxfachkräftepotenzial (insgesamt),,female,79.577
+2007,percentage,xxxfachkräftepotenzial (insgesamt),,female,80.69
+2008,percentage,xxxfachkräftepotenzial (insgesamt),,female,81.069
+2009,percentage,xxxfachkräftepotenzial (insgesamt),,female,81.903
+1999,percentage,xxxfachkräftepotenzial (insgesamt),,male,
+2010,percentage,xxxfachkräftepotenzial (insgesamt),,male,82.713
+2011,percentage,xxxfachkräftepotenzial (insgesamt),,male,82.843
+2012,percentage,xxxfachkräftepotenzial (insgesamt),,male,82.81
+2013,percentage,xxxfachkräftepotenzial (insgesamt),,male,83.382
+2014,percentage,xxxfachkräftepotenzial (insgesamt),,male,83.825
+2015,percentage,xxxfachkräftepotenzial (insgesamt),,male,83.205
+2016,percentage,xxxfachkräftepotenzial (insgesamt),,male,82.836
+2017,percentage,xxxfachkräftepotenzial (insgesamt),,male,82.051
+2018,percentage,xxxfachkräftepotenzial (insgesamt),,male,81.479
+2019,percentage,xxxfachkräftepotenzial (insgesamt),,male,81.497
+2020,percentage,xxxfachkräftepotenzial (insgesamt),,male,80.144
+2021,percentage,xxxfachkräftepotenzial (insgesamt),,male,77.75
+2022,percentage,xxxfachkräftepotenzial (insgesamt),,male,76.453
+2023,percentage,xxxfachkräftepotenzial (insgesamt),,male,76.925
+2000,percentage,xxxfachkräftepotenzial (insgesamt),,male,83.591
+2001,percentage,xxxfachkräftepotenzial (insgesamt),,male,
+2002,percentage,xxxfachkräftepotenzial (insgesamt),,male,
+2003,percentage,xxxfachkräftepotenzial (insgesamt),,male,83.784
+2004,percentage,xxxfachkräftepotenzial (insgesamt),,male,84.113
+2005,percentage,xxxfachkräftepotenzial (insgesamt),,male,81.594
+2006,percentage,xxxfachkräftepotenzial (insgesamt),,male,81.333
+2007,percentage,xxxfachkräftepotenzial (insgesamt),,male,81.583
+2008,percentage,xxxfachkräftepotenzial (insgesamt),,male,82.299
+2009,percentage,xxxfachkräftepotenzial (insgesamt),,male,81.911

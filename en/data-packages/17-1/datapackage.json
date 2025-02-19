@@ -27,18 +27,6 @@
             "title": "Units"
           },
           {
-            "name": "calculation method",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Calculated as net expenditure",
-                "Calculated in grant equivalents",
-                ""
-              ]
-            },
-            "title": "Calculation method"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

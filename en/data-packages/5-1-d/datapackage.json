@@ -27,35 +27,16 @@
             "title": "Units"
           },
           {
-            "name": "federal state",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "XXXKinder, deren Väter Elterngeld bezogen haben",
+                "XXXMännliche Bezieher an allen genommenen Elterngeldmonaten",
                 ""
               ]
             },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "title": "Series"
           },
           {
             "name": "Value",

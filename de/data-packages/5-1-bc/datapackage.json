@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "In Aufsichtsräten der börsennotierten und paritätisch mitbestimmten Unternehmen",
-                "Im öffentlichen Dienst des Bundes",
+                "b) In Aufsichtsräten der börsennotierten und paritätisch mitbestimmten Unternehmen",
+                "c) Im öffentlichen Dienst des Bundes",
                 ""
               ]
             },

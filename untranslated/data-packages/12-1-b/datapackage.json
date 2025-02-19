@@ -29,9 +29,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "direct and indirect use of raw materials",
-                "direct and indirect energy consumption",
-                "direct and indirect co2 emissions",
+                "ba) direct and indirect use of raw materials",
+                "bb) direct and indirect energy consumption",
+                "bc) direct and indirect co2 emissions",
                 ""
               ]
             }

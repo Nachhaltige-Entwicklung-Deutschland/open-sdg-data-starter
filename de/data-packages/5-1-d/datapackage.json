@@ -27,35 +27,16 @@
             "title": "Units"
           },
           {
-            "name": "federal state",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Württemberg",
-                "Bayern",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hessen",
-                "Mecklenburg-Vorpommern",
-                "Niedersachsen",
-                "Nordrhein-Westfalen",
-                "Rheinland-Pfalz",
-                "Saarland",
-                "Sachsen",
-                "Sachsen-Anhalt",
-                "Schleswig-Holstein",
-                "Thüringen",
+                "Kinder, deren Väter Elterngeld bezogen haben",
+                "<u>Infolinie</u>: Männliche Bezieher an allen genommenen Elterngeldmonaten",
                 ""
               ]
             },
-            "title": "Bundesland"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "title": "Series"
           },
           {
             "name": "Value",

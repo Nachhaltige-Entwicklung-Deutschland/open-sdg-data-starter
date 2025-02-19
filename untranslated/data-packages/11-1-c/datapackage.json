@@ -20,7 +20,7 @@
             "constraints": {
               "enum": [
                 "2000 = 100",
-                "inhabitants per m² settlement and transport area",
+                "inhabitants per km² settlement and transport area",
                 ""
               ]
             }
@@ -35,35 +35,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "baden-wuerttemberg",
-                "bavaria",
-                "berlin",
-                "brandenburg",
-                "bremen",
-                "hamburg",
-                "hesse",
-                "mecklenburg western pomerania",
-                "lower saxony",
-                "north rhine-westphalia",
-                "rhineland palatinate",
-                "saarland",
-                "saxony",
-                "saxony-anhalt",
-                "schleswig-holstein",
-                "thuringia",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
           },
           {
             "name": "Value",

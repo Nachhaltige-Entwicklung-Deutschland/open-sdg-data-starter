@@ -1,5 +1,52 @@
-Year,Units,Value
-2015,1 000,354.841
-2018,1 000,863.0
-2021,1 000,80.083
-2030,1 000,
+Year,Units,time series,Value
+2006,hours,mothers,14.747
+2007,hours,mothers,14.947
+2008,hours,mothers,15.51
+2009,hours,mothers,15.848
+2010,hours,mothers,16.244
+2011,hours,mothers,16.689
+2012,hours,mothers,17.008
+2013,hours,mothers,17.23
+2014,hours,mothers,17.393
+2015,hours,mothers,17.576
+2016,hours,mothers,17.894
+2017,hours,mothers,18.037
+2018,hours,mothers,18.361
+2019,hours,mothers,18.704
+2020,hours,mothers,18.443
+2021,hours,mothers,18.726
+2022,hours,mothers,19.107
+2006,hours,fathers,35.927
+2007,hours,fathers,36.254
+2008,hours,fathers,38.093
+2009,hours,fathers,37.84
+2010,hours,fathers,38.05
+2011,hours,fathers,38.648
+2012,hours,fathers,38.766
+2013,hours,fathers,38.466
+2014,hours,fathers,38.201
+2015,hours,fathers,38.048
+2016,hours,fathers,37.898
+2017,hours,fathers,37.623
+2018,hours,fathers,37.581
+2019,hours,fathers,37.587
+2020,hours,fathers,36.528
+2021,hours,fathers,36.515
+2022,hours,fathers,37.024
+2006,hours,difference,21.18
+2007,hours,difference,21.307
+2008,hours,difference,22.583
+2009,hours,difference,21.992
+2010,hours,difference,21.806
+2011,hours,difference,21.959
+2012,hours,difference,21.758
+2013,hours,difference,21.236
+2014,hours,difference,20.808
+2015,hours,difference,20.472
+2016,hours,difference,20.004
+2017,hours,difference,19.586
+2018,hours,difference,19.22
+2019,hours,difference,18.883
+2020,hours,difference,18.085
+2021,hours,difference,17.789
+2022,hours,difference,17.917

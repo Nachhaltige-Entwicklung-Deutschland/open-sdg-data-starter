@@ -1,289 +1,49 @@
-Year,Units,time series,federal state,GeoCode,Value
-2015,percentage,all wired technologies,,,
-2016,percentage,all wired technologies,,,
-2017,percentage,all wired technologies,,,
-2025,percentage,all wired technologies,,,
-2018/2,percentage,all wired technologies,,,27.33
-2019/1,percentage,all wired technologies,,,34.12
-2019/2,percentage,all wired technologies,,,43.22
-2020/1,percentage,all wired technologies,,,55.9
-2020/2,percentage,all wired technologies,,,59.18
-2021/1,percentage,all wired technologies,,,62.13
-2021/2,percentage,all wired technologies,,,
-2022/1,percentage,all wired technologies,,,68.04
-2022/2,percentage,all wired technologies,,,70.5
-2023/1,percentage,all wired technologies,,,73.6
-2023/2,percentage,all wired technologies,,,74.8
-2024/1,percentage,all wired technologies,,,76.47
-2015,percentage,fibre-to-the-building/home (fttb/h),,,6.7
-2016,percentage,fibre-to-the-building/home (fttb/h),,,7.1
-2017,percentage,fibre-to-the-building/home (fttb/h),,,8.0
-2025,percentage,fibre-to-the-building/home (fttb/h),,,
-2018/2,percentage,fibre-to-the-building/home (fttb/h),,,9.0
-2019/1,percentage,fibre-to-the-building/home (fttb/h),,,10.5
-2019/2,percentage,fibre-to-the-building/home (fttb/h),,,11.8
-2020/1,percentage,fibre-to-the-building/home (fttb/h),,,13.8
-2020/2,percentage,fibre-to-the-building/home (fttb/h),,,14.5
-2021/1,percentage,fibre-to-the-building/home (fttb/h),,,15.4
-2021/2,percentage,fibre-to-the-building/home (fttb/h),,,
-2022/1,percentage,fibre-to-the-building/home (fttb/h),,,18.2
-2022/2,percentage,fibre-to-the-building/home (fttb/h),,,23.2
-2023/1,percentage,fibre-to-the-building/home (fttb/h),,,28.2
-2023/2,percentage,fibre-to-the-building/home (fttb/h),,,32.1
-2024/1,percentage,fibre-to-the-building/home (fttb/h),,,35.69
-2015,percentage,hybrid fiber coax (hfc),,,
-2016,percentage,hybrid fiber coax (hfc),,,
-2017,percentage,hybrid fiber coax (hfc),,,
-2025,percentage,hybrid fiber coax (hfc),,,
-2018/2,percentage,hybrid fiber coax (hfc),,,23.66
-2019/1,percentage,hybrid fiber coax (hfc),,,29.28
-2019/2,percentage,hybrid fiber coax (hfc),,,37.83
-2020/1,percentage,hybrid fiber coax (hfc),,,50.18
-2020/2,percentage,hybrid fiber coax (hfc),,,53.5
-2021/1,percentage,hybrid fiber coax (hfc),,,56.54
-2021/2,percentage,hybrid fiber coax (hfc),,,
-2022/1,percentage,hybrid fiber coax (hfc),,,59.07
-2022/2,percentage,hybrid fiber coax (hfc),,,60.55
-2023/1,percentage,hybrid fiber coax (hfc),,,61.94
-2023/2,percentage,hybrid fiber coax (hfc),,,62.04
-2024/1,percentage,hybrid fiber coax (hfc),,,62.33
-2022/1,percentage,all wired technologies,baden-wuerttemberg,code08,69.65
-2022/2,percentage,all wired technologies,baden-wuerttemberg,code08,71.48
-2023/1,percentage,all wired technologies,baden-wuerttemberg,code08,71.85
-2023/2,percentage,all wired technologies,baden-wuerttemberg,code08,72.36
-2024/1,percentage,all wired technologies,baden-wuerttemberg,code08,74.06
-2022/1,percentage,all wired technologies,bavaria,code09,65.66
-2022/2,percentage,all wired technologies,bavaria,code09,66.47
-2023/1,percentage,all wired technologies,bavaria,code09,67.9
-2023/2,percentage,all wired technologies,bavaria,code09,69.48
-2024/1,percentage,all wired technologies,bavaria,code09,70.68
-2022/1,percentage,all wired technologies,berlin,code11,96.64
-2022/2,percentage,all wired technologies,berlin,code11,98.97
-2023/1,percentage,all wired technologies,berlin,code11,99.3
-2023/2,percentage,all wired technologies,berlin,code11,98.16
-2024/1,percentage,all wired technologies,berlin,code11,95.13
-2022/1,percentage,all wired technologies,brandenburg,code12,49.48
-2022/2,percentage,all wired technologies,brandenburg,code12,47.77
-2023/1,percentage,all wired technologies,brandenburg,code12,57.0
-2023/2,percentage,all wired technologies,brandenburg,code12,59.89
-2024/1,percentage,all wired technologies,brandenburg,code12,62.7
-2022/1,percentage,all wired technologies,bremen,code04,92.36
-2022/2,percentage,all wired technologies,bremen,code04,92.81
-2023/1,percentage,all wired technologies,bremen,code04,94.5
-2023/2,percentage,all wired technologies,bremen,code04,95.14
-2024/1,percentage,all wired technologies,bremen,code04,95.93
-2022/1,percentage,all wired technologies,hamburg,code02,98.15
-2022/2,percentage,all wired technologies,hamburg,code02,93.77
-2023/1,percentage,all wired technologies,hamburg,code02,94.9
-2023/2,percentage,all wired technologies,hamburg,code02,95.33
-2024/1,percentage,all wired technologies,hamburg,code02,96.56
-2022/1,percentage,all wired technologies,hesse,code06,66.45
-2022/2,percentage,all wired technologies,hesse,code06,68.15
-2023/1,percentage,all wired technologies,hesse,code06,70.9
-2023/2,percentage,all wired technologies,hesse,code06,72.85
-2024/1,percentage,all wired technologies,hesse,code06,74.06
-2022/1,percentage,all wired technologies,mecklenburg western pomerania,code13,56.66
-2022/2,percentage,all wired technologies,mecklenburg western pomerania,code13,58.4
-2023/1,percentage,all wired technologies,mecklenburg western pomerania,code13,62.8
-2023/2,percentage,all wired technologies,mecklenburg western pomerania,code13,67.86
-2024/1,percentage,all wired technologies,mecklenburg western pomerania,code13,69.53
-2022/1,percentage,all wired technologies,lower saxony,code03,74.59
-2022/2,percentage,all wired technologies,lower saxony,code03,78.22
-2023/1,percentage,all wired technologies,lower saxony,code03,81.4
-2023/2,percentage,all wired technologies,lower saxony,code03,83.0
-2024/1,percentage,all wired technologies,lower saxony,code03,85.3
-2022/1,percentage,all wired technologies,north rhine-westphalia,code05,73.06
-2022/2,percentage,all wired technologies,north rhine-westphalia,code05,76.94
-2023/1,percentage,all wired technologies,north rhine-westphalia,code05,79.9
-2023/2,percentage,all wired technologies,north rhine-westphalia,code05,80.28
-2024/1,percentage,all wired technologies,north rhine-westphalia,code05,81.58
-2022/1,percentage,all wired technologies,rhineland palatinate,code07,58.24
-2022/2,percentage,all wired technologies,rhineland palatinate,code07,62.14
-2023/1,percentage,all wired technologies,rhineland palatinate,code07,65.71
-2023/2,percentage,all wired technologies,rhineland palatinate,code07,67.79
-2024/1,percentage,all wired technologies,rhineland palatinate,code07,71.61
-2022/1,percentage,all wired technologies,saarland,code10,59.87
-2022/2,percentage,all wired technologies,saarland,code10,60.76
-2023/1,percentage,all wired technologies,saarland,code10,62.91
-2023/2,percentage,all wired technologies,saarland,code10,63.97
-2024/1,percentage,all wired technologies,saarland,code10,67.33
-2022/1,percentage,all wired technologies,saxony,code14,43.78
-2022/2,percentage,all wired technologies,saxony,code14,51.36
-2023/1,percentage,all wired technologies,saxony,code14,61.21
-2023/2,percentage,all wired technologies,saxony,code14,62.27
-2024/1,percentage,all wired technologies,saxony,code14,64.59
-2022/1,percentage,all wired technologies,saxony-anhalt,code15,33.82
-2022/2,percentage,all wired technologies,saxony-anhalt,code15,37.85
-2023/1,percentage,all wired technologies,saxony-anhalt,code15,48.87
-2023/2,percentage,all wired technologies,saxony-anhalt,code15,51.05
-2024/1,percentage,all wired technologies,saxony-anhalt,code15,60.52
-2022/1,percentage,all wired technologies,schleswig-holstein,code01,85.08
-2022/2,percentage,all wired technologies,schleswig-holstein,code01,86.75
-2023/1,percentage,all wired technologies,schleswig-holstein,code01,88.66
-2023/2,percentage,all wired technologies,schleswig-holstein,code01,89.86
-2024/1,percentage,all wired technologies,schleswig-holstein,code01,90.27
-2022/1,percentage,all wired technologies,thuringia,code16,39.9
-2022/2,percentage,all wired technologies,thuringia,code16,41.39
-2023/1,percentage,all wired technologies,thuringia,code16,46.44
-2023/2,percentage,all wired technologies,thuringia,code16,50.76
-2024/1,percentage,all wired technologies,thuringia,code16,52.53
-2022/1,percentage,fibre-to-the-building/home (fttb/h),baden-wuerttemberg,code08,10.94
-2022/2,percentage,fibre-to-the-building/home (fttb/h),baden-wuerttemberg,code08,19.99
-2023/1,percentage,fibre-to-the-building/home (fttb/h),baden-wuerttemberg,code08,18.3
-2023/2,percentage,fibre-to-the-building/home (fttb/h),baden-wuerttemberg,code08,18.87
-2024/1,percentage,fibre-to-the-building/home (fttb/h),baden-wuerttemberg,code08,22.59
-2022/1,percentage,fibre-to-the-building/home (fttb/h),bavaria,code09,18.99
-2022/2,percentage,fibre-to-the-building/home (fttb/h),bavaria,code09,21.57
-2023/1,percentage,fibre-to-the-building/home (fttb/h),bavaria,code09,24.36
-2023/2,percentage,fibre-to-the-building/home (fttb/h),bavaria,code09,28.71
-2024/1,percentage,fibre-to-the-building/home (fttb/h),bavaria,code09,31.18
-2022/1,percentage,fibre-to-the-building/home (fttb/h),berlin,code11,11.62
-2022/2,percentage,fibre-to-the-building/home (fttb/h),berlin,code11,15.72
-2023/1,percentage,fibre-to-the-building/home (fttb/h),berlin,code11,19.77
-2023/2,percentage,fibre-to-the-building/home (fttb/h),berlin,code11,29.97
-2024/1,percentage,fibre-to-the-building/home (fttb/h),berlin,code11,33.54
-2022/1,percentage,fibre-to-the-building/home (fttb/h),brandenburg,code12,27.52
-2022/2,percentage,fibre-to-the-building/home (fttb/h),brandenburg,code12,24.61
-2023/1,percentage,fibre-to-the-building/home (fttb/h),brandenburg,code12,36.7
-2023/2,percentage,fibre-to-the-building/home (fttb/h),brandenburg,code12,41.07
-2024/1,percentage,fibre-to-the-building/home (fttb/h),brandenburg,code12,44.63
-2022/1,percentage,fibre-to-the-building/home (fttb/h),bremen,code04,9.79
-2022/2,percentage,fibre-to-the-building/home (fttb/h),bremen,code04,16.6
-2023/1,percentage,fibre-to-the-building/home (fttb/h),bremen,code04,25.22
-2023/2,percentage,fibre-to-the-building/home (fttb/h),bremen,code04,32.59
-2024/1,percentage,fibre-to-the-building/home (fttb/h),bremen,code04,40.4
-2022/1,percentage,fibre-to-the-building/home (fttb/h),hamburg,code02,44.22
-2022/2,percentage,fibre-to-the-building/home (fttb/h),hamburg,code02,52.38
-2023/1,percentage,fibre-to-the-building/home (fttb/h),hamburg,code02,64.8
-2023/2,percentage,fibre-to-the-building/home (fttb/h),hamburg,code02,68.1
-2024/1,percentage,fibre-to-the-building/home (fttb/h),hamburg,code02,73.15
-2022/1,percentage,fibre-to-the-building/home (fttb/h),hesse,code06,12.25
-2022/2,percentage,fibre-to-the-building/home (fttb/h),hesse,code06,16.17
-2023/1,percentage,fibre-to-the-building/home (fttb/h),hesse,code06,21.13
-2023/2,percentage,fibre-to-the-building/home (fttb/h),hesse,code06,26.06
-2024/1,percentage,fibre-to-the-building/home (fttb/h),hesse,code06,27.54
-2022/1,percentage,fibre-to-the-building/home (fttb/h),mecklenburg western pomerania,code13,25.48
-2022/2,percentage,fibre-to-the-building/home (fttb/h),mecklenburg western pomerania,code13,27.64
-2023/1,percentage,fibre-to-the-building/home (fttb/h),mecklenburg western pomerania,code13,34.19
-2023/2,percentage,fibre-to-the-building/home (fttb/h),mecklenburg western pomerania,code13,41.68
-2024/1,percentage,fibre-to-the-building/home (fttb/h),mecklenburg western pomerania,code13,45.63
-2022/1,percentage,fibre-to-the-building/home (fttb/h),lower saxony,code03,30.18
-2022/2,percentage,fibre-to-the-building/home (fttb/h),lower saxony,code03,41.36
-2023/1,percentage,fibre-to-the-building/home (fttb/h),lower saxony,code03,48.49
-2023/2,percentage,fibre-to-the-building/home (fttb/h),lower saxony,code03,54.31
-2024/1,percentage,fibre-to-the-building/home (fttb/h),lower saxony,code03,59.53
-2022/1,percentage,fibre-to-the-building/home (fttb/h),north rhine-westphalia,code05,18.36
-2022/2,percentage,fibre-to-the-building/home (fttb/h),north rhine-westphalia,code05,22.45
-2023/1,percentage,fibre-to-the-building/home (fttb/h),north rhine-westphalia,code05,29.59
-2023/2,percentage,fibre-to-the-building/home (fttb/h),north rhine-westphalia,code05,31.56
-2024/1,percentage,fibre-to-the-building/home (fttb/h),north rhine-westphalia,code05,35.32
-2022/1,percentage,fibre-to-the-building/home (fttb/h),rhineland palatinate,code07,7.54
-2022/2,percentage,fibre-to-the-building/home (fttb/h),rhineland palatinate,code07,11.64
-2023/1,percentage,fibre-to-the-building/home (fttb/h),rhineland palatinate,code07,17.4
-2023/2,percentage,fibre-to-the-building/home (fttb/h),rhineland palatinate,code07,21.54
-2024/1,percentage,fibre-to-the-building/home (fttb/h),rhineland palatinate,code07,24.85
-2022/1,percentage,fibre-to-the-building/home (fttb/h),saarland,code10,4.23
-2022/2,percentage,fibre-to-the-building/home (fttb/h),saarland,code10,6.24
-2023/1,percentage,fibre-to-the-building/home (fttb/h),saarland,code10,9.24
-2023/2,percentage,fibre-to-the-building/home (fttb/h),saarland,code10,12.38
-2024/1,percentage,fibre-to-the-building/home (fttb/h),saarland,code10,16.38
-2022/1,percentage,fibre-to-the-building/home (fttb/h),saxony,code14,12.45
-2022/2,percentage,fibre-to-the-building/home (fttb/h),saxony,code14,18.35
-2023/1,percentage,fibre-to-the-building/home (fttb/h),saxony,code14,23.4
-2023/2,percentage,fibre-to-the-building/home (fttb/h),saxony,code14,26.7
-2024/1,percentage,fibre-to-the-building/home (fttb/h),saxony,code14,29.09
-2022/1,percentage,fibre-to-the-building/home (fttb/h),saxony-anhalt,code15,12.62
-2022/2,percentage,fibre-to-the-building/home (fttb/h),saxony-anhalt,code15,16.41
-2023/1,percentage,fibre-to-the-building/home (fttb/h),saxony-anhalt,code15,23.2
-2023/2,percentage,fibre-to-the-building/home (fttb/h),saxony-anhalt,code15,29.27
-2024/1,percentage,fibre-to-the-building/home (fttb/h),saxony-anhalt,code15,39.68
-2022/1,percentage,fibre-to-the-building/home (fttb/h),schleswig-holstein,code01,41.35
-2022/2,percentage,fibre-to-the-building/home (fttb/h),schleswig-holstein,code01,46.66
-2023/1,percentage,fibre-to-the-building/home (fttb/h),schleswig-holstein,code01,55.26
-2023/2,percentage,fibre-to-the-building/home (fttb/h),schleswig-holstein,code01,59.12
-2024/1,percentage,fibre-to-the-building/home (fttb/h),schleswig-holstein,code01,62.24
-2022/1,percentage,fibre-to-the-building/home (fttb/h),thuringia,code16,5.72
-2022/2,percentage,fibre-to-the-building/home (fttb/h),thuringia,code16,7.79
-2023/1,percentage,fibre-to-the-building/home (fttb/h),thuringia,code16,9.39
-2023/2,percentage,fibre-to-the-building/home (fttb/h),thuringia,code16,13.8
-2024/1,percentage,fibre-to-the-building/home (fttb/h),thuringia,code16,15.77
-2022/1,percentage,hybrid fiber coax (hfc),baden-wuerttemberg,code08,63.77
-2022/2,percentage,hybrid fiber coax (hfc),baden-wuerttemberg,code08,64.3
-2023/1,percentage,hybrid fiber coax (hfc),baden-wuerttemberg,code08,65.31
-2023/2,percentage,hybrid fiber coax (hfc),baden-wuerttemberg,code08,65.4
-2024/1,percentage,hybrid fiber coax (hfc),baden-wuerttemberg,code08,65.66
-2022/1,percentage,hybrid fiber coax (hfc),bavaria,code09,58.7
-2022/2,percentage,hybrid fiber coax (hfc),bavaria,code09,59.42
-2023/1,percentage,hybrid fiber coax (hfc),bavaria,code09,59.3
-2023/2,percentage,hybrid fiber coax (hfc),bavaria,code09,59.93
-2024/1,percentage,hybrid fiber coax (hfc),bavaria,code09,60.05
-2022/1,percentage,hybrid fiber coax (hfc),berlin,code11,88.62
-2022/2,percentage,hybrid fiber coax (hfc),berlin,code11,88.73
-2023/1,percentage,hybrid fiber coax (hfc),berlin,code11,90.6
-2023/2,percentage,hybrid fiber coax (hfc),berlin,code11,89.79
-2024/1,percentage,hybrid fiber coax (hfc),berlin,code11,89.99
-2022/1,percentage,hybrid fiber coax (hfc),brandenburg,code12,32.53
-2022/2,percentage,hybrid fiber coax (hfc),brandenburg,code12,33.38
-2023/1,percentage,hybrid fiber coax (hfc),brandenburg,code12,35.22
-2023/2,percentage,hybrid fiber coax (hfc),brandenburg,code12,35.34
-2024/1,percentage,hybrid fiber coax (hfc),brandenburg,code12,35.85
-2022/1,percentage,hybrid fiber coax (hfc),bremen,code04,91.56
-2022/2,percentage,hybrid fiber coax (hfc),bremen,code04,91.56
-2023/1,percentage,hybrid fiber coax (hfc),bremen,code04,92.94
-2023/2,percentage,hybrid fiber coax (hfc),bremen,code04,92.97
-2024/1,percentage,hybrid fiber coax (hfc),bremen,code04,93.12
-2022/1,percentage,hybrid fiber coax (hfc),hamburg,code02,88.24
-2022/2,percentage,hybrid fiber coax (hfc),hamburg,code02,88.37
-2023/1,percentage,hybrid fiber coax (hfc),hamburg,code02,86.67
-2023/2,percentage,hybrid fiber coax (hfc),hamburg,code02,86.7
-2024/1,percentage,hybrid fiber coax (hfc),hamburg,code02,87.55
-2022/1,percentage,hybrid fiber coax (hfc),hesse,code06,56.13
-2022/2,percentage,hybrid fiber coax (hfc),hesse,code06,59.66
-2023/1,percentage,hybrid fiber coax (hfc),hesse,code06,60.58
-2023/2,percentage,hybrid fiber coax (hfc),hesse,code06,60.7
-2024/1,percentage,hybrid fiber coax (hfc),hesse,code06,61.08
-2022/1,percentage,hybrid fiber coax (hfc),mecklenburg western pomerania,code13,41.05
-2022/2,percentage,hybrid fiber coax (hfc),mecklenburg western pomerania,code13,42.55
-2023/1,percentage,hybrid fiber coax (hfc),mecklenburg western pomerania,code13,44.69
-2023/2,percentage,hybrid fiber coax (hfc),mecklenburg western pomerania,code13,45.87
-2024/1,percentage,hybrid fiber coax (hfc),mecklenburg western pomerania,code13,45.69
-2022/1,percentage,hybrid fiber coax (hfc),lower saxony,code03,62.18
-2022/2,percentage,hybrid fiber coax (hfc),lower saxony,code03,62.51
-2023/1,percentage,hybrid fiber coax (hfc),lower saxony,code03,62.79
-2023/2,percentage,hybrid fiber coax (hfc),lower saxony,code03,62.85
-2024/1,percentage,hybrid fiber coax (hfc),lower saxony,code03,62.77
-2022/1,percentage,hybrid fiber coax (hfc),north rhine-westphalia,code05,63.98
-2022/2,percentage,hybrid fiber coax (hfc),north rhine-westphalia,code05,66.76
-2023/1,percentage,hybrid fiber coax (hfc),north rhine-westphalia,code05,67.44
-2023/2,percentage,hybrid fiber coax (hfc),north rhine-westphalia,code05,67.58
-2024/1,percentage,hybrid fiber coax (hfc),north rhine-westphalia,code05,67.64
-2022/1,percentage,hybrid fiber coax (hfc),rhineland palatinate,code07,54.47
-2022/2,percentage,hybrid fiber coax (hfc),rhineland palatinate,code07,54.5
-2023/1,percentage,hybrid fiber coax (hfc),rhineland palatinate,code07,55.72
-2023/2,percentage,hybrid fiber coax (hfc),rhineland palatinate,code07,55.89
-2024/1,percentage,hybrid fiber coax (hfc),rhineland palatinate,code07,57.41
-2022/1,percentage,hybrid fiber coax (hfc),saarland,code10,57.92
-2022/2,percentage,hybrid fiber coax (hfc),saarland,code10,58.98
-2023/1,percentage,hybrid fiber coax (hfc),saarland,code10,59.83
-2023/2,percentage,hybrid fiber coax (hfc),saarland,code10,59.94
-2024/1,percentage,hybrid fiber coax (hfc),saarland,code10,60.92
-2022/1,percentage,hybrid fiber coax (hfc),saxony,code14,33.79
-2022/2,percentage,hybrid fiber coax (hfc),saxony,code14,40.47
-2023/1,percentage,hybrid fiber coax (hfc),saxony,code14,46.37
-2023/2,percentage,hybrid fiber coax (hfc),saxony,code14,45.52
-2024/1,percentage,hybrid fiber coax (hfc),saxony,code14,46.39
-2022/1,percentage,hybrid fiber coax (hfc),saxony-anhalt,code15,23.66
-2022/2,percentage,hybrid fiber coax (hfc),saxony-anhalt,code15,23.88
-2023/1,percentage,hybrid fiber coax (hfc),saxony-anhalt,code15,36.67
-2023/2,percentage,hybrid fiber coax (hfc),saxony-anhalt,code15,35.8
-2024/1,percentage,hybrid fiber coax (hfc),saxony-anhalt,code15,37.64
-2022/1,percentage,hybrid fiber coax (hfc),schleswig-holstein,code01,66.61
-2022/2,percentage,hybrid fiber coax (hfc),schleswig-holstein,code01,66.59
-2023/1,percentage,hybrid fiber coax (hfc),schleswig-holstein,code01,66.7
-2023/2,percentage,hybrid fiber coax (hfc),schleswig-holstein,code01,66.71
-2024/1,percentage,hybrid fiber coax (hfc),schleswig-holstein,code01,66.15
-2022/1,percentage,hybrid fiber coax (hfc),thuringia,code16,35.41
-2022/2,percentage,hybrid fiber coax (hfc),thuringia,code16,35.11
-2023/1,percentage,hybrid fiber coax (hfc),thuringia,code16,38.94
-2023/2,percentage,hybrid fiber coax (hfc),thuringia,code16,39.78
-2024/1,percentage,hybrid fiber coax (hfc),thuringia,code16,40.05
+Year,Units,time series,Value
+2015,percentage,all wired technologies,
+2016,percentage,all wired technologies,
+2017,percentage,all wired technologies,
+2025,percentage,all wired technologies,
+2018/2,percentage,all wired technologies,27.33
+2019/1,percentage,all wired technologies,34.12
+2019/2,percentage,all wired technologies,43.22
+2020/1,percentage,all wired technologies,55.9
+2020/2,percentage,all wired technologies,59.18
+2021/1,percentage,all wired technologies,62.13
+2021/2,percentage,all wired technologies,
+2022/1,percentage,all wired technologies,68.04
+2022/2,percentage,all wired technologies,70.5
+2023/1,percentage,all wired technologies,73.6
+2023/2,percentage,all wired technologies,74.8
+2024/1,percentage,all wired technologies,76.47
+2015,percentage,fibre-to-the-building/home (fttb/h),6.7
+2016,percentage,fibre-to-the-building/home (fttb/h),7.1
+2017,percentage,fibre-to-the-building/home (fttb/h),8.0
+2025,percentage,fibre-to-the-building/home (fttb/h),
+2018/2,percentage,fibre-to-the-building/home (fttb/h),9.0
+2019/1,percentage,fibre-to-the-building/home (fttb/h),10.5
+2019/2,percentage,fibre-to-the-building/home (fttb/h),11.8
+2020/1,percentage,fibre-to-the-building/home (fttb/h),13.8
+2020/2,percentage,fibre-to-the-building/home (fttb/h),14.5
+2021/1,percentage,fibre-to-the-building/home (fttb/h),15.4
+2021/2,percentage,fibre-to-the-building/home (fttb/h),
+2022/1,percentage,fibre-to-the-building/home (fttb/h),18.2
+2022/2,percentage,fibre-to-the-building/home (fttb/h),23.2
+2023/1,percentage,fibre-to-the-building/home (fttb/h),28.2
+2023/2,percentage,fibre-to-the-building/home (fttb/h),32.1
+2024/1,percentage,fibre-to-the-building/home (fttb/h),35.69
+2015,percentage,hybrid fiber coax (hfc),
+2016,percentage,hybrid fiber coax (hfc),
+2017,percentage,hybrid fiber coax (hfc),
+2025,percentage,hybrid fiber coax (hfc),
+2018/2,percentage,hybrid fiber coax (hfc),23.66
+2019/1,percentage,hybrid fiber coax (hfc),29.28
+2019/2,percentage,hybrid fiber coax (hfc),37.83
+2020/1,percentage,hybrid fiber coax (hfc),50.18
+2020/2,percentage,hybrid fiber coax (hfc),53.5
+2021/1,percentage,hybrid fiber coax (hfc),56.54
+2021/2,percentage,hybrid fiber coax (hfc),
+2022/1,percentage,hybrid fiber coax (hfc),59.07
+2022/2,percentage,hybrid fiber coax (hfc),60.55
+2023/1,percentage,hybrid fiber coax (hfc),61.94
+2023/2,percentage,hybrid fiber coax (hfc),62.04
+2024/1,percentage,hybrid fiber coax (hfc),62.33

@@ -25,34 +25,6 @@
             }
           },
           {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "baden-wuerttemberg",
-                "bavaria",
-                "berlin",
-                "brandenburg",
-                "bremen",
-                "hamburg",
-                "hesse",
-                "lower saxony",
-                "north rhine-westphalia",
-                "rhineland palatinate",
-                "saarland",
-                "saxony",
-                "saxony-anhalt",
-                "schleswig-holstein",
-                "thuringia",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -62,5 +34,5 @@
   ],
   "profile": "data-package",
   "name": "7-2-a",
-  "title": "Anteil erneuerbarer Energien am Brutto-Endenergieverbrauch"
+  "title": "Anteil erneuerbarer Energien am Bruttoendenergieverbrauch"
 }

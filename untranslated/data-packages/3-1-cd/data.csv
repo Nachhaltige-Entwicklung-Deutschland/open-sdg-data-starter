@@ -1,225 +1,129 @@
-Year,Units,time series,sex,federal state,GeoCode,Value
-2003,percentage,adolescents,,,,22.5
-2004,percentage,adolescents,,,,23.5
-2005,percentage,adolescents,,,,20.0
-2007,percentage,adolescents,,,,17.7
-2008,percentage,adolescents,,,,15.4
-2009,percentage,adolescents,,,,
-2010,percentage,adolescents,,,,12.9
-2011,percentage,adolescents,,,,11.7
-2012,percentage,adolescents,,,,12.0
-2013,percentage,adolescents,,,,
-2014,percentage,adolescents,,,,9.7
-2015,percentage,adolescents,,,,9.6
-2016,percentage,adolescents,,,,8.3
-2017,percentage,adolescents,,,,
-2018,percentage,adolescents,,,,8.7
-2019,percentage,adolescents,,,,7.2
-2021,percentage,adolescents,,,,6.1
-2023,percentage,adolescents,,,,6.8
-2006,percentage,adolescents,,,,
-2020,percentage,adolescents,,,,
-2022,percentage,adolescents,,,,
-2030,percentage,adolescents,,,,
-2003,percentage,adolescents,female,,,23.2
-2004,percentage,adolescents,female,,,22.7
-2005,percentage,adolescents,female,,,19.3
-2007,percentage,adolescents,female,,,17.5
-2008,percentage,adolescents,female,,,16.2
-2009,percentage,adolescents,female,,,
-2010,percentage,adolescents,female,,,11.5
-2011,percentage,adolescents,female,,,12.4
-2012,percentage,adolescents,female,,,12.6
-2013,percentage,adolescents,female,,,
-2014,percentage,adolescents,female,,,8.9
-2015,percentage,adolescents,female,,,10.0
-2016,percentage,adolescents,female,,,6.1
-2017,percentage,adolescents,female,,,
-2018,percentage,adolescents,female,,,8.3
-2019,percentage,adolescents,female,,,6.3
-2021,percentage,adolescents,female,,,6.8
-2023,percentage,adolescents,female,,,6.4
-2006,percentage,adolescents,female,,,
-2020,percentage,adolescents,female,,,
-2022,percentage,adolescents,female,,,
-2003,percentage,adolescents,male,,,21.9
-2004,percentage,adolescents,male,,,24.2
-2005,percentage,adolescents,male,,,20.7
-2007,percentage,adolescents,male,,,17.8
-2008,percentage,adolescents,male,,,14.7
-2009,percentage,adolescents,male,,,
-2010,percentage,adolescents,male,,,14.2
-2011,percentage,adolescents,male,,,11.1
-2012,percentage,adolescents,male,,,11.5
-2013,percentage,adolescents,male,,,
-2014,percentage,adolescents,male,,,10.5
-2015,percentage,adolescents,male,,,9.3
-2016,percentage,adolescents,male,,,10.5
-2017,percentage,adolescents,male,,,
-2018,percentage,adolescents,male,,,9.1
-2019,percentage,adolescents,male,,,8.0
-2021,percentage,adolescents,male,,,5.5
-2023,percentage,adolescents,male,,,7.2
-2006,percentage,adolescents,male,,,
-2020,percentage,adolescents,male,,,
-2022,percentage,adolescents,male,,,
-2003,percentage,adults,,,,27.4
-2004,percentage,adults,,,,
-2005,percentage,adults,,,,27.2
-2007,percentage,adults,,,,
-2008,percentage,adults,,,,
-2009,percentage,adults,,,,25.7
-2010,percentage,adults,,,,
-2011,percentage,adults,,,,
-2012,percentage,adults,,,,
-2013,percentage,adults,,,,24.5
-2014,percentage,adults,,,,
-2015,percentage,adults,,,,
-2016,percentage,adults,,,,
-2017,percentage,adults,,,,22.4
-2018,percentage,adults,,,,
-2019,percentage,adults,,,,
-2021,percentage,adults,,,,18.9
-2023,percentage,adults,,,,
-2006,percentage,adults,,,,
-2020,percentage,adults,,,,
-2022,percentage,adults,,,,
-2030,percentage,adults,,,,
-2003,percentage,adults,female,,,22.1
-2004,percentage,adults,female,,,
-2005,percentage,adults,female,,,22.4
-2007,percentage,adults,female,,,
-2008,percentage,adults,female,,,
-2009,percentage,adults,female,,,21.2
-2010,percentage,adults,female,,,
-2011,percentage,adults,female,,,
-2012,percentage,adults,female,,,
-2013,percentage,adults,female,,,20.3
-2014,percentage,adults,female,,,
-2015,percentage,adults,female,,,
-2016,percentage,adults,female,,,
-2017,percentage,adults,female,,,18.6
-2018,percentage,adults,female,,,
-2019,percentage,adults,female,,,
-2021,percentage,adults,female,,,15.7
-2023,percentage,adults,female,,,
-2006,percentage,adults,female,,,
-2020,percentage,adults,female,,,
-2022,percentage,adults,female,,,
-2003,percentage,adults,male,,,33.2
-2004,percentage,adults,male,,,
-2005,percentage,adults,male,,,32.2
-2007,percentage,adults,male,,,
-2008,percentage,adults,male,,,
-2009,percentage,adults,male,,,30.5
-2010,percentage,adults,male,,,
-2011,percentage,adults,male,,,
-2012,percentage,adults,male,,,
-2013,percentage,adults,male,,,29.0
-2014,percentage,adults,male,,,
-2015,percentage,adults,male,,,
-2016,percentage,adults,male,,,
-2017,percentage,adults,male,,,26.4
-2018,percentage,adults,male,,,
-2019,percentage,adults,male,,,
-2021,percentage,adults,male,,,22.3
-2023,percentage,adults,male,,,
-2006,percentage,adults,male,,,
-2020,percentage,adults,male,,,
-2022,percentage,adults,male,,,
-2003,percentage,adults,,baden-wuerttemberg,code08,25.53
-2005,percentage,adults,,baden-wuerttemberg,code08,24.5
-2009,percentage,adults,,baden-wuerttemberg,code08,22.8
-2013,percentage,adults,,baden-wuerttemberg,code08,22.21
-2017,percentage,adults,,baden-wuerttemberg,code08,21.23
-2021,percentage,adults,,baden-wuerttemberg,code08,17.4
-2003,percentage,adults,,bavaria,code09,25.12
-2005,percentage,adults,,bavaria,code09,24.2
-2009,percentage,adults,,bavaria,code09,23.5
-2013,percentage,adults,,bavaria,code09,22.15
-2017,percentage,adults,,bavaria,code09,20.51
-2021,percentage,adults,,bavaria,code09,17.0
-2003,percentage,adults,,berlin,code11,34.12
-2005,percentage,adults,,berlin,code11,32.7
-2009,percentage,adults,,berlin,code11,31.3
-2013,percentage,adults,,berlin,code11,28.85
-2017,percentage,adults,,berlin,code11,25.47
-2021,percentage,adults,,berlin,code11,21.1
-2003,percentage,adults,,brandenburg,code12,30.35
-2005,percentage,adults,,brandenburg,code12,29.0
-2009,percentage,adults,,brandenburg,code12,28.0
-2013,percentage,adults,,brandenburg,code12,25.77
-2017,percentage,adults,,brandenburg,code12,24.47
-2021,percentage,adults,,brandenburg,code12,19.4
-2003,percentage,adults,,bremen,code04,33.85
-2005,percentage,adults,,bremen,code04,30.8
-2009,percentage,adults,,bremen,code04,30.5
-2013,percentage,adults,,bremen,code04,27.77
-2017,percentage,adults,,bremen,code04,27.39
-2021,percentage,adults,,bremen,code04,22.6
-2003,percentage,adults,,hamburg,code02,30.95
-2005,percentage,adults,,hamburg,code02,29.8
-2009,percentage,adults,,hamburg,code02,26.7
-2013,percentage,adults,,hamburg,code02,25.64
-2017,percentage,adults,,hamburg,code02,23.14
-2021,percentage,adults,,hamburg,code02,19.4
-2003,percentage,adults,,hesse,code06,27.15
-2005,percentage,adults,,hesse,code06,25.9
-2009,percentage,adults,,hesse,code06,24.6
-2013,percentage,adults,,hesse,code06,23.37
-2017,percentage,adults,,hesse,code06,21.11
-2021,percentage,adults,,hesse,code06,19.4
-2003,percentage,adults,,mecklenburg western pomerania,code13,30.61
-2005,percentage,adults,,mecklenburg western pomerania,code13,33.3
-2009,percentage,adults,,mecklenburg western pomerania,code13,30.4
-2013,percentage,adults,,mecklenburg western pomerania,code13,28.22
-2017,percentage,adults,,mecklenburg western pomerania,code13,27.66
-2021,percentage,adults,,mecklenburg western pomerania,code13,23.5
-2003,percentage,adults,,lower saxony,code03,28.44
-2005,percentage,adults,,lower saxony,code03,28.1
-2009,percentage,adults,,lower saxony,code03,26.1
-2013,percentage,adults,,lower saxony,code03,24.69
-2017,percentage,adults,,lower saxony,code03,22.94
-2021,percentage,adults,,lower saxony,code03,18.8
-2003,percentage,adults,,north rhine-westphalia,code05,27.63
-2005,percentage,adults,,north rhine-westphalia,code05,29.0
-2009,percentage,adults,,north rhine-westphalia,code05,26.9
-2013,percentage,adults,,north rhine-westphalia,code05,25.92
-2017,percentage,adults,,north rhine-westphalia,code05,22.64
-2021,percentage,adults,,north rhine-westphalia,code05,18.7
-2003,percentage,adults,,rhineland palatinate,code07,27.59
-2005,percentage,adults,,rhineland palatinate,code07,26.0
-2009,percentage,adults,,rhineland palatinate,code07,25.1
-2013,percentage,adults,,rhineland palatinate,code07,23.86
-2017,percentage,adults,,rhineland palatinate,code07,21.66
-2021,percentage,adults,,rhineland palatinate,code07,18.5
-2003,percentage,adults,,saarland,code10,25.19
-2005,percentage,adults,,saarland,code10,26.2
-2009,percentage,adults,,saarland,code10,25.3
-2013,percentage,adults,,saarland,code10,23.51
-2017,percentage,adults,,saarland,code10,20.59
-2021,percentage,adults,,saarland,code10,18.1
-2003,percentage,adults,,saxony,code14,24.92
-2005,percentage,adults,,saxony,code14,24.4
-2009,percentage,adults,,saxony,code14,23.8
-2013,percentage,adults,,saxony,code14,22.74
-2017,percentage,adults,,saxony,code14,21.47
-2021,percentage,adults,,saxony,code14,21.1
-2003,percentage,adults,,saxony-anhalt,code15,27.23
-2005,percentage,adults,,saxony-anhalt,code15,27.9
-2009,percentage,adults,,saxony-anhalt,code15,28.9
-2013,percentage,adults,,saxony-anhalt,code15,27.85
-2017,percentage,adults,,saxony-anhalt,code15,24.77
-2021,percentage,adults,,saxony-anhalt,code15,22.8
-2003,percentage,adults,,schleswig-holstein,code01,30.31
-2005,percentage,adults,,schleswig-holstein,code01,29.5
-2009,percentage,adults,,schleswig-holstein,code01,27.0
-2013,percentage,adults,,schleswig-holstein,code01,25.9
-2017,percentage,adults,,schleswig-holstein,code01,23.5
-2021,percentage,adults,,schleswig-holstein,code01,19.0
-2003,percentage,adults,,thuringia,code16,26.9
-2005,percentage,adults,,thuringia,code16,27.2
-2009,percentage,adults,,thuringia,code16,26.7
-2013,percentage,adults,,thuringia,code16,26.11
-2017,percentage,adults,,thuringia,code16,26.24
-2021,percentage,adults,,thuringia,code16,23.5
+Year,Units,time series,sex,Value
+2003,percentage,c) adolescents,,22.5
+2004,percentage,c) adolescents,,23.5
+2005,percentage,c) adolescents,,20.0
+2007,percentage,c) adolescents,,17.7
+2008,percentage,c) adolescents,,15.4
+2009,percentage,c) adolescents,,
+2010,percentage,c) adolescents,,12.9
+2011,percentage,c) adolescents,,11.7
+2012,percentage,c) adolescents,,12.0
+2013,percentage,c) adolescents,,
+2014,percentage,c) adolescents,,9.7
+2015,percentage,c) adolescents,,9.6
+2016,percentage,c) adolescents,,8.3
+2017,percentage,c) adolescents,,
+2018,percentage,c) adolescents,,8.7
+2019,percentage,c) adolescents,,7.2
+2021,percentage,c) adolescents,,6.1
+2023,percentage,c) adolescents,,6.8
+2006,percentage,c) adolescents,,
+2020,percentage,c) adolescents,,
+2022,percentage,c) adolescents,,
+2030,percentage,c) adolescents,,
+2003,percentage,c) adolescents,female,23.2
+2004,percentage,c) adolescents,female,22.7
+2005,percentage,c) adolescents,female,19.3
+2007,percentage,c) adolescents,female,17.5
+2008,percentage,c) adolescents,female,16.2
+2009,percentage,c) adolescents,female,
+2010,percentage,c) adolescents,female,11.5
+2011,percentage,c) adolescents,female,12.4
+2012,percentage,c) adolescents,female,12.6
+2013,percentage,c) adolescents,female,
+2014,percentage,c) adolescents,female,8.9
+2015,percentage,c) adolescents,female,10.0
+2016,percentage,c) adolescents,female,6.1
+2017,percentage,c) adolescents,female,
+2018,percentage,c) adolescents,female,8.3
+2019,percentage,c) adolescents,female,6.3
+2021,percentage,c) adolescents,female,6.8
+2023,percentage,c) adolescents,female,6.4
+2006,percentage,c) adolescents,female,
+2020,percentage,c) adolescents,female,
+2022,percentage,c) adolescents,female,
+2003,percentage,c) adolescents,male,21.9
+2004,percentage,c) adolescents,male,24.2
+2005,percentage,c) adolescents,male,20.7
+2007,percentage,c) adolescents,male,17.8
+2008,percentage,c) adolescents,male,14.7
+2009,percentage,c) adolescents,male,
+2010,percentage,c) adolescents,male,14.2
+2011,percentage,c) adolescents,male,11.1
+2012,percentage,c) adolescents,male,11.5
+2013,percentage,c) adolescents,male,
+2014,percentage,c) adolescents,male,10.5
+2015,percentage,c) adolescents,male,9.3
+2016,percentage,c) adolescents,male,10.5
+2017,percentage,c) adolescents,male,
+2018,percentage,c) adolescents,male,9.1
+2019,percentage,c) adolescents,male,8.0
+2021,percentage,c) adolescents,male,5.5
+2023,percentage,c) adolescents,male,7.2
+2006,percentage,c) adolescents,male,
+2020,percentage,c) adolescents,male,
+2022,percentage,c) adolescents,male,
+2003,percentage,d) adults,,27.4
+2004,percentage,d) adults,,
+2005,percentage,d) adults,,27.2
+2007,percentage,d) adults,,
+2008,percentage,d) adults,,
+2009,percentage,d) adults,,25.7
+2010,percentage,d) adults,,
+2011,percentage,d) adults,,
+2012,percentage,d) adults,,
+2013,percentage,d) adults,,24.5
+2014,percentage,d) adults,,
+2015,percentage,d) adults,,
+2016,percentage,d) adults,,
+2017,percentage,d) adults,,22.4
+2018,percentage,d) adults,,
+2019,percentage,d) adults,,
+2021,percentage,d) adults,,18.9
+2023,percentage,d) adults,,
+2006,percentage,d) adults,,
+2020,percentage,d) adults,,
+2022,percentage,d) adults,,
+2030,percentage,d) adults,,
+2003,percentage,d) adults,female,22.1
+2004,percentage,d) adults,female,
+2005,percentage,d) adults,female,22.4
+2007,percentage,d) adults,female,
+2008,percentage,d) adults,female,
+2009,percentage,d) adults,female,21.2
+2010,percentage,d) adults,female,
+2011,percentage,d) adults,female,
+2012,percentage,d) adults,female,
+2013,percentage,d) adults,female,20.3
+2014,percentage,d) adults,female,
+2015,percentage,d) adults,female,
+2016,percentage,d) adults,female,
+2017,percentage,d) adults,female,18.6
+2018,percentage,d) adults,female,
+2019,percentage,d) adults,female,
+2021,percentage,d) adults,female,15.7
+2023,percentage,d) adults,female,
+2006,percentage,d) adults,female,
+2020,percentage,d) adults,female,
+2022,percentage,d) adults,female,
+2003,percentage,d) adults,male,33.2
+2004,percentage,d) adults,male,
+2005,percentage,d) adults,male,32.2
+2007,percentage,d) adults,male,
+2008,percentage,d) adults,male,
+2009,percentage,d) adults,male,30.5
+2010,percentage,d) adults,male,
+2011,percentage,d) adults,male,
+2012,percentage,d) adults,male,
+2013,percentage,d) adults,male,29.0
+2014,percentage,d) adults,male,
+2015,percentage,d) adults,male,
+2016,percentage,d) adults,male,
+2017,percentage,d) adults,male,26.4
+2018,percentage,d) adults,male,
+2019,percentage,d) adults,male,
+2021,percentage,d) adults,male,22.3
+2023,percentage,d) adults,male,
+2006,percentage,d) adults,male,
+2020,percentage,d) adults,male,
+2022,percentage,d) adults,male,

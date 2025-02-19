@@ -1,289 +1,49 @@
-Year,Units,Zeitreihe,Bundesland,GeoCode,Value
-2015,Prozent,Alle leitungsgebundenen Technologien,,,
-2016,Prozent,Alle leitungsgebundenen Technologien,,,
-2017,Prozent,Alle leitungsgebundenen Technologien,,,
-2025,Prozent,Alle leitungsgebundenen Technologien,,,
-2018/2,Prozent,Alle leitungsgebundenen Technologien,,,27.33
-2019/1,Prozent,Alle leitungsgebundenen Technologien,,,34.12
-2019/2,Prozent,Alle leitungsgebundenen Technologien,,,43.22
-2020/1,Prozent,Alle leitungsgebundenen Technologien,,,55.9
-2020/2,Prozent,Alle leitungsgebundenen Technologien,,,59.18
-2021/1,Prozent,Alle leitungsgebundenen Technologien,,,62.13
-2021/2,Prozent,Alle leitungsgebundenen Technologien,,,
-2022/1,Prozent,Alle leitungsgebundenen Technologien,,,68.04
-2022/2,Prozent,Alle leitungsgebundenen Technologien,,,70.5
-2023/1,Prozent,Alle leitungsgebundenen Technologien,,,73.6
-2023/2,Prozent,Alle leitungsgebundenen Technologien,,,74.8
-2024/1,Prozent,Alle leitungsgebundenen Technologien,,,76.47
-2015,Prozent,Reine Glasfasernetze (FTTB/H),,,6.7
-2016,Prozent,Reine Glasfasernetze (FTTB/H),,,7.1
-2017,Prozent,Reine Glasfasernetze (FTTB/H),,,8.0
-2025,Prozent,Reine Glasfasernetze (FTTB/H),,,
-2018/2,Prozent,Reine Glasfasernetze (FTTB/H),,,9.0
-2019/1,Prozent,Reine Glasfasernetze (FTTB/H),,,10.5
-2019/2,Prozent,Reine Glasfasernetze (FTTB/H),,,11.8
-2020/1,Prozent,Reine Glasfasernetze (FTTB/H),,,13.8
-2020/2,Prozent,Reine Glasfasernetze (FTTB/H),,,14.5
-2021/1,Prozent,Reine Glasfasernetze (FTTB/H),,,15.4
-2021/2,Prozent,Reine Glasfasernetze (FTTB/H),,,
-2022/1,Prozent,Reine Glasfasernetze (FTTB/H),,,18.2
-2022/2,Prozent,Reine Glasfasernetze (FTTB/H),,,23.2
-2023/1,Prozent,Reine Glasfasernetze (FTTB/H),,,28.2
-2023/2,Prozent,Reine Glasfasernetze (FTTB/H),,,32.1
-2024/1,Prozent,Reine Glasfasernetze (FTTB/H),,,35.69
-2015,Prozent,Hybrid Fiber Coax (HFC),,,
-2016,Prozent,Hybrid Fiber Coax (HFC),,,
-2017,Prozent,Hybrid Fiber Coax (HFC),,,
-2025,Prozent,Hybrid Fiber Coax (HFC),,,
-2018/2,Prozent,Hybrid Fiber Coax (HFC),,,23.66
-2019/1,Prozent,Hybrid Fiber Coax (HFC),,,29.28
-2019/2,Prozent,Hybrid Fiber Coax (HFC),,,37.83
-2020/1,Prozent,Hybrid Fiber Coax (HFC),,,50.18
-2020/2,Prozent,Hybrid Fiber Coax (HFC),,,53.5
-2021/1,Prozent,Hybrid Fiber Coax (HFC),,,56.54
-2021/2,Prozent,Hybrid Fiber Coax (HFC),,,
-2022/1,Prozent,Hybrid Fiber Coax (HFC),,,59.07
-2022/2,Prozent,Hybrid Fiber Coax (HFC),,,60.55
-2023/1,Prozent,Hybrid Fiber Coax (HFC),,,61.94
-2023/2,Prozent,Hybrid Fiber Coax (HFC),,,62.04
-2024/1,Prozent,Hybrid Fiber Coax (HFC),,,62.33
-2022/1,Prozent,Alle leitungsgebundenen Technologien,Baden-Württemberg,code08,69.65
-2022/2,Prozent,Alle leitungsgebundenen Technologien,Baden-Württemberg,code08,71.48
-2023/1,Prozent,Alle leitungsgebundenen Technologien,Baden-Württemberg,code08,71.85
-2023/2,Prozent,Alle leitungsgebundenen Technologien,Baden-Württemberg,code08,72.36
-2024/1,Prozent,Alle leitungsgebundenen Technologien,Baden-Württemberg,code08,74.06
-2022/1,Prozent,Alle leitungsgebundenen Technologien,Bayern,code09,65.66
-2022/2,Prozent,Alle leitungsgebundenen Technologien,Bayern,code09,66.47
-2023/1,Prozent,Alle leitungsgebundenen Technologien,Bayern,code09,67.9
-2023/2,Prozent,Alle leitungsgebundenen Technologien,Bayern,code09,69.48
-2024/1,Prozent,Alle leitungsgebundenen Technologien,Bayern,code09,70.68
-2022/1,Prozent,Alle leitungsgebundenen Technologien,Berlin,code11,96.64
-2022/2,Prozent,Alle leitungsgebundenen Technologien,Berlin,code11,98.97
-2023/1,Prozent,Alle leitungsgebundenen Technologien,Berlin,code11,99.3
-2023/2,Prozent,Alle leitungsgebundenen Technologien,Berlin,code11,98.16
-2024/1,Prozent,Alle leitungsgebundenen Technologien,Berlin,code11,95.13
-2022/1,Prozent,Alle leitungsgebundenen Technologien,Brandenburg,code12,49.48
-2022/2,Prozent,Alle leitungsgebundenen Technologien,Brandenburg,code12,47.77
-2023/1,Prozent,Alle leitungsgebundenen Technologien,Brandenburg,code12,57.0
-2023/2,Prozent,Alle leitungsgebundenen Technologien,Brandenburg,code12,59.89
-2024/1,Prozent,Alle leitungsgebundenen Technologien,Brandenburg,code12,62.7
-2022/1,Prozent,Alle leitungsgebundenen Technologien,Bremen,code04,92.36
-2022/2,Prozent,Alle leitungsgebundenen Technologien,Bremen,code04,92.81
-2023/1,Prozent,Alle leitungsgebundenen Technologien,Bremen,code04,94.5
-2023/2,Prozent,Alle leitungsgebundenen Technologien,Bremen,code04,95.14
-2024/1,Prozent,Alle leitungsgebundenen Technologien,Bremen,code04,95.93
-2022/1,Prozent,Alle leitungsgebundenen Technologien,Hamburg,code02,98.15
-2022/2,Prozent,Alle leitungsgebundenen Technologien,Hamburg,code02,93.77
-2023/1,Prozent,Alle leitungsgebundenen Technologien,Hamburg,code02,94.9
-2023/2,Prozent,Alle leitungsgebundenen Technologien,Hamburg,code02,95.33
-2024/1,Prozent,Alle leitungsgebundenen Technologien,Hamburg,code02,96.56
-2022/1,Prozent,Alle leitungsgebundenen Technologien,Hessen,code06,66.45
-2022/2,Prozent,Alle leitungsgebundenen Technologien,Hessen,code06,68.15
-2023/1,Prozent,Alle leitungsgebundenen Technologien,Hessen,code06,70.9
-2023/2,Prozent,Alle leitungsgebundenen Technologien,Hessen,code06,72.85
-2024/1,Prozent,Alle leitungsgebundenen Technologien,Hessen,code06,74.06
-2022/1,Prozent,Alle leitungsgebundenen Technologien,Mecklenburg-Vorpommern,code13,56.66
-2022/2,Prozent,Alle leitungsgebundenen Technologien,Mecklenburg-Vorpommern,code13,58.4
-2023/1,Prozent,Alle leitungsgebundenen Technologien,Mecklenburg-Vorpommern,code13,62.8
-2023/2,Prozent,Alle leitungsgebundenen Technologien,Mecklenburg-Vorpommern,code13,67.86
-2024/1,Prozent,Alle leitungsgebundenen Technologien,Mecklenburg-Vorpommern,code13,69.53
-2022/1,Prozent,Alle leitungsgebundenen Technologien,Niedersachsen,code03,74.59
-2022/2,Prozent,Alle leitungsgebundenen Technologien,Niedersachsen,code03,78.22
-2023/1,Prozent,Alle leitungsgebundenen Technologien,Niedersachsen,code03,81.4
-2023/2,Prozent,Alle leitungsgebundenen Technologien,Niedersachsen,code03,83.0
-2024/1,Prozent,Alle leitungsgebundenen Technologien,Niedersachsen,code03,85.3
-2022/1,Prozent,Alle leitungsgebundenen Technologien,Nordrhein-Westfalen,code05,73.06
-2022/2,Prozent,Alle leitungsgebundenen Technologien,Nordrhein-Westfalen,code05,76.94
-2023/1,Prozent,Alle leitungsgebundenen Technologien,Nordrhein-Westfalen,code05,79.9
-2023/2,Prozent,Alle leitungsgebundenen Technologien,Nordrhein-Westfalen,code05,80.28
-2024/1,Prozent,Alle leitungsgebundenen Technologien,Nordrhein-Westfalen,code05,81.58
-2022/1,Prozent,Alle leitungsgebundenen Technologien,Rheinland-Pfalz,code07,58.24
-2022/2,Prozent,Alle leitungsgebundenen Technologien,Rheinland-Pfalz,code07,62.14
-2023/1,Prozent,Alle leitungsgebundenen Technologien,Rheinland-Pfalz,code07,65.71
-2023/2,Prozent,Alle leitungsgebundenen Technologien,Rheinland-Pfalz,code07,67.79
-2024/1,Prozent,Alle leitungsgebundenen Technologien,Rheinland-Pfalz,code07,71.61
-2022/1,Prozent,Alle leitungsgebundenen Technologien,Saarland,code10,59.87
-2022/2,Prozent,Alle leitungsgebundenen Technologien,Saarland,code10,60.76
-2023/1,Prozent,Alle leitungsgebundenen Technologien,Saarland,code10,62.91
-2023/2,Prozent,Alle leitungsgebundenen Technologien,Saarland,code10,63.97
-2024/1,Prozent,Alle leitungsgebundenen Technologien,Saarland,code10,67.33
-2022/1,Prozent,Alle leitungsgebundenen Technologien,Sachsen,code14,43.78
-2022/2,Prozent,Alle leitungsgebundenen Technologien,Sachsen,code14,51.36
-2023/1,Prozent,Alle leitungsgebundenen Technologien,Sachsen,code14,61.21
-2023/2,Prozent,Alle leitungsgebundenen Technologien,Sachsen,code14,62.27
-2024/1,Prozent,Alle leitungsgebundenen Technologien,Sachsen,code14,64.59
-2022/1,Prozent,Alle leitungsgebundenen Technologien,Sachsen-Anhalt,code15,33.82
-2022/2,Prozent,Alle leitungsgebundenen Technologien,Sachsen-Anhalt,code15,37.85
-2023/1,Prozent,Alle leitungsgebundenen Technologien,Sachsen-Anhalt,code15,48.87
-2023/2,Prozent,Alle leitungsgebundenen Technologien,Sachsen-Anhalt,code15,51.05
-2024/1,Prozent,Alle leitungsgebundenen Technologien,Sachsen-Anhalt,code15,60.52
-2022/1,Prozent,Alle leitungsgebundenen Technologien,Schleswig-Holstein,code01,85.08
-2022/2,Prozent,Alle leitungsgebundenen Technologien,Schleswig-Holstein,code01,86.75
-2023/1,Prozent,Alle leitungsgebundenen Technologien,Schleswig-Holstein,code01,88.66
-2023/2,Prozent,Alle leitungsgebundenen Technologien,Schleswig-Holstein,code01,89.86
-2024/1,Prozent,Alle leitungsgebundenen Technologien,Schleswig-Holstein,code01,90.27
-2022/1,Prozent,Alle leitungsgebundenen Technologien,Thüringen,code16,39.9
-2022/2,Prozent,Alle leitungsgebundenen Technologien,Thüringen,code16,41.39
-2023/1,Prozent,Alle leitungsgebundenen Technologien,Thüringen,code16,46.44
-2023/2,Prozent,Alle leitungsgebundenen Technologien,Thüringen,code16,50.76
-2024/1,Prozent,Alle leitungsgebundenen Technologien,Thüringen,code16,52.53
-2022/1,Prozent,Reine Glasfasernetze (FTTB/H),Baden-Württemberg,code08,10.94
-2022/2,Prozent,Reine Glasfasernetze (FTTB/H),Baden-Württemberg,code08,19.99
-2023/1,Prozent,Reine Glasfasernetze (FTTB/H),Baden-Württemberg,code08,18.3
-2023/2,Prozent,Reine Glasfasernetze (FTTB/H),Baden-Württemberg,code08,18.87
-2024/1,Prozent,Reine Glasfasernetze (FTTB/H),Baden-Württemberg,code08,22.59
-2022/1,Prozent,Reine Glasfasernetze (FTTB/H),Bayern,code09,18.99
-2022/2,Prozent,Reine Glasfasernetze (FTTB/H),Bayern,code09,21.57
-2023/1,Prozent,Reine Glasfasernetze (FTTB/H),Bayern,code09,24.36
-2023/2,Prozent,Reine Glasfasernetze (FTTB/H),Bayern,code09,28.71
-2024/1,Prozent,Reine Glasfasernetze (FTTB/H),Bayern,code09,31.18
-2022/1,Prozent,Reine Glasfasernetze (FTTB/H),Berlin,code11,11.62
-2022/2,Prozent,Reine Glasfasernetze (FTTB/H),Berlin,code11,15.72
-2023/1,Prozent,Reine Glasfasernetze (FTTB/H),Berlin,code11,19.77
-2023/2,Prozent,Reine Glasfasernetze (FTTB/H),Berlin,code11,29.97
-2024/1,Prozent,Reine Glasfasernetze (FTTB/H),Berlin,code11,33.54
-2022/1,Prozent,Reine Glasfasernetze (FTTB/H),Brandenburg,code12,27.52
-2022/2,Prozent,Reine Glasfasernetze (FTTB/H),Brandenburg,code12,24.61
-2023/1,Prozent,Reine Glasfasernetze (FTTB/H),Brandenburg,code12,36.7
-2023/2,Prozent,Reine Glasfasernetze (FTTB/H),Brandenburg,code12,41.07
-2024/1,Prozent,Reine Glasfasernetze (FTTB/H),Brandenburg,code12,44.63
-2022/1,Prozent,Reine Glasfasernetze (FTTB/H),Bremen,code04,9.79
-2022/2,Prozent,Reine Glasfasernetze (FTTB/H),Bremen,code04,16.6
-2023/1,Prozent,Reine Glasfasernetze (FTTB/H),Bremen,code04,25.22
-2023/2,Prozent,Reine Glasfasernetze (FTTB/H),Bremen,code04,32.59
-2024/1,Prozent,Reine Glasfasernetze (FTTB/H),Bremen,code04,40.4
-2022/1,Prozent,Reine Glasfasernetze (FTTB/H),Hamburg,code02,44.22
-2022/2,Prozent,Reine Glasfasernetze (FTTB/H),Hamburg,code02,52.38
-2023/1,Prozent,Reine Glasfasernetze (FTTB/H),Hamburg,code02,64.8
-2023/2,Prozent,Reine Glasfasernetze (FTTB/H),Hamburg,code02,68.1
-2024/1,Prozent,Reine Glasfasernetze (FTTB/H),Hamburg,code02,73.15
-2022/1,Prozent,Reine Glasfasernetze (FTTB/H),Hessen,code06,12.25
-2022/2,Prozent,Reine Glasfasernetze (FTTB/H),Hessen,code06,16.17
-2023/1,Prozent,Reine Glasfasernetze (FTTB/H),Hessen,code06,21.13
-2023/2,Prozent,Reine Glasfasernetze (FTTB/H),Hessen,code06,26.06
-2024/1,Prozent,Reine Glasfasernetze (FTTB/H),Hessen,code06,27.54
-2022/1,Prozent,Reine Glasfasernetze (FTTB/H),Mecklenburg-Vorpommern,code13,25.48
-2022/2,Prozent,Reine Glasfasernetze (FTTB/H),Mecklenburg-Vorpommern,code13,27.64
-2023/1,Prozent,Reine Glasfasernetze (FTTB/H),Mecklenburg-Vorpommern,code13,34.19
-2023/2,Prozent,Reine Glasfasernetze (FTTB/H),Mecklenburg-Vorpommern,code13,41.68
-2024/1,Prozent,Reine Glasfasernetze (FTTB/H),Mecklenburg-Vorpommern,code13,45.63
-2022/1,Prozent,Reine Glasfasernetze (FTTB/H),Niedersachsen,code03,30.18
-2022/2,Prozent,Reine Glasfasernetze (FTTB/H),Niedersachsen,code03,41.36
-2023/1,Prozent,Reine Glasfasernetze (FTTB/H),Niedersachsen,code03,48.49
-2023/2,Prozent,Reine Glasfasernetze (FTTB/H),Niedersachsen,code03,54.31
-2024/1,Prozent,Reine Glasfasernetze (FTTB/H),Niedersachsen,code03,59.53
-2022/1,Prozent,Reine Glasfasernetze (FTTB/H),Nordrhein-Westfalen,code05,18.36
-2022/2,Prozent,Reine Glasfasernetze (FTTB/H),Nordrhein-Westfalen,code05,22.45
-2023/1,Prozent,Reine Glasfasernetze (FTTB/H),Nordrhein-Westfalen,code05,29.59
-2023/2,Prozent,Reine Glasfasernetze (FTTB/H),Nordrhein-Westfalen,code05,31.56
-2024/1,Prozent,Reine Glasfasernetze (FTTB/H),Nordrhein-Westfalen,code05,35.32
-2022/1,Prozent,Reine Glasfasernetze (FTTB/H),Rheinland-Pfalz,code07,7.54
-2022/2,Prozent,Reine Glasfasernetze (FTTB/H),Rheinland-Pfalz,code07,11.64
-2023/1,Prozent,Reine Glasfasernetze (FTTB/H),Rheinland-Pfalz,code07,17.4
-2023/2,Prozent,Reine Glasfasernetze (FTTB/H),Rheinland-Pfalz,code07,21.54
-2024/1,Prozent,Reine Glasfasernetze (FTTB/H),Rheinland-Pfalz,code07,24.85
-2022/1,Prozent,Reine Glasfasernetze (FTTB/H),Saarland,code10,4.23
-2022/2,Prozent,Reine Glasfasernetze (FTTB/H),Saarland,code10,6.24
-2023/1,Prozent,Reine Glasfasernetze (FTTB/H),Saarland,code10,9.24
-2023/2,Prozent,Reine Glasfasernetze (FTTB/H),Saarland,code10,12.38
-2024/1,Prozent,Reine Glasfasernetze (FTTB/H),Saarland,code10,16.38
-2022/1,Prozent,Reine Glasfasernetze (FTTB/H),Sachsen,code14,12.45
-2022/2,Prozent,Reine Glasfasernetze (FTTB/H),Sachsen,code14,18.35
-2023/1,Prozent,Reine Glasfasernetze (FTTB/H),Sachsen,code14,23.4
-2023/2,Prozent,Reine Glasfasernetze (FTTB/H),Sachsen,code14,26.7
-2024/1,Prozent,Reine Glasfasernetze (FTTB/H),Sachsen,code14,29.09
-2022/1,Prozent,Reine Glasfasernetze (FTTB/H),Sachsen-Anhalt,code15,12.62
-2022/2,Prozent,Reine Glasfasernetze (FTTB/H),Sachsen-Anhalt,code15,16.41
-2023/1,Prozent,Reine Glasfasernetze (FTTB/H),Sachsen-Anhalt,code15,23.2
-2023/2,Prozent,Reine Glasfasernetze (FTTB/H),Sachsen-Anhalt,code15,29.27
-2024/1,Prozent,Reine Glasfasernetze (FTTB/H),Sachsen-Anhalt,code15,39.68
-2022/1,Prozent,Reine Glasfasernetze (FTTB/H),Schleswig-Holstein,code01,41.35
-2022/2,Prozent,Reine Glasfasernetze (FTTB/H),Schleswig-Holstein,code01,46.66
-2023/1,Prozent,Reine Glasfasernetze (FTTB/H),Schleswig-Holstein,code01,55.26
-2023/2,Prozent,Reine Glasfasernetze (FTTB/H),Schleswig-Holstein,code01,59.12
-2024/1,Prozent,Reine Glasfasernetze (FTTB/H),Schleswig-Holstein,code01,62.24
-2022/1,Prozent,Reine Glasfasernetze (FTTB/H),Thüringen,code16,5.72
-2022/2,Prozent,Reine Glasfasernetze (FTTB/H),Thüringen,code16,7.79
-2023/1,Prozent,Reine Glasfasernetze (FTTB/H),Thüringen,code16,9.39
-2023/2,Prozent,Reine Glasfasernetze (FTTB/H),Thüringen,code16,13.8
-2024/1,Prozent,Reine Glasfasernetze (FTTB/H),Thüringen,code16,15.77
-2022/1,Prozent,Hybrid Fiber Coax (HFC),Baden-Württemberg,code08,63.77
-2022/2,Prozent,Hybrid Fiber Coax (HFC),Baden-Württemberg,code08,64.3
-2023/1,Prozent,Hybrid Fiber Coax (HFC),Baden-Württemberg,code08,65.31
-2023/2,Prozent,Hybrid Fiber Coax (HFC),Baden-Württemberg,code08,65.4
-2024/1,Prozent,Hybrid Fiber Coax (HFC),Baden-Württemberg,code08,65.66
-2022/1,Prozent,Hybrid Fiber Coax (HFC),Bayern,code09,58.7
-2022/2,Prozent,Hybrid Fiber Coax (HFC),Bayern,code09,59.42
-2023/1,Prozent,Hybrid Fiber Coax (HFC),Bayern,code09,59.3
-2023/2,Prozent,Hybrid Fiber Coax (HFC),Bayern,code09,59.93
-2024/1,Prozent,Hybrid Fiber Coax (HFC),Bayern,code09,60.05
-2022/1,Prozent,Hybrid Fiber Coax (HFC),Berlin,code11,88.62
-2022/2,Prozent,Hybrid Fiber Coax (HFC),Berlin,code11,88.73
-2023/1,Prozent,Hybrid Fiber Coax (HFC),Berlin,code11,90.6
-2023/2,Prozent,Hybrid Fiber Coax (HFC),Berlin,code11,89.79
-2024/1,Prozent,Hybrid Fiber Coax (HFC),Berlin,code11,89.99
-2022/1,Prozent,Hybrid Fiber Coax (HFC),Brandenburg,code12,32.53
-2022/2,Prozent,Hybrid Fiber Coax (HFC),Brandenburg,code12,33.38
-2023/1,Prozent,Hybrid Fiber Coax (HFC),Brandenburg,code12,35.22
-2023/2,Prozent,Hybrid Fiber Coax (HFC),Brandenburg,code12,35.34
-2024/1,Prozent,Hybrid Fiber Coax (HFC),Brandenburg,code12,35.85
-2022/1,Prozent,Hybrid Fiber Coax (HFC),Bremen,code04,91.56
-2022/2,Prozent,Hybrid Fiber Coax (HFC),Bremen,code04,91.56
-2023/1,Prozent,Hybrid Fiber Coax (HFC),Bremen,code04,92.94
-2023/2,Prozent,Hybrid Fiber Coax (HFC),Bremen,code04,92.97
-2024/1,Prozent,Hybrid Fiber Coax (HFC),Bremen,code04,93.12
-2022/1,Prozent,Hybrid Fiber Coax (HFC),Hamburg,code02,88.24
-2022/2,Prozent,Hybrid Fiber Coax (HFC),Hamburg,code02,88.37
-2023/1,Prozent,Hybrid Fiber Coax (HFC),Hamburg,code02,86.67
-2023/2,Prozent,Hybrid Fiber Coax (HFC),Hamburg,code02,86.7
-2024/1,Prozent,Hybrid Fiber Coax (HFC),Hamburg,code02,87.55
-2022/1,Prozent,Hybrid Fiber Coax (HFC),Hessen,code06,56.13
-2022/2,Prozent,Hybrid Fiber Coax (HFC),Hessen,code06,59.66
-2023/1,Prozent,Hybrid Fiber Coax (HFC),Hessen,code06,60.58
-2023/2,Prozent,Hybrid Fiber Coax (HFC),Hessen,code06,60.7
-2024/1,Prozent,Hybrid Fiber Coax (HFC),Hessen,code06,61.08
-2022/1,Prozent,Hybrid Fiber Coax (HFC),Mecklenburg-Vorpommern,code13,41.05
-2022/2,Prozent,Hybrid Fiber Coax (HFC),Mecklenburg-Vorpommern,code13,42.55
-2023/1,Prozent,Hybrid Fiber Coax (HFC),Mecklenburg-Vorpommern,code13,44.69
-2023/2,Prozent,Hybrid Fiber Coax (HFC),Mecklenburg-Vorpommern,code13,45.87
-2024/1,Prozent,Hybrid Fiber Coax (HFC),Mecklenburg-Vorpommern,code13,45.69
-2022/1,Prozent,Hybrid Fiber Coax (HFC),Niedersachsen,code03,62.18
-2022/2,Prozent,Hybrid Fiber Coax (HFC),Niedersachsen,code03,62.51
-2023/1,Prozent,Hybrid Fiber Coax (HFC),Niedersachsen,code03,62.79
-2023/2,Prozent,Hybrid Fiber Coax (HFC),Niedersachsen,code03,62.85
-2024/1,Prozent,Hybrid Fiber Coax (HFC),Niedersachsen,code03,62.77
-2022/1,Prozent,Hybrid Fiber Coax (HFC),Nordrhein-Westfalen,code05,63.98
-2022/2,Prozent,Hybrid Fiber Coax (HFC),Nordrhein-Westfalen,code05,66.76
-2023/1,Prozent,Hybrid Fiber Coax (HFC),Nordrhein-Westfalen,code05,67.44
-2023/2,Prozent,Hybrid Fiber Coax (HFC),Nordrhein-Westfalen,code05,67.58
-2024/1,Prozent,Hybrid Fiber Coax (HFC),Nordrhein-Westfalen,code05,67.64
-2022/1,Prozent,Hybrid Fiber Coax (HFC),Rheinland-Pfalz,code07,54.47
-2022/2,Prozent,Hybrid Fiber Coax (HFC),Rheinland-Pfalz,code07,54.5
-2023/1,Prozent,Hybrid Fiber Coax (HFC),Rheinland-Pfalz,code07,55.72
-2023/2,Prozent,Hybrid Fiber Coax (HFC),Rheinland-Pfalz,code07,55.89
-2024/1,Prozent,Hybrid Fiber Coax (HFC),Rheinland-Pfalz,code07,57.41
-2022/1,Prozent,Hybrid Fiber Coax (HFC),Saarland,code10,57.92
-2022/2,Prozent,Hybrid Fiber Coax (HFC),Saarland,code10,58.98
-2023/1,Prozent,Hybrid Fiber Coax (HFC),Saarland,code10,59.83
-2023/2,Prozent,Hybrid Fiber Coax (HFC),Saarland,code10,59.94
-2024/1,Prozent,Hybrid Fiber Coax (HFC),Saarland,code10,60.92
-2022/1,Prozent,Hybrid Fiber Coax (HFC),Sachsen,code14,33.79
-2022/2,Prozent,Hybrid Fiber Coax (HFC),Sachsen,code14,40.47
-2023/1,Prozent,Hybrid Fiber Coax (HFC),Sachsen,code14,46.37
-2023/2,Prozent,Hybrid Fiber Coax (HFC),Sachsen,code14,45.52
-2024/1,Prozent,Hybrid Fiber Coax (HFC),Sachsen,code14,46.39
-2022/1,Prozent,Hybrid Fiber Coax (HFC),Sachsen-Anhalt,code15,23.66
-2022/2,Prozent,Hybrid Fiber Coax (HFC),Sachsen-Anhalt,code15,23.88
-2023/1,Prozent,Hybrid Fiber Coax (HFC),Sachsen-Anhalt,code15,36.67
-2023/2,Prozent,Hybrid Fiber Coax (HFC),Sachsen-Anhalt,code15,35.8
-2024/1,Prozent,Hybrid Fiber Coax (HFC),Sachsen-Anhalt,code15,37.64
-2022/1,Prozent,Hybrid Fiber Coax (HFC),Schleswig-Holstein,code01,66.61
-2022/2,Prozent,Hybrid Fiber Coax (HFC),Schleswig-Holstein,code01,66.59
-2023/1,Prozent,Hybrid Fiber Coax (HFC),Schleswig-Holstein,code01,66.7
-2023/2,Prozent,Hybrid Fiber Coax (HFC),Schleswig-Holstein,code01,66.71
-2024/1,Prozent,Hybrid Fiber Coax (HFC),Schleswig-Holstein,code01,66.15
-2022/1,Prozent,Hybrid Fiber Coax (HFC),Thüringen,code16,35.41
-2022/2,Prozent,Hybrid Fiber Coax (HFC),Thüringen,code16,35.11
-2023/1,Prozent,Hybrid Fiber Coax (HFC),Thüringen,code16,38.94
-2023/2,Prozent,Hybrid Fiber Coax (HFC),Thüringen,code16,39.78
-2024/1,Prozent,Hybrid Fiber Coax (HFC),Thüringen,code16,40.05
+Year,Units,Zeitreihe,Value
+2015,Prozent,Alle leitungsgebundenen Technologien,
+2016,Prozent,Alle leitungsgebundenen Technologien,
+2017,Prozent,Alle leitungsgebundenen Technologien,
+2025,Prozent,Alle leitungsgebundenen Technologien,
+2018/2,Prozent,Alle leitungsgebundenen Technologien,27.33
+2019/1,Prozent,Alle leitungsgebundenen Technologien,34.12
+2019/2,Prozent,Alle leitungsgebundenen Technologien,43.22
+2020/1,Prozent,Alle leitungsgebundenen Technologien,55.9
+2020/2,Prozent,Alle leitungsgebundenen Technologien,59.18
+2021/1,Prozent,Alle leitungsgebundenen Technologien,62.13
+2021/2,Prozent,Alle leitungsgebundenen Technologien,
+2022/1,Prozent,Alle leitungsgebundenen Technologien,68.04
+2022/2,Prozent,Alle leitungsgebundenen Technologien,70.5
+2023/1,Prozent,Alle leitungsgebundenen Technologien,73.6
+2023/2,Prozent,Alle leitungsgebundenen Technologien,74.8
+2024/1,Prozent,Alle leitungsgebundenen Technologien,76.47
+2015,Prozent,Reine Glasfasernetze (FTTB/H),6.7
+2016,Prozent,Reine Glasfasernetze (FTTB/H),7.1
+2017,Prozent,Reine Glasfasernetze (FTTB/H),8.0
+2025,Prozent,Reine Glasfasernetze (FTTB/H),
+2018/2,Prozent,Reine Glasfasernetze (FTTB/H),9.0
+2019/1,Prozent,Reine Glasfasernetze (FTTB/H),10.5
+2019/2,Prozent,Reine Glasfasernetze (FTTB/H),11.8
+2020/1,Prozent,Reine Glasfasernetze (FTTB/H),13.8
+2020/2,Prozent,Reine Glasfasernetze (FTTB/H),14.5
+2021/1,Prozent,Reine Glasfasernetze (FTTB/H),15.4
+2021/2,Prozent,Reine Glasfasernetze (FTTB/H),
+2022/1,Prozent,Reine Glasfasernetze (FTTB/H),18.2
+2022/2,Prozent,Reine Glasfasernetze (FTTB/H),23.2
+2023/1,Prozent,Reine Glasfasernetze (FTTB/H),28.2
+2023/2,Prozent,Reine Glasfasernetze (FTTB/H),32.1
+2024/1,Prozent,Reine Glasfasernetze (FTTB/H),35.69
+2015,Prozent,Hybrid Fiber Coax (HFC),
+2016,Prozent,Hybrid Fiber Coax (HFC),
+2017,Prozent,Hybrid Fiber Coax (HFC),
+2025,Prozent,Hybrid Fiber Coax (HFC),
+2018/2,Prozent,Hybrid Fiber Coax (HFC),23.66
+2019/1,Prozent,Hybrid Fiber Coax (HFC),29.28
+2019/2,Prozent,Hybrid Fiber Coax (HFC),37.83
+2020/1,Prozent,Hybrid Fiber Coax (HFC),50.18
+2020/2,Prozent,Hybrid Fiber Coax (HFC),53.5
+2021/1,Prozent,Hybrid Fiber Coax (HFC),56.54
+2021/2,Prozent,Hybrid Fiber Coax (HFC),
+2022/1,Prozent,Hybrid Fiber Coax (HFC),59.07
+2022/2,Prozent,Hybrid Fiber Coax (HFC),60.55
+2023/1,Prozent,Hybrid Fiber Coax (HFC),61.94
+2023/2,Prozent,Hybrid Fiber Coax (HFC),62.04
+2024/1,Prozent,Hybrid Fiber Coax (HFC),62.33

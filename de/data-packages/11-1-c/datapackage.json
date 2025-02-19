@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "2000 = 100",
-                "Einwohner/-innen pro m² Siedlungs- und Verkehrsfläche",
+                "Einwohner/-innen pro km² Siedlungs- und Verkehrsfläche",
                 ""
               ]
             },
@@ -38,37 +38,6 @@
               ]
             },
             "title": "Verstädterungsgrad"
-          },
-          {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Württemberg",
-                "Bayern",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hessen",
-                "Mecklenburg-Vorpommern",
-                "Niedersachsen",
-                "Nordrhein-Westfalen",
-                "Rheinland-Pfalz",
-                "Saarland",
-                "Sachsen",
-                "Sachsen-Anhalt",
-                "Schleswig-Holstein",
-                "Thüringen",
-                ""
-              ]
-            },
-            "title": "Bundesland"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
           },
           {
             "name": "Value",

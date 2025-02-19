@@ -1,0 +1,67 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl der Bewertungen",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Effectiveness",
+                "<u>Infolinie:</u> Technical compliance",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "rating",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weitgehend oder hoch",
+                "Niedrig oder moderat",
+                "Weitgehend konform oder konform mit den Vorschriften",
+                "Nicht konform oder teilweise konform mit den Vorschriften",
+                ""
+              ]
+            },
+            "title": "Bewertung"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-4",
+  "title": "Financial Action Task Force (FATF) rating effectiveness"
+}
