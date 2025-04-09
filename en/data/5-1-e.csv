@@ -15,7 +15,8 @@ Year,Units,Time series,Value
 2019,Hours,Mothers,18.704
 2020,Hours,Mothers,18.443
 2021,Hours,Mothers,18.726
-2022,Hours,Mothers,19.107
+2022,Hours,Mothers,19.073
+2023,Hours,Mothers,19.201
 2006,Hours,Fathers,35.927
 2007,Hours,Fathers,36.254
 2008,Hours,Fathers,38.093
@@ -32,7 +33,8 @@ Year,Units,Time series,Value
 2019,Hours,Fathers,37.587
 2020,Hours,Fathers,36.528
 2021,Hours,Fathers,36.515
-2022,Hours,Fathers,37.024
+2022,Hours,Fathers,36.982
+2023,Hours,Fathers,36.783
 2006,Hours,Difference,21.18
 2007,Hours,Difference,21.307
 2008,Hours,Difference,22.583
@@ -49,4 +51,5 @@ Year,Units,Time series,Value
 2019,Hours,Difference,18.883
 2020,Hours,Difference,18.085
 2021,Hours,Difference,17.789
-2022,Hours,Difference,17.917
+2022,Hours,Difference,17.909
+2023,Hours,Difference,17.585

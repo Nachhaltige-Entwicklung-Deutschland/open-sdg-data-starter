@@ -27,6 +27,19 @@
             "title": "Units"
           },
           {
+            "name": "xxxsektoren",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nachhaltige bewirtschaftete Fläche",
+                "Waldfläche nachhaltige Bewirtschaftung und Wiederherstellung",
+                "Terrestrische Schutzgebiete und Mangrovenwälder in marinen Schutzgebieten",
+                ""
+              ]
+            },
+            "title": "Sektoren"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

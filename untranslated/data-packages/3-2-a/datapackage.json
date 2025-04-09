@@ -29,6 +29,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "xxxinsgesamt",
                 "so₂",
                 "noₓ",
                 "nh₃",

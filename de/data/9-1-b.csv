@@ -1,8 +1,4 @@
 Year,Units,Zeitreihe,Value
-2015,Prozent,Alle leitungsgebundenen Technologien,
-2016,Prozent,Alle leitungsgebundenen Technologien,
-2017,Prozent,Alle leitungsgebundenen Technologien,
-2025,Prozent,Alle leitungsgebundenen Technologien,
 2018/2,Prozent,Alle leitungsgebundenen Technologien,27.33
 2019/1,Prozent,Alle leitungsgebundenen Technologien,34.12
 2019/2,Prozent,Alle leitungsgebundenen Technologien,43.22
@@ -18,7 +14,6 @@ Year,Units,Zeitreihe,Value
 2015,Prozent,Reine Glasfasernetze (FTTB/H),6.7
 2016,Prozent,Reine Glasfasernetze (FTTB/H),7.1
 2017,Prozent,Reine Glasfasernetze (FTTB/H),8.0
-2025,Prozent,Reine Glasfasernetze (FTTB/H),
 2018/2,Prozent,Reine Glasfasernetze (FTTB/H),9.0
 2019/1,Prozent,Reine Glasfasernetze (FTTB/H),10.5
 2019/2,Prozent,Reine Glasfasernetze (FTTB/H),11.8
@@ -31,10 +26,6 @@ Year,Units,Zeitreihe,Value
 2023/1,Prozent,Reine Glasfasernetze (FTTB/H),28.2
 2023/2,Prozent,Reine Glasfasernetze (FTTB/H),32.1
 2024/1,Prozent,Reine Glasfasernetze (FTTB/H),35.69
-2015,Prozent,Hybrid Fiber Coax (HFC),
-2016,Prozent,Hybrid Fiber Coax (HFC),
-2017,Prozent,Hybrid Fiber Coax (HFC),
-2025,Prozent,Hybrid Fiber Coax (HFC),
 2018/2,Prozent,Hybrid Fiber Coax (HFC),23.66
 2019/1,Prozent,Hybrid Fiber Coax (HFC),29.28
 2019/2,Prozent,Hybrid Fiber Coax (HFC),37.83

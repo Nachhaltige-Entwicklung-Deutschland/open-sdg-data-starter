@@ -39,7 +39,7 @@
             "title": "Series"
           },
           {
-            "name": "rating",
+            "name": "xxxlevel of compliance",
             "type": "string",
             "constraints": {
               "enum": [
@@ -50,7 +50,7 @@
                 ""
               ]
             },
-            "title": "Rating"
+            "title": "xxxLevel of compliance"
           },
           {
             "name": "Value",

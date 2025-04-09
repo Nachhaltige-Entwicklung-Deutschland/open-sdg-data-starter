@@ -32,7 +32,7 @@
             "constraints": {
               "enum": [
                 "Unbereinigter Gender Pay Gap",
-                "<u>Infolinie</u>: Bereinigter Gender Pay Gap",
+                "Bereinigter Gender Pay Gap",
                 ""
               ]
             },

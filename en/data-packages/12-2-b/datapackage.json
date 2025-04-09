@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -25,6 +25,18 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "XXXNachhaltigkeitszertifizierte Kultur- und Medieneinrichtungen",
+                "XXXProduktionen audiovisueller Medien, bei denen ökologische Standards eingehalten wurden",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
