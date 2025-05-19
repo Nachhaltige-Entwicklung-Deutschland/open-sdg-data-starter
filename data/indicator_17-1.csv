@@ -1,60 +1,31 @@
-Year,Units,calculation method,Value
-1995,percentage,calculated as net expenditure,0.31
-1996,percentage,calculated as net expenditure,0.32
-1997,percentage,calculated as net expenditure,0.28
-1998,percentage,calculated as net expenditure,0.26
-1999,percentage,calculated as net expenditure,0.26
-2000,percentage,calculated as net expenditure,0.27
-2001,percentage,calculated as net expenditure,0.27
-2002,percentage,calculated as net expenditure,0.27
-2003,percentage,calculated as net expenditure,0.28
-2004,percentage,calculated as net expenditure,0.28
-2005,percentage,calculated as net expenditure,0.36
-2006,percentage,calculated as net expenditure,0.36
-2007,percentage,calculated as net expenditure,0.37
-2008,percentage,calculated as net expenditure,0.38
-2009,percentage,calculated as net expenditure,0.35
-2010,percentage,calculated as net expenditure,0.39
-2011,percentage,calculated as net expenditure,0.39
-2012,percentage,calculated as net expenditure,0.37
-2013,percentage,calculated as net expenditure,0.38
-2014,percentage,calculated as net expenditure,0.42
-2015,percentage,calculated as net expenditure,0.52
-2016,percentage,calculated as net expenditure,0.7
-2017,percentage,calculated as net expenditure,0.67
-2018,percentage,calculated as net expenditure,
-2019,percentage,calculated as net expenditure,
-2020,percentage,calculated as net expenditure,
-2021,percentage,calculated as net expenditure,
-2022,percentage,calculated as net expenditure,
-2023,percentage,calculated as net expenditure,
-1995,percentage,calculated in grant equivalents,
-1996,percentage,calculated in grant equivalents,
-1997,percentage,calculated in grant equivalents,
-1998,percentage,calculated in grant equivalents,
-1999,percentage,calculated in grant equivalents,
-2000,percentage,calculated in grant equivalents,
-2001,percentage,calculated in grant equivalents,
-2002,percentage,calculated in grant equivalents,
-2003,percentage,calculated in grant equivalents,
-2004,percentage,calculated in grant equivalents,
-2005,percentage,calculated in grant equivalents,
-2006,percentage,calculated in grant equivalents,
-2007,percentage,calculated in grant equivalents,
-2008,percentage,calculated in grant equivalents,
-2009,percentage,calculated in grant equivalents,
-2010,percentage,calculated in grant equivalents,
-2011,percentage,calculated in grant equivalents,
-2012,percentage,calculated in grant equivalents,
-2013,percentage,calculated in grant equivalents,
-2014,percentage,calculated in grant equivalents,
-2015,percentage,calculated in grant equivalents,
-2016,percentage,calculated in grant equivalents,
-2017,percentage,calculated in grant equivalents,
-2018,percentage,calculated in grant equivalents,0.61
-2019,percentage,calculated in grant equivalents,0.61
-2020,percentage,calculated in grant equivalents,0.73
-2021,percentage,calculated in grant equivalents,0.76
-2022,percentage,calculated in grant equivalents,0.85
-2023,percentage,calculated in grant equivalents,0.82
-2030,percentage,calculated in grant equivalents,
+Year,Units,Value
+1995,percentage,0.31
+1996,percentage,0.32
+1997,percentage,0.28
+1998,percentage,0.26
+1999,percentage,0.26
+2000,percentage,0.27
+2001,percentage,0.27
+2002,percentage,0.27
+2003,percentage,0.28
+2004,percentage,0.28
+2005,percentage,0.36
+2006,percentage,0.36
+2007,percentage,0.37
+2008,percentage,0.38
+2009,percentage,0.35
+2010,percentage,0.39
+2011,percentage,0.39
+2012,percentage,0.37
+2013,percentage,0.38
+2014,percentage,0.42
+2015,percentage,0.52
+2016,percentage,0.7
+2017,percentage,0.67
+2018,percentage,0.61
+2019,percentage,0.61
+2020,percentage,0.73
+2021,percentage,0.76
+2022,percentage,0.85
+2023,percentage,0.82
+2030,percentage,

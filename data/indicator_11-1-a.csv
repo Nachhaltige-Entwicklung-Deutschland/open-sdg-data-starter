@@ -1,887 +1,219 @@
-Year,Units,Series,type of area,federal state,GeoCode,Value
-1996,hectre per day,moving four-year average,,,,120.0
-1997,hectre per day,moving four-year average,,,,121.0
-1998,hectre per day,moving four-year average,,,,124.0
-1999,hectre per day,moving four-year average,,,,126.0
-2000,hectre per day,moving four-year average,,,,129.0
-2001,hectre per day,moving four-year average,,,,128.0
-2002,hectre per day,moving four-year average,,,,123.0
-2003,hectre per day,moving four-year average,,,,115.0
-2004,hectre per day,moving four-year average,,,,115.0
-2005,hectre per day,moving four-year average,,,,114.0
-2006,hectre per day,moving four-year average,,,,113.0
-2007,hectre per day,moving four-year average,,,,113.0
-2008,hectre per day,moving four-year average,,,,104.0
-2009,hectre per day,moving four-year average,,,,94.0
-2010,hectre per day,moving four-year average,,,,87.0
-2011,hectre per day,moving four-year average,,,,81.0
-2012,hectre per day,moving four-year average,,,,74.0
-2013,hectre per day,moving four-year average,,,,73.0
-2014,hectre per day,moving four-year average,,,,69.0
-2015,hectre per day,moving four-year average,,,,66.0
-2016,hectre per day,moving four-year average,,,,62.0
-2017,hectre per day,moving four-year average,,,,58.0
-2018,hectre per day,moving four-year average,,,,56.0
-2019,hectre per day,moving four-year average,,,,52.0
-2020,hectre per day,moving four-year average,,,,54.0
-2021,hectre per day,moving four-year average,,,,55.0
-2022,hectre per day,moving four-year average,,,,52.0
-2030,hectre per day,moving four-year average,,,,
-1996,hectre per day,moving four-year average,transport area,,,24.0
-1997,hectre per day,moving four-year average,transport area,,,21.0
-1998,hectre per day,moving four-year average,transport area,,,23.0
-1999,hectre per day,moving four-year average,transport area,,,23.0
-2000,hectre per day,moving four-year average,transport area,,,23.0
-2001,hectre per day,moving four-year average,transport area,,,23.0
-2002,hectre per day,moving four-year average,transport area,,,23.0
-2003,hectre per day,moving four-year average,transport area,,,22.0
-2004,hectre per day,moving four-year average,transport area,,,22.0
-2005,hectre per day,moving four-year average,transport area,,,23.0
-2006,hectre per day,moving four-year average,transport area,,,24.0
-2007,hectre per day,moving four-year average,transport area,,,25.0
-2008,hectre per day,moving four-year average,transport area,,,24.0
-2009,hectre per day,moving four-year average,transport area,,,22.0
-2010,hectre per day,moving four-year average,transport area,,,21.0
-2011,hectre per day,moving four-year average,transport area,,,19.0
-2012,hectre per day,moving four-year average,transport area,,,17.0
-2013,hectre per day,moving four-year average,transport area,,,17.0
-2014,hectre per day,moving four-year average,transport area,,,17.0
-2015,hectre per day,moving four-year average,transport area,,,16.0
-2016,hectre per day,moving four-year average,transport area,,,
-2017,hectre per day,moving four-year average,transport area,,,
-2018,hectre per day,moving four-year average,transport area,,,
-2019,hectre per day,moving four-year average,transport area,,,
-2020,hectre per day,moving four-year average,transport area,,,8.0
-2021,hectre per day,moving four-year average,transport area,,,8.0
-2022,hectre per day,moving four-year average,transport area,,,4.0
-1996,hectre per day,moving four-year average,settlement area (built on),,,87.0
-1997,hectre per day,moving four-year average,settlement area (built on),,,83.0
-1998,hectre per day,moving four-year average,settlement area (built on),,,87.0
-1999,hectre per day,moving four-year average,settlement area (built on),,,87.0
-2000,hectre per day,moving four-year average,settlement area (built on),,,86.0
-2001,hectre per day,moving four-year average,settlement area (built on),,,83.0
-2002,hectre per day,moving four-year average,settlement area (built on),,,77.0
-2003,hectre per day,moving four-year average,settlement area (built on),,,67.0
-2004,hectre per day,moving four-year average,settlement area (built on),,,60.0
-2005,hectre per day,moving four-year average,settlement area (built on),,,52.0
-2006,hectre per day,moving four-year average,settlement area (built on),,,43.0
-2007,hectre per day,moving four-year average,settlement area (built on),,,41.0
-2008,hectre per day,moving four-year average,settlement area (built on),,,35.0
-2009,hectre per day,moving four-year average,settlement area (built on),,,33.0
-2010,hectre per day,moving four-year average,settlement area (built on),,,34.0
-2011,hectre per day,moving four-year average,settlement area (built on),,,31.0
-2012,hectre per day,moving four-year average,settlement area (built on),,,33.0
-2013,hectre per day,moving four-year average,settlement area (built on),,,33.0
-2014,hectre per day,moving four-year average,settlement area (built on),,,30.0
-2015,hectre per day,moving four-year average,settlement area (built on),,,33.0
-2016,hectre per day,moving four-year average,settlement area (built on),,,
-2017,hectre per day,moving four-year average,settlement area (built on),,,
-2018,hectre per day,moving four-year average,settlement area (built on),,,
-2019,hectre per day,moving four-year average,settlement area (built on),,,
-2020,hectre per day,moving four-year average,settlement area (built on),,,34.0
-2021,hectre per day,moving four-year average,settlement area (built on),,,36.0
-2022,hectre per day,moving four-year average,settlement area (built on),,,37.0
-1996,hectre per day,moving four-year average,"recreation area, cemetery",,,9.0
-1997,hectre per day,moving four-year average,"recreation area, cemetery",,,20.0
-1998,hectre per day,moving four-year average,"recreation area, cemetery",,,21.0
-1999,hectre per day,moving four-year average,"recreation area, cemetery",,,21.0
-2000,hectre per day,moving four-year average,"recreation area, cemetery",,,20.0
-2001,hectre per day,moving four-year average,"recreation area, cemetery",,,23.0
-2002,hectre per day,moving four-year average,"recreation area, cemetery",,,23.0
-2003,hectre per day,moving four-year average,"recreation area, cemetery",,,26.0
-2004,hectre per day,moving four-year average,"recreation area, cemetery",,,32.0
-2005,hectre per day,moving four-year average,"recreation area, cemetery",,,40.0
-2006,hectre per day,moving four-year average,"recreation area, cemetery",,,47.0
-2007,hectre per day,moving four-year average,"recreation area, cemetery",,,47.0
-2008,hectre per day,moving four-year average,"recreation area, cemetery",,,45.0
-2009,hectre per day,moving four-year average,"recreation area, cemetery",,,39.0
-2010,hectre per day,moving four-year average,"recreation area, cemetery",,,32.0
-2011,hectre per day,moving four-year average,"recreation area, cemetery",,,30.0
-2012,hectre per day,moving four-year average,"recreation area, cemetery",,,25.0
-2013,hectre per day,moving four-year average,"recreation area, cemetery",,,23.0
-2014,hectre per day,moving four-year average,"recreation area, cemetery",,,22.0
-2015,hectre per day,moving four-year average,"recreation area, cemetery",,,18.0
-2016,hectre per day,moving four-year average,"recreation area, cemetery",,,
-2017,hectre per day,moving four-year average,"recreation area, cemetery",,,
-2018,hectre per day,moving four-year average,"recreation area, cemetery",,,
-2019,hectre per day,moving four-year average,"recreation area, cemetery",,,
-2020,hectre per day,moving four-year average,"recreation area, cemetery",,,12.0
-2021,hectre per day,moving four-year average,"recreation area, cemetery",,,11.0
-2022,hectre per day,moving four-year average,"recreation area, cemetery",,,11.0
-1996,hectre per day,moving four-year average,,baden-wuerttemberg,code08,10.0
-2000,hectre per day,moving four-year average,,baden-wuerttemberg,code08,12.0
-2004,hectre per day,moving four-year average,,baden-wuerttemberg,code08,10.0
-2005,hectre per day,moving four-year average,,baden-wuerttemberg,code08,10.0
-2006,hectre per day,moving four-year average,,baden-wuerttemberg,code08,9.0
-2007,hectre per day,moving four-year average,,baden-wuerttemberg,code08,9.0
-2008,hectre per day,moving four-year average,,baden-wuerttemberg,code08,9.0
-2009,hectre per day,moving four-year average,,baden-wuerttemberg,code08,9.0
-2010,hectre per day,moving four-year average,,baden-wuerttemberg,code08,8.0
-2011,hectre per day,moving four-year average,,baden-wuerttemberg,code08,7.0
-2012,hectre per day,moving four-year average,,baden-wuerttemberg,code08,7.0
-2013,hectre per day,moving four-year average,,baden-wuerttemberg,code08,6.0
-2014,hectre per day,moving four-year average,,baden-wuerttemberg,code08,6.0
-2015,hectre per day,moving four-year average,,baden-wuerttemberg,code08,6.0
-2019,hectre per day,moving four-year average,,baden-wuerttemberg,code08,5.0
-2020,hectre per day,moving four-year average,,baden-wuerttemberg,code08,6.0
-2021,hectre per day,moving four-year average,,baden-wuerttemberg,code08,5.0
-2022,hectre per day,moving four-year average,,baden-wuerttemberg,code08,5.0
-1996,hectre per day,moving four-year average,,bavaria,code09,27.0
-2000,hectre per day,moving four-year average,,bavaria,code09,28.0
-2004,hectre per day,moving four-year average,,bavaria,code09,18.0
-2005,hectre per day,moving four-year average,,bavaria,code09,17.0
-2006,hectre per day,moving four-year average,,bavaria,code09,17.0
-2007,hectre per day,moving four-year average,,bavaria,code09,17.0
-2008,hectre per day,moving four-year average,,bavaria,code09,17.0
-2009,hectre per day,moving four-year average,,bavaria,code09,17.0
-2010,hectre per day,moving four-year average,,bavaria,code09,17.0
-2011,hectre per day,moving four-year average,,bavaria,code09,18.0
-2012,hectre per day,moving four-year average,,bavaria,code09,18.0
-2013,hectre per day,moving four-year average,,bavaria,code09,19.0
-2015,hectre per day,moving four-year average,,bavaria,code09,12.0
-2018,hectre per day,moving four-year average,,bavaria,code09,11.0
-2019,hectre per day,moving four-year average,,bavaria,code09,11.0
-2020,hectre per day,moving four-year average,,bavaria,code09,11.0
-2021,hectre per day,moving four-year average,,bavaria,code09,11.0
-1996,hectre per day,moving four-year average,,berlin,code11,-1.0
-2000,hectre per day,moving four-year average,,berlin,code11,1.0
-2004,hectre per day,moving four-year average,,berlin,code11,0.0
-2005,hectre per day,moving four-year average,,berlin,code11,0.0
-2006,hectre per day,moving four-year average,,berlin,code11,0.0
-2007,hectre per day,moving four-year average,,berlin,code11,0.0
-2008,hectre per day,moving four-year average,,berlin,code11,0.0
-2009,hectre per day,moving four-year average,,berlin,code11,0.0
-2010,hectre per day,moving four-year average,,berlin,code11,0.0
-2011,hectre per day,moving four-year average,,berlin,code11,0.0
-2012,hectre per day,moving four-year average,,berlin,code11,0.0
-2013,hectre per day,moving four-year average,,berlin,code11,0.0
-2014,hectre per day,moving four-year average,,berlin,code11,0.0
-2015,hectre per day,moving four-year average,,berlin,code11,0.0
-2016,hectre per day,moving four-year average,,berlin,code11,0.0
-2017,hectre per day,moving four-year average,,berlin,code11,0.0
-2018,hectre per day,moving four-year average,,berlin,code11,0.0
-2019,hectre per day,moving four-year average,,berlin,code11,0.0
-2020,hectre per day,moving four-year average,,berlin,code11,0.0
-2021,hectre per day,moving four-year average,,berlin,code11,0.0
-2022,hectre per day,moving four-year average,,berlin,code11,0.0
-1996,hectre per day,moving four-year average,,brandenburg,code12,7.0
-2000,hectre per day,moving four-year average,,brandenburg,code12,9.0
-2004,hectre per day,moving four-year average,,brandenburg,code12,8.0
-2005,hectre per day,moving four-year average,,brandenburg,code12,9.0
-2006,hectre per day,moving four-year average,,brandenburg,code12,9.0
-2007,hectre per day,moving four-year average,,brandenburg,code12,8.0
-2008,hectre per day,moving four-year average,,brandenburg,code12,10.0
-2009,hectre per day,moving four-year average,,brandenburg,code12,8.0
-2010,hectre per day,moving four-year average,,brandenburg,code12,8.0
-2011,hectre per day,moving four-year average,,brandenburg,code12,7.0
-2012,hectre per day,moving four-year average,,brandenburg,code12,5.0
-2013,hectre per day,moving four-year average,,brandenburg,code12,6.0
-2014,hectre per day,moving four-year average,,brandenburg,code12,5.0
-2015,hectre per day,moving four-year average,,brandenburg,code12,5.0
-2016,hectre per day,moving four-year average,,brandenburg,code12,5.0
-2017,hectre per day,moving four-year average,,brandenburg,code12,2.0
-2018,hectre per day,moving four-year average,,brandenburg,code12,2.0
-2019,hectre per day,moving four-year average,,brandenburg,code12,1.0
-2020,hectre per day,moving four-year average,,brandenburg,code12,3.0
-2021,hectre per day,moving four-year average,,brandenburg,code12,4.0
-2022,hectre per day,moving four-year average,,brandenburg,code12,5.0
-1996,hectre per day,moving four-year average,,bremen,code04,0.0
-2000,hectre per day,moving four-year average,,bremen,code04,1.0
-2004,hectre per day,moving four-year average,,bremen,code04,0.0
-2005,hectre per day,moving four-year average,,bremen,code04,0.0
-2006,hectre per day,moving four-year average,,bremen,code04,0.0
-2007,hectre per day,moving four-year average,,bremen,code04,0.0
-2008,hectre per day,moving four-year average,,bremen,code04,0.0
-2009,hectre per day,moving four-year average,,bremen,code04,0.0
-2010,hectre per day,moving four-year average,,bremen,code04,0.0
-2011,hectre per day,moving four-year average,,bremen,code04,0.0
-2012,hectre per day,moving four-year average,,bremen,code04,0.0
-2013,hectre per day,moving four-year average,,bremen,code04,0.0
-2014,hectre per day,moving four-year average,,bremen,code04,0.0
-2015,hectre per day,moving four-year average,,bremen,code04,0.0
-2016,hectre per day,moving four-year average,,bremen,code04,0.0
-2017,hectre per day,moving four-year average,,bremen,code04,0.0
-2018,hectre per day,moving four-year average,,bremen,code04,0.0
-2019,hectre per day,moving four-year average,,bremen,code04,0.0
-2020,hectre per day,moving four-year average,,bremen,code04,0.0
-2021,hectre per day,moving four-year average,,bremen,code04,0.0
-2022,hectre per day,moving four-year average,,bremen,code04,0.0
-1996,hectre per day,moving four-year average,,hamburg,code02,0.0
-2000,hectre per day,moving four-year average,,hamburg,code02,0.0
-2004,hectre per day,moving four-year average,,hamburg,code02,1.0
-2005,hectre per day,moving four-year average,,hamburg,code02,1.0
-2006,hectre per day,moving four-year average,,hamburg,code02,1.0
-2007,hectre per day,moving four-year average,,hamburg,code02,1.0
-2008,hectre per day,moving four-year average,,hamburg,code02,1.0
-2009,hectre per day,moving four-year average,,hamburg,code02,0.0
-2010,hectre per day,moving four-year average,,hamburg,code02,0.0
-2011,hectre per day,moving four-year average,,hamburg,code02,0.0
-2012,hectre per day,moving four-year average,,hamburg,code02,0.0
-2013,hectre per day,moving four-year average,,hamburg,code02,0.0
-2014,hectre per day,moving four-year average,,hamburg,code02,0.0
-2015,hectre per day,moving four-year average,,hamburg,code02,0.0
-2016,hectre per day,moving four-year average,,hamburg,code02,-1.0
-2017,hectre per day,moving four-year average,,hamburg,code02,-1.0
-2018,hectre per day,moving four-year average,,hamburg,code02,0.0
-2019,hectre per day,moving four-year average,,hamburg,code02,0.0
-2020,hectre per day,moving four-year average,,hamburg,code02,0.0
-2021,hectre per day,moving four-year average,,hamburg,code02,0.0
-2022,hectre per day,moving four-year average,,hamburg,code02,0.0
-1996,hectre per day,moving four-year average,,hesse,code06,5.0
-2000,hectre per day,moving four-year average,,hesse,code06,5.0
-2004,hectre per day,moving four-year average,,hesse,code06,4.0
-2005,hectre per day,moving four-year average,,hesse,code06,4.0
-2006,hectre per day,moving four-year average,,hesse,code06,4.0
-2007,hectre per day,moving four-year average,,hesse,code06,4.0
-2008,hectre per day,moving four-year average,,hesse,code06,4.0
-2009,hectre per day,moving four-year average,,hesse,code06,4.0
-2010,hectre per day,moving four-year average,,hesse,code06,4.0
-2011,hectre per day,moving four-year average,,hesse,code06,3.0
-2012,hectre per day,moving four-year average,,hesse,code06,3.0
-2013,hectre per day,moving four-year average,,hesse,code06,3.0
-2014,hectre per day,moving four-year average,,hesse,code06,3.0
-2015,hectre per day,moving four-year average,,hesse,code06,3.0
-2021,hectre per day,moving four-year average,,hesse,code06,2.0
-1996,hectre per day,moving four-year average,,mecklenburg western pomerania,code13,6.0
-2000,hectre per day,moving four-year average,,mecklenburg western pomerania,code13,8.0
-2004,hectre per day,moving four-year average,,mecklenburg western pomerania,code13,9.0
-2005,hectre per day,moving four-year average,,mecklenburg western pomerania,code13,9.0
-2006,hectre per day,moving four-year average,,mecklenburg western pomerania,code13,8.0
-2007,hectre per day,moving four-year average,,mecklenburg western pomerania,code13,7.0
-2008,hectre per day,moving four-year average,,mecklenburg western pomerania,code13,8.0
-2009,hectre per day,moving four-year average,,mecklenburg western pomerania,code13,8.0
-2010,hectre per day,moving four-year average,,mecklenburg western pomerania,code13,8.0
-2011,hectre per day,moving four-year average,,mecklenburg western pomerania,code13,7.0
-2012,hectre per day,moving four-year average,,mecklenburg western pomerania,code13,5.0
-2013,hectre per day,moving four-year average,,mecklenburg western pomerania,code13,4.0
-2014,hectre per day,moving four-year average,,mecklenburg western pomerania,code13,3.0
-2015,hectre per day,moving four-year average,,mecklenburg western pomerania,code13,3.0
-2016,hectre per day,moving four-year average,,mecklenburg western pomerania,code13,7.0
-2017,hectre per day,moving four-year average,,mecklenburg western pomerania,code13,4.0
-2018,hectre per day,moving four-year average,,mecklenburg western pomerania,code13,4.0
-2019,hectre per day,moving four-year average,,mecklenburg western pomerania,code13,3.0
-2020,hectre per day,moving four-year average,,mecklenburg western pomerania,code13,-2.0
-2021,hectre per day,moving four-year average,,mecklenburg western pomerania,code13,1.0
-2022,hectre per day,moving four-year average,,mecklenburg western pomerania,code13,1.0
-1996,hectre per day,moving four-year average,,lower saxony,code03,16.0
-2000,hectre per day,moving four-year average,,lower saxony,code03,16.0
-2004,hectre per day,moving four-year average,,lower saxony,code03,14.0
-2005,hectre per day,moving four-year average,,lower saxony,code03,14.0
-2006,hectre per day,moving four-year average,,lower saxony,code03,14.0
-2007,hectre per day,moving four-year average,,lower saxony,code03,14.0
-2008,hectre per day,moving four-year average,,lower saxony,code03,12.0
-2009,hectre per day,moving four-year average,,lower saxony,code03,10.0
-2010,hectre per day,moving four-year average,,lower saxony,code03,9.0
-2011,hectre per day,moving four-year average,,lower saxony,code03,11.0
-2012,hectre per day,moving four-year average,,lower saxony,code03,10.0
-2013,hectre per day,moving four-year average,,lower saxony,code03,11.0
-2014,hectre per day,moving four-year average,,lower saxony,code03,11.0
-2015,hectre per day,moving four-year average,,lower saxony,code03,10.0
-2016,hectre per day,moving four-year average,,lower saxony,code03,8.0
-2017,hectre per day,moving four-year average,,lower saxony,code03,7.0
-2018,hectre per day,moving four-year average,,lower saxony,code03,6.0
-2019,hectre per day,moving four-year average,,lower saxony,code03,5.0
-2020,hectre per day,moving four-year average,,lower saxony,code03,7.0
-2021,hectre per day,moving four-year average,,lower saxony,code03,6.0
-2022,hectre per day,moving four-year average,,lower saxony,code03,6.0
-1996,hectre per day,moving four-year average,,north rhine-westphalia,code05,16.0
-2000,hectre per day,moving four-year average,,north rhine-westphalia,code05,17.0
-2004,hectre per day,moving four-year average,,north rhine-westphalia,code05,15.0
-2005,hectre per day,moving four-year average,,north rhine-westphalia,code05,15.0
-2006,hectre per day,moving four-year average,,north rhine-westphalia,code05,14.0
-2007,hectre per day,moving four-year average,,north rhine-westphalia,code05,15.0
-2008,hectre per day,moving four-year average,,north rhine-westphalia,code05,14.0
-2009,hectre per day,moving four-year average,,north rhine-westphalia,code05,13.0
-2010,hectre per day,moving four-year average,,north rhine-westphalia,code05,13.0
-2011,hectre per day,moving four-year average,,north rhine-westphalia,code05,11.0
-2012,hectre per day,moving four-year average,,north rhine-westphalia,code05,10.0
-2013,hectre per day,moving four-year average,,north rhine-westphalia,code05,10.0
-2014,hectre per day,moving four-year average,,north rhine-westphalia,code05,10.0
-2015,hectre per day,moving four-year average,,north rhine-westphalia,code05,10.0
-2021,hectre per day,moving four-year average,,north rhine-westphalia,code05,6.0
-2022,hectre per day,moving four-year average,,north rhine-westphalia,code05,6.0
-1996,hectre per day,moving four-year average,,rhineland palatinate,code07,5.0
-2000,hectre per day,moving four-year average,,rhineland palatinate,code07,5.0
-2004,hectre per day,moving four-year average,,rhineland palatinate,code07,6.0
-2005,hectre per day,moving four-year average,,rhineland palatinate,code07,7.0
-2006,hectre per day,moving four-year average,,rhineland palatinate,code07,7.0
-2007,hectre per day,moving four-year average,,rhineland palatinate,code07,7.0
-2008,hectre per day,moving four-year average,,rhineland palatinate,code07,5.0
-2009,hectre per day,moving four-year average,,rhineland palatinate,code07,4.0
-2010,hectre per day,moving four-year average,,rhineland palatinate,code07,2.0
-2011,hectre per day,moving four-year average,,rhineland palatinate,code07,1.0
-2012,hectre per day,moving four-year average,,rhineland palatinate,code07,1.0
-2013,hectre per day,moving four-year average,,rhineland palatinate,code07,1.0
-2014,hectre per day,moving four-year average,,rhineland palatinate,code07,1.0
-2015,hectre per day,moving four-year average,,rhineland palatinate,code07,1.0
-2016,hectre per day,moving four-year average,,rhineland palatinate,code07,1.0
-2017,hectre per day,moving four-year average,,rhineland palatinate,code07,0.0
-2018,hectre per day,moving four-year average,,rhineland palatinate,code07,1.0
-2019,hectre per day,moving four-year average,,rhineland palatinate,code07,1.0
-2020,hectre per day,moving four-year average,,rhineland palatinate,code07,2.0
-2021,hectre per day,moving four-year average,,rhineland palatinate,code07,4.0
-2022,hectre per day,moving four-year average,,rhineland palatinate,code07,6.0
-1996,hectre per day,moving four-year average,,saarland,code10,1.0
-2000,hectre per day,moving four-year average,,saarland,code10,1.0
-2004,hectre per day,moving four-year average,,saarland,code10,1.0
-2005,hectre per day,moving four-year average,,saarland,code10,1.0
-2006,hectre per day,moving four-year average,,saarland,code10,1.0
-2007,hectre per day,moving four-year average,,saarland,code10,1.0
-2008,hectre per day,moving four-year average,,saarland,code10,1.0
-2009,hectre per day,moving four-year average,,saarland,code10,1.0
-2010,hectre per day,moving four-year average,,saarland,code10,1.0
-2011,hectre per day,moving four-year average,,saarland,code10,1.0
-2012,hectre per day,moving four-year average,,saarland,code10,1.0
-2013,hectre per day,moving four-year average,,saarland,code10,1.0
-2014,hectre per day,moving four-year average,,saarland,code10,0.0
-2015,hectre per day,moving four-year average,,saarland,code10,0.0
-2016,hectre per day,moving four-year average,,saarland,code10,1.0
-2017,hectre per day,moving four-year average,,saarland,code10,1.0
-2018,hectre per day,moving four-year average,,saarland,code10,1.0
-2019,hectre per day,moving four-year average,,saarland,code10,1.0
-2020,hectre per day,moving four-year average,,saarland,code10,0.0
-2021,hectre per day,moving four-year average,,saarland,code10,0.0
-2022,hectre per day,moving four-year average,,saarland,code10,1.0
-1996,hectre per day,moving four-year average,,saxony,code14,9.0
-2000,hectre per day,moving four-year average,,saxony,code14,8.0
-2004,hectre per day,moving four-year average,,saxony,code14,5.0
-2005,hectre per day,moving four-year average,,saxony,code14,4.0
-2006,hectre per day,moving four-year average,,saxony,code14,4.0
-2007,hectre per day,moving four-year average,,saxony,code14,5.0
-2008,hectre per day,moving four-year average,,saxony,code14,6.0
-2009,hectre per day,moving four-year average,,saxony,code14,8.0
-2010,hectre per day,moving four-year average,,saxony,code14,9.0
-2011,hectre per day,moving four-year average,,saxony,code14,8.0
-2012,hectre per day,moving four-year average,,saxony,code14,7.0
-2013,hectre per day,moving four-year average,,saxony,code14,5.0
-2020,hectre per day,moving four-year average,,saxony,code14,5.0
-2021,hectre per day,moving four-year average,,saxony,code14,5.0
-2022,hectre per day,moving four-year average,,saxony,code14,5.0
-1996,hectre per day,moving four-year average,,saxony-anhalt,code15,9.0
-2000,hectre per day,moving four-year average,,saxony-anhalt,code15,10.0
-2004,hectre per day,moving four-year average,,saxony-anhalt,code15,13.0
-2005,hectre per day,moving four-year average,,saxony-anhalt,code15,16.0
-2006,hectre per day,moving four-year average,,saxony-anhalt,code15,18.0
-2007,hectre per day,moving four-year average,,saxony-anhalt,code15,16.0
-2008,hectre per day,moving four-year average,,saxony-anhalt,code15,10.0
-2009,hectre per day,moving four-year average,,saxony-anhalt,code15,4.0
-2010,hectre per day,moving four-year average,,saxony-anhalt,code15,1.0
-2011,hectre per day,moving four-year average,,saxony-anhalt,code15,0.0
-2012,hectre per day,moving four-year average,,saxony-anhalt,code15,-1.0
-2013,hectre per day,moving four-year average,,saxony-anhalt,code15,-1.0
-2014,hectre per day,moving four-year average,,saxony-anhalt,code15,0.0
-2015,hectre per day,moving four-year average,,saxony-anhalt,code15,1.0
-2016,hectre per day,moving four-year average,,saxony-anhalt,code15,1.0
-2017,hectre per day,moving four-year average,,saxony-anhalt,code15,1.0
-2018,hectre per day,moving four-year average,,saxony-anhalt,code15,1.0
-2019,hectre per day,moving four-year average,,saxony-anhalt,code15,1.0
-2020,hectre per day,moving four-year average,,saxony-anhalt,code15,1.0
-2021,hectre per day,moving four-year average,,saxony-anhalt,code15,1.0
-2022,hectre per day,moving four-year average,,saxony-anhalt,code15,1.0
-1996,hectre per day,moving four-year average,,schleswig-holstein,code01,3.0
-2000,hectre per day,moving four-year average,,schleswig-holstein,code01,4.0
-2004,hectre per day,moving four-year average,,schleswig-holstein,code01,8.0
-2008,hectre per day,moving four-year average,,schleswig-holstein,code01,5.0
-2009,hectre per day,moving four-year average,,schleswig-holstein,code01,5.0
-2010,hectre per day,moving four-year average,,schleswig-holstein,code01,4.0
-2011,hectre per day,moving four-year average,,schleswig-holstein,code01,4.0
-2012,hectre per day,moving four-year average,,schleswig-holstein,code01,3.0
-2013,hectre per day,moving four-year average,,schleswig-holstein,code01,3.0
-2014,hectre per day,moving four-year average,,schleswig-holstein,code01,3.0
-2015,hectre per day,moving four-year average,,schleswig-holstein,code01,3.0
-2016,hectre per day,moving four-year average,,schleswig-holstein,code01,2.0
-2017,hectre per day,moving four-year average,,schleswig-holstein,code01,3.0
-2018,hectre per day,moving four-year average,,schleswig-holstein,code01,3.0
-2019,hectre per day,moving four-year average,,schleswig-holstein,code01,2.0
-2020,hectre per day,moving four-year average,,schleswig-holstein,code01,4.0
-2021,hectre per day,moving four-year average,,schleswig-holstein,code01,4.0
-2022,hectre per day,moving four-year average,,schleswig-holstein,code01,4.0
-1996,hectre per day,moving four-year average,,thuringia,code16,6.0
-2000,hectre per day,moving four-year average,,thuringia,code16,4.0
-2004,hectre per day,moving four-year average,,thuringia,code16,2.0
-2005,hectre per day,moving four-year average,,thuringia,code16,2.0
-2006,hectre per day,moving four-year average,,thuringia,code16,1.0
-2007,hectre per day,moving four-year average,,thuringia,code16,2.0
-2008,hectre per day,moving four-year average,,thuringia,code16,2.0
-2009,hectre per day,moving four-year average,,thuringia,code16,2.0
-2010,hectre per day,moving four-year average,,thuringia,code16,3.0
-2011,hectre per day,moving four-year average,,thuringia,code16,4.0
-2012,hectre per day,moving four-year average,,thuringia,code16,4.0
-2013,hectre per day,moving four-year average,,thuringia,code16,4.0
-2014,hectre per day,moving four-year average,,thuringia,code16,5.0
-2015,hectre per day,moving four-year average,,thuringia,code16,5.0
-2016,hectre per day,moving four-year average,,thuringia,code16,6.0
-2022,hectre per day,moving four-year average,,thuringia,code16,1.0
-1996,hectre per day,calculated annual values,,,,120.0
-1997,hectre per day,calculated annual values,,,,124.0
-1998,hectre per day,calculated annual values,,,,131.0
-1999,hectre per day,calculated annual values,,,,131.0
-2000,hectre per day,calculated annual values,,,,132.0
-2001,hectre per day,calculated annual values,,,,122.0
-2002,hectre per day,calculated annual values,,,,109.0
-2003,hectre per day,calculated annual values,,,,99.0
-2004,hectre per day,calculated annual values,,,,131.0
-2005,hectre per day,calculated annual values,,,,117.0
-2006,hectre per day,calculated annual values,,,,106.0
-2007,hectre per day,calculated annual values,,,,97.0
-2008,hectre per day,calculated annual values,,,,95.0
-2009,hectre per day,calculated annual values,,,,78.0
-2010,hectre per day,calculated annual values,,,,77.0
-2011,hectre per day,calculated annual values,,,,74.0
-2012,hectre per day,calculated annual values,,,,69.0
-2013,hectre per day,calculated annual values,,,,71.0
-2014,hectre per day,calculated annual values,,,,63.0
-2015,hectre per day,calculated annual values,,,,62.0
-2016,hectre per day,calculated annual values,,,,
-2017,hectre per day,calculated annual values,,,,55.0
-2018,hectre per day,calculated annual values,,,,58.0
-2019,hectre per day,calculated annual values,,,,45.0
-2020,hectre per day,calculated annual values,,,,58.0
-2021,hectre per day,calculated annual values,,,,58.0
-2022,hectre per day,calculated annual values,,,,48.0
-2030,hectre per day,calculated annual values,,,,
-1996,hectre per day,calculated annual values,transport area,,,24.0
-1997,hectre per day,calculated annual values,transport area,,,21.0
-1998,hectre per day,calculated annual values,transport area,,,23.0
-1999,hectre per day,calculated annual values,transport area,,,23.0
-2000,hectre per day,calculated annual values,transport area,,,24.0
-2001,hectre per day,calculated annual values,transport area,,,23.0
-2002,hectre per day,calculated annual values,transport area,,,22.0
-2003,hectre per day,calculated annual values,transport area,,,20.0
-2004,hectre per day,calculated annual values,transport area,,,25.0
-2005,hectre per day,calculated annual values,transport area,,,25.0
-2006,hectre per day,calculated annual values,transport area,,,24.0
-2007,hectre per day,calculated annual values,transport area,,,24.0
-2008,hectre per day,calculated annual values,transport area,,,21.0
-2009,hectre per day,calculated annual values,transport area,,,18.0
-2010,hectre per day,calculated annual values,transport area,,,21.0
-2011,hectre per day,calculated annual values,transport area,,,17.0
-2012,hectre per day,calculated annual values,transport area,,,11.0
-2013,hectre per day,calculated annual values,transport area,,,19.0
-2014,hectre per day,calculated annual values,transport area,,,23.0
-2015,hectre per day,calculated annual values,transport area,,,10.0
-2016,hectre per day,calculated annual values,transport area,,,
-2017,hectre per day,calculated annual values,transport area,,,8.0
-2018,hectre per day,calculated annual values,transport area,,,16.0
-2019,hectre per day,calculated annual values,transport area,,,2.0
-2020,hectre per day,calculated annual values,transport area,,,6.0
-2021,hectre per day,calculated annual values,transport area,,,8.0
-2022,hectre per day,calculated annual values,transport area,,,-1.0
-1996,hectre per day,calculated annual values,settlement area (built on),,,87.0
-1997,hectre per day,calculated annual values,settlement area (built on),,,83.0
-1998,hectre per day,calculated annual values,settlement area (built on),,,87.0
-1999,hectre per day,calculated annual values,settlement area (built on),,,87.0
-2000,hectre per day,calculated annual values,settlement area (built on),,,87.0
-2001,hectre per day,calculated annual values,settlement area (built on),,,70.0
-2002,hectre per day,calculated annual values,settlement area (built on),,,66.0
-2003,hectre per day,calculated annual values,settlement area (built on),,,45.0
-2004,hectre per day,calculated annual values,settlement area (built on),,,60.0
-2005,hectre per day,calculated annual values,settlement area (built on),,,35.0
-2006,hectre per day,calculated annual values,settlement area (built on),,,30.0
-2007,hectre per day,calculated annual values,settlement area (built on),,,40.0
-2008,hectre per day,calculated annual values,settlement area (built on),,,35.0
-2009,hectre per day,calculated annual values,settlement area (built on),,,28.0
-2010,hectre per day,calculated annual values,settlement area (built on),,,33.0
-2011,hectre per day,calculated annual values,settlement area (built on),,,30.0
-2012,hectre per day,calculated annual values,settlement area (built on),,,40.0
-2013,hectre per day,calculated annual values,settlement area (built on),,,29.0
-2014,hectre per day,calculated annual values,settlement area (built on),,,22.0
-2015,hectre per day,calculated annual values,settlement area (built on),,,40.0
-2016,hectre per day,calculated annual values,settlement area (built on),,,
-2017,hectre per day,calculated annual values,settlement area (built on),,,32.0
-2018,hectre per day,calculated annual values,settlement area (built on),,,32.0
-2019,hectre per day,calculated annual values,settlement area (built on),,,33.0
-2020,hectre per day,calculated annual values,settlement area (built on),,,40.0
-2021,hectre per day,calculated annual values,settlement area (built on),,,39.0
-2022,hectre per day,calculated annual values,settlement area (built on),,,37.0
-1996,hectre per day,calculated annual values,"recreation area, cemetery",,,9.0
-1997,hectre per day,calculated annual values,"recreation area, cemetery",,,20.0
-1998,hectre per day,calculated annual values,"recreation area, cemetery",,,21.0
-1999,hectre per day,calculated annual values,"recreation area, cemetery",,,21.0
-2000,hectre per day,calculated annual values,"recreation area, cemetery",,,21.0
-2001,hectre per day,calculated annual values,"recreation area, cemetery",,,29.0
-2002,hectre per day,calculated annual values,"recreation area, cemetery",,,21.0
-2003,hectre per day,calculated annual values,"recreation area, cemetery",,,34.0
-2004,hectre per day,calculated annual values,"recreation area, cemetery",,,46.0
-2005,hectre per day,calculated annual values,"recreation area, cemetery",,,57.0
-2006,hectre per day,calculated annual values,"recreation area, cemetery",,,52.0
-2007,hectre per day,calculated annual values,"recreation area, cemetery",,,33.0
-2008,hectre per day,calculated annual values,"recreation area, cemetery",,,39.0
-2009,hectre per day,calculated annual values,"recreation area, cemetery",,,32.0
-2010,hectre per day,calculated annual values,"recreation area, cemetery",,,23.0
-2011,hectre per day,calculated annual values,"recreation area, cemetery",,,27.0
-2012,hectre per day,calculated annual values,"recreation area, cemetery",,,18.0
-2013,hectre per day,calculated annual values,"recreation area, cemetery",,,23.0
-2014,hectre per day,calculated annual values,"recreation area, cemetery",,,18.0
-2015,hectre per day,calculated annual values,"recreation area, cemetery",,,12.0
-2016,hectre per day,calculated annual values,"recreation area, cemetery",,,
-2017,hectre per day,calculated annual values,"recreation area, cemetery",,,15.0
-2018,hectre per day,calculated annual values,"recreation area, cemetery",,,10.0
-2019,hectre per day,calculated annual values,"recreation area, cemetery",,,10.0
-2020,hectre per day,calculated annual values,"recreation area, cemetery",,,12.0
-2021,hectre per day,calculated annual values,"recreation area, cemetery",,,11.0
-2022,hectre per day,calculated annual values,"recreation area, cemetery",,,12.0
-1996,hectre per day,calculated annual values,,baden-wuerttemberg,code08,10.0
-2000,hectre per day,calculated annual values,,baden-wuerttemberg,code08,12.0
-2001,hectre per day,calculated annual values,,baden-wuerttemberg,code08,12.0
-2002,hectre per day,calculated annual values,,baden-wuerttemberg,code08,11.0
-2003,hectre per day,calculated annual values,,baden-wuerttemberg,code08,10.0
-2004,hectre per day,calculated annual values,,baden-wuerttemberg,code08,9.0
-2005,hectre per day,calculated annual values,,baden-wuerttemberg,code08,9.0
-2006,hectre per day,calculated annual values,,baden-wuerttemberg,code08,9.0
-2007,hectre per day,calculated annual values,,baden-wuerttemberg,code08,10.0
-2008,hectre per day,calculated annual values,,baden-wuerttemberg,code08,8.0
-2009,hectre per day,calculated annual values,,baden-wuerttemberg,code08,7.0
-2010,hectre per day,calculated annual values,,baden-wuerttemberg,code08,7.0
-2011,hectre per day,calculated annual values,,baden-wuerttemberg,code08,6.0
-2012,hectre per day,calculated annual values,,baden-wuerttemberg,code08,7.0
-2013,hectre per day,calculated annual values,,baden-wuerttemberg,code08,5.0
-2014,hectre per day,calculated annual values,,baden-wuerttemberg,code08,5.0
-2015,hectre per day,calculated annual values,,baden-wuerttemberg,code08,5.0
-2016,hectre per day,calculated annual values,,baden-wuerttemberg,code08,4.0
-2017,hectre per day,calculated annual values,,baden-wuerttemberg,code08,8.0
-2018,hectre per day,calculated annual values,,baden-wuerttemberg,code08,5.0
-2019,hectre per day,calculated annual values,,baden-wuerttemberg,code08,5.0
-2020,hectre per day,calculated annual values,,baden-wuerttemberg,code08,5.0
-2021,hectre per day,calculated annual values,,baden-wuerttemberg,code08,6.0
-2022,hectre per day,calculated annual values,,baden-wuerttemberg,code08,5.0
-1996,hectre per day,calculated annual values,,bavaria,code09,27.0
-2000,hectre per day,calculated annual values,,bavaria,code09,28.0
-2001,hectre per day,calculated annual values,,bavaria,code09,22.0
-2002,hectre per day,calculated annual values,,bavaria,code09,18.0
-2003,hectre per day,calculated annual values,,bavaria,code09,17.0
-2004,hectre per day,calculated annual values,,bavaria,code09,15.0
-2005,hectre per day,calculated annual values,,bavaria,code09,16.0
-2006,hectre per day,calculated annual values,,bavaria,code09,21.0
-2007,hectre per day,calculated annual values,,bavaria,code09,16.0
-2008,hectre per day,calculated annual values,,bavaria,code09,16.0
-2009,hectre per day,calculated annual values,,bavaria,code09,16.0
-2010,hectre per day,calculated annual values,,bavaria,code09,21.0
-2011,hectre per day,calculated annual values,,bavaria,code09,18.0
-2012,hectre per day,calculated annual values,,bavaria,code09,12.0
-2013,hectre per day,calculated annual values,,bavaria,code09,13.0
-1996,hectre per day,calculated annual values,,berlin,code11,-1.0
-2000,hectre per day,calculated annual values,,berlin,code11,1.0
-2001,hectre per day,calculated annual values,,berlin,code11,1.0
-2002,hectre per day,calculated annual values,,berlin,code11,1.0
-2003,hectre per day,calculated annual values,,berlin,code11,0.0
-2004,hectre per day,calculated annual values,,berlin,code11,0.0
-2005,hectre per day,calculated annual values,,berlin,code11,0.0
-2006,hectre per day,calculated annual values,,berlin,code11,0.0
-2007,hectre per day,calculated annual values,,berlin,code11,1.0
-2008,hectre per day,calculated annual values,,berlin,code11,0.0
-2009,hectre per day,calculated annual values,,berlin,code11,1.0
-2010,hectre per day,calculated annual values,,berlin,code11,0.0
-2011,hectre per day,calculated annual values,,berlin,code11,0.0
-2012,hectre per day,calculated annual values,,berlin,code11,-1.0
-2013,hectre per day,calculated annual values,,berlin,code11,0.0
-2014,hectre per day,calculated annual values,,berlin,code11,0.0
-2015,hectre per day,calculated annual values,,berlin,code11,0.0
-2016,hectre per day,calculated annual values,,berlin,code11,0.0
-2017,hectre per day,calculated annual values,,berlin,code11,0.0
-2018,hectre per day,calculated annual values,,berlin,code11,0.0
-2019,hectre per day,calculated annual values,,berlin,code11,0.0
-2020,hectre per day,calculated annual values,,berlin,code11,0.0
-2021,hectre per day,calculated annual values,,berlin,code11,0.0
-2022,hectre per day,calculated annual values,,berlin,code11,0.0
-1996,hectre per day,calculated annual values,,brandenburg,code12,7.0
-2000,hectre per day,calculated annual values,,brandenburg,code12,9.0
-2001,hectre per day,calculated annual values,,brandenburg,code12,9.0
-2002,hectre per day,calculated annual values,,brandenburg,code12,8.0
-2003,hectre per day,calculated annual values,,brandenburg,code12,8.0
-2004,hectre per day,calculated annual values,,brandenburg,code12,7.0
-2005,hectre per day,calculated annual values,,brandenburg,code12,11.0
-2006,hectre per day,calculated annual values,,brandenburg,code12,8.0
-2007,hectre per day,calculated annual values,,brandenburg,code12,6.0
-2008,hectre per day,calculated annual values,,brandenburg,code12,12.0
-2009,hectre per day,calculated annual values,,brandenburg,code12,7.0
-2010,hectre per day,calculated annual values,,brandenburg,code12,5.0
-2011,hectre per day,calculated annual values,,brandenburg,code12,3.0
-2012,hectre per day,calculated annual values,,brandenburg,code12,4.0
-2013,hectre per day,calculated annual values,,brandenburg,code12,11.0
-2014,hectre per day,calculated annual values,,brandenburg,code12,3.0
-2015,hectre per day,calculated annual values,,brandenburg,code12,2.0
-2016,hectre per day,calculated annual values,,brandenburg,code12,3.0
-2017,hectre per day,calculated annual values,,brandenburg,code12,1.0
-2018,hectre per day,calculated annual values,,brandenburg,code12,2.0
-2019,hectre per day,calculated annual values,,brandenburg,code12,1.0
-2020,hectre per day,calculated annual values,,brandenburg,code12,8.0
-2021,hectre per day,calculated annual values,,brandenburg,code12,6.0
-2022,hectre per day,calculated annual values,,brandenburg,code12,6.0
-1996,hectre per day,calculated annual values,,bremen,code04,0.0
-2000,hectre per day,calculated annual values,,bremen,code04,1.0
-2001,hectre per day,calculated annual values,,bremen,code04,0.0
-2002,hectre per day,calculated annual values,,bremen,code04,0.0
-2003,hectre per day,calculated annual values,,bremen,code04,0.0
-2004,hectre per day,calculated annual values,,bremen,code04,0.0
-2005,hectre per day,calculated annual values,,bremen,code04,0.0
-2006,hectre per day,calculated annual values,,bremen,code04,0.0
-2007,hectre per day,calculated annual values,,bremen,code04,0.0
-2008,hectre per day,calculated annual values,,bremen,code04,0.0
-2009,hectre per day,calculated annual values,,bremen,code04,0.0
-2010,hectre per day,calculated annual values,,bremen,code04,0.0
-2011,hectre per day,calculated annual values,,bremen,code04,0.0
-2012,hectre per day,calculated annual values,,bremen,code04,1.0
-2013,hectre per day,calculated annual values,,bremen,code04,0.0
-2014,hectre per day,calculated annual values,,bremen,code04,0.0
-2015,hectre per day,calculated annual values,,bremen,code04,0.0
-2016,hectre per day,calculated annual values,,bremen,code04,0.0
-2017,hectre per day,calculated annual values,,bremen,code04,0.0
-2018,hectre per day,calculated annual values,,bremen,code04,0.0
-2019,hectre per day,calculated annual values,,bremen,code04,0.0
-2020,hectre per day,calculated annual values,,bremen,code04,0.0
-2021,hectre per day,calculated annual values,,bremen,code04,0.0
-2022,hectre per day,calculated annual values,,bremen,code04,0.0
-1996,hectre per day,calculated annual values,,hamburg,code02,0.0
-2000,hectre per day,calculated annual values,,hamburg,code02,0.0
-2001,hectre per day,calculated annual values,,hamburg,code02,0.0
-2002,hectre per day,calculated annual values,,hamburg,code02,1.0
-2003,hectre per day,calculated annual values,,hamburg,code02,1.0
-2004,hectre per day,calculated annual values,,hamburg,code02,1.0
-2005,hectre per day,calculated annual values,,hamburg,code02,1.0
-2006,hectre per day,calculated annual values,,hamburg,code02,1.0
-2007,hectre per day,calculated annual values,,hamburg,code02,0.0
-2008,hectre per day,calculated annual values,,hamburg,code02,0.0
-2009,hectre per day,calculated annual values,,hamburg,code02,0.0
-2010,hectre per day,calculated annual values,,hamburg,code02,0.0
-2011,hectre per day,calculated annual values,,hamburg,code02,0.0
-2012,hectre per day,calculated annual values,,hamburg,code02,0.0
-2013,hectre per day,calculated annual values,,hamburg,code02,1.0
-2014,hectre per day,calculated annual values,,hamburg,code02,-1.0
-2015,hectre per day,calculated annual values,,hamburg,code02,-1.0
-2016,hectre per day,calculated annual values,,hamburg,code02,-1.0
-2017,hectre per day,calculated annual values,,hamburg,code02,0.0
-2018,hectre per day,calculated annual values,,hamburg,code02,0.0
-2019,hectre per day,calculated annual values,,hamburg,code02,0.0
-2020,hectre per day,calculated annual values,,hamburg,code02,0.0
-2021,hectre per day,calculated annual values,,hamburg,code02,0.0
-2022,hectre per day,calculated annual values,,hamburg,code02,-1.0
-1996,hectre per day,calculated annual values,,hesse,code06,5.0
-2000,hectre per day,calculated annual values,,hesse,code06,5.0
-2001,hectre per day,calculated annual values,,hesse,code06,3.0
-2002,hectre per day,calculated annual values,,hesse,code06,5.0
-2003,hectre per day,calculated annual values,,hesse,code06,4.0
-2004,hectre per day,calculated annual values,,hesse,code06,4.0
-2005,hectre per day,calculated annual values,,hesse,code06,4.0
-2006,hectre per day,calculated annual values,,hesse,code06,3.0
-2007,hectre per day,calculated annual values,,hesse,code06,4.0
-2008,hectre per day,calculated annual values,,hesse,code06,3.0
-2009,hectre per day,calculated annual values,,hesse,code06,4.0
-2010,hectre per day,calculated annual values,,hesse,code06,4.0
-2011,hectre per day,calculated annual values,,hesse,code06,1.0
-2012,hectre per day,calculated annual values,,hesse,code06,4.0
-2013,hectre per day,calculated annual values,,hesse,code06,2.0
-2014,hectre per day,calculated annual values,,hesse,code06,4.0
-2015,hectre per day,calculated annual values,,hesse,code06,3.0
-2017,hectre per day,calculated annual values,,hesse,code06,4.0
-2018,hectre per day,calculated annual values,,hesse,code06,3.0
-2019,hectre per day,calculated annual values,,hesse,code06,3.0
-2020,hectre per day,calculated annual values,,hesse,code06,2.0
-2021,hectre per day,calculated annual values,,hesse,code06,1.0
-1996,hectre per day,calculated annual values,,mecklenburg western pomerania,code13,5.0
-2000,hectre per day,calculated annual values,,mecklenburg western pomerania,code13,8.0
-2001,hectre per day,calculated annual values,,mecklenburg western pomerania,code13,7.0
-2002,hectre per day,calculated annual values,,mecklenburg western pomerania,code13,11.0
-2003,hectre per day,calculated annual values,,mecklenburg western pomerania,code13,9.0
-2004,hectre per day,calculated annual values,,mecklenburg western pomerania,code13,8.0
-2005,hectre per day,calculated annual values,,mecklenburg western pomerania,code13,7.0
-2006,hectre per day,calculated annual values,,mecklenburg western pomerania,code13,7.0
-2007,hectre per day,calculated annual values,,mecklenburg western pomerania,code13,7.0
-2008,hectre per day,calculated annual values,,mecklenburg western pomerania,code13,11.0
-2009,hectre per day,calculated annual values,,mecklenburg western pomerania,code13,8.0
-2010,hectre per day,calculated annual values,,mecklenburg western pomerania,code13,7.0
-2011,hectre per day,calculated annual values,,mecklenburg western pomerania,code13,3.0
-2012,hectre per day,calculated annual values,,mecklenburg western pomerania,code13,3.0
-2013,hectre per day,calculated annual values,,mecklenburg western pomerania,code13,2.0
-2014,hectre per day,calculated annual values,,mecklenburg western pomerania,code13,2.0
-2015,hectre per day,calculated annual values,,mecklenburg western pomerania,code13,5.0
-2016,hectre per day,calculated annual values,,mecklenburg western pomerania,code13,18.0
-2017,hectre per day,calculated annual values,,mecklenburg western pomerania,code13,-8.0
-2018,hectre per day,calculated annual values,,mecklenburg western pomerania,code13,1.0
-2019,hectre per day,calculated annual values,,mecklenburg western pomerania,code13,-1.0
-2020,hectre per day,calculated annual values,,mecklenburg western pomerania,code13,1.0
-2021,hectre per day,calculated annual values,,mecklenburg western pomerania,code13,1.0
-2022,hectre per day,calculated annual values,,mecklenburg western pomerania,code13,1.0
-1996,hectre per day,calculated annual values,,lower saxony,code03,17.0
-2000,hectre per day,calculated annual values,,lower saxony,code03,16.0
-2001,hectre per day,calculated annual values,,lower saxony,code03,15.0
-2002,hectre per day,calculated annual values,,lower saxony,code03,12.0
-2003,hectre per day,calculated annual values,,lower saxony,code03,13.0
-2004,hectre per day,calculated annual values,,lower saxony,code03,18.0
-2005,hectre per day,calculated annual values,,lower saxony,code03,14.0
-2006,hectre per day,calculated annual values,,lower saxony,code03,12.0
-2007,hectre per day,calculated annual values,,lower saxony,code03,10.0
-2008,hectre per day,calculated annual values,,lower saxony,code03,11.0
-2009,hectre per day,calculated annual values,,lower saxony,code03,9.0
-2010,hectre per day,calculated annual values,,lower saxony,code03,8.0
-2011,hectre per day,calculated annual values,,lower saxony,code03,15.0
-2012,hectre per day,calculated annual values,,lower saxony,code03,10.0
-2013,hectre per day,calculated annual values,,lower saxony,code03,9.0
-2014,hectre per day,calculated annual values,,lower saxony,code03,10.0
-2015,hectre per day,calculated annual values,,lower saxony,code03,10.0
-2016,hectre per day,calculated annual values,,lower saxony,code03,1.0
-2017,hectre per day,calculated annual values,,lower saxony,code03,7.0
-2018,hectre per day,calculated annual values,,lower saxony,code03,7.0
-2019,hectre per day,calculated annual values,,lower saxony,code03,6.0
-2020,hectre per day,calculated annual values,,lower saxony,code03,7.0
-2021,hectre per day,calculated annual values,,lower saxony,code03,6.0
-2022,hectre per day,calculated annual values,,lower saxony,code03,5.0
-1996,hectre per day,calculated annual values,,north rhine-westphalia,code05,16.0
-2000,hectre per day,calculated annual values,,north rhine-westphalia,code05,17.0
-2001,hectre per day,calculated annual values,,north rhine-westphalia,code05,16.0
-2002,hectre per day,calculated annual values,,north rhine-westphalia,code05,19.0
-2003,hectre per day,calculated annual values,,north rhine-westphalia,code05,9.0
-2004,hectre per day,calculated annual values,,north rhine-westphalia,code05,20.0
-2005,hectre per day,calculated annual values,,north rhine-westphalia,code05,13.0
-2006,hectre per day,calculated annual values,,north rhine-westphalia,code05,14.0
-2007,hectre per day,calculated annual values,,north rhine-westphalia,code05,14.0
-2008,hectre per day,calculated annual values,,north rhine-westphalia,code05,15.0
-2009,hectre per day,calculated annual values,,north rhine-westphalia,code05,9.0
-2010,hectre per day,calculated annual values,,north rhine-westphalia,code05,12.0
-2011,hectre per day,calculated annual values,,north rhine-westphalia,code05,10.0
-2012,hectre per day,calculated annual values,,north rhine-westphalia,code05,10.0
-2013,hectre per day,calculated annual values,,north rhine-westphalia,code05,9.0
-2014,hectre per day,calculated annual values,,north rhine-westphalia,code05,9.0
-2015,hectre per day,calculated annual values,,north rhine-westphalia,code05,9.0
-2017,hectre per day,calculated annual values,,north rhine-westphalia,code05,6.0
-2018,hectre per day,calculated annual values,,north rhine-westphalia,code05,5.0
-2019,hectre per day,calculated annual values,,north rhine-westphalia,code05,8.0
-2020,hectre per day,calculated annual values,,north rhine-westphalia,code05,6.0
-2021,hectre per day,calculated annual values,,north rhine-westphalia,code05,5.0
-2022,hectre per day,calculated annual values,,north rhine-westphalia,code05,6.0
-1996,hectre per day,calculated annual values,,rhineland palatinate,code07,5.0
-2000,hectre per day,calculated annual values,,rhineland palatinate,code07,5.0
-2001,hectre per day,calculated annual values,,rhineland palatinate,code07,5.0
-2002,hectre per day,calculated annual values,,rhineland palatinate,code07,5.0
-2003,hectre per day,calculated annual values,,rhineland palatinate,code07,4.0
-2004,hectre per day,calculated annual values,,rhineland palatinate,code07,8.0
-2005,hectre per day,calculated annual values,,rhineland palatinate,code07,8.0
-2006,hectre per day,calculated annual values,,rhineland palatinate,code07,5.0
-2007,hectre per day,calculated annual values,,rhineland palatinate,code07,5.0
-2008,hectre per day,calculated annual values,,rhineland palatinate,code07,3.0
-2009,hectre per day,calculated annual values,,rhineland palatinate,code07,1.0
-2010,hectre per day,calculated annual values,,rhineland palatinate,code07,1.0
-2011,hectre per day,calculated annual values,,rhineland palatinate,code07,1.0
-2012,hectre per day,calculated annual values,,rhineland palatinate,code07,2.0
-2013,hectre per day,calculated annual values,,rhineland palatinate,code07,1.0
-2014,hectre per day,calculated annual values,,rhineland palatinate,code07,1.0
-2015,hectre per day,calculated annual values,,rhineland palatinate,code07,-1.0
-2016,hectre per day,calculated annual values,,rhineland palatinate,code07,2.0
-2017,hectre per day,calculated annual values,,rhineland palatinate,code07,0.0
-2018,hectre per day,calculated annual values,,rhineland palatinate,code07,2.0
-2019,hectre per day,calculated annual values,,rhineland palatinate,code07,2.0
-2020,hectre per day,calculated annual values,,rhineland palatinate,code07,5.0
-2021,hectre per day,calculated annual values,,rhineland palatinate,code07,9.0
-2022,hectre per day,calculated annual values,,rhineland palatinate,code07,7.0
-1996,hectre per day,calculated annual values,,saarland,code10,1.0
-2000,hectre per day,calculated annual values,,saarland,code10,1.0
-2001,hectre per day,calculated annual values,,saarland,code10,1.0
-2002,hectre per day,calculated annual values,,saarland,code10,1.0
-2003,hectre per day,calculated annual values,,saarland,code10,0.0
-2004,hectre per day,calculated annual values,,saarland,code10,1.0
-2005,hectre per day,calculated annual values,,saarland,code10,1.0
-2006,hectre per day,calculated annual values,,saarland,code10,1.0
-2007,hectre per day,calculated annual values,,saarland,code10,1.0
-2008,hectre per day,calculated annual values,,saarland,code10,1.0
-2009,hectre per day,calculated annual values,,saarland,code10,1.0
-2010,hectre per day,calculated annual values,,saarland,code10,1.0
-2011,hectre per day,calculated annual values,,saarland,code10,1.0
-2012,hectre per day,calculated annual values,,saarland,code10,0.0
-2013,hectre per day,calculated annual values,,saarland,code10,0.0
-2014,hectre per day,calculated annual values,,saarland,code10,0.0
-2015,hectre per day,calculated annual values,,saarland,code10,0.0
-2016,hectre per day,calculated annual values,,saarland,code10,3.0
-2017,hectre per day,calculated annual values,,saarland,code10,0.0
-2018,hectre per day,calculated annual values,,saarland,code10,0.0
-2019,hectre per day,calculated annual values,,saarland,code10,0.0
-2020,hectre per day,calculated annual values,,saarland,code10,0.0
-2021,hectre per day,calculated annual values,,saarland,code10,1.0
-2022,hectre per day,calculated annual values,,saarland,code10,1.0
-1996,hectre per day,calculated annual values,,saxony,code14,9.0
-2000,hectre per day,calculated annual values,,saxony,code14,8.0
-2001,hectre per day,calculated annual values,,saxony,code14,8.0
-2002,hectre per day,calculated annual values,,saxony,code14,6.0
-2003,hectre per day,calculated annual values,,saxony,code14,4.0
-2004,hectre per day,calculated annual values,,saxony,code14,3.0
-2005,hectre per day,calculated annual values,,saxony,code14,3.0
-2006,hectre per day,calculated annual values,,saxony,code14,5.0
-2007,hectre per day,calculated annual values,,saxony,code14,11.0
-2008,hectre per day,calculated annual values,,saxony,code14,7.0
-2009,hectre per day,calculated annual values,,saxony,code14,10.0
-2010,hectre per day,calculated annual values,,saxony,code14,7.0
-2011,hectre per day,calculated annual values,,saxony,code14,6.0
-2012,hectre per day,calculated annual values,,saxony,code14,6.0
-2013,hectre per day,calculated annual values,,saxony,code14,3.0
-2016,hectre per day,calculated annual values,,saxony,code14,3.0
-2017,hectre per day,calculated annual values,,saxony,code14,5.0
-2018,hectre per day,calculated annual values,,saxony,code14,5.0
-2019,hectre per day,calculated annual values,,saxony,code14,5.0
-2020,hectre per day,calculated annual values,,saxony,code14,6.0
-2021,hectre per day,calculated annual values,,saxony,code14,6.0
-2022,hectre per day,calculated annual values,,saxony,code14,5.0
-1996,hectre per day,calculated annual values,,saxony-anhalt,code15,9.0
-2000,hectre per day,calculated annual values,,saxony-anhalt,code15,10.0
-2001,hectre per day,calculated annual values,,saxony-anhalt,code15,11.0
-2002,hectre per day,calculated annual values,,saxony-anhalt,code15,4.0
-2003,hectre per day,calculated annual values,,saxony-anhalt,code15,9.0
-2004,hectre per day,calculated annual values,,saxony-anhalt,code15,27.0
-2005,hectre per day,calculated annual values,,saxony-anhalt,code15,25.0
-2006,hectre per day,calculated annual values,,saxony-anhalt,code15,12.0
-2007,hectre per day,calculated annual values,,saxony-anhalt,code15,1.0
-2008,hectre per day,calculated annual values,,saxony-anhalt,code15,3.0
-2009,hectre per day,calculated annual values,,saxony-anhalt,code15,0.0
-2010,hectre per day,calculated annual values,,saxony-anhalt,code15,-2.0
-2011,hectre per day,calculated annual values,,saxony-anhalt,code15,-1.0
-2012,hectre per day,calculated annual values,,saxony-anhalt,code15,0.0
-2013,hectre per day,calculated annual values,,saxony-anhalt,code15,0.0
-2014,hectre per day,calculated annual values,,saxony-anhalt,code15,2.0
-2015,hectre per day,calculated annual values,,saxony-anhalt,code15,1.0
-2016,hectre per day,calculated annual values,,saxony-anhalt,code15,2.0
-2017,hectre per day,calculated annual values,,saxony-anhalt,code15,1.0
-2018,hectre per day,calculated annual values,,saxony-anhalt,code15,0.0
-2019,hectre per day,calculated annual values,,saxony-anhalt,code15,2.0
-2020,hectre per day,calculated annual values,,saxony-anhalt,code15,1.0
-2021,hectre per day,calculated annual values,,saxony-anhalt,code15,1.0
-2022,hectre per day,calculated annual values,,saxony-anhalt,code15,2.0
-1996,hectre per day,calculated annual values,,schleswig-holstein,code01,3.0
-2000,hectre per day,calculated annual values,,schleswig-holstein,code01,4.0
-2005,hectre per day,calculated annual values,,schleswig-holstein,code01,5.0
-2006,hectre per day,calculated annual values,,schleswig-holstein,code01,7.0
-2007,hectre per day,calculated annual values,,schleswig-holstein,code01,7.0
-2008,hectre per day,calculated annual values,,schleswig-holstein,code01,3.0
-2009,hectre per day,calculated annual values,,schleswig-holstein,code01,3.0
-2010,hectre per day,calculated annual values,,schleswig-holstein,code01,3.0
-2011,hectre per day,calculated annual values,,schleswig-holstein,code01,5.0
-2012,hectre per day,calculated annual values,,schleswig-holstein,code01,2.0
-2013,hectre per day,calculated annual values,,schleswig-holstein,code01,3.0
-2014,hectre per day,calculated annual values,,schleswig-holstein,code01,3.0
-2015,hectre per day,calculated annual values,,schleswig-holstein,code01,3.0
-2016,hectre per day,calculated annual values,,schleswig-holstein,code01,1.0
-2017,hectre per day,calculated annual values,,schleswig-holstein,code01,3.0
-2018,hectre per day,calculated annual values,,schleswig-holstein,code01,3.0
-2019,hectre per day,calculated annual values,,schleswig-holstein,code01,2.0
-2020,hectre per day,calculated annual values,,schleswig-holstein,code01,6.0
-2021,hectre per day,calculated annual values,,schleswig-holstein,code01,4.0
-2022,hectre per day,calculated annual values,,schleswig-holstein,code01,3.0
-1996,hectre per day,calculated annual values,,thuringia,code16,6.0
-2000,hectre per day,calculated annual values,,thuringia,code16,4.0
-2001,hectre per day,calculated annual values,,thuringia,code16,2.0
-2002,hectre per day,calculated annual values,,thuringia,code16,4.0
-2003,hectre per day,calculated annual values,,thuringia,code16,2.0
-2004,hectre per day,calculated annual values,,thuringia,code16,1.0
-2005,hectre per day,calculated annual values,,thuringia,code16,2.0
-2006,hectre per day,calculated annual values,,thuringia,code16,2.0
-2007,hectre per day,calculated annual values,,thuringia,code16,2.0
-2008,hectre per day,calculated annual values,,thuringia,code16,3.0
-2009,hectre per day,calculated annual values,,thuringia,code16,3.0
-2010,hectre per day,calculated annual values,,thuringia,code16,4.0
-2011,hectre per day,calculated annual values,,thuringia,code16,5.0
-2012,hectre per day,calculated annual values,,thuringia,code16,5.0
-2013,hectre per day,calculated annual values,,thuringia,code16,3.0
-2014,hectre per day,calculated annual values,,thuringia,code16,8.0
-2015,hectre per day,calculated annual values,,thuringia,code16,3.0
-2016,hectre per day,calculated annual values,,thuringia,code16,9.0
-2019,hectre per day,calculated annual values,,thuringia,code16,2.0
-2020,hectre per day,calculated annual values,,thuringia,code16,1.0
-2021,hectre per day,calculated annual values,,thuringia,code16,1.0
-2022,hectre per day,calculated annual values,,thuringia,code16,0.0
+Year,Units,Series,type of area,Value
+1996,hectre per day,moving four-year average,,120.0
+1997,hectre per day,moving four-year average,,121.0
+1998,hectre per day,moving four-year average,,124.0
+1999,hectre per day,moving four-year average,,126.0
+2000,hectre per day,moving four-year average,,129.0
+2001,hectre per day,moving four-year average,,128.0
+2002,hectre per day,moving four-year average,,123.0
+2003,hectre per day,moving four-year average,,115.0
+2004,hectre per day,moving four-year average,,115.0
+2005,hectre per day,moving four-year average,,114.0
+2006,hectre per day,moving four-year average,,113.0
+2007,hectre per day,moving four-year average,,113.0
+2008,hectre per day,moving four-year average,,104.0
+2009,hectre per day,moving four-year average,,94.0
+2010,hectre per day,moving four-year average,,87.0
+2011,hectre per day,moving four-year average,,81.0
+2012,hectre per day,moving four-year average,,74.0
+2013,hectre per day,moving four-year average,,73.0
+2014,hectre per day,moving four-year average,,69.0
+2015,hectre per day,moving four-year average,,66.0
+2016,hectre per day,moving four-year average,,62.0
+2017,hectre per day,moving four-year average,,58.0
+2018,hectre per day,moving four-year average,,56.0
+2019,hectre per day,moving four-year average,,52.0
+2020,hectre per day,moving four-year average,,54.0
+2021,hectre per day,moving four-year average,,55.0
+2022,hectre per day,moving four-year average,,52.0
+2030,hectre per day,moving four-year average,,
+1996,hectre per day,moving four-year average,transport area,24.0
+1997,hectre per day,moving four-year average,transport area,21.0
+1998,hectre per day,moving four-year average,transport area,23.0
+1999,hectre per day,moving four-year average,transport area,23.0
+2000,hectre per day,moving four-year average,transport area,23.0
+2001,hectre per day,moving four-year average,transport area,23.0
+2002,hectre per day,moving four-year average,transport area,23.0
+2003,hectre per day,moving four-year average,transport area,22.0
+2004,hectre per day,moving four-year average,transport area,22.0
+2005,hectre per day,moving four-year average,transport area,23.0
+2006,hectre per day,moving four-year average,transport area,24.0
+2007,hectre per day,moving four-year average,transport area,25.0
+2008,hectre per day,moving four-year average,transport area,24.0
+2009,hectre per day,moving four-year average,transport area,22.0
+2010,hectre per day,moving four-year average,transport area,21.0
+2011,hectre per day,moving four-year average,transport area,19.0
+2012,hectre per day,moving four-year average,transport area,17.0
+2013,hectre per day,moving four-year average,transport area,17.0
+2014,hectre per day,moving four-year average,transport area,17.0
+2015,hectre per day,moving four-year average,transport area,16.0
+2016,hectre per day,moving four-year average,transport area,
+2017,hectre per day,moving four-year average,transport area,
+2018,hectre per day,moving four-year average,transport area,
+2019,hectre per day,moving four-year average,transport area,
+2020,hectre per day,moving four-year average,transport area,8.0
+2021,hectre per day,moving four-year average,transport area,8.0
+2022,hectre per day,moving four-year average,transport area,4.0
+1996,hectre per day,moving four-year average,settlement area (built on),87.0
+1997,hectre per day,moving four-year average,settlement area (built on),83.0
+1998,hectre per day,moving four-year average,settlement area (built on),87.0
+1999,hectre per day,moving four-year average,settlement area (built on),87.0
+2000,hectre per day,moving four-year average,settlement area (built on),86.0
+2001,hectre per day,moving four-year average,settlement area (built on),83.0
+2002,hectre per day,moving four-year average,settlement area (built on),77.0
+2003,hectre per day,moving four-year average,settlement area (built on),67.0
+2004,hectre per day,moving four-year average,settlement area (built on),60.0
+2005,hectre per day,moving four-year average,settlement area (built on),52.0
+2006,hectre per day,moving four-year average,settlement area (built on),43.0
+2007,hectre per day,moving four-year average,settlement area (built on),41.0
+2008,hectre per day,moving four-year average,settlement area (built on),35.0
+2009,hectre per day,moving four-year average,settlement area (built on),33.0
+2010,hectre per day,moving four-year average,settlement area (built on),34.0
+2011,hectre per day,moving four-year average,settlement area (built on),31.0
+2012,hectre per day,moving four-year average,settlement area (built on),33.0
+2013,hectre per day,moving four-year average,settlement area (built on),33.0
+2014,hectre per day,moving four-year average,settlement area (built on),30.0
+2015,hectre per day,moving four-year average,settlement area (built on),33.0
+2016,hectre per day,moving four-year average,settlement area (built on),
+2017,hectre per day,moving four-year average,settlement area (built on),
+2018,hectre per day,moving four-year average,settlement area (built on),
+2019,hectre per day,moving four-year average,settlement area (built on),
+2020,hectre per day,moving four-year average,settlement area (built on),34.0
+2021,hectre per day,moving four-year average,settlement area (built on),36.0
+2022,hectre per day,moving four-year average,settlement area (built on),37.0
+1996,hectre per day,moving four-year average,"recreation area, cemetery",9.0
+1997,hectre per day,moving four-year average,"recreation area, cemetery",20.0
+1998,hectre per day,moving four-year average,"recreation area, cemetery",21.0
+1999,hectre per day,moving four-year average,"recreation area, cemetery",21.0
+2000,hectre per day,moving four-year average,"recreation area, cemetery",20.0
+2001,hectre per day,moving four-year average,"recreation area, cemetery",23.0
+2002,hectre per day,moving four-year average,"recreation area, cemetery",23.0
+2003,hectre per day,moving four-year average,"recreation area, cemetery",26.0
+2004,hectre per day,moving four-year average,"recreation area, cemetery",32.0
+2005,hectre per day,moving four-year average,"recreation area, cemetery",40.0
+2006,hectre per day,moving four-year average,"recreation area, cemetery",47.0
+2007,hectre per day,moving four-year average,"recreation area, cemetery",47.0
+2008,hectre per day,moving four-year average,"recreation area, cemetery",45.0
+2009,hectre per day,moving four-year average,"recreation area, cemetery",39.0
+2010,hectre per day,moving four-year average,"recreation area, cemetery",32.0
+2011,hectre per day,moving four-year average,"recreation area, cemetery",30.0
+2012,hectre per day,moving four-year average,"recreation area, cemetery",25.0
+2013,hectre per day,moving four-year average,"recreation area, cemetery",23.0
+2014,hectre per day,moving four-year average,"recreation area, cemetery",22.0
+2015,hectre per day,moving four-year average,"recreation area, cemetery",18.0
+2016,hectre per day,moving four-year average,"recreation area, cemetery",
+2017,hectre per day,moving four-year average,"recreation area, cemetery",
+2018,hectre per day,moving four-year average,"recreation area, cemetery",
+2019,hectre per day,moving four-year average,"recreation area, cemetery",
+2020,hectre per day,moving four-year average,"recreation area, cemetery",12.0
+2021,hectre per day,moving four-year average,"recreation area, cemetery",11.0
+2022,hectre per day,moving four-year average,"recreation area, cemetery",11.0
+1996,hectre per day,calculated annual values,,120.0
+1997,hectre per day,calculated annual values,,124.0
+1998,hectre per day,calculated annual values,,131.0
+1999,hectre per day,calculated annual values,,131.0
+2000,hectre per day,calculated annual values,,132.0
+2001,hectre per day,calculated annual values,,122.0
+2002,hectre per day,calculated annual values,,109.0
+2003,hectre per day,calculated annual values,,99.0
+2004,hectre per day,calculated annual values,,131.0
+2005,hectre per day,calculated annual values,,117.0
+2006,hectre per day,calculated annual values,,106.0
+2007,hectre per day,calculated annual values,,97.0
+2008,hectre per day,calculated annual values,,95.0
+2009,hectre per day,calculated annual values,,78.0
+2010,hectre per day,calculated annual values,,77.0
+2011,hectre per day,calculated annual values,,74.0
+2012,hectre per day,calculated annual values,,69.0
+2013,hectre per day,calculated annual values,,71.0
+2014,hectre per day,calculated annual values,,63.0
+2015,hectre per day,calculated annual values,,62.0
+2016,hectre per day,calculated annual values,,
+2017,hectre per day,calculated annual values,,55.0
+2018,hectre per day,calculated annual values,,58.0
+2019,hectre per day,calculated annual values,,45.0
+2020,hectre per day,calculated annual values,,58.0
+2021,hectre per day,calculated annual values,,58.0
+2022,hectre per day,calculated annual values,,48.0
+2030,hectre per day,calculated annual values,,
+1996,hectre per day,calculated annual values,transport area,24.0
+1997,hectre per day,calculated annual values,transport area,21.0
+1998,hectre per day,calculated annual values,transport area,23.0
+1999,hectre per day,calculated annual values,transport area,23.0
+2000,hectre per day,calculated annual values,transport area,24.0
+2001,hectre per day,calculated annual values,transport area,23.0
+2002,hectre per day,calculated annual values,transport area,22.0
+2003,hectre per day,calculated annual values,transport area,20.0
+2004,hectre per day,calculated annual values,transport area,25.0
+2005,hectre per day,calculated annual values,transport area,25.0
+2006,hectre per day,calculated annual values,transport area,24.0
+2007,hectre per day,calculated annual values,transport area,24.0
+2008,hectre per day,calculated annual values,transport area,21.0
+2009,hectre per day,calculated annual values,transport area,18.0
+2010,hectre per day,calculated annual values,transport area,21.0
+2011,hectre per day,calculated annual values,transport area,17.0
+2012,hectre per day,calculated annual values,transport area,11.0
+2013,hectre per day,calculated annual values,transport area,19.0
+2014,hectre per day,calculated annual values,transport area,23.0
+2015,hectre per day,calculated annual values,transport area,10.0
+2016,hectre per day,calculated annual values,transport area,
+2017,hectre per day,calculated annual values,transport area,8.0
+2018,hectre per day,calculated annual values,transport area,16.0
+2019,hectre per day,calculated annual values,transport area,2.0
+2020,hectre per day,calculated annual values,transport area,6.0
+2021,hectre per day,calculated annual values,transport area,8.0
+2022,hectre per day,calculated annual values,transport area,-1.0
+1996,hectre per day,calculated annual values,settlement area (built on),87.0
+1997,hectre per day,calculated annual values,settlement area (built on),83.0
+1998,hectre per day,calculated annual values,settlement area (built on),87.0
+1999,hectre per day,calculated annual values,settlement area (built on),87.0
+2000,hectre per day,calculated annual values,settlement area (built on),87.0
+2001,hectre per day,calculated annual values,settlement area (built on),70.0
+2002,hectre per day,calculated annual values,settlement area (built on),66.0
+2003,hectre per day,calculated annual values,settlement area (built on),45.0
+2004,hectre per day,calculated annual values,settlement area (built on),60.0
+2005,hectre per day,calculated annual values,settlement area (built on),35.0
+2006,hectre per day,calculated annual values,settlement area (built on),30.0
+2007,hectre per day,calculated annual values,settlement area (built on),40.0
+2008,hectre per day,calculated annual values,settlement area (built on),35.0
+2009,hectre per day,calculated annual values,settlement area (built on),28.0
+2010,hectre per day,calculated annual values,settlement area (built on),33.0
+2011,hectre per day,calculated annual values,settlement area (built on),30.0
+2012,hectre per day,calculated annual values,settlement area (built on),40.0
+2013,hectre per day,calculated annual values,settlement area (built on),29.0
+2014,hectre per day,calculated annual values,settlement area (built on),22.0
+2015,hectre per day,calculated annual values,settlement area (built on),40.0
+2016,hectre per day,calculated annual values,settlement area (built on),
+2017,hectre per day,calculated annual values,settlement area (built on),32.0
+2018,hectre per day,calculated annual values,settlement area (built on),32.0
+2019,hectre per day,calculated annual values,settlement area (built on),33.0
+2020,hectre per day,calculated annual values,settlement area (built on),40.0
+2021,hectre per day,calculated annual values,settlement area (built on),39.0
+2022,hectre per day,calculated annual values,settlement area (built on),37.0
+1996,hectre per day,calculated annual values,"recreation area, cemetery",9.0
+1997,hectre per day,calculated annual values,"recreation area, cemetery",20.0
+1998,hectre per day,calculated annual values,"recreation area, cemetery",21.0
+1999,hectre per day,calculated annual values,"recreation area, cemetery",21.0
+2000,hectre per day,calculated annual values,"recreation area, cemetery",21.0
+2001,hectre per day,calculated annual values,"recreation area, cemetery",29.0
+2002,hectre per day,calculated annual values,"recreation area, cemetery",21.0
+2003,hectre per day,calculated annual values,"recreation area, cemetery",34.0
+2004,hectre per day,calculated annual values,"recreation area, cemetery",46.0
+2005,hectre per day,calculated annual values,"recreation area, cemetery",57.0
+2006,hectre per day,calculated annual values,"recreation area, cemetery",52.0
+2007,hectre per day,calculated annual values,"recreation area, cemetery",33.0
+2008,hectre per day,calculated annual values,"recreation area, cemetery",39.0
+2009,hectre per day,calculated annual values,"recreation area, cemetery",32.0
+2010,hectre per day,calculated annual values,"recreation area, cemetery",23.0
+2011,hectre per day,calculated annual values,"recreation area, cemetery",27.0
+2012,hectre per day,calculated annual values,"recreation area, cemetery",18.0
+2013,hectre per day,calculated annual values,"recreation area, cemetery",23.0
+2014,hectre per day,calculated annual values,"recreation area, cemetery",18.0
+2015,hectre per day,calculated annual values,"recreation area, cemetery",12.0
+2016,hectre per day,calculated annual values,"recreation area, cemetery",
+2017,hectre per day,calculated annual values,"recreation area, cemetery",15.0
+2018,hectre per day,calculated annual values,"recreation area, cemetery",10.0
+2019,hectre per day,calculated annual values,"recreation area, cemetery",10.0
+2020,hectre per day,calculated annual values,"recreation area, cemetery",12.0
+2021,hectre per day,calculated annual values,"recreation area, cemetery",11.0
+2022,hectre per day,calculated annual values,"recreation area, cemetery",12.0
