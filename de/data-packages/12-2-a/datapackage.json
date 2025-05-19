@@ -32,9 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EMAS-Standorte",
-                "Beschäftigte in EMAS-Organisationen",
-                "EMAS-Organisationen",
+                "<u>Zeitreihe des Indikators:</u> EMAS-Standorte",
+                "<u>Zusätzliche Zeitreihe:</u> Beschäftigte in EMAS-Organisationen",
+                "<u>Zusätzliche Zeitreihe:</u> EMAS-Organisationen",
                 ""
               ]
             },

@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Unbereinigter Gender Pay Gap",
-                "Bereinigter Gender Pay Gap",
+                "<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap",
+                "<u>Zusätzliche Zeitreihe:</u> Bereinigter Gender Pay Gap",
                 ""
               ]
             },

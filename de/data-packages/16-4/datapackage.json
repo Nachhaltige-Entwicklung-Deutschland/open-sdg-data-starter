@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Effectiveness",
-                "Technical Compliance",
+                "<u>Zeitreihe des Indikators:</u> Effectiveness",
+                "<u>Zusätzliche Zeitreihe:</u> Technical Compliance",
                 ""
               ]
             },

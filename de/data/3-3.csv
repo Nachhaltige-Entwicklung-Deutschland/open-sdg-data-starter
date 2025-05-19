@@ -1,26 +1,21 @@
-Year,Units,Series,Zuordnung,Value
-2015,Prozent,"Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt",,
-2016,Prozent,"Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt",,
-2017,Prozent,"Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt",,
-2018,Prozent,"Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt",,
-2019,Prozent,"Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt",,
-2020,Prozent,"Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt",,
-2021,Prozent,"Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt",,7.35
-2022,Prozent,"Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt",,
-2030,Prozent,"Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt",,
-2015,Millionen EUR,Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion,Pandemieprävention und -reaktion,147.9
-2016,Millionen EUR,Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion,Pandemieprävention und -reaktion,154.5
-2017,Millionen EUR,Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion,Pandemieprävention und -reaktion,322.1
-2018,Millionen EUR,Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion,Pandemieprävention und -reaktion,279.4
-2019,Millionen EUR,Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion,Pandemieprävention und -reaktion,300.5
-2020,Millionen EUR,Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion,Pandemieprävention und -reaktion,398.3
-2021,Millionen EUR,Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion,Pandemieprävention und -reaktion,396.7
-2022,Millionen EUR,Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion,Pandemieprävention und -reaktion,452.8
-2015,Millionen EUR,Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion,Eindämmung der COVID-19-Pandemie,0.0
-2016,Millionen EUR,Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion,Eindämmung der COVID-19-Pandemie,0.0
-2017,Millionen EUR,Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion,Eindämmung der COVID-19-Pandemie,0.0
-2018,Millionen EUR,Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion,Eindämmung der COVID-19-Pandemie,0.0
-2019,Millionen EUR,Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion,Eindämmung der COVID-19-Pandemie,0.0
-2020,Millionen EUR,Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion,Eindämmung der COVID-19-Pandemie,743.7
-2021,Millionen EUR,Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion,Eindämmung der COVID-19-Pandemie,842.7
-2022,Millionen EUR,Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion,Eindämmung der COVID-19-Pandemie,1224.9
+Year,Units,Zeitreihe,Value
+2015,Millionen EUR,Pandemieprävention und -reaktion,147.9
+2016,Millionen EUR,Pandemieprävention und -reaktion,154.5
+2017,Millionen EUR,Pandemieprävention und -reaktion,322.1
+2018,Millionen EUR,Pandemieprävention und -reaktion,279.4
+2019,Millionen EUR,Pandemieprävention und -reaktion,300.5
+2020,Millionen EUR,Pandemieprävention und -reaktion,398.3
+2021,Millionen EUR,Pandemieprävention und -reaktion,396.7
+2022,Millionen EUR,Pandemieprävention und -reaktion,452.8
+2023,Millionen EUR,Pandemieprävention und -reaktion,172.6
+2030,Millionen EUR,Pandemieprävention und -reaktion,
+2015,Millionen EUR,Eindämmung der COVID-19-Pandemie,0.0
+2016,Millionen EUR,Eindämmung der COVID-19-Pandemie,0.0
+2017,Millionen EUR,Eindämmung der COVID-19-Pandemie,0.0
+2018,Millionen EUR,Eindämmung der COVID-19-Pandemie,0.0
+2019,Millionen EUR,Eindämmung der COVID-19-Pandemie,0.0
+2020,Millionen EUR,Eindämmung der COVID-19-Pandemie,743.7
+2021,Millionen EUR,Eindämmung der COVID-19-Pandemie,842.7
+2022,Millionen EUR,Eindämmung der COVID-19-Pandemie,1224.9
+2023,Millionen EUR,Eindämmung der COVID-19-Pandemie,446.1
+2030,Millionen EUR,Eindämmung der COVID-19-Pandemie,

@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "XXXKinder, deren Väter Elterngeld bezogen haben",
+                "XXX<u>Zeitreihe des Indikators:</u> Kinder, deren Väter Elterngeld bezogen haben",
                 "XXXMännliche Bezieher an allen genommenen Elterngeldmonaten",
                 ""
               ]

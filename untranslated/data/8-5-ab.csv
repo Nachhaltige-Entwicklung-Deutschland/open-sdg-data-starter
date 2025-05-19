@@ -23,6 +23,7 @@ Year,Units,Series,sex,Value
 2021,percentage,a) 20 to 64-year-olds,,79.4
 2022,percentage,a) 20 to 64-year-olds,,80.6
 2023,percentage,a) 20 to 64-year-olds,,81.1
+2024,percentage,a) 20 to 64-year-olds,,81.3
 2030,percentage,a) 20 to 64-year-olds,,
 2000,percentage,a) 20 to 64-year-olds,female,60.7
 2001,percentage,a) 20 to 64-year-olds,female,61.6
@@ -48,6 +49,7 @@ Year,Units,Series,sex,Value
 2021,percentage,a) 20 to 64-year-olds,female,75.6
 2022,percentage,a) 20 to 64-year-olds,female,76.7
 2023,percentage,a) 20 to 64-year-olds,female,77.2
+2024,percentage,a) 20 to 64-year-olds,female,77.6
 2000,percentage,a) 20 to 64-year-olds,male,76.5
 2001,percentage,a) 20 to 64-year-olds,male,76.4
 2002,percentage,a) 20 to 64-year-olds,male,75.6
@@ -72,6 +74,7 @@ Year,Units,Series,sex,Value
 2021,percentage,a) 20 to 64-year-olds,male,83.0
 2022,percentage,a) 20 to 64-year-olds,male,84.4
 2023,percentage,a) 20 to 64-year-olds,male,84.9
+2024,percentage,a) 20 to 64-year-olds,male,84.9
 2000,percentage,b) 55 to 64-year-olds,,37.4
 2001,percentage,b) 55 to 64-year-olds,,37.7
 2002,percentage,b) 55 to 64-year-olds,,38.4
@@ -96,6 +99,7 @@ Year,Units,Series,sex,Value
 2021,percentage,b) 55 to 64-year-olds,,71.8
 2022,percentage,b) 55 to 64-year-olds,,73.3
 2023,percentage,b) 55 to 64-year-olds,,74.6
+2024,percentage,b) 55 to 64-year-olds,,75.2
 2030,percentage,b) 55 to 64-year-olds,,
 2000,percentage,b) 55 to 64-year-olds,female,28.7
 2001,percentage,b) 55 to 64-year-olds,female,29.3
@@ -121,6 +125,7 @@ Year,Units,Series,sex,Value
 2021,percentage,b) 55 to 64-year-olds,female,67.7
 2022,percentage,b) 55 to 64-year-olds,female,69.4
 2023,percentage,b) 55 to 64-year-olds,female,71.0
+2024,percentage,b) 55 to 64-year-olds,female,71.5
 2000,percentage,b) 55 to 64-year-olds,male,46.2
 2001,percentage,b) 55 to 64-year-olds,male,46.1
 2002,percentage,b) 55 to 64-year-olds,male,47.1
@@ -145,3 +150,4 @@ Year,Units,Series,sex,Value
 2021,percentage,b) 55 to 64-year-olds,male,75.9
 2022,percentage,b) 55 to 64-year-olds,male,77.2
 2023,percentage,b) 55 to 64-year-olds,male,78.2
+2024,percentage,b) 55 to 64-year-olds,male,78.9

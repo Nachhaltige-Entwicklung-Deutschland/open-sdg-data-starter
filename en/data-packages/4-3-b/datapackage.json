@@ -31,11 +31,22 @@
             "title": "Units"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "XXXDifferenz zwischen 'Keine Risikolage' und 'Mindestens eine Risikolage'",
+                "XXXNach Anzahl der Risikolagen",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "xxxrisikolage",
             "type": "string",
             "constraints": {
               "enum": [
-                "XXXDifferenz zwischen 'Keine Risikolage' und 'Mind. eine Risikolage'",
                 "XXXKeine Risikolage",
                 "XXXMindestens eine Risikolage",
                 "Total",

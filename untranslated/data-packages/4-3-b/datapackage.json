@@ -29,11 +29,21 @@
             }
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xxxdifferenz zwischen 'keine risikolage' und 'mindestens eine risikolage'",
+                "xxxnach anzahl der risikolagen",
+                ""
+              ]
+            }
+          },
+          {
             "name": "xxxrisikolage",
             "type": "string",
             "constraints": {
               "enum": [
-                "xxxdifferenz zwischen 'keine risikolage' und 'mind. eine risikolage'",
                 "xxxkeine risikolage",
                 "xxxmindestens eine risikolage",
                 "total",

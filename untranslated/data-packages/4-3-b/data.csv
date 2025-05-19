@@ -1,25 +1,25 @@
-Year,Units,xxxrisikolage,Value
-2018,percentage points,xxxdifferenz zwischen 'keine risikolage' und 'mind. eine risikolage',21.1
-2019,percentage points,xxxdifferenz zwischen 'keine risikolage' und 'mind. eine risikolage',17.9
-2020,percentage points,xxxdifferenz zwischen 'keine risikolage' und 'mind. eine risikolage',18.4
-2021,percentage points,xxxdifferenz zwischen 'keine risikolage' und 'mind. eine risikolage',19.7
-2022,percentage points,xxxdifferenz zwischen 'keine risikolage' und 'mind. eine risikolage',21.5
-2023,percentage points,xxxdifferenz zwischen 'keine risikolage' und 'mind. eine risikolage',21.3
-2018,percentage,xxxkeine risikolage,61.0
-2019,percentage,xxxkeine risikolage,61.0
-2020,percentage,xxxkeine risikolage,65.2
-2021,percentage,xxxkeine risikolage,64.1
-2022,percentage,xxxkeine risikolage,63.2
-2023,percentage,xxxkeine risikolage,65.0
-2018,percentage,xxxmindestens eine risikolage,39.9
-2019,percentage,xxxmindestens eine risikolage,43.2
-2020,percentage,xxxmindestens eine risikolage,46.8
-2021,percentage,xxxmindestens eine risikolage,44.4
-2022,percentage,xxxmindestens eine risikolage,41.6
-2023,percentage,xxxmindestens eine risikolage,43.7
-2018,percentage,total,55.7
-2019,percentage,total,56.5
-2020,percentage,total,60.3
-2021,percentage,total,58.3
-2022,percentage,total,56.6
-2023,percentage,total,58.6
+Year,Units,Series,xxxrisikolage,Value
+2018,percentage points,xxxdifferenz zwischen 'keine risikolage' und 'mindestens eine risikolage',,21.1
+2019,percentage points,xxxdifferenz zwischen 'keine risikolage' und 'mindestens eine risikolage',,17.9
+2020,percentage points,xxxdifferenz zwischen 'keine risikolage' und 'mindestens eine risikolage',,18.4
+2021,percentage points,xxxdifferenz zwischen 'keine risikolage' und 'mindestens eine risikolage',,19.7
+2022,percentage points,xxxdifferenz zwischen 'keine risikolage' und 'mindestens eine risikolage',,21.5
+2023,percentage points,xxxdifferenz zwischen 'keine risikolage' und 'mindestens eine risikolage',,21.3
+2018,percentage,xxxnach anzahl der risikolagen,xxxkeine risikolage,61.0
+2019,percentage,xxxnach anzahl der risikolagen,xxxkeine risikolage,61.0
+2020,percentage,xxxnach anzahl der risikolagen,xxxkeine risikolage,65.2
+2021,percentage,xxxnach anzahl der risikolagen,xxxkeine risikolage,64.1
+2022,percentage,xxxnach anzahl der risikolagen,xxxkeine risikolage,63.2
+2023,percentage,xxxnach anzahl der risikolagen,xxxkeine risikolage,65.0
+2018,percentage,xxxnach anzahl der risikolagen,xxxmindestens eine risikolage,39.9
+2019,percentage,xxxnach anzahl der risikolagen,xxxmindestens eine risikolage,43.2
+2020,percentage,xxxnach anzahl der risikolagen,xxxmindestens eine risikolage,46.8
+2021,percentage,xxxnach anzahl der risikolagen,xxxmindestens eine risikolage,44.4
+2022,percentage,xxxnach anzahl der risikolagen,xxxmindestens eine risikolage,41.6
+2023,percentage,xxxnach anzahl der risikolagen,xxxmindestens eine risikolage,43.7
+2018,percentage,xxxnach anzahl der risikolagen,total,55.7
+2019,percentage,xxxnach anzahl der risikolagen,total,56.5
+2020,percentage,xxxnach anzahl der risikolagen,total,60.3
+2021,percentage,xxxnach anzahl der risikolagen,total,58.3
+2022,percentage,xxxnach anzahl der risikolagen,total,56.6
+2023,percentage,xxxnach anzahl der risikolagen,total,58.6

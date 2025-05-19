@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Daten des Statistischen Bundesamtes",
-                "Daten des BMEL",
+                "<u>Zeitreihe des Indikators:</u> Daten des Statistischen Bundesamtes",
+                "<u>Zusätzliche Zeitreihe:</u> Daten des BMEL",
                 ""
               ]
             },
