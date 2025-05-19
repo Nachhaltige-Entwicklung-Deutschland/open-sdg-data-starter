@@ -2,7 +2,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-1-ab,"time series, sex, area",3
 #10-1,sex,1
 #10-2,"time series, area",2
-#11-1-a,type of area,1
+#11-1-a,"time series, type of area",2
 #11-1-c,degree of urbanisation,1
 #11-2-a,time series,1
 #11-2-b,time series,1
@@ -10,7 +10,7 @@ Indicator,Disaggregations,Number of disaggregations
 #11-3-a,sex,1
 #12-1-b,time series,1
 #14-1-a,time series,1
-#14-1-b,sea,1
+#14-1-b,"time series, sea",2
 #15-1,sub index,1
 #15-4,xxxsektoren,1
 #16-2,sex,1
