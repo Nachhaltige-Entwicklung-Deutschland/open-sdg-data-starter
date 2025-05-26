@@ -285,8 +285,8 @@
             "constraints": {
               "enum": [
                 "Verkehrsfläche",
-                "Siedlungsfläche (bebaut)",
                 "Erholungsfläche, Friedhof",
+                "Siedlungsfläche (bebaut)",
                 ""
               ]
             },
@@ -2341,7 +2341,7 @@
             "constraints": {
               "enum": [
                 "<u>Zeitreihe des Indikators:</u> Daten des Statistischen Bundesamtes",
-                "<u>Zusätzliche Zeitreihe:</u> Daten des BMEL",
+                "<u>Zusätzliche Zeitreihe:</u> Daten des BMLEH",
                 ""
               ]
             },
@@ -3051,7 +3051,7 @@
                 ""
               ]
             },
-            "title": "Teilindizes"
+            "title": "Teilindex"
           },
           {
             "name": "Value",

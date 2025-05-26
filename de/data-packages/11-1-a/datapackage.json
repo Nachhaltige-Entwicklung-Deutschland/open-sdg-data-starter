@@ -44,8 +44,8 @@
             "constraints": {
               "enum": [
                 "Verkehrsfläche",
-                "Siedlungsfläche (bebaut)",
                 "Erholungsfläche, Friedhof",
+                "Siedlungsfläche (bebaut)",
                 ""
               ]
             },

@@ -44,8 +44,8 @@
             "constraints": {
               "enum": [
                 "Transport area",
-                "Settlement area (built on)",
                 "Recreation area, cemetery",
+                "Settlement area (built on)",
                 ""
               ]
             },

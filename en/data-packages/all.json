@@ -285,8 +285,8 @@
             "constraints": {
               "enum": [
                 "Transport area",
-                "Settlement area (built on)",
                 "Recreation area, cemetery",
+                "Settlement area (built on)",
                 ""
               ]
             },
@@ -2341,7 +2341,7 @@
             "constraints": {
               "enum": [
                 "Data from the Federal Statistical Office",
-                "Data from the Federal Ministry of Food and Agriculture",
+                "XXXData from the Federal Ministry of Food and Agriculture",
                 ""
               ]
             },
