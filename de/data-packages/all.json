@@ -221,8 +221,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Akademisch Qualifizierte und beruflich Höherqualifizierte",
-                "Fachkräftepotenzial (insgesamt)",
+                "<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte",
+                "<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt)",
                 ""
               ]
             },
@@ -784,10 +784,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen",
-                "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens",
-                "Gini-Koeffizient des Markteinkommens",
-                "Gini-Koeffizient des Vermögens",
+                "<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens",
+                "<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen",
+                "<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Markteinkommens",
+                "<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens",
                 ""
               ]
             },

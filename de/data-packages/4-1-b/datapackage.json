@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Akademisch Qualifizierte und beruflich Höherqualifizierte",
-                "Fachkräftepotenzial (insgesamt)",
+                "<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte",
+                "<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt)",
                 ""
               ]
             },

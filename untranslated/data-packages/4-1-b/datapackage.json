@@ -29,8 +29,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "academically qualified and professionally highly qualified persons",
-                "skilled labour potential (total)",
+                "<u>time series of the indicator:</u> academically qualified and professionally highly qualified persons",
+                "<u>additional time series:</u> skilled labour potential (total)",
                 ""
               ]
             }

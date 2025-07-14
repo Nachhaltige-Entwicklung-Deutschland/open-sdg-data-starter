@@ -203,8 +203,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "academically qualified and professionally highly qualified persons",
-                "skilled labour potential (total)",
+                "<u>time series of the indicator:</u> academically qualified and professionally highly qualified persons",
+                "<u>additional time series:</u> skilled labour potential (total)",
                 ""
               ]
             }
@@ -717,10 +717,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "gini coefficient of equivalised disposable income before social transfers",
-                "gini coefficient of equivalised disposable income",
-                "gini coefficient of market income",
-                "gini coefficient of wealth",
+                "<u>time series of the indicator:</u> gini coefficient of equivalised disposable income",
+                "<u>additional time series:</u> gini coefficient of equivalised disposable income before social transfers",
+                "<u>additional time series:</u> gini coefficient of market income",
+                "<u>additional time series:</u> gini coefficient of wealth",
                 ""
               ]
             }

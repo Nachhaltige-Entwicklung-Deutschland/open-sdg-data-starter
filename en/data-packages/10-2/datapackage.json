@@ -31,10 +31,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gini coefficient of equivalised disposable income before social transfers",
-                "Gini coefficient of equivalised disposable income",
-                "Gini coefficient of market income",
-                "Gini coefficient of wealth",
+                "<u>Time series of the indicator:</u> Gini coefficient of equivalised disposable income",
+                "<u>Additional time series:</u> Gini coefficient of equivalised disposable income before social transfers",
+                "<u>Additional time series:</u> Gini coefficient of market income",
+                "<u>Additional time series:</u> Gini coefficient of wealth",
                 ""
               ]
             },
