@@ -25,6 +25,17 @@
             }
           },
           {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "trained personnel",
+                "trained personnel still required to achieve the target",
+                ""
+              ]
+            }
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {

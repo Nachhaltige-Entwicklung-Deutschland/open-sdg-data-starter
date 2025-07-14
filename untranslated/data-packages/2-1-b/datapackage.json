@@ -29,8 +29,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data from the federal statistical office",
-                "xxxdata from the federal ministry of food and agriculture",
+                "<u>time series of the indicator:</u> data from the federal statistical office",
+                "<u>additional time series:</u> data from the bmleh",
                 ""
               ]
             }

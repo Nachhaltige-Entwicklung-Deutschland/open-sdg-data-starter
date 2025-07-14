@@ -25,13 +25,13 @@
             }
           },
           {
-            "name": "xxxsektoren",
+            "name": "sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "xxxstaat und private institutionen ohne erwerbszweck",
-                "xxxhochschulen",
-                "xxxwirtschaft",
+                "government and private non-profit institutions",
+                "universities",
+                "economy",
                 ""
               ]
             }

@@ -36,12 +36,12 @@
             }
           },
           {
-            "name": "xxxart der betreuung",
+            "name": "type of care",
             "type": "string",
             "constraints": {
               "enum": [
-                "xxxkindertageseinrichtungen",
-                "xxxtagespflege",
+                "day care centres",
+                "day care",
                 ""
               ]
             }

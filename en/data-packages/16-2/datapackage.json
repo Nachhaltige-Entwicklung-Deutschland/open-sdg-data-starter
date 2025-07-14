@@ -27,6 +27,18 @@
             "title": "Units"
           },
           {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Trained personnel",
+                "Trained personnel still required to achieve the target",
+                ""
+              ]
+            },
+            "title": "Display"
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {

@@ -39,7 +39,7 @@
             "title": "Series"
           },
           {
-            "name": "xxxlevel of compliance",
+            "name": "level of compliance",
             "type": "string",
             "constraints": {
               "enum": [

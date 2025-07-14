@@ -29,8 +29,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "xxxakademisch qualifizierte und beruflich höherqualifizierte",
-                "xxxfachkräftepotenzial (insgesamt)",
+                "academically qualified and professionally highly qualified persons",
+                "skilled labour potential (total)",
                 ""
               ]
             }
@@ -40,10 +40,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "xxxzweitausbildung, ausbildung nach abitur",
-                "xxxhöherqualifizierende berufsausbildung",
-                "xxxhochschulabschlüsse",
-                "xxxerstausbildung",
+                "secondary education, education after abitur",
+                "higher qualifying vocational training",
+                "university degree",
+                "initial training",
                 ""
               ]
             }

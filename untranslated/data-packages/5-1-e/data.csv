@@ -1,6 +1,6 @@
 Year,Units,time series,Value
-2006,hours,mothers,14.747
-2007,hours,mothers,14.947
+2006,hours,mothers,15.007
+2007,hours,mothers,15.246
 2008,hours,mothers,15.51
 2009,hours,mothers,15.848
 2010,hours,mothers,16.244
@@ -17,8 +17,8 @@ Year,Units,time series,Value
 2021,hours,mothers,18.726
 2022,hours,mothers,19.073
 2023,hours,mothers,19.201
-2006,hours,fathers,35.927
-2007,hours,fathers,36.254
+2006,hours,fathers,37.166
+2007,hours,fathers,37.723
 2008,hours,fathers,38.093
 2009,hours,fathers,37.84
 2010,hours,fathers,38.05
@@ -35,8 +35,8 @@ Year,Units,time series,Value
 2021,hours,fathers,36.515
 2022,hours,fathers,36.982
 2023,hours,fathers,36.783
-2006,hours,difference,21.18
-2007,hours,difference,21.307
+2006,hours,difference,22.159
+2007,hours,difference,22.477
 2008,hours,difference,22.583
 2009,hours,difference,21.992
 2010,hours,difference,21.806

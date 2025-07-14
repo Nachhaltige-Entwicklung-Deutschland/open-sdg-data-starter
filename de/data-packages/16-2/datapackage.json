@@ -27,6 +27,18 @@
             "title": "Units"
           },
           {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ausgebildetes Personal",
+                "Noch fehlende Ausbildungsleistung",
+                ""
+              ]
+            },
+            "title": "Anzeigen"
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {

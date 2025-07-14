@@ -29,8 +29,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "xxx<u>zeitreihe des indikators:</u> kinder, deren väter elterngeld bezogen haben",
-                "xxxmännliche bezieher an allen genommenen elterngeldmonaten",
+                "<u>time series of the indicator:</u> children whose fathers have received parental allowance",
+                "<u>additional time series:</u> male recipients of all parental allowance months taken",
                 ""
               ]
             }

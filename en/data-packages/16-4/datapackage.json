@@ -31,15 +31,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Effectiveness",
-                "XXXTechnical compliance",
+                "<u>Time series of the indicator:</u> Effectiveness",
+                "<u>Additional time series:</u> Technical compliance",
                 ""
               ]
             },
             "title": "Series"
           },
           {
-            "name": "xxxlevel of compliance",
+            "name": "level of compliance",
             "type": "string",
             "constraints": {
               "enum": [
@@ -50,7 +50,7 @@
                 ""
               ]
             },
-            "title": "xxxLevel of compliance"
+            "title": "Level of compliance"
           },
           {
             "name": "Value",

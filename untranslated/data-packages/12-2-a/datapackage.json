@@ -30,9 +30,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "locations of organisation registered with emas",
-                "employees in emas organisations",
-                "emas organisations",
+                "<u>time series of the indicator:</u> locations of organisation registered with emas",
+                "<u>additional time series:</u> employees in emas organisations",
+                "<u>additional time series:</u> emas organisations",
                 ""
               ]
             }

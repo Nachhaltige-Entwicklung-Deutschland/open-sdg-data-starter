@@ -29,9 +29,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "xxxpeople gaining first-time or upgraded access to drinking water or sanitation",
-                "xxxpeople gaining first-time or upgraded access to drinking water",
-                "xxxnumber of people gaining first-time or improved access to sanitation",
+                "with a new or higher-quality access to the drinking water supply or connection to the sanitation supply",
+                "a) with access to new or improved drinking water supply",
+                "b) with access to new or improved basic sanitation or wastewater treatment",
                 ""
               ]
             }

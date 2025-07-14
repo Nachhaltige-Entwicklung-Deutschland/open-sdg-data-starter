@@ -43,7 +43,7 @@
             "title": "Series"
           },
           {
-            "name": "xxxrisikolage",
+            "name": "risk situation",
             "type": "string",
             "constraints": {
               "enum": [

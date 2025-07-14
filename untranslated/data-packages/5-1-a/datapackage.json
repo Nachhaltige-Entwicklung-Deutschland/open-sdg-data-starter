@@ -29,8 +29,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "xxxunbereinigter gender pay gap",
-                "xxxbereinigter gender pay gap",
+                "<u>time series of the indicator:</u> unadjusted gender pay gap",
+                "<u>additional time series:</u> adjusted gender pay gap",
                 ""
               ]
             }

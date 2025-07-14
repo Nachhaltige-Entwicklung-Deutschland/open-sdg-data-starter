@@ -27,16 +27,16 @@
             "title": "Units"
           },
           {
-            "name": "xxxart der tarifverträge",
+            "name": "type of collective bargaining agreement",
             "type": "string",
             "constraints": {
               "enum": [
-                "XXXBranchen-/Flächentarifvertrag",
-                "XXXFirmen-/Haustarifvertrag",
+                "Sector/area collective agreement",
+                "Company/house collective agreement",
                 ""
               ]
             },
-            "title": "XXXArt der Tarifverträge"
+            "title": "Type of collective bargaining agreement"
           },
           {
             "name": "Value",

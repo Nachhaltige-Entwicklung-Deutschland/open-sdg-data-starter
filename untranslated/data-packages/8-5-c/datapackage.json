@@ -25,12 +25,12 @@
             }
           },
           {
-            "name": "xxxart der tarifverträge",
+            "name": "type of collective bargaining agreement",
             "type": "string",
             "constraints": {
               "enum": [
-                "xxxbranchen-/flächentarifvertrag",
-                "xxxfirmen-/haustarifvertrag",
+                "sector/area collective agreement",
+                "company/house collective agreement",
                 ""
               ]
             }

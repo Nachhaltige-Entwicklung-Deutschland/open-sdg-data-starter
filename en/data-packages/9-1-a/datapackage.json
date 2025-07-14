@@ -27,17 +27,17 @@
             "title": "Units"
           },
           {
-            "name": "xxxsektoren",
+            "name": "sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "XXXStaat und private Institutionen ohne Erwerbszweck",
-                "XXXHochschulen",
-                "XXXWirtschaft",
+                "Government and private non-profit institutions",
+                "Universities",
+                "Economy",
                 ""
               ]
             },
-            "title": "XXXSektoren"
+            "title": "Sector"
           },
           {
             "name": "Value",

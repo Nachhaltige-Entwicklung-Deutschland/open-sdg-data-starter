@@ -29,8 +29,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "xxx<u>zeitreihe des indikators:</u>nachhaltigkeitszertifizierte kultur- und medieneinrichtungen",
-                "xxxproduktionen audiovisueller medien, bei denen ökologische standards eingehalten wurden",
+                "<u>time series of the indicator:</u> sustainability-certified cultural and media institutions",
+                "<u>additional time series:</u> productions of audiovisual media that meet ecological standards",
                 ""
               ]
             }

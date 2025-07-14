@@ -29,14 +29,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "effectiveness",
-                "xxxtechnical compliance",
+                "<u>time series of the indicator:</u> effectiveness",
+                "<u>additional time series:</u> technical compliance",
                 ""
               ]
             }
           },
           {
-            "name": "xxxlevel of compliance",
+            "name": "level of compliance",
             "type": "string",
             "constraints": {
               "enum": [

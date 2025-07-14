@@ -27,20 +27,20 @@
             "title": "Units"
           },
           {
-            "name": "sub index",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt",
-                "Teilindex Wälder",
-                "Teilindex Siedlungen",
-                "Teilindex Agrarland",
+                "<u>Zeitreihe des Indikators:</u> Gesamtindikator",
+                "Teilindikator Wälder",
+                "Teilindikator Siedlungen",
+                "Teilindikator Agrarland",
                 "Teilindex Binnengewässer",
-                "Teilindex Küsten/Meere",
+                "<u>Zusätzliche Zeitreihe:</u> Küsten/Meere",
                 ""
               ]
             },
-            "title": "Teilindex"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

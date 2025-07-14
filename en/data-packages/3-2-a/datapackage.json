@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "XXXInsgesamt",
+                "Total",
                 "SO₂",
                 "NOₓ",
                 "NH₃",

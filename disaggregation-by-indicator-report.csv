@@ -1,5 +1,5 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-1-ab,"sex, time series, area",3
+#1-1-ab,"time series, area, sex",3
 #10-1,sex,1
 #10-2,"time series, area",2
 #11-1-a,"time series, type of area",2
@@ -11,30 +11,30 @@ Indicator,Disaggregations,Number of disaggregations
 #12-1-b,time series,1
 #14-1-a,time series,1
 #14-1-b,"time series, sea",2
-#15-1,sub index,1
-#15-4,xxxsektoren,1
-#16-2,sex,1
-#16-4,xxxlevel of compliance,1
+#15-1,time series,1
+#15-4,sector,1
+#16-2,"sex, display",2
+#16-4,level of compliance,1
 #17-2,time series,1
 #17-3,time series,1
 #2-1-a,time series,1
-#3-1-a,"sex, xxxart der prävention",2
-#3-1-cd,"sex, time series",2
-#3-1-e,"sex, time series, age group",3
+#3-1-a,"sex, type of treatment",2
+#3-1-cd,"time series, sex",2
+#3-1-e,"time series, sex, age group",3
 #3-1-f,"sex, age group",2
 #3-2-a,air pollutant,1
 #3-3,time series,1
 #4-1-a,sex,1
-#4-1-b,"sex, time series, qualification",3
-#4-2-ab,xxxart der betreuung,1
+#4-1-b,"time series, sex, qualification",3
+#4-2-ab,type of care,1
 #4-3-a,sex,1
-#4-3-b,xxxrisikolage,1
+#4-3-b,risk situation,1
 #5-1-bc,time series,1
 #5-1-e,time series,1
 #6-2-ab,time series,1
 #8-1,time series,1
 #8-2-ab,time series,1
 #8-5-ab,sex,1
-#8-5-c,xxxart der tarifverträge,1
-#9-1-a,xxxsektoren,1
+#8-5-c,type of collective bargaining agreement,1
+#9-1-a,sector,1
 #9-1-b,time series,1

@@ -8,9 +8,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -33,19 +30,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "xxxdifferenz zwischen 'keine risikolage' und 'mindestens eine risikolage'",
-                "xxxnach anzahl der risikolagen",
+                "difference between “no risk situation” and 'at least one risk situation'",
+                "by number of risk positions",
                 ""
               ]
             }
           },
           {
-            "name": "xxxrisikolage",
+            "name": "risk situation",
             "type": "string",
             "constraints": {
               "enum": [
-                "xxxkeine risikolage",
-                "xxxmindestens eine risikolage",
+                "no risk situation",
+                "at least one risk situation",
                 "total",
                 ""
               ]

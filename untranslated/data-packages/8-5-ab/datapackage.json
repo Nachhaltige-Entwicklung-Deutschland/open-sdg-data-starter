@@ -29,8 +29,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) 20 to 64-year-olds",
-                "b) 55 to 64-year-olds",
+                "a) total (20 to 64-year-olds)",
+                "b) older people (55 to 64-year-olds)",
                 ""
               ]
             }

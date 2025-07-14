@@ -30,9 +30,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "xxxa) nachhaltigkeit in vergabeverfahren",
-                "b) co2 emissions of commercially available vehicles in the public sector",
-                "xxxc) nachhaltige textilbeschaffung",
+                "a) sustainability in procurement procedures",
+                "b) co₂ emissions of commercially available vehicles in the public sector",
+                "c) sustainable textile procurement",
                 ""
               ]
             }

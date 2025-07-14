@@ -25,13 +25,13 @@
             }
           },
           {
-            "name": "xxxsektoren",
+            "name": "sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "xxxnachhaltige bewirtschaftete fläche",
-                "xxxwaldfläche nachhaltige bewirtschaftung und wiederherstellung",
-                "xxxterrestrische schutzgebiete und mangrovenwälder in marinen schutzgebieten",
+                "sustainably farmed area",
+                "forest area sustainable management and restoration",
+                "terrestrial protected areas and mangrove forests in marine protected areas",
                 ""
               ]
             }

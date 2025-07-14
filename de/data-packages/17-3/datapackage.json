@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Einfuhren",
-                "Einfuhren von weiterverarbeiteten Produkten",
+                "<u>Zeitreihe des Indikators:</u> Einfuhren",
+                "<u>Zusätzliche Zeitreihe:</u> Einfuhren von weiterverarbeiteten Produkten",
                 ""
               ]
             },

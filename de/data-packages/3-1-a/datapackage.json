@@ -39,7 +39,7 @@
             "title": "Geschlecht"
           },
           {
-            "name": "xxxart der prävention",
+            "name": "type of treatment",
             "type": "string",
             "constraints": {
               "enum": [

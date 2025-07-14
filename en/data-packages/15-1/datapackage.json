@@ -27,20 +27,20 @@
             "title": "Units"
           },
           {
-            "name": "sub index",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Forest sub-index",
-                "Settlements sub-index",
-                "Farmland sub-index",
+                "<u>Time series of the indicator:</u> Total",
+                "Forest sub-indicator",
+                "Settlements sub-indicator",
+                "Farmland sub-indicator",
                 "Inland waters sub-index",
-                "Coasts and seas sub-index",
+                "<u>Additional time series:</u> Coasts and seas",
                 ""
               ]
             },
-            "title": "Sub index"
+            "title": "Time series"
           },
           {
             "name": "Value",

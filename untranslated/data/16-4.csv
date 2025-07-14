@@ -1,17 +1,17 @@
-Year,Units,Series,xxxlevel of compliance,Value
-2022,number of ratings,effectiveness,effectiveness = substantial or high,4.0
-2023,number of ratings,effectiveness,effectiveness = substantial or high,
-2021,number of ratings,effectiveness,effectiveness = substantial or high,
-2029,number of ratings,effectiveness,effectiveness = substantial or high,
-2022,number of ratings,effectiveness,effectiveness = low or moderate,7.0
-2023,number of ratings,effectiveness,effectiveness = low or moderate,
-2021,number of ratings,effectiveness,effectiveness = low or moderate,
-2029,number of ratings,effectiveness,effectiveness = low or moderate,
-2022,number of ratings,xxxtechnical compliance,technical compliance = largely compliant or compliant,35.0
-2023,number of ratings,xxxtechnical compliance,technical compliance = largely compliant or compliant,37.0
-2021,number of ratings,xxxtechnical compliance,technical compliance = largely compliant or compliant,
-2029,number of ratings,xxxtechnical compliance,technical compliance = largely compliant or compliant,
-2022,number of ratings,xxxtechnical compliance,technical compliance = non-compliant or partially compliant,5.0
-2023,number of ratings,xxxtechnical compliance,technical compliance = non-compliant or partially compliant,3.0
-2021,number of ratings,xxxtechnical compliance,technical compliance = non-compliant or partially compliant,
-2029,number of ratings,xxxtechnical compliance,technical compliance = non-compliant or partially compliant,
+Year,Units,Series,level of compliance,Value
+2022,number of ratings,<u>time series of the indicator:</u> effectiveness,effectiveness = substantial or high,4.0
+2023,number of ratings,<u>time series of the indicator:</u> effectiveness,effectiveness = substantial or high,
+2021,number of ratings,<u>time series of the indicator:</u> effectiveness,effectiveness = substantial or high,
+2029,number of ratings,<u>time series of the indicator:</u> effectiveness,effectiveness = substantial or high,
+2022,number of ratings,<u>time series of the indicator:</u> effectiveness,effectiveness = low or moderate,7.0
+2023,number of ratings,<u>time series of the indicator:</u> effectiveness,effectiveness = low or moderate,
+2021,number of ratings,<u>time series of the indicator:</u> effectiveness,effectiveness = low or moderate,
+2029,number of ratings,<u>time series of the indicator:</u> effectiveness,effectiveness = low or moderate,
+2022,number of ratings,<u>additional time series:</u> technical compliance,technical compliance = largely compliant or compliant,35.0
+2023,number of ratings,<u>additional time series:</u> technical compliance,technical compliance = largely compliant or compliant,37.0
+2021,number of ratings,<u>additional time series:</u> technical compliance,technical compliance = largely compliant or compliant,
+2029,number of ratings,<u>additional time series:</u> technical compliance,technical compliance = largely compliant or compliant,
+2022,number of ratings,<u>additional time series:</u> technical compliance,technical compliance = non-compliant or partially compliant,5.0
+2023,number of ratings,<u>additional time series:</u> technical compliance,technical compliance = non-compliant or partially compliant,3.0
+2021,number of ratings,<u>additional time series:</u> technical compliance,technical compliance = non-compliant or partially compliant,
+2029,number of ratings,<u>additional time series:</u> technical compliance,technical compliance = non-compliant or partially compliant,

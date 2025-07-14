@@ -29,8 +29,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "xxxcorruption perception index in germany",
-                "xxxnumber of partner countries for german development cooperation with improved cpi scores compared with 2012",
+                "a) corruption perceptions index in germany",
+                "b) corruption perceptions index in partner countries for german development cooperation",
                 ""
               ]
             }
@@ -45,5 +45,5 @@
   ],
   "profile": "data-package",
   "name": "16-3-ab",
-  "title": "Corruption Perception Index in Deutschland sowie in den Partnerländern der deutschen Entwicklungszusammenarbeit"
+  "title": "Corruption Perceptions Index in Deutschland sowie in den Partnerländern der deutschen Entwicklungszusammenarbeit"
 }
