@@ -1,4 +1,4 @@
-Year,Units,Series,xxxart der betreuung,Value
+Year,Units,Series,type of care,Value
 2006,percentage,a) 0 to 2-year-olds,,6.499
 2007,percentage,a) 0 to 2-year-olds,,7.321
 2008,percentage,a) 0 to 2-year-olds,,8.284
@@ -19,44 +19,44 @@ Year,Units,Series,xxxart der betreuung,Value
 2023,percentage,a) 0 to 2-year-olds,,19.659
 2024,percentage,a) 0 to 2-year-olds,,19.97
 2030,percentage,a) 0 to 2-year-olds,,
-2006,percentage,a) 0 to 2-year-olds,xxxkindertageseinrichtungen,5.87
-2007,percentage,a) 0 to 2-year-olds,xxxkindertageseinrichtungen,6.521
-2008,percentage,a) 0 to 2-year-olds,xxxkindertageseinrichtungen,7.313
-2009,percentage,a) 0 to 2-year-olds,xxxkindertageseinrichtungen,8.669
-2010,percentage,a) 0 to 2-year-olds,xxxkindertageseinrichtungen,10.167
-2011,percentage,a) 0 to 2-year-olds,xxxkindertageseinrichtungen,11.344
-2012,percentage,a) 0 to 2-year-olds,xxxkindertageseinrichtungen,12.745
-2013,percentage,a) 0 to 2-year-olds,xxxkindertageseinrichtungen,13.718
-2014,percentage,a) 0 to 2-year-olds,xxxkindertageseinrichtungen,15.306
-2015,percentage,a) 0 to 2-year-olds,xxxkindertageseinrichtungen,15.919
-2016,percentage,a) 0 to 2-year-olds,xxxkindertageseinrichtungen,16.158
-2017,percentage,a) 0 to 2-year-olds,xxxkindertageseinrichtungen,16.231
-2018,percentage,a) 0 to 2-year-olds,xxxkindertageseinrichtungen,16.528
-2019,percentage,a) 0 to 2-year-olds,xxxkindertageseinrichtungen,16.914
-2020,percentage,a) 0 to 2-year-olds,xxxkindertageseinrichtungen,17.096
-2021,percentage,a) 0 to 2-year-olds,xxxkindertageseinrichtungen,16.461
-2022,percentage,a) 0 to 2-year-olds,xxxkindertageseinrichtungen,16.803
-2023,percentage,a) 0 to 2-year-olds,xxxkindertageseinrichtungen,17.079
-2024,percentage,a) 0 to 2-year-olds,xxxkindertageseinrichtungen,17.344
-2006,percentage,a) 0 to 2-year-olds,xxxtagespflege,0.629
-2007,percentage,a) 0 to 2-year-olds,xxxtagespflege,0.8
-2008,percentage,a) 0 to 2-year-olds,xxxtagespflege,0.971
-2009,percentage,a) 0 to 2-year-olds,xxxtagespflege,1.201
-2010,percentage,a) 0 to 2-year-olds,xxxtagespflege,1.43
-2011,percentage,a) 0 to 2-year-olds,xxxtagespflege,1.596
-2012,percentage,a) 0 to 2-year-olds,xxxtagespflege,1.884
-2013,percentage,a) 0 to 2-year-olds,xxxtagespflege,2.04
-2014,percentage,a) 0 to 2-year-olds,xxxtagespflege,2.155
-2015,percentage,a) 0 to 2-year-olds,xxxtagespflege,2.146
-2016,percentage,a) 0 to 2-year-olds,xxxtagespflege,2.162
-2017,percentage,a) 0 to 2-year-olds,xxxtagespflege,2.247
-2018,percentage,a) 0 to 2-year-olds,xxxtagespflege,2.31
-2019,percentage,a) 0 to 2-year-olds,xxxtagespflege,2.407
-2020,percentage,a) 0 to 2-year-olds,xxxtagespflege,2.487
-2021,percentage,a) 0 to 2-year-olds,xxxtagespflege,2.481
-2022,percentage,a) 0 to 2-year-olds,xxxtagespflege,2.495
-2023,percentage,a) 0 to 2-year-olds,xxxtagespflege,2.58
-2024,percentage,a) 0 to 2-year-olds,xxxtagespflege,2.626
+2006,percentage,a) 0 to 2-year-olds,day care centres,5.87
+2007,percentage,a) 0 to 2-year-olds,day care centres,6.521
+2008,percentage,a) 0 to 2-year-olds,day care centres,7.313
+2009,percentage,a) 0 to 2-year-olds,day care centres,8.669
+2010,percentage,a) 0 to 2-year-olds,day care centres,10.167
+2011,percentage,a) 0 to 2-year-olds,day care centres,11.344
+2012,percentage,a) 0 to 2-year-olds,day care centres,12.745
+2013,percentage,a) 0 to 2-year-olds,day care centres,13.718
+2014,percentage,a) 0 to 2-year-olds,day care centres,15.306
+2015,percentage,a) 0 to 2-year-olds,day care centres,15.919
+2016,percentage,a) 0 to 2-year-olds,day care centres,16.158
+2017,percentage,a) 0 to 2-year-olds,day care centres,16.231
+2018,percentage,a) 0 to 2-year-olds,day care centres,16.528
+2019,percentage,a) 0 to 2-year-olds,day care centres,16.914
+2020,percentage,a) 0 to 2-year-olds,day care centres,17.096
+2021,percentage,a) 0 to 2-year-olds,day care centres,16.461
+2022,percentage,a) 0 to 2-year-olds,day care centres,16.803
+2023,percentage,a) 0 to 2-year-olds,day care centres,17.079
+2024,percentage,a) 0 to 2-year-olds,day care centres,17.344
+2006,percentage,a) 0 to 2-year-olds,day care,0.629
+2007,percentage,a) 0 to 2-year-olds,day care,0.8
+2008,percentage,a) 0 to 2-year-olds,day care,0.971
+2009,percentage,a) 0 to 2-year-olds,day care,1.201
+2010,percentage,a) 0 to 2-year-olds,day care,1.43
+2011,percentage,a) 0 to 2-year-olds,day care,1.596
+2012,percentage,a) 0 to 2-year-olds,day care,1.884
+2013,percentage,a) 0 to 2-year-olds,day care,2.04
+2014,percentage,a) 0 to 2-year-olds,day care,2.155
+2015,percentage,a) 0 to 2-year-olds,day care,2.146
+2016,percentage,a) 0 to 2-year-olds,day care,2.162
+2017,percentage,a) 0 to 2-year-olds,day care,2.247
+2018,percentage,a) 0 to 2-year-olds,day care,2.31
+2019,percentage,a) 0 to 2-year-olds,day care,2.407
+2020,percentage,a) 0 to 2-year-olds,day care,2.487
+2021,percentage,a) 0 to 2-year-olds,day care,2.481
+2022,percentage,a) 0 to 2-year-olds,day care,2.495
+2023,percentage,a) 0 to 2-year-olds,day care,2.58
+2024,percentage,a) 0 to 2-year-olds,day care,2.626
 2006,percentage,b) 3 to 5-year-olds,,22.091
 2007,percentage,b) 3 to 5-year-olds,,24.329
 2008,percentage,b) 3 to 5-year-olds,,27.067
@@ -77,41 +77,41 @@ Year,Units,Series,xxxart der betreuung,Value
 2023,percentage,b) 3 to 5-year-olds,,47.003
 2024,percentage,b) 3 to 5-year-olds,,46.976
 2030,percentage,b) 3 to 5-year-olds,,
-2006,percentage,b) 3 to 5-year-olds,xxxkindertageseinrichtungen,21.963
-2007,percentage,b) 3 to 5-year-olds,xxxkindertageseinrichtungen,24.189
-2008,percentage,b) 3 to 5-year-olds,xxxkindertageseinrichtungen,26.896
-2009,percentage,b) 3 to 5-year-olds,xxxkindertageseinrichtungen,29.696
-2010,percentage,b) 3 to 5-year-olds,xxxkindertageseinrichtungen,32.138
-2011,percentage,b) 3 to 5-year-olds,xxxkindertageseinrichtungen,34.672
-2012,percentage,b) 3 to 5-year-olds,xxxkindertageseinrichtungen,37.041
-2013,percentage,b) 3 to 5-year-olds,xxxkindertageseinrichtungen,39.267
-2014,percentage,b) 3 to 5-year-olds,xxxkindertageseinrichtungen,41.701
-2015,percentage,b) 3 to 5-year-olds,xxxkindertageseinrichtungen,43.67
-2016,percentage,b) 3 to 5-year-olds,xxxkindertageseinrichtungen,44.49
-2017,percentage,b) 3 to 5-year-olds,xxxkindertageseinrichtungen,45.239
-2018,percentage,b) 3 to 5-year-olds,xxxkindertageseinrichtungen,45.838
-2019,percentage,b) 3 to 5-year-olds,xxxkindertageseinrichtungen,46.871
-2020,percentage,b) 3 to 5-year-olds,xxxkindertageseinrichtungen,47.553
-2021,percentage,b) 3 to 5-year-olds,xxxkindertageseinrichtungen,46.934
-2022,percentage,b) 3 to 5-year-olds,xxxkindertageseinrichtungen,46.99
-2023,percentage,b) 3 to 5-year-olds,xxxkindertageseinrichtungen,46.64
-2024,percentage,b) 3 to 5-year-olds,xxxkindertageseinrichtungen,46.607
-2006,percentage,b) 3 to 5-year-olds,xxxtagespflege,0.127
-2007,percentage,b) 3 to 5-year-olds,xxxtagespflege,0.141
-2008,percentage,b) 3 to 5-year-olds,xxxtagespflege,0.171
-2009,percentage,b) 3 to 5-year-olds,xxxtagespflege,0.174
-2010,percentage,b) 3 to 5-year-olds,xxxtagespflege,0.183
-2011,percentage,b) 3 to 5-year-olds,xxxtagespflege,0.207
-2012,percentage,b) 3 to 5-year-olds,xxxtagespflege,0.204
-2013,percentage,b) 3 to 5-year-olds,xxxtagespflege,0.218
-2014,percentage,b) 3 to 5-year-olds,xxxtagespflege,0.244
-2015,percentage,b) 3 to 5-year-olds,xxxtagespflege,0.265
-2016,percentage,b) 3 to 5-year-olds,xxxtagespflege,0.266
-2017,percentage,b) 3 to 5-year-olds,xxxtagespflege,0.27
-2018,percentage,b) 3 to 5-year-olds,xxxtagespflege,0.294
-2019,percentage,b) 3 to 5-year-olds,xxxtagespflege,0.306
-2020,percentage,b) 3 to 5-year-olds,xxxtagespflege,0.36
-2021,percentage,b) 3 to 5-year-olds,xxxtagespflege,0.39
-2022,percentage,b) 3 to 5-year-olds,xxxtagespflege,0.363
-2023,percentage,b) 3 to 5-year-olds,xxxtagespflege,0.363
-2024,percentage,b) 3 to 5-year-olds,xxxtagespflege,0.369
+2006,percentage,b) 3 to 5-year-olds,day care centres,21.963
+2007,percentage,b) 3 to 5-year-olds,day care centres,24.189
+2008,percentage,b) 3 to 5-year-olds,day care centres,26.896
+2009,percentage,b) 3 to 5-year-olds,day care centres,29.696
+2010,percentage,b) 3 to 5-year-olds,day care centres,32.138
+2011,percentage,b) 3 to 5-year-olds,day care centres,34.672
+2012,percentage,b) 3 to 5-year-olds,day care centres,37.041
+2013,percentage,b) 3 to 5-year-olds,day care centres,39.267
+2014,percentage,b) 3 to 5-year-olds,day care centres,41.701
+2015,percentage,b) 3 to 5-year-olds,day care centres,43.67
+2016,percentage,b) 3 to 5-year-olds,day care centres,44.49
+2017,percentage,b) 3 to 5-year-olds,day care centres,45.239
+2018,percentage,b) 3 to 5-year-olds,day care centres,45.838
+2019,percentage,b) 3 to 5-year-olds,day care centres,46.871
+2020,percentage,b) 3 to 5-year-olds,day care centres,47.553
+2021,percentage,b) 3 to 5-year-olds,day care centres,46.934
+2022,percentage,b) 3 to 5-year-olds,day care centres,46.99
+2023,percentage,b) 3 to 5-year-olds,day care centres,46.64
+2024,percentage,b) 3 to 5-year-olds,day care centres,46.607
+2006,percentage,b) 3 to 5-year-olds,day care,0.127
+2007,percentage,b) 3 to 5-year-olds,day care,0.141
+2008,percentage,b) 3 to 5-year-olds,day care,0.171
+2009,percentage,b) 3 to 5-year-olds,day care,0.174
+2010,percentage,b) 3 to 5-year-olds,day care,0.183
+2011,percentage,b) 3 to 5-year-olds,day care,0.207
+2012,percentage,b) 3 to 5-year-olds,day care,0.204
+2013,percentage,b) 3 to 5-year-olds,day care,0.218
+2014,percentage,b) 3 to 5-year-olds,day care,0.244
+2015,percentage,b) 3 to 5-year-olds,day care,0.265
+2016,percentage,b) 3 to 5-year-olds,day care,0.266
+2017,percentage,b) 3 to 5-year-olds,day care,0.27
+2018,percentage,b) 3 to 5-year-olds,day care,0.294
+2019,percentage,b) 3 to 5-year-olds,day care,0.306
+2020,percentage,b) 3 to 5-year-olds,day care,0.36
+2021,percentage,b) 3 to 5-year-olds,day care,0.39
+2022,percentage,b) 3 to 5-year-olds,day care,0.363
+2023,percentage,b) 3 to 5-year-olds,day care,0.363
+2024,percentage,b) 3 to 5-year-olds,day care,0.369

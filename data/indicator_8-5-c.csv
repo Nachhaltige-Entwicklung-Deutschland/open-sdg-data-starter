@@ -1,4 +1,4 @@
-Year,Units,xxxart der tarifverträge,Value
+Year,Units,type of collective bargaining agreement,Value
 1996,percentage,,79.074
 1997,percentage,,79.111
 1998,percentage,,73.602
@@ -27,59 +27,59 @@ Year,Units,xxxart der tarifverträge,Value
 2021,percentage,,52.036
 2022,percentage,,50.828
 2023,percentage,,49.453
-1996,percentage,xxxbranchen-/flächentarifvertrag,66.992
-1997,percentage,xxxbranchen-/flächentarifvertrag,65.819
-1998,percentage,xxxbranchen-/flächentarifvertrag,64.811
-1999,percentage,xxxbranchen-/flächentarifvertrag,61.857
-2000,percentage,xxxbranchen-/flächentarifvertrag,59.935
-2001,percentage,xxxbranchen-/flächentarifvertrag,60.049
-2002,percentage,xxxbranchen-/flächentarifvertrag,59.701
-2003,percentage,xxxbranchen-/flächentarifvertrag,58.96
-2004,percentage,xxxbranchen-/flächentarifvertrag,57.562
-2005,percentage,xxxbranchen-/flächentarifvertrag,56.093
-2006,percentage,xxxbranchen-/flächentarifvertrag,54.119
-2007,percentage,xxxbranchen-/flächentarifvertrag,53.327
-2008,percentage,xxxbranchen-/flächentarifvertrag,52.546
-2009,percentage,xxxbranchen-/flächentarifvertrag,52.351
-2010,percentage,xxxbranchen-/flächentarifvertrag,52.204
-2011,percentage,xxxbranchen-/flächentarifvertrag,50.762
-2012,percentage,xxxbranchen-/flächentarifvertrag,50.019
-2013,percentage,xxxbranchen-/flächentarifvertrag,48.998
-2014,percentage,xxxbranchen-/flächentarifvertrag,49.83
-2015,percentage,xxxbranchen-/flächentarifvertrag,48.238
-2016,percentage,xxxbranchen-/flächentarifvertrag,48.274
-2017,percentage,xxxbranchen-/flächentarifvertrag,46.604
-2018,percentage,xxxbranchen-/flächentarifvertrag,45.991
-2019,percentage,xxxbranchen-/flächentarifvertrag,43.865
-2020,percentage,xxxbranchen-/flächentarifvertrag,42.839
-2021,percentage,xxxbranchen-/flächentarifvertrag,42.665
-2022,percentage,xxxbranchen-/flächentarifvertrag,40.983
-2023,percentage,xxxbranchen-/flächentarifvertrag,41.561
-1996,percentage,xxxfirmen-/haustarifvertrag,12.083
-1997,percentage,xxxfirmen-/haustarifvertrag,13.292
-1998,percentage,xxxfirmen-/haustarifvertrag,8.791
-1999,percentage,xxxfirmen-/haustarifvertrag,8.309
-2000,percentage,xxxfirmen-/haustarifvertrag,7.747
-2001,percentage,xxxfirmen-/haustarifvertrag,8.34
-2002,percentage,xxxfirmen-/haustarifvertrag,7.877
-2003,percentage,xxxfirmen-/haustarifvertrag,8.22
-2004,percentage,xxxfirmen-/haustarifvertrag,7.863
-2005,percentage,xxxfirmen-/haustarifvertrag,8.085
-2006,percentage,xxxfirmen-/haustarifvertrag,8.918
-2007,percentage,xxxfirmen-/haustarifvertrag,8.196
-2008,percentage,xxxfirmen-/haustarifvertrag,8.635
-2009,percentage,xxxfirmen-/haustarifvertrag,9.45
-2010,percentage,xxxfirmen-/haustarifvertrag,8.334
-2011,percentage,xxxfirmen-/haustarifvertrag,8.107
-2012,percentage,xxxfirmen-/haustarifvertrag,8.275
-2013,percentage,xxxfirmen-/haustarifvertrag,8.672
-2014,percentage,xxxfirmen-/haustarifvertrag,7.989
-2015,percentage,xxxfirmen-/haustarifvertrag,8.558
-2016,percentage,xxxfirmen-/haustarifvertrag,8.1
-2017,percentage,xxxfirmen-/haustarifvertrag,7.9
-2018,percentage,xxxfirmen-/haustarifvertrag,8.385
-2019,percentage,xxxfirmen-/haustarifvertrag,7.982
-2020,percentage,xxxfirmen-/haustarifvertrag,8.221
-2021,percentage,xxxfirmen-/haustarifvertrag,9.371
-2022,percentage,xxxfirmen-/haustarifvertrag,9.846
-2023,percentage,xxxfirmen-/haustarifvertrag,7.891
+1996,percentage,sector/area collective agreement,66.992
+1997,percentage,sector/area collective agreement,65.819
+1998,percentage,sector/area collective agreement,64.811
+1999,percentage,sector/area collective agreement,61.857
+2000,percentage,sector/area collective agreement,59.935
+2001,percentage,sector/area collective agreement,60.049
+2002,percentage,sector/area collective agreement,59.701
+2003,percentage,sector/area collective agreement,58.96
+2004,percentage,sector/area collective agreement,57.562
+2005,percentage,sector/area collective agreement,56.093
+2006,percentage,sector/area collective agreement,54.119
+2007,percentage,sector/area collective agreement,53.327
+2008,percentage,sector/area collective agreement,52.546
+2009,percentage,sector/area collective agreement,52.351
+2010,percentage,sector/area collective agreement,52.204
+2011,percentage,sector/area collective agreement,50.762
+2012,percentage,sector/area collective agreement,50.019
+2013,percentage,sector/area collective agreement,48.998
+2014,percentage,sector/area collective agreement,49.83
+2015,percentage,sector/area collective agreement,48.238
+2016,percentage,sector/area collective agreement,48.274
+2017,percentage,sector/area collective agreement,46.604
+2018,percentage,sector/area collective agreement,45.991
+2019,percentage,sector/area collective agreement,43.865
+2020,percentage,sector/area collective agreement,42.839
+2021,percentage,sector/area collective agreement,42.665
+2022,percentage,sector/area collective agreement,40.983
+2023,percentage,sector/area collective agreement,41.561
+1996,percentage,company/house collective agreement,12.083
+1997,percentage,company/house collective agreement,13.292
+1998,percentage,company/house collective agreement,8.791
+1999,percentage,company/house collective agreement,8.309
+2000,percentage,company/house collective agreement,7.747
+2001,percentage,company/house collective agreement,8.34
+2002,percentage,company/house collective agreement,7.877
+2003,percentage,company/house collective agreement,8.22
+2004,percentage,company/house collective agreement,7.863
+2005,percentage,company/house collective agreement,8.085
+2006,percentage,company/house collective agreement,8.918
+2007,percentage,company/house collective agreement,8.196
+2008,percentage,company/house collective agreement,8.635
+2009,percentage,company/house collective agreement,9.45
+2010,percentage,company/house collective agreement,8.334
+2011,percentage,company/house collective agreement,8.107
+2012,percentage,company/house collective agreement,8.275
+2013,percentage,company/house collective agreement,8.672
+2014,percentage,company/house collective agreement,7.989
+2015,percentage,company/house collective agreement,8.558
+2016,percentage,company/house collective agreement,8.1
+2017,percentage,company/house collective agreement,7.9
+2018,percentage,company/house collective agreement,8.385
+2019,percentage,company/house collective agreement,7.982
+2020,percentage,company/house collective agreement,8.221
+2021,percentage,company/house collective agreement,9.371
+2022,percentage,company/house collective agreement,9.846
+2023,percentage,company/house collective agreement,7.891

@@ -1,49 +1,49 @@
 Year,Units,time series,Value
-2002,percentage,imports,0.44
-2003,percentage,imports,0.52
-2004,percentage,imports,0.52
-2005,percentage,imports,0.44
-2006,percentage,imports,0.49
-2007,percentage,imports,0.52
-2008,percentage,imports,0.46
-2009,percentage,imports,0.58
-2010,percentage,imports,0.53
-2011,percentage,imports,0.67
-2012,percentage,imports,0.62
-2013,percentage,imports,0.71
-2014,percentage,imports,0.71
-2015,percentage,imports,0.81
-2016,percentage,imports,0.88
-2017,percentage,imports,0.94
-2018,percentage,imports,0.94
-2019,percentage,imports,0.94
-2020,percentage,imports,0.98
-2021,percentage,imports,1.04
-2022,percentage,imports,1.15
-2023,percentage,imports,1.02
-2024,percentage,imports,1.17
-2030,percentage,imports,
-2002,percentage,imports of processed products,0.36
-2003,percentage,imports of processed products,0.49
-2004,percentage,imports of processed products,0.49
-2005,percentage,imports of processed products,0.4
-2006,percentage,imports of processed products,0.45
-2007,percentage,imports of processed products,0.45
-2008,percentage,imports of processed products,0.36
-2009,percentage,imports of processed products,0.52
-2010,percentage,imports of processed products,0.47
-2011,percentage,imports of processed products,0.54
-2012,percentage,imports of processed products,0.54
-2013,percentage,imports of processed products,0.62
-2014,percentage,imports of processed products,0.66
-2015,percentage,imports of processed products,0.76
-2016,percentage,imports of processed products,0.82
-2017,percentage,imports of processed products,0.88
-2018,percentage,imports of processed products,0.89
-2019,percentage,imports of processed products,0.89
-2020,percentage,imports of processed products,0.92
-2021,percentage,imports of processed products,0.92
-2022,percentage,imports of processed products,1.02
-2023,percentage,imports of processed products,0.92
-2024,percentage,imports of processed products,1.05
-2030,percentage,imports of processed products,
+2002,percentage,<u>time series of the indicator:</u> imports,0.44
+2003,percentage,<u>time series of the indicator:</u> imports,0.52
+2004,percentage,<u>time series of the indicator:</u> imports,0.52
+2005,percentage,<u>time series of the indicator:</u> imports,0.44
+2006,percentage,<u>time series of the indicator:</u> imports,0.49
+2007,percentage,<u>time series of the indicator:</u> imports,0.52
+2008,percentage,<u>time series of the indicator:</u> imports,0.46
+2009,percentage,<u>time series of the indicator:</u> imports,0.58
+2010,percentage,<u>time series of the indicator:</u> imports,0.53
+2011,percentage,<u>time series of the indicator:</u> imports,0.67
+2012,percentage,<u>time series of the indicator:</u> imports,0.62
+2013,percentage,<u>time series of the indicator:</u> imports,0.71
+2014,percentage,<u>time series of the indicator:</u> imports,0.71
+2015,percentage,<u>time series of the indicator:</u> imports,0.81
+2016,percentage,<u>time series of the indicator:</u> imports,0.88
+2017,percentage,<u>time series of the indicator:</u> imports,0.94
+2018,percentage,<u>time series of the indicator:</u> imports,0.94
+2019,percentage,<u>time series of the indicator:</u> imports,0.94
+2020,percentage,<u>time series of the indicator:</u> imports,0.98
+2021,percentage,<u>time series of the indicator:</u> imports,1.04
+2022,percentage,<u>time series of the indicator:</u> imports,1.15
+2023,percentage,<u>time series of the indicator:</u> imports,1.02
+2024,percentage,<u>time series of the indicator:</u> imports,1.17
+2030,percentage,<u>time series of the indicator:</u> imports,
+2002,percentage,<u>additional time series:</u> imports of processed products,0.36
+2003,percentage,<u>additional time series:</u> imports of processed products,0.49
+2004,percentage,<u>additional time series:</u> imports of processed products,0.49
+2005,percentage,<u>additional time series:</u> imports of processed products,0.4
+2006,percentage,<u>additional time series:</u> imports of processed products,0.45
+2007,percentage,<u>additional time series:</u> imports of processed products,0.45
+2008,percentage,<u>additional time series:</u> imports of processed products,0.36
+2009,percentage,<u>additional time series:</u> imports of processed products,0.52
+2010,percentage,<u>additional time series:</u> imports of processed products,0.47
+2011,percentage,<u>additional time series:</u> imports of processed products,0.54
+2012,percentage,<u>additional time series:</u> imports of processed products,0.54
+2013,percentage,<u>additional time series:</u> imports of processed products,0.62
+2014,percentage,<u>additional time series:</u> imports of processed products,0.66
+2015,percentage,<u>additional time series:</u> imports of processed products,0.76
+2016,percentage,<u>additional time series:</u> imports of processed products,0.82
+2017,percentage,<u>additional time series:</u> imports of processed products,0.88
+2018,percentage,<u>additional time series:</u> imports of processed products,0.89
+2019,percentage,<u>additional time series:</u> imports of processed products,0.89
+2020,percentage,<u>additional time series:</u> imports of processed products,0.92
+2021,percentage,<u>additional time series:</u> imports of processed products,0.92
+2022,percentage,<u>additional time series:</u> imports of processed products,1.02
+2023,percentage,<u>additional time series:</u> imports of processed products,0.92
+2024,percentage,<u>additional time series:</u> imports of processed products,1.05
+2030,percentage,<u>additional time series:</u> imports of processed products,
