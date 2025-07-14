@@ -1,25 +1,25 @@
-Year,Units,Series,xxxrisikolage,Value
-2018,percentage points,xxxdifferenz zwischen 'keine risikolage' und 'mindestens eine risikolage',,21.1
-2019,percentage points,xxxdifferenz zwischen 'keine risikolage' und 'mindestens eine risikolage',,17.9
-2020,percentage points,xxxdifferenz zwischen 'keine risikolage' und 'mindestens eine risikolage',,18.4
-2021,percentage points,xxxdifferenz zwischen 'keine risikolage' und 'mindestens eine risikolage',,19.7
-2022,percentage points,xxxdifferenz zwischen 'keine risikolage' und 'mindestens eine risikolage',,21.5
-2023,percentage points,xxxdifferenz zwischen 'keine risikolage' und 'mindestens eine risikolage',,21.3
-2018,percentage,xxxnach anzahl der risikolagen,xxxkeine risikolage,61.0
-2019,percentage,xxxnach anzahl der risikolagen,xxxkeine risikolage,61.0
-2020,percentage,xxxnach anzahl der risikolagen,xxxkeine risikolage,65.2
-2021,percentage,xxxnach anzahl der risikolagen,xxxkeine risikolage,64.1
-2022,percentage,xxxnach anzahl der risikolagen,xxxkeine risikolage,63.2
-2023,percentage,xxxnach anzahl der risikolagen,xxxkeine risikolage,65.0
-2018,percentage,xxxnach anzahl der risikolagen,xxxmindestens eine risikolage,39.9
-2019,percentage,xxxnach anzahl der risikolagen,xxxmindestens eine risikolage,43.2
-2020,percentage,xxxnach anzahl der risikolagen,xxxmindestens eine risikolage,46.8
-2021,percentage,xxxnach anzahl der risikolagen,xxxmindestens eine risikolage,44.4
-2022,percentage,xxxnach anzahl der risikolagen,xxxmindestens eine risikolage,41.6
-2023,percentage,xxxnach anzahl der risikolagen,xxxmindestens eine risikolage,43.7
-2018,percentage,xxxnach anzahl der risikolagen,total,55.7
-2019,percentage,xxxnach anzahl der risikolagen,total,56.5
-2020,percentage,xxxnach anzahl der risikolagen,total,60.3
-2021,percentage,xxxnach anzahl der risikolagen,total,58.3
-2022,percentage,xxxnach anzahl der risikolagen,total,56.6
-2023,percentage,xxxnach anzahl der risikolagen,total,58.6
+Year,Units,Series,risk situation,Value
+2018,percentage points,difference between “no risk situation” and 'at least one risk situation',,21.1
+2019,percentage points,difference between “no risk situation” and 'at least one risk situation',,17.9
+2020,percentage points,difference between “no risk situation” and 'at least one risk situation',,18.4
+2021,percentage points,difference between “no risk situation” and 'at least one risk situation',,19.7
+2022,percentage points,difference between “no risk situation” and 'at least one risk situation',,21.5
+2023,percentage points,difference between “no risk situation” and 'at least one risk situation',,21.3
+2018,percentage,by number of risk positions,no risk situation,61.0
+2019,percentage,by number of risk positions,no risk situation,61.0
+2020,percentage,by number of risk positions,no risk situation,65.2
+2021,percentage,by number of risk positions,no risk situation,64.1
+2022,percentage,by number of risk positions,no risk situation,63.2
+2023,percentage,by number of risk positions,no risk situation,65.0
+2018,percentage,by number of risk positions,at least one risk situation,39.9
+2019,percentage,by number of risk positions,at least one risk situation,43.2
+2020,percentage,by number of risk positions,at least one risk situation,46.8
+2021,percentage,by number of risk positions,at least one risk situation,44.4
+2022,percentage,by number of risk positions,at least one risk situation,41.6
+2023,percentage,by number of risk positions,at least one risk situation,43.7
+2018,percentage,by number of risk positions,total,55.7
+2019,percentage,by number of risk positions,total,56.5
+2020,percentage,by number of risk positions,total,60.3
+2021,percentage,by number of risk positions,total,58.3
+2022,percentage,by number of risk positions,total,56.6
+2023,percentage,by number of risk positions,total,58.6
