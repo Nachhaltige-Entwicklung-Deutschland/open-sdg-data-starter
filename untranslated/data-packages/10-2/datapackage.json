@@ -31,7 +31,7 @@
               "enum": [
                 "<u>time series of the indicator:</u> gini coefficient of equivalised disposable income",
                 "<u>additional time series:</u> gini coefficient of equivalised disposable income before social transfers",
-                "<u>additional time series:</u> gini coefficient of market income",
+                "<u>additional time series:</u> gini coefficient of equivalised market income",
                 "<u>additional time series:</u> gini coefficient of wealth",
                 ""
               ]
