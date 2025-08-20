@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kilogram per hectare",
+                "Kilograms per hectare",
                 ""
               ]
             },

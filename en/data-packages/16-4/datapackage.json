@@ -43,10 +43,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Effectiveness = Substantial or high",
-                "Effectiveness = Low or moderate",
-                "Technical compliance = Largely compliant or compliant",
-                "Technical compliance = Non-compliant or partially compliant",
+                "Substantial or high",
+                "Low or moderate",
+                "Largely compliant or compliant",
+                "Non-compliant or partially compliant",
                 ""
               ]
             },

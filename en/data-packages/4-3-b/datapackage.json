@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Difference between \"No risk situation\" and \"At least one risk situation\"",
+                "Difference between <i>No risk situation</i> and <i>At least one risk situation</i>",
                 "By number of risk positions",
                 ""
               ]

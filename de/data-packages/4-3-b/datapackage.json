@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Differenz zwischen „Keine Risikolage“ und „Mindestens eine Risikolage“",
+                "Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>",
                 "Nach Anzahl der Risikolagen",
                 ""
               ]

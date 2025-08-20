@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Hectre per day",
+                "Hectares per day",
                 ""
               ]
             },

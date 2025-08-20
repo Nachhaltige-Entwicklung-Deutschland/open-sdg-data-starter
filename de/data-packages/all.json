@@ -360,7 +360,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millionen EUR",
+                "Millionen Euro",
                 ""
               ]
             },
@@ -1254,7 +1254,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Differenz zwischen „Keine Risikolage“ und „Mindestens eine Risikolage“",
+                "Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>",
                 "Nach Anzahl der Risikolagen",
                 ""
               ]
@@ -2040,7 +2040,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1 000 EUR",
+                "1 000 Euro",
                 ""
               ]
             },
@@ -2335,7 +2335,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Milliarden EUR",
+                "Milliarden Euro",
                 ""
               ]
             },

@@ -170,7 +170,7 @@
             "constraints": {
               "enum": [
                 "Number",
-                "1 000",
+                "1,000",
                 ""
               ]
             },
@@ -360,7 +360,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million EUR",
+                "Million euros",
                 ""
               ]
             },
@@ -754,7 +754,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1 000",
+                "1,000",
                 ""
               ]
             },
@@ -1027,10 +1027,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Effectiveness = Substantial or high",
-                "Effectiveness = Low or moderate",
-                "Technical compliance = Largely compliant or compliant",
-                "Technical compliance = Non-compliant or partially compliant",
+                "Substantial or high",
+                "Low or moderate",
+                "Largely compliant or compliant",
+                "Non-compliant or partially compliant",
                 ""
               ]
             },
@@ -1112,7 +1112,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million Hectre",
+                "Million hectares",
                 ""
               ]
             },
@@ -1254,7 +1254,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Difference between \"No risk situation\" and \"At least one risk situation\"",
+                "Difference between <i>No risk situation</i> and <i>At least one risk situation</i>",
                 "By number of risk positions",
                 ""
               ]
@@ -2040,7 +2040,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1.000 EUR",
+                "1,000 euros",
                 ""
               ]
             },
@@ -2170,7 +2170,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Hectre per day",
+                "Hectares per day",
                 ""
               ]
             },
@@ -2335,7 +2335,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Billion EUR",
+                "Billion euros",
                 ""
               ]
             },
@@ -2632,7 +2632,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kilogram per hectare",
+                "Kilograms per hectare",
                 ""
               ]
             },
