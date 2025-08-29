@@ -136,11 +136,11 @@ prose:
             element: text
             label: "Bewertung"
             scope: national
-      - name: "data_state"
-        field:
-          element: text
-          lable: "data state"
-          scope: national
+      # - name: "data_state"
+      #   field:
+      #     element: text
+      #     lable: "data state"
+      #     scope: national
       # - name: "national_data_updated_date"
       #   field:
       #       element: hidden
