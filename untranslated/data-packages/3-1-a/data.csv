@@ -10,6 +10,7 @@ Year,Units,sex,type of treatment,Value
 2019,"per 100,000 inhabitants",,,231.41
 2020,"per 100,000 inhabitants",,,238.07
 2021,"per 100,000 inhabitants",,,252.54
+2022,"per 100,000 inhabitants",,,248.81
 2030,"per 100,000 inhabitants",,,
 2011,"per 100,000 inhabitants",female,,174.27
 2012,"per 100,000 inhabitants",female,,171.48
@@ -22,6 +23,7 @@ Year,Units,sex,type of treatment,Value
 2019,"per 100,000 inhabitants",female,,162.47
 2020,"per 100,000 inhabitants",female,,165.1
 2021,"per 100,000 inhabitants",female,,173.86
+2022,"per 100,000 inhabitants",female,,174.69
 2011,"per 100,000 inhabitants",male,,347.65
 2012,"per 100,000 inhabitants",male,,339.92
 2013,"per 100,000 inhabitants",male,,339.09
@@ -33,6 +35,7 @@ Year,Units,sex,type of treatment,Value
 2019,"per 100,000 inhabitants",male,,304.8
 2020,"per 100,000 inhabitants",male,,315.74
 2021,"per 100,000 inhabitants",male,,336.34
+2022,"per 100,000 inhabitants",male,,327.88
 2011,"per 100,000 inhabitants",,mortality avoidable through prevention,163.45
 2012,"per 100,000 inhabitants",,mortality avoidable through prevention,160.8
 2013,"per 100,000 inhabitants",,mortality avoidable through prevention,162.24
@@ -44,6 +47,7 @@ Year,Units,sex,type of treatment,Value
 2019,"per 100,000 inhabitants",,mortality avoidable through prevention,149.66
 2020,"per 100,000 inhabitants",,mortality avoidable through prevention,157.23
 2021,"per 100,000 inhabitants",,mortality avoidable through prevention,171.28
+2022,"per 100,000 inhabitants",,mortality avoidable through prevention,165.44
 2011,"per 100,000 inhabitants",female,mortality avoidable through prevention,93.29
 2012,"per 100,000 inhabitants",female,mortality avoidable through prevention,92.69
 2013,"per 100,000 inhabitants",female,mortality avoidable through prevention,95.3
@@ -55,6 +59,7 @@ Year,Units,sex,type of treatment,Value
 2019,"per 100,000 inhabitants",female,mortality avoidable through prevention,92.05
 2020,"per 100,000 inhabitants",female,mortality avoidable through prevention,96.22
 2021,"per 100,000 inhabitants",female,mortality avoidable through prevention,105.49
+2022,"per 100,000 inhabitants",female,mortality avoidable through prevention,103.88
 2011,"per 100,000 inhabitants",male,mortality avoidable through prevention,238.32
 2012,"per 100,000 inhabitants",male,mortality avoidable through prevention,233.42
 2013,"per 100,000 inhabitants",male,mortality avoidable through prevention,233.47
@@ -66,6 +71,7 @@ Year,Units,sex,type of treatment,Value
 2019,"per 100,000 inhabitants",male,mortality avoidable through prevention,210.68
 2020,"per 100,000 inhabitants",male,mortality avoidable through prevention,221.86
 2021,"per 100,000 inhabitants",male,mortality avoidable through prevention,241.06
+2022,"per 100,000 inhabitants",male,mortality avoidable through prevention,230.8
 2011,"per 100,000 inhabitants",,mortality avoidable through treatment,94.48
 2012,"per 100,000 inhabitants",,mortality avoidable through treatment,92.0
 2013,"per 100,000 inhabitants",,mortality avoidable through treatment,91.54
@@ -77,6 +83,7 @@ Year,Units,sex,type of treatment,Value
 2019,"per 100,000 inhabitants",,mortality avoidable through treatment,81.75
 2020,"per 100,000 inhabitants",,mortality avoidable through treatment,80.84
 2021,"per 100,000 inhabitants",,mortality avoidable through treatment,81.27
+2022,"per 100,000 inhabitants",,mortality avoidable through treatment,83.38
 2011,"per 100,000 inhabitants",female,mortality avoidable through treatment,80.98
 2012,"per 100,000 inhabitants",female,mortality avoidable through treatment,78.78
 2013,"per 100,000 inhabitants",female,mortality avoidable through treatment,78.71
@@ -88,6 +95,7 @@ Year,Units,sex,type of treatment,Value
 2019,"per 100,000 inhabitants",female,mortality avoidable through treatment,70.42
 2020,"per 100,000 inhabitants",female,mortality avoidable through treatment,68.88
 2021,"per 100,000 inhabitants",female,mortality avoidable through treatment,68.38
+2022,"per 100,000 inhabitants",female,mortality avoidable through treatment,70.81
 2011,"per 100,000 inhabitants",male,mortality avoidable through treatment,109.32
 2012,"per 100,000 inhabitants",male,mortality avoidable through treatment,106.51
 2013,"per 100,000 inhabitants",male,mortality avoidable through treatment,105.62
@@ -99,3 +107,4 @@ Year,Units,sex,type of treatment,Value
 2019,"per 100,000 inhabitants",male,mortality avoidable through treatment,94.12
 2020,"per 100,000 inhabitants",male,mortality avoidable through treatment,93.88
 2021,"per 100,000 inhabitants",male,mortality avoidable through treatment,95.28
+2022,"per 100,000 inhabitants",male,mortality avoidable through treatment,97.08
