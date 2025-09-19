@@ -1,53 +1,55 @@
-Year,Value,Units,Series
-1999,2.852,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2000,,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2001,3.573,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2002,,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2003,4.299,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2004,,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2005,4.593,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2006,,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2007,5.079,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2008,,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2009,,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2010,5.636,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2011,,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2012,5.76,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2013,6.04,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2014,6.18,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2015,6.34,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2016,6.82,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2017,6.82,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2018,7.34,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2019,7.75,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2020,9.59,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2021,9.65,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2022,9.774,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2023,11.17,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-2030,,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office
-1999,2.6,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2000,3.2,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2001,3.7,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2002,4.1,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2003,4.3,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2004,4.5,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2005,4.7,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2006,4.9,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2007,5.1,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2008,5.4,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2009,5.6,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2010,5.9,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2011,6.1,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2012,6.2,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2013,6.3,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2014,6.3,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2015,6.5,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2016,7.5,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2017,8.2,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2018,9.1,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2019,9.7,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2020,10.3,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2021,10.9,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2022,11.2,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2023,11.4,Percentage,<u>Additional time series:</u> Data from the BMLEH
-2030,,Percentage,<u>Additional time series:</u> Data from the BMLEH
+Year,Value,Units,Series,GeoCode
+1999,2.852,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2000,,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2001,3.573,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2002,,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2003,4.299,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2004,,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2005,4.593,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2006,,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2007,5.079,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2008,,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2009,,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2010,5.636,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2011,,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2012,5.76,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2013,6.04,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2014,6.18,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2015,6.34,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2016,6.82,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2017,6.82,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2018,7.34,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2019,7.75,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2020,9.59,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2021,9.65,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2022,9.774,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2023,11.17,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2024,,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+2030,,Percentage,<u>Time series of the indicator:</u> Data from the Federal Statistical Office,
+1999,2.6,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2000,3.2,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2001,3.7,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2002,4.1,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2003,4.3,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2004,4.5,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2005,4.7,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2006,4.9,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2007,5.1,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2008,5.4,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2009,5.6,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2010,5.9,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2011,6.1,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2012,6.2,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2013,6.3,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2014,6.3,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2015,6.5,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2016,7.5,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2017,8.2,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2018,9.1,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2019,9.7,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2020,10.3,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2021,10.9,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2022,11.2,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2023,11.4,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2024,11.5,Percentage,<u>Additional time series:</u> Data from the BMLEH,
+2030,,Percentage,<u>Additional time series:</u> Data from the BMLEH,

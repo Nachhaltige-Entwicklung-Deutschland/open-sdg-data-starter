@@ -1,137 +1,569 @@
-Year,Units,Sector,Value
-1991,Percentage,,2.4
-1992,Percentage,,2.28
-1993,Percentage,,2.21
-1994,Percentage,,2.13
-1995,Percentage,,2.13
-1996,Percentage,,2.15
-1997,Percentage,,2.18
-1998,Percentage,,2.25
-1999,Percentage,,2.33
-2000,Percentage,,2.39
-2001,Percentage,,2.38
-2002,Percentage,,2.41
-2003,Percentage,,2.44
-2004,Percentage,,2.4
-2005,Percentage,,2.4
-2006,Percentage,,2.43
-2007,Percentage,,2.42
-2008,Percentage,,2.57
-2009,Percentage,,2.69
-2010,Percentage,,2.68
-2011,Percentage,,2.75
-2012,Percentage,,2.82
-2013,Percentage,,2.78
-2014,Percentage,,2.82
-2015,Percentage,,2.88
-2016,Percentage,,2.88
-2017,Percentage,,2.99
-2018,Percentage,,3.05
-2019,Percentage,,3.11
-2020,Percentage,,3.09
-2021,Percentage,,3.08
-2022,Percentage,,3.07
-2023,Percentage,,3.2
-2025,Percentage,,
-1991,Percentage,Government and private non-profit institutions,
-1992,Percentage,Government and private non-profit institutions,
-1993,Percentage,Government and private non-profit institutions,
-1994,Percentage,Government and private non-profit institutions,
-1995,Percentage,Government and private non-profit institutions,0.33
-1996,Percentage,Government and private non-profit institutions,
-1997,Percentage,Government and private non-profit institutions,0.32
-1998,Percentage,Government and private non-profit institutions,
-1999,Percentage,Government and private non-profit institutions,0.32
-2000,Percentage,Government and private non-profit institutions,0.32
-2001,Percentage,Government and private non-profit institutions,0.33
-2002,Percentage,Government and private non-profit institutions,0.33
-2003,Percentage,Government and private non-profit institutions,0.33
-2004,Percentage,Government and private non-profit institutions,0.33
-2005,Percentage,Government and private non-profit institutions,0.34
-2006,Percentage,Government and private non-profit institutions,0.34
-2007,Percentage,Government and private non-profit institutions,0.34
-2008,Percentage,Government and private non-profit institutions,0.36
-2009,Percentage,Government and private non-profit institutions,0.4
-2010,Percentage,Government and private non-profit institutions,0.4
-2011,Percentage,Government and private non-profit institutions,0.4
-2012,Percentage,Government and private non-profit institutions,0.4
-2013,Percentage,Government and private non-profit institutions,0.41
-2014,Percentage,Government and private non-profit institutions,0.41
-2015,Percentage,Government and private non-profit institutions,0.4
-2016,Percentage,Government and private non-profit institutions,0.4
-2017,Percentage,Government and private non-profit institutions,0.4
-2018,Percentage,Government and private non-profit institutions,0.41
-2019,Percentage,Government and private non-profit institutions,0.42
-2020,Percentage,Government and private non-profit institutions,0.45
-2021,Percentage,Government and private non-profit institutions,0.46
-2022,Percentage,Government and private non-profit institutions,0.45
-2023,Percentage,Government and private non-profit institutions,0.44
-2025,Percentage,Government and private non-profit institutions,
-1991,Percentage,Universities,
-1992,Percentage,Universities,
-1993,Percentage,Universities,
-1994,Percentage,Universities,
-1995,Percentage,Universities,0.39
-1996,Percentage,Universities,
-1997,Percentage,Universities,0.39
-1998,Percentage,Universities,
-1999,Percentage,Universities,0.39
-2000,Percentage,Universities,0.39
-2001,Percentage,Universities,0.4
-2002,Percentage,Universities,0.42
-2003,Percentage,Universities,0.42
-2004,Percentage,Universities,0.4
-2005,Percentage,Universities,0.4
-2006,Percentage,Universities,0.4
-2007,Percentage,Universities,0.39
-2008,Percentage,Universities,0.43
-2009,Percentage,Universities,0.48
-2010,Percentage,Universities,0.49
-2011,Percentage,Universities,0.49
-2012,Percentage,Universities,0.5
-2013,Percentage,Universities,0.5
-2014,Percentage,Universities,0.5
-2015,Percentage,Universities,0.5
-2016,Percentage,Universities,0.52
-2017,Percentage,Universities,0.52
-2018,Percentage,Universities,0.54
-2019,Percentage,Universities,0.54
-2020,Percentage,Universities,0.58
-2021,Percentage,Universities,0.56
-2022,Percentage,Universities,0.56
-2023,Percentage,Universities,0.54
-2025,Percentage,Universities,
-1991,Percentage,Economy,
-1992,Percentage,Economy,
-1993,Percentage,Economy,
-1994,Percentage,Economy,
-1995,Percentage,Economy,1.41
-1996,Percentage,Economy,
-1997,Percentage,Economy,1.41
-1998,Percentage,Economy,
-1999,Percentage,Economy,1.62
-2000,Percentage,Economy,1.67
-2001,Percentage,Economy,1.65
-2002,Percentage,Economy,1.66
-2003,Percentage,Economy,1.7
-2004,Percentage,Economy,1.67
-2005,Percentage,Economy,1.66
-2006,Percentage,Economy,1.7
-2007,Percentage,Economy,1.69
-2008,Percentage,Economy,1.78
-2009,Percentage,Economy,1.81
-2010,Percentage,Economy,1.79
-2011,Percentage,Economy,1.86
-2012,Percentage,Economy,1.92
-2013,Percentage,Economy,1.87
-2014,Percentage,Economy,1.91
-2015,Percentage,Economy,1.98
-2016,Percentage,Economy,1.97
-2017,Percentage,Economy,2.06
-2018,Percentage,Economy,2.1
-2019,Percentage,Economy,2.15
-2020,Percentage,Economy,2.06
-2021,Percentage,Economy,2.06
-2022,Percentage,Economy,2.07
-2023,Percentage,Economy,2.12
-2025,Percentage,Economy,
+Year,Units,Federal state,GeoCode,Sector,Value
+1991,Percentage,,,,2.4
+1992,Percentage,,,,2.28
+1993,Percentage,,,,2.21
+1994,Percentage,,,,2.13
+1995,Percentage,,,,2.13
+1996,Percentage,,,,2.15
+1997,Percentage,,,,2.18
+1998,Percentage,,,,2.25
+1999,Percentage,,,,2.33
+2000,Percentage,,,,2.39
+2001,Percentage,,,,2.38
+2002,Percentage,,,,2.41
+2003,Percentage,,,,2.44
+2004,Percentage,,,,2.4
+2005,Percentage,,,,2.4
+2006,Percentage,,,,2.43
+2007,Percentage,,,,2.42
+2008,Percentage,,,,2.57
+2009,Percentage,,,,2.69
+2010,Percentage,,,,2.68
+2011,Percentage,,,,2.75
+2012,Percentage,,,,2.82
+2013,Percentage,,,,2.78
+2014,Percentage,,,,2.82
+2015,Percentage,,,,2.88
+2016,Percentage,,,,2.88
+2017,Percentage,,,,2.99
+2018,Percentage,,,,3.05
+2019,Percentage,,,,3.11
+2020,Percentage,,,,3.09
+2021,Percentage,,,,3.08
+2022,Percentage,,,,3.07
+2023,Percentage,,,,3.2
+2025,Percentage,,,,
+1995,Percentage,Baden-Wuerttemberg,code08,,3.42
+1997,Percentage,Baden-Wuerttemberg,code08,,3.56
+1999,Percentage,Baden-Wuerttemberg,code08,,3.66
+2000,Percentage,Baden-Wuerttemberg,code08,,3.76
+2001,Percentage,Baden-Wuerttemberg,code08,,3.71
+2002,Percentage,Baden-Wuerttemberg,code08,,3.75
+2003,Percentage,Baden-Wuerttemberg,code08,,3.75
+2004,Percentage,Baden-Wuerttemberg,code08,,3.74
+2005,Percentage,Baden-Wuerttemberg,code08,,4.08
+2006,Percentage,Baden-Wuerttemberg,code08,,4.02
+2007,Percentage,Baden-Wuerttemberg,code08,,4.16
+2008,Percentage,Baden-Wuerttemberg,code08,,4.42
+2009,Percentage,Baden-Wuerttemberg,code08,,4.63
+2010,Percentage,Baden-Wuerttemberg,code08,,4.45
+2011,Percentage,Baden-Wuerttemberg,code08,,4.8
+2012,Percentage,Baden-Wuerttemberg,code08,,4.9
+2013,Percentage,Baden-Wuerttemberg,code08,,4.75
+2014,Percentage,Baden-Wuerttemberg,code08,,4.85
+2015,Percentage,Baden-Wuerttemberg,code08,,4.9
+2016,Percentage,Baden-Wuerttemberg,code08,,4.93
+2017,Percentage,Baden-Wuerttemberg,code08,,5.64
+2018,Percentage,Baden-Wuerttemberg,code08,,5.68
+2019,Percentage,Baden-Wuerttemberg,code08,,5.79
+2020,Percentage,Baden-Wuerttemberg,code08,,5.69
+2021,Percentage,Baden-Wuerttemberg,code08,,5.64
+2022,Percentage,Baden-Wuerttemberg,code08,,5.65
+2025,Percentage,Baden-Wuerttemberg,,,
+1995,Percentage,Bavaria,code09,,2.68
+1997,Percentage,Bavaria,code09,,2.66
+1999,Percentage,Bavaria,code09,,2.8
+2000,Percentage,Bavaria,code09,,2.83
+2001,Percentage,Bavaria,code09,,2.92
+2002,Percentage,Bavaria,code09,,2.9
+2003,Percentage,Bavaria,code09,,3.0
+2004,Percentage,Bavaria,code09,,2.93
+2005,Percentage,Bavaria,code09,,2.9
+2006,Percentage,Bavaria,code09,,2.97
+2007,Percentage,Bavaria,code09,,2.82
+2008,Percentage,Bavaria,code09,,3.02
+2009,Percentage,Bavaria,code09,,3.05
+2010,Percentage,Bavaria,code09,,3.01
+2011,Percentage,Bavaria,code09,,2.98
+2012,Percentage,Bavaria,code09,,3.08
+2013,Percentage,Bavaria,code09,,3.11
+2014,Percentage,Bavaria,code09,,3.13
+2015,Percentage,Bavaria,code09,,3.13
+2016,Percentage,Bavaria,code09,,3.13
+2017,Percentage,Bavaria,code09,,3.11
+2018,Percentage,Bavaria,code09,,3.19
+2019,Percentage,Bavaria,code09,,3.41
+2020,Percentage,Bavaria,code09,,3.36
+2021,Percentage,Bavaria,code09,,3.39
+2022,Percentage,Bavaria,code09,,3.4
+2025,Percentage,Bavaria,,,
+1995,Percentage,Berlin,code11,,2.91
+1997,Percentage,Berlin,code11,,3.17
+1999,Percentage,Berlin,code11,,3.32
+2000,Percentage,Berlin,code11,,3.4
+2001,Percentage,Berlin,code11,,3.79
+2002,Percentage,Berlin,code11,,3.89
+2003,Percentage,Berlin,code11,,3.68
+2004,Percentage,Berlin,code11,,3.68
+2005,Percentage,Berlin,code11,,3.49
+2006,Percentage,Berlin,code11,,3.54
+2007,Percentage,Berlin,code11,,3.03
+2008,Percentage,Berlin,code11,,3.17
+2009,Percentage,Berlin,code11,,3.38
+2010,Percentage,Berlin,code11,,3.44
+2011,Percentage,Berlin,code11,,3.34
+2012,Percentage,Berlin,code11,,3.44
+2013,Percentage,Berlin,code11,,3.56
+2014,Percentage,Berlin,code11,,3.61
+2015,Percentage,Berlin,code11,,3.53
+2016,Percentage,Berlin,code11,,3.42
+2017,Percentage,Berlin,code11,,3.42
+2018,Percentage,Berlin,code11,,3.51
+2019,Percentage,Berlin,code11,,3.34
+2020,Percentage,Berlin,code11,,3.32
+2021,Percentage,Berlin,code11,,3.35
+2022,Percentage,Berlin,code11,,3.23
+2025,Percentage,Berlin,,,
+1995,Percentage,Brandenburg,code12,,1.33
+1997,Percentage,Brandenburg,code12,,1.44
+1999,Percentage,Brandenburg,code12,,1.55
+2000,Percentage,Brandenburg,code12,,1.44
+2001,Percentage,Brandenburg,code12,,1.44
+2002,Percentage,Brandenburg,code12,,1.36
+2003,Percentage,Brandenburg,code12,,1.18
+2004,Percentage,Brandenburg,code12,,1.24
+2005,Percentage,Brandenburg,code12,,1.18
+2006,Percentage,Brandenburg,code12,,1.23
+2007,Percentage,Brandenburg,code12,,1.23
+2008,Percentage,Brandenburg,code12,,1.32
+2009,Percentage,Brandenburg,code12,,1.4
+2010,Percentage,Brandenburg,code12,,1.43
+2011,Percentage,Brandenburg,code12,,1.66
+2012,Percentage,Brandenburg,code12,,1.65
+2013,Percentage,Brandenburg,code12,,1.55
+2014,Percentage,Brandenburg,code12,,1.58
+2015,Percentage,Brandenburg,code12,,1.67
+2016,Percentage,Brandenburg,code12,,1.73
+2017,Percentage,Brandenburg,code12,,1.71
+2018,Percentage,Brandenburg,code12,,1.7
+2019,Percentage,Brandenburg,code12,,1.82
+2020,Percentage,Brandenburg,code12,,1.83
+2021,Percentage,Brandenburg,code12,,1.72
+2022,Percentage,Brandenburg,code12,,1.69
+2025,Percentage,Brandenburg,,,
+1995,Percentage,Bremen,code04,,2.84
+1997,Percentage,Bremen,code04,,2.01
+1999,Percentage,Bremen,code04,,2.11
+2000,Percentage,Bremen,code04,,2.12
+2001,Percentage,Bremen,code04,,2.12
+2002,Percentage,Bremen,code04,,2.26
+2003,Percentage,Bremen,code04,,2.63
+2004,Percentage,Bremen,code04,,2.64
+2005,Percentage,Bremen,code04,,2.17
+2006,Percentage,Bremen,code04,,2.2
+2007,Percentage,Bremen,code04,,2.17
+2008,Percentage,Bremen,code04,,2.41
+2009,Percentage,Bremen,code04,,2.65
+2010,Percentage,Bremen,code04,,2.67
+2011,Percentage,Bremen,code04,,2.76
+2012,Percentage,Bremen,code04,,2.65
+2013,Percentage,Bremen,code04,,2.75
+2014,Percentage,Bremen,code04,,2.86
+2015,Percentage,Bremen,code04,,2.86
+2016,Percentage,Bremen,code04,,2.9
+2017,Percentage,Bremen,code04,,2.82
+2018,Percentage,Bremen,code04,,2.88
+2019,Percentage,Bremen,code04,,3.01
+2020,Percentage,Bremen,code04,,3.7
+2021,Percentage,Bremen,code04,,3.18
+2022,Percentage,Bremen,code04,,3.19
+2025,Percentage,Bremen,,,
+1995,Percentage,Hamburg,code02,,1.77
+1997,Percentage,Hamburg,code02,,1.77
+1999,Percentage,Hamburg,code02,,1.66
+2000,Percentage,Hamburg,code02,,1.68
+2001,Percentage,Hamburg,code02,,1.38
+2002,Percentage,Hamburg,code02,,1.35
+2003,Percentage,Hamburg,code02,,1.72
+2004,Percentage,Hamburg,code02,,1.62
+2005,Percentage,Hamburg,code02,,1.78
+2006,Percentage,Hamburg,code02,,1.85
+2007,Percentage,Hamburg,code02,,1.82
+2008,Percentage,Hamburg,code02,,1.93
+2009,Percentage,Hamburg,code02,,2.12
+2010,Percentage,Hamburg,code02,,2.11
+2011,Percentage,Hamburg,code02,,2.22
+2012,Percentage,Hamburg,code02,,2.27
+2013,Percentage,Hamburg,code02,,2.28
+2014,Percentage,Hamburg,code02,,2.37
+2015,Percentage,Hamburg,code02,,2.24
+2016,Percentage,Hamburg,code02,,2.27
+2017,Percentage,Hamburg,code02,,2.17
+2018,Percentage,Hamburg,code02,,2.22
+2019,Percentage,Hamburg,code02,,2.18
+2020,Percentage,Hamburg,code02,,2.25
+2021,Percentage,Hamburg,code02,,2.16
+2022,Percentage,Hamburg,code02,,2.08
+2025,Percentage,Hamburg,,,
+1995,Percentage,Hesse,code06,,2.13
+1997,Percentage,Hesse,code06,,2.11
+1999,Percentage,Hesse,code06,,2.38
+2000,Percentage,Hesse,code06,,2.46
+2001,Percentage,Hesse,code06,,2.31
+2002,Percentage,Hesse,code06,,2.36
+2003,Percentage,Hesse,code06,,2.47
+2004,Percentage,Hesse,code06,,2.45
+2005,Percentage,Hesse,code06,,2.47
+2006,Percentage,Hesse,code06,,2.56
+2007,Percentage,Hesse,code06,,2.51
+2008,Percentage,Hesse,code06,,2.71
+2009,Percentage,Hesse,code06,,2.97
+2010,Percentage,Hesse,code06,,2.99
+2011,Percentage,Hesse,code06,,2.88
+2012,Percentage,Hesse,code06,,3.02
+2013,Percentage,Hesse,code06,,2.82
+2014,Percentage,Hesse,code06,,2.88
+2015,Percentage,Hesse,code06,,2.84
+2016,Percentage,Hesse,code06,,2.85
+2017,Percentage,Hesse,code06,,2.94
+2018,Percentage,Hesse,code06,,3.02
+2019,Percentage,Hesse,code06,,3.11
+2020,Percentage,Hesse,code06,,3.06
+2021,Percentage,Hesse,code06,,3.09
+2022,Percentage,Hesse,code06,,3.1
+2025,Percentage,Hesse,,,
+1995,Percentage,Mecklenburg Western Pomerania,code13,,0.94
+1997,Percentage,Mecklenburg Western Pomerania,code13,,0.96
+1999,Percentage,Mecklenburg Western Pomerania,code13,,1.02
+2000,Percentage,Mecklenburg Western Pomerania,code13,,1.05
+2001,Percentage,Mecklenburg Western Pomerania,code13,,1.18
+2002,Percentage,Mecklenburg Western Pomerania,code13,,1.21
+2003,Percentage,Mecklenburg Western Pomerania,code13,,1.36
+2004,Percentage,Mecklenburg Western Pomerania,code13,,1.4
+2005,Percentage,Mecklenburg Western Pomerania,code13,,1.48
+2006,Percentage,Mecklenburg Western Pomerania,code13,,1.43
+2007,Percentage,Mecklenburg Western Pomerania,code13,,1.4
+2008,Percentage,Mecklenburg Western Pomerania,code13,,1.54
+2009,Percentage,Mecklenburg Western Pomerania,code13,,1.84
+2010,Percentage,Mecklenburg Western Pomerania,code13,,1.99
+2011,Percentage,Mecklenburg Western Pomerania,code13,,2.05
+2012,Percentage,Mecklenburg Western Pomerania,code13,,2.11
+2013,Percentage,Mecklenburg Western Pomerania,code13,,1.82
+2014,Percentage,Mecklenburg Western Pomerania,code13,,1.86
+2015,Percentage,Mecklenburg Western Pomerania,code13,,1.87
+2016,Percentage,Mecklenburg Western Pomerania,code13,,1.85
+2017,Percentage,Mecklenburg Western Pomerania,code13,,1.79
+2018,Percentage,Mecklenburg Western Pomerania,code13,,1.81
+2019,Percentage,Mecklenburg Western Pomerania,code13,,1.81
+2020,Percentage,Mecklenburg Western Pomerania,code13,,1.8
+2021,Percentage,Mecklenburg Western Pomerania,code13,,1.77
+2022,Percentage,Mecklenburg Western Pomerania,code13,,1.72
+2025,Percentage,Mecklenburg Western Pomerania,,,
+1995,Percentage,Lower Saxony,code03,,1.7
+1997,Percentage,Lower Saxony,code03,,1.72
+1999,Percentage,Lower Saxony,code03,,2.26
+2000,Percentage,Lower Saxony,code03,,2.29
+2001,Percentage,Lower Saxony,code03,,2.43
+2002,Percentage,Lower Saxony,code03,,2.56
+2003,Percentage,Lower Saxony,code03,,2.83
+2004,Percentage,Lower Saxony,code03,,2.77
+2005,Percentage,Lower Saxony,code03,,2.22
+2006,Percentage,Lower Saxony,code03,,2.17
+2007,Percentage,Lower Saxony,code03,,2.39
+2008,Percentage,Lower Saxony,code03,,2.53
+2009,Percentage,Lower Saxony,code03,,2.61
+2010,Percentage,Lower Saxony,code03,,2.53
+2011,Percentage,Lower Saxony,code03,,2.7
+2012,Percentage,Lower Saxony,code03,,2.76
+2013,Percentage,Lower Saxony,code03,,2.83
+2014,Percentage,Lower Saxony,code03,,2.84
+2015,Percentage,Lower Saxony,code03,,3.39
+2016,Percentage,Lower Saxony,code03,,3.27
+2017,Percentage,Lower Saxony,code03,,3.12
+2018,Percentage,Lower Saxony,code03,,3.13
+2019,Percentage,Lower Saxony,code03,,3.14
+2020,Percentage,Lower Saxony,code03,,3.07
+2021,Percentage,Lower Saxony,code03,,2.72
+2022,Percentage,Lower Saxony,code03,,2.69
+2025,Percentage,Lower Saxony,,,
+1995,Percentage,North Rhine-Westphalia,code05,,1.57
+1997,Percentage,North Rhine-Westphalia,code05,,1.61
+1999,Percentage,North Rhine-Westphalia,code05,,1.72
+2000,Percentage,North Rhine-Westphalia,code05,,1.78
+2001,Percentage,North Rhine-Westphalia,code05,,1.71
+2002,Percentage,North Rhine-Westphalia,code05,,1.76
+2003,Percentage,North Rhine-Westphalia,code05,,1.75
+2004,Percentage,North Rhine-Westphalia,code05,,1.72
+2005,Percentage,North Rhine-Westphalia,code05,,1.75
+2006,Percentage,North Rhine-Westphalia,code05,,1.78
+2007,Percentage,North Rhine-Westphalia,code05,,1.73
+2008,Percentage,North Rhine-Westphalia,code05,,1.82
+2009,Percentage,North Rhine-Westphalia,code05,,1.97
+2010,Percentage,North Rhine-Westphalia,code05,,1.99
+2011,Percentage,North Rhine-Westphalia,code05,,2.0
+2012,Percentage,North Rhine-Westphalia,code05,,2.09
+2013,Percentage,North Rhine-Westphalia,code05,,1.98
+2014,Percentage,North Rhine-Westphalia,code05,,2.03
+2015,Percentage,North Rhine-Westphalia,code05,,1.99
+2016,Percentage,North Rhine-Westphalia,code05,,2.03
+2017,Percentage,North Rhine-Westphalia,code05,,2.13
+2018,Percentage,North Rhine-Westphalia,code05,,2.19
+2019,Percentage,North Rhine-Westphalia,code05,,2.16
+2020,Percentage,North Rhine-Westphalia,code05,,2.19
+2021,Percentage,North Rhine-Westphalia,code05,,2.21
+2022,Percentage,North Rhine-Westphalia,code05,,2.22
+2025,Percentage,North Rhine-Westphalia,,,
+1995,Percentage,Rhineland Palatinate,code07,,1.71
+1997,Percentage,Rhineland Palatinate,code07,,2.0
+1999,Percentage,Rhineland Palatinate,code07,,2.14
+2000,Percentage,Rhineland Palatinate,code07,,2.22
+2001,Percentage,Rhineland Palatinate,code07,,1.94
+2002,Percentage,Rhineland Palatinate,code07,,1.92
+2003,Percentage,Rhineland Palatinate,code07,,1.75
+2004,Percentage,Rhineland Palatinate,code07,,1.71
+2005,Percentage,Rhineland Palatinate,code07,,1.68
+2006,Percentage,Rhineland Palatinate,code07,,1.77
+2007,Percentage,Rhineland Palatinate,code07,,1.81
+2008,Percentage,Rhineland Palatinate,code07,,1.91
+2009,Percentage,Rhineland Palatinate,code07,,2.03
+2010,Percentage,Rhineland Palatinate,code07,,2.05
+2011,Percentage,Rhineland Palatinate,code07,,2.03
+2012,Percentage,Rhineland Palatinate,code07,,2.05
+2013,Percentage,Rhineland Palatinate,code07,,2.16
+2014,Percentage,Rhineland Palatinate,code07,,2.16
+2015,Percentage,Rhineland Palatinate,code07,,2.39
+2016,Percentage,Rhineland Palatinate,code07,,2.47
+2017,Percentage,Rhineland Palatinate,code07,,2.5
+2018,Percentage,Rhineland Palatinate,code07,,2.56
+2019,Percentage,Rhineland Palatinate,code07,,2.62
+2020,Percentage,Rhineland Palatinate,code07,,2.56
+2021,Percentage,Rhineland Palatinate,code07,,2.78
+2022,Percentage,Rhineland Palatinate,code07,,2.81
+2025,Percentage,Rhineland Palatinate,,,
+1995,Percentage,Saarland,code10,,0.88
+1997,Percentage,Saarland,code10,,0.95
+1999,Percentage,Saarland,code10,,0.96
+2000,Percentage,Saarland,code10,,0.97
+2001,Percentage,Saarland,code10,,1.04
+2002,Percentage,Saarland,code10,,1.02
+2003,Percentage,Saarland,code10,,1.06
+2004,Percentage,Saarland,code10,,1.05
+2005,Percentage,Saarland,code10,,1.03
+2006,Percentage,Saarland,code10,,1.0
+2007,Percentage,Saarland,code10,,1.04
+2008,Percentage,Saarland,code10,,1.12
+2009,Percentage,Saarland,code10,,1.26
+2010,Percentage,Saarland,code10,,1.3
+2011,Percentage,Saarland,code10,,1.48
+2012,Percentage,Saarland,code10,,1.47
+2013,Percentage,Saarland,code10,,1.46
+2014,Percentage,Saarland,code10,,1.42
+2015,Percentage,Saarland,code10,,1.57
+2016,Percentage,Saarland,code10,,1.56
+2017,Percentage,Saarland,code10,,1.76
+2018,Percentage,Saarland,code10,,1.75
+2019,Percentage,Saarland,code10,,1.91
+2020,Percentage,Saarland,code10,,1.94
+2021,Percentage,Saarland,code10,,1.95
+2022,Percentage,Saarland,code10,,1.92
+2025,Percentage,Saarland,,,
+1995,Percentage,Saxony,code14,,1.87
+1997,Percentage,Saxony,code14,,2.1
+1999,Percentage,Saxony,code14,,2.32
+2000,Percentage,Saxony,code14,,2.42
+2001,Percentage,Saxony,code14,,2.41
+2002,Percentage,Saxony,code14,,2.4
+2003,Percentage,Saxony,code14,,2.25
+2004,Percentage,Saxony,code14,,2.2
+2005,Percentage,Saxony,code14,,2.38
+2006,Percentage,Saxony,code14,,2.32
+2007,Percentage,Saxony,code14,,2.6
+2008,Percentage,Saxony,code14,,2.8
+2009,Percentage,Saxony,code14,,2.74
+2010,Percentage,Saxony,code14,,2.79
+2011,Percentage,Saxony,code14,,2.8
+2012,Percentage,Saxony,code14,,2.8
+2013,Percentage,Saxony,code14,,2.76
+2014,Percentage,Saxony,code14,,2.64
+2015,Percentage,Saxony,code14,,2.73
+2016,Percentage,Saxony,code14,,2.74
+2017,Percentage,Saxony,code14,,2.81
+2018,Percentage,Saxony,code14,,2.89
+2019,Percentage,Saxony,code14,,3.0
+2020,Percentage,Saxony,code14,,3.02
+2021,Percentage,Saxony,code14,,3.09
+2022,Percentage,Saxony,code14,,3.02
+2025,Percentage,Saxony,,,
+1995,Percentage,Saxony-Anhalt,code15,,1.34
+1997,Percentage,Saxony-Anhalt,code15,,1.28
+1999,Percentage,Saxony-Anhalt,code15,,1.29
+2000,Percentage,Saxony-Anhalt,code15,,1.4
+2001,Percentage,Saxony-Anhalt,code15,,1.31
+2002,Percentage,Saxony-Anhalt,code15,,1.24
+2003,Percentage,Saxony-Anhalt,code15,,1.2
+2004,Percentage,Saxony-Anhalt,code15,,1.16
+2005,Percentage,Saxony-Anhalt,code15,,1.22
+2006,Percentage,Saxony-Anhalt,code15,,1.2
+2007,Percentage,Saxony-Anhalt,code15,,1.18
+2008,Percentage,Saxony-Anhalt,code15,,1.2
+2009,Percentage,Saxony-Anhalt,code15,,1.38
+2010,Percentage,Saxony-Anhalt,code15,,1.41
+2011,Percentage,Saxony-Anhalt,code15,,1.48
+2012,Percentage,Saxony-Anhalt,code15,,1.4
+2013,Percentage,Saxony-Anhalt,code15,,1.42
+2014,Percentage,Saxony-Anhalt,code15,,1.45
+2015,Percentage,Saxony-Anhalt,code15,,1.41
+2016,Percentage,Saxony-Anhalt,code15,,1.46
+2017,Percentage,Saxony-Anhalt,code15,,1.52
+2018,Percentage,Saxony-Anhalt,code15,,1.59
+2019,Percentage,Saxony-Anhalt,code15,,1.54
+2020,Percentage,Saxony-Anhalt,code15,,1.58
+2021,Percentage,Saxony-Anhalt,code15,,1.59
+2022,Percentage,Saxony-Anhalt,code15,,1.58
+2025,Percentage,Saxony-Anhalt,,,
+1995,Percentage,Schleswig-Holstein,code01,,1.08
+1997,Percentage,Schleswig-Holstein,code01,,1.06
+1999,Percentage,Schleswig-Holstein,code01,,1.08
+2000,Percentage,Schleswig-Holstein,code01,,1.09
+2001,Percentage,Schleswig-Holstein,code01,,1.14
+2002,Percentage,Schleswig-Holstein,code01,,1.21
+2003,Percentage,Schleswig-Holstein,code01,,1.15
+2004,Percentage,Schleswig-Holstein,code01,,1.09
+2005,Percentage,Schleswig-Holstein,code01,,1.15
+2006,Percentage,Schleswig-Holstein,code01,,1.21
+2007,Percentage,Schleswig-Holstein,code01,,1.19
+2008,Percentage,Schleswig-Holstein,code01,,1.24
+2009,Percentage,Schleswig-Holstein,code01,,1.3
+2010,Percentage,Schleswig-Holstein,code01,,1.32
+2011,Percentage,Schleswig-Holstein,code01,,1.42
+2012,Percentage,Schleswig-Holstein,code01,,1.45
+2013,Percentage,Schleswig-Holstein,code01,,1.5
+2014,Percentage,Schleswig-Holstein,code01,,1.55
+2015,Percentage,Schleswig-Holstein,code01,,1.5
+2016,Percentage,Schleswig-Holstein,code01,,1.53
+2017,Percentage,Schleswig-Holstein,code01,,1.58
+2018,Percentage,Schleswig-Holstein,code01,,1.64
+2019,Percentage,Schleswig-Holstein,code01,,1.68
+2020,Percentage,Schleswig-Holstein,code01,,1.62
+2021,Percentage,Schleswig-Holstein,code01,,1.68
+2022,Percentage,Schleswig-Holstein,code01,,1.68
+2025,Percentage,Schleswig-Holstein,,,
+1995,Percentage,Thuringia,code16,,1.58
+1997,Percentage,Thuringia,code16,,1.72
+1999,Percentage,Thuringia,code16,,1.63
+2000,Percentage,Thuringia,code16,,1.73
+2001,Percentage,Thuringia,code16,,2.07
+2002,Percentage,Thuringia,code16,,2.16
+2003,Percentage,Thuringia,code16,,1.92
+2004,Percentage,Thuringia,code16,,1.92
+2005,Percentage,Thuringia,code16,,1.9
+2006,Percentage,Thuringia,code16,,1.91
+2007,Percentage,Thuringia,code16,,1.89
+2008,Percentage,Thuringia,code16,,2.05
+2009,Percentage,Thuringia,code16,,2.19
+2010,Percentage,Thuringia,code16,,2.18
+2011,Percentage,Thuringia,code16,,2.14
+2012,Percentage,Thuringia,code16,,2.2
+2013,Percentage,Thuringia,code16,,2.17
+2014,Percentage,Thuringia,code16,,2.13
+2015,Percentage,Thuringia,code16,,2.05
+2016,Percentage,Thuringia,code16,,2.07
+2017,Percentage,Thuringia,code16,,2.23
+2018,Percentage,Thuringia,code16,,2.29
+2019,Percentage,Thuringia,code16,,2.35
+2020,Percentage,Thuringia,code16,,2.45
+2021,Percentage,Thuringia,code16,,2.74
+2022,Percentage,Thuringia,code16,,2.76
+2025,Percentage,Thuringia,,,
+1991,Percentage,,,Government and private non-profit institutions,
+1992,Percentage,,,Government and private non-profit institutions,
+1993,Percentage,,,Government and private non-profit institutions,
+1994,Percentage,,,Government and private non-profit institutions,
+1995,Percentage,,,Government and private non-profit institutions,0.33
+1996,Percentage,,,Government and private non-profit institutions,
+1997,Percentage,,,Government and private non-profit institutions,0.32
+1998,Percentage,,,Government and private non-profit institutions,
+1999,Percentage,,,Government and private non-profit institutions,0.32
+2000,Percentage,,,Government and private non-profit institutions,0.32
+2001,Percentage,,,Government and private non-profit institutions,0.33
+2002,Percentage,,,Government and private non-profit institutions,0.33
+2003,Percentage,,,Government and private non-profit institutions,0.33
+2004,Percentage,,,Government and private non-profit institutions,0.33
+2005,Percentage,,,Government and private non-profit institutions,0.34
+2006,Percentage,,,Government and private non-profit institutions,0.34
+2007,Percentage,,,Government and private non-profit institutions,0.34
+2008,Percentage,,,Government and private non-profit institutions,0.36
+2009,Percentage,,,Government and private non-profit institutions,0.4
+2010,Percentage,,,Government and private non-profit institutions,0.4
+2011,Percentage,,,Government and private non-profit institutions,0.4
+2012,Percentage,,,Government and private non-profit institutions,0.4
+2013,Percentage,,,Government and private non-profit institutions,0.41
+2014,Percentage,,,Government and private non-profit institutions,0.41
+2015,Percentage,,,Government and private non-profit institutions,0.4
+2016,Percentage,,,Government and private non-profit institutions,0.4
+2017,Percentage,,,Government and private non-profit institutions,0.4
+2018,Percentage,,,Government and private non-profit institutions,0.41
+2019,Percentage,,,Government and private non-profit institutions,0.42
+2020,Percentage,,,Government and private non-profit institutions,0.45
+2021,Percentage,,,Government and private non-profit institutions,0.46
+2022,Percentage,,,Government and private non-profit institutions,0.45
+2023,Percentage,,,Government and private non-profit institutions,0.44
+2025,Percentage,,,Government and private non-profit institutions,
+1991,Percentage,,,Universities,
+1992,Percentage,,,Universities,
+1993,Percentage,,,Universities,
+1994,Percentage,,,Universities,
+1995,Percentage,,,Universities,0.39
+1996,Percentage,,,Universities,
+1997,Percentage,,,Universities,0.39
+1998,Percentage,,,Universities,
+1999,Percentage,,,Universities,0.39
+2000,Percentage,,,Universities,0.39
+2001,Percentage,,,Universities,0.4
+2002,Percentage,,,Universities,0.42
+2003,Percentage,,,Universities,0.42
+2004,Percentage,,,Universities,0.4
+2005,Percentage,,,Universities,0.4
+2006,Percentage,,,Universities,0.4
+2007,Percentage,,,Universities,0.39
+2008,Percentage,,,Universities,0.43
+2009,Percentage,,,Universities,0.48
+2010,Percentage,,,Universities,0.49
+2011,Percentage,,,Universities,0.49
+2012,Percentage,,,Universities,0.5
+2013,Percentage,,,Universities,0.5
+2014,Percentage,,,Universities,0.5
+2015,Percentage,,,Universities,0.5
+2016,Percentage,,,Universities,0.52
+2017,Percentage,,,Universities,0.52
+2018,Percentage,,,Universities,0.54
+2019,Percentage,,,Universities,0.54
+2020,Percentage,,,Universities,0.58
+2021,Percentage,,,Universities,0.56
+2022,Percentage,,,Universities,0.56
+2023,Percentage,,,Universities,0.54
+2025,Percentage,,,Universities,
+1991,Percentage,,,Economy,
+1992,Percentage,,,Economy,
+1993,Percentage,,,Economy,
+1994,Percentage,,,Economy,
+1995,Percentage,,,Economy,1.41
+1996,Percentage,,,Economy,
+1997,Percentage,,,Economy,1.41
+1998,Percentage,,,Economy,
+1999,Percentage,,,Economy,1.62
+2000,Percentage,,,Economy,1.67
+2001,Percentage,,,Economy,1.65
+2002,Percentage,,,Economy,1.66
+2003,Percentage,,,Economy,1.7
+2004,Percentage,,,Economy,1.67
+2005,Percentage,,,Economy,1.66
+2006,Percentage,,,Economy,1.7
+2007,Percentage,,,Economy,1.69
+2008,Percentage,,,Economy,1.78
+2009,Percentage,,,Economy,1.81
+2010,Percentage,,,Economy,1.79
+2011,Percentage,,,Economy,1.86
+2012,Percentage,,,Economy,1.92
+2013,Percentage,,,Economy,1.87
+2014,Percentage,,,Economy,1.91
+2015,Percentage,,,Economy,1.98
+2016,Percentage,,,Economy,1.97
+2017,Percentage,,,Economy,2.06
+2018,Percentage,,,Economy,2.1
+2019,Percentage,,,Economy,2.15
+2020,Percentage,,,Economy,2.06
+2021,Percentage,,,Economy,2.06
+2022,Percentage,,,Economy,2.07
+2023,Percentage,,,Economy,2.12
+2025,Percentage,,,Economy,

@@ -21,6 +21,7 @@
               "enum": [
                 "percentage",
                 "percentage points",
+                "gini coefficient",
                 ""
               ]
             }
@@ -33,6 +34,7 @@
                 "foreigns",
                 "germans",
                 "difference",
+                "<u>additional time series:</u> gini coefficient of equivalised disposable income before social transfers",
                 ""
               ]
             }
@@ -47,6 +49,35 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "federal state",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
