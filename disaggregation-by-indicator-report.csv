@@ -1,7 +1,7 @@
 Indicator,Disaggregations,Number of disaggregations
 #1-1-ab,"time series, sex, area",3
-#10-1,"federal state, sex, COMMENT_OBS_0",3
-#10-2,"time series, federal state, COMMENT_OBS_0, area",4
+#10-1,"federal state, sex",2
+#10-2,"time series, federal state, area, COMMENT_OBS_0",4
 #11-1-a,"time series, federal state, type of area",3
 #11-1-c,"federal state, degree of urbanisation",2
 #11-2-a,time series,1
@@ -13,7 +13,7 @@ Indicator,Disaggregations,Number of disaggregations
 #13-1-a,federal state,1
 #14-1-a,time series,1
 #14-1-b,"time series, sea",2
-#15-1,"time series, COMMENT_OBS_0",2
+#15-1,time series,1
 #15-4,sector,1
 #16-2,"sex, display",2
 #16-4,level of compliance,1
