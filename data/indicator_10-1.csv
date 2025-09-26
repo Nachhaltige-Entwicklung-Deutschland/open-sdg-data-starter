@@ -1899,62 +1899,62 @@ Year,Units,Series,sex,federal state,GeoCode,Value
 2021,percentage,germans,,thuringia,code16,92.678
 2022,percentage,germans,,thuringia,code16,91.746
 2023,percentage,germans,,thuringia,code16,91.877
-1996,percentage,germans,,female,,,94.468
-1997,percentage,germans,,female,,,94.616
-1998,percentage,germans,,female,,,94.417
-1999,percentage,germans,,female,,,94.214
-2000,percentage,germans,,female,,,94.12
-2001,percentage,germans,,female,,,93.691
-2002,percentage,germans,,female,,,94.029
-2003,percentage,germans,,female,,,94.201
-2004,percentage,germans,,female,,,94.631
-2005,percentage,germans,,female,,,94.676
-2006,percentage,germans,,female,,,94.813
-2007,percentage,germans,,female,,,95.182
-2008,percentage,germans,,female,,,95.234
-2009,percentage,germans,,female,,,96.071
-2010,percentage,germans,,female,,,96.096
-2011,percentage,germans,,female,,,96.119
-2012,percentage,germans,,female,,,95.874
-2013,percentage,germans,,female,,,95.756
-2014,percentage,germans,,female,,,95.812
-2015,percentage,germans,,female,,,96.025
-2016,percentage,germans,,female,,,96.013
-2017,percentage,germans,,female,,,95.874
-2018,percentage,germans,,female,,,95.756
-2019,percentage,germans,,female,,,95.812
-2020,percentage,germans,,female,,,96.025
-2021,percentage,germans,,female,,,96.013
-2022,percentage,germans,,female,,,95.538
-2023,percentage,germans,,female,,,95.304
-1996,percentage,germans,,male,,,90.082
-1997,percentage,germans,,male,,,90.144
-1998,percentage,germans,,male,,,89.792
-1999,percentage,germans,,male,,,89.799
-2000,percentage,germans,,male,,,89.348
-2001,percentage,germans,,male,,,89.081
-2002,percentage,germans,,male,,,89.603
-2003,percentage,germans,,male,,,90.019
-2004,percentage,germans,,male,,,90.584
-2005,percentage,germans,,male,,,90.899
-2006,percentage,germans,,male,,,91.449
-2007,percentage,germans,,male,,,91.97
-2008,percentage,germans,,male,,,92.471
-2009,percentage,germans,,male,,,94.14
-2010,percentage,germans,,male,,,93.996
-2011,percentage,germans,,male,,,94.071
-2012,percentage,germans,,male,,,93.797
-2013,percentage,germans,,male,,,93.464
-2014,percentage,germans,,male,,,93.296
-2015,percentage,germans,,male,,,93.842
-2016,percentage,germans,,male,,,93.752
-2017,percentage,germans,,male,,,93.797
-2018,percentage,germans,,male,,,93.464
-2019,percentage,germans,,male,,,93.296
-2020,percentage,germans,,male,,,93.842
-2021,percentage,germans,,male,,,93.752
-2022,percentage,germans,,male,,,93.017
-2023,percentage,germans,,male,,,93.164
+1996,percentage,germans,female,,,94.468
+1997,percentage,germans,female,,,94.616
+1998,percentage,germans,female,,,94.417
+1999,percentage,germans,female,,,94.214
+2000,percentage,germans,female,,,94.12
+2001,percentage,germans,female,,,93.691
+2002,percentage,germans,female,,,94.029
+2003,percentage,germans,female,,,94.201
+2004,percentage,germans,female,,,94.631
+2005,percentage,germans,female,,,94.676
+2006,percentage,germans,female,,,94.813
+2007,percentage,germans,female,,,95.182
+2008,percentage,germans,female,,,95.234
+2009,percentage,germans,female,,,96.071
+2010,percentage,germans,female,,,96.096
+2011,percentage,germans,female,,,96.119
+2012,percentage,germans,female,,,95.874
+2013,percentage,germans,female,,,95.756
+2014,percentage,germans,female,,,95.812
+2015,percentage,germans,female,,,96.025
+2016,percentage,germans,female,,,96.013
+2017,percentage,germans,female,,,95.874
+2018,percentage,germans,female,,,95.756
+2019,percentage,germans,female,,,95.812
+2020,percentage,germans,female,,,96.025
+2021,percentage,germans,female,,,96.013
+2022,percentage,germans,female,,,95.538
+2023,percentage,germans,female,,,95.304
+1996,percentage,germans,male,,,90.082
+1997,percentage,germans,male,,,90.144
+1998,percentage,germans,male,,,89.792
+1999,percentage,germans,male,,,89.799
+2000,percentage,germans,male,,,89.348
+2001,percentage,germans,male,,,89.081
+2002,percentage,germans,male,,,89.603
+2003,percentage,germans,male,,,90.019
+2004,percentage,germans,male,,,90.584
+2005,percentage,germans,male,,,90.899
+2006,percentage,germans,male,,,91.449
+2007,percentage,germans,male,,,91.97
+2008,percentage,germans,male,,,92.471
+2009,percentage,germans,male,,,94.14
+2010,percentage,germans,male,,,93.996
+2011,percentage,germans,male,,,94.071
+2012,percentage,germans,male,,,93.797
+2013,percentage,germans,male,,,93.464
+2014,percentage,germans,male,,,93.296
+2015,percentage,germans,male,,,93.842
+2016,percentage,germans,male,,,93.752
+2017,percentage,germans,male,,,93.797
+2018,percentage,germans,male,,,93.464
+2019,percentage,germans,male,,,93.296
+2020,percentage,germans,male,,,93.842
+2021,percentage,germans,male,,,93.752
+2022,percentage,germans,male,,,93.017
+2023,percentage,germans,male,,,93.164
 1996,percentage points,difference,,,,11.841
 1997,percentage points,difference,,,,11.711
 1998,percentage points,difference,,,,11.554
@@ -1983,63 +1983,63 @@ Year,Units,Series,sex,federal state,GeoCode,Value
 2021,percentage points,difference,,,,10.518
 2022,percentage points,difference,,,,10.251
 2023,percentage points,difference,,,,11.941
-2030,percentage points,difference,…,,,,
-1996,percentage points,difference,,female,,,9.998
-1997,percentage points,difference,,female,,,9.882
-1998,percentage points,difference,,female,,,9.887
-1999,percentage points,difference,,female,,,9.279
-2000,percentage points,difference,,female,,,9.793
-2001,percentage points,difference,,female,,,9.401
-2002,percentage points,difference,,female,,,9.613
-2003,percentage points,difference,,female,,,9.61
-2004,percentage points,difference,,female,,,8.818
-2005,percentage points,difference,,female,,,8.252
-2006,percentage points,difference,,female,,,8.283
-2007,percentage points,difference,,female,,,8.147
-2008,percentage points,difference,,female,,,7.315
-2009,percentage points,difference,,female,,,7.526
-2010,percentage points,difference,,female,,,6.63
-2011,percentage points,difference,,female,,,5.776
-2012,percentage points,difference,,female,,,5.282
-2013,percentage points,difference,,female,,,4.683
-2014,percentage points,difference,,female,,,6.406
-2015,percentage points,difference,,female,,,5.725
-2016,percentage points,difference,,female,,,6.913
-2017,percentage points,difference,,female,,,9.443
-2018,percentage points,difference,,female,,,10.183
-2019,percentage points,difference,,female,,,9.982
-2020,percentage points,difference,,female,,,8.004
-2021,percentage points,difference,,female,,,8.633
-2022,percentage points,difference,,female,,,8.67
-2023,percentage points,difference,,female,,,10.097
-1996,percentage points,difference,,male,,,13.421
-1997,percentage points,difference,,male,,,13.314
-1998,percentage points,difference,,male,,,12.893
-1999,percentage points,difference,,male,,,12.914
-2000,percentage points,difference,,male,,,13.134
-2001,percentage points,difference,,male,,,13.249
-2002,percentage points,difference,,male,,,12.717
-2003,percentage points,difference,,male,,,12.596
-2004,percentage points,difference,,male,,,12.278
-2005,percentage points,difference,,male,,,11.758
-2006,percentage points,difference,,male,,,11.27
-2007,percentage points,difference,,male,,,10.763
-2008,percentage points,difference,,male,,,10.198
-2009,percentage points,difference,,male,,,10.287
-2010,percentage points,difference,,male,,,9.03
-2011,percentage points,difference,,male,,,7.896
-2012,percentage points,difference,,male,,,7.111
-2013,percentage points,difference,,male,,,5.903
-2014,percentage points,difference,,male,,,6.538
-2015,percentage points,difference,,male,,,7.642
-2016,percentage points,difference,,male,,,10.852
-2017,percentage points,difference,,male,,,15.679
-2018,percentage points,difference,,male,,,14.699
-2019,percentage points,difference,,male,,,13.801
-2020,percentage points,difference,,male,,,10.833
-2021,percentage points,difference,,male,,,12.133
-2022,percentage points,difference,,male,,,11.582
-2023,percentage points,difference,,male,,,13.491
+2030,percentage points,difference,,,,
+1996,percentage points,difference,female,,,9.998
+1997,percentage points,difference,female,,,9.882
+1998,percentage points,difference,female,,,9.887
+1999,percentage points,difference,female,,,9.279
+2000,percentage points,difference,female,,,9.793
+2001,percentage points,difference,female,,,9.401
+2002,percentage points,difference,female,,,9.613
+2003,percentage points,difference,female,,,9.61
+2004,percentage points,difference,female,,,8.818
+2005,percentage points,difference,female,,,8.252
+2006,percentage points,difference,female,,,8.283
+2007,percentage points,difference,female,,,8.147
+2008,percentage points,difference,female,,,7.315
+2009,percentage points,difference,female,,,7.526
+2010,percentage points,difference,female,,,6.63
+2011,percentage points,difference,female,,,5.776
+2012,percentage points,difference,female,,,5.282
+2013,percentage points,difference,female,,,4.683
+2014,percentage points,difference,female,,,6.406
+2015,percentage points,difference,female,,,5.725
+2016,percentage points,difference,female,,,6.913
+2017,percentage points,difference,female,,,9.443
+2018,percentage points,difference,female,,,10.183
+2019,percentage points,difference,female,,,9.982
+2020,percentage points,difference,female,,,8.004
+2021,percentage points,difference,female,,,8.633
+2022,percentage points,difference,female,,,8.67
+2023,percentage points,difference,female,,,10.097
+1996,percentage points,difference,male,,,13.421
+1997,percentage points,difference,male,,,13.314
+1998,percentage points,difference,male,,,12.893
+1999,percentage points,difference,male,,,12.914
+2000,percentage points,difference,male,,,13.134
+2001,percentage points,difference,male,,,13.249
+2002,percentage points,difference,male,,,12.717
+2003,percentage points,difference,male,,,12.596
+2004,percentage points,difference,male,,,12.278
+2005,percentage points,difference,male,,,11.758
+2006,percentage points,difference,male,,,11.27
+2007,percentage points,difference,male,,,10.763
+2008,percentage points,difference,male,,,10.198
+2009,percentage points,difference,male,,,10.287
+2010,percentage points,difference,male,,,9.03
+2011,percentage points,difference,male,,,7.896
+2012,percentage points,difference,male,,,7.111
+2013,percentage points,difference,male,,,5.903
+2014,percentage points,difference,male,,,6.538
+2015,percentage points,difference,male,,,7.642
+2016,percentage points,difference,male,,,10.852
+2017,percentage points,difference,male,,,15.679
+2018,percentage points,difference,male,,,14.699
+2019,percentage points,difference,male,,,13.801
+2020,percentage points,difference,male,,,10.833
+2021,percentage points,difference,male,,,12.133
+2022,percentage points,difference,male,,,11.582
+2023,percentage points,difference,male,,,13.491
 1996,percentage points,difference,,baden-wuerttemberg,code08,13.7
 1997,percentage points,difference,,baden-wuerttemberg,code08,13.7
 1998,percentage points,difference,,baden-wuerttemberg,code08,12.8
