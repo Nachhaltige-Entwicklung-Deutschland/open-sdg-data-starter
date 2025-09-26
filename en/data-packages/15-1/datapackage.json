@@ -35,12 +35,23 @@
                 "Forest sub-indicator",
                 "Settlements sub-indicator",
                 "Farmland sub-indicator",
-                "inland waters sub-index",
-                "<u>additional time series:</u> coasts and seas",
+                "Inland waters sub-indicator",
+                "<u>Additional time series:</u> Coasts/seas",
                 ""
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
