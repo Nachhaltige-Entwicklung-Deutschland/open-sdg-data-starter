@@ -22,7 +22,6 @@
               "enum": [
                 "Percentage",
                 "Percentage points",
-                "Gini coefficient",
                 ""
               ]
             },
@@ -36,11 +35,21 @@
                 "Foreigns",
                 "Germans",
                 "Difference",
-                "<u>Additional time series:</u> Gini coefficient of equivalised disposable income before social transfers",
                 ""
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "sex",

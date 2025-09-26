@@ -21,7 +21,6 @@
               "enum": [
                 "percentage",
                 "percentage points",
-                "gini coefficient",
                 ""
               ]
             }
@@ -34,7 +33,16 @@
                 "foreigns",
                 "germans",
                 "difference",
-                "<u>additional time series:</u> gini coefficient of equivalised disposable income before social transfers",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
                 ""
               ]
             }
