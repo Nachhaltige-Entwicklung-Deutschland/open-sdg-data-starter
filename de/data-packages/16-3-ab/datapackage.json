@@ -16,6 +16,18 @@
             "title": "Jahr"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) Corruption Perceptions Index in Deutschland",
+                "b) Anzahl der Partnerländern der deutschen Entwicklungszusammenarbeit mit verbessertem CPI",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -27,16 +39,16 @@
             "title": "Units"
           },
           {
-            "name": "Series",
+            "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Corruption Perceptions Index in Deutschland",
-                "b) Anzahl der Partnerländern der deutschen Entwicklungszusammenarbeit mit verbessertem CPI",
+                ".",
+                "r",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",

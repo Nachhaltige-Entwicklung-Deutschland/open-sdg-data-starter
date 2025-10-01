@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -36,14 +36,14 @@
             }
           },
           {
-            "name": "qualification",
+            "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "secondary education, education after abitur",
-                "higher qualifying vocational training",
-                "university degree",
-                "initial training",
+                "r",
+                "p",
+                "…",
+                ".",
                 ""
               ]
             }
@@ -87,6 +87,19 @@
           {
             "name": "GeoCode",
             "type": "string"
+          },
+          {
+            "name": "qualification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "secondary education, education after abitur",
+                "higher qualifying vocational training",
+                "university degree",
+                "initial training",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

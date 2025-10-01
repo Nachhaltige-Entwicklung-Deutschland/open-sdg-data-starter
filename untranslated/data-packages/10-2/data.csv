@@ -13,8 +13,8 @@ Year,Units,time series,area,COMMENT_OBS_0,federal state,GeoCode,Value
 2018,gini coefficient,<u>time series of the indicator:</u> gini coefficient of equivalised disposable income,germany,,,,0.311
 2019,gini coefficient,<u>time series of the indicator:</u> gini coefficient of equivalised disposable income,germany,,,,0.297
 2020,gini coefficient,<u>time series of the indicator:</u> gini coefficient of equivalised disposable income,germany,,,,0.305
-2021,gini coefficient,<u>time series of the indicator:</u> gini coefficient of equivalised disposable income,germany,p,,,0.312
-2022,gini coefficient,<u>time series of the indicator:</u> gini coefficient of equivalised disposable income,germany,p,,,0.29
+2021,gini coefficient,<u>time series of the indicator:</u> gini coefficient of equivalised disposable income,germany,,,,0.312
+2022,gini coefficient,<u>time series of the indicator:</u> gini coefficient of equivalised disposable income,germany,,,,0.29
 2023,gini coefficient,<u>time series of the indicator:</u> gini coefficient of equivalised disposable income,germany,,,,0.294
 2024,gini coefficient,<u>time series of the indicator:</u> gini coefficient of equivalised disposable income,germany,,,,0.295
 2007,gini coefficient,<u>time series of the indicator:</u> gini coefficient of equivalised disposable income,european union,,,,0.306
@@ -31,8 +31,8 @@ Year,Units,time series,area,COMMENT_OBS_0,federal state,GeoCode,Value
 2018,gini coefficient,<u>time series of the indicator:</u> gini coefficient of equivalised disposable income,european union,,,,0.304
 2019,gini coefficient,<u>time series of the indicator:</u> gini coefficient of equivalised disposable income,european union,,,,0.302
 2020,gini coefficient,<u>time series of the indicator:</u> gini coefficient of equivalised disposable income,european union,,,,0.3
-2021,gini coefficient,<u>time series of the indicator:</u> gini coefficient of equivalised disposable income,european union,p,,,0.302
-2022,gini coefficient,<u>time series of the indicator:</u> gini coefficient of equivalised disposable income,european union,p,,,0.296
+2021,gini coefficient,<u>time series of the indicator:</u> gini coefficient of equivalised disposable income,european union,,,,0.302
+2022,gini coefficient,<u>time series of the indicator:</u> gini coefficient of equivalised disposable income,european union,,,,0.296
 2023,gini coefficient,<u>time series of the indicator:</u> gini coefficient of equivalised disposable income,european union,,,,0.296
 2024,gini coefficient,<u>time series of the indicator:</u> gini coefficient of equivalised disposable income,european union,,,,0.293
 2007,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised disposable income before social transfers,germany,,,,0.373
@@ -67,22 +67,22 @@ Year,Units,time series,area,COMMENT_OBS_0,federal state,GeoCode,Value
 2018,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised disposable income before social transfers,european union,,,,0.359
 2019,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised disposable income before social transfers,european union,,,,0.355
 2020,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised disposable income before social transfers,european union,,,,0.349
-2021,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised disposable income before social transfers,european union,p,,,0.36
-2022,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised disposable income before social transfers,european union,p,,,0.349
+2021,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised disposable income before social transfers,european union,,,,0.36
+2022,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised disposable income before social transfers,european union,,,,0.349
 2023,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised disposable income before social transfers,european union,,,,0.347
 2024,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised disposable income before social transfers,european union,,,,0.344
-2007,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,,,,
-2008,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,,,,
-2009,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,,,,
-2010,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,,,,
-2011,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,,,,
-2012,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,,,,
-2013,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,,,,
-2014,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,,,,
-2015,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,,,,
-2016,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,,,,
-2017,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,,,,
-2018,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,,,,
+2007,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,.,,,
+2008,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,.,,,
+2009,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,.,,,
+2010,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,.,,,
+2011,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,.,,,
+2012,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,.,,,
+2013,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,.,,,
+2014,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,.,,,
+2015,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,.,,,
+2016,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,.,,,
+2017,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,.,,,
+2018,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,.,,,
 2019,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,.,,,
 2020,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,,,,0.409
 2021,gini coefficient,<u>additional time series:</u> gini coefficient of equivalised market income,germany,,,,0.454
@@ -104,8 +104,8 @@ Year,Units,time series,area,COMMENT_OBS_0,federal state,GeoCode,Value
 2019,gini coefficient,<u>additional time series:</u> gini coefficient of wealth,germany,.,,,
 2020,gini coefficient,<u>additional time series:</u> gini coefficient of wealth,germany,.,,,
 2021,gini coefficient,<u>additional time series:</u> gini coefficient of wealth,germany,,,,0.728
-2022,gini coefficient,<u>additional time series:</u> gini coefficient of wealth,germany,…,,,
-2023,gini coefficient,<u>additional time series:</u> gini coefficient of wealth,germany,…,,,0.724
+2022,gini coefficient,<u>additional time series:</u> gini coefficient of wealth,germany,.,,,
+2023,gini coefficient,<u>additional time series:</u> gini coefficient of wealth,germany,,,,0.724
 2024,gini coefficient,<u>additional time series:</u> gini coefficient of wealth,germany,…,,,
 2007,gini coefficient,<u>additional time series:</u> gini coefficient of wealth,eurozone,.,,,
 2008,gini coefficient,<u>additional time series:</u> gini coefficient of wealth,eurozone,.,,,

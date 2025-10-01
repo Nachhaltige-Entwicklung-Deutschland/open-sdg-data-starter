@@ -38,6 +38,18 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                "…",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -76,6 +88,17 @@
               "enum": [
                 "<u>time series of the indicator:</u> children whose fathers have received parental allowance",
                 "<u>additional time series:</u> male recipients of all parental allowance months taken",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ".",
                 ""
               ]
             }
@@ -124,7 +147,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -137,6 +160,17 @@
             "constraints": {
               "enum": [
                 "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "…",
                 ""
               ]
             }
@@ -156,7 +190,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -180,6 +214,18 @@
               "enum": [
                 "a) final energy productivity",
                 "b) primary energy consumption",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                "…",
                 ""
               ]
             }
@@ -228,7 +274,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -241,6 +287,17 @@
             "constraints": {
               "enum": [
                 "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "…",
                 ""
               ]
             }
@@ -285,6 +342,16 @@
               "enum": [
                 "difference between <i>no risk situation</i> and <i>at least one risk situation</i>",
                 "by number of risk positions",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
                 ""
               ]
             }
@@ -407,6 +474,27 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
+          },
+          {
             "name": "federal state",
             "type": "string",
             "constraints": {
@@ -450,7 +538,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -463,6 +551,16 @@
             "constraints": {
               "enum": [
                 "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
                 ""
               ]
             }
@@ -500,12 +598,12 @@
             }
           },
           {
-            "name": "time series",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "overweight without obese",
-                "obese",
+                "3 to under 11 years",
+                "11 to under 18 years",
                 ""
               ]
             }
@@ -522,12 +620,12 @@
             }
           },
           {
-            "name": "age group",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "3 to under 11 years",
-                "11 to under 18 years",
+                "overweight without obese",
+                "obese",
                 ""
               ]
             }
@@ -579,7 +677,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -592,6 +690,16 @@
             "constraints": {
               "enum": [
                 "1,000",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
                 ""
               ]
             }
@@ -700,6 +808,17 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "…",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -714,7 +833,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -727,6 +846,18 @@
             "constraints": {
               "enum": [
                 "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                "…",
                 ""
               ]
             }
@@ -775,7 +906,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -804,14 +935,14 @@
             }
           },
           {
-            "name": "qualification",
+            "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "secondary education, education after abitur",
-                "higher qualifying vocational training",
-                "university degree",
-                "initial training",
+                "r",
+                "p",
+                "…",
+                ".",
                 ""
               ]
             }
@@ -857,6 +988,19 @@
             "type": "string"
           },
           {
+            "name": "qualification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "secondary education, education after abitur",
+                "higher qualifying vocational training",
+                "university degree",
+                "initial training",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -871,7 +1015,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -895,6 +1039,17 @@
               "enum": [
                 "<u>time series of the indicator:</u> sustainability-certified cultural and media institutions",
                 "<u>additional time series:</u> productions of audiovisual media that meet ecological standards",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "…",
                 ""
               ]
             }
@@ -947,6 +1102,16 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -994,6 +1159,16 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -1021,6 +1196,17 @@
             "constraints": {
               "enum": [
                 "2015 = 100",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "…",
                 ""
               ]
             }
@@ -1076,6 +1262,18 @@
               "enum": [
                 "c) adolescents",
                 "d) adults",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "…",
+                "p",
                 ""
               ]
             }
@@ -1164,6 +1362,16 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -1191,6 +1399,16 @@
             "constraints": {
               "enum": [
                 "1,000 euros",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
                 ""
               ]
             }
@@ -1239,7 +1457,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -1252,6 +1470,16 @@
             "constraints": {
               "enum": [
                 "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
                 ""
               ]
             }
@@ -1297,6 +1525,16 @@
                 "foreigns",
                 "germans",
                 "difference",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
                 ""
               ]
             }
@@ -1385,6 +1623,17 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ".",
+                ""
+              ]
+            }
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -1410,7 +1659,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -1423,6 +1672,17 @@
             "constraints": {
               "enum": [
                 "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "…",
                 ""
               ]
             }
@@ -1455,6 +1715,16 @@
             "constraints": {
               "enum": [
                 "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
                 ""
               ]
             }
@@ -1499,6 +1769,17 @@
                 "with a new or higher-quality access to the drinking water supply or connection to the sanitation supply",
                 "a) with access to new or improved drinking water supply",
                 "b) with access to new or improved basic sanitation or wastewater treatment",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ".",
                 ""
               ]
             }
@@ -1555,6 +1836,17 @@
                 "low or moderate",
                 "largely compliant or compliant",
                 "non-compliant or partially compliant",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ".",
                 ""
               ]
             }
@@ -1617,7 +1909,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -1630,6 +1922,16 @@
             "constraints": {
               "enum": [
                 "billion euros",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
                 ""
               ]
             }
@@ -1667,19 +1969,6 @@
             }
           },
           {
-            "name": "time series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "students from ldcs",
-                "students from other developing and emerging countries",
-                "researchers from ldcs",
-                "researchers from other developing and emerging countries",
-                ""
-              ]
-            }
-          },
-          {
             "name": "federal state",
             "type": "string",
             "constraints": {
@@ -1707,6 +1996,19 @@
           {
             "name": "GeoCode",
             "type": "string"
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "students from ldcs",
+                "students from other developing and emerging countries",
+                "researchers from ldcs",
+                "researchers from other developing and emerging countries",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -1748,6 +2050,17 @@
                 "mothers",
                 "fathers",
                 "difference",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
                 ""
               ]
             }
@@ -1796,6 +2109,17 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "…",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -1823,6 +2147,16 @@
             "constraints": {
               "enum": [
                 "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
                 ""
               ]
             }
@@ -1908,6 +2242,27 @@
                 "a) government deficit",
                 "b) structural deficit",
                 "gross domestic product (price-adjusted)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "r",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
                 ""
               ]
             }
@@ -2003,7 +2358,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
                 "r",
                 ".",
                 "…",
@@ -2073,6 +2427,18 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "…",
+                "-",
+                ""
+              ]
+            }
+          },
+          {
             "name": "time series",
             "type": "string",
             "constraints": {
@@ -2098,7 +2464,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1254",
       "schema": {
         "fields": [
           {
@@ -2122,6 +2488,16 @@
               "enum": [
                 "a) 0 to 2-year-olds",
                 "b) 3 to 5-year-olds",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
                 ""
               ]
             }
@@ -2181,7 +2557,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -2205,6 +2581,17 @@
               "enum": [
                 "a) total (20 to 64-year-olds)",
                 "b) older people (55 to 64-year-olds)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "…",
                 ""
               ]
             }
@@ -2282,6 +2669,17 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "…",
+                ""
+              ]
+            }
+          },
+          {
             "name": "time series",
             "type": "string",
             "constraints": {
@@ -2308,7 +2706,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -2321,6 +2719,17 @@
             "constraints": {
               "enum": [
                 "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "…",
                 ""
               ]
             }
@@ -2358,34 +2767,12 @@
             }
           },
           {
-            "name": "sex",
+            "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "18 to under 20 years",
-                "20 to under 25 years",
-                "25 to under 30 years",
-                "30 to under 35 years",
-                "35 to under 40 years",
-                "40 to under 45 years",
-                "45 to under 50 years",
-                "50 to under 55 years",
-                "55 to under 60 years",
-                "60 to under 65 years",
-                "65 to under 70 years",
-                "70 to under 75 years",
-                "75 years and older",
+                ".",
+                "…",
                 ""
               ]
             }
@@ -2418,6 +2805,39 @@
           {
             "name": "GeoCode",
             "type": "string"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18 to under 20 years",
+                "20 to under 25 years",
+                "25 to under 30 years",
+                "30 to under 35 years",
+                "35 to under 40 years",
+                "40 to under 45 years",
+                "45 to under 50 years",
+                "50 to under 55 years",
+                "55 to under 60 years",
+                "60 to under 65 years",
+                "65 to under 70 years",
+                "70 to under 75 years",
+                "75 years and older",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -2479,6 +2899,17 @@
             "constraints": {
               "enum": [
                 "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "…",
                 ""
               ]
             }
@@ -2549,6 +2980,18 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ".",
+                "p",
+                ""
+              ]
+            }
+          },
+          {
             "name": "federal state",
             "type": "string",
             "constraints": {
@@ -2592,7 +3035,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1254",
       "schema": {
         "fields": [
           {
@@ -2616,6 +3059,20 @@
               "enum": [
                 "moving four-year average",
                 "calculated annual values",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "…",
+                ".",
+                "0",
+                "-",
                 ""
               ]
             }
@@ -2676,7 +3133,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -2702,6 +3159,17 @@
                 "<u>time series of the indicator:</u> locations of organisation registered with emas",
                 "<u>additional time series:</u> employees in emas organisations",
                 "<u>additional time series:</u> emas organisations",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "…",
                 ""
               ]
             }
@@ -2750,7 +3218,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -2763,6 +3231,19 @@
             "constraints": {
               "enum": [
                 "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                "…",
+                ".",
                 ""
               ]
             }
@@ -2822,7 +3303,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -2835,6 +3316,17 @@
             "constraints": {
               "enum": [
                 "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "…",
                 ""
               ]
             }
@@ -2854,7 +3346,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -2867,6 +3359,18 @@
             "constraints": {
               "enum": [
                 "1990 = 100",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                "…",
                 ""
               ]
             }
@@ -2905,7 +3409,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -2918,6 +3422,18 @@
             "constraints": {
               "enum": [
                 "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "…",
+                "r",
                 ""
               ]
             }
@@ -2965,7 +3481,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -2978,6 +3494,17 @@
             "constraints": {
               "enum": [
                 "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "…",
                 ""
               ]
             }
@@ -3032,6 +3559,17 @@
               "enum": [
                 "for the medium-sized and major cities of the year in question",
                 "for the medium-sized and major cities of 2012",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "…",
                 ""
               ]
             }
@@ -3093,6 +3631,17 @@
             "constraints": {
               "enum": [
                 "million hectares",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "…",
                 ""
               ]
             }
@@ -3227,6 +3776,18 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                "…",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -3265,6 +3826,18 @@
               "enum": [
                 "<u>time series of the indicator:</u> data from the federal statistical office",
                 "<u>additional time series:</u> data from the bmleh",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "…",
+                "r",
                 ""
               ]
             }
@@ -3313,7 +3886,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -3326,6 +3899,16 @@
             "constraints": {
               "enum": [
                 "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
                 ""
               ]
             }
@@ -3345,7 +3928,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -3358,6 +3941,17 @@
             "constraints": {
               "enum": [
                 "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "…",
                 ""
               ]
             }
@@ -3420,6 +4014,18 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                "…",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -3442,6 +4048,17 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) corruption perceptions index in germany",
+                "b) number of partner countries of german development cooperation whose cpi has improved",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -3452,12 +4069,12 @@
             }
           },
           {
-            "name": "Series",
+            "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) corruption perceptions index in germany",
-                "b) number of partner countries of german development cooperation whose cpi has improved",
+                ".",
+                "r",
                 ""
               ]
             }
@@ -3477,7 +4094,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1254",
       "schema": {
         "fields": [
           {
@@ -3490,6 +4107,16 @@
             "constraints": {
               "enum": [
                 "per 100,000 inhabitants",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
                 ""
               ]
             }
@@ -3544,6 +4171,16 @@
             "constraints": {
               "enum": [
                 "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
                 ""
               ]
             }
@@ -3624,6 +4261,17 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "r",
+                ""
+              ]
+            }
+          },
+          {
             "name": "federal state",
             "type": "string",
             "constraints": {
@@ -3651,6 +4299,16 @@
           {
             "name": "GeoCode",
             "type": "string"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -3702,6 +4360,17 @@
               "enum": [
                 "european union",
                 "germany",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ".",
                 ""
               ]
             }

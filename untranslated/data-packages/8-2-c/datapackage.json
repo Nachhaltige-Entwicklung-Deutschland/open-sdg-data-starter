@@ -25,6 +25,17 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "r",
+                ""
+              ]
+            }
+          },
+          {
             "name": "federal state",
             "type": "string",
             "constraints": {
@@ -52,6 +63,16 @@
           {
             "name": "GeoCode",
             "type": "string"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

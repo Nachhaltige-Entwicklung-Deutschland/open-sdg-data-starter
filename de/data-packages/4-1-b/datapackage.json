@@ -39,18 +39,18 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "qualification",
+            "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zweitausbildung, Ausbildung nach Abitur",
-                "Höherqualifizierende Berufsausbildung",
-                "Hochschulabschluss",
-                "Erstausbildung",
+                "r",
+                "p",
+                "…",
+                ".",
                 ""
               ]
             },
-            "title": "Qualifizierung"
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "sex",
@@ -94,6 +94,20 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
+          },
+          {
+            "name": "qualification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zweitausbildung, Ausbildung nach Abitur",
+                "Höherqualifizierende Berufsausbildung",
+                "Hochschulabschluss",
+                "Erstausbildung",
+                ""
+              ]
+            },
+            "title": "Qualifizierung"
           },
           {
             "name": "Value",

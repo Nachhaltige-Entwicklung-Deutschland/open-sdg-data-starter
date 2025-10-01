@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -31,6 +31,17 @@
               "enum": [
                 "<u>time series of the indicator:</u> sustainability-certified cultural and media institutions",
                 "<u>additional time series:</u> productions of audiovisual media that meet ecological standards",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "…",
                 ""
               ]
             }

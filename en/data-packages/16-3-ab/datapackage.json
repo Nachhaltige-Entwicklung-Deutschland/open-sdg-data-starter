@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) Corruption Perceptions Index in Germany",
+                "b) Number of partner countries of German development cooperation whose CPI has improved",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -27,16 +39,16 @@
             "title": "Units"
           },
           {
-            "name": "Series",
+            "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Corruption Perceptions Index in Germany",
-                "b) Number of partner countries of German development cooperation whose CPI has improved",
+                ".",
+                "r",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",

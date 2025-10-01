@@ -27,16 +27,16 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Übergewicht ohne Adipositas",
-                "Adipositas",
+                "3 bis unter 11 Jahre",
+                "11 bis unter 18 Jahre",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Altersklasse"
           },
           {
             "name": "sex",
@@ -51,16 +51,16 @@
             "title": "Geschlecht"
           },
           {
-            "name": "age group",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "3 bis unter 11 Jahre",
-                "11 bis unter 18 Jahre",
+                "Übergewicht ohne Adipositas",
+                "Adipositas",
                 ""
               ]
             },
-            "title": "Altersklasse"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

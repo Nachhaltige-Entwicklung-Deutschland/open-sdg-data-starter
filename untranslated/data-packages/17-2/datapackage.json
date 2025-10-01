@@ -25,19 +25,6 @@
             }
           },
           {
-            "name": "time series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "students from ldcs",
-                "students from other developing and emerging countries",
-                "researchers from ldcs",
-                "researchers from other developing and emerging countries",
-                ""
-              ]
-            }
-          },
-          {
             "name": "federal state",
             "type": "string",
             "constraints": {
@@ -65,6 +52,19 @@
           {
             "name": "GeoCode",
             "type": "string"
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "students from ldcs",
+                "students from other developing and emerging countries",
+                "researchers from ldcs",
+                "researchers from other developing and emerging countries",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

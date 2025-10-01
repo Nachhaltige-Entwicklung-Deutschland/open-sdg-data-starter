@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -33,6 +33,17 @@
                 "<u>time series of the indicator:</u> locations of organisation registered with emas",
                 "<u>additional time series:</u> employees in emas organisations",
                 "<u>additional time series:</u> emas organisations",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "…",
                 ""
               ]
             }

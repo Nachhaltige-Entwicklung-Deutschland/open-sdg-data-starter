@@ -1,14 +1,14 @@
-Year,Units,display,sex,Value
-2024,number,trained personnel,,182.0
-2030,number,trained personnel,,1000.0
-2023,number,trained personnel,,
-2025,number,trained personnel,,
-2024,number,trained personnel still required to achieve the target,,818.0
-2023,number,trained personnel still required to achieve the target,,
-2025,number,trained personnel still required to achieve the target,,
-2024,number,trained personnel,female,33.0
-2023,number,trained personnel,female,
-2025,number,trained personnel,female,
-2024,number,trained personnel,male,149.0
-2023,number,trained personnel,male,
-2025,number,trained personnel,male,
+Year,Units,display,COMMENT_OBS_0,sex,Value
+2024,number,trained personnel,,,182.0
+2030,number,trained personnel,…,,1000.0
+2023,number,trained personnel,.,,
+2025,number,trained personnel,…,,
+2024,number,trained personnel still required to achieve the target,,,818.0
+2023,number,trained personnel still required to achieve the target,.,,
+2025,number,trained personnel still required to achieve the target,…,,
+2024,number,trained personnel,,female,33.0
+2023,number,trained personnel,.,female,
+2025,number,trained personnel,…,female,
+2024,number,trained personnel,,male,149.0
+2023,number,trained personnel,.,male,
+2025,number,trained personnel,…,male,

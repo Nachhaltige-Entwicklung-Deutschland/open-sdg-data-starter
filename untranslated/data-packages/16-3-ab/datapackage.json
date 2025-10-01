@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) corruption perceptions index in germany",
+                "b) number of partner countries of german development cooperation whose cpi has improved",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -25,12 +36,12 @@
             }
           },
           {
-            "name": "Series",
+            "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) corruption perceptions index in germany",
-                "b) number of partner countries of german development cooperation whose cpi has improved",
+                ".",
+                "r",
                 ""
               ]
             }
