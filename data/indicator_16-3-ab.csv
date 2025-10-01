@@ -1,27 +1,27 @@
-Year,Units,Series,Value
-2012,,a) corruption perceptions index in germany,79.0
-2013,,a) corruption perceptions index in germany,78.0
-2014,,a) corruption perceptions index in germany,79.0
-2015,,a) corruption perceptions index in germany,81.0
-2016,,a) corruption perceptions index in germany,81.0
-2017,,a) corruption perceptions index in germany,81.0
-2018,,a) corruption perceptions index in germany,80.0
-2019,,a) corruption perceptions index in germany,80.0
-2020,,a) corruption perceptions index in germany,80.0
-2021,,a) corruption perceptions index in germany,80.0
-2022,,a) corruption perceptions index in germany,79.0
-2023,,a) corruption perceptions index in germany,78.0
-2024,,a) corruption perceptions index in germany,75.0
-2012,number,b) number of partner countries of german development cooperation whose cpi has improved,
-2013,number,b) number of partner countries of german development cooperation whose cpi has improved,16.0
-2014,number,b) number of partner countries of german development cooperation whose cpi has improved,30.0
-2015,number,b) number of partner countries of german development cooperation whose cpi has improved,30.0
-2016,number,b) number of partner countries of german development cooperation whose cpi has improved,31.0
-2017,number,b) number of partner countries of german development cooperation whose cpi has improved,32.0
-2018,number,b) number of partner countries of german development cooperation whose cpi has improved,31.0
-2019,number,b) number of partner countries of german development cooperation whose cpi has improved,34.0
-2020,number,b) number of partner countries of german development cooperation whose cpi has improved,36.0
-2021,number,b) number of partner countries of german development cooperation whose cpi has improved,36.0
-2022,number,b) number of partner countries of german development cooperation whose cpi has improved,30.0
-2023,number,b) number of partner countries of german development cooperation whose cpi has improved,34.0
-2024,number,b) number of partner countries of german development cooperation whose cpi has improved,32.0
+Year,Series,Units,COMMENT_OBS_0,Value
+2012,a) corruption perceptions index in germany,,,79.0
+2013,a) corruption perceptions index in germany,,,78.0
+2014,a) corruption perceptions index in germany,,,79.0
+2015,a) corruption perceptions index in germany,,,81.0
+2016,a) corruption perceptions index in germany,,,81.0
+2017,a) corruption perceptions index in germany,,,81.0
+2018,a) corruption perceptions index in germany,,,80.0
+2019,a) corruption perceptions index in germany,,,80.0
+2020,a) corruption perceptions index in germany,,,80.0
+2021,a) corruption perceptions index in germany,,,80.0
+2022,a) corruption perceptions index in germany,,,79.0
+2023,a) corruption perceptions index in germany,,,78.0
+2024,a) corruption perceptions index in germany,,,75.0
+2012,b) number of partner countries of german development cooperation whose cpi has improved,number,.,
+2013,b) number of partner countries of german development cooperation whose cpi has improved,number,r,16.0
+2014,b) number of partner countries of german development cooperation whose cpi has improved,number,r,30.0
+2015,b) number of partner countries of german development cooperation whose cpi has improved,number,r,30.0
+2016,b) number of partner countries of german development cooperation whose cpi has improved,number,r,31.0
+2017,b) number of partner countries of german development cooperation whose cpi has improved,number,r,32.0
+2018,b) number of partner countries of german development cooperation whose cpi has improved,number,r,31.0
+2019,b) number of partner countries of german development cooperation whose cpi has improved,number,r,34.0
+2020,b) number of partner countries of german development cooperation whose cpi has improved,number,r,36.0
+2021,b) number of partner countries of german development cooperation whose cpi has improved,number,r,36.0
+2022,b) number of partner countries of german development cooperation whose cpi has improved,number,r,30.0
+2023,b) number of partner countries of german development cooperation whose cpi has improved,number,,34.0
+2024,b) number of partner countries of german development cooperation whose cpi has improved,number,,32.0
