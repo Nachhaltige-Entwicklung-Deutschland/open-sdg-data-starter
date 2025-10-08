@@ -136,6 +136,11 @@ prose:
             element: text
             label: "Bewertung"
             scope: national
+      - name: "indicator_pdf"
+        field:
+            element: text
+            label: "PDF zum Indikator"
+            scope: national
       # - name: "data_state"
       #   field:
       #     element: text
