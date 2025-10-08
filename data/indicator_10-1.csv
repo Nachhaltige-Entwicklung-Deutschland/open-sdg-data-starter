@@ -56,6 +56,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,female,,,87.38
 2022,percentage,foreigns,,female,,,86.869
 2023,percentage,foreigns,,female,,,85.206
+2030,percentage,foreigns,…,female,,,
 1996,percentage,foreigns,,male,,,76.661
 1997,percentage,foreigns,,male,,,76.831
 1998,percentage,foreigns,,male,,,76.898
@@ -84,6 +85,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,male,,,81.619
 2022,percentage,foreigns,,male,,,81.435
 2023,percentage,foreigns,,male,,,79.673
+2030,percentage,foreigns,…,male,,,
 1996,percentage,germans,,,,,92.284
 1997,percentage,germans,,,,,92.286
 1998,percentage,germans,,,,,92.059
@@ -141,6 +143,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,,baden-wuerttemberg,code08,84.46
 2022,percentage,foreigns,,,baden-wuerttemberg,code08,82.944
 2023,percentage,foreigns,,,baden-wuerttemberg,code08,82.167
+2030,percentage,foreigns,…,,baden-wuerttemberg,code08,
 1996,percentage,foreigns,,female,baden-wuerttemberg,code08,84.1
 1997,percentage,foreigns,,female,baden-wuerttemberg,code08,84.4
 1998,percentage,foreigns,,female,baden-wuerttemberg,code08,84.6
@@ -169,6 +172,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,female,baden-wuerttemberg,code08,87.75
 2022,percentage,foreigns,,female,baden-wuerttemberg,code08,85.286
 2023,percentage,foreigns,,female,baden-wuerttemberg,code08,84.074
+2030,percentage,foreigns,…,female,baden-wuerttemberg,code08,
 1996,percentage,foreigns,,male,baden-wuerttemberg,code08,76.3
 1997,percentage,foreigns,,male,baden-wuerttemberg,code08,76.6
 1998,percentage,foreigns,,male,baden-wuerttemberg,code08,78.0
@@ -197,6 +201,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,male,baden-wuerttemberg,code08,81.553
 2022,percentage,foreigns,,male,baden-wuerttemberg,code08,80.838
 2023,percentage,foreigns,,male,baden-wuerttemberg,code08,80.579
+2030,percentage,foreigns,…,male,baden-wuerttemberg,code08,
 1996,percentage,foreigns,,,bavaria,code09,74.8
 1997,percentage,foreigns,,,bavaria,code09,74.8
 1998,percentage,foreigns,,,bavaria,code09,72.8
@@ -225,6 +230,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,,bavaria,code09,84.84
 2022,percentage,foreigns,,,bavaria,code09,86.702
 2023,percentage,foreigns,,,bavaria,code09,85.932
+2030,percentage,foreigns,…,,bavaria,code09,
 1996,percentage,foreigns,,female,bavaria,code09,80.1
 1997,percentage,foreigns,,female,bavaria,code09,80.3
 1998,percentage,foreigns,,female,bavaria,code09,76.8
@@ -253,6 +259,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,female,bavaria,code09,88.397
 2022,percentage,foreigns,,female,bavaria,code09,89.926
 2023,percentage,foreigns,,female,bavaria,code09,89.15
+2030,percentage,foreigns,…,female,bavaria,code09,
 1996,percentage,foreigns,,male,bavaria,code09,70.1
 1997,percentage,foreigns,,male,bavaria,code09,69.6
 1998,percentage,foreigns,,male,bavaria,code09,69.1
@@ -281,6 +288,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,male,bavaria,code09,81.585
 2022,percentage,foreigns,,male,bavaria,code09,83.801
 2023,percentage,foreigns,,male,bavaria,code09,83.114
+2030,percentage,foreigns,…,male,bavaria,code09,
 1996,percentage,foreigns,,,berlin,code11,73.3
 1997,percentage,foreigns,,,berlin,code11,73.0
 1998,percentage,foreigns,,,berlin,code11,69.4
@@ -307,6 +315,9 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2019,percentage,foreigns,,,berlin,code11,81.1
 2020,percentage,foreigns,,,berlin,code11,92.8
 2021,percentage,foreigns,,,berlin,code11,84.313
+2022,percentage,foreigns,…,,berlin,code11,
+2023,percentage,foreigns,…,,berlin,code11,
+2030,percentage,foreigns,…,,berlin,code11,
 1996,percentage,foreigns,,female,berlin,code11,79.8
 1997,percentage,foreigns,,female,berlin,code11,78.3
 1998,percentage,foreigns,,female,berlin,code11,76.2
@@ -333,6 +344,9 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2019,percentage,foreigns,,female,berlin,code11,85.3
 2020,percentage,foreigns,,female,berlin,code11,85.7
 2021,percentage,foreigns,,female,berlin,code11,85.722
+2022,percentage,foreigns,…,female,berlin,code11,
+2023,percentage,foreigns,…,female,berlin,code11,
+2030,percentage,foreigns,…,female,berlin,code11,
 1996,percentage,foreigns,,male,berlin,code11,67.5
 1997,percentage,foreigns,,male,berlin,code11,68.7
 1998,percentage,foreigns,,male,berlin,code11,63.8
@@ -359,6 +373,9 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2019,percentage,foreigns,,male,berlin,code11,77.5
 2020,percentage,foreigns,,male,berlin,code11,90.6
 2021,percentage,foreigns,,male,berlin,code11,83.07
+2022,percentage,foreigns,…,male,berlin,code11,
+2023,percentage,foreigns,…,male,berlin,code11,
+2030,percentage,foreigns,…,male,berlin,code11,
 1996,percentage,foreigns,,,brandenburg,code12,95.8
 1997,percentage,foreigns,,,brandenburg,code12,92.7
 1998,percentage,foreigns,,,brandenburg,code12,91.1
@@ -387,6 +404,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,,brandenburg,code12,91.35
 2022,percentage,foreigns,,,brandenburg,code12,88.53
 2023,percentage,foreigns,,,brandenburg,code12,86.104
+2030,percentage,foreigns,…,,brandenburg,code12,
 1996,percentage,foreigns,,female,brandenburg,code12,100.0
 1997,percentage,foreigns,,female,brandenburg,code12,97.8
 1998,percentage,foreigns,,female,brandenburg,code12,94.3
@@ -415,6 +433,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,female,brandenburg,code12,93.573
 2022,percentage,foreigns,,female,brandenburg,code12,92.27
 2023,percentage,foreigns,,female,brandenburg,code12,89.102
+2030,percentage,foreigns,…,female,brandenburg,code12,
 1996,percentage,foreigns,,male,brandenburg,code12,91.7
 1997,percentage,foreigns,,male,brandenburg,code12,87.2
 1998,percentage,foreigns,,male,brandenburg,code12,87.4
@@ -443,6 +462,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,male,brandenburg,code12,89.689
 2022,percentage,foreigns,,male,brandenburg,code12,85.239
 2023,percentage,foreigns,,male,brandenburg,code12,83.835
+2030,percentage,foreigns,…,male,brandenburg,code12,
 1996,percentage,foreigns,,,bremen,code04,77.6
 1997,percentage,foreigns,,,bremen,code04,82.4
 1998,percentage,foreigns,,,bremen,code04,82.4
@@ -471,6 +491,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,,bremen,code04,77.973
 2022,percentage,foreigns,,,bremen,code04,75.097
 2023,percentage,foreigns,,,bremen,code04,75.875
+2030,percentage,foreigns,…,,bremen,code04,
 1996,percentage,foreigns,,female,bremen,code04,81.0
 1997,percentage,foreigns,,female,bremen,code04,86.9
 1998,percentage,foreigns,,female,bremen,code04,84.8
@@ -499,6 +520,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,female,bremen,code04,78.868
 2022,percentage,foreigns,,female,bremen,code04,81.675
 2023,percentage,foreigns,,female,bremen,code04,82.488
+2030,percentage,foreigns,…,female,bremen,code04,
 1996,percentage,foreigns,,male,bremen,code04,74.6
 1997,percentage,foreigns,,male,bremen,code04,78.7
 1998,percentage,foreigns,,male,bremen,code04,80.2
@@ -527,6 +549,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,male,bremen,code04,77.259
 2022,percentage,foreigns,,male,bremen,code04,69.832
 2023,percentage,foreigns,,male,bremen,code04,71.044
+2030,percentage,foreigns,…,male,bremen,code04,
 1996,percentage,foreigns,,,hamburg,code02,81.4
 1997,percentage,foreigns,,,hamburg,code02,82.8
 1998,percentage,foreigns,,,hamburg,code02,81.8
@@ -555,6 +578,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,,hamburg,code02,86.504
 2022,percentage,foreigns,,,hamburg,code02,86.006
 2023,percentage,foreigns,,,hamburg,code02,85.32
+2030,percentage,foreigns,…,,hamburg,code02,
 1996,percentage,foreigns,,female,hamburg,code02,83.8
 1997,percentage,foreigns,,female,hamburg,code02,86.0
 1998,percentage,foreigns,,female,hamburg,code02,85.1
@@ -583,6 +607,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,female,hamburg,code02,89.36
 2022,percentage,foreigns,,female,hamburg,code02,88.622
 2023,percentage,foreigns,,female,hamburg,code02,88.38
+2030,percentage,foreigns,…,female,hamburg,code02,
 1996,percentage,foreigns,,male,hamburg,code02,79.2
 1997,percentage,foreigns,,male,hamburg,code02,79.8
 1998,percentage,foreigns,,male,hamburg,code02,79.0
@@ -611,6 +636,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,male,hamburg,code02,83.937
 2022,percentage,foreigns,,male,hamburg,code02,83.689
 2023,percentage,foreigns,,male,hamburg,code02,82.622
+2030,percentage,foreigns,…,male,hamburg,code02,
 1996,percentage,foreigns,,,hesse,code06,79.0
 1997,percentage,foreigns,,,hesse,code06,80.5
 1998,percentage,foreigns,,,hesse,code06,82.0
@@ -639,6 +665,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,,hesse,code06,88.229
 2022,percentage,foreigns,,,hesse,code06,87.57
 2023,percentage,foreigns,,,hesse,code06,88.354
+2030,percentage,foreigns,…,,hesse,code06,
 1996,percentage,foreigns,,female,hesse,code06,83.2
 1997,percentage,foreigns,,female,hesse,code06,84.2
 1998,percentage,foreigns,,female,hesse,code06,85.9
@@ -667,6 +694,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,female,hesse,code06,90.111
 2022,percentage,foreigns,,female,hesse,code06,89.706
 2023,percentage,foreigns,,female,hesse,code06,90.794
+2030,percentage,foreigns,…,female,hesse,code06,
 1996,percentage,foreigns,,male,hesse,code06,75.4
 1997,percentage,foreigns,,male,hesse,code06,77.1
 1998,percentage,foreigns,,male,hesse,code06,78.4
@@ -695,6 +723,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,male,hesse,code06,86.517
 2022,percentage,foreigns,,male,hesse,code06,85.708
 2023,percentage,foreigns,,male,hesse,code06,86.177
+2030,percentage,foreigns,…,male,hesse,code06,
 1996,percentage,foreigns,,,mecklenburg western pomerania,code13,87.2
 1997,percentage,foreigns,,,mecklenburg western pomerania,code13,85.7
 1998,percentage,foreigns,,,mecklenburg western pomerania,code13,73.9
@@ -723,6 +752,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,,mecklenburg western pomerania,code13,86.628
 2022,percentage,foreigns,,,mecklenburg western pomerania,code13,80.575
 2023,percentage,foreigns,,,mecklenburg western pomerania,code13,80.418
+2030,percentage,foreigns,…,,mecklenburg western pomerania,code13,
 1996,percentage,foreigns,,female,mecklenburg western pomerania,code13,100.0
 1997,percentage,foreigns,,female,mecklenburg western pomerania,code13,90.0
 1998,percentage,foreigns,,female,mecklenburg western pomerania,code13,73.7
@@ -751,6 +781,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,female,mecklenburg western pomerania,code13,89.172
 2022,percentage,foreigns,,female,mecklenburg western pomerania,code13,85.879
 2023,percentage,foreigns,,female,mecklenburg western pomerania,code13,86.877
+2030,percentage,foreigns,…,female,mecklenburg western pomerania,code13,
 1996,percentage,foreigns,,male,mecklenburg western pomerania,code13,75.0
 1997,percentage,foreigns,,male,mecklenburg western pomerania,code13,81.8
 1998,percentage,foreigns,,male,mecklenburg western pomerania,code13,74.1
@@ -779,6 +810,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,male,mecklenburg western pomerania,code13,84.492
 2022,percentage,foreigns,,male,mecklenburg western pomerania,code13,75.781
 2023,percentage,foreigns,,male,mecklenburg western pomerania,code13,74.026
+2030,percentage,foreigns,…,male,mecklenburg western pomerania,code13,
 1996,percentage,foreigns,,,lower saxony,code03,72.7
 1997,percentage,foreigns,,,lower saxony,code03,72.7
 1998,percentage,foreigns,,,lower saxony,code03,74.8
@@ -807,6 +839,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,,lower saxony,code03,81.372
 2022,percentage,foreigns,,,lower saxony,code03,81.129
 2023,percentage,foreigns,,,lower saxony,code03,77.411
+2030,percentage,foreigns,…,,lower saxony,code03,
 1996,percentage,foreigns,,female,lower saxony,code03,77.4
 1997,percentage,foreigns,,female,lower saxony,code03,77.4
 1998,percentage,foreigns,,female,lower saxony,code03,80.1
@@ -835,6 +868,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,female,lower saxony,code03,84.138
 2022,percentage,foreigns,,female,lower saxony,code03,83.473
 2023,percentage,foreigns,,female,lower saxony,code03,81.387
+2030,percentage,foreigns,…,female,lower saxony,code03,
 1996,percentage,foreigns,,male,lower saxony,code03,68.6
 1997,percentage,foreigns,,male,lower saxony,code03,68.6
 1998,percentage,foreigns,,male,lower saxony,code03,70.6
@@ -863,6 +897,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,male,lower saxony,code03,78.82
 2022,percentage,foreigns,,male,lower saxony,code03,79.069
 2023,percentage,foreigns,,male,lower saxony,code03,73.749
+2030,percentage,foreigns,…,male,lower saxony,code03,
 1996,percentage,foreigns,,,north rhine-westphalia,code05,87.3
 1997,percentage,foreigns,,,north rhine-westphalia,code05,87.0
 1998,percentage,foreigns,,,north rhine-westphalia,code05,87.2
@@ -891,6 +926,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,,north rhine-westphalia,code05,85.406
 2022,percentage,foreigns,,,north rhine-westphalia,code05,85.037
 2023,percentage,foreigns,,,north rhine-westphalia,code05,83.465
+2030,percentage,foreigns,…,,north rhine-westphalia,code05,
 1996,percentage,foreigns,,female,north rhine-westphalia,code05,90.2
 1997,percentage,foreigns,,female,north rhine-westphalia,code05,90.2
 1998,percentage,foreigns,,female,north rhine-westphalia,code05,90.4
@@ -919,6 +955,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,female,north rhine-westphalia,code05,88.377
 2022,percentage,foreigns,,female,north rhine-westphalia,code05,87.585
 2023,percentage,foreigns,,female,north rhine-westphalia,code05,85.741
+2030,percentage,foreigns,…,female,north rhine-westphalia,code05,
 1996,percentage,foreigns,,male,north rhine-westphalia,code05,84.7
 1997,percentage,foreigns,,male,north rhine-westphalia,code05,84.1
 1998,percentage,foreigns,,male,north rhine-westphalia,code05,84.3
@@ -947,6 +984,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,male,north rhine-westphalia,code05,82.717
 2022,percentage,foreigns,,male,north rhine-westphalia,code05,82.658
 2023,percentage,foreigns,,male,north rhine-westphalia,code05,81.357
+2030,percentage,foreigns,…,male,north rhine-westphalia,code05,
 1996,percentage,foreigns,,,rhineland palatinate,code07,78.3
 1997,percentage,foreigns,,,rhineland palatinate,code07,77.2
 1998,percentage,foreigns,,,rhineland palatinate,code07,74.8
@@ -975,6 +1013,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,,rhineland palatinate,code07,80.963
 2022,percentage,foreigns,,,rhineland palatinate,code07,82.845
 2023,percentage,foreigns,,,rhineland palatinate,code07,77.68
+2030,percentage,foreigns,…,,rhineland palatinate,code07,
 1996,percentage,foreigns,,female,rhineland palatinate,code07,84.8
 1997,percentage,foreigns,,female,rhineland palatinate,code07,81.9
 1998,percentage,foreigns,,female,rhineland palatinate,code07,81.2
@@ -1003,6 +1042,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,female,rhineland palatinate,code07,86.201
 2022,percentage,foreigns,,female,rhineland palatinate,code07,86.131
 2023,percentage,foreigns,,female,rhineland palatinate,code07,81.06
+2030,percentage,foreigns,…,female,rhineland palatinate,code07,
 1996,percentage,foreigns,,male,rhineland palatinate,code07,73.1
 1997,percentage,foreigns,,male,rhineland palatinate,code07,72.9
 1998,percentage,foreigns,,male,rhineland palatinate,code07,69.5
@@ -1031,6 +1071,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,male,rhineland palatinate,code07,76.247
 2022,percentage,foreigns,,male,rhineland palatinate,code07,79.851
 2023,percentage,foreigns,,male,rhineland palatinate,code07,74.75
+2030,percentage,foreigns,…,male,rhineland palatinate,code07,
 1996,percentage,foreigns,,,saarland,code10,71.8
 1997,percentage,foreigns,,,saarland,code10,77.7
 1998,percentage,foreigns,,,saarland,code10,74.8
@@ -1059,6 +1100,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,,saarland,code10,83.476
 2022,percentage,foreigns,,,saarland,code10,77.972
 2023,percentage,foreigns,,,saarland,code10,75.076
+2030,percentage,foreigns,…,,saarland,code10,
 1996,percentage,foreigns,,female,saarland,code10,76.6
 1997,percentage,foreigns,,female,saarland,code10,82.8
 1998,percentage,foreigns,,female,saarland,code10,80.6
@@ -1087,6 +1129,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,female,saarland,code10,84.015
 2022,percentage,foreigns,,female,saarland,code10,79.378
 2023,percentage,foreigns,,female,saarland,code10,76.913
+2030,percentage,foreigns,…,female,saarland,code10,
 1996,percentage,foreigns,,male,saarland,code10,67.7
 1997,percentage,foreigns,,male,saarland,code10,73.4
 1998,percentage,foreigns,,male,saarland,code10,70.9
@@ -1115,6 +1158,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,male,saarland,code10,83.016
 2022,percentage,foreigns,,male,saarland,code10,76.52
 2023,percentage,foreigns,,male,saarland,code10,73.349
+2030,percentage,foreigns,…,male,saarland,code10,
 1996,percentage,foreigns,,,saxony,code14,63.9
 1997,percentage,foreigns,,,saxony,code14,69.1
 1998,percentage,foreigns,,,saxony,code14,68.8
@@ -1143,6 +1187,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,,saxony,code14,82.922
 2022,percentage,foreigns,,,saxony,code14,81.79
 2023,percentage,foreigns,,,saxony,code14,82.757
+2030,percentage,foreigns,…,,saxony,code14,
 1996,percentage,foreigns,,female,saxony,code14,75.5
 1997,percentage,foreigns,,female,saxony,code14,72.5
 1998,percentage,foreigns,,female,saxony,code14,73.9
@@ -1171,6 +1216,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,female,saxony,code14,86.609
 2022,percentage,foreigns,,female,saxony,code14,85.244
 2023,percentage,foreigns,,female,saxony,code14,85.401
+2030,percentage,foreigns,…,female,saxony,code14,
 1996,percentage,foreigns,,male,saxony,code14,55.7
 1997,percentage,foreigns,,male,saxony,code14,64.4
 1998,percentage,foreigns,,male,saxony,code14,64.7
@@ -1199,6 +1245,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,male,saxony,code14,79.377
 2022,percentage,foreigns,,male,saxony,code14,78.686
 2023,percentage,foreigns,,male,saxony,code14,80.316
+2030,percentage,foreigns,…,male,saxony,code14,
 1996,percentage,foreigns,,,saxony-anhalt,code15,70.5
 1997,percentage,foreigns,,,saxony-anhalt,code15,60.7
 1998,percentage,foreigns,,,saxony-anhalt,code15,63.9
@@ -1227,6 +1274,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,,saxony-anhalt,code15,74.254
 2022,percentage,foreigns,,,saxony-anhalt,code15,77.389
 2023,percentage,foreigns,,,saxony-anhalt,code15,61.949
+2030,percentage,foreigns,…,,saxony-anhalt,code15,
 1996,percentage,foreigns,,female,saxony-anhalt,code15,81.8
 1997,percentage,foreigns,,female,saxony-anhalt,code15,67.9
 1998,percentage,foreigns,,female,saxony-anhalt,code15,74.6
@@ -1255,6 +1303,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,female,saxony-anhalt,code15,78.512
 2022,percentage,foreigns,,female,saxony-anhalt,code15,81.022
 2023,percentage,foreigns,,female,saxony-anhalt,code15,68.205
+2030,percentage,foreigns,…,female,saxony-anhalt,code15,
 1996,percentage,foreigns,,male,saxony-anhalt,code15,64.1
 1997,percentage,foreigns,,male,saxony-anhalt,code15,55.1
 1998,percentage,foreigns,,male,saxony-anhalt,code15,56.0
@@ -1283,6 +1332,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,male,saxony-anhalt,code15,70.748
 2022,percentage,foreigns,,male,saxony-anhalt,code15,75.0
 2023,percentage,foreigns,,male,saxony-anhalt,code15,56.962
+2030,percentage,foreigns,…,male,saxony-anhalt,code15,
 1996,percentage,foreigns,,,schleswig-holstein,code01,77.3
 1997,percentage,foreigns,,,schleswig-holstein,code01,74.5
 1998,percentage,foreigns,,,schleswig-holstein,code01,75.8
@@ -1311,6 +1361,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,,schleswig-holstein,code01,78.992
 2022,percentage,foreigns,,,schleswig-holstein,code01,76.462
 2023,percentage,foreigns,,,schleswig-holstein,code01,73.829
+2030,percentage,foreigns,…,,schleswig-holstein,code01,
 1996,percentage,foreigns,,female,schleswig-holstein,code01,80.4
 1997,percentage,foreigns,,female,schleswig-holstein,code01,82.3
 1998,percentage,foreigns,,female,schleswig-holstein,code01,79.6
@@ -1339,6 +1390,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,female,schleswig-holstein,code01,82.932
 2022,percentage,foreigns,,female,schleswig-holstein,code01,81.515
 2023,percentage,foreigns,,female,schleswig-holstein,code01,77.921
+2030,percentage,foreigns,…,female,schleswig-holstein,code01,
 1996,percentage,foreigns,,male,schleswig-holstein,code01,74.5
 1997,percentage,foreigns,,male,schleswig-holstein,code01,67.9
 1998,percentage,foreigns,,male,schleswig-holstein,code01,72.3
@@ -1367,6 +1419,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,male,schleswig-holstein,code01,75.529
 2022,percentage,foreigns,,male,schleswig-holstein,code01,71.675
 2023,percentage,foreigns,,male,schleswig-holstein,code01,70.242
+2030,percentage,foreigns,…,male,schleswig-holstein,code01,
 1996,percentage,foreigns,,,thuringia,code16,62.1
 1997,percentage,foreigns,,,thuringia,code16,60.5
 1998,percentage,foreigns,,,thuringia,code16,61.5
@@ -1395,6 +1448,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,,thuringia,code16,74.922
 2022,percentage,foreigns,,,thuringia,code16,73.327
 2023,percentage,foreigns,,,thuringia,code16,65.716
+2030,percentage,foreigns,…,,thuringia,code16,
 1996,percentage,foreigns,,female,thuringia,code16,56.5
 1997,percentage,foreigns,,female,thuringia,code16,58.3
 1998,percentage,foreigns,,female,thuringia,code16,74.4
@@ -1423,6 +1477,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,female,thuringia,code16,81.572
 2022,percentage,foreigns,,female,thuringia,code16,79.266
 2023,percentage,foreigns,,female,thuringia,code16,70.579
+2030,percentage,foreigns,…,female,thuringia,code16,
 1996,percentage,foreigns,,male,thuringia,code16,65.1
 1997,percentage,foreigns,,male,thuringia,code16,62.5
 1998,percentage,foreigns,,male,thuringia,code16,52.6
@@ -1451,6 +1506,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,foreigns,,male,thuringia,code16,70.0
 2022,percentage,foreigns,,male,thuringia,code16,68.486
 2023,percentage,foreigns,,male,thuringia,code16,61.463
+2030,percentage,foreigns,…,male,thuringia,code16,
 1996,percentage,germans,,,baden-wuerttemberg,code08,93.7
 1997,percentage,germans,,,baden-wuerttemberg,code08,94.0
 1998,percentage,germans,,,baden-wuerttemberg,code08,94.0
@@ -1479,6 +1535,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,germans,,,baden-wuerttemberg,code08,94.9
 2022,percentage,germans,,,baden-wuerttemberg,code08,94.424
 2023,percentage,germans,,,baden-wuerttemberg,code08,94.539
+2030,percentage,germans,…,,baden-wuerttemberg,code08,
 1996,percentage,germans,,,bavaria,code09,93.1
 1997,percentage,germans,,,bavaria,code09,92.7
 1998,percentage,germans,,,bavaria,code09,92.3
@@ -1507,6 +1564,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,germans,,,bavaria,code09,96.019
 2022,percentage,germans,,,bavaria,code09,95.949
 2023,percentage,germans,,,bavaria,code09,95.973
+2030,percentage,germans,…,,bavaria,code09,
 1996,percentage,germans,,,berlin,code11,90.8
 1997,percentage,germans,,,berlin,code11,90.3
 1998,percentage,germans,,,berlin,code11,89.5
@@ -1535,6 +1593,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,germans,,,berlin,code11,95.087
 2022,percentage,germans,,,berlin,code11,93.209
 2023,percentage,germans,,,berlin,code11,92.19
+2030,percentage,germans,…,,berlin,code11,
 1996,percentage,germans,,,brandenburg,code12,90.5
 1997,percentage,germans,,,brandenburg,code12,91.5
 1998,percentage,germans,,,brandenburg,code12,91.2
@@ -1563,6 +1622,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,germans,,,brandenburg,code12,93.778
 2022,percentage,germans,,,brandenburg,code12,92.992
 2023,percentage,germans,,,brandenburg,code12,92.788
+2030,percentage,germans,…,,brandenburg,code12,
 1996,percentage,germans,,,bremen,code04,91.8
 1997,percentage,germans,,,bremen,code04,92.7
 1998,percentage,germans,,,bremen,code04,90.6
@@ -1591,6 +1651,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,germans,,,bremen,code04,94.025
 2022,percentage,germans,,,bremen,code04,94.451
 2023,percentage,germans,,,bremen,code04,94.621
+2030,percentage,germans,…,,bremen,code04,
 1996,percentage,germans,,,hamburg,code02,90.7
 1997,percentage,germans,,,hamburg,code02,90.1
 1998,percentage,germans,,,hamburg,code02,90.6
@@ -1619,6 +1680,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,germans,,,hamburg,code02,95.334
 2022,percentage,germans,,,hamburg,code02,94.976
 2023,percentage,germans,,,hamburg,code02,95.132
+2030,percentage,germans,…,,hamburg,code02,
 1996,percentage,germans,,,hesse,code06,93.1
 1997,percentage,germans,,,hesse,code06,93.2
 1998,percentage,germans,,,hesse,code06,93.3
@@ -1647,6 +1709,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,germans,,,hesse,code06,95.451
 2022,percentage,germans,,,hesse,code06,94.7
 2023,percentage,germans,,,hesse,code06,95.08
+2030,percentage,germans,…,,hesse,code06,
 1996,percentage,germans,,,mecklenburg western pomerania,code13,90.6
 1997,percentage,germans,,,mecklenburg western pomerania,code13,90.8
 1998,percentage,germans,,,mecklenburg western pomerania,code13,90.3
@@ -1675,6 +1738,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,germans,,,mecklenburg western pomerania,code13,92.232
 2022,percentage,germans,,,mecklenburg western pomerania,code13,90.398
 2023,percentage,germans,,,mecklenburg western pomerania,code13,90.677
+2030,percentage,germans,…,,mecklenburg western pomerania,code13,
 1996,percentage,germans,,,lower saxony,code03,91.2
 1997,percentage,germans,,,lower saxony,code03,91.1
 1998,percentage,germans,,,lower saxony,code03,91.4
@@ -1703,6 +1767,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,germans,,,lower saxony,code03,95.164
 2022,percentage,germans,,,lower saxony,code03,94.694
 2023,percentage,germans,,,lower saxony,code03,94.181
+2030,percentage,germans,…,,lower saxony,code03,
 1996,percentage,germans,,,north rhine-westphalia,code05,95.3
 1997,percentage,germans,,,north rhine-westphalia,code05,95.0
 1998,percentage,germans,,,north rhine-westphalia,code05,95.1
@@ -1731,6 +1796,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,germans,,,north rhine-westphalia,code05,95.49
 2022,percentage,germans,,,north rhine-westphalia,code05,94.808
 2023,percentage,germans,,,north rhine-westphalia,code05,94.951
+2030,percentage,germans,…,,north rhine-westphalia,code05,
 1996,percentage,germans,,,rhineland palatinate,code07,91.4
 1997,percentage,germans,,,rhineland palatinate,code07,91.5
 1998,percentage,germans,,,rhineland palatinate,code07,91.4
@@ -1759,6 +1825,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,germans,,,rhineland palatinate,code07,94.066
 2022,percentage,germans,,,rhineland palatinate,code07,93.669
 2023,percentage,germans,,,rhineland palatinate,code07,93.401
+2030,percentage,germans,…,,rhineland palatinate,code07,
 1996,percentage,germans,,,saarland,code10,90.7
 1997,percentage,germans,,,saarland,code10,90.5
 1998,percentage,germans,,,saarland,code10,90.5
@@ -1787,6 +1854,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,germans,,,saarland,code10,95.449
 2022,percentage,germans,,,saarland,code10,94.845
 2023,percentage,germans,,,saarland,code10,94.456
+2030,percentage,germans,…,,saarland,code10,
 1996,percentage,germans,,,saxony,code14,90.3
 1997,percentage,germans,,,saxony,code14,90.6
 1998,percentage,germans,,,saxony,code14,89.7
@@ -1815,6 +1883,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,germans,,,saxony,code14,92.133
 2022,percentage,germans,,,saxony,code14,92.518
 2023,percentage,germans,,,saxony,code14,92.44
+2030,percentage,germans,…,,saxony,code14,
 1996,percentage,germans,,,saxony-anhalt,code15,89.4
 1997,percentage,germans,,,saxony-anhalt,code15,90.0
 1998,percentage,germans,,,saxony-anhalt,code15,89.1
@@ -1843,6 +1912,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,germans,,,saxony-anhalt,code15,91.37
 2022,percentage,germans,,,saxony-anhalt,code15,89.329
 2023,percentage,germans,,,saxony-anhalt,code15,89.421
+2030,percentage,germans,…,,saxony-anhalt,code15,
 1996,percentage,germans,,,schleswig-holstein,code01,91.0
 1997,percentage,germans,,,schleswig-holstein,code01,90.5
 1998,percentage,germans,,,schleswig-holstein,code01,89.9
@@ -1871,6 +1941,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,germans,,,schleswig-holstein,code01,93.302
 2022,percentage,germans,,,schleswig-holstein,code01,92.46
 2023,percentage,germans,,,schleswig-holstein,code01,92.125
+2030,percentage,germans,…,,schleswig-holstein,code01,
 1996,percentage,germans,,,thuringia,code16,87.7
 1997,percentage,germans,,,thuringia,code16,87.8
 1998,percentage,germans,,,thuringia,code16,87.0
@@ -1899,6 +1970,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,germans,,,thuringia,code16,92.678
 2022,percentage,germans,,,thuringia,code16,91.746
 2023,percentage,germans,,,thuringia,code16,91.877
+2030,percentage,germans,…,,thuringia,code16,
 1996,percentage,germans,,female,,,94.468
 1997,percentage,germans,,female,,,94.616
 1998,percentage,germans,,female,,,94.417
@@ -1927,6 +1999,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,germans,,female,,,96.013
 2022,percentage,germans,,female,,,95.538
 2023,percentage,germans,,female,,,95.304
+2030,percentage,germans,…,female,,,
 1996,percentage,germans,,male,,,90.082
 1997,percentage,germans,,male,,,90.144
 1998,percentage,germans,,male,,,89.792
@@ -1955,6 +2028,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage,germans,,male,,,93.752
 2022,percentage,germans,,male,,,93.017
 2023,percentage,germans,,male,,,93.164
+2030,percentage,germans,…,male,,,
 1996,percentage points,difference,,,,,11.841
 1997,percentage points,difference,,,,,11.711
 1998,percentage points,difference,,,,,11.554
@@ -2012,6 +2086,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage points,difference,,female,,,8.633
 2022,percentage points,difference,,female,,,8.67
 2023,percentage points,difference,,female,,,10.097
+2030,percentage points,difference,…,female,,,
 1996,percentage points,difference,,male,,,13.421
 1997,percentage points,difference,,male,,,13.314
 1998,percentage points,difference,,male,,,12.893
@@ -2040,6 +2115,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage points,difference,,male,,,12.133
 2022,percentage points,difference,,male,,,11.582
 2023,percentage points,difference,,male,,,13.491
+2030,percentage points,difference,…,male,,,
 1996,percentage points,difference,,,baden-wuerttemberg,code08,13.7
 1997,percentage points,difference,,,baden-wuerttemberg,code08,13.7
 1998,percentage points,difference,,,baden-wuerttemberg,code08,12.8
@@ -2068,6 +2144,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage points,difference,,,baden-wuerttemberg,code08,10.44
 2022,percentage points,difference,,,baden-wuerttemberg,code08,11.48
 2023,percentage points,difference,,,baden-wuerttemberg,code08,12.372
+2030,percentage points,difference,…,,baden-wuerttemberg,code08,
 1996,percentage points,difference,,,bavaria,code09,18.3
 1997,percentage points,difference,,,bavaria,code09,17.9
 1998,percentage points,difference,,,bavaria,code09,19.5
@@ -2096,6 +2173,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage points,difference,,,bavaria,code09,11.179
 2022,percentage points,difference,,,bavaria,code09,9.247
 2023,percentage points,difference,,,bavaria,code09,10.04
+2030,percentage points,difference,…,,bavaria,code09,
 1996,percentage points,difference,,,berlin,code11,17.5
 1997,percentage points,difference,,,berlin,code11,17.3
 1998,percentage points,difference,,,berlin,code11,20.1
@@ -2122,6 +2200,9 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2019,percentage points,difference,,,berlin,code11,11.8
 2020,percentage points,difference,,,berlin,code11,0.6
 2021,percentage points,difference,,,berlin,code11,10.774
+2022,percentage points,difference,…,,berlin,code11,
+2023,percentage points,difference,…,,berlin,code11,
+2030,percentage points,difference,…,,berlin,code11,
 1996,percentage points,difference,,,brandenburg,code12,-5.3
 1997,percentage points,difference,,,brandenburg,code12,-1.2
 1998,percentage points,difference,,,brandenburg,code12,0.1
@@ -2150,6 +2231,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage points,difference,,,brandenburg,code12,2.428
 2022,percentage points,difference,,,brandenburg,code12,4.462
 2023,percentage points,difference,,,brandenburg,code12,6.684
+2030,percentage points,difference,…,,brandenburg,code12,
 1996,percentage points,difference,,,bremen,code04,14.2
 1997,percentage points,difference,,,bremen,code04,10.3
 1998,percentage points,difference,,,bremen,code04,8.2
@@ -2178,6 +2260,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage points,difference,,,bremen,code04,16.052
 2022,percentage points,difference,,,bremen,code04,19.354
 2023,percentage points,difference,,,bremen,code04,18.745
+2030,percentage points,difference,…,,bremen,code04,
 1996,percentage points,difference,,,hamburg,code02,9.3
 1997,percentage points,difference,,,hamburg,code02,7.3
 1998,percentage points,difference,,,hamburg,code02,8.8
@@ -2206,6 +2289,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage points,difference,,,hamburg,code02,8.83
 2022,percentage points,difference,,,hamburg,code02,8.97
 2023,percentage points,difference,,,hamburg,code02,9.812
+2030,percentage points,difference,…,,hamburg,code02,
 1996,percentage points,difference,,,hesse,code06,14.1
 1997,percentage points,difference,,,hesse,code06,12.7
 1998,percentage points,difference,,,hesse,code06,11.3
@@ -2234,6 +2318,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage points,difference,,,hesse,code06,7.222
 2022,percentage points,difference,,,hesse,code06,7.13
 2023,percentage points,difference,,,hesse,code06,6.726
+2030,percentage points,difference,…,,hesse,code06,
 1996,percentage points,difference,,,mecklenburg western pomerania,code13,3.4
 1997,percentage points,difference,,,mecklenburg western pomerania,code13,5.1
 1998,percentage points,difference,,,mecklenburg western pomerania,code13,16.4
@@ -2262,6 +2347,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage points,difference,,,mecklenburg western pomerania,code13,5.604
 2022,percentage points,difference,,,mecklenburg western pomerania,code13,9.824
 2023,percentage points,difference,,,mecklenburg western pomerania,code13,10.26
+2030,percentage points,difference,…,,mecklenburg western pomerania,code13,
 1996,percentage points,difference,,,lower saxony,code03,18.5
 1997,percentage points,difference,,,lower saxony,code03,18.4
 1998,percentage points,difference,,,lower saxony,code03,16.6
@@ -2290,6 +2376,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage points,difference,,,lower saxony,code03,13.792
 2022,percentage points,difference,,,lower saxony,code03,13.565
 2023,percentage points,difference,,,lower saxony,code03,16.77
+2030,percentage points,difference,…,,lower saxony,code03,
 1996,percentage points,difference,,,north rhine-westphalia,code05,8.0
 1997,percentage points,difference,,,north rhine-westphalia,code05,8.0
 1998,percentage points,difference,,,north rhine-westphalia,code05,7.9
@@ -2318,6 +2405,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage points,difference,,,north rhine-westphalia,code05,10.084
 2022,percentage points,difference,,,north rhine-westphalia,code05,9.771
 2023,percentage points,difference,,,north rhine-westphalia,code05,11.486
+2030,percentage points,difference,…,,north rhine-westphalia,code05,
 1996,percentage points,difference,,,rhineland palatinate,code07,13.1
 1997,percentage points,difference,,,rhineland palatinate,code07,14.3
 1998,percentage points,difference,,,rhineland palatinate,code07,16.6
@@ -2346,6 +2434,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage points,difference,,,rhineland palatinate,code07,13.103
 2022,percentage points,difference,,,rhineland palatinate,code07,10.824
 2023,percentage points,difference,,,rhineland palatinate,code07,15.721
+2030,percentage points,difference,…,,rhineland palatinate,code07,
 1996,percentage points,difference,,,saarland,code10,18.9
 1997,percentage points,difference,,,saarland,code10,12.8
 1998,percentage points,difference,,,saarland,code10,15.7
@@ -2374,6 +2463,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage points,difference,,,saarland,code10,11.973
 2022,percentage points,difference,,,saarland,code10,16.873
 2023,percentage points,difference,,,saarland,code10,19.38
+2030,percentage points,difference,…,,saarland,code10,
 1996,percentage points,difference,,,saxony,code14,26.4
 1997,percentage points,difference,,,saxony,code14,21.5
 1998,percentage points,difference,,,saxony,code14,20.9
@@ -2402,6 +2492,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage points,difference,,,saxony,code14,9.211
 2022,percentage points,difference,,,saxony,code14,10.728
 2023,percentage points,difference,,,saxony,code14,9.683
+2030,percentage points,difference,…,,saxony,code14,
 1996,percentage points,difference,,,saxony-anhalt,code15,18.9
 1997,percentage points,difference,,,saxony-anhalt,code15,29.3
 1998,percentage points,difference,,,saxony-anhalt,code15,25.2
@@ -2430,6 +2521,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage points,difference,,,saxony-anhalt,code15,17.117
 2022,percentage points,difference,,,saxony-anhalt,code15,11.941
 2023,percentage points,difference,,,saxony-anhalt,code15,27.472
+2030,percentage points,difference,…,,saxony-anhalt,code15,
 1996,percentage points,difference,,,schleswig-holstein,code01,13.7
 1997,percentage points,difference,,,schleswig-holstein,code01,16.0
 1998,percentage points,difference,,,schleswig-holstein,code01,14.1
@@ -2458,6 +2550,7 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage points,difference,,,schleswig-holstein,code01,14.309
 2022,percentage points,difference,,,schleswig-holstein,code01,15.998
 2023,percentage points,difference,,,schleswig-holstein,code01,18.296
+2030,percentage points,difference,…,,schleswig-holstein,code01,
 1996,percentage points,difference,,,thuringia,code16,25.6
 1997,percentage points,difference,,,thuringia,code16,27.3
 1998,percentage points,difference,,,thuringia,code16,25.5
@@ -2486,3 +2579,4 @@ Year,Units,Series,COMMENT_OBS_0,sex,federal state,GeoCode,Value
 2021,percentage points,difference,,,thuringia,code16,17.756
 2022,percentage points,difference,,,thuringia,code16,18.419
 2023,percentage points,difference,,,thuringia,code16,26.16
+2030,percentage points,difference,…,,thuringia,code16,
