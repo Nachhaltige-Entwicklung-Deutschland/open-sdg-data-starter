@@ -42,6 +42,7 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2006,Percentage,c) Adolescents,.,Female,,,
 2020,Percentage,c) Adolescents,.,Female,,,
 2022,Percentage,c) Adolescents,.,Female,,,
+2030,Percentage,c) Adolescents,…,Female,,,
 2003,Percentage,c) Adolescents,,Male,,,21.9
 2004,Percentage,c) Adolescents,,Male,,,24.2
 2005,Percentage,c) Adolescents,,Male,,,20.7
@@ -63,6 +64,7 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2006,Percentage,c) Adolescents,.,Male,,,
 2020,Percentage,c) Adolescents,.,Male,,,
 2022,Percentage,c) Adolescents,.,Male,,,
+2030,Percentage,c) Adolescents,…,Male,,,
 2003,Percentage,d) Adults,,,,,27.4
 2004,Percentage,d) Adults,.,,,,
 2005,Percentage,d) Adults,,,,,27.2
@@ -106,6 +108,7 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2006,Percentage,d) Adults,.,Female,,,
 2020,Percentage,d) Adults,.,Female,,,
 2022,Percentage,d) Adults,…,Female,,,
+2030,Percentage,d) Adults,…,Female,,,
 2003,Percentage,d) Adults,,Male,,,33.2
 2004,Percentage,d) Adults,.,Male,,,
 2005,Percentage,d) Adults,,Male,,,32.2
@@ -127,99 +130,356 @@ Year,Units,Time series,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2006,Percentage,d) Adults,.,Male,,,
 2020,Percentage,d) Adults,.,Male,,,
 2022,Percentage,d) Adults,…,Male,,,
+2030,Percentage,d) Adults,…,Male,,,
 2003,Percentage,d) Adults,,,Baden-Wuerttemberg,code08,25.53
+2004,Percentage,d) Adults,.,,Baden-Wuerttemberg,code08,
 2005,Percentage,d) Adults,,,Baden-Wuerttemberg,code08,24.5
+2007,Percentage,d) Adults,.,,Baden-Wuerttemberg,code08,
+2008,Percentage,d) Adults,.,,Baden-Wuerttemberg,code08,
 2009,Percentage,d) Adults,,,Baden-Wuerttemberg,code08,22.8
+2010,Percentage,d) Adults,.,,Baden-Wuerttemberg,code08,
+2011,Percentage,d) Adults,.,,Baden-Wuerttemberg,code08,
+2012,Percentage,d) Adults,.,,Baden-Wuerttemberg,code08,
 2013,Percentage,d) Adults,,,Baden-Wuerttemberg,code08,22.21
+2014,Percentage,d) Adults,.,,Baden-Wuerttemberg,code08,
+2015,Percentage,d) Adults,.,,Baden-Wuerttemberg,code08,
+2016,Percentage,d) Adults,.,,Baden-Wuerttemberg,code08,
 2017,Percentage,d) Adults,,,Baden-Wuerttemberg,code08,21.23
+2018,Percentage,d) Adults,.,,Baden-Wuerttemberg,code08,
+2019,Percentage,d) Adults,.,,Baden-Wuerttemberg,code08,
 2021,Percentage,d) Adults,p,,Baden-Wuerttemberg,code08,17.4
+2023,Percentage,d) Adults,…,,Baden-Wuerttemberg,code08,
+2006,Percentage,d) Adults,.,,Baden-Wuerttemberg,code08,
+2020,Percentage,d) Adults,.,,Baden-Wuerttemberg,code08,
+2022,Percentage,d) Adults,…,,Baden-Wuerttemberg,code08,
+2030,Percentage,d) Adults,…,,Baden-Wuerttemberg,code08,
 2003,Percentage,d) Adults,,,Bavaria,code09,25.12
+2004,Percentage,d) Adults,.,,Bavaria,code09,
 2005,Percentage,d) Adults,,,Bavaria,code09,24.2
+2007,Percentage,d) Adults,.,,Bavaria,code09,
+2008,Percentage,d) Adults,.,,Bavaria,code09,
 2009,Percentage,d) Adults,,,Bavaria,code09,23.5
+2010,Percentage,d) Adults,.,,Bavaria,code09,
+2011,Percentage,d) Adults,.,,Bavaria,code09,
+2012,Percentage,d) Adults,.,,Bavaria,code09,
 2013,Percentage,d) Adults,,,Bavaria,code09,22.15
+2014,Percentage,d) Adults,.,,Bavaria,code09,
+2015,Percentage,d) Adults,.,,Bavaria,code09,
+2016,Percentage,d) Adults,.,,Bavaria,code09,
 2017,Percentage,d) Adults,,,Bavaria,code09,20.51
+2018,Percentage,d) Adults,.,,Bavaria,code09,
+2019,Percentage,d) Adults,.,,Bavaria,code09,
 2021,Percentage,d) Adults,p,,Bavaria,code09,17.0
+2023,Percentage,d) Adults,…,,Bavaria,code09,
+2006,Percentage,d) Adults,.,,Bavaria,code09,
+2020,Percentage,d) Adults,.,,Bavaria,code09,
+2022,Percentage,d) Adults,…,,Bavaria,code09,
+2030,Percentage,d) Adults,…,,Bavaria,code09,
 2003,Percentage,d) Adults,,,Berlin,code11,34.12
+2004,Percentage,d) Adults,.,,Berlin,code11,
 2005,Percentage,d) Adults,,,Berlin,code11,32.7
+2007,Percentage,d) Adults,.,,Berlin,code11,
+2008,Percentage,d) Adults,.,,Berlin,code11,
 2009,Percentage,d) Adults,,,Berlin,code11,31.3
+2010,Percentage,d) Adults,.,,Berlin,code11,
+2011,Percentage,d) Adults,.,,Berlin,code11,
+2012,Percentage,d) Adults,.,,Berlin,code11,
 2013,Percentage,d) Adults,,,Berlin,code11,28.85
+2014,Percentage,d) Adults,.,,Berlin,code11,
+2015,Percentage,d) Adults,.,,Berlin,code11,
+2016,Percentage,d) Adults,.,,Berlin,code11,
 2017,Percentage,d) Adults,,,Berlin,code11,25.47
+2018,Percentage,d) Adults,.,,Berlin,code11,
+2019,Percentage,d) Adults,.,,Berlin,code11,
 2021,Percentage,d) Adults,p,,Berlin,code11,21.1
+2023,Percentage,d) Adults,…,,Berlin,code11,
+2006,Percentage,d) Adults,.,,Berlin,code11,
+2020,Percentage,d) Adults,.,,Berlin,code11,
+2022,Percentage,d) Adults,…,,Berlin,code11,
+2030,Percentage,d) Adults,…,,Berlin,code11,
 2003,Percentage,d) Adults,,,Brandenburg,code12,30.35
+2004,Percentage,d) Adults,.,,Brandenburg,code12,
 2005,Percentage,d) Adults,,,Brandenburg,code12,29.0
+2007,Percentage,d) Adults,.,,Brandenburg,code12,
+2008,Percentage,d) Adults,.,,Brandenburg,code12,
 2009,Percentage,d) Adults,,,Brandenburg,code12,28.0
+2010,Percentage,d) Adults,.,,Brandenburg,code12,
+2011,Percentage,d) Adults,.,,Brandenburg,code12,
+2012,Percentage,d) Adults,.,,Brandenburg,code12,
 2013,Percentage,d) Adults,,,Brandenburg,code12,25.77
+2014,Percentage,d) Adults,.,,Brandenburg,code12,
+2015,Percentage,d) Adults,.,,Brandenburg,code12,
+2016,Percentage,d) Adults,.,,Brandenburg,code12,
 2017,Percentage,d) Adults,,,Brandenburg,code12,24.47
+2018,Percentage,d) Adults,.,,Brandenburg,code12,
+2019,Percentage,d) Adults,.,,Brandenburg,code12,
 2021,Percentage,d) Adults,p,,Brandenburg,code12,19.4
+2023,Percentage,d) Adults,…,,Brandenburg,code12,
+2006,Percentage,d) Adults,.,,Brandenburg,code12,
+2020,Percentage,d) Adults,.,,Brandenburg,code12,
+2022,Percentage,d) Adults,…,,Brandenburg,code12,
+2030,Percentage,d) Adults,…,,Brandenburg,code12,
 2003,Percentage,d) Adults,,,Bremen,code04,33.85
+2004,Percentage,d) Adults,.,,Bremen,code04,
 2005,Percentage,d) Adults,,,Bremen,code04,30.8
+2007,Percentage,d) Adults,.,,Bremen,code04,
+2008,Percentage,d) Adults,.,,Bremen,code04,
 2009,Percentage,d) Adults,,,Bremen,code04,30.5
+2010,Percentage,d) Adults,.,,Bremen,code04,
+2011,Percentage,d) Adults,.,,Bremen,code04,
+2012,Percentage,d) Adults,.,,Bremen,code04,
 2013,Percentage,d) Adults,,,Bremen,code04,27.77
+2014,Percentage,d) Adults,.,,Bremen,code04,
+2015,Percentage,d) Adults,.,,Bremen,code04,
+2016,Percentage,d) Adults,.,,Bremen,code04,
 2017,Percentage,d) Adults,,,Bremen,code04,27.39
+2018,Percentage,d) Adults,.,,Bremen,code04,
+2019,Percentage,d) Adults,.,,Bremen,code04,
 2021,Percentage,d) Adults,p,,Bremen,code04,22.6
+2023,Percentage,d) Adults,…,,Bremen,code04,
+2006,Percentage,d) Adults,.,,Bremen,code04,
+2020,Percentage,d) Adults,.,,Bremen,code04,
+2022,Percentage,d) Adults,…,,Bremen,code04,
+2030,Percentage,d) Adults,…,,Bremen,code04,
 2003,Percentage,d) Adults,,,Hamburg,code02,30.95
+2004,Percentage,d) Adults,.,,Hamburg,code02,
 2005,Percentage,d) Adults,,,Hamburg,code02,29.8
+2007,Percentage,d) Adults,.,,Hamburg,code02,
+2008,Percentage,d) Adults,.,,Hamburg,code02,
 2009,Percentage,d) Adults,,,Hamburg,code02,26.7
+2010,Percentage,d) Adults,.,,Hamburg,code02,
+2011,Percentage,d) Adults,.,,Hamburg,code02,
+2012,Percentage,d) Adults,.,,Hamburg,code02,
 2013,Percentage,d) Adults,,,Hamburg,code02,25.64
+2014,Percentage,d) Adults,.,,Hamburg,code02,
+2015,Percentage,d) Adults,.,,Hamburg,code02,
+2016,Percentage,d) Adults,.,,Hamburg,code02,
 2017,Percentage,d) Adults,,,Hamburg,code02,23.14
+2018,Percentage,d) Adults,.,,Hamburg,code02,
+2019,Percentage,d) Adults,.,,Hamburg,code02,
 2021,Percentage,d) Adults,p,,Hamburg,code02,19.4
+2023,Percentage,d) Adults,…,,Hamburg,code02,
+2006,Percentage,d) Adults,.,,Hamburg,code02,
+2020,Percentage,d) Adults,.,,Hamburg,code02,
+2022,Percentage,d) Adults,…,,Hamburg,code02,
+2030,Percentage,d) Adults,…,,Hamburg,code02,
 2003,Percentage,d) Adults,,,Hesse,code06,27.15
+2004,Percentage,d) Adults,.,,Hesse,code06,
 2005,Percentage,d) Adults,,,Hesse,code06,25.9
+2007,Percentage,d) Adults,.,,Hesse,code06,
+2008,Percentage,d) Adults,.,,Hesse,code06,
 2009,Percentage,d) Adults,,,Hesse,code06,24.6
+2010,Percentage,d) Adults,.,,Hesse,code06,
+2011,Percentage,d) Adults,.,,Hesse,code06,
+2012,Percentage,d) Adults,.,,Hesse,code06,
 2013,Percentage,d) Adults,,,Hesse,code06,23.37
+2014,Percentage,d) Adults,.,,Hesse,code06,
+2015,Percentage,d) Adults,.,,Hesse,code06,
+2016,Percentage,d) Adults,.,,Hesse,code06,
 2017,Percentage,d) Adults,,,Hesse,code06,21.11
+2018,Percentage,d) Adults,.,,Hesse,code06,
+2019,Percentage,d) Adults,.,,Hesse,code06,
 2021,Percentage,d) Adults,p,,Hesse,code06,19.4
+2023,Percentage,d) Adults,…,,Hesse,code06,
+2006,Percentage,d) Adults,.,,Hesse,code06,
+2020,Percentage,d) Adults,.,,Hesse,code06,
+2022,Percentage,d) Adults,…,,Hesse,code06,
+2030,Percentage,d) Adults,…,,Hesse,code06,
 2003,Percentage,d) Adults,,,Mecklenburg Western Pomerania,code13,30.61
+2004,Percentage,d) Adults,.,,Mecklenburg Western Pomerania,code13,
 2005,Percentage,d) Adults,,,Mecklenburg Western Pomerania,code13,33.3
+2007,Percentage,d) Adults,.,,Mecklenburg Western Pomerania,code13,
+2008,Percentage,d) Adults,.,,Mecklenburg Western Pomerania,code13,
 2009,Percentage,d) Adults,,,Mecklenburg Western Pomerania,code13,30.4
+2010,Percentage,d) Adults,.,,Mecklenburg Western Pomerania,code13,
+2011,Percentage,d) Adults,.,,Mecklenburg Western Pomerania,code13,
+2012,Percentage,d) Adults,.,,Mecklenburg Western Pomerania,code13,
 2013,Percentage,d) Adults,,,Mecklenburg Western Pomerania,code13,28.22
+2014,Percentage,d) Adults,.,,Mecklenburg Western Pomerania,code13,
+2015,Percentage,d) Adults,.,,Mecklenburg Western Pomerania,code13,
+2016,Percentage,d) Adults,.,,Mecklenburg Western Pomerania,code13,
 2017,Percentage,d) Adults,,,Mecklenburg Western Pomerania,code13,27.66
+2018,Percentage,d) Adults,.,,Mecklenburg Western Pomerania,code13,
+2019,Percentage,d) Adults,.,,Mecklenburg Western Pomerania,code13,
 2021,Percentage,d) Adults,p,,Mecklenburg Western Pomerania,code13,23.5
+2023,Percentage,d) Adults,…,,Mecklenburg Western Pomerania,code13,
+2006,Percentage,d) Adults,.,,Mecklenburg Western Pomerania,code13,
+2020,Percentage,d) Adults,.,,Mecklenburg Western Pomerania,code13,
+2022,Percentage,d) Adults,…,,Mecklenburg Western Pomerania,code13,
+2030,Percentage,d) Adults,…,,Mecklenburg Western Pomerania,code13,
 2003,Percentage,d) Adults,,,Lower Saxony,code03,28.44
+2004,Percentage,d) Adults,.,,Lower Saxony,code03,
 2005,Percentage,d) Adults,,,Lower Saxony,code03,28.1
+2007,Percentage,d) Adults,.,,Lower Saxony,code03,
+2008,Percentage,d) Adults,.,,Lower Saxony,code03,
 2009,Percentage,d) Adults,,,Lower Saxony,code03,26.1
+2010,Percentage,d) Adults,.,,Lower Saxony,code03,
+2011,Percentage,d) Adults,.,,Lower Saxony,code03,
+2012,Percentage,d) Adults,.,,Lower Saxony,code03,
 2013,Percentage,d) Adults,,,Lower Saxony,code03,24.69
+2014,Percentage,d) Adults,.,,Lower Saxony,code03,
+2015,Percentage,d) Adults,.,,Lower Saxony,code03,
+2016,Percentage,d) Adults,.,,Lower Saxony,code03,
 2017,Percentage,d) Adults,,,Lower Saxony,code03,22.94
+2018,Percentage,d) Adults,.,,Lower Saxony,code03,
+2019,Percentage,d) Adults,.,,Lower Saxony,code03,
 2021,Percentage,d) Adults,p,,Lower Saxony,code03,18.8
+2023,Percentage,d) Adults,…,,Lower Saxony,code03,
+2006,Percentage,d) Adults,.,,Lower Saxony,code03,
+2020,Percentage,d) Adults,.,,Lower Saxony,code03,
+2022,Percentage,d) Adults,…,,Lower Saxony,code03,
+2030,Percentage,d) Adults,…,,Lower Saxony,code03,
 2003,Percentage,d) Adults,,,North Rhine-Westphalia,code05,27.63
+2004,Percentage,d) Adults,.,,North Rhine-Westphalia,code05,
 2005,Percentage,d) Adults,,,North Rhine-Westphalia,code05,29.0
+2007,Percentage,d) Adults,.,,North Rhine-Westphalia,code05,
+2008,Percentage,d) Adults,.,,North Rhine-Westphalia,code05,
 2009,Percentage,d) Adults,,,North Rhine-Westphalia,code05,26.9
+2010,Percentage,d) Adults,.,,North Rhine-Westphalia,code05,
+2011,Percentage,d) Adults,.,,North Rhine-Westphalia,code05,
+2012,Percentage,d) Adults,.,,North Rhine-Westphalia,code05,
 2013,Percentage,d) Adults,,,North Rhine-Westphalia,code05,25.92
+2014,Percentage,d) Adults,.,,North Rhine-Westphalia,code05,
+2015,Percentage,d) Adults,.,,North Rhine-Westphalia,code05,
+2016,Percentage,d) Adults,.,,North Rhine-Westphalia,code05,
 2017,Percentage,d) Adults,,,North Rhine-Westphalia,code05,22.64
+2018,Percentage,d) Adults,.,,North Rhine-Westphalia,code05,
+2019,Percentage,d) Adults,.,,North Rhine-Westphalia,code05,
 2021,Percentage,d) Adults,p,,North Rhine-Westphalia,code05,18.7
+2023,Percentage,d) Adults,…,,North Rhine-Westphalia,code05,
+2006,Percentage,d) Adults,.,,North Rhine-Westphalia,code05,
+2020,Percentage,d) Adults,.,,North Rhine-Westphalia,code05,
+2022,Percentage,d) Adults,…,,North Rhine-Westphalia,code05,
+2030,Percentage,d) Adults,…,,North Rhine-Westphalia,code05,
 2003,Percentage,d) Adults,,,Rhineland Palatinate,code07,27.59
+2004,Percentage,d) Adults,.,,Rhineland Palatinate,code07,
 2005,Percentage,d) Adults,,,Rhineland Palatinate,code07,26.0
+2007,Percentage,d) Adults,.,,Rhineland Palatinate,code07,
+2008,Percentage,d) Adults,.,,Rhineland Palatinate,code07,
 2009,Percentage,d) Adults,,,Rhineland Palatinate,code07,25.1
+2010,Percentage,d) Adults,.,,Rhineland Palatinate,code07,
+2011,Percentage,d) Adults,.,,Rhineland Palatinate,code07,
+2012,Percentage,d) Adults,.,,Rhineland Palatinate,code07,
 2013,Percentage,d) Adults,,,Rhineland Palatinate,code07,23.86
+2014,Percentage,d) Adults,.,,Rhineland Palatinate,code07,
+2015,Percentage,d) Adults,.,,Rhineland Palatinate,code07,
+2016,Percentage,d) Adults,.,,Rhineland Palatinate,code07,
 2017,Percentage,d) Adults,,,Rhineland Palatinate,code07,21.66
+2018,Percentage,d) Adults,.,,Rhineland Palatinate,code07,
+2019,Percentage,d) Adults,.,,Rhineland Palatinate,code07,
 2021,Percentage,d) Adults,p,,Rhineland Palatinate,code07,18.5
+2023,Percentage,d) Adults,…,,Rhineland Palatinate,code07,
+2006,Percentage,d) Adults,.,,Rhineland Palatinate,code07,
+2020,Percentage,d) Adults,.,,Rhineland Palatinate,code07,
+2022,Percentage,d) Adults,…,,Rhineland Palatinate,code07,
+2030,Percentage,d) Adults,…,,Rhineland Palatinate,code07,
 2003,Percentage,d) Adults,,,Saarland,code10,25.19
+2004,Percentage,d) Adults,.,,Saarland,code10,
 2005,Percentage,d) Adults,,,Saarland,code10,26.2
+2007,Percentage,d) Adults,.,,Saarland,code10,
+2008,Percentage,d) Adults,.,,Saarland,code10,
 2009,Percentage,d) Adults,,,Saarland,code10,25.3
+2010,Percentage,d) Adults,.,,Saarland,code10,
+2011,Percentage,d) Adults,.,,Saarland,code10,
+2012,Percentage,d) Adults,.,,Saarland,code10,
 2013,Percentage,d) Adults,,,Saarland,code10,23.51
+2014,Percentage,d) Adults,.,,Saarland,code10,
+2015,Percentage,d) Adults,.,,Saarland,code10,
+2016,Percentage,d) Adults,.,,Saarland,code10,
 2017,Percentage,d) Adults,,,Saarland,code10,20.59
+2018,Percentage,d) Adults,.,,Saarland,code10,
+2019,Percentage,d) Adults,.,,Saarland,code10,
 2021,Percentage,d) Adults,p,,Saarland,code10,18.1
+2023,Percentage,d) Adults,…,,Saarland,code10,
+2006,Percentage,d) Adults,.,,Saarland,code10,
+2020,Percentage,d) Adults,.,,Saarland,code10,
+2022,Percentage,d) Adults,…,,Saarland,code10,
+2030,Percentage,d) Adults,…,,Saarland,code10,
 2003,Percentage,d) Adults,,,Saxony,code14,24.92
+2004,Percentage,d) Adults,.,,Saxony,code14,
 2005,Percentage,d) Adults,,,Saxony,code14,24.4
+2007,Percentage,d) Adults,.,,Saxony,code14,
+2008,Percentage,d) Adults,.,,Saxony,code14,
 2009,Percentage,d) Adults,,,Saxony,code14,23.8
+2010,Percentage,d) Adults,.,,Saxony,code14,
+2011,Percentage,d) Adults,.,,Saxony,code14,
+2012,Percentage,d) Adults,.,,Saxony,code14,
 2013,Percentage,d) Adults,,,Saxony,code14,22.74
+2014,Percentage,d) Adults,.,,Saxony,code14,
+2015,Percentage,d) Adults,.,,Saxony,code14,
+2016,Percentage,d) Adults,.,,Saxony,code14,
 2017,Percentage,d) Adults,,,Saxony,code14,21.47
+2018,Percentage,d) Adults,.,,Saxony,code14,
+2019,Percentage,d) Adults,.,,Saxony,code14,
 2021,Percentage,d) Adults,p,,Saxony,code14,21.1
+2023,Percentage,d) Adults,…,,Saxony,code14,
+2006,Percentage,d) Adults,.,,Saxony,code14,
+2020,Percentage,d) Adults,.,,Saxony,code14,
+2022,Percentage,d) Adults,…,,Saxony,code14,
+2030,Percentage,d) Adults,…,,Saxony,code14,
 2003,Percentage,d) Adults,,,Saxony-Anhalt,code15,27.23
+2004,Percentage,d) Adults,.,,Saxony-Anhalt,code15,
 2005,Percentage,d) Adults,,,Saxony-Anhalt,code15,27.9
+2007,Percentage,d) Adults,.,,Saxony-Anhalt,code15,
+2008,Percentage,d) Adults,.,,Saxony-Anhalt,code15,
 2009,Percentage,d) Adults,,,Saxony-Anhalt,code15,28.9
+2010,Percentage,d) Adults,.,,Saxony-Anhalt,code15,
+2011,Percentage,d) Adults,.,,Saxony-Anhalt,code15,
+2012,Percentage,d) Adults,.,,Saxony-Anhalt,code15,
 2013,Percentage,d) Adults,,,Saxony-Anhalt,code15,27.85
+2014,Percentage,d) Adults,.,,Saxony-Anhalt,code15,
+2015,Percentage,d) Adults,.,,Saxony-Anhalt,code15,
+2016,Percentage,d) Adults,.,,Saxony-Anhalt,code15,
 2017,Percentage,d) Adults,,,Saxony-Anhalt,code15,24.77
+2018,Percentage,d) Adults,.,,Saxony-Anhalt,code15,
+2019,Percentage,d) Adults,.,,Saxony-Anhalt,code15,
 2021,Percentage,d) Adults,p,,Saxony-Anhalt,code15,22.8
+2023,Percentage,d) Adults,…,,Saxony-Anhalt,code15,
+2006,Percentage,d) Adults,.,,Saxony-Anhalt,code15,
+2020,Percentage,d) Adults,.,,Saxony-Anhalt,code15,
+2022,Percentage,d) Adults,…,,Saxony-Anhalt,code15,
+2030,Percentage,d) Adults,…,,Saxony-Anhalt,code15,
 2003,Percentage,d) Adults,,,Schleswig-Holstein,code01,30.31
+2004,Percentage,d) Adults,.,,Schleswig-Holstein,code01,
 2005,Percentage,d) Adults,,,Schleswig-Holstein,code01,29.5
+2007,Percentage,d) Adults,.,,Schleswig-Holstein,code01,
+2008,Percentage,d) Adults,.,,Schleswig-Holstein,code01,
 2009,Percentage,d) Adults,,,Schleswig-Holstein,code01,27.0
+2010,Percentage,d) Adults,.,,Schleswig-Holstein,code01,
+2011,Percentage,d) Adults,.,,Schleswig-Holstein,code01,
+2012,Percentage,d) Adults,.,,Schleswig-Holstein,code01,
 2013,Percentage,d) Adults,,,Schleswig-Holstein,code01,25.9
+2014,Percentage,d) Adults,.,,Schleswig-Holstein,code01,
+2015,Percentage,d) Adults,.,,Schleswig-Holstein,code01,
+2016,Percentage,d) Adults,.,,Schleswig-Holstein,code01,
 2017,Percentage,d) Adults,,,Schleswig-Holstein,code01,23.5
+2018,Percentage,d) Adults,.,,Schleswig-Holstein,code01,
+2019,Percentage,d) Adults,.,,Schleswig-Holstein,code01,
 2021,Percentage,d) Adults,p,,Schleswig-Holstein,code01,19.0
+2023,Percentage,d) Adults,…,,Schleswig-Holstein,code01,
+2006,Percentage,d) Adults,.,,Schleswig-Holstein,code01,
+2020,Percentage,d) Adults,.,,Schleswig-Holstein,code01,
+2022,Percentage,d) Adults,…,,Schleswig-Holstein,code01,
+2030,Percentage,d) Adults,…,,Schleswig-Holstein,code01,
 2003,Percentage,d) Adults,,,Thuringia,code16,26.9
+2004,Percentage,d) Adults,.,,Thuringia,code16,
 2005,Percentage,d) Adults,,,Thuringia,code16,27.2
+2007,Percentage,d) Adults,.,,Thuringia,code16,
+2008,Percentage,d) Adults,.,,Thuringia,code16,
 2009,Percentage,d) Adults,,,Thuringia,code16,26.7
+2010,Percentage,d) Adults,.,,Thuringia,code16,
+2011,Percentage,d) Adults,.,,Thuringia,code16,
+2012,Percentage,d) Adults,.,,Thuringia,code16,
 2013,Percentage,d) Adults,,,Thuringia,code16,26.11
+2014,Percentage,d) Adults,.,,Thuringia,code16,
+2015,Percentage,d) Adults,.,,Thuringia,code16,
+2016,Percentage,d) Adults,.,,Thuringia,code16,
 2017,Percentage,d) Adults,,,Thuringia,code16,26.24
+2018,Percentage,d) Adults,.,,Thuringia,code16,
+2019,Percentage,d) Adults,.,,Thuringia,code16,
 2021,Percentage,d) Adults,p,,Thuringia,code16,23.5
+2023,Percentage,d) Adults,…,,Thuringia,code16,
+2006,Percentage,d) Adults,.,,Thuringia,code16,
+2020,Percentage,d) Adults,.,,Thuringia,code16,
+2022,Percentage,d) Adults,…,,Thuringia,code16,
+2030,Percentage,d) Adults,…,,Thuringia,code16,

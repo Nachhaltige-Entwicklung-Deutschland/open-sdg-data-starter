@@ -33,7 +33,10 @@
               "enum": [
                 "Baden-Württemberg",
                 "Bayern",
+                "Berlin",
                 "Brandenburg",
+                "Bremen",
+                "Hamburg",
                 "Hessen",
                 "Mecklenburg-Vorpommern",
                 "Niedersachsen",
@@ -53,6 +56,19 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "x",
+                "…",
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",

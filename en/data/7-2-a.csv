@@ -20,8 +20,8 @@ Year,Units,COMMENT_OBS_0,Federal state,GeoCode,Value
 2023,Percentage,p,,,21.6
 2024,Percentage,p,,,22.4
 2030,Percentage,…,,,
-2040,Percentage,,,,
-2050,Percentage,,,,
+2040,Percentage,…,,,
+2050,Percentage,…,,,
 2005,Percentage,,Baden-Wuerttemberg,code08,8.241
 2006,Percentage,,Baden-Wuerttemberg,code08,10.011
 2007,Percentage,,Baden-Wuerttemberg,code08,11.893
@@ -37,6 +37,14 @@ Year,Units,COMMENT_OBS_0,Federal state,GeoCode,Value
 2017,Percentage,,Baden-Wuerttemberg,code08,15.617
 2018,Percentage,,Baden-Wuerttemberg,code08,16.262
 2019,Percentage,,Baden-Wuerttemberg,code08,16.38
+2020,Percentage,…,Baden-Wuerttemberg,code08,
+2021,Percentage,…,Baden-Wuerttemberg,code08,
+2022,Percentage,…,Baden-Wuerttemberg,code08,
+2023,Percentage,…,Baden-Wuerttemberg,code08,
+2024,Percentage,…,Baden-Wuerttemberg,code08,
+2030,Percentage,…,Baden-Wuerttemberg,code08,
+2040,Percentage,…,Baden-Wuerttemberg,code08,
+2050,Percentage,…,Baden-Wuerttemberg,code08,
 2005,Percentage,,Bavaria,code09,8.586
 2006,Percentage,,Bavaria,code09,9.501
 2007,Percentage,,Bavaria,code09,10.465
@@ -55,6 +63,11 @@ Year,Units,COMMENT_OBS_0,Federal state,GeoCode,Value
 2020,Percentage,,Bavaria,code09,24.227
 2021,Percentage,,Bavaria,code09,24.498
 2022,Percentage,,Bavaria,code09,25.04
+2023,Percentage,…,Bavaria,code09,
+2024,Percentage,…,Bavaria,code09,
+2030,Percentage,…,Bavaria,code09,
+2040,Percentage,…,Bavaria,code09,
+2050,Percentage,…,Bavaria,code09,
 2005,Percentage,,Berlin,code11,1.248
 2006,Percentage,,Berlin,code11,1.934
 2007,Percentage,,Berlin,code11,2.346
@@ -71,6 +84,13 @@ Year,Units,COMMENT_OBS_0,Federal state,GeoCode,Value
 2018,Percentage,,Berlin,code11,4.202
 2019,Percentage,,Berlin,code11,4.555
 2020,Percentage,,Berlin,code11,5.191
+2021,Percentage,…,Berlin,code11,
+2022,Percentage,…,Berlin,code11,
+2023,Percentage,…,Berlin,code11,
+2024,Percentage,…,Berlin,code11,
+2030,Percentage,…,Berlin,code11,
+2040,Percentage,…,Berlin,code11,
+2050,Percentage,…,Berlin,code11,
 2005,Percentage,,Brandenburg,code12,9.768
 2006,Percentage,,Brandenburg,code12,13.837
 2007,Percentage,,Brandenburg,code12,16.672
@@ -86,6 +106,14 @@ Year,Units,COMMENT_OBS_0,Federal state,GeoCode,Value
 2017,Percentage,,Brandenburg,code12,27.202
 2018,Percentage,,Brandenburg,code12,28.218
 2019,Percentage,,Brandenburg,code12,30.67
+2020,Percentage,…,Brandenburg,code12,
+2021,Percentage,…,Brandenburg,code12,
+2022,Percentage,…,Brandenburg,code12,
+2023,Percentage,…,Brandenburg,code12,
+2024,Percentage,…,Brandenburg,code12,
+2030,Percentage,…,Brandenburg,code12,
+2040,Percentage,…,Brandenburg,code12,
+2050,Percentage,…,Brandenburg,code12,
 2005,Percentage,,Bremen,code04,2.08
 2006,Percentage,,Bremen,code04,2.586
 2007,Percentage,,Bremen,code04,2.724
@@ -101,6 +129,14 @@ Year,Units,COMMENT_OBS_0,Federal state,GeoCode,Value
 2017,Percentage,,Bremen,code04,4.482
 2018,Percentage,,Bremen,code04,5.23
 2019,Percentage,,Bremen,code04,5.365
+2020,Percentage,…,Bremen,code04,
+2021,Percentage,…,Bremen,code04,
+2022,Percentage,…,Bremen,code04,
+2023,Percentage,…,Bremen,code04,
+2024,Percentage,…,Bremen,code04,
+2030,Percentage,…,Bremen,code04,
+2040,Percentage,…,Bremen,code04,
+2050,Percentage,…,Bremen,code04,
 2005,Percentage,,Hamburg,code02,2.748
 2006,Percentage,,Hamburg,code02,3.898
 2007,Percentage,,Hamburg,code02,4.569
@@ -120,6 +156,10 @@ Year,Units,COMMENT_OBS_0,Federal state,GeoCode,Value
 2021,Percentage,r,Hamburg,code02,6.299
 2022,Percentage,r,Hamburg,code02,6.449
 2023,Percentage,,Hamburg,code02,6.585
+2024,Percentage,…,Hamburg,code02,
+2030,Percentage,…,Hamburg,code02,
+2040,Percentage,…,Hamburg,code02,
+2050,Percentage,…,Hamburg,code02,
 2005,Percentage,,Hesse,code06,4.264
 2006,Percentage,,Hesse,code06,5.286
 2007,Percentage,,Hesse,code06,6.082
@@ -135,7 +175,40 @@ Year,Units,COMMENT_OBS_0,Federal state,GeoCode,Value
 2017,Percentage,,Hesse,code06,10.2
 2018,Percentage,,Hesse,code06,11.532
 2019,Percentage,p,Hesse,code06,11.527
+2020,Percentage,…,Hesse,code06,
+2021,Percentage,…,Hesse,code06,
+2022,Percentage,…,Hesse,code06,
+2023,Percentage,…,Hesse,code06,
+2024,Percentage,…,Hesse,code06,
+2030,Percentage,…,Hesse,code06,
+2040,Percentage,…,Hesse,code06,
+2050,Percentage,…,Hesse,code06,
+2005,Percentage,.,Mecklenburg Western Pomerania,code13,
+2006,Percentage,.,Mecklenburg Western Pomerania,code13,
+2007,Percentage,.,Mecklenburg Western Pomerania,code13,
+2008,Percentage,.,Mecklenburg Western Pomerania,code13,
+2009,Percentage,.,Mecklenburg Western Pomerania,code13,
+2010,Percentage,.,Mecklenburg Western Pomerania,code13,
+2011,Percentage,.,Mecklenburg Western Pomerania,code13,
+2012,Percentage,.,Mecklenburg Western Pomerania,code13,
+2013,Percentage,.,Mecklenburg Western Pomerania,code13,
+2014,Percentage,.,Mecklenburg Western Pomerania,code13,
+2015,Percentage,.,Mecklenburg Western Pomerania,code13,
+2016,Percentage,.,Mecklenburg Western Pomerania,code13,
+2017,Percentage,.,Mecklenburg Western Pomerania,code13,
+2018,Percentage,.,Mecklenburg Western Pomerania,code13,
+2019,Percentage,.,Mecklenburg Western Pomerania,code13,
+2020,Percentage,.,Mecklenburg Western Pomerania,code13,
+2021,Percentage,.,Mecklenburg Western Pomerania,code13,
+2022,Percentage,.,Mecklenburg Western Pomerania,code13,
+2023,Percentage,.,Mecklenburg Western Pomerania,code13,
+2024,Percentage,.,Mecklenburg Western Pomerania,code13,
+2030,Percentage,…,Mecklenburg Western Pomerania,code13,
+2040,Percentage,…,Mecklenburg Western Pomerania,code13,
+2050,Percentage,…,Mecklenburg Western Pomerania,code13,
+2005,Percentage,.,Lower Saxony,code03,
 2006,Percentage,,Lower Saxony,code03,8.704
+2007,Percentage,.,Lower Saxony,code03,
 2008,Percentage,,Lower Saxony,code03,10.888
 2009,Percentage,,Lower Saxony,code03,11.365
 2010,Percentage,,Lower Saxony,code03,12.26
@@ -152,6 +225,10 @@ Year,Units,COMMENT_OBS_0,Federal state,GeoCode,Value
 2021,Percentage,,Lower Saxony,code03,24.496
 2022,Percentage,r,Lower Saxony,code03,26.856
 2023,Percentage,p,Lower Saxony,code03,28.884
+2024,Percentage,…,Lower Saxony,code03,
+2030,Percentage,…,Lower Saxony,code03,
+2040,Percentage,…,Lower Saxony,code03,
+2050,Percentage,…,Lower Saxony,code03,
 2005,Percentage,,North Rhine-Westphalia,code05,3.177
 2006,Percentage,,North Rhine-Westphalia,code05,4.068
 2007,Percentage,,North Rhine-Westphalia,code05,4.63
@@ -170,6 +247,11 @@ Year,Units,COMMENT_OBS_0,Federal state,GeoCode,Value
 2020,Percentage,,North Rhine-Westphalia,code05,8.772
 2021,Percentage,r,North Rhine-Westphalia,code05,8.487
 2022,Percentage,,North Rhine-Westphalia,code05,9.691
+2023,Percentage,…,North Rhine-Westphalia,code05,
+2024,Percentage,…,North Rhine-Westphalia,code05,
+2030,Percentage,…,North Rhine-Westphalia,code05,
+2040,Percentage,…,North Rhine-Westphalia,code05,
+2050,Percentage,…,North Rhine-Westphalia,code05,
 2005,Percentage,,Rhineland Palatinate,code07,5.863
 2006,Percentage,,Rhineland Palatinate,code07,7.9
 2007,Percentage,,Rhineland Palatinate,code07,9.58
@@ -184,6 +266,15 @@ Year,Units,COMMENT_OBS_0,Federal state,GeoCode,Value
 2016,Percentage,,Rhineland Palatinate,code07,14.602
 2017,Percentage,,Rhineland Palatinate,code07,15.192
 2018,Percentage,,Rhineland Palatinate,code07,15.488
+2019,Percentage,…,Rhineland Palatinate,code07,
+2020,Percentage,…,Rhineland Palatinate,code07,
+2021,Percentage,…,Rhineland Palatinate,code07,
+2022,Percentage,…,Rhineland Palatinate,code07,
+2023,Percentage,…,Rhineland Palatinate,code07,
+2024,Percentage,…,Rhineland Palatinate,code07,
+2030,Percentage,…,Rhineland Palatinate,code07,
+2040,Percentage,…,Rhineland Palatinate,code07,
+2050,Percentage,…,Rhineland Palatinate,code07,
 2005,Percentage,,Saarland,code10,1.83
 2006,Percentage,,Saarland,code10,2.212
 2007,Percentage,,Saarland,code10,2.704
@@ -195,6 +286,18 @@ Year,Units,COMMENT_OBS_0,Federal state,GeoCode,Value
 2013,Percentage,,Saarland,code10,3.651
 2014,Percentage,,Saarland,code10,3.938
 2015,Percentage,,Saarland,code10,4.439
+2016,Percentage,…,Saarland,code10,
+2017,Percentage,…,Saarland,code10,
+2018,Percentage,…,Saarland,code10,
+2019,Percentage,…,Saarland,code10,
+2020,Percentage,…,Saarland,code10,
+2021,Percentage,…,Saarland,code10,
+2022,Percentage,…,Saarland,code10,
+2023,Percentage,…,Saarland,code10,
+2024,Percentage,…,Saarland,code10,
+2030,Percentage,…,Saarland,code10,
+2040,Percentage,…,Saarland,code10,
+2050,Percentage,…,Saarland,code10,
 2005,Percentage,,Saxony,code14,4.923
 2006,Percentage,,Saxony,code14,6.111
 2007,Percentage,,Saxony,code14,7.587
@@ -210,6 +313,14 @@ Year,Units,COMMENT_OBS_0,Federal state,GeoCode,Value
 2017,Percentage,,Saxony,code14,11.887
 2018,Percentage,,Saxony,code14,12.137
 2019,Percentage,,Saxony,code14,12.638
+2020,Percentage,…,Saxony,code14,
+2021,Percentage,…,Saxony,code14,
+2022,Percentage,…,Saxony,code14,
+2023,Percentage,…,Saxony,code14,
+2024,Percentage,…,Saxony,code14,
+2030,Percentage,…,Saxony,code14,
+2040,Percentage,…,Saxony,code14,
+2050,Percentage,…,Saxony,code14,
 2005,Percentage,,Saxony-Anhalt,code15,8.595
 2006,Percentage,,Saxony-Anhalt,code15,10.852
 2007,Percentage,,Saxony-Anhalt,code15,14.71
@@ -228,6 +339,11 @@ Year,Units,COMMENT_OBS_0,Federal state,GeoCode,Value
 2020,Percentage,,Saxony-Anhalt,code15,18.961
 2021,Percentage,,Saxony-Anhalt,code15,25.434
 2022,Percentage,,Saxony-Anhalt,code15,26.927
+2023,Percentage,…,Saxony-Anhalt,code15,
+2024,Percentage,…,Saxony-Anhalt,code15,
+2030,Percentage,…,Saxony-Anhalt,code15,
+2040,Percentage,…,Saxony-Anhalt,code15,
+2050,Percentage,…,Saxony-Anhalt,code15,
 2005,Percentage,,Schleswig-Holstein,code01,9.253
 2006,Percentage,,Schleswig-Holstein,code01,10.516
 2007,Percentage,,Schleswig-Holstein,code01,13.925
@@ -247,6 +363,10 @@ Year,Units,COMMENT_OBS_0,Federal state,GeoCode,Value
 2021,Percentage,r,Schleswig-Holstein,code01,39.35
 2022,Percentage,,Schleswig-Holstein,code01,44.98
 2023,Percentage,,Schleswig-Holstein,code01,47.926
+2024,Percentage,…,Schleswig-Holstein,code01,
+2030,Percentage,…,Schleswig-Holstein,code01,
+2040,Percentage,…,Schleswig-Holstein,code01,
+2050,Percentage,…,Schleswig-Holstein,code01,
 2005,Percentage,,Thuringia,code16,12.43
 2006,Percentage,,Thuringia,code16,13.675
 2007,Percentage,,Thuringia,code16,16.69
@@ -262,3 +382,11 @@ Year,Units,COMMENT_OBS_0,Federal state,GeoCode,Value
 2017,Percentage,,Thuringia,code16,21.184
 2018,Percentage,,Thuringia,code16,21.055
 2019,Percentage,,Thuringia,code16,21.566
+2020,Percentage,…,Thuringia,code16,
+2021,Percentage,…,Thuringia,code16,
+2022,Percentage,…,Thuringia,code16,
+2023,Percentage,…,Thuringia,code16,
+2024,Percentage,…,Thuringia,code16,
+2030,Percentage,…,Thuringia,code16,
+2040,Percentage,…,Thuringia,code16,
+2050,Percentage,…,Thuringia,code16,

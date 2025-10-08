@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -43,6 +43,7 @@
                 "r",
                 "p",
                 "…",
+                ".",
                 ""
               ]
             }
@@ -63,11 +64,11 @@
                 "lower saxony",
                 "north rhine-westphalia",
                 "rhineland palatinate",
+                "saarland",
                 "saxony",
                 "saxony-anhalt",
                 "schleswig-holstein",
                 "thuringia",
-                "saarland",
                 ""
               ]
             }

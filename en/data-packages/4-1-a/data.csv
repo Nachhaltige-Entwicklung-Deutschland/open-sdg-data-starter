@@ -50,6 +50,7 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2021,Percentage,r,Female,,,10.2
 2022,Percentage,,Female,,,11.1
 2023,Percentage,p,Female,,,10.8
+2030,Percentage,…,Female,,,
 1999,Percentage,,Male,,,14.2
 2000,Percentage,r,Male,,,14.4
 2001,Percentage,r,Male,,,12.0
@@ -75,6 +76,13 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2021,Percentage,r,Male,,,14.3
 2022,Percentage,,Male,,,14.5
 2023,Percentage,p,Male,,,15.3
+2030,Percentage,…,Male,,,
+1999,Percentage,,,Baden-Wuerttemberg,code08,
+2000,Percentage,.,,Baden-Wuerttemberg,code08,
+2001,Percentage,.,,Baden-Wuerttemberg,code08,
+2002,Percentage,.,,Baden-Wuerttemberg,code08,
+2003,Percentage,.,,Baden-Wuerttemberg,code08,
+2004,Percentage,.,,Baden-Wuerttemberg,code08,
 2005,Percentage,,,Baden-Wuerttemberg,code08,12.5
 2006,Percentage,,,Baden-Wuerttemberg,code08,12.4
 2007,Percentage,,,Baden-Wuerttemberg,code08,12.1
@@ -94,6 +102,13 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2021,Percentage,,,Baden-Wuerttemberg,code08,11.1
 2022,Percentage,,,Baden-Wuerttemberg,code08,11.4
 2023,Percentage,p,,Baden-Wuerttemberg,code08,12.2
+2030,Percentage,…,,Baden-Wuerttemberg,code08,
+1999,Percentage,,Female,Baden-Wuerttemberg,code08,
+2000,Percentage,.,Female,Baden-Wuerttemberg,code08,
+2001,Percentage,.,Female,Baden-Wuerttemberg,code08,
+2002,Percentage,.,Female,Baden-Wuerttemberg,code08,
+2003,Percentage,.,Female,Baden-Wuerttemberg,code08,
+2004,Percentage,.,Female,Baden-Wuerttemberg,code08,
 2005,Percentage,,Female,Baden-Wuerttemberg,code08,14.3
 2006,Percentage,,Female,Baden-Wuerttemberg,code08,13.4
 2007,Percentage,,Female,Baden-Wuerttemberg,code08,11.9
@@ -113,6 +128,13 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2021,Percentage,,Female,Baden-Wuerttemberg,code08,9.4
 2022,Percentage,,Female,Baden-Wuerttemberg,code08,9.5
 2023,Percentage,p,Female,Baden-Wuerttemberg,code08,9.7
+2030,Percentage,…,Female,Baden-Wuerttemberg,code08,
+1999,Percentage,,Male,Baden-Wuerttemberg,code08,
+2000,Percentage,.,Male,Baden-Wuerttemberg,code08,
+2001,Percentage,.,Male,Baden-Wuerttemberg,code08,
+2002,Percentage,.,Male,Baden-Wuerttemberg,code08,
+2003,Percentage,.,Male,Baden-Wuerttemberg,code08,
+2004,Percentage,.,Male,Baden-Wuerttemberg,code08,
 2005,Percentage,,Male,Baden-Wuerttemberg,code08,10.7
 2006,Percentage,,Male,Baden-Wuerttemberg,code08,11.3
 2007,Percentage,,Male,Baden-Wuerttemberg,code08,12.3
@@ -132,6 +154,13 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2021,Percentage,,Male,Baden-Wuerttemberg,code08,12.7
 2022,Percentage,,Male,Baden-Wuerttemberg,code08,13.2
 2023,Percentage,p,Male,Baden-Wuerttemberg,code08,14.5
+2030,Percentage,…,Male,Baden-Wuerttemberg,code08,
+1999,Percentage,,,Bavaria,code09,
+2000,Percentage,.,,Bavaria,code09,
+2001,Percentage,.,,Bavaria,code09,
+2002,Percentage,.,,Bavaria,code09,
+2003,Percentage,.,,Bavaria,code09,
+2004,Percentage,.,,Bavaria,code09,
 2005,Percentage,,,Bavaria,code09,11.2
 2006,Percentage,,,Bavaria,code09,12.6
 2007,Percentage,,,Bavaria,code09,11.2
@@ -151,6 +180,13 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2021,Percentage,,,Bavaria,code09,9.8
 2022,Percentage,,,Bavaria,code09,9.8
 2023,Percentage,p,,Bavaria,code09,10.7
+2030,Percentage,…,,Bavaria,code09,
+1999,Percentage,,Female,Bavaria,code09,
+2000,Percentage,.,Female,Bavaria,code09,
+2001,Percentage,.,Female,Bavaria,code09,
+2002,Percentage,.,Female,Bavaria,code09,
+2003,Percentage,.,Female,Bavaria,code09,
+2004,Percentage,.,Female,Bavaria,code09,
 2005,Percentage,,Female,Bavaria,code09,11.5
 2006,Percentage,,Female,Bavaria,code09,12.5
 2007,Percentage,,Female,Bavaria,code09,9.9
@@ -170,6 +206,13 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2021,Percentage,,Female,Bavaria,code09,7.9
 2022,Percentage,,Female,Bavaria,code09,8.7
 2023,Percentage,p,Female,Bavaria,code09,8.6
+2030,Percentage,…,Female,Bavaria,code09,
+1999,Percentage,,Male,Bavaria,code09,
+2000,Percentage,.,Male,Bavaria,code09,
+2001,Percentage,.,Male,Bavaria,code09,
+2002,Percentage,.,Male,Bavaria,code09,
+2003,Percentage,.,Male,Bavaria,code09,
+2004,Percentage,.,Male,Bavaria,code09,
 2005,Percentage,,Male,Bavaria,code09,10.8
 2006,Percentage,,Male,Bavaria,code09,12.6
 2007,Percentage,,Male,Bavaria,code09,12.6
@@ -189,6 +232,13 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2021,Percentage,,Male,Bavaria,code09,11.4
 2022,Percentage,,Male,Bavaria,code09,10.9
 2023,Percentage,p,Male,Bavaria,code09,12.6
+2030,Percentage,…,Male,Bavaria,code09,
+1999,Percentage,,,Berlin,code11,
+2000,Percentage,.,,Berlin,code11,
+2001,Percentage,.,,Berlin,code11,
+2002,Percentage,.,,Berlin,code11,
+2003,Percentage,.,,Berlin,code11,
+2004,Percentage,.,,Berlin,code11,
 2005,Percentage,,,Berlin,code11,18.7
 2006,Percentage,,,Berlin,code11,18.2
 2007,Percentage,,,Berlin,code11,13.0
@@ -208,6 +258,13 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2021,Percentage,,,Berlin,code11,9.5
 2022,Percentage,,,Berlin,code11,13.2
 2023,Percentage,p,,Berlin,code11,14.7
+2030,Percentage,…,,Berlin,code11,
+1999,Percentage,,Female,Berlin,code11,
+2000,Percentage,.,Female,Berlin,code11,
+2001,Percentage,.,Female,Berlin,code11,
+2002,Percentage,.,Female,Berlin,code11,
+2003,Percentage,.,Female,Berlin,code11,
+2004,Percentage,.,Female,Berlin,code11,
 2005,Percentage,,Female,Berlin,code11,17.0
 2006,Percentage,,Female,Berlin,code11,16.7
 2007,Percentage,,Female,Berlin,code11,11.5
@@ -223,7 +280,17 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2017,Percentage,,Female,Berlin,code11,11.0
 2018,Percentage,,Female,Berlin,code11,10.4
 2019,Percentage,,Female,Berlin,code11,8.0
+2020,Percentage,.,Female,Berlin,code11,
+2021,Percentage,.,Female,Berlin,code11,
+2022,Percentage,.,Female,Berlin,code11,
 2023,Percentage,p,Female,Berlin,code11,16.3
+2030,Percentage,…,Female,Berlin,code11,
+1999,Percentage,,Male,Berlin,code11,
+2000,Percentage,.,Male,Berlin,code11,
+2001,Percentage,.,Male,Berlin,code11,
+2002,Percentage,.,Male,Berlin,code11,
+2003,Percentage,.,Male,Berlin,code11,
+2004,Percentage,.,Male,Berlin,code11,
 2005,Percentage,,Male,Berlin,code11,20.5
 2006,Percentage,,Male,Berlin,code11,19.7
 2007,Percentage,,Male,Berlin,code11,14.4
@@ -239,7 +306,17 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2017,Percentage,,Male,Berlin,code11,15.5
 2018,Percentage,,Male,Berlin,code11,16.9
 2019,Percentage,,Male,Berlin,code11,15.0
+2020,Percentage,.,Male,Berlin,code11,
+2021,Percentage,,Male,Berlin,code11,
+2022,Percentage,.,Male,Berlin,code11,
 2023,Percentage,p,Male,Berlin,code11,13.1
+2030,Percentage,…,Male,Berlin,code11,
+1999,Percentage,,,Brandenburg,code12,
+2000,Percentage,.,,Brandenburg,code12,
+2001,Percentage,.,,Brandenburg,code12,
+2002,Percentage,.,,Brandenburg,code12,
+2003,Percentage,.,,Brandenburg,code12,
+2004,Percentage,.,,Brandenburg,code12,
 2005,Percentage,,,Brandenburg,code12,10.2
 2006,Percentage,,,Brandenburg,code12,11.1
 2007,Percentage,,,Brandenburg,code12,9.0
@@ -255,7 +332,17 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2017,Percentage,,,Brandenburg,code12,12.3
 2018,Percentage,,,Brandenburg,code12,11.5
 2019,Percentage,,,Brandenburg,code12,10.8
+2020,Percentage,.,,Brandenburg,code12,
+2021,Percentage,.,,Brandenburg,code12,
+2022,Percentage,.,,Brandenburg,code12,
 2023,Percentage,p,,Brandenburg,code12,12.0
+2030,Percentage,…,,Brandenburg,code12,
+1999,Percentage,,Female,Brandenburg,code12,
+2000,Percentage,.,Female,Brandenburg,code12,
+2001,Percentage,.,Female,Brandenburg,code12,
+2002,Percentage,.,Female,Brandenburg,code12,
+2003,Percentage,.,Female,Brandenburg,code12,
+2004,Percentage,.,Female,Brandenburg,code12,
 2005,Percentage,,Female,Brandenburg,code12,10.1
 2006,Percentage,,Female,Brandenburg,code12,9.7
 2007,Percentage,,Female,Brandenburg,code12,6.2
@@ -265,8 +352,23 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2011,Percentage,,Female,Brandenburg,code12,8.4
 2012,Percentage,,Female,Brandenburg,code12,10.3
 2013,Percentage,,Female,Brandenburg,code12,10.1
+2014,Percentage,.,Female,Brandenburg,code12,
 2015,Percentage,,Female,Brandenburg,code12,11.1
+2016,Percentage,.,Female,Brandenburg,code12,
+2017,Percentage,.,Female,Brandenburg,code12,
 2018,Percentage,,Female,Brandenburg,code12,10.4
+2019,Percentage,.,Female,Brandenburg,code12,
+2020,Percentage,.,Female,Brandenburg,code12,
+2021,Percentage,.,Female,Brandenburg,code12,
+2022,Percentage,.,Female,Brandenburg,code12,
+2023,Percentage,.,Female,Brandenburg,code12,
+2030,Percentage,…,Female,Brandenburg,code12,
+1999,Percentage,,Male,Brandenburg,code12,
+2000,Percentage,.,Male,Brandenburg,code12,
+2001,Percentage,.,Male,Brandenburg,code12,
+2002,Percentage,.,Male,Brandenburg,code12,
+2003,Percentage,.,Male,Brandenburg,code12,
+2004,Percentage,.,Male,Brandenburg,code12,
 2005,Percentage,,Male,Brandenburg,code12,10.3
 2006,Percentage,,Male,Brandenburg,code12,12.4
 2007,Percentage,,Male,Brandenburg,code12,11.5
@@ -282,6 +384,17 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2017,Percentage,,Male,Brandenburg,code12,15.0
 2018,Percentage,,Male,Brandenburg,code12,12.4
 2019,Percentage,,Male,Brandenburg,code12,13.6
+2020,Percentage,.,Male,Brandenburg,code12,
+2021,Percentage,.,Male,Brandenburg,code12,
+2022,Percentage,.,Male,Brandenburg,code12,
+2023,Percentage,.,Male,Brandenburg,code12,
+2030,Percentage,…,Male,Brandenburg,code12,
+1999,Percentage,,,Bremen,code04,
+2000,Percentage,.,,Bremen,code04,
+2001,Percentage,.,,Bremen,code04,
+2002,Percentage,.,,Bremen,code04,
+2003,Percentage,.,,Bremen,code04,
+2004,Percentage,.,,Bremen,code04,
 2005,Percentage,,,Bremen,code04,19.1
 2006,Percentage,,,Bremen,code04,17.5
 2007,Percentage,,,Bremen,code04,15.0
@@ -297,15 +410,69 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2017,Percentage,,,Bremen,code04,10.9
 2018,Percentage,,,Bremen,code04,14.6
 2019,Percentage,,,Bremen,code04,16.0
+2020,Percentage,.,,Bremen,code04,
+2021,Percentage,.,,Bremen,code04,
 2022,Percentage,,,Bremen,code04,20.6
 2023,Percentage,p,,Bremen,code04,21.5
+2030,Percentage,…,,Bremen,code04,
+1999,Percentage,,Female,Bremen,code04,
+2000,Percentage,.,Female,Bremen,code04,
+2001,Percentage,.,Female,Bremen,code04,
+2002,Percentage,.,Female,Bremen,code04,
+2003,Percentage,.,Female,Bremen,code04,
+2004,Percentage,.,Female,Bremen,code04,
 2005,Percentage,,Female,Bremen,code04,19.8
 2006,Percentage,,Female,Bremen,code04,20.0
+2007,Percentage,.,Female,Bremen,code04,
+2008,Percentage,.,Female,Bremen,code04,
+2009,Percentage,.,Female,Bremen,code04,
+2010,Percentage,.,Female,Bremen,code04,
+2011,Percentage,.,Female,Bremen,code04,
+2012,Percentage,.,Female,Bremen,code04,
+2013,Percentage,.,Female,Bremen,code04,
+2014,Percentage,.,Female,Bremen,code04,
+2015,Percentage,.,Female,Bremen,code04,
+2016,Percentage,.,Female,Bremen,code04,
+2017,Percentage,.,Female,Bremen,code04,
+2018,Percentage,.,Female,Bremen,code04,
+2019,Percentage,.,Female,Bremen,code04,
+2020,Percentage,.,Female,Bremen,code04,
+2021,Percentage,.,Female,Bremen,code04,
+2022,Percentage,.,Female,Bremen,code04,
+2023,Percentage,.,Female,Bremen,code04,
+2030,Percentage,…,Female,Bremen,code04,
+1999,Percentage,,Male,Bremen,code04,
+2000,Percentage,.,Male,Bremen,code04,
+2001,Percentage,.,Male,Bremen,code04,
+2002,Percentage,.,Male,Bremen,code04,
+2003,Percentage,.,Male,Bremen,code04,
+2004,Percentage,.,Male,Bremen,code04,
 2005,Percentage,,Male,Bremen,code04,18.2
 2006,Percentage,,Male,Bremen,code04,14.8
 2007,Percentage,,Male,Bremen,code04,19.2
+2008,Percentage,.,Male,Bremen,code04,
+2009,Percentage,.,Male,Bremen,code04,
+2010,Percentage,.,Male,Bremen,code04,
+2011,Percentage,.,Male,Bremen,code04,
+2012,Percentage,.,Male,Bremen,code04,
+2013,Percentage,.,Male,Bremen,code04,
+2014,Percentage,.,Male,Bremen,code04,
+2015,Percentage,.,Male,Bremen,code04,
+2016,Percentage,.,Male,Bremen,code04,
+2017,Percentage,.,Male,Bremen,code04,
 2018,Percentage,,Male,Bremen,code04,17.7
 2019,Percentage,,Male,Bremen,code04,17.7
+2020,Percentage,.,Male,Bremen,code04,
+2021,Percentage,.,Male,Bremen,code04,
+2022,Percentage,.,Male,Bremen,code04,
+2023,Percentage,.,Male,Bremen,code04,
+2030,Percentage,…,Male,Bremen,code04,
+1999,Percentage,,,Hamburg,code02,
+2000,Percentage,.,,Hamburg,code02,
+2001,Percentage,.,,Hamburg,code02,
+2002,Percentage,.,,Hamburg,code02,
+2003,Percentage,.,,Hamburg,code02,
+2004,Percentage,.,,Hamburg,code02,
 2005,Percentage,,,Hamburg,code02,21.2
 2006,Percentage,,,Hamburg,code02,16.7
 2007,Percentage,,,Hamburg,code02,15.5
@@ -321,8 +488,17 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2017,Percentage,,,Hamburg,code02,11.4
 2018,Percentage,,,Hamburg,code02,11.6
 2019,Percentage,,,Hamburg,code02,14.0
+2020,Percentage,.,,Hamburg,code02,
+2021,Percentage,.,,Hamburg,code02,
 2022,Percentage,,,Hamburg,code02,14.0
 2023,Percentage,p,,Hamburg,code02,13.4
+2030,Percentage,…,,Hamburg,code02,
+1999,Percentage,,Female,Hamburg,code02,
+2000,Percentage,.,Female,Hamburg,code02,
+2001,Percentage,.,Female,Hamburg,code02,
+2002,Percentage,.,Female,Hamburg,code02,
+2003,Percentage,.,Female,Hamburg,code02,
+2004,Percentage,.,Female,Hamburg,code02,
 2005,Percentage,,Female,Hamburg,code02,21.9
 2006,Percentage,,Female,Hamburg,code02,15.9
 2007,Percentage,,Female,Hamburg,code02,14.1
@@ -338,6 +514,17 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2017,Percentage,,Female,Hamburg,code02,10.7
 2018,Percentage,,Female,Hamburg,code02,12.2
 2019,Percentage,,Female,Hamburg,code02,13.4
+2020,Percentage,.,Female,Hamburg,code02,
+2021,Percentage,.,Female,Hamburg,code02,
+2022,Percentage,.,Female,Hamburg,code02,
+2023,Percentage,.,Female,Hamburg,code02,
+2030,Percentage,…,Female,Hamburg,code02,
+1999,Percentage,,Male,Hamburg,code02,
+2000,Percentage,.,Male,Hamburg,code02,
+2001,Percentage,.,Male,Hamburg,code02,
+2002,Percentage,.,Male,Hamburg,code02,
+2003,Percentage,.,Male,Hamburg,code02,
+2004,Percentage,.,Male,Hamburg,code02,
 2005,Percentage,,Male,Hamburg,code02,20.4
 2006,Percentage,,Male,Hamburg,code02,17.7
 2007,Percentage,,Male,Hamburg,code02,16.7
@@ -353,6 +540,17 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2017,Percentage,,Male,Hamburg,code02,12.1
 2018,Percentage,,Male,Hamburg,code02,11.0
 2019,Percentage,,Male,Hamburg,code02,14.4
+2020,Percentage,.,Male,Hamburg,code02,
+2021,Percentage,.,Male,Hamburg,code02,
+2022,Percentage,.,Male,Hamburg,code02,
+2023,Percentage,.,Male,Hamburg,code02,
+2030,Percentage,…,Male,Hamburg,code02,
+1999,Percentage,,,Hesse,code06,
+2000,Percentage,.,,Hesse,code06,
+2001,Percentage,.,,Hesse,code06,
+2002,Percentage,.,,Hesse,code06,
+2003,Percentage,.,,Hesse,code06,
+2004,Percentage,.,,Hesse,code06,
 2005,Percentage,,,Hesse,code06,13.3
 2006,Percentage,,,Hesse,code06,14.7
 2007,Percentage,,,Hesse,code06,12.1
@@ -372,6 +570,13 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2021,Percentage,,,Hesse,code06,13.6
 2022,Percentage,,,Hesse,code06,14.6
 2023,Percentage,p,,Hesse,code06,14.9
+2030,Percentage,…,,Hesse,code06,
+1999,Percentage,,Female,Hesse,code06,
+2000,Percentage,.,Female,Hesse,code06,
+2001,Percentage,.,Female,Hesse,code06,
+2002,Percentage,.,Female,Hesse,code06,
+2003,Percentage,.,Female,Hesse,code06,
+2004,Percentage,.,Female,Hesse,code06,
 2005,Percentage,,Female,Hesse,code06,12.7
 2006,Percentage,,Female,Hesse,code06,13.8
 2007,Percentage,,Female,Hesse,code06,13.7
@@ -391,6 +596,13 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2021,Percentage,,Female,Hesse,code06,10.6
 2022,Percentage,,Female,Hesse,code06,11.9
 2023,Percentage,p,Female,Hesse,code06,12.7
+2030,Percentage,…,Female,Hesse,code06,
+1999,Percentage,,Male,Hesse,code06,
+2000,Percentage,.,Male,Hesse,code06,
+2001,Percentage,.,Male,Hesse,code06,
+2002,Percentage,.,Male,Hesse,code06,
+2003,Percentage,.,Male,Hesse,code06,
+2004,Percentage,.,Male,Hesse,code06,
 2005,Percentage,,Male,Hesse,code06,13.9
 2006,Percentage,,Male,Hesse,code06,15.6
 2007,Percentage,,Male,Hesse,code06,10.5
@@ -410,6 +622,13 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2021,Percentage,,Male,Hesse,code06,16.3
 2022,Percentage,,Male,Hesse,code06,17.2
 2023,Percentage,p,Male,Hesse,code06,17.0
+2030,Percentage,…,Male,Hesse,code06,
+1999,Percentage,,,Mecklenburg Western Pomerania,code13,
+2000,Percentage,.,,Mecklenburg Western Pomerania,code13,
+2001,Percentage,.,,Mecklenburg Western Pomerania,code13,
+2002,Percentage,.,,Mecklenburg Western Pomerania,code13,
+2003,Percentage,.,,Mecklenburg Western Pomerania,code13,
+2004,Percentage,.,,Mecklenburg Western Pomerania,code13,
 2005,Percentage,,,Mecklenburg Western Pomerania,code13,14.0
 2006,Percentage,,,Mecklenburg Western Pomerania,code13,12.9
 2007,Percentage,,,Mecklenburg Western Pomerania,code13,13.1
@@ -425,15 +644,43 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2017,Percentage,,,Mecklenburg Western Pomerania,code13,9.8
 2018,Percentage,,,Mecklenburg Western Pomerania,code13,11.1
 2019,Percentage,,,Mecklenburg Western Pomerania,code13,11.4
+2020,Percentage,.,,Mecklenburg Western Pomerania,code13,
+2021,Percentage,.,,Mecklenburg Western Pomerania,code13,
 2022,Percentage,,,Mecklenburg Western Pomerania,code13,14.4
 2023,Percentage,p,,Mecklenburg Western Pomerania,code13,14.2
+2030,Percentage,…,,Mecklenburg Western Pomerania,code13,
+1999,Percentage,,Female,Mecklenburg Western Pomerania,code13,
+2000,Percentage,.,Female,Mecklenburg Western Pomerania,code13,
+2001,Percentage,.,Female,Mecklenburg Western Pomerania,code13,
+2002,Percentage,.,Female,Mecklenburg Western Pomerania,code13,
+2003,Percentage,.,Female,Mecklenburg Western Pomerania,code13,
+2004,Percentage,.,Female,Mecklenburg Western Pomerania,code13,
 2005,Percentage,,Female,Mecklenburg Western Pomerania,code13,12.7
 2006,Percentage,,Female,Mecklenburg Western Pomerania,code13,12.7
 2007,Percentage,,Female,Mecklenburg Western Pomerania,code13,12.1
 2008,Percentage,,Female,Mecklenburg Western Pomerania,code13,8.3
 2009,Percentage,,Female,Mecklenburg Western Pomerania,code13,8.9
+2010,Percentage,.,Female,Mecklenburg Western Pomerania,code13,
 2011,Percentage,,Female,Mecklenburg Western Pomerania,code13,8.8
 2012,Percentage,,Female,Mecklenburg Western Pomerania,code13,10.9
+2013,Percentage,.,Female,Mecklenburg Western Pomerania,code13,
+2014,Percentage,.,Female,Mecklenburg Western Pomerania,code13,
+2015,Percentage,.,Female,Mecklenburg Western Pomerania,code13,
+2016,Percentage,.,Female,Mecklenburg Western Pomerania,code13,
+2017,Percentage,.,Female,Mecklenburg Western Pomerania,code13,
+2018,Percentage,.,Female,Mecklenburg Western Pomerania,code13,
+2019,Percentage,.,Female,Mecklenburg Western Pomerania,code13,
+2020,Percentage,.,Female,Mecklenburg Western Pomerania,code13,
+2021,Percentage,.,Female,Mecklenburg Western Pomerania,code13,
+2022,Percentage,.,Female,Mecklenburg Western Pomerania,code13,
+2023,Percentage,.,Female,Mecklenburg Western Pomerania,code13,
+2030,Percentage,…,Female,Mecklenburg Western Pomerania,code13,
+1999,Percentage,,Male,Mecklenburg Western Pomerania,code13,
+2000,Percentage,.,Male,Mecklenburg Western Pomerania,code13,
+2001,Percentage,.,Male,Mecklenburg Western Pomerania,code13,
+2002,Percentage,.,Male,Mecklenburg Western Pomerania,code13,
+2003,Percentage,.,Male,Mecklenburg Western Pomerania,code13,
+2004,Percentage,.,Male,Mecklenburg Western Pomerania,code13,
 2005,Percentage,,Male,Mecklenburg Western Pomerania,code13,15.0
 2006,Percentage,,Male,Mecklenburg Western Pomerania,code13,13.1
 2007,Percentage,,Male,Mecklenburg Western Pomerania,code13,14.0
@@ -442,9 +689,24 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2010,Percentage,,Male,Mecklenburg Western Pomerania,code13,11.6
 2011,Percentage,,Male,Mecklenburg Western Pomerania,code13,10.9
 2012,Percentage,,Male,Mecklenburg Western Pomerania,code13,11.0
+2013,Percentage,.,Male,Mecklenburg Western Pomerania,code13,
+2014,Percentage,.,Male,Mecklenburg Western Pomerania,code13,
+2015,Percentage,.,Male,Mecklenburg Western Pomerania,code13,
 2016,Percentage,,Male,Mecklenburg Western Pomerania,code13,14.3
+2017,Percentage,.,Male,Mecklenburg Western Pomerania,code13,
 2018,Percentage,,Male,Mecklenburg Western Pomerania,code13,12.6
 2019,Percentage,,Male,Mecklenburg Western Pomerania,code13,11.8
+2020,Percentage,.,Male,Mecklenburg Western Pomerania,code13,
+2021,Percentage,.,Male,Mecklenburg Western Pomerania,code13,
+2022,Percentage,.,Male,Mecklenburg Western Pomerania,code13,
+2023,Percentage,.,Male,Mecklenburg Western Pomerania,code13,
+2030,Percentage,…,Male,Mecklenburg Western Pomerania,code13,
+1999,Percentage,,,Lower Saxony,code03,
+2000,Percentage,.,,Lower Saxony,code03,
+2001,Percentage,.,,Lower Saxony,code03,
+2002,Percentage,.,,Lower Saxony,code03,
+2003,Percentage,.,,Lower Saxony,code03,
+2004,Percentage,.,,Lower Saxony,code03,
 2005,Percentage,,,Lower Saxony,code03,16.0
 2006,Percentage,,,Lower Saxony,code03,14.6
 2007,Percentage,,,Lower Saxony,code03,14.0
@@ -464,6 +726,13 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2021,Percentage,,,Lower Saxony,code03,12.2
 2022,Percentage,,,Lower Saxony,code03,13.8
 2023,Percentage,p,,Lower Saxony,code03,15.0
+2030,Percentage,…,,Lower Saxony,code03,
+1999,Percentage,,Female,Lower Saxony,code03,
+2000,Percentage,.,Female,Lower Saxony,code03,
+2001,Percentage,.,Female,Lower Saxony,code03,
+2002,Percentage,.,Female,Lower Saxony,code03,
+2003,Percentage,.,Female,Lower Saxony,code03,
+2004,Percentage,.,Female,Lower Saxony,code03,
 2005,Percentage,,Female,Lower Saxony,code03,18.5
 2006,Percentage,,Female,Lower Saxony,code03,14.3
 2007,Percentage,,Female,Lower Saxony,code03,13.6
@@ -483,6 +752,13 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2021,Percentage,,Female,Lower Saxony,code03,10.8
 2022,Percentage,,Female,Lower Saxony,code03,12.3
 2023,Percentage,p,Female,Lower Saxony,code03,11.8
+2030,Percentage,…,Female,Lower Saxony,code03,
+1999,Percentage,,Male,Lower Saxony,code03,
+2000,Percentage,.,Male,Lower Saxony,code03,
+2001,Percentage,.,Male,Lower Saxony,code03,
+2002,Percentage,.,Male,Lower Saxony,code03,
+2003,Percentage,.,Male,Lower Saxony,code03,
+2004,Percentage,.,Male,Lower Saxony,code03,
 2005,Percentage,,Male,Lower Saxony,code03,13.7
 2006,Percentage,,Male,Lower Saxony,code03,14.9
 2007,Percentage,,Male,Lower Saxony,code03,14.3
@@ -502,6 +778,13 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2021,Percentage,,Male,Lower Saxony,code03,13.5
 2022,Percentage,,Male,Lower Saxony,code03,15.2
 2023,Percentage,p,Male,Lower Saxony,code03,18.2
+2030,Percentage,…,Male,Lower Saxony,code03,
+1999,Percentage,,,North Rhine-Westphalia,code05,
+2000,Percentage,.,,North Rhine-Westphalia,code05,
+2001,Percentage,.,,North Rhine-Westphalia,code05,
+2002,Percentage,.,,North Rhine-Westphalia,code05,
+2003,Percentage,.,,North Rhine-Westphalia,code05,
+2004,Percentage,.,,North Rhine-Westphalia,code05,
 2005,Percentage,,,North Rhine-Westphalia,code05,15.8
 2006,Percentage,,,North Rhine-Westphalia,code05,16.7
 2007,Percentage,,,North Rhine-Westphalia,code05,15.0
@@ -521,6 +804,13 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2021,Percentage,,,North Rhine-Westphalia,code05,11.8
 2022,Percentage,,,North Rhine-Westphalia,code05,12.8
 2023,Percentage,p,,North Rhine-Westphalia,code05,12.8
+2030,Percentage,…,,North Rhine-Westphalia,code05,
+1999,Percentage,,Female,North Rhine-Westphalia,code05,
+2000,Percentage,.,Female,North Rhine-Westphalia,code05,
+2001,Percentage,.,Female,North Rhine-Westphalia,code05,
+2002,Percentage,.,Female,North Rhine-Westphalia,code05,
+2003,Percentage,.,Female,North Rhine-Westphalia,code05,
+2004,Percentage,.,Female,North Rhine-Westphalia,code05,
 2005,Percentage,,Female,North Rhine-Westphalia,code05,15.6
 2006,Percentage,,Female,North Rhine-Westphalia,code05,16.0
 2007,Percentage,,Female,North Rhine-Westphalia,code05,13.9
@@ -540,6 +830,13 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2021,Percentage,,Female,North Rhine-Westphalia,code05,9.8
 2022,Percentage,,Female,North Rhine-Westphalia,code05,11.1
 2023,Percentage,p,Female,North Rhine-Westphalia,code05,10.6
+2030,Percentage,…,Female,North Rhine-Westphalia,code05,
+1999,Percentage,,Male,North Rhine-Westphalia,code05,
+2000,Percentage,.,Male,North Rhine-Westphalia,code05,
+2001,Percentage,.,Male,North Rhine-Westphalia,code05,
+2002,Percentage,.,Male,North Rhine-Westphalia,code05,
+2003,Percentage,.,Male,North Rhine-Westphalia,code05,
+2004,Percentage,.,Male,North Rhine-Westphalia,code05,
 2005,Percentage,,Male,North Rhine-Westphalia,code05,16.0
 2006,Percentage,,Male,North Rhine-Westphalia,code05,17.4
 2007,Percentage,,Male,North Rhine-Westphalia,code05,16.1
@@ -559,6 +856,13 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2021,Percentage,,Male,North Rhine-Westphalia,code05,13.6
 2022,Percentage,,Male,North Rhine-Westphalia,code05,14.5
 2023,Percentage,p,Male,North Rhine-Westphalia,code05,14.9
+2030,Percentage,…,Male,North Rhine-Westphalia,code05,
+1999,Percentage,,,Rhineland Palatinate,code07,
+2000,Percentage,.,,Rhineland Palatinate,code07,
+2001,Percentage,.,,Rhineland Palatinate,code07,
+2002,Percentage,.,,Rhineland Palatinate,code07,
+2003,Percentage,.,,Rhineland Palatinate,code07,
+2004,Percentage,.,,Rhineland Palatinate,code07,
 2005,Percentage,,,Rhineland Palatinate,code07,16.4
 2006,Percentage,,,Rhineland Palatinate,code07,15.3
 2007,Percentage,,,Rhineland Palatinate,code07,15.5
@@ -578,6 +882,13 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2021,Percentage,,,Rhineland Palatinate,code07,13.0
 2022,Percentage,,,Rhineland Palatinate,code07,13.8
 2023,Percentage,p,,Rhineland Palatinate,code07,14.0
+2030,Percentage,…,,Rhineland Palatinate,code07,
+1999,Percentage,,Female,Rhineland Palatinate,code07,
+2000,Percentage,.,Female,Rhineland Palatinate,code07,
+2001,Percentage,.,Female,Rhineland Palatinate,code07,
+2002,Percentage,.,Female,Rhineland Palatinate,code07,
+2003,Percentage,.,Female,Rhineland Palatinate,code07,
+2004,Percentage,.,Female,Rhineland Palatinate,code07,
 2005,Percentage,,Female,Rhineland Palatinate,code07,17.6
 2006,Percentage,,Female,Rhineland Palatinate,code07,16.5
 2007,Percentage,,Female,Rhineland Palatinate,code07,13.0
@@ -593,9 +904,17 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2017,Percentage,,Female,Rhineland Palatinate,code07,10.0
 2018,Percentage,,Female,Rhineland Palatinate,code07,9.6
 2019,Percentage,,Female,Rhineland Palatinate,code07,10.57
+2020,Percentage,.,Female,Rhineland Palatinate,code07,
 2021,Percentage,,Female,Rhineland Palatinate,code07,10.8
 2022,Percentage,,Female,Rhineland Palatinate,code07,12.2
 2023,Percentage,p,Female,Rhineland Palatinate,code07,11.6
+2030,Percentage,…,Female,Rhineland Palatinate,code07,
+1999,Percentage,,Male,Rhineland Palatinate,code07,
+2000,Percentage,.,Male,Rhineland Palatinate,code07,
+2001,Percentage,.,Male,Rhineland Palatinate,code07,
+2002,Percentage,.,Male,Rhineland Palatinate,code07,
+2003,Percentage,.,Male,Rhineland Palatinate,code07,
+2004,Percentage,.,Male,Rhineland Palatinate,code07,
 2005,Percentage,,Male,Rhineland Palatinate,code07,15.1
 2006,Percentage,,Male,Rhineland Palatinate,code07,14.2
 2007,Percentage,,Male,Rhineland Palatinate,code07,17.7
@@ -615,6 +934,13 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2021,Percentage,,Male,Rhineland Palatinate,code07,14.9
 2022,Percentage,,Male,Rhineland Palatinate,code07,15.3
 2023,Percentage,p,Male,Rhineland Palatinate,code07,16.3
+2030,Percentage,…,Male,Rhineland Palatinate,code07,
+1999,Percentage,,,Saarland,code10,
+2000,Percentage,.,,Saarland,code10,
+2001,Percentage,.,,Saarland,code10,
+2002,Percentage,.,,Saarland,code10,
+2003,Percentage,.,,Saarland,code10,
+2004,Percentage,.,,Saarland,code10,
 2005,Percentage,,,Saarland,code10,20.6
 2006,Percentage,,,Saarland,code10,20.8
 2007,Percentage,,,Saarland,code10,16.3
@@ -630,12 +956,43 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2017,Percentage,,,Saarland,code10,11.7
 2018,Percentage,,,Saarland,code10,11.8
 2019,Percentage,,,Saarland,code10,11.5
+2020,Percentage,.,,Saarland,code10,
+2021,Percentage,.,,Saarland,code10,
+2022,Percentage,.,,Saarland,code10,
+2023,Percentage,.,,Saarland,code10,
+2030,Percentage,…,,Saarland,code10,
+1999,Percentage,,Female,Saarland,code10,
+2000,Percentage,.,Female,Saarland,code10,
+2001,Percentage,.,Female,Saarland,code10,
+2002,Percentage,.,Female,Saarland,code10,
+2003,Percentage,.,Female,Saarland,code10,
+2004,Percentage,.,Female,Saarland,code10,
 2005,Percentage,,Female,Saarland,code10,15.5
 2006,Percentage,,Female,Saarland,code10,18.8
 2007,Percentage,,Female,Saarland,code10,15.9
+2008,Percentage,.,Female,Saarland,code10,
 2009,Percentage,,Female,Saarland,code10,14.0
+2010,Percentage,.,Female,Saarland,code10,
+2011,Percentage,.,Female,Saarland,code10,
+2012,Percentage,.,Female,Saarland,code10,
 2013,Percentage,.,Female,Saarland,code10,14.2
+2014,Percentage,.,Female,Saarland,code10,
 2015,Percentage,,Female,Saarland,code10,15.9
+2016,Percentage,.,Female,Saarland,code10,
+2017,Percentage,.,Female,Saarland,code10,
+2018,Percentage,.,Female,Saarland,code10,
+2019,Percentage,.,Female,Saarland,code10,
+2020,Percentage,.,Female,Saarland,code10,
+2021,Percentage,.,Female,Saarland,code10,
+2022,Percentage,.,Female,Saarland,code10,
+2023,Percentage,.,Female,Saarland,code10,
+2030,Percentage,…,Female,Saarland,code10,
+1999,Percentage,,Male,Saarland,code10,
+2000,Percentage,.,Male,Saarland,code10,
+2001,Percentage,.,Male,Saarland,code10,
+2002,Percentage,.,Male,Saarland,code10,
+2003,Percentage,.,Male,Saarland,code10,
+2004,Percentage,.,Male,Saarland,code10,
 2005,Percentage,,Male,Saarland,code10,26.4
 2006,Percentage,,Male,Saarland,code10,22.9
 2007,Percentage,,Male,Saarland,code10,16.8
@@ -645,7 +1002,23 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2011,Percentage,,Male,Saarland,code10,18.4
 2012,Percentage,,Male,Saarland,code10,14.7
 2013,Percentage,,Male,Saarland,code10,14.0
+2014,Percentage,.,Male,Saarland,code10,
+2015,Percentage,.,Male,Saarland,code10,
+2016,Percentage,.,Male,Saarland,code10,
 2017,Percentage,,Male,Saarland,code10,13.0
+2018,Percentage,.,Male,Saarland,code10,
+2019,Percentage,.,Male,Saarland,code10,
+2020,Percentage,.,Male,Saarland,code10,
+2021,Percentage,.,Male,Saarland,code10,
+2022,Percentage,.,Male,Saarland,code10,
+2023,Percentage,.,Male,Saarland,code10,
+2030,Percentage,…,Male,Saarland,code10,
+1999,Percentage,,,Saxony,code14,
+2000,Percentage,.,,Saxony,code14,
+2001,Percentage,.,,Saxony,code14,
+2002,Percentage,.,,Saxony,code14,
+2003,Percentage,.,,Saxony,code14,
+2004,Percentage,.,,Saxony,code14,
 2005,Percentage,,,Saxony,code14,9.8
 2006,Percentage,,,Saxony,code14,8.9
 2007,Percentage,,,Saxony,code14,8.4
@@ -665,6 +1038,13 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2021,Percentage,,,Saxony,code14,9.3
 2022,Percentage,,,Saxony,code14,8.9
 2023,Percentage,p,,Saxony,code14,11.3
+2030,Percentage,…,,Saxony,code14,
+1999,Percentage,,Female,Saxony,code14,
+2000,Percentage,.,Female,Saxony,code14,
+2001,Percentage,.,Female,Saxony,code14,
+2002,Percentage,.,Female,Saxony,code14,
+2003,Percentage,.,Female,Saxony,code14,
+2004,Percentage,.,Female,Saxony,code14,
 2005,Percentage,,Female,Saxony,code14,10.5
 2006,Percentage,,Female,Saxony,code14,7.8
 2007,Percentage,,Female,Saxony,code14,8.6
@@ -680,6 +1060,17 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2017,Percentage,,Female,Saxony,code14,9.8
 2018,Percentage,,Female,Saxony,code14,7.0
 2019,Percentage,,Female,Saxony,code14,7.0
+2020,Percentage,.,Female,Saxony,code14,
+2021,Percentage,.,Female,Saxony,code14,
+2022,Percentage,.,Female,Saxony,code14,
+2023,Percentage,.,Female,Saxony,code14,
+2030,Percentage,…,Female,Saxony,code14,
+1999,Percentage,,Male,Saxony,code14,
+2000,Percentage,.,Male,Saxony,code14,
+2001,Percentage,.,Male,Saxony,code14,
+2002,Percentage,.,Male,Saxony,code14,
+2003,Percentage,.,Male,Saxony,code14,
+2004,Percentage,.,Male,Saxony,code14,
 2005,Percentage,,Male,Saxony,code14,9.1
 2006,Percentage,,Male,Saxony,code14,9.9
 2007,Percentage,,Male,Saxony,code14,8.2
@@ -695,8 +1086,17 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2017,Percentage,,Male,Saxony,code14,7.5
 2018,Percentage,,Male,Saxony,code14,8.0
 2019,Percentage,,Male,Saxony,code14,9.4
+2020,Percentage,.,Male,Saxony,code14,
 2021,Percentage,,Male,Saxony,code14,10.5
+2022,Percentage,.,Male,Saxony,code14,
 2023,Percentage,p,Male,Saxony,code14,13.3
+2030,Percentage,…,Male,Saxony,code14,
+1999,Percentage,,,Saxony-Anhalt,code15,
+2000,Percentage,.,,Saxony-Anhalt,code15,
+2001,Percentage,.,,Saxony-Anhalt,code15,
+2002,Percentage,.,,Saxony-Anhalt,code15,
+2003,Percentage,.,,Saxony-Anhalt,code15,
+2004,Percentage,.,,Saxony-Anhalt,code15,
 2005,Percentage,,,Saxony-Anhalt,code15,12.4
 2006,Percentage,,,Saxony-Anhalt,code15,12.2
 2007,Percentage,,,Saxony-Anhalt,code15,11.8
@@ -712,9 +1112,17 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2017,Percentage,,,Saxony-Anhalt,code15,13.6
 2018,Percentage,,,Saxony-Anhalt,code15,9.1
 2019,Percentage,,,Saxony-Anhalt,code15,12.7
+2020,Percentage,.,,Saxony-Anhalt,code15,
 2021,Percentage,,,Saxony-Anhalt,code15,17.0
 2022,Percentage,,,Saxony-Anhalt,code15,14.1
 2023,Percentage,p,,Saxony-Anhalt,code15,13.1
+2030,Percentage,…,,Saxony-Anhalt,code15,
+1999,Percentage,,Female,Saxony-Anhalt,code15,
+2000,Percentage,.,Female,Saxony-Anhalt,code15,
+2001,Percentage,.,Female,Saxony-Anhalt,code15,
+2002,Percentage,.,Female,Saxony-Anhalt,code15,
+2003,Percentage,.,Female,Saxony-Anhalt,code15,
+2004,Percentage,.,Female,Saxony-Anhalt,code15,
 2005,Percentage,,Female,Saxony-Anhalt,code15,9.8
 2006,Percentage,,Female,Saxony-Anhalt,code15,11.0
 2007,Percentage,,Female,Saxony-Anhalt,code15,9.5
@@ -723,9 +1131,24 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2010,Percentage,,Female,Saxony-Anhalt,code15,9.1
 2011,Percentage,,Female,Saxony-Anhalt,code15,11.6
 2012,Percentage,,Female,Saxony-Anhalt,code15,10.1
+2013,Percentage,.,Female,Saxony-Anhalt,code15,
+2014,Percentage,.,Female,Saxony-Anhalt,code15,
 2015,Percentage,,Female,Saxony-Anhalt,code15,11.7
+2016,Percentage,.,Female,Saxony-Anhalt,code15,
 2017,Percentage,,Female,Saxony-Anhalt,code15,11.9
+2018,Percentage,.,Female,Saxony-Anhalt,code15,
 2019,Percentage,,Female,Saxony-Anhalt,code15,10.0
+2020,Percentage,.,Female,Saxony-Anhalt,code15,
+2021,Percentage,.,Female,Saxony-Anhalt,code15,
+2022,Percentage,.,Female,Saxony-Anhalt,code15,
+2023,Percentage,.,Female,Saxony-Anhalt,code15,
+2030,Percentage,…,Female,Saxony-Anhalt,code15,
+1999,Percentage,,Male,Saxony-Anhalt,code15,
+2000,Percentage,.,Male,Saxony-Anhalt,code15,
+2001,Percentage,.,Male,Saxony-Anhalt,code15,
+2002,Percentage,.,Male,Saxony-Anhalt,code15,
+2003,Percentage,.,Male,Saxony-Anhalt,code15,
+2004,Percentage,.,Male,Saxony-Anhalt,code15,
 2005,Percentage,,Male,Saxony-Anhalt,code15,14.7
 2006,Percentage,,Male,Saxony-Anhalt,code15,13.3
 2007,Percentage,,Male,Saxony-Anhalt,code15,14.0
@@ -741,6 +1164,17 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2017,Percentage,,Male,Saxony-Anhalt,code15,15.0
 2018,Percentage,,Male,Saxony-Anhalt,code15,10.0
 2019,Percentage,,Male,Saxony-Anhalt,code15,14.8
+2020,Percentage,.,Male,Saxony-Anhalt,code15,
+2021,Percentage,.,Male,Saxony-Anhalt,code15,
+2022,Percentage,.,Male,Saxony-Anhalt,code15,
+2023,Percentage,.,Male,Saxony-Anhalt,code15,
+2030,Percentage,…,Male,Saxony-Anhalt,code15,
+1999,Percentage,,,Schleswig-Holstein,code01,
+2000,Percentage,.,,Schleswig-Holstein,code01,
+2001,Percentage,.,,Schleswig-Holstein,code01,
+2002,Percentage,.,,Schleswig-Holstein,code01,
+2003,Percentage,.,,Schleswig-Holstein,code01,
+2004,Percentage,.,,Schleswig-Holstein,code01,
 2005,Percentage,,,Schleswig-Holstein,code01,15.1
 2006,Percentage,,,Schleswig-Holstein,code01,17.1
 2007,Percentage,,,Schleswig-Holstein,code01,11.8
@@ -760,6 +1194,13 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2021,Percentage,,,Schleswig-Holstein,code01,12.5
 2022,Percentage,,,Schleswig-Holstein,code01,15.2
 2023,Percentage,p,,Schleswig-Holstein,code01,17.0
+2030,Percentage,…,,Schleswig-Holstein,code01,
+1999,Percentage,,Female,Schleswig-Holstein,code01,
+2000,Percentage,.,Female,Schleswig-Holstein,code01,
+2001,Percentage,.,Female,Schleswig-Holstein,code01,
+2002,Percentage,.,Female,Schleswig-Holstein,code01,
+2003,Percentage,.,Female,Schleswig-Holstein,code01,
+2004,Percentage,.,Female,Schleswig-Holstein,code01,
 2005,Percentage,,Female,Schleswig-Holstein,code01,14.2
 2006,Percentage,,Female,Schleswig-Holstein,code01,16.1
 2007,Percentage,,Female,Schleswig-Holstein,code01,11.6
@@ -775,8 +1216,17 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2017,Percentage,,Female,Schleswig-Holstein,code01,7.6
 2018,Percentage,,Female,Schleswig-Holstein,code01,8.9
 2019,Percentage,,Female,Schleswig-Holstein,code01,8.7
+2020,Percentage,.,Female,Schleswig-Holstein,code01,
+2021,Percentage,.,Female,Schleswig-Holstein,code01,
 2022,Percentage,,Female,Schleswig-Holstein,code01,13.9
 2023,Percentage,p,Female,Schleswig-Holstein,code01,14.8
+2030,Percentage,…,Female,Schleswig-Holstein,code01,
+1999,Percentage,,Male,Schleswig-Holstein,code01,
+2000,Percentage,.,Male,Schleswig-Holstein,code01,
+2001,Percentage,.,Male,Schleswig-Holstein,code01,
+2002,Percentage,.,Male,Schleswig-Holstein,code01,
+2003,Percentage,.,Male,Schleswig-Holstein,code01,
+2004,Percentage,.,Male,Schleswig-Holstein,code01,
 2005,Percentage,,Male,Schleswig-Holstein,code01,16.1
 2006,Percentage,,Male,Schleswig-Holstein,code01,18.2
 2007,Percentage,,Male,Schleswig-Holstein,code01,11.9
@@ -792,8 +1242,17 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2017,Percentage,,Male,Schleswig-Holstein,code01,10.4
 2018,Percentage,,Male,Schleswig-Holstein,code01,11.2
 2019,Percentage,,Male,Schleswig-Holstein,code01,13.2
+2020,Percentage,.,Male,Schleswig-Holstein,code01,
+2021,Percentage,.,Male,Schleswig-Holstein,code01,
 2022,Percentage,,Male,Schleswig-Holstein,code01,16.4
 2023,Percentage,p,Male,Schleswig-Holstein,code01,18.9
+2030,Percentage,…,Male,Schleswig-Holstein,code01,
+1999,Percentage,,,Thuringia,code16,
+2000,Percentage,.,,Thuringia,code16,
+2001,Percentage,.,,Thuringia,code16,
+2002,Percentage,.,,Thuringia,code16,
+2003,Percentage,.,,Thuringia,code16,
+2004,Percentage,.,,Thuringia,code16,
 2005,Percentage,,,Thuringia,code16,6.6
 2006,Percentage,,,Thuringia,code16,8.8
 2007,Percentage,,,Thuringia,code16,10.2
@@ -809,9 +1268,17 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2017,Percentage,,,Thuringia,code16,8.7
 2018,Percentage,,,Thuringia,code16,8.5
 2019,Percentage,,,Thuringia,code16,9.6
+2020,Percentage,.,,Thuringia,code16,
 2021,Percentage,,,Thuringia,code16,10.8
 2022,Percentage,,,Thuringia,code16,10.9
 2023,Percentage,p,,Thuringia,code16,13.1
+2030,Percentage,…,,Thuringia,code16,
+1999,Percentage,,Female,Thuringia,code16,
+2000,Percentage,.,Female,Thuringia,code16,
+2001,Percentage,.,Female,Thuringia,code16,
+2002,Percentage,.,Female,Thuringia,code16,
+2003,Percentage,.,Female,Thuringia,code16,
+2004,Percentage,.,Female,Thuringia,code16,
 2005,Percentage,,Female,Thuringia,code16,7.2
 2006,Percentage,,Female,Thuringia,code16,8.6
 2007,Percentage,,Female,Thuringia,code16,11.6
@@ -819,6 +1286,25 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2009,Percentage,,Female,Thuringia,code16,6.0
 2010,Percentage,,Female,Thuringia,code16,6.4
 2011,Percentage,.,Female,Thuringia,code16,6.7
+2012,Percentage,.,Female,Thuringia,code16,
+2013,Percentage,.,Female,Thuringia,code16,
+2014,Percentage,.,Female,Thuringia,code16,
+2015,Percentage,.,Female,Thuringia,code16,
+2016,Percentage,.,Female,Thuringia,code16,
+2017,Percentage,.,Female,Thuringia,code16,
+2018,Percentage,.,Female,Thuringia,code16,
+2019,Percentage,.,Female,Thuringia,code16,
+2020,Percentage,.,Female,Thuringia,code16,
+2021,Percentage,.,Female,Thuringia,code16,
+2022,Percentage,.,Female,Thuringia,code16,
+2023,Percentage,.,Female,Thuringia,code16,
+2030,Percentage,…,Female,Thuringia,code16,
+1999,Percentage,,Male,Thuringia,code16,
+2000,Percentage,.,Male,Thuringia,code16,
+2001,Percentage,.,Male,Thuringia,code16,
+2002,Percentage,.,Male,Thuringia,code16,
+2003,Percentage,.,Male,Thuringia,code16,
+2004,Percentage,.,Male,Thuringia,code16,
 2005,Percentage,,Male,Thuringia,code16,6.1
 2006,Percentage,,Male,Thuringia,code16,9.0
 2007,Percentage,,Male,Thuringia,code16,8.8
@@ -828,8 +1314,14 @@ Year,Units,COMMENT_OBS_0,Sex,Federal state,GeoCode,Value
 2011,Percentage,,Male,Thuringia,code16,8.5
 2012,Percentage,,Male,Thuringia,code16,8.0
 2013,Percentage,,Male,Thuringia,code16,8.3
+2014,Percentage,.,Male,Thuringia,code16,
 2015,Percentage,,Male,Thuringia,code16,9.1
 2016,Percentage,,Male,Thuringia,code16,10.0
 2017,Percentage,,Male,Thuringia,code16,10.6
 2018,Percentage,,Male,Thuringia,code16,10.1
 2019,Percentage,,Male,Thuringia,code16,10.5
+2020,Percentage,.,Male,Thuringia,code16,
+2021,Percentage,.,Male,Thuringia,code16,
+2022,Percentage,.,Male,Thuringia,code16,
+2023,Percentage,.,Male,Thuringia,code16,
+2030,Percentage,…,Male,Thuringia,code16,

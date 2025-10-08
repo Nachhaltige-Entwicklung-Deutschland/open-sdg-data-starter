@@ -33,10 +33,10 @@ Year,Units,time series,COMMENT_OBS_0,Value
 2018,hours,fathers,,37.581
 2019,hours,fathers,,37.587
 2020,hours,fathers,,36.528
-2021,hours,fathers,,36.652
-2022,hours,fathers,,37.1
-2023,hours,fathers,,36.837
-2024,hours,fathers,,36.636
+2021,hours,fathers,r,36.652
+2022,hours,fathers,r,37.1
+2023,hours,fathers,r,36.837
+2024,hours,fathers,p,36.636
 2006,hours,difference,,22.159
 2007,hours,difference,,22.477
 2008,hours,difference,,22.583
@@ -52,7 +52,7 @@ Year,Units,time series,COMMENT_OBS_0,Value
 2018,hours,difference,,19.22
 2019,hours,difference,,18.883
 2020,hours,difference,,18.085
-2021,hours,difference,,17.761
-2022,hours,difference,,17.863
-2023,hours,difference,,17.502
-2024,hours,difference,,17.047
+2021,hours,difference,r,17.761
+2022,hours,difference,r,17.863
+2023,hours,difference,r,17.502
+2024,hours,difference,p,17.047

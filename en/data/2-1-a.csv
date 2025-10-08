@@ -24,14 +24,14 @@ Year,Units,Time series,COMMENT_OBS_0,Value
 2012,Kilograms per hectare,Moving five-year average shown for the last year,,94.992
 2013,Kilograms per hectare,Moving five-year average shown for the last year,,93.484
 2014,Kilograms per hectare,Moving five-year average shown for the last year,,94.234
-2015,Kilograms per hectare,Moving five-year average shown for the last year,,97.372
-2016,Kilograms per hectare,Moving five-year average shown for the last year,,96.646
-2017,Kilograms per hectare,Moving five-year average shown for the last year,,96.854
-2018,Kilograms per hectare,Moving five-year average shown for the last year,,95.894
-2019,Kilograms per hectare,Moving five-year average shown for the last year,,94.15
-2020,Kilograms per hectare,Moving five-year average shown for the last year,,89.384
-2021,Kilograms per hectare,Moving five-year average shown for the last year,,82.946
-2022,Kilograms per hectare,Moving five-year average shown for the last year,,76.706
+2015,Kilograms per hectare,Moving five-year average shown for the last year,r,97.372
+2016,Kilograms per hectare,Moving five-year average shown for the last year,r,96.646
+2017,Kilograms per hectare,Moving five-year average shown for the last year,r,96.854
+2018,Kilograms per hectare,Moving five-year average shown for the last year,r,95.894
+2019,Kilograms per hectare,Moving five-year average shown for the last year,r,94.15
+2020,Kilograms per hectare,Moving five-year average shown for the last year,r,89.384
+2021,Kilograms per hectare,Moving five-year average shown for the last year,r,82.946
+2022,Kilograms per hectare,Moving five-year average shown for the last year,p,76.706
 2030,Kilograms per hectare,Moving five-year average shown for the last year,…,
 1990,Kilograms per hectare,Calculated annual values,,141.6
 1991,Kilograms per hectare,Calculated annual values,,117.23
@@ -58,12 +58,12 @@ Year,Units,Time series,COMMENT_OBS_0,Value
 2012,Kilograms per hectare,Calculated annual values,,92.83
 2013,Kilograms per hectare,Calculated annual values,,95.23
 2014,Kilograms per hectare,Calculated annual values,,86.97
-2015,Kilograms per hectare,Calculated annual values,,105.79
-2016,Kilograms per hectare,Calculated annual values,,102.41
-2017,Kilograms per hectare,Calculated annual values,,93.87
-2018,Kilograms per hectare,Calculated annual values,,90.43
-2019,Kilograms per hectare,Calculated annual values,,78.25
-2020,Kilograms per hectare,Calculated annual values,,81.96
-2021,Kilograms per hectare,Calculated annual values,,70.22
-2022,Kilograms per hectare,Calculated annual values,,62.67
+2015,Kilograms per hectare,Calculated annual values,r,105.79
+2016,Kilograms per hectare,Calculated annual values,r,102.41
+2017,Kilograms per hectare,Calculated annual values,r,93.87
+2018,Kilograms per hectare,Calculated annual values,r,90.43
+2019,Kilograms per hectare,Calculated annual values,r,78.25
+2020,Kilograms per hectare,Calculated annual values,r,81.96
+2021,Kilograms per hectare,Calculated annual values,r,70.22
+2022,Kilograms per hectare,Calculated annual values,p,62.67
 2030,Kilograms per hectare,Calculated annual values,…,

@@ -24,14 +24,14 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Value
 2012,Kilogramm pro Hektar,Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr,,94.992
 2013,Kilogramm pro Hektar,Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr,,93.484
 2014,Kilogramm pro Hektar,Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr,,94.234
-2015,Kilogramm pro Hektar,Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr,,97.372
-2016,Kilogramm pro Hektar,Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr,,96.646
-2017,Kilogramm pro Hektar,Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr,,96.854
-2018,Kilogramm pro Hektar,Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr,,95.894
-2019,Kilogramm pro Hektar,Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr,,94.15
-2020,Kilogramm pro Hektar,Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr,,89.384
-2021,Kilogramm pro Hektar,Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr,,82.946
-2022,Kilogramm pro Hektar,Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr,,76.706
+2015,Kilogramm pro Hektar,Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr,r,97.372
+2016,Kilogramm pro Hektar,Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr,r,96.646
+2017,Kilogramm pro Hektar,Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr,r,96.854
+2018,Kilogramm pro Hektar,Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr,r,95.894
+2019,Kilogramm pro Hektar,Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr,r,94.15
+2020,Kilogramm pro Hektar,Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr,r,89.384
+2021,Kilogramm pro Hektar,Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr,r,82.946
+2022,Kilogramm pro Hektar,Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr,p,76.706
 2030,Kilogramm pro Hektar,Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr,…,
 1990,Kilogramm pro Hektar,Berechnete jährliche Werte,,141.6
 1991,Kilogramm pro Hektar,Berechnete jährliche Werte,,117.23
@@ -58,12 +58,12 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,Value
 2012,Kilogramm pro Hektar,Berechnete jährliche Werte,,92.83
 2013,Kilogramm pro Hektar,Berechnete jährliche Werte,,95.23
 2014,Kilogramm pro Hektar,Berechnete jährliche Werte,,86.97
-2015,Kilogramm pro Hektar,Berechnete jährliche Werte,,105.79
-2016,Kilogramm pro Hektar,Berechnete jährliche Werte,,102.41
-2017,Kilogramm pro Hektar,Berechnete jährliche Werte,,93.87
-2018,Kilogramm pro Hektar,Berechnete jährliche Werte,,90.43
-2019,Kilogramm pro Hektar,Berechnete jährliche Werte,,78.25
-2020,Kilogramm pro Hektar,Berechnete jährliche Werte,,81.96
-2021,Kilogramm pro Hektar,Berechnete jährliche Werte,,70.22
-2022,Kilogramm pro Hektar,Berechnete jährliche Werte,,62.67
+2015,Kilogramm pro Hektar,Berechnete jährliche Werte,r,105.79
+2016,Kilogramm pro Hektar,Berechnete jährliche Werte,r,102.41
+2017,Kilogramm pro Hektar,Berechnete jährliche Werte,r,93.87
+2018,Kilogramm pro Hektar,Berechnete jährliche Werte,r,90.43
+2019,Kilogramm pro Hektar,Berechnete jährliche Werte,r,78.25
+2020,Kilogramm pro Hektar,Berechnete jährliche Werte,r,81.96
+2021,Kilogramm pro Hektar,Berechnete jährliche Werte,r,70.22
+2022,Kilogramm pro Hektar,Berechnete jährliche Werte,p,62.67
 2030,Kilogramm pro Hektar,Berechnete jährliche Werte,…,
