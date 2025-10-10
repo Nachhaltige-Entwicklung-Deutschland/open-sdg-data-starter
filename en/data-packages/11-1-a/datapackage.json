@@ -67,7 +67,7 @@
             "title": "Type of area"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -90,7 +90,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",

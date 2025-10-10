@@ -113,7 +113,7 @@
             "title": "COMMENT_OBS_0"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -136,7 +136,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -252,7 +252,7 @@
             "title": "COMMENT_OBS_0"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -275,7 +275,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -451,7 +451,7 @@
             "title": "Degree of urbanisation"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -474,7 +474,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -552,7 +552,7 @@
             "title": "COMMENT_OBS_1"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -575,7 +575,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -816,7 +816,7 @@
             "title": "Units"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -839,7 +839,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -970,7 +970,7 @@
             "title": "COMMENT_OBS_0"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -993,7 +993,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -1074,7 +1074,7 @@
             "title": "Sex"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1097,7 +1097,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -1434,7 +1434,7 @@
             "title": "Sex"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1457,7 +1457,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -1540,7 +1540,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -1571,7 +1571,7 @@
             "title": "COMMENT_OBS_0"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1594,7 +1594,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -1720,7 +1720,7 @@
             "title": "Sex"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1743,7 +1743,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -2155,7 +2155,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-9",
       "schema": {
         "fields": [
           {
@@ -2186,7 +2186,7 @@
             "title": "COMMENT_OBS_0"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2209,7 +2209,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -2396,7 +2396,7 @@
             "title": "COMMENT_OBS_0"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2419,7 +2419,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -2513,7 +2513,7 @@
             "title": "COMMENT_OBS_1"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2536,7 +2536,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -2559,7 +2559,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -2611,6 +2611,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "s",
                 ".",
                 "…",
                 ""
@@ -2619,7 +2620,7 @@
             "title": "COMMENT_OBS_0"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2642,7 +2643,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -2768,7 +2769,7 @@
             "title": "COMMENT_OBS_0"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2791,7 +2792,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -2882,7 +2883,7 @@
             "title": "Sex"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2905,7 +2906,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -3035,7 +3036,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -3066,7 +3067,7 @@
             "title": "COMMENT_OBS_0"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3089,7 +3090,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -3253,7 +3254,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-9",
       "schema": {
         "fields": [
           {
@@ -3298,7 +3299,7 @@
             "title": "COMMENT_OBS_0"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3321,7 +3322,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -3404,7 +3405,7 @@
             "title": "Type of area"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3427,7 +3428,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -3497,7 +3498,7 @@
             "title": "COMMENT_OBS_0"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3520,7 +3521,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -3589,7 +3590,7 @@
             "title": "Sex"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3612,7 +3613,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -3716,7 +3717,7 @@
             "title": "COMMENT_OBS_0"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3739,7 +3740,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -3796,7 +3797,7 @@
             "title": "COMMENT_OBS_0"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3819,7 +3820,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -3945,7 +3946,7 @@
             "title": "COMMENT_OBS_0"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3968,7 +3969,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -4051,7 +4052,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -4084,7 +4085,7 @@
             "title": "Time series"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4107,7 +4108,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -4237,7 +4238,7 @@
             "title": "COMMENT_OBS_0"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4260,7 +4261,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -4706,7 +4707,7 @@
             "title": "COMMENT_OBS_0"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4729,7 +4730,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -4763,7 +4764,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -4831,7 +4832,7 @@
             "title": "Sex"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4854,7 +4855,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",

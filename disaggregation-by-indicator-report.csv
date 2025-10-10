@@ -1,20 +1,20 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-1-ab,"time series, COMMENT_OBS_0, federal state, sex, area",5
-#10-1,"COMMENT_OBS_0, federal state, sex",3
-#10-2,"time series, COMMENT_OBS_0, federal state, area",4
-#11-1-a,"time series, COMMENT_OBS_0, federal state, type of area",4
-#11-1-c,"COMMENT_OBS_0, federal state, degree of urbanisation",3
+#1-1-ab,"time series, COMMENT_OBS_0, länder, sex, area",5
+#10-1,"COMMENT_OBS_0, länder, sex",3
+#10-2,"time series, COMMENT_OBS_0, länder, area",4
+#11-1-a,"time series, COMMENT_OBS_0, länder, type of area",4
+#11-1-c,"COMMENT_OBS_0, länder, degree of urbanisation",3
 #11-2-a,"time series, COMMENT_OBS_0",2
 #11-2-b,"time series, COMMENT_OBS_0",2
-#11-2-c,"time series, COMMENT_OBS_0, federal state",3
+#11-2-c,"time series, COMMENT_OBS_0, länder",3
 #11-3-a,"COMMENT_OBS_0, sex",2
 #12-1-a,COMMENT_OBS_0,1
 #12-1-b,"time series, COMMENT_OBS_0",2
-#12-2-a,"COMMENT_OBS_0, federal state",2
+#12-2-a,"COMMENT_OBS_0, länder",2
 #12-2-b,COMMENT_OBS_0,1
 #12-3-abc,COMMENT_OBS_0,1
 #12-4,COMMENT_OBS_0,1
-#13-1-a,"COMMENT_OBS_0, federal state",2
+#13-1-a,"COMMENT_OBS_0, länder",2
 #13-1-b,COMMENT_OBS_0,1
 #14-1-a,time series,1
 #14-1-b,"time series, COMMENT_OBS_0, sea",3
@@ -26,42 +26,42 @@ Indicator,Disaggregations,Number of disaggregations
 #16-3-ab,COMMENT_OBS_0,1
 #16-4,"COMMENT_OBS_0, level of compliance",2
 #17-1,COMMENT_OBS_0,1
-#17-2,"time series, COMMENT_OBS_0, federal state",3
+#17-2,"time series, COMMENT_OBS_0, länder",3
 #17-3,"time series, COMMENT_OBS_0",2
 #2-1-a,"time series, COMMENT_OBS_0",2
-#2-1-b,"COMMENT_OBS_0, federal state",2
+#2-1-b,"COMMENT_OBS_0, länder",2
 #2-2,COMMENT_OBS_0,1
 #3-1-a,"COMMENT_OBS_0, sex, type of treatment",3
-#3-1-cd,"time series, COMMENT_OBS_0, federal state, sex",4
+#3-1-cd,"time series, COMMENT_OBS_0, länder, sex",4
 #3-1-e,"time series, age group, sex",3
-#3-1-f,"COMMENT_OBS_0, federal state, age group, sex",4
+#3-1-f,"COMMENT_OBS_0, länder, age group, sex",4
 #3-2-a,"COMMENT_OBS_0, air pollutant",2
 #3-2-b,COMMENT_OBS_0,1
 #3-3,"time series, COMMENT_OBS_0",2
-#4-1-a,"COMMENT_OBS_0, federal state, sex",3
-#4-1-b,"time series, COMMENT_OBS_0, federal state, sex, qualification",5
+#4-1-a,"COMMENT_OBS_0, länder, sex",3
+#4-1-b,"time series, COMMENT_OBS_0, länder, sex, qualification",5
 #4-1-c,COMMENT_OBS_0,1
-#4-2-ab,"COMMENT_OBS_0, federal state, type of care",3
+#4-2-ab,"COMMENT_OBS_0, länder, type of care",3
 #4-3-a,"COMMENT_OBS_0, sex",2
 #4-3-b,"COMMENT_OBS_0, risk situation",2
-#5-1-a,"COMMENT_OBS_0, federal state",2
+#5-1-a,"COMMENT_OBS_0, länder",2
 #5-1-bc,"time series, COMMENT_OBS_0",2
-#5-1-d,"COMMENT_OBS_0, federal state",2
+#5-1-d,"COMMENT_OBS_0, länder",2
 #5-1-e,"time series, COMMENT_OBS_0",2
 #5-1-f,COMMENT_OBS_0,1
 #5-1-g,COMMENT_OBS_0,1
 #6-1-a,COMMENT_OBS_0,1
-#6-1-b,"COMMENT_OBS_0, federal state",2
+#6-1-b,"COMMENT_OBS_0, länder",2
 #6-2-ab,"time series, COMMENT_OBS_0",2
-#7-1-ab,"COMMENT_OBS_0, federal state",2
-#7-2-a,"COMMENT_OBS_0, federal state",2
-#7-2-b,"COMMENT_OBS_0, federal state",2
+#7-1-ab,"COMMENT_OBS_0, länder",2
+#7-2-a,"COMMENT_OBS_0, länder",2
+#7-2-b,"COMMENT_OBS_0, länder",2
 #8-1,"time series, COMMENT_OBS_0",2
-#8-2-ab,"time series, COMMENT_OBS_0, federal state, COMMENT_OBS_1",4
-#8-2-c,"COMMENT_OBS_0, federal state, COMMENT_OBS_1",3
-#8-3,"COMMENT_OBS_0, federal state, COMMENT_OBS_1",3
-#8-4,"COMMENT_OBS_0, federal state",2
-#8-5-ab,"COMMENT_OBS_0, federal state, sex",3
+#8-2-ab,"time series, COMMENT_OBS_0, länder, COMMENT_OBS_1",4
+#8-2-c,"COMMENT_OBS_0, länder, COMMENT_OBS_1",3
+#8-3,"COMMENT_OBS_0, länder, COMMENT_OBS_1",3
+#8-4,"COMMENT_OBS_0, länder",2
+#8-5-ab,"COMMENT_OBS_0, länder, sex",3
 #8-5-c,type of collective bargaining agreement,1
-#9-1-a,"COMMENT_OBS_0, federal state, sector",3
-#9-1-b,"time series, federal state",2
+#9-1-a,"COMMENT_OBS_0, länder, sector",3
+#9-1-b,"time series, länder",2

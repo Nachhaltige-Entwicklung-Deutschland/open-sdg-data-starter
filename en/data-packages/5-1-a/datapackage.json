@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-9",
       "schema": {
         "fields": [
           {
@@ -52,7 +52,7 @@
             "title": "COMMENT_OBS_0"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -75,7 +75,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",

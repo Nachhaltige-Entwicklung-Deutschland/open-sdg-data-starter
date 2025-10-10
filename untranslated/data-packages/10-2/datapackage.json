@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
@@ -55,6 +55,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "s",
                 ".",
                 "…",
                 ""
@@ -62,7 +63,7 @@
             }
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [

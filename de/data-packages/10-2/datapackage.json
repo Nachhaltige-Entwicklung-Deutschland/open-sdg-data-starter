@@ -59,6 +59,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "s",
                 ".",
                 "…",
                 ""
@@ -67,7 +68,7 @@
             "title": "COMMENT_OBS_0"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [

@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -75,7 +75,7 @@
             "title": "Sex"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -98,7 +98,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",

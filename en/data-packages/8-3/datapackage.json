@@ -51,7 +51,7 @@
             "title": "COMMENT_OBS_1"
           },
           {
-            "name": "federal state",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -74,7 +74,7 @@
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
