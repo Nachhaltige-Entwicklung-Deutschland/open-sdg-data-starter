@@ -1,25 +1,43 @@
-Year,Units,Series,COMMENT_OBS_0,Risikolage,Value
-2018,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,,,21.1
-2019,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,,,17.9
-2020,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,,,18.4
-2021,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,,,19.7
-2022,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,,,21.5
-2023,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,p,,21.3
-2018,Prozent,Nach Anzahl der Risikolagen,,Keine Risikolage,61.0
-2019,Prozent,Nach Anzahl der Risikolagen,,Keine Risikolage,61.0
-2020,Prozent,Nach Anzahl der Risikolagen,,Keine Risikolage,65.2
-2021,Prozent,Nach Anzahl der Risikolagen,,Keine Risikolage,64.1
-2022,Prozent,Nach Anzahl der Risikolagen,,Keine Risikolage,63.2
-2023,Prozent,Nach Anzahl der Risikolagen,p,Keine Risikolage,65.0
-2018,Prozent,Nach Anzahl der Risikolagen,,Mindestens eine Risikolage,39.9
-2019,Prozent,Nach Anzahl der Risikolagen,,Mindestens eine Risikolage,43.2
-2020,Prozent,Nach Anzahl der Risikolagen,,Mindestens eine Risikolage,46.8
-2021,Prozent,Nach Anzahl der Risikolagen,,Mindestens eine Risikolage,44.4
-2022,Prozent,Nach Anzahl der Risikolagen,,Mindestens eine Risikolage,41.6
-2023,Prozent,Nach Anzahl der Risikolagen,p,Mindestens eine Risikolage,43.7
-2018,Prozent,Nach Anzahl der Risikolagen,,Insgesamt,55.7
-2019,Prozent,Nach Anzahl der Risikolagen,,Insgesamt,56.5
-2020,Prozent,Nach Anzahl der Risikolagen,,Insgesamt,60.3
-2021,Prozent,Nach Anzahl der Risikolagen,,Insgesamt,58.3
-2022,Prozent,Nach Anzahl der Risikolagen,,Insgesamt,56.6
-2023,Prozent,Nach Anzahl der Risikolagen,p,Insgesamt,58.6
+Year,Units,Series,COMMENT_OBS_0,Risikolage,Geschlecht,Value
+2018,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,,,,21.1
+2019,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,,,,17.9
+2020,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,,,,18.4
+2021,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,,,,19.7
+2022,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,,,,21.5
+2023,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,,,,21.5
+2024,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,p,,,22.5
+2018,Prozent,Nach Anzahl der Risikolagen,,Keine Risikolage,,61.0
+2019,Prozent,Nach Anzahl der Risikolagen,,Keine Risikolage,,61.0
+2020,Prozent,Nach Anzahl der Risikolagen,,Keine Risikolage,,65.2
+2021,Prozent,Nach Anzahl der Risikolagen,,Keine Risikolage,,64.1
+2022,Prozent,Nach Anzahl der Risikolagen,,Keine Risikolage,,63.2
+2023,Prozent,Nach Anzahl der Risikolagen,p,Keine Risikolage,,65.0
+2024,Prozent,Nach Anzahl der Risikolagen,…,Keine Risikolage,,
+2018,Prozent,Nach Anzahl der Risikolagen,,Mindestens eine Risikolage,,39.9
+2019,Prozent,Nach Anzahl der Risikolagen,,Mindestens eine Risikolage,,43.2
+2020,Prozent,Nach Anzahl der Risikolagen,,Mindestens eine Risikolage,,46.8
+2021,Prozent,Nach Anzahl der Risikolagen,,Mindestens eine Risikolage,,44.4
+2022,Prozent,Nach Anzahl der Risikolagen,,Mindestens eine Risikolage,,41.6
+2023,Prozent,Nach Anzahl der Risikolagen,p,Mindestens eine Risikolage,,43.7
+2024,Prozent,Nach Anzahl der Risikolagen,…,Mindestens eine Risikolage,,
+2018,Prozent,Nach Anzahl der Risikolagen,,Insgesamt,,55.7
+2019,Prozent,Nach Anzahl der Risikolagen,,Insgesamt,,56.5
+2020,Prozent,Nach Anzahl der Risikolagen,,Insgesamt,,60.3
+2021,Prozent,Nach Anzahl der Risikolagen,,Insgesamt,,58.3
+2022,Prozent,Nach Anzahl der Risikolagen,,Insgesamt,,56.6
+2023,Prozent,Nach Anzahl der Risikolagen,p,Insgesamt,,58.6
+2024,Prozent,Nach Anzahl der Risikolagen,…,Insgesamt,,
+2018,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,…,,Weiblich,
+2019,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,…,,Weiblich,
+2020,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,…,,Weiblich,
+2021,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,…,,Weiblich,
+2022,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,…,,Weiblich,
+2023,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,,,Weiblich,22.2
+2024,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,p,,Weiblich,22.8
+2018,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,…,,Männlich,
+2019,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,…,,Männlich,
+2020,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,…,,Männlich,
+2021,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,…,,Männlich,
+2022,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,…,,Männlich,
+2023,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,,,Männlich,20.8
+2024,Prozentpunkte,Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>,p,,Männlich,22.2

@@ -42,6 +42,7 @@
             "constraints": {
               "enum": [
                 "p",
+                "…",
                 ""
               ]
             }
@@ -54,6 +55,17 @@
                 "no risk situation",
                 "at least one risk situation",
                 "total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
                 ""
               ]
             }

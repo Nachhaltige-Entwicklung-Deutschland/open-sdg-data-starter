@@ -1,49 +1,305 @@
-Year,Units,COMMENT_OBS_0,Sex,Value
-2010,Percentage,,,14.5
-2011,Percentage,,,16.1
-2012,Percentage,,,16.6
-2013,Percentage,,,16.4
-2014,Percentage,,,15.9
-2015,Percentage,,,15.6
-2016,Percentage,,,15.8
-2017,Percentage,,,14.5
-2018,Percentage,,,14.2
-2019,Percentage,,,13.9
-2020,Percentage,,,9.0
-2021,Percentage,,,11.0
-2022,Percentage,r,,11.9
-2023,Percentage,r,,13.0
-2024,Percentage,,,12.0
-2030,Percentage,…,,
-2010,Percentage,,Female,15.4
-2011,Percentage,,Female,17.5
-2012,Percentage,,Female,18.0
-2013,Percentage,,Female,18.0
-2014,Percentage,,Female,18.0
-2015,Percentage,,Female,17.3
-2016,Percentage,,Female,17.5
-2017,Percentage,,Female,15.7
-2018,Percentage,,Female,15.4
-2019,Percentage,,Female,15.3
-2020,Percentage,,Female,9.6
-2021,Percentage,,Female,11.6
-2022,Percentage,,Female,12.9
-2023,Percentage,,Female,13.9
-2024,Percentage,,Female,12.8
-2030,Percentage,…,Female,
-2010,Percentage,,Male,13.5
-2011,Percentage,,Male,14.7
-2012,Percentage,,Male,15.2
-2013,Percentage,,Male,14.8
-2014,Percentage,,Male,13.8
-2015,Percentage,,Male,13.8
-2016,Percentage,,Male,14.1
-2017,Percentage,,Male,13.2
-2018,Percentage,,Male,12.9
-2019,Percentage,,Male,12.5
-2020,Percentage,,Male,8.5
-2021,Percentage,,Male,10.3
-2022,Percentage,,Male,11.0
-2023,Percentage,,Male,12.1
-2024,Percentage,,Male,11.2
-2030,Percentage,…,Male,
+Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Value
+2010,Percentage,,,,,14.5
+2011,Percentage,,,,,16.1
+2012,Percentage,,,,,16.6
+2013,Percentage,,,,,16.4
+2014,Percentage,,,,,15.9
+2015,Percentage,,,,,15.6
+2016,Percentage,,,,,15.8
+2017,Percentage,,,,,14.5
+2018,Percentage,,,,,14.2
+2019,Percentage,,,,,13.9
+2020,Percentage,,,,,9.0
+2021,Percentage,,,,,11.0
+2022,Percentage,r,,,,11.9
+2023,Percentage,r,,,,13.0
+2024,Percentage,,,,,12.0
+2030,Percentage,…,,,,
+2010,Percentage,,Female,,,15.4
+2011,Percentage,,Female,,,17.5
+2012,Percentage,,Female,,,18.0
+2013,Percentage,,Female,,,18.0
+2014,Percentage,,Female,,,18.0
+2015,Percentage,,Female,,,17.3
+2016,Percentage,,Female,,,17.5
+2017,Percentage,,Female,,,15.7
+2018,Percentage,,Female,,,15.4
+2019,Percentage,,Female,,,15.3
+2020,Percentage,,Female,,,9.6
+2021,Percentage,,Female,,,11.6
+2022,Percentage,,Female,,,12.9
+2023,Percentage,,Female,,,13.9
+2024,Percentage,,Female,,,12.8
+2030,Percentage,…,Female,,,
+2010,Percentage,,Male,,,13.5
+2011,Percentage,,Male,,,14.7
+2012,Percentage,,Male,,,15.2
+2013,Percentage,,Male,,,14.8
+2014,Percentage,,Male,,,13.8
+2015,Percentage,,Male,,,13.8
+2016,Percentage,,Male,,,14.1
+2017,Percentage,,Male,,,13.2
+2018,Percentage,,Male,,,12.9
+2019,Percentage,,Male,,,12.5
+2020,Percentage,,Male,,,8.5
+2021,Percentage,,Male,,,10.3
+2022,Percentage,,Male,,,11.0
+2023,Percentage,,Male,,,12.1
+2024,Percentage,,Male,,,11.2
+2030,Percentage,…,Male,,,
+2010,Percentage,.,,Baden-Wuerttemberg,code08,
+2011,Percentage,.,,Baden-Wuerttemberg,code08,
+2012,Percentage,.,,Baden-Wuerttemberg,code08,
+2013,Percentage,.,,Baden-Wuerttemberg,code08,
+2014,Percentage,.,,Baden-Wuerttemberg,code08,
+2015,Percentage,.,,Baden-Wuerttemberg,code08,
+2016,Percentage,.,,Baden-Wuerttemberg,code08,
+2017,Percentage,.,,Baden-Wuerttemberg,code08,
+2018,Percentage,.,,Baden-Wuerttemberg,code08,
+2019,Percentage,.,,Baden-Wuerttemberg,code08,
+2020,Percentage,.,,Baden-Wuerttemberg,code08,
+2021,Percentage,,,Baden-Wuerttemberg,code08,10.4
+2022,Percentage,,,Baden-Wuerttemberg,code08,12.2
+2023,Percentage,,,Baden-Wuerttemberg,code08,11.7
+2024,Percentage,,,Baden-Wuerttemberg,code08,11.7
+2030,Percentage,,,Baden-Wuerttemberg,code08,
+2010,Percentage,.,,Bavaria,code09,
+2011,Percentage,.,,Bavaria,code09,
+2012,Percentage,.,,Bavaria,code09,
+2013,Percentage,.,,Bavaria,code09,
+2014,Percentage,.,,Bavaria,code09,
+2015,Percentage,.,,Bavaria,code09,
+2016,Percentage,.,,Bavaria,code09,
+2017,Percentage,.,,Bavaria,code09,
+2018,Percentage,.,,Bavaria,code09,
+2019,Percentage,.,,Bavaria,code09,
+2020,Percentage,.,,Bavaria,code09,
+2021,Percentage,,,Bavaria,code09,11.1
+2022,Percentage,,,Bavaria,code09,11.8
+2023,Percentage,,,Bavaria,code09,11.9
+2024,Percentage,,,Bavaria,code09,11.9
+2030,Percentage,,,Bavaria,code09,
+2010,Percentage,.,,Berlin,code11,
+2011,Percentage,.,,Berlin,code11,
+2012,Percentage,.,,Berlin,code11,
+2013,Percentage,.,,Berlin,code11,
+2014,Percentage,.,,Berlin,code11,
+2015,Percentage,.,,Berlin,code11,
+2016,Percentage,.,,Berlin,code11,
+2017,Percentage,.,,Berlin,code11,
+2018,Percentage,.,,Berlin,code11,
+2019,Percentage,.,,Berlin,code11,
+2020,Percentage,.,,Berlin,code11,
+2021,Percentage,,,Berlin,code11,11.7
+2022,Percentage,,,Berlin,code11,12.9
+2023,Percentage,,,Berlin,code11,12.9
+2024,Percentage,,,Berlin,code11,12.8
+2030,Percentage,,,Berlin,code11,
+2010,Percentage,.,,Brandenburg,code12,
+2011,Percentage,.,,Brandenburg,code12,
+2012,Percentage,.,,Brandenburg,code12,
+2013,Percentage,.,,Brandenburg,code12,
+2014,Percentage,.,,Brandenburg,code12,
+2015,Percentage,.,,Brandenburg,code12,
+2016,Percentage,.,,Brandenburg,code12,
+2017,Percentage,.,,Brandenburg,code12,
+2018,Percentage,.,,Brandenburg,code12,
+2019,Percentage,.,,Brandenburg,code12,
+2020,Percentage,.,,Brandenburg,code12,
+2021,Percentage,,,Brandenburg,code12,8.6
+2022,Percentage,,,Brandenburg,code12,8.0
+2023,Percentage,,,Brandenburg,code12,12.7
+2024,Percentage,,,Brandenburg,code12,11.3
+2030,Percentage,,,Brandenburg,code12,
+2010,Percentage,.,,Bremen,code04,
+2011,Percentage,.,,Bremen,code04,
+2012,Percentage,.,,Bremen,code04,
+2013,Percentage,.,,Bremen,code04,
+2014,Percentage,.,,Bremen,code04,
+2015,Percentage,.,,Bremen,code04,
+2016,Percentage,.,,Bremen,code04,
+2017,Percentage,.,,Bremen,code04,
+2018,Percentage,.,,Bremen,code04,
+2019,Percentage,.,,Bremen,code04,
+2020,Percentage,.,,Bremen,code04,
+2021,Percentage,,,Bremen,code04,16.5
+2022,Percentage,,,Bremen,code04,11.3
+2023,Percentage,,,Bremen,code04,14.3
+2024,Percentage,,,Bremen,code04,11.6
+2030,Percentage,,,Bremen,code04,
+2010,Percentage,.,,Hamburg,code02,
+2011,Percentage,.,,Hamburg,code02,
+2012,Percentage,.,,Hamburg,code02,
+2013,Percentage,.,,Hamburg,code02,
+2014,Percentage,.,,Hamburg,code02,
+2015,Percentage,.,,Hamburg,code02,
+2016,Percentage,.,,Hamburg,code02,
+2017,Percentage,.,,Hamburg,code02,
+2018,Percentage,.,,Hamburg,code02,
+2019,Percentage,.,,Hamburg,code02,
+2020,Percentage,.,,Hamburg,code02,
+2021,Percentage,,,Hamburg,code02,13.8
+2022,Percentage,,,Hamburg,code02,16.8
+2023,Percentage,,,Hamburg,code02,15.8
+2024,Percentage,,,Hamburg,code02,13.2
+2030,Percentage,,,Hamburg,code02,
+2010,Percentage,.,,Hesse,code06,
+2011,Percentage,.,,Hesse,code06,
+2012,Percentage,.,,Hesse,code06,
+2013,Percentage,.,,Hesse,code06,
+2014,Percentage,.,,Hesse,code06,
+2015,Percentage,.,,Hesse,code06,
+2016,Percentage,.,,Hesse,code06,
+2017,Percentage,.,,Hesse,code06,
+2018,Percentage,.,,Hesse,code06,
+2019,Percentage,.,,Hesse,code06,
+2020,Percentage,.,,Hesse,code06,
+2021,Percentage,,,Hesse,code06,14.4
+2022,Percentage,,,Hesse,code06,12.8
+2023,Percentage,,,Hesse,code06,15.0
+2024,Percentage,,,Hesse,code06,13.4
+2030,Percentage,,,Hesse,code06,
+2010,Percentage,.,,Mecklenburg Western Pomerania,code13,
+2011,Percentage,.,,Mecklenburg Western Pomerania,code13,
+2012,Percentage,.,,Mecklenburg Western Pomerania,code13,
+2013,Percentage,.,,Mecklenburg Western Pomerania,code13,
+2014,Percentage,.,,Mecklenburg Western Pomerania,code13,
+2015,Percentage,.,,Mecklenburg Western Pomerania,code13,
+2016,Percentage,.,,Mecklenburg Western Pomerania,code13,
+2017,Percentage,.,,Mecklenburg Western Pomerania,code13,
+2018,Percentage,.,,Mecklenburg Western Pomerania,code13,
+2019,Percentage,.,,Mecklenburg Western Pomerania,code13,
+2020,Percentage,.,,Mecklenburg Western Pomerania,code13,
+2021,Percentage,,,Mecklenburg Western Pomerania,code13,6.6
+2022,Percentage,,,Mecklenburg Western Pomerania,code13,8.0
+2023,Percentage,,,Mecklenburg Western Pomerania,code13,12.4
+2024,Percentage,,,Mecklenburg Western Pomerania,code13,8.0
+2030,Percentage,,,Mecklenburg Western Pomerania,code13,
+2010,Percentage,.,,Lower Saxony,code03,
+2011,Percentage,.,,Lower Saxony,code03,
+2012,Percentage,.,,Lower Saxony,code03,
+2013,Percentage,.,,Lower Saxony,code03,
+2014,Percentage,.,,Lower Saxony,code03,
+2015,Percentage,.,,Lower Saxony,code03,
+2016,Percentage,.,,Lower Saxony,code03,
+2017,Percentage,.,,Lower Saxony,code03,
+2018,Percentage,.,,Lower Saxony,code03,
+2019,Percentage,.,,Lower Saxony,code03,
+2020,Percentage,.,,Lower Saxony,code03,
+2021,Percentage,,,Lower Saxony,code03,11.4
+2022,Percentage,,,Lower Saxony,code03,13.1
+2023,Percentage,,,Lower Saxony,code03,13.4
+2024,Percentage,,,Lower Saxony,code03,13.4
+2030,Percentage,,,Lower Saxony,code03,
+2010,Percentage,.,,North Rhine-Westphalia,code05,
+2011,Percentage,.,,North Rhine-Westphalia,code05,
+2012,Percentage,.,,North Rhine-Westphalia,code05,
+2013,Percentage,.,,North Rhine-Westphalia,code05,
+2014,Percentage,.,,North Rhine-Westphalia,code05,
+2015,Percentage,.,,North Rhine-Westphalia,code05,
+2016,Percentage,.,,North Rhine-Westphalia,code05,
+2017,Percentage,.,,North Rhine-Westphalia,code05,
+2018,Percentage,.,,North Rhine-Westphalia,code05,
+2019,Percentage,.,,North Rhine-Westphalia,code05,
+2020,Percentage,.,,North Rhine-Westphalia,code05,
+2021,Percentage,,,North Rhine-Westphalia,code05,11.4
+2022,Percentage,,,North Rhine-Westphalia,code05,12.5
+2023,Percentage,,,North Rhine-Westphalia,code05,14.2
+2024,Percentage,,,North Rhine-Westphalia,code05,12.0
+2030,Percentage,,,North Rhine-Westphalia,code05,
+2010,Percentage,.,,Rhineland Palatinate,code07,
+2011,Percentage,.,,Rhineland Palatinate,code07,
+2012,Percentage,.,,Rhineland Palatinate,code07,
+2013,Percentage,.,,Rhineland Palatinate,code07,
+2014,Percentage,.,,Rhineland Palatinate,code07,
+2015,Percentage,.,,Rhineland Palatinate,code07,
+2016,Percentage,.,,Rhineland Palatinate,code07,
+2017,Percentage,.,,Rhineland Palatinate,code07,
+2018,Percentage,.,,Rhineland Palatinate,code07,
+2019,Percentage,.,,Rhineland Palatinate,code07,
+2020,Percentage,.,,Rhineland Palatinate,code07,
+2021,Percentage,,,Rhineland Palatinate,code07,10.9
+2022,Percentage,,,Rhineland Palatinate,code07,12.1
+2023,Percentage,,,Rhineland Palatinate,code07,14.4
+2024,Percentage,,,Rhineland Palatinate,code07,14.2
+2030,Percentage,,,Rhineland Palatinate,code07,
+2010,Percentage,.,,Saarland,code10,
+2011,Percentage,.,,Saarland,code10,
+2012,Percentage,.,,Saarland,code10,
+2013,Percentage,.,,Saarland,code10,
+2014,Percentage,.,,Saarland,code10,
+2015,Percentage,.,,Saarland,code10,
+2016,Percentage,.,,Saarland,code10,
+2017,Percentage,.,,Saarland,code10,
+2018,Percentage,.,,Saarland,code10,
+2019,Percentage,.,,Saarland,code10,
+2020,Percentage,.,,Saarland,code10,
+2021,Percentage,,,Saarland,code10,12.4
+2022,Percentage,,,Saarland,code10,14.4
+2023,Percentage,,,Saarland,code10,13.6
+2024,Percentage,,,Saarland,code10,14.4
+2030,Percentage,,,Saarland,code10,
+2010,Percentage,.,,Saxony,code14,
+2011,Percentage,.,,Saxony,code14,
+2012,Percentage,.,,Saxony,code14,
+2013,Percentage,.,,Saxony,code14,
+2014,Percentage,.,,Saxony,code14,
+2015,Percentage,.,,Saxony,code14,
+2016,Percentage,.,,Saxony,code14,
+2017,Percentage,.,,Saxony,code14,
+2018,Percentage,.,,Saxony,code14,
+2019,Percentage,.,,Saxony,code14,
+2020,Percentage,.,,Saxony,code14,
+2021,Percentage,,,Saxony,code14,6.7
+2022,Percentage,,,Saxony,code14,8.8
+2023,Percentage,,,Saxony,code14,8.5
+2024,Percentage,,,Saxony,code14,7.4
+2030,Percentage,,,Saxony,code14,
+2010,Percentage,.,,Saxony-Anhalt,code15,
+2011,Percentage,.,,Saxony-Anhalt,code15,
+2012,Percentage,.,,Saxony-Anhalt,code15,
+2013,Percentage,.,,Saxony-Anhalt,code15,
+2014,Percentage,.,,Saxony-Anhalt,code15,
+2015,Percentage,.,,Saxony-Anhalt,code15,
+2016,Percentage,.,,Saxony-Anhalt,code15,
+2017,Percentage,.,,Saxony-Anhalt,code15,
+2018,Percentage,.,,Saxony-Anhalt,code15,
+2019,Percentage,.,,Saxony-Anhalt,code15,
+2020,Percentage,.,,Saxony-Anhalt,code15,
+2021,Percentage,,,Saxony-Anhalt,code15,8.2
+2022,Percentage,,,Saxony-Anhalt,code15,7.3
+2023,Percentage,,,Saxony-Anhalt,code15,9.6
+2024,Percentage,,,Saxony-Anhalt,code15,8.9
+2030,Percentage,,,Saxony-Anhalt,code15,
+2010,Percentage,.,,Schleswig-Holstein,code01,
+2011,Percentage,.,,Schleswig-Holstein,code01,
+2012,Percentage,.,,Schleswig-Holstein,code01,
+2013,Percentage,.,,Schleswig-Holstein,code01,
+2014,Percentage,.,,Schleswig-Holstein,code01,
+2015,Percentage,.,,Schleswig-Holstein,code01,
+2016,Percentage,.,,Schleswig-Holstein,code01,
+2017,Percentage,.,,Schleswig-Holstein,code01,
+2018,Percentage,.,,Schleswig-Holstein,code01,
+2019,Percentage,.,,Schleswig-Holstein,code01,
+2020,Percentage,.,,Schleswig-Holstein,code01,
+2021,Percentage,,,Schleswig-Holstein,code01,12.1
+2022,Percentage,,,Schleswig-Holstein,code01,13.1
+2023,Percentage,,,Schleswig-Holstein,code01,16.4
+2024,Percentage,,,Schleswig-Holstein,code01,14.7
+2030,Percentage,,,Schleswig-Holstein,code01,
+2010,Percentage,.,,Thuringia,code16,
+2011,Percentage,.,,Thuringia,code16,
+2012,Percentage,.,,Thuringia,code16,
+2013,Percentage,.,,Thuringia,code16,
+2014,Percentage,.,,Thuringia,code16,
+2015,Percentage,.,,Thuringia,code16,
+2016,Percentage,.,,Thuringia,code16,
+2017,Percentage,.,,Thuringia,code16,
+2018,Percentage,.,,Thuringia,code16,
+2019,Percentage,.,,Thuringia,code16,
+2020,Percentage,.,,Thuringia,code16,
+2021,Percentage,,,Thuringia,code16,8.6
+2022,Percentage,,,Thuringia,code16,9.4
+2023,Percentage,,,Thuringia,code16,12.1
+2024,Percentage,,,Thuringia,code16,9.8
+2030,Percentage,,,Thuringia,code16,

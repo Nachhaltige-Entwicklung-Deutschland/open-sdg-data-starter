@@ -52,7 +52,7 @@
             "constraints": {
               "enum": [
                 "overweight without obese",
-                "obese",
+                "obesity",
                 ""
               ]
             }

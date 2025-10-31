@@ -45,6 +45,7 @@
             "constraints": {
               "enum": [
                 "p",
+                "…",
                 ""
               ]
             },
@@ -62,6 +63,18 @@
               ]
             },
             "title": "Risikolage"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "Value",

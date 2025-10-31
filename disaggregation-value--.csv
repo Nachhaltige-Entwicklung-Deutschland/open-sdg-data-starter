@@ -5,7 +5,7 @@ Indicator,Disaggregation combinations using this value
 #11-1-c,32
 #11-2-a,3
 #11-2-b,3
-#11-2-c,17
+#11-2-c,1
 #11-3-a,3
 #12-1-a,1
 #12-1-b,2
@@ -34,7 +34,8 @@ Indicator,Disaggregation combinations using this value
 #4-1-b,66
 #4-1-c,1
 #4-2-ab,38
-#4-3-a,3
+#4-3-a,2
+#4-3-b,5
 #5-1-bc,2
 #5-1-d,18
 #5-1-f,1
@@ -45,8 +46,6 @@ Indicator,Disaggregation combinations using this value
 #7-2-a,17
 #7-2-b,17
 #8-1,5
-#8-2-ab,16
-#8-2-c,16
 #8-3,16
 #8-5-ab,102
 #9-1-a,20
