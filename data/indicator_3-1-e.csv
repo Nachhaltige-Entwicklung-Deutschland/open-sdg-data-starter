@@ -1,37 +1,37 @@
-Year,Units,age group,sex,time series,Value
-2003-2006,percentage,3 to under 11 years,,,12.9
-2014-2017,percentage,3 to under 11 years,,,12.3
-2003-2006,percentage,3 to under 11 years,female,,12.8
-2014-2017,percentage,3 to under 11 years,female,,12.9
-2003-2006,percentage,3 to under 11 years,male,,13.1
-2014-2017,percentage,3 to under 11 years,male,,11.8
-2003-2006,percentage,11 to under 18 years,,,18.1
-2014-2017,percentage,11 to under 18 years,,,18.7
-2003-2006,percentage,11 to under 18 years,female,,17.8
-2014-2017,percentage,11 to under 18 years,female,,17.8
-2003-2006,percentage,11 to under 18 years,male,,18.3
-2014-2017,percentage,11 to under 18 years,male,,19.6
-2003-2006,percentage,3 to under 11 years,,overweight without obese,7.7
-2014-2017,percentage,3 to under 11 years,,overweight without obese,8.4
-2003-2006,percentage,3 to under 11 years,female,overweight without obese,7.6
-2014-2017,percentage,3 to under 11 years,female,overweight without obese,9.0
-2003-2006,percentage,3 to under 11 years,male,overweight without obese,7.9
-2014-2017,percentage,3 to under 11 years,male,overweight without obese,7.8
-2003-2006,percentage,11 to under 18 years,,overweight without obese,9.8
-2014-2017,percentage,11 to under 18 years,,overweight without obese,10.7
-2003-2006,percentage,11 to under 18 years,female,overweight without obese,9.7
-2014-2017,percentage,11 to under 18 years,female,overweight without obese,10.6
-2003-2006,percentage,11 to under 18 years,male,overweight without obese,10.0
-2014-2017,percentage,11 to under 18 years,male,overweight without obese,10.9
-2003-2006,percentage,3 to under 11 years,,obesity,5.2
-2014-2017,percentage,3 to under 11 years,,obesity,3.9
-2003-2006,percentage,3 to under 11 years,female,obesity,5.2
-2014-2017,percentage,3 to under 11 years,female,obesity,3.9
-2003-2006,percentage,3 to under 11 years,male,obesity,5.2
-2014-2017,percentage,3 to under 11 years,male,obesity,3.9
-2003-2006,percentage,11 to under 18 years,,obesity,8.3
-2014-2017,percentage,11 to under 18 years,,obesity,8.0
-2003-2006,percentage,11 to under 18 years,female,obesity,8.2
-2014-2017,percentage,11 to under 18 years,female,obesity,7.2
-2003-2006,percentage,11 to under 18 years,male,obesity,8.4
-2014-2017,percentage,11 to under 18 years,male,obesity,8.7
+Year,Units,Series,age group,sex,Value
+2003-2006,percentage,<u>time series of the indicator:</u> obesity rate,3 to under 11 years,,5.2
+2014-2017,percentage,<u>time series of the indicator:</u> obesity rate,3 to under 11 years,,3.9
+2003-2006,percentage,<u>time series of the indicator:</u> obesity rate,3 to under 11 years,female,5.2
+2014-2017,percentage,<u>time series of the indicator:</u> obesity rate,3 to under 11 years,female,3.9
+2003-2006,percentage,<u>time series of the indicator:</u> obesity rate,3 to under 11 years,male,5.2
+2014-2017,percentage,<u>time series of the indicator:</u> obesity rate,3 to under 11 years,male,3.9
+2003-2006,percentage,<u>time series of the indicator:</u> obesity rate,11 to under 18 years,,8.3
+2014-2017,percentage,<u>time series of the indicator:</u> obesity rate,11 to under 18 years,,8.0
+2003-2006,percentage,<u>time series of the indicator:</u> obesity rate,11 to under 18 years,female,8.2
+2014-2017,percentage,<u>time series of the indicator:</u> obesity rate,11 to under 18 years,female,7.2
+2003-2006,percentage,<u>time series of the indicator:</u> obesity rate,11 to under 18 years,male,8.4
+2014-2017,percentage,<u>time series of the indicator:</u> obesity rate,11 to under 18 years,male,8.7
+2003-2006,percentage,<u>additional time series:</u> overweight rate (without obese),3 to under 11 years,,7.7
+2014-2017,percentage,<u>additional time series:</u> overweight rate (without obese),3 to under 11 years,,8.4
+2003-2006,percentage,<u>additional time series:</u> overweight rate (without obese),3 to under 11 years,female,7.6
+2014-2017,percentage,<u>additional time series:</u> overweight rate (without obese),3 to under 11 years,female,9.0
+2003-2006,percentage,<u>additional time series:</u> overweight rate (without obese),3 to under 11 years,male,7.9
+2014-2017,percentage,<u>additional time series:</u> overweight rate (without obese),3 to under 11 years,male,7.8
+2003-2006,percentage,<u>additional time series:</u> overweight rate (without obese),11 to under 18 years,,9.8
+2014-2017,percentage,<u>additional time series:</u> overweight rate (without obese),11 to under 18 years,,10.7
+2003-2006,percentage,<u>additional time series:</u> overweight rate (without obese),11 to under 18 years,female,9.7
+2014-2017,percentage,<u>additional time series:</u> overweight rate (without obese),11 to under 18 years,female,10.6
+2003-2006,percentage,<u>additional time series:</u> overweight rate (without obese),11 to under 18 years,male,10.0
+2014-2017,percentage,<u>additional time series:</u> overweight rate (without obese),11 to under 18 years,male,10.9
+2003-2006,percentage,<u>additional time series:</u> overweight rate (with obese),3 to under 11 years,,12.9
+2014-2017,percentage,<u>additional time series:</u> overweight rate (with obese),3 to under 11 years,,12.3
+2003-2006,percentage,<u>additional time series:</u> overweight rate (with obese),3 to under 11 years,female,12.8
+2014-2017,percentage,<u>additional time series:</u> overweight rate (with obese),3 to under 11 years,female,12.9
+2003-2006,percentage,<u>additional time series:</u> overweight rate (with obese),3 to under 11 years,male,13.1
+2014-2017,percentage,<u>additional time series:</u> overweight rate (with obese),3 to under 11 years,male,11.8
+2003-2006,percentage,<u>additional time series:</u> overweight rate (with obese),11 to under 18 years,,18.1
+2014-2017,percentage,<u>additional time series:</u> overweight rate (with obese),11 to under 18 years,,18.7
+2003-2006,percentage,<u>additional time series:</u> overweight rate (with obese),11 to under 18 years,female,17.8
+2014-2017,percentage,<u>additional time series:</u> overweight rate (with obese),11 to under 18 years,female,17.8
+2003-2006,percentage,<u>additional time series:</u> overweight rate (with obese),11 to under 18 years,male,18.3
+2014-2017,percentage,<u>additional time series:</u> overweight rate (with obese),11 to under 18 years,male,19.6
