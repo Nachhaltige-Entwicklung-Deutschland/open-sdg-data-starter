@@ -27,6 +27,19 @@
             "title": "Units"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "<u>Zeitreihe des Indikators:</u> Adipositasquote",
+                "<u>Zusätzliche Zeitreihe:</u> Übergewichtsquote (ohne Adipositas)",
+                "<u>Zusätzliche Zeitreihe:</u> Übergewichtsquote (mit Adipositas)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "age group",
             "type": "string",
             "constraints": {
@@ -49,18 +62,6 @@
               ]
             },
             "title": "Geschlecht"
-          },
-          {
-            "name": "time series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Übergewicht ohne Adipositas",
-                "Adipositas",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
           },
           {
             "name": "Value",

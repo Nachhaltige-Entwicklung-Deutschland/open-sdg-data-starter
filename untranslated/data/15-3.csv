@@ -1,9 +1,10 @@
 Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
-2006,percentage,,,,4.18
-2009,percentage,,,,4.23
-2012,percentage,,,,4.29
-2015,percentage,,,,4.31
-2018,percentage,,,,5.19
+2006,percentage,r,,,4.187
+2009,percentage,r,,,4.24
+2012,percentage,r,,,4.299
+2015,percentage,r,,,4.327
+2018,percentage,r,,,5.175
+2021,percentage,,,,4.85
 2007,percentage,.,,,
 2008,percentage,.,,,
 2010,percentage,.,,,
@@ -12,11 +13,14 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2014,percentage,.,,,
 2016,percentage,.,,,
 2017,percentage,.,,,
+2019,percentage,.,,,
+2020,percentage,.,,,
 2006,percentage,,baden-wuerttemberg,code08,4.868
-2009,percentage,,baden-wuerttemberg,code08,4.931
-2012,percentage,,baden-wuerttemberg,code08,5.001
-2015,percentage,,baden-wuerttemberg,code08,5.022
-2018,percentage,,baden-wuerttemberg,code08,6.153
+2009,percentage,,baden-wuerttemberg,code08,4.93
+2012,percentage,,baden-wuerttemberg,code08,5.0
+2015,percentage,,baden-wuerttemberg,code08,5.021
+2018,percentage,,baden-wuerttemberg,code08,6.152
+2021,percentage,,baden-wuerttemberg,code08,5.936
 2007,percentage,.,baden-wuerttemberg,code08,
 2008,percentage,.,baden-wuerttemberg,code08,
 2010,percentage,.,baden-wuerttemberg,code08,
@@ -25,11 +29,14 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2014,percentage,.,baden-wuerttemberg,code08,
 2016,percentage,.,baden-wuerttemberg,code08,
 2017,percentage,.,baden-wuerttemberg,code08,
+2019,percentage,.,baden-wuerttemberg,code08,
+2020,percentage,.,baden-wuerttemberg,code08,
 2006,percentage,,bavaria,code09,3.431
 2009,percentage,,bavaria,code09,3.473
 2012,percentage,,bavaria,code09,3.52
 2015,percentage,,bavaria,code09,3.543
 2018,percentage,,bavaria,code09,4.456
+2021,percentage,,bavaria,code09,4.518
 2007,percentage,.,bavaria,code09,
 2008,percentage,.,bavaria,code09,
 2010,percentage,.,bavaria,code09,
@@ -38,11 +45,14 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2014,percentage,.,bavaria,code09,
 2016,percentage,.,bavaria,code09,
 2017,percentage,.,bavaria,code09,
-2006,percentage,,berlin,code11,32.348
-2009,percentage,,berlin,code11,32.538
-2012,percentage,,berlin,code11,32.722
+2019,percentage,.,bavaria,code09,
+2020,percentage,.,bavaria,code09,
+2006,percentage,,berlin,code11,32.35
+2009,percentage,,berlin,code11,32.54
+2012,percentage,,berlin,code11,32.723
 2015,percentage,,berlin,code11,32.814
-2018,percentage,,berlin,code11,32.608
+2018,percentage,,berlin,code11,32.614
+2021,percentage,,berlin,code11,30.66
 2007,percentage,.,berlin,code11,
 2008,percentage,.,berlin,code11,
 2010,percentage,.,berlin,code11,
@@ -51,11 +61,14 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2014,percentage,.,berlin,code11,
 2016,percentage,.,berlin,code11,
 2017,percentage,.,berlin,code11,
-2006,percentage,,brandenburg,code12,2.537
+2019,percentage,.,berlin,code11,
+2020,percentage,.,berlin,code11,
+2006,percentage,,brandenburg,code12,2.536
 2009,percentage,,brandenburg,code12,2.579
 2012,percentage,,brandenburg,code12,2.645
 2015,percentage,,brandenburg,code12,2.686
-2018,percentage,,brandenburg,code12,3.124
+2018,percentage,,brandenburg,code12,3.125
+2021,percentage,,brandenburg,code12,2.619
 2007,percentage,.,brandenburg,code12,
 2008,percentage,.,brandenburg,code12,
 2010,percentage,.,brandenburg,code12,
@@ -64,11 +77,14 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2014,percentage,.,brandenburg,code12,
 2016,percentage,.,brandenburg,code12,
 2017,percentage,.,brandenburg,code12,
-2006,percentage,,bremen,code04,26.538
-2009,percentage,,bremen,code04,26.95
-2012,percentage,,bremen,code04,27.143
-2015,percentage,,bremen,code04,27.192
-2018,percentage,,bremen,code04,28.268
+2019,percentage,.,brandenburg,code12,
+2020,percentage,.,brandenburg,code12,
+2006,percentage,,bremen,code04,26.541
+2009,percentage,,bremen,code04,26.953
+2012,percentage,,bremen,code04,27.146
+2015,percentage,,bremen,code04,27.195
+2018,percentage,r,bremen,code04,28.253
+2021,percentage,,bremen,code04,26.181
 2007,percentage,.,bremen,code04,
 2008,percentage,.,bremen,code04,
 2010,percentage,.,bremen,code04,
@@ -77,11 +93,14 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2014,percentage,.,bremen,code04,
 2016,percentage,.,bremen,code04,
 2017,percentage,.,bremen,code04,
-2006,percentage,,hamburg,code02,26.03
-2009,percentage,,hamburg,code02,26.307
-2012,percentage,,hamburg,code02,26.577
-2015,percentage,,hamburg,code02,26.661
-2018,percentage,,hamburg,code02,27.836
+2019,percentage,.,bremen,code04,
+2020,percentage,.,bremen,code04,
+2006,percentage,,hamburg,code02,26.024
+2009,percentage,,hamburg,code02,26.301
+2012,percentage,,hamburg,code02,26.571
+2015,percentage,,hamburg,code02,26.656
+2018,percentage,,hamburg,code02,27.833
+2021,percentage,,hamburg,code02,26.466
 2007,percentage,.,hamburg,code02,
 2008,percentage,.,hamburg,code02,
 2010,percentage,.,hamburg,code02,
@@ -90,11 +109,14 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2014,percentage,.,hamburg,code02,
 2016,percentage,.,hamburg,code02,
 2017,percentage,.,hamburg,code02,
-2006,percentage,,hesse,code06,4.785
+2019,percentage,.,hamburg,code02,
+2020,percentage,.,hamburg,code02,
+2006,percentage,,hesse,code06,4.784
 2009,percentage,,hesse,code06,4.853
 2012,percentage,,hesse,code06,4.913
 2015,percentage,,hesse,code06,4.933
 2018,percentage,,hesse,code06,5.827
+2021,percentage,,hesse,code06,5.436
 2007,percentage,.,hesse,code06,
 2008,percentage,.,hesse,code06,
 2010,percentage,.,hesse,code06,
@@ -103,11 +125,14 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2014,percentage,.,hesse,code06,
 2016,percentage,.,hesse,code06,
 2017,percentage,.,hesse,code06,
-2006,percentage,,mecklenburg western pomerania,code13,1.903
-2009,percentage,,mecklenburg western pomerania,code13,1.932
+2019,percentage,.,hesse,code06,
+2020,percentage,.,hesse,code06,
+2006,percentage,,mecklenburg western pomerania,code13,1.904
+2009,percentage,,mecklenburg western pomerania,code13,1.933
 2012,percentage,,mecklenburg western pomerania,code13,1.982
-2015,percentage,,mecklenburg western pomerania,code13,1.998
+2015,percentage,,mecklenburg western pomerania,code13,1.999
 2018,percentage,,mecklenburg western pomerania,code13,2.296
+2021,percentage,,mecklenburg western pomerania,code13,2.022
 2007,percentage,.,mecklenburg western pomerania,code13,
 2008,percentage,.,mecklenburg western pomerania,code13,
 2010,percentage,.,mecklenburg western pomerania,code13,
@@ -116,11 +141,14 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2014,percentage,.,mecklenburg western pomerania,code13,
 2016,percentage,.,mecklenburg western pomerania,code13,
 2017,percentage,.,mecklenburg western pomerania,code13,
+2019,percentage,.,mecklenburg western pomerania,code13,
+2020,percentage,.,mecklenburg western pomerania,code13,
 2006,percentage,,lower saxony,code03,3.612
-2009,percentage,,lower saxony,code03,3.668
-2012,percentage,,lower saxony,code03,3.73
-2015,percentage,,lower saxony,code03,3.765
-2018,percentage,,lower saxony,code03,4.648
+2009,percentage,,lower saxony,code03,3.669
+2012,percentage,,lower saxony,code03,3.731
+2015,percentage,,lower saxony,code03,3.766
+2018,percentage,,lower saxony,code03,4.647
+2021,percentage,,lower saxony,code03,4.207
 2007,percentage,.,lower saxony,code03,
 2008,percentage,.,lower saxony,code03,
 2010,percentage,.,lower saxony,code03,
@@ -129,11 +157,14 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2014,percentage,.,lower saxony,code03,
 2016,percentage,.,lower saxony,code03,
 2017,percentage,.,lower saxony,code03,
+2019,percentage,.,lower saxony,code03,
+2020,percentage,.,lower saxony,code03,
 2006,percentage,,north rhine-westphalia,code05,7.977
 2009,percentage,,north rhine-westphalia,code05,8.067
 2012,percentage,,north rhine-westphalia,code05,8.122
 2015,percentage,,north rhine-westphalia,code05,8.158
-2018,percentage,,north rhine-westphalia,code05,9.725
+2018,percentage,,north rhine-westphalia,code05,9.726
+2021,percentage,,north rhine-westphalia,code05,9.169
 2007,percentage,.,north rhine-westphalia,code05,
 2008,percentage,.,north rhine-westphalia,code05,
 2010,percentage,.,north rhine-westphalia,code05,
@@ -142,11 +173,14 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2014,percentage,.,north rhine-westphalia,code05,
 2016,percentage,.,north rhine-westphalia,code05,
 2017,percentage,.,north rhine-westphalia,code05,
+2019,percentage,.,north rhine-westphalia,code05,
+2020,percentage,.,north rhine-westphalia,code05,
 2006,percentage,,rhineland palatinate,code07,3.948
-2009,percentage,,rhineland palatinate,code07,4.026
-2012,percentage,,rhineland palatinate,code07,4.09
-2015,percentage,,rhineland palatinate,code07,4.121
+2009,percentage,,rhineland palatinate,code07,4.025
+2012,percentage,,rhineland palatinate,code07,4.089
+2015,percentage,,rhineland palatinate,code07,4.12
 2018,percentage,,rhineland palatinate,code07,5.048
+2021,percentage,,rhineland palatinate,code07,4.897
 2007,percentage,.,rhineland palatinate,code07,
 2008,percentage,.,rhineland palatinate,code07,
 2010,percentage,.,rhineland palatinate,code07,
@@ -155,11 +189,14 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2014,percentage,.,rhineland palatinate,code07,
 2016,percentage,.,rhineland palatinate,code07,
 2017,percentage,.,rhineland palatinate,code07,
-2006,percentage,,saarland,code10,6.517
-2009,percentage,,saarland,code10,6.769
-2012,percentage,,saarland,code10,6.847
-2015,percentage,,saarland,code10,6.892
-2018,percentage,,saarland,code10,8.933
+2019,percentage,.,rhineland palatinate,code07,
+2020,percentage,.,rhineland palatinate,code07,
+2006,percentage,,saarland,code10,6.52
+2009,percentage,,saarland,code10,6.772
+2012,percentage,,saarland,code10,6.85
+2015,percentage,,saarland,code10,6.895
+2018,percentage,,saarland,code10,8.932
+2021,percentage,,saarland,code10,8.589
 2007,percentage,.,saarland,code10,
 2008,percentage,.,saarland,code10,
 2010,percentage,.,saarland,code10,
@@ -168,11 +205,14 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2014,percentage,.,saarland,code10,
 2016,percentage,.,saarland,code10,
 2017,percentage,.,saarland,code10,
-2006,percentage,,saxony,code14,4.731
-2009,percentage,,saxony,code14,4.758
-2012,percentage,,saxony,code14,4.801
-2015,percentage,,saxony,code14,4.832
+2019,percentage,.,saarland,code10,
+2020,percentage,.,saarland,code10,
+2006,percentage,,saxony,code14,4.73
+2009,percentage,,saxony,code14,4.757
+2012,percentage,,saxony,code14,4.8
+2015,percentage,,saxony,code14,4.831
 2018,percentage,,saxony,code14,5.386
+2021,percentage,,saxony,code14,4.809
 2007,percentage,.,saxony,code14,
 2008,percentage,.,saxony,code14,
 2010,percentage,.,saxony,code14,
@@ -181,11 +221,14 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2014,percentage,.,saxony,code14,
 2016,percentage,.,saxony,code14,
 2017,percentage,.,saxony,code14,
-2006,percentage,,saxony-anhalt,code15,3.265
-2009,percentage,,saxony-anhalt,code15,3.286
-2012,percentage,,saxony-anhalt,code15,3.322
-2015,percentage,,saxony-anhalt,code15,3.342
+2019,percentage,.,saxony,code14,
+2020,percentage,.,saxony,code14,
+2006,percentage,,saxony-anhalt,code15,3.266
+2009,percentage,,saxony-anhalt,code15,3.287
+2012,percentage,,saxony-anhalt,code15,3.323
+2015,percentage,,saxony-anhalt,code15,3.343
 2018,percentage,,saxony-anhalt,code15,3.816
+2021,percentage,,saxony-anhalt,code15,3.216
 2007,percentage,.,saxony-anhalt,code15,
 2008,percentage,.,saxony-anhalt,code15,
 2010,percentage,.,saxony-anhalt,code15,
@@ -194,11 +237,14 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2014,percentage,.,saxony-anhalt,code15,
 2016,percentage,.,saxony-anhalt,code15,
 2017,percentage,.,saxony-anhalt,code15,
+2019,percentage,.,saxony-anhalt,code15,
+2020,percentage,.,saxony-anhalt,code15,
 2006,percentage,,schleswig-holstein,code01,3.563
-2009,percentage,,schleswig-holstein,code01,3.597
+2009,percentage,,schleswig-holstein,code01,3.598
 2012,percentage,,schleswig-holstein,code01,3.716
 2015,percentage,,schleswig-holstein,code01,3.749
-2018,percentage,,schleswig-holstein,code01,4.522
+2018,percentage,,schleswig-holstein,code01,4.521
+2021,percentage,,schleswig-holstein,code01,4.206
 2007,percentage,.,schleswig-holstein,code01,
 2008,percentage,.,schleswig-holstein,code01,
 2010,percentage,.,schleswig-holstein,code01,
@@ -207,11 +253,14 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2014,percentage,.,schleswig-holstein,code01,
 2016,percentage,.,schleswig-holstein,code01,
 2017,percentage,.,schleswig-holstein,code01,
-2006,percentage,,thuringia,code16,3.146
-2009,percentage,,thuringia,code16,3.167
-2012,percentage,,thuringia,code16,3.213
-2015,percentage,,thuringia,code16,3.239
+2019,percentage,.,schleswig-holstein,code01,
+2020,percentage,.,schleswig-holstein,code01,
+2006,percentage,,thuringia,code16,3.147
+2009,percentage,,thuringia,code16,3.168
+2012,percentage,,thuringia,code16,3.214
+2015,percentage,,thuringia,code16,3.24
 2018,percentage,,thuringia,code16,3.709
+2021,percentage,,thuringia,code16,3.22
 2007,percentage,.,thuringia,code16,
 2008,percentage,.,thuringia,code16,
 2010,percentage,.,thuringia,code16,
@@ -220,3 +269,5 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2014,percentage,.,thuringia,code16,
 2016,percentage,.,thuringia,code16,
 2017,percentage,.,thuringia,code16,
+2019,percentage,.,thuringia,code16,
+2020,percentage,.,thuringia,code16,

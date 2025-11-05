@@ -677,6 +677,19 @@
             "title": "Units"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "<u>Time series of the indicator:</u> Obesity rate",
+                "<u>Additional time series:</u> Overweight rate (without obese)",
+                "<u>Additional time series:</u> Overweight rate (with obese)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "age group",
             "type": "string",
             "constraints": {
@@ -699,18 +712,6 @@
               ]
             },
             "title": "Sex"
-          },
-          {
-            "name": "time series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Overweight without obese",
-                "Obesity",
-                ""
-              ]
-            },
-            "title": "Time series"
           },
           {
             "name": "Value",
@@ -4693,6 +4694,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ".",
                 ""
               ]
