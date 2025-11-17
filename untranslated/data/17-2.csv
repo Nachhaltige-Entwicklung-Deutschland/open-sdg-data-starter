@@ -18,6 +18,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,,,,316001.0
 2022,number,,,,,335016.0
 2023,number,,,,,348976.0
+2024,number,,,,,372778.0
 2005,number,.,baden-wuerttemberg,code08,,
 2006,number,,baden-wuerttemberg,code08,,20133.0
 2007,number,,baden-wuerttemberg,code08,,19383.0
@@ -37,6 +38,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,baden-wuerttemberg,code08,,30127.0
 2022,number,,baden-wuerttemberg,code08,,31266.0
 2023,number,,baden-wuerttemberg,code08,,31761.0
+2024,number,,baden-wuerttemberg,code08,,33650.0
 2005,number,.,bavaria,code09,,
 2006,number,,bavaria,code09,,13978.0
 2007,number,,bavaria,code09,,13633.0
@@ -56,6 +58,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,bavaria,code09,,47700.0
 2022,number,,bavaria,code09,,53851.0
 2023,number,,bavaria,code09,,59560.0
+2024,number,,bavaria,code09,,64723.0
 2005,number,.,berlin,code11,,
 2006,number,,berlin,code11,,9715.0
 2007,number,,berlin,code11,,10005.0
@@ -75,6 +78,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,berlin,code11,,28264.0
 2022,number,,berlin,code11,,29458.0
 2023,number,,berlin,code11,,30553.0
+2024,number,,berlin,code11,,32270.0
 2005,number,.,brandenburg,code12,,
 2006,number,,brandenburg,code12,,2568.0
 2007,number,,brandenburg,code12,,2630.0
@@ -94,6 +98,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,brandenburg,code12,,6988.0
 2022,number,,brandenburg,code12,,8362.0
 2023,number,,brandenburg,code12,,9373.0
+2024,number,,brandenburg,code12,,11161.0
 2005,number,.,bremen,code04,,
 2006,number,,bremen,code04,,3789.0
 2007,number,,bremen,code04,,3644.0
@@ -113,6 +118,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,bremen,code04,,5526.0
 2022,number,,bremen,code04,,5770.0
 2023,number,,bremen,code04,,6002.0
+2024,number,,bremen,code04,,6502.0
 2005,number,.,hamburg,code02,,
 2006,number,,hamburg,code02,,5311.0
 2007,number,,hamburg,code02,,4970.0
@@ -132,6 +138,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,hamburg,code02,,10293.0
 2022,number,,hamburg,code02,,11075.0
 2023,number,,hamburg,code02,,11532.0
+2024,number,,hamburg,code02,,12438.0
 2005,number,.,hesse,code06,,
 2006,number,,hesse,code06,,14955.0
 2007,number,,hesse,code06,,13532.0
@@ -151,6 +158,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,hesse,code06,,30299.0
 2022,number,,hesse,code06,,31334.0
 2023,number,,hesse,code06,,31933.0
+2024,number,,hesse,code06,,34184.0
 2005,number,.,mecklenburg western pomerania,code13,,
 2006,number,,mecklenburg western pomerania,code13,,1194.0
 2007,number,,mecklenburg western pomerania,code13,,1207.0
@@ -170,6 +178,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,mecklenburg western pomerania,code13,,3477.0
 2022,number,,mecklenburg western pomerania,code13,,3555.0
 2023,number,,mecklenburg western pomerania,code13,,3404.0
+2024,number,,mecklenburg western pomerania,code13,,3374.0
 2005,number,.,lower saxony,code03,,
 2006,number,,lower saxony,code03,,10759.0
 2007,number,,lower saxony,code03,,10237.0
@@ -189,6 +198,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,lower saxony,code03,,21592.0
 2022,number,,lower saxony,code03,,22020.0
 2023,number,,lower saxony,code03,,22429.0
+2024,number,,lower saxony,code03,,23775.0
 2005,number,.,north rhine-westphalia,code05,,
 2006,number,,north rhine-westphalia,code05,,38324.0
 2007,number,,north rhine-westphalia,code05,,35303.0
@@ -208,6 +218,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,north rhine-westphalia,code05,,77363.0
 2022,number,,north rhine-westphalia,code05,,79204.0
 2023,number,,north rhine-westphalia,code05,,79691.0
+2024,number,,north rhine-westphalia,code05,,83319.0
 2005,number,.,rhineland palatinate,code07,,
 2006,number,,rhineland palatinate,code07,,6488.0
 2007,number,,rhineland palatinate,code07,,6993.0
@@ -227,6 +238,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,rhineland palatinate,code07,,12426.0
 2022,number,,rhineland palatinate,code07,,12964.0
 2023,number,,rhineland palatinate,code07,,12957.0
+2024,number,,rhineland palatinate,code07,,13408.0
 2005,number,.,saarland,code10,,
 2006,number,,saarland,code10,,1572.0
 2007,number,,saarland,code10,,1573.0
@@ -246,6 +258,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,saarland,code10,,3436.0
 2022,number,,saarland,code10,,3650.0
 2023,number,,saarland,code10,,3859.0
+2024,number,,saarland,code10,,4185.0
 2005,number,.,saxony,code14,,
 2006,number,,saxony,code14,,4963.0
 2007,number,,saxony,code14,,5139.0
@@ -265,6 +278,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,saxony,code14,,13915.0
 2022,number,,saxony,code14,,14487.0
 2023,number,,saxony,code14,,15487.0
+2024,number,,saxony,code14,,16742.0
 2005,number,.,saxony-anhalt,code15,,
 2006,number,,saxony-anhalt,code15,,3198.0
 2007,number,,saxony-anhalt,code15,,3247.0
@@ -284,6 +298,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,saxony-anhalt,code15,,8442.0
 2022,number,,saxony-anhalt,code15,,9383.0
 2023,number,,saxony-anhalt,code15,,9687.0
+2024,number,,saxony-anhalt,code15,,10301.0
 2005,number,.,schleswig-holstein,code01,,
 2006,number,,schleswig-holstein,code01,,2406.0
 2007,number,,schleswig-holstein,code01,,2416.0
@@ -303,6 +318,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,schleswig-holstein,code01,,4740.0
 2022,number,,schleswig-holstein,code01,,4828.0
 2023,number,,schleswig-holstein,code01,,4972.0
+2024,number,,schleswig-holstein,code01,,5390.0
 2005,number,.,thuringia,code16,,
 2006,number,,thuringia,code16,,1937.0
 2007,number,,thuringia,code16,,2176.0
@@ -322,6 +338,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,thuringia,code16,,11414.0
 2022,number,,thuringia,code16,,13809.0
 2023,number,,thuringia,code16,,15776.0
+2024,number,,thuringia,code16,,17356.0
 2005,number,,,,students from ldcs,4960.0
 2006,number,,,,students from ldcs,5012.0
 2007,number,,,,students from ldcs,4933.0
@@ -341,6 +358,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,,,students from ldcs,17113.0
 2022,number,,,,students from ldcs,18315.0
 2023,number,,,,students from ldcs,19505.0
+2024,number,,,,students from ldcs,22027.0
 2005,number,,baden-wuerttemberg,code08,students from ldcs,502.0
 2006,number,,baden-wuerttemberg,code08,students from ldcs,524.0
 2007,number,,baden-wuerttemberg,code08,students from ldcs,532.0
@@ -360,6 +378,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,baden-wuerttemberg,code08,students from ldcs,927.0
 2022,number,,baden-wuerttemberg,code08,students from ldcs,929.0
 2023,number,,baden-wuerttemberg,code08,students from ldcs,1029.0
+2024,number,,baden-wuerttemberg,code08,students from ldcs,1112.0
 2005,number,,bavaria,code09,students from ldcs,320.0
 2006,number,,bavaria,code09,students from ldcs,359.0
 2007,number,,bavaria,code09,students from ldcs,352.0
@@ -379,6 +398,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,bavaria,code09,students from ldcs,2217.0
 2022,number,,bavaria,code09,students from ldcs,2484.0
 2023,number,,bavaria,code09,students from ldcs,2841.0
+2024,number,,bavaria,code09,students from ldcs,3208.0
 2005,number,,berlin,code11,students from ldcs,362.0
 2006,number,,berlin,code11,students from ldcs,370.0
 2007,number,,berlin,code11,students from ldcs,337.0
@@ -398,6 +418,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,berlin,code11,students from ldcs,1203.0
 2022,number,,berlin,code11,students from ldcs,1284.0
 2023,number,,berlin,code11,students from ldcs,1397.0
+2024,number,,berlin,code11,students from ldcs,1528.0
 2005,number,,brandenburg,code12,students from ldcs,124.0
 2006,number,,brandenburg,code12,students from ldcs,121.0
 2007,number,,brandenburg,code12,students from ldcs,123.0
@@ -417,6 +438,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,brandenburg,code12,students from ldcs,669.0
 2022,number,,brandenburg,code12,students from ldcs,765.0
 2023,number,,brandenburg,code12,students from ldcs,872.0
+2024,number,,brandenburg,code12,students from ldcs,1037.0
 2005,number,,bremen,code04,students from ldcs,188.0
 2006,number,,bremen,code04,students from ldcs,192.0
 2007,number,,bremen,code04,students from ldcs,206.0
@@ -436,6 +458,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,bremen,code04,students from ldcs,525.0
 2022,number,,bremen,code04,students from ldcs,556.0
 2023,number,,bremen,code04,students from ldcs,571.0
+2024,number,,bremen,code04,students from ldcs,631.0
 2005,number,,hamburg,code02,students from ldcs,292.0
 2006,number,,hamburg,code02,students from ldcs,281.0
 2007,number,,hamburg,code02,students from ldcs,260.0
@@ -455,6 +478,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,hamburg,code02,students from ldcs,694.0
 2022,number,,hamburg,code02,students from ldcs,761.0
 2023,number,,hamburg,code02,students from ldcs,801.0
+2024,number,,hamburg,code02,students from ldcs,876.0
 2005,number,,hesse,code06,students from ldcs,728.0
 2006,number,,hesse,code06,students from ldcs,731.0
 2007,number,,hesse,code06,students from ldcs,665.0
@@ -474,6 +498,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,hesse,code06,students from ldcs,2071.0
 2022,number,,hesse,code06,students from ldcs,2192.0
 2023,number,,hesse,code06,students from ldcs,2342.0
+2024,number,,hesse,code06,students from ldcs,2784.0
 2005,number,,mecklenburg western pomerania,code13,students from ldcs,61.0
 2006,number,,mecklenburg western pomerania,code13,students from ldcs,66.0
 2007,number,,mecklenburg western pomerania,code13,students from ldcs,68.0
@@ -493,6 +518,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,mecklenburg western pomerania,code13,students from ldcs,159.0
 2022,number,,mecklenburg western pomerania,code13,students from ldcs,150.0
 2023,number,,mecklenburg western pomerania,code13,students from ldcs,156.0
+2024,number,,mecklenburg western pomerania,code13,students from ldcs,175.0
 2005,number,,lower saxony,code03,students from ldcs,374.0
 2006,number,,lower saxony,code03,students from ldcs,351.0
 2007,number,,lower saxony,code03,students from ldcs,340.0
@@ -512,6 +538,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,lower saxony,code03,students from ldcs,1009.0
 2022,number,,lower saxony,code03,students from ldcs,1062.0
 2023,number,,lower saxony,code03,students from ldcs,1117.0
+2024,number,,lower saxony,code03,students from ldcs,1242.0
 2005,number,,north rhine-westphalia,code05,students from ldcs,1261.0
 2006,number,,north rhine-westphalia,code05,students from ldcs,1213.0
 2007,number,,north rhine-westphalia,code05,students from ldcs,1183.0
@@ -531,6 +558,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,north rhine-westphalia,code05,students from ldcs,4013.0
 2022,number,,north rhine-westphalia,code05,students from ldcs,4283.0
 2023,number,,north rhine-westphalia,code05,students from ldcs,4509.0
+2024,number,,north rhine-westphalia,code05,students from ldcs,5135.0
 2005,number,,rhineland palatinate,code07,students from ldcs,239.0
 2006,number,,rhineland palatinate,code07,students from ldcs,271.0
 2007,number,,rhineland palatinate,code07,students from ldcs,313.0
@@ -550,6 +578,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,rhineland palatinate,code07,students from ldcs,706.0
 2022,number,,rhineland palatinate,code07,students from ldcs,755.0
 2023,number,,rhineland palatinate,code07,students from ldcs,767.0
+2024,number,,rhineland palatinate,code07,students from ldcs,938.0
 2005,number,,saarland,code10,students from ldcs,95.0
 2006,number,,saarland,code10,students from ldcs,93.0
 2007,number,,saarland,code10,students from ldcs,106.0
@@ -569,6 +598,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,saarland,code10,students from ldcs,186.0
 2022,number,,saarland,code10,students from ldcs,201.0
 2023,number,,saarland,code10,students from ldcs,192.0
+2024,number,,saarland,code10,students from ldcs,187.0
 2005,number,,saxony,code14,students from ldcs,184.0
 2006,number,,saxony,code14,students from ldcs,200.0
 2007,number,,saxony,code14,students from ldcs,195.0
@@ -588,6 +618,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,saxony,code14,students from ldcs,833.0
 2022,number,,saxony,code14,students from ldcs,919.0
 2023,number,,saxony,code14,students from ldcs,857.0
+2024,number,,saxony,code14,students from ldcs,862.0
 2005,number,,saxony-anhalt,code15,students from ldcs,100.0
 2006,number,,saxony-anhalt,code15,students from ldcs,93.0
 2007,number,,saxony-anhalt,code15,students from ldcs,88.0
@@ -607,6 +638,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,saxony-anhalt,code15,students from ldcs,688.0
 2022,number,,saxony-anhalt,code15,students from ldcs,746.0
 2023,number,,saxony-anhalt,code15,students from ldcs,755.0
+2024,number,,saxony-anhalt,code15,students from ldcs,800.0
 2005,number,,schleswig-holstein,code01,students from ldcs,105.0
 2006,number,,schleswig-holstein,code01,students from ldcs,118.0
 2007,number,,schleswig-holstein,code01,students from ldcs,132.0
@@ -626,6 +658,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,schleswig-holstein,code01,students from ldcs,450.0
 2022,number,,schleswig-holstein,code01,students from ldcs,485.0
 2023,number,,schleswig-holstein,code01,students from ldcs,502.0
+2024,number,,schleswig-holstein,code01,students from ldcs,554.0
 2005,number,,thuringia,code16,students from ldcs,25.0
 2006,number,,thuringia,code16,students from ldcs,29.0
 2007,number,,thuringia,code16,students from ldcs,33.0
@@ -645,6 +678,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,thuringia,code16,students from ldcs,763.0
 2022,number,,thuringia,code16,students from ldcs,743.0
 2023,number,,thuringia,code16,students from ldcs,797.0
+2024,number,,thuringia,code16,students from ldcs,958.0
 2005,number,,,,students from other developing and emerging countries,129502.0
 2006,number,,,,students from other developing and emerging countries,129631.0
 2007,number,,,,students from other developing and emerging countries,124181.0
@@ -664,6 +698,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,,,students from other developing and emerging countries,273340.0
 2022,number,,,,students from other developing and emerging countries,288587.0
 2023,number,,,,students from other developing and emerging countries,299158.0
+2024,number,,,,students from other developing and emerging countries,317949.0
 2005,number,,baden-wuerttemberg,code08,students from other developing and emerging countries,18582.0
 2006,number,,baden-wuerttemberg,code08,students from other developing and emerging countries,18379.0
 2007,number,,baden-wuerttemberg,code08,students from other developing and emerging countries,17473.0
@@ -683,6 +718,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,baden-wuerttemberg,code08,students from other developing and emerging countries,24921.0
 2022,number,,baden-wuerttemberg,code08,students from other developing and emerging countries,25522.0
 2023,number,,baden-wuerttemberg,code08,students from other developing and emerging countries,25608.0
+2024,number,,baden-wuerttemberg,code08,students from other developing and emerging countries,26971.0
 2005,number,,bavaria,code09,students from other developing and emerging countries,12251.0
 2006,number,,bavaria,code09,students from other developing and emerging countries,12721.0
 2007,number,,bavaria,code09,students from other developing and emerging countries,12324.0
@@ -702,6 +738,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,bavaria,code09,students from other developing and emerging countries,41719.0
 2022,number,,bavaria,code09,students from other developing and emerging countries,47030.0
 2023,number,,bavaria,code09,students from other developing and emerging countries,52228.0
+2024,number,,bavaria,code09,students from other developing and emerging countries,56701.0
 2005,number,,berlin,code11,students from other developing and emerging countries,9047.0
 2006,number,,berlin,code11,students from other developing and emerging countries,8871.0
 2007,number,,berlin,code11,students from other developing and emerging countries,9202.0
@@ -721,6 +758,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,berlin,code11,students from other developing and emerging countries,25441.0
 2022,number,,berlin,code11,students from other developing and emerging countries,26450.0
 2023,number,,berlin,code11,students from other developing and emerging countries,27212.0
+2024,number,,berlin,code11,students from other developing and emerging countries,28648.0
 2005,number,,brandenburg,code12,students from other developing and emerging countries,2288.0
 2006,number,,brandenburg,code12,students from other developing and emerging countries,2347.0
 2007,number,,brandenburg,code12,students from other developing and emerging countries,2396.0
@@ -740,6 +778,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,brandenburg,code12,students from other developing and emerging countries,5748.0
 2022,number,,brandenburg,code12,students from other developing and emerging countries,6933.0
 2023,number,,brandenburg,code12,students from other developing and emerging countries,7798.0
+2024,number,,brandenburg,code12,students from other developing and emerging countries,9371.0
 2005,number,,bremen,code04,students from other developing and emerging countries,3751.0
 2006,number,,bremen,code04,students from other developing and emerging countries,3484.0
 2007,number,,bremen,code04,students from other developing and emerging countries,3339.0
@@ -759,6 +798,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,bremen,code04,students from other developing and emerging countries,4745.0
 2022,number,,bremen,code04,students from other developing and emerging countries,4869.0
 2023,number,,bremen,code04,students from other developing and emerging countries,5064.0
+2024,number,,bremen,code04,students from other developing and emerging countries,5510.0
 2005,number,,hamburg,code02,students from other developing and emerging countries,4837.0
 2006,number,,hamburg,code02,students from other developing and emerging countries,4860.0
 2007,number,,hamburg,code02,students from other developing and emerging countries,4484.0
@@ -778,6 +818,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,hamburg,code02,students from other developing and emerging countries,8782.0
 2022,number,,hamburg,code02,students from other developing and emerging countries,9425.0
 2023,number,,hamburg,code02,students from other developing and emerging countries,9642.0
+2024,number,,hamburg,code02,students from other developing and emerging countries,10421.0
 2005,number,,hesse,code06,students from other developing and emerging countries,13808.0
 2006,number,,hesse,code06,students from other developing and emerging countries,13737.0
 2007,number,,hesse,code06,students from other developing and emerging countries,12328.0
@@ -797,6 +838,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,hesse,code06,students from other developing and emerging countries,26581.0
 2022,number,,hesse,code06,students from other developing and emerging countries,27319.0
 2023,number,,hesse,code06,students from other developing and emerging countries,27666.0
+2024,number,,hesse,code06,students from other developing and emerging countries,29335.0
 2005,number,,mecklenburg western pomerania,code13,students from other developing and emerging countries,1071.0
 2006,number,,mecklenburg western pomerania,code13,students from other developing and emerging countries,1056.0
 2007,number,,mecklenburg western pomerania,code13,students from other developing and emerging countries,1063.0
@@ -816,6 +858,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,mecklenburg western pomerania,code13,students from other developing and emerging countries,2951.0
 2022,number,,mecklenburg western pomerania,code13,students from other developing and emerging countries,3031.0
 2023,number,,mecklenburg western pomerania,code13,students from other developing and emerging countries,2849.0
+2024,number,,mecklenburg western pomerania,code13,students from other developing and emerging countries,2763.0
 2005,number,,lower saxony,code03,students from other developing and emerging countries,10134.0
 2006,number,,lower saxony,code03,students from other developing and emerging countries,9857.0
 2007,number,,lower saxony,code03,students from other developing and emerging countries,9224.0
@@ -835,6 +878,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,lower saxony,code03,students from other developing and emerging countries,18693.0
 2022,number,,lower saxony,code03,students from other developing and emerging countries,18955.0
 2023,number,,lower saxony,code03,students from other developing and emerging countries,19187.0
+2024,number,,lower saxony,code03,students from other developing and emerging countries,20247.0
 2005,number,,north rhine-westphalia,code05,students from other developing and emerging countries,35892.0
 2006,number,,north rhine-westphalia,code05,students from other developing and emerging countries,35688.0
 2007,number,,north rhine-westphalia,code05,students from other developing and emerging countries,32856.0
@@ -854,6 +898,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,north rhine-westphalia,code05,students from other developing and emerging countries,68071.0
 2022,number,,north rhine-westphalia,code05,students from other developing and emerging countries,69369.0
 2023,number,,north rhine-westphalia,code05,students from other developing and emerging countries,69086.0
+2024,number,,north rhine-westphalia,code05,students from other developing and emerging countries,71619.0
 2005,number,,rhineland palatinate,code07,students from other developing and emerging countries,5760.0
 2006,number,,rhineland palatinate,code07,students from other developing and emerging countries,5969.0
 2007,number,,rhineland palatinate,code07,students from other developing and emerging countries,6413.0
@@ -873,6 +918,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,rhineland palatinate,code07,students from other developing and emerging countries,10826.0
 2022,number,,rhineland palatinate,code07,students from other developing and emerging countries,11177.0
 2023,number,,rhineland palatinate,code07,students from other developing and emerging countries,11072.0
+2024,number,,rhineland palatinate,code07,students from other developing and emerging countries,11276.0
 2005,number,,saarland,code10,students from other developing and emerging countries,1243.0
 2006,number,,saarland,code10,students from other developing and emerging countries,1365.0
 2007,number,,saarland,code10,students from other developing and emerging countries,1362.0
@@ -892,6 +938,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,saarland,code10,students from other developing and emerging countries,2824.0
 2022,number,,saarland,code10,students from other developing and emerging countries,2992.0
 2023,number,,saarland,code10,students from other developing and emerging countries,3185.0
+2024,number,,saarland,code10,students from other developing and emerging countries,3451.0
 2005,number,,saxony,code14,students from other developing and emerging countries,4328.0
 2006,number,,saxony,code14,students from other developing and emerging countries,4440.0
 2007,number,,saxony,code14,students from other developing and emerging countries,4601.0
@@ -911,6 +958,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,saxony,code14,students from other developing and emerging countries,11470.0
 2022,number,,saxony,code14,students from other developing and emerging countries,11735.0
 2023,number,,saxony,code14,students from other developing and emerging countries,12513.0
+2024,number,,saxony,code14,students from other developing and emerging countries,13480.0
 2005,number,,saxony-anhalt,code15,students from other developing and emerging countries,2825.0
 2006,number,,saxony-anhalt,code15,students from other developing and emerging countries,2964.0
 2007,number,,saxony-anhalt,code15,students from other developing and emerging countries,2997.0
@@ -930,6 +978,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,saxony-anhalt,code15,students from other developing and emerging countries,7114.0
 2022,number,,saxony-anhalt,code15,students from other developing and emerging countries,7982.0
 2023,number,,saxony-anhalt,code15,students from other developing and emerging countries,8286.0
+2024,number,,saxony-anhalt,code15,students from other developing and emerging countries,8711.0
 2005,number,,schleswig-holstein,code01,students from other developing and emerging countries,2071.0
 2006,number,,schleswig-holstein,code01,students from other developing and emerging countries,2135.0
 2007,number,,schleswig-holstein,code01,students from other developing and emerging countries,2149.0
@@ -949,6 +998,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,schleswig-holstein,code01,students from other developing and emerging countries,3795.0
 2022,number,,schleswig-holstein,code01,students from other developing and emerging countries,3831.0
 2023,number,,schleswig-holstein,code01,students from other developing and emerging countries,3921.0
+2024,number,,schleswig-holstein,code01,students from other developing and emerging countries,4210.0
 2005,number,,thuringia,code16,students from other developing and emerging countries,1615.0
 2006,number,,thuringia,code16,students from other developing and emerging countries,1759.0
 2007,number,,thuringia,code16,students from other developing and emerging countries,1971.0
@@ -968,6 +1018,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,thuringia,code16,students from other developing and emerging countries,9660.0
 2022,number,,thuringia,code16,students from other developing and emerging countries,11967.0
 2023,number,,thuringia,code16,students from other developing and emerging countries,13841.0
+2024,number,,thuringia,code16,students from other developing and emerging countries,15235.0
 2005,number,,,,researchers from ldcs,209.0
 2006,number,,,,researchers from ldcs,212.0
 2007,number,,,,researchers from ldcs,207.0
@@ -987,6 +1038,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,,,researchers from ldcs,924.0
 2022,number,,,,researchers from ldcs,1070.0
 2023,number,,,,researchers from ldcs,1190.0
+2024,number,,,,researchers from ldcs,1298.0
 2005,number,.,baden-wuerttemberg,code08,researchers from ldcs,
 2006,number,,baden-wuerttemberg,code08,researchers from ldcs,40.0
 2007,number,,baden-wuerttemberg,code08,researchers from ldcs,45.0
@@ -1006,6 +1058,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,baden-wuerttemberg,code08,researchers from ldcs,149.0
 2022,number,,baden-wuerttemberg,code08,researchers from ldcs,179.0
 2023,number,,baden-wuerttemberg,code08,researchers from ldcs,170.0
+2024,number,,baden-wuerttemberg,code08,researchers from ldcs,180.0
 2005,number,.,bavaria,code09,researchers from ldcs,
 2006,number,,bavaria,code09,researchers from ldcs,26.0
 2007,number,,bavaria,code09,researchers from ldcs,23.0
@@ -1025,6 +1078,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,bavaria,code09,researchers from ldcs,113.0
 2022,number,,bavaria,code09,researchers from ldcs,144.0
 2023,number,,bavaria,code09,researchers from ldcs,151.0
+2024,number,,bavaria,code09,researchers from ldcs,187.0
 2005,number,.,berlin,code11,researchers from ldcs,
 2006,number,,berlin,code11,researchers from ldcs,6.0
 2007,number,,berlin,code11,researchers from ldcs,5.0
@@ -1044,6 +1098,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,berlin,code11,researchers from ldcs,49.0
 2022,number,,berlin,code11,researchers from ldcs,56.0
 2023,number,,berlin,code11,researchers from ldcs,71.0
+2024,number,,berlin,code11,researchers from ldcs,70.0
 2005,number,.,brandenburg,code12,researchers from ldcs,
 2006,number,,brandenburg,code12,researchers from ldcs,3.0
 2007,number,,brandenburg,code12,researchers from ldcs,2.0
@@ -1063,6 +1118,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,brandenburg,code12,researchers from ldcs,28.0
 2022,number,,brandenburg,code12,researchers from ldcs,45.0
 2023,number,,brandenburg,code12,researchers from ldcs,45.0
+2024,number,,brandenburg,code12,researchers from ldcs,44.0
 2005,number,.,bremen,code04,researchers from ldcs,
 2006,number,,bremen,code04,researchers from ldcs,5.0
 2007,number,,bremen,code04,researchers from ldcs,3.0
@@ -1082,6 +1138,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,bremen,code04,researchers from ldcs,12.0
 2022,number,,bremen,code04,researchers from ldcs,22.0
 2023,number,,bremen,code04,researchers from ldcs,23.0
+2024,number,,bremen,code04,researchers from ldcs,20.0
 2005,number,.,hamburg,code02,researchers from ldcs,
 2006,number,,hamburg,code02,researchers from ldcs,8.0
 2007,number,,hamburg,code02,researchers from ldcs,11.0
@@ -1101,6 +1158,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,hamburg,code02,researchers from ldcs,34.0
 2022,number,,hamburg,code02,researchers from ldcs,42.0
 2023,number,,hamburg,code02,researchers from ldcs,57.0
+2024,number,,hamburg,code02,researchers from ldcs,63.0
 2005,number,.,hesse,code06,researchers from ldcs,
 2006,number,,hesse,code06,researchers from ldcs,18.0
 2007,number,,hesse,code06,researchers from ldcs,19.0
@@ -1120,6 +1178,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,hesse,code06,researchers from ldcs,50.0
 2022,number,,hesse,code06,researchers from ldcs,65.0
 2023,number,,hesse,code06,researchers from ldcs,62.0
+2024,number,,hesse,code06,researchers from ldcs,83.0
 2005,number,.,mecklenburg western pomerania,code13,researchers from ldcs,
 2006,number,,mecklenburg western pomerania,code13,researchers from ldcs,5.0
 2007,number,,mecklenburg western pomerania,code13,researchers from ldcs,3.0
@@ -1139,6 +1198,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,mecklenburg western pomerania,code13,researchers from ldcs,17.0
 2022,number,,mecklenburg western pomerania,code13,researchers from ldcs,17.0
 2023,number,,mecklenburg western pomerania,code13,researchers from ldcs,16.0
+2024,number,,mecklenburg western pomerania,code13,researchers from ldcs,21.0
 2005,number,.,lower saxony,code03,researchers from ldcs,
 2006,number,,lower saxony,code03,researchers from ldcs,32.0
 2007,number,,lower saxony,code03,researchers from ldcs,27.0
@@ -1158,6 +1218,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,lower saxony,code03,researchers from ldcs,68.0
 2022,number,,lower saxony,code03,researchers from ldcs,73.0
 2023,number,,lower saxony,code03,researchers from ldcs,86.0
+2024,number,,lower saxony,code03,researchers from ldcs,88.0
 2005,number,.,north rhine-westphalia,code05,researchers from ldcs,
 2006,number,,north rhine-westphalia,code05,researchers from ldcs,24.0
 2007,number,,north rhine-westphalia,code05,researchers from ldcs,24.0
@@ -1177,6 +1238,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,north rhine-westphalia,code05,researchers from ldcs,183.0
 2022,number,,north rhine-westphalia,code05,researchers from ldcs,195.0
 2023,number,,north rhine-westphalia,code05,researchers from ldcs,240.0
+2024,number,,north rhine-westphalia,code05,researchers from ldcs,224.0
 2005,number,.,rhineland palatinate,code07,researchers from ldcs,
 2006,number,,rhineland palatinate,code07,researchers from ldcs,10.0
 2007,number,,rhineland palatinate,code07,researchers from ldcs,13.0
@@ -1196,6 +1258,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,rhineland palatinate,code07,researchers from ldcs,43.0
 2022,number,,rhineland palatinate,code07,researchers from ldcs,30.0
 2023,number,,rhineland palatinate,code07,researchers from ldcs,31.0
+2024,number,,rhineland palatinate,code07,researchers from ldcs,30.0
 2005,number,.,saarland,code10,researchers from ldcs,
 2006,number,,saarland,code10,researchers from ldcs,3.0
 2007,number,,saarland,code10,researchers from ldcs,3.0
@@ -1215,6 +1278,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,saarland,code10,researchers from ldcs,14.0
 2022,number,,saarland,code10,researchers from ldcs,17.0
 2023,number,,saarland,code10,researchers from ldcs,19.0
+2024,number,,saarland,code10,researchers from ldcs,22.0
 2005,number,.,saxony,code14,researchers from ldcs,
 2006,number,,saxony,code14,researchers from ldcs,19.0
 2007,number,,saxony,code14,researchers from ldcs,17.0
@@ -1234,6 +1298,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,saxony,code14,researchers from ldcs,70.0
 2022,number,,saxony,code14,researchers from ldcs,92.0
 2023,number,,saxony,code14,researchers from ldcs,105.0
+2024,number,,saxony,code14,researchers from ldcs,133.0
 2005,number,.,saxony-anhalt,code15,researchers from ldcs,
 2006,number,,saxony-anhalt,code15,researchers from ldcs,5.0
 2007,number,,saxony-anhalt,code15,researchers from ldcs,1.0
@@ -1253,6 +1318,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,saxony-anhalt,code15,researchers from ldcs,24.0
 2022,number,,saxony-anhalt,code15,researchers from ldcs,23.0
 2023,number,,saxony-anhalt,code15,researchers from ldcs,29.0
+2024,number,,saxony-anhalt,code15,researchers from ldcs,28.0
 2005,number,.,schleswig-holstein,code01,researchers from ldcs,
 2006,number,,schleswig-holstein,code01,researchers from ldcs,5.0
 2007,number,,schleswig-holstein,code01,researchers from ldcs,6.0
@@ -1272,6 +1338,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,schleswig-holstein,code01,researchers from ldcs,38.0
 2022,number,,schleswig-holstein,code01,researchers from ldcs,33.0
 2023,number,,schleswig-holstein,code01,researchers from ldcs,33.0
+2024,number,,schleswig-holstein,code01,researchers from ldcs,39.0
 2005,number,.,thuringia,code16,researchers from ldcs,
 2006,number,,thuringia,code16,researchers from ldcs,3.0
 2007,number,,thuringia,code16,researchers from ldcs,5.0
@@ -1291,6 +1358,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,thuringia,code16,researchers from ldcs,32.0
 2022,number,,thuringia,code16,researchers from ldcs,37.0
 2023,number,,thuringia,code16,researchers from ldcs,52.0
+2024,number,,thuringia,code16,researchers from ldcs,66.0
 2005,number,,,,researchers from other developing and emerging countries,5848.0
 2006,number,,,,researchers from other developing and emerging countries,6434.0
 2007,number,,,,researchers from other developing and emerging countries,6766.0
@@ -1310,6 +1378,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,,,researchers from other developing and emerging countries,24624.0
 2022,number,,,,researchers from other developing and emerging countries,27044.0
 2023,number,,,,researchers from other developing and emerging countries,29123.0
+2024,number,,,,researchers from other developing and emerging countries,31504.0
 2005,number,.,baden-wuerttemberg,code08,researchers from other developing and emerging countries,
 2006,number,,baden-wuerttemberg,code08,researchers from other developing and emerging countries,1190.0
 2007,number,,baden-wuerttemberg,code08,researchers from other developing and emerging countries,1333.0
@@ -1329,6 +1398,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,baden-wuerttemberg,code08,researchers from other developing and emerging countries,4130.0
 2022,number,,baden-wuerttemberg,code08,researchers from other developing and emerging countries,4636.0
 2023,number,,baden-wuerttemberg,code08,researchers from other developing and emerging countries,4954.0
+2024,number,,baden-wuerttemberg,code08,researchers from other developing and emerging countries,5387.0
 2005,number,.,bavaria,code09,researchers from other developing and emerging countries,
 2006,number,,bavaria,code09,researchers from other developing and emerging countries,872.0
 2007,number,,bavaria,code09,researchers from other developing and emerging countries,934.0
@@ -1348,6 +1418,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,bavaria,code09,researchers from other developing and emerging countries,3651.0
 2022,number,,bavaria,code09,researchers from other developing and emerging countries,4193.0
 2023,number,,bavaria,code09,researchers from other developing and emerging countries,4340.0
+2024,number,,bavaria,code09,researchers from other developing and emerging countries,4627.0
 2005,number,.,berlin,code11,researchers from other developing and emerging countries,
 2006,number,,berlin,code11,researchers from other developing and emerging countries,468.0
 2007,number,,berlin,code11,researchers from other developing and emerging countries,461.0
@@ -1367,6 +1438,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,berlin,code11,researchers from other developing and emerging countries,1571.0
 2022,number,,berlin,code11,researchers from other developing and emerging countries,1668.0
 2023,number,,berlin,code11,researchers from other developing and emerging countries,1873.0
+2024,number,,berlin,code11,researchers from other developing and emerging countries,2024.0
 2005,number,.,brandenburg,code12,researchers from other developing and emerging countries,
 2006,number,,brandenburg,code12,researchers from other developing and emerging countries,97.0
 2007,number,,brandenburg,code12,researchers from other developing and emerging countries,109.0
@@ -1386,6 +1458,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,brandenburg,code12,researchers from other developing and emerging countries,543.0
 2022,number,,brandenburg,code12,researchers from other developing and emerging countries,619.0
 2023,number,,brandenburg,code12,researchers from other developing and emerging countries,658.0
+2024,number,,brandenburg,code12,researchers from other developing and emerging countries,709.0
 2005,number,.,bremen,code04,researchers from other developing and emerging countries,
 2006,number,,bremen,code04,researchers from other developing and emerging countries,108.0
 2007,number,,bremen,code04,researchers from other developing and emerging countries,96.0
@@ -1405,6 +1478,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,bremen,code04,researchers from other developing and emerging countries,244.0
 2022,number,,bremen,code04,researchers from other developing and emerging countries,323.0
 2023,number,,bremen,code04,researchers from other developing and emerging countries,344.0
+2024,number,,bremen,code04,researchers from other developing and emerging countries,341.0
 2005,number,.,hamburg,code02,researchers from other developing and emerging countries,
 2006,number,,hamburg,code02,researchers from other developing and emerging countries,162.0
 2007,number,,hamburg,code02,researchers from other developing and emerging countries,215.0
@@ -1424,6 +1498,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,hamburg,code02,researchers from other developing and emerging countries,783.0
 2022,number,,hamburg,code02,researchers from other developing and emerging countries,847.0
 2023,number,,hamburg,code02,researchers from other developing and emerging countries,1032.0
+2024,number,,hamburg,code02,researchers from other developing and emerging countries,1078.0
 2005,number,.,hesse,code06,researchers from other developing and emerging countries,
 2006,number,,hesse,code06,researchers from other developing and emerging countries,469.0
 2007,number,,hesse,code06,researchers from other developing and emerging countries,520.0
@@ -1443,6 +1518,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,hesse,code06,researchers from other developing and emerging countries,1597.0
 2022,number,,hesse,code06,researchers from other developing and emerging countries,1758.0
 2023,number,,hesse,code06,researchers from other developing and emerging countries,1863.0
+2024,number,,hesse,code06,researchers from other developing and emerging countries,1982.0
 2005,number,.,mecklenburg western pomerania,code13,researchers from other developing and emerging countries,
 2006,number,,mecklenburg western pomerania,code13,researchers from other developing and emerging countries,67.0
 2007,number,,mecklenburg western pomerania,code13,researchers from other developing and emerging countries,73.0
@@ -1462,6 +1538,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,mecklenburg western pomerania,code13,researchers from other developing and emerging countries,350.0
 2022,number,,mecklenburg western pomerania,code13,researchers from other developing and emerging countries,357.0
 2023,number,,mecklenburg western pomerania,code13,researchers from other developing and emerging countries,383.0
+2024,number,,mecklenburg western pomerania,code13,researchers from other developing and emerging countries,415.0
 2005,number,.,lower saxony,code03,researchers from other developing and emerging countries,
 2006,number,,lower saxony,code03,researchers from other developing and emerging countries,519.0
 2007,number,,lower saxony,code03,researchers from other developing and emerging countries,646.0
@@ -1481,6 +1558,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,lower saxony,code03,researchers from other developing and emerging countries,1822.0
 2022,number,,lower saxony,code03,researchers from other developing and emerging countries,1930.0
 2023,number,,lower saxony,code03,researchers from other developing and emerging countries,2039.0
+2024,number,,lower saxony,code03,researchers from other developing and emerging countries,2198.0
 2005,number,.,north rhine-westphalia,code05,researchers from other developing and emerging countries,
 2006,number,,north rhine-westphalia,code05,researchers from other developing and emerging countries,1399.0
 2007,number,,north rhine-westphalia,code05,researchers from other developing and emerging countries,1240.0
@@ -1500,6 +1578,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,north rhine-westphalia,code05,researchers from other developing and emerging countries,5096.0
 2022,number,,north rhine-westphalia,code05,researchers from other developing and emerging countries,5357.0
 2023,number,,north rhine-westphalia,code05,researchers from other developing and emerging countries,5856.0
+2024,number,,north rhine-westphalia,code05,researchers from other developing and emerging countries,6341.0
 2005,number,.,rhineland palatinate,code07,researchers from other developing and emerging countries,
 2006,number,,rhineland palatinate,code07,researchers from other developing and emerging countries,238.0
 2007,number,,rhineland palatinate,code07,researchers from other developing and emerging countries,254.0
@@ -1519,6 +1598,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,rhineland palatinate,code07,researchers from other developing and emerging countries,851.0
 2022,number,,rhineland palatinate,code07,researchers from other developing and emerging countries,1002.0
 2023,number,,rhineland palatinate,code07,researchers from other developing and emerging countries,1087.0
+2024,number,,rhineland palatinate,code07,researchers from other developing and emerging countries,1164.0
 2005,number,.,saarland,code10,researchers from other developing and emerging countries,
 2006,number,,saarland,code10,researchers from other developing and emerging countries,111.0
 2007,number,,saarland,code10,researchers from other developing and emerging countries,102.0
@@ -1538,6 +1618,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,saarland,code10,researchers from other developing and emerging countries,412.0
 2022,number,,saarland,code10,researchers from other developing and emerging countries,440.0
 2023,number,,saarland,code10,researchers from other developing and emerging countries,463.0
+2024,number,,saarland,code10,researchers from other developing and emerging countries,525.0
 2005,number,.,saxony,code14,researchers from other developing and emerging countries,
 2006,number,,saxony,code14,researchers from other developing and emerging countries,304.0
 2007,number,,saxony,code14,researchers from other developing and emerging countries,326.0
@@ -1557,6 +1638,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,saxony,code14,researchers from other developing and emerging countries,1542.0
 2022,number,,saxony,code14,researchers from other developing and emerging countries,1741.0
 2023,number,,saxony,code14,researchers from other developing and emerging countries,2012.0
+2024,number,,saxony,code14,researchers from other developing and emerging countries,2267.0
 2005,number,.,saxony-anhalt,code15,researchers from other developing and emerging countries,
 2006,number,,saxony-anhalt,code15,researchers from other developing and emerging countries,136.0
 2007,number,,saxony-anhalt,code15,researchers from other developing and emerging countries,161.0
@@ -1576,6 +1658,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,saxony-anhalt,code15,researchers from other developing and emerging countries,616.0
 2022,number,,saxony-anhalt,code15,researchers from other developing and emerging countries,632.0
 2023,number,,saxony-anhalt,code15,researchers from other developing and emerging countries,617.0
+2024,number,,saxony-anhalt,code15,researchers from other developing and emerging countries,762.0
 2005,number,.,schleswig-holstein,code01,researchers from other developing and emerging countries,
 2006,number,,schleswig-holstein,code01,researchers from other developing and emerging countries,148.0
 2007,number,,schleswig-holstein,code01,researchers from other developing and emerging countries,129.0
@@ -1595,6 +1678,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,schleswig-holstein,code01,researchers from other developing and emerging countries,457.0
 2022,number,,schleswig-holstein,code01,researchers from other developing and emerging countries,479.0
 2023,number,,schleswig-holstein,code01,researchers from other developing and emerging countries,516.0
+2024,number,,schleswig-holstein,code01,researchers from other developing and emerging countries,587.0
 2005,number,.,thuringia,code16,researchers from other developing and emerging countries,
 2006,number,,thuringia,code16,researchers from other developing and emerging countries,146.0
 2007,number,,thuringia,code16,researchers from other developing and emerging countries,167.0
@@ -1614,3 +1698,4 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,time series,Value
 2021,number,,thuringia,code16,researchers from other developing and emerging countries,959.0
 2022,number,,thuringia,code16,researchers from other developing and emerging countries,1062.0
 2023,number,,thuringia,code16,researchers from other developing and emerging countries,1086.0
+2024,number,,thuringia,code16,researchers from other developing and emerging countries,1097.0

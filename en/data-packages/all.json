@@ -635,11 +635,24 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
+                "p",
                 "…",
                 ""
               ]
             },
             "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
           },
           {
             "name": "Value",
@@ -1248,6 +1261,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "…",
                 ""
               ]
@@ -2183,7 +2197,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-9",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
