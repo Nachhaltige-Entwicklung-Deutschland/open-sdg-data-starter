@@ -1,13 +1,9 @@
-Year,Units,COMMENT_OBS_0,sector,Value
-2023,million hectares,,,55.843
-2022,million hectares,.,,
-2024,million hectares,…,,
-2023,million hectares,,sustainably farmed area,2.506
-2022,million hectares,.,sustainably farmed area,
-2024,million hectares,…,sustainably farmed area,
-2023,million hectares,,forest area sustainable management and restoration,12.008
-2022,million hectares,.,forest area sustainable management and restoration,
-2024,million hectares,…,forest area sustainable management and restoration,
-2023,million hectares,,terrestrial protected areas and mangrove forests in marine protected areas,41.329
-2022,million hectares,.,terrestrial protected areas and mangrove forests in marine protected areas,
-2024,million hectares,…,terrestrial protected areas and mangrove forests in marine protected areas,
+Year,Units,sector,Value
+2023,million hectares,,55.843
+2024,million hectares,,52.293
+2023,million hectares,sustainably farmed area,2.506
+2024,million hectares,sustainably farmed area,3.366
+2023,million hectares,forest area sustainable management and restoration,12.008
+2024,million hectares,forest area sustainable management and restoration,12.412
+2023,million hectares,terrestrial protected areas and mangrove forests in marine protected areas,41.329
+2024,million hectares,terrestrial protected areas and mangrove forests in marine protected areas,36.515

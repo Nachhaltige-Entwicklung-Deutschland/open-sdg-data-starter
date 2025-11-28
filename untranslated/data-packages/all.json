@@ -737,6 +737,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 "…",
                 ""
               ]
@@ -3638,6 +3639,7 @@
             "constraints": {
               "enum": [
                 "female",
+                "male",
                 ""
               ]
             }
@@ -3753,17 +3755,6 @@
             "constraints": {
               "enum": [
                 "million hectares",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                "…",
                 ""
               ]
             }
@@ -3959,6 +3950,7 @@
               "enum": [
                 ".",
                 "s",
+                "p",
                 "…",
                 "r",
                 ""

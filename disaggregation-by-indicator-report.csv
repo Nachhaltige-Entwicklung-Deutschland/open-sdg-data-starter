@@ -21,7 +21,7 @@ Indicator,Disaggregations,Number of disaggregations
 #15-1,"time series, COMMENT_OBS_0",2
 #15-2,COMMENT_OBS_0,1
 #15-3,"COMMENT_OBS_0, länder",2
-#15-4,"COMMENT_OBS_0, sector",2
+#15-4,sector,1
 #16-2,"COMMENT_OBS_0, sex, display",3
 #16-3-ab,COMMENT_OBS_0,1
 #16-4,"COMMENT_OBS_0, level of compliance",2
