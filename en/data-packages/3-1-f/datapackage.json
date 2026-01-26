@@ -38,6 +38,18 @@
             "title": "COMMENT_OBS_0"
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "länder",
             "type": "string",
             "constraints": {
@@ -90,18 +102,6 @@
               ]
             },
             "title": "Age group"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
           },
           {
             "name": "Value",

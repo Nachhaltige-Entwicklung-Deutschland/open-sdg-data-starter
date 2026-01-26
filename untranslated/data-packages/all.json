@@ -95,6 +95,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 "…",
                 ".",
                 ""
@@ -259,6 +260,16 @@
             "type": "string"
           },
           {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -295,6 +306,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 "r",
                 "p",
                 "…",
@@ -414,6 +426,17 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "|",
+                "…",
+                ""
+              ]
+            }
+          },
+          {
             "name": "degree of urbanisation",
             "type": "string",
             "constraints": {
@@ -452,16 +475,6 @@
           {
             "name": "GeoCode",
             "type": "string"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "…",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -994,9 +1007,20 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 "p",
                 "…",
                 ".",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
                 ""
               ]
             }
@@ -1042,7 +1066,7 @@
             "type": "string"
           },
           {
-            "name": "qualification",
+            "name": "type of qualification",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1443,7 +1467,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1467,6 +1491,7 @@
               "enum": [
                 "r",
                 "p",
+                "…",
                 ""
               ]
             }
@@ -1681,7 +1706,7 @@
             }
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1793,6 +1818,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 ".",
                 ""
               ]
@@ -1848,6 +1874,7 @@
             "constraints": {
               "enum": [
                 ".",
+                "|",
                 ""
               ]
             }
@@ -2037,11 +2064,14 @@
             }
           },
           {
-            "name": "COMMENT_OBS_0",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
+                "students from ldcs",
+                "students from other developing and emerging countries",
+                "researchers from ldcs",
+                "researchers from other developing and emerging countries",
                 ""
               ]
             }
@@ -2076,14 +2106,22 @@
             "type": "string"
           },
           {
-            "name": "time series",
+            "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "students from ldcs",
-                "students from other developing and emerging countries",
-                "researchers from ldcs",
-                "researchers from other developing and emerging countries",
+                ".",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
                 ""
               ]
             }
@@ -2137,8 +2175,19 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 "r",
                 "p",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
                 ""
               ]
             }
@@ -2222,6 +2271,7 @@
               "enum": [
                 ".",
                 "…",
+                "|",
                 ""
               ]
             }
@@ -2324,7 +2374,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2359,8 +2409,9 @@
             "constraints": {
               "enum": [
                 "r",
-                ".",
                 "p",
+                "…",
+                ".",
                 ""
               ]
             }
@@ -2466,6 +2517,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 "r",
                 "s",
                 ".",
@@ -2700,8 +2752,20 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 "r",
                 "…",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
                 ""
               ]
             }
@@ -2887,6 +2951,17 @@
             }
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
             "name": "länder",
             "type": "string",
             "constraints": {
@@ -2938,17 +3013,6 @@
             }
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -2976,6 +3040,17 @@
             "constraints": {
               "enum": [
                 "number",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
                 ""
               ]
             }
@@ -3094,6 +3169,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 ".",
                 "p",
                 ""
@@ -3177,6 +3253,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 "r",
                 "…",
                 ".",
@@ -3226,6 +3303,16 @@
           {
             "name": "GeoCode",
             "type": "string"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -3351,9 +3438,20 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 "p",
                 "…",
                 ".",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
                 ""
               ]
             }
@@ -3436,6 +3534,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 "…",
                 ""
               ]
@@ -3691,6 +3790,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 ".",
                 "…",
                 ""
@@ -3893,8 +3993,19 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 "p",
                 "…",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
                 ""
               ]
             }
@@ -4064,9 +4175,20 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 "r",
                 "…",
                 ".",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
                 ""
               ]
             }
@@ -4325,7 +4447,18 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 ".",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
                 ""
               ]
             }
@@ -4544,6 +4677,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 ".",
                 ""
               ]
@@ -4556,6 +4690,16 @@
               "enum": [
                 "female",
                 "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
                 ""
               ]
             }

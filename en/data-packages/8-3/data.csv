@@ -33,6 +33,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,r,p,,,21.601
 2023,Percentage,r,p,,,21.192
 2024,Percentage,r,p,,,20.46
+2025,Percentage,p,,,,20.263
 1991,Percentage,,,Baden-Wuerttemberg,code08,24.53
 1992,Percentage,,,Baden-Wuerttemberg,code08,24.045
 1993,Percentage,,,Baden-Wuerttemberg,code08,22.891
@@ -67,6 +68,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,p,,Baden-Wuerttemberg,code08,22.761
 2023,Percentage,…,,Baden-Wuerttemberg,code08,
 2024,Percentage,…,,Baden-Wuerttemberg,code08,
+2025,Percentage,…,,Baden-Wuerttemberg,code08,
 1991,Percentage,,,Bavaria,code09,28.112
 1992,Percentage,,,Bavaria,code09,27.273
 1993,Percentage,,,Bavaria,code09,24.547
@@ -101,6 +103,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,p,,Bavaria,code09,24.812
 2023,Percentage,…,,Bavaria,code09,
 2024,Percentage,…,,Bavaria,code09,
+2025,Percentage,…,,Bavaria,code09,
 1991,Percentage,,,Berlin,code11,22.441
 1992,Percentage,,,Berlin,code11,22.908
 1993,Percentage,,,Berlin,code11,21.813
@@ -135,6 +138,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,p,,Berlin,code11,20.443
 2023,Percentage,…,,Berlin,code11,
 2024,Percentage,…,,Berlin,code11,
+2025,Percentage,…,,Berlin,code11,
 1991,Percentage,,,Brandenburg,code12,41.146
 1992,Percentage,,,Brandenburg,code12,44.446
 1993,Percentage,,,Brandenburg,code12,49.205
@@ -169,6 +173,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,p,,Brandenburg,code12,23.743
 2023,Percentage,…,,Brandenburg,code12,
 2024,Percentage,…,,Brandenburg,code12,
+2025,Percentage,…,,Brandenburg,code12,
 1991,Percentage,,,Bremen,code04,18.176
 1992,Percentage,,,Bremen,code04,17.472
 1993,Percentage,,,Bremen,code04,18.381
@@ -203,6 +208,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,p,,Bremen,code04,15.567
 2023,Percentage,…,,Bremen,code04,
 2024,Percentage,…,,Bremen,code04,
+2025,Percentage,…,,Bremen,code04,
 1991,Percentage,,,Hamburg,code02,16.57
 1992,Percentage,,,Hamburg,code02,18.068
 1993,Percentage,,,Hamburg,code02,17.121
@@ -237,6 +243,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,p,,Hamburg,code02,15.892
 2023,Percentage,…,,Hamburg,code02,
 2024,Percentage,…,,Hamburg,code02,
+2025,Percentage,…,,Hamburg,code02,
 1991,Percentage,,,Hesse,code06,21.945
 1992,Percentage,,,Hesse,code06,21.27
 1993,Percentage,,,Hesse,code06,20.439
@@ -271,6 +278,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,p,,Hesse,code06,21.059
 2023,Percentage,…,,Hesse,code06,
 2024,Percentage,…,,Hesse,code06,
+2025,Percentage,…,,Hesse,code06,
 1991,Percentage,,,Mecklenburg Western Pomerania,code13,49.215
 1992,Percentage,,,Mecklenburg Western Pomerania,code13,61.057
 1993,Percentage,,,Mecklenburg Western Pomerania,code13,59.628
@@ -305,6 +313,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,p,,Mecklenburg Western Pomerania,code13,25.907
 2023,Percentage,…,,Mecklenburg Western Pomerania,code13,
 2024,Percentage,…,,Mecklenburg Western Pomerania,code13,
+2025,Percentage,…,,Mecklenburg Western Pomerania,code13,
 1991,Percentage,,,Lower Saxony,code03,27.782
 1992,Percentage,,,Lower Saxony,code03,26.2
 1993,Percentage,,,Lower Saxony,code03,23.947
@@ -339,6 +348,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,p,,Lower Saxony,code03,29.826
 2023,Percentage,…,,Lower Saxony,code03,
 2024,Percentage,…,,Lower Saxony,code03,
+2025,Percentage,…,,Lower Saxony,code03,
 1991,Percentage,,,North Rhine-Westphalia,code05,20.45
 1992,Percentage,,,North Rhine-Westphalia,code05,20.05
 1993,Percentage,,,North Rhine-Westphalia,code05,18.28
@@ -373,6 +383,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,p,,North Rhine-Westphalia,code05,16.225
 2023,Percentage,…,,North Rhine-Westphalia,code05,
 2024,Percentage,…,,North Rhine-Westphalia,code05,
+2025,Percentage,…,,North Rhine-Westphalia,code05,
 1991,Percentage,,,Rhineland Palatinate,code07,23.465
 1992,Percentage,,,Rhineland Palatinate,code07,22.405
 1993,Percentage,,,Rhineland Palatinate,code07,21.714
@@ -407,6 +418,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,p,,Rhineland Palatinate,code07,22.656
 2023,Percentage,…,,Rhineland Palatinate,code07,
 2024,Percentage,…,,Rhineland Palatinate,code07,
+2025,Percentage,…,,Rhineland Palatinate,code07,
 1991,Percentage,,,Saarland,code10,20.734
 1992,Percentage,,,Saarland,code10,20.247
 1993,Percentage,,,Saarland,code10,18.602
@@ -441,6 +453,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,p,,Saarland,code10,18.057
 2023,Percentage,…,,Saarland,code10,
 2024,Percentage,…,,Saarland,code10,
+2025,Percentage,…,,Saarland,code10,
 1991,Percentage,,,Saxony,code14,42.38
 1992,Percentage,,,Saxony,code14,41.203
 1993,Percentage,,,Saxony,code14,39.082
@@ -475,6 +488,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,p,,Saxony,code14,21.386
 2023,Percentage,…,,Saxony,code14,
 2024,Percentage,…,,Saxony,code14,
+2025,Percentage,…,,Saxony,code14,
 1991,Percentage,,,Saxony-Anhalt,code15,42.626
 1992,Percentage,,,Saxony-Anhalt,code15,53.813
 1993,Percentage,,,Saxony-Anhalt,code15,53.135
@@ -509,6 +523,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,p,,Saxony-Anhalt,code15,20.593
 2023,Percentage,…,,Saxony-Anhalt,code15,
 2024,Percentage,…,,Saxony-Anhalt,code15,
+2025,Percentage,…,,Saxony-Anhalt,code15,
 1991,Percentage,,,Schleswig-Holstein,code01,21.691
 1992,Percentage,,,Schleswig-Holstein,code01,22.2
 1993,Percentage,,,Schleswig-Holstein,code01,21.168
@@ -543,6 +558,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,p,,Schleswig-Holstein,code01,23.222
 2023,Percentage,…,,Schleswig-Holstein,code01,
 2024,Percentage,…,,Schleswig-Holstein,code01,
+2025,Percentage,…,,Schleswig-Holstein,code01,
 1991,Percentage,,,Thuringia,code16,45.474
 1992,Percentage,,,Thuringia,code16,52.043
 1993,Percentage,,,Thuringia,code16,55.189
@@ -577,3 +593,4 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,p,,Thuringia,code16,19.86
 2023,Percentage,…,,Thuringia,code16,
 2024,Percentage,…,,Thuringia,code16,
+2025,Percentage,…,,Thuringia,code16,

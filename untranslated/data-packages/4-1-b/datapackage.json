@@ -41,9 +41,20 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 "p",
                 "…",
                 ".",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
                 ""
               ]
             }
@@ -89,7 +100,7 @@
             "type": "string"
           },
           {
-            "name": "qualification",
+            "name": "type of qualification",
             "type": "string",
             "constraints": {
               "enum": [

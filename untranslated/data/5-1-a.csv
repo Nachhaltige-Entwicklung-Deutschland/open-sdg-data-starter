@@ -15,7 +15,7 @@ Year,Units,Series,COMMENT_OBS_0,länder,GeoCode,Value
 2019,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,r,,,19.0
 2020,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,,,18.0
 2021,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,,,18.0
-2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,,,18.0
+2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,|,,,18.0
 2023,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,,,18.0
 2024,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,,,16.0
 2025,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,,,16.0
@@ -35,7 +35,7 @@ Year,Units,Series,COMMENT_OBS_0,länder,GeoCode,Value
 2019,percentage,<u>additional time series:</u> adjusted gender pay gap,.,,,
 2020,percentage,<u>additional time series:</u> adjusted gender pay gap,.,,,
 2021,percentage,<u>additional time series:</u> adjusted gender pay gap,.,,,
-2022,percentage,<u>additional time series:</u> adjusted gender pay gap,,,,7.0
+2022,percentage,<u>additional time series:</u> adjusted gender pay gap,|,,,7.0
 2023,percentage,<u>additional time series:</u> adjusted gender pay gap,,,,6.0
 2024,percentage,<u>additional time series:</u> adjusted gender pay gap,,,,6.0
 2025,percentage,<u>additional time series:</u> adjusted gender pay gap,,,,6.0
@@ -55,7 +55,7 @@ Year,Units,Series,COMMENT_OBS_0,länder,GeoCode,Value
 2019,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,r,baden-wuerttemberg,code08,23.0
 2020,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,baden-wuerttemberg,code08,23.0
 2021,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,baden-wuerttemberg,code08,22.0
-2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,baden-wuerttemberg,code08,23.0
+2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,|,baden-wuerttemberg,code08,23.0
 2023,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,baden-wuerttemberg,code08,22.0
 2024,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,baden-wuerttemberg,code08,19.0
 2025,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,baden-wuerttemberg,code08,20.0
@@ -75,7 +75,7 @@ Year,Units,Series,COMMENT_OBS_0,länder,GeoCode,Value
 2019,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,r,bavaria,code09,23.0
 2020,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,bavaria,code09,22.0
 2021,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,bavaria,code09,21.0
-2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,bavaria,code09,21.0
+2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,|,bavaria,code09,21.0
 2023,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,bavaria,code09,21.0
 2024,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,bavaria,code09,18.0
 2025,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,bavaria,code09,19.0
@@ -95,7 +95,7 @@ Year,Units,Series,COMMENT_OBS_0,länder,GeoCode,Value
 2019,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,r,berlin,code11,10.0
 2020,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,berlin,code11,10.0
 2021,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,berlin,code11,10.0
-2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,berlin,code11,10.0
+2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,|,berlin,code11,10.0
 2023,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,berlin,code11,11.0
 2024,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,berlin,code11,10.0
 2025,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,berlin,code11,10.0
@@ -115,7 +115,7 @@ Year,Units,Series,COMMENT_OBS_0,länder,GeoCode,Value
 2019,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,r,brandenburg,code12,7.0
 2020,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,brandenburg,code12,6.0
 2021,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,brandenburg,code12,5.0
-2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,brandenburg,code12,6.0
+2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,|,brandenburg,code12,6.0
 2023,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,brandenburg,code12,4.0
 2024,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,brandenburg,code12,2.0
 2025,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,brandenburg,code12,4.0
@@ -135,7 +135,7 @@ Year,Units,Series,COMMENT_OBS_0,länder,GeoCode,Value
 2019,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,r,bremen,code04,25.0
 2020,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,bremen,code04,22.0
 2021,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,bremen,code04,22.0
-2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,bremen,code04,20.0
+2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,|,bremen,code04,20.0
 2023,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,bremen,code04,19.0
 2024,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,bremen,code04,17.0
 2025,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,bremen,code04,14.0
@@ -155,7 +155,7 @@ Year,Units,Series,COMMENT_OBS_0,länder,GeoCode,Value
 2019,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,r,hamburg,code02,21.0
 2020,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,hamburg,code02,21.0
 2021,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,hamburg,code02,21.0
-2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,hamburg,code02,18.0
+2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,|,hamburg,code02,18.0
 2023,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,hamburg,code02,18.0
 2024,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,hamburg,code02,18.0
 2025,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,hamburg,code02,17.0
@@ -175,7 +175,7 @@ Year,Units,Series,COMMENT_OBS_0,länder,GeoCode,Value
 2019,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,r,hesse,code06,19.0
 2020,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,hesse,code06,18.0
 2021,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,hesse,code06,18.0
-2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,hesse,code06,21.0
+2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,|,hesse,code06,21.0
 2023,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,hesse,code06,20.0
 2024,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,hesse,code06,19.0
 2025,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,hesse,code06,19.0
@@ -195,7 +195,7 @@ Year,Units,Series,COMMENT_OBS_0,länder,GeoCode,Value
 2019,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,r,mecklenburg western pomerania,code13,6.0
 2020,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,mecklenburg western pomerania,code13,6.0
 2021,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,mecklenburg western pomerania,code13,5.0
-2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,mecklenburg western pomerania,code13,6.0
+2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,|,mecklenburg western pomerania,code13,6.0
 2023,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,mecklenburg western pomerania,code13,7.0
 2024,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,mecklenburg western pomerania,code13,7.0
 2025,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,mecklenburg western pomerania,code13,4.0
@@ -215,7 +215,7 @@ Year,Units,Series,COMMENT_OBS_0,länder,GeoCode,Value
 2019,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,r,lower saxony,code03,21.0
 2020,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,lower saxony,code03,19.0
 2021,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,lower saxony,code03,19.0
-2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,lower saxony,code03,18.0
+2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,|,lower saxony,code03,18.0
 2023,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,lower saxony,code03,18.0
 2024,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,lower saxony,code03,15.0
 2025,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,lower saxony,code03,16.0
@@ -235,7 +235,7 @@ Year,Units,Series,COMMENT_OBS_0,länder,GeoCode,Value
 2019,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,r,north rhine-westphalia,code05,19.0
 2020,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,north rhine-westphalia,code05,18.0
 2021,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,north rhine-westphalia,code05,17.0
-2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,north rhine-westphalia,code05,17.0
+2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,|,north rhine-westphalia,code05,17.0
 2023,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,north rhine-westphalia,code05,17.0
 2024,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,north rhine-westphalia,code05,16.0
 2025,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,north rhine-westphalia,code05,15.0
@@ -255,7 +255,7 @@ Year,Units,Series,COMMENT_OBS_0,länder,GeoCode,Value
 2019,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,r,rhineland palatinate,code07,17.0
 2020,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,rhineland palatinate,code07,15.0
 2021,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,rhineland palatinate,code07,15.0
-2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,rhineland palatinate,code07,15.0
+2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,|,rhineland palatinate,code07,15.0
 2023,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,rhineland palatinate,code07,15.0
 2024,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,rhineland palatinate,code07,14.0
 2025,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,rhineland palatinate,code07,14.0
@@ -275,7 +275,7 @@ Year,Units,Series,COMMENT_OBS_0,länder,GeoCode,Value
 2019,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,r,saarland,code10,22.0
 2020,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,saarland,code10,20.0
 2021,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,saarland,code10,20.0
-2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,saarland,code10,18.0
+2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,|,saarland,code10,18.0
 2023,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,saarland,code10,18.0
 2024,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,saarland,code10,16.0
 2025,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,saarland,code10,16.0
@@ -295,7 +295,7 @@ Year,Units,Series,COMMENT_OBS_0,länder,GeoCode,Value
 2019,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,r,saxony,code14,7.0
 2020,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,saxony,code14,7.0
 2021,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,saxony,code14,6.0
-2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,saxony,code14,8.0
+2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,|,saxony,code14,8.0
 2023,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,saxony,code14,9.0
 2024,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,saxony,code14,7.0
 2025,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,saxony,code14,6.0
@@ -315,7 +315,7 @@ Year,Units,Series,COMMENT_OBS_0,länder,GeoCode,Value
 2019,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,r,saxony-anhalt,code15,7.0
 2020,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,saxony-anhalt,code15,8.0
 2021,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,saxony-anhalt,code15,7.0
-2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,saxony-anhalt,code15,6.0
+2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,|,saxony-anhalt,code15,6.0
 2023,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,saxony-anhalt,code15,5.0
 2024,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,saxony-anhalt,code15,4.0
 2025,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,saxony-anhalt,code15,4.0
@@ -335,7 +335,7 @@ Year,Units,Series,COMMENT_OBS_0,länder,GeoCode,Value
 2019,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,r,schleswig-holstein,code01,13.0
 2020,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,schleswig-holstein,code01,13.0
 2021,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,schleswig-holstein,code01,12.0
-2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,schleswig-holstein,code01,12.0
+2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,|,schleswig-holstein,code01,12.0
 2023,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,schleswig-holstein,code01,12.0
 2024,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,schleswig-holstein,code01,11.0
 2025,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,schleswig-holstein,code01,12.0
@@ -355,7 +355,7 @@ Year,Units,Series,COMMENT_OBS_0,länder,GeoCode,Value
 2019,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,r,thuringia,code16,6.0
 2020,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,thuringia,code16,5.0
 2021,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,p,thuringia,code16,5.0
-2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,thuringia,code16,7.0
+2022,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,|,thuringia,code16,7.0
 2023,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,thuringia,code16,7.0
 2024,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,thuringia,code16,6.0
 2025,percentage,<u>time series of the indicator:</u> unadjusted gender pay gap,,thuringia,code16,5.0

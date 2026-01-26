@@ -19,6 +19,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Bundesland,GeoCode,Value
 2022,Prozent,a) Finanzierungssaldo,r,p,,,-1.909
 2023,Prozent,a) Finanzierungssaldo,r,p,,,-2.494
 2024,Prozent,a) Finanzierungssaldo,r,p,,,-2.663
+2025,Prozent,a) Finanzierungssaldo,p,,,,-2.403
 2005,Prozent,b) Struktureller Finanzierungssaldo,r,,,,-2.35
 2006,Prozent,b) Struktureller Finanzierungssaldo,r,,,,-2.026
 2007,Prozent,b) Struktureller Finanzierungssaldo,r,,,,-0.87
@@ -39,6 +40,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Bundesland,GeoCode,Value
 2022,Prozent,b) Struktureller Finanzierungssaldo,r,p,,,-1.797
 2023,Prozent,b) Struktureller Finanzierungssaldo,r,p,,,-2.037
 2024,Prozent,b) Struktureller Finanzierungssaldo,r,p,,,-1.616
+2025,Prozent,b) Struktureller Finanzierungssaldo,…,,,,
 2005,Prozent,Bruttoinlandsprodukt (preisbereinigt),,,,,0.9
 2006,Prozent,Bruttoinlandsprodukt (preisbereinigt),,,,,3.9
 2007,Prozent,Bruttoinlandsprodukt (preisbereinigt),,,,,2.9
@@ -59,6 +61,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Bundesland,GeoCode,Value
 2022,Prozent,Bruttoinlandsprodukt (preisbereinigt),r,p,,,1.8
 2023,Prozent,Bruttoinlandsprodukt (preisbereinigt),r,p,,,-0.9
 2024,Prozent,Bruttoinlandsprodukt (preisbereinigt),r,p,,,-0.5
+2025,Prozent,Bruttoinlandsprodukt (preisbereinigt),p,,,,0.2
 2005,Prozent,b) Struktureller Finanzierungssaldo,.,,Baden-Württemberg,code08,
 2006,Prozent,b) Struktureller Finanzierungssaldo,.,,Baden-Württemberg,code08,
 2007,Prozent,b) Struktureller Finanzierungssaldo,.,,Baden-Württemberg,code08,
@@ -79,6 +82,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Bundesland,GeoCode,Value
 2022,Prozent,b) Struktureller Finanzierungssaldo,r,p,Baden-Württemberg,code08,0.74
 2023,Prozent,b) Struktureller Finanzierungssaldo,r,p,Baden-Württemberg,code08,0.119
 2024,Prozent,b) Struktureller Finanzierungssaldo,p,,Baden-Württemberg,code08,-0.883
+2025,Prozent,b) Struktureller Finanzierungssaldo,…,,Baden-Württemberg,code08,
 2005,Prozent,b) Struktureller Finanzierungssaldo,.,,Bayern,code09,
 2006,Prozent,b) Struktureller Finanzierungssaldo,.,,Bayern,code09,
 2007,Prozent,b) Struktureller Finanzierungssaldo,.,,Bayern,code09,
@@ -99,6 +103,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Bundesland,GeoCode,Value
 2022,Prozent,b) Struktureller Finanzierungssaldo,r,p,Bayern,code09,0.6
 2023,Prozent,b) Struktureller Finanzierungssaldo,r,p,Bayern,code09,-0.431
 2024,Prozent,b) Struktureller Finanzierungssaldo,p,,Bayern,code09,-1.016
+2025,Prozent,b) Struktureller Finanzierungssaldo,…,,Bayern,code09,
 2005,Prozent,b) Struktureller Finanzierungssaldo,.,,Berlin,code11,
 2006,Prozent,b) Struktureller Finanzierungssaldo,.,,Berlin,code11,
 2007,Prozent,b) Struktureller Finanzierungssaldo,.,,Berlin,code11,
@@ -119,6 +124,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Bundesland,GeoCode,Value
 2022,Prozent,b) Struktureller Finanzierungssaldo,r,p,Berlin,code11,1.268
 2023,Prozent,b) Struktureller Finanzierungssaldo,r,p,Berlin,code11,-0.633
 2024,Prozent,b) Struktureller Finanzierungssaldo,p,,Berlin,code11,-4.177
+2025,Prozent,b) Struktureller Finanzierungssaldo,…,,Berlin,code11,
 2005,Prozent,b) Struktureller Finanzierungssaldo,.,,Brandenburg,code12,
 2006,Prozent,b) Struktureller Finanzierungssaldo,.,,Brandenburg,code12,
 2007,Prozent,b) Struktureller Finanzierungssaldo,.,,Brandenburg,code12,
@@ -139,6 +145,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Bundesland,GeoCode,Value
 2022,Prozent,b) Struktureller Finanzierungssaldo,r,p,Brandenburg,code12,0.641
 2023,Prozent,b) Struktureller Finanzierungssaldo,r,p,Brandenburg,code12,-0.18
 2024,Prozent,b) Struktureller Finanzierungssaldo,p,,Brandenburg,code12,-2.372
+2025,Prozent,b) Struktureller Finanzierungssaldo,…,,Brandenburg,code12,
 2005,Prozent,b) Struktureller Finanzierungssaldo,.,,Bremen,code04,
 2006,Prozent,b) Struktureller Finanzierungssaldo,.,,Bremen,code04,
 2007,Prozent,b) Struktureller Finanzierungssaldo,.,,Bremen,code04,
@@ -159,6 +166,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Bundesland,GeoCode,Value
 2022,Prozent,b) Struktureller Finanzierungssaldo,r,p,Bremen,code04,-0.462
 2023,Prozent,b) Struktureller Finanzierungssaldo,r,p,Bremen,code04,-1.753
 2024,Prozent,b) Struktureller Finanzierungssaldo,p,,Bremen,code04,-4.261
+2025,Prozent,b) Struktureller Finanzierungssaldo,…,,Bremen,code04,
 2005,Prozent,b) Struktureller Finanzierungssaldo,.,,Hamburg,code02,
 2006,Prozent,b) Struktureller Finanzierungssaldo,.,,Hamburg,code02,
 2007,Prozent,b) Struktureller Finanzierungssaldo,.,,Hamburg,code02,
@@ -179,6 +187,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Bundesland,GeoCode,Value
 2022,Prozent,b) Struktureller Finanzierungssaldo,r,p,Hamburg,code02,3.118
 2023,Prozent,b) Struktureller Finanzierungssaldo,r,p,Hamburg,code02,0.643
 2024,Prozent,b) Struktureller Finanzierungssaldo,p,,Hamburg,code02,-2.65
+2025,Prozent,b) Struktureller Finanzierungssaldo,…,,Hamburg,code02,
 2005,Prozent,b) Struktureller Finanzierungssaldo,.,,Hessen,code06,
 2006,Prozent,b) Struktureller Finanzierungssaldo,.,,Hessen,code06,
 2007,Prozent,b) Struktureller Finanzierungssaldo,.,,Hessen,code06,
@@ -199,6 +208,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Bundesland,GeoCode,Value
 2022,Prozent,b) Struktureller Finanzierungssaldo,r,p,Hessen,code06,0.811
 2023,Prozent,b) Struktureller Finanzierungssaldo,r,p,Hessen,code06,-0.501
 2024,Prozent,b) Struktureller Finanzierungssaldo,p,,Hessen,code06,-2.371
+2025,Prozent,b) Struktureller Finanzierungssaldo,…,,Hessen,code06,
 2005,Prozent,b) Struktureller Finanzierungssaldo,.,,Mecklenburg-Vorpommern,code13,
 2006,Prozent,b) Struktureller Finanzierungssaldo,.,,Mecklenburg-Vorpommern,code13,
 2007,Prozent,b) Struktureller Finanzierungssaldo,.,,Mecklenburg-Vorpommern,code13,
@@ -219,6 +229,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Bundesland,GeoCode,Value
 2022,Prozent,b) Struktureller Finanzierungssaldo,r,p,Mecklenburg-Vorpommern,code13,1.761
 2023,Prozent,b) Struktureller Finanzierungssaldo,r,p,Mecklenburg-Vorpommern,code13,-0.593
 2024,Prozent,b) Struktureller Finanzierungssaldo,p,,Mecklenburg-Vorpommern,code13,-1.242
+2025,Prozent,b) Struktureller Finanzierungssaldo,…,,Mecklenburg-Vorpommern,code13,
 2005,Prozent,b) Struktureller Finanzierungssaldo,.,,Niedersachsen,code03,
 2006,Prozent,b) Struktureller Finanzierungssaldo,.,,Niedersachsen,code03,
 2007,Prozent,b) Struktureller Finanzierungssaldo,.,,Niedersachsen,code03,
@@ -239,6 +250,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Bundesland,GeoCode,Value
 2022,Prozent,b) Struktureller Finanzierungssaldo,r,p,Niedersachsen,code03,0.581
 2023,Prozent,b) Struktureller Finanzierungssaldo,r,p,Niedersachsen,code03,0.534
 2024,Prozent,b) Struktureller Finanzierungssaldo,p,,Niedersachsen,code03,-1.308
+2025,Prozent,b) Struktureller Finanzierungssaldo,…,,Niedersachsen,code03,
 2005,Prozent,b) Struktureller Finanzierungssaldo,.,,Nordrhein-Westfalen,code05,
 2006,Prozent,b) Struktureller Finanzierungssaldo,.,,Nordrhein-Westfalen,code05,
 2007,Prozent,b) Struktureller Finanzierungssaldo,.,,Nordrhein-Westfalen,code05,
@@ -259,6 +271,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Bundesland,GeoCode,Value
 2022,Prozent,b) Struktureller Finanzierungssaldo,r,p,Nordrhein-Westfalen,code05,-0.766
 2023,Prozent,b) Struktureller Finanzierungssaldo,r,p,Nordrhein-Westfalen,code05,-0.686
 2024,Prozent,b) Struktureller Finanzierungssaldo,p,,Nordrhein-Westfalen,code05,-1.319
+2025,Prozent,b) Struktureller Finanzierungssaldo,…,,Nordrhein-Westfalen,code05,
 2005,Prozent,b) Struktureller Finanzierungssaldo,.,,Rheinland-Pfalz,code07,
 2006,Prozent,b) Struktureller Finanzierungssaldo,.,,Rheinland-Pfalz,code07,
 2007,Prozent,b) Struktureller Finanzierungssaldo,.,,Rheinland-Pfalz,code07,
@@ -279,6 +292,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Bundesland,GeoCode,Value
 2022,Prozent,b) Struktureller Finanzierungssaldo,r,p,Rheinland-Pfalz,code07,1.587
 2023,Prozent,b) Struktureller Finanzierungssaldo,r,p,Rheinland-Pfalz,code07,0.031
 2024,Prozent,b) Struktureller Finanzierungssaldo,p,,Rheinland-Pfalz,code07,0.491
+2025,Prozent,b) Struktureller Finanzierungssaldo,…,,Rheinland-Pfalz,code07,
 2005,Prozent,b) Struktureller Finanzierungssaldo,.,,Saarland,code10,
 2006,Prozent,b) Struktureller Finanzierungssaldo,.,,Saarland,code10,
 2007,Prozent,b) Struktureller Finanzierungssaldo,.,,Saarland,code10,
@@ -299,6 +313,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Bundesland,GeoCode,Value
 2022,Prozent,b) Struktureller Finanzierungssaldo,r,p,Saarland,code10,-9.759
 2023,Prozent,b) Struktureller Finanzierungssaldo,r,p,Saarland,code10,1.496
 2024,Prozent,b) Struktureller Finanzierungssaldo,p,,Saarland,code10,-2.648
+2025,Prozent,b) Struktureller Finanzierungssaldo,…,,Saarland,code10,
 2005,Prozent,b) Struktureller Finanzierungssaldo,.,,Sachsen,code14,
 2006,Prozent,b) Struktureller Finanzierungssaldo,.,,Sachsen,code14,
 2007,Prozent,b) Struktureller Finanzierungssaldo,.,,Sachsen,code14,
@@ -319,6 +334,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Bundesland,GeoCode,Value
 2022,Prozent,b) Struktureller Finanzierungssaldo,r,p,Sachsen,code14,1.342
 2023,Prozent,b) Struktureller Finanzierungssaldo,r,p,Sachsen,code14,0.319
 2024,Prozent,b) Struktureller Finanzierungssaldo,p,,Sachsen,code14,0.212
+2025,Prozent,b) Struktureller Finanzierungssaldo,…,,Sachsen,code14,
 2005,Prozent,b) Struktureller Finanzierungssaldo,.,,Sachsen-Anhalt,code15,
 2006,Prozent,b) Struktureller Finanzierungssaldo,.,,Sachsen-Anhalt,code15,
 2007,Prozent,b) Struktureller Finanzierungssaldo,.,,Sachsen-Anhalt,code15,
@@ -339,6 +355,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Bundesland,GeoCode,Value
 2022,Prozent,b) Struktureller Finanzierungssaldo,r,p,Sachsen-Anhalt,code15,0.7
 2023,Prozent,b) Struktureller Finanzierungssaldo,r,p,Sachsen-Anhalt,code15,0.051
 2024,Prozent,b) Struktureller Finanzierungssaldo,p,,Sachsen-Anhalt,code15,-1.945
+2025,Prozent,b) Struktureller Finanzierungssaldo,…,,Sachsen-Anhalt,code15,
 2005,Prozent,b) Struktureller Finanzierungssaldo,.,,Schleswig-Holstein,code01,
 2006,Prozent,b) Struktureller Finanzierungssaldo,.,,Schleswig-Holstein,code01,
 2007,Prozent,b) Struktureller Finanzierungssaldo,.,,Schleswig-Holstein,code01,
@@ -359,6 +376,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Bundesland,GeoCode,Value
 2022,Prozent,b) Struktureller Finanzierungssaldo,r,p,Schleswig-Holstein,code01,0.329
 2023,Prozent,b) Struktureller Finanzierungssaldo,r,p,Schleswig-Holstein,code01,-1.384
 2024,Prozent,b) Struktureller Finanzierungssaldo,p,,Schleswig-Holstein,code01,-2.205
+2025,Prozent,b) Struktureller Finanzierungssaldo,…,,Schleswig-Holstein,code01,
 2005,Prozent,b) Struktureller Finanzierungssaldo,.,,Thüringen,code16,
 2006,Prozent,b) Struktureller Finanzierungssaldo,.,,Thüringen,code16,
 2007,Prozent,b) Struktureller Finanzierungssaldo,.,,Thüringen,code16,
@@ -379,3 +397,4 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Bundesland,GeoCode,Value
 2022,Prozent,b) Struktureller Finanzierungssaldo,r,p,Thüringen,code16,2.491
 2023,Prozent,b) Struktureller Finanzierungssaldo,r,p,Thüringen,code16,0.438
 2024,Prozent,b) Struktureller Finanzierungssaldo,p,,Thüringen,code16,0.144
+2025,Prozent,b) Struktureller Finanzierungssaldo,…,,Thüringen,code16,

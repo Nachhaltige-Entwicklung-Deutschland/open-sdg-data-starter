@@ -27,7 +27,7 @@
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -36,7 +36,7 @@
                 ""
               ]
             },
-            "title": "Display"
+            "title": "Time series"
           },
           {
             "name": "COMMENT_OBS_0",

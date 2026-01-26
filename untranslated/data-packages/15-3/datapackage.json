@@ -30,7 +30,18 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 ".",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
                 ""
               ]
             }

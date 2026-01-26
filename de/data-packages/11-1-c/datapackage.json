@@ -28,6 +28,18 @@
             "title": "Units"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "|",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "degree of urbanisation",
             "type": "string",
             "constraints": {
@@ -69,17 +81,6 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "…",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",

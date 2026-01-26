@@ -15,7 +15,7 @@ Year,Units,Series,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2019,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,r,,,19.0
 2020,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,,,18.0
 2021,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,,,18.0
-2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,,,18.0
+2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,|,,,18.0
 2023,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,,,18.0
 2024,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,,,16.0
 2025,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,,,16.0
@@ -35,7 +35,7 @@ Year,Units,Series,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2019,Prozent,<u>Zusätzliche Zeitreihe:</u> Bereinigter Gender Pay Gap,.,,,
 2020,Prozent,<u>Zusätzliche Zeitreihe:</u> Bereinigter Gender Pay Gap,.,,,
 2021,Prozent,<u>Zusätzliche Zeitreihe:</u> Bereinigter Gender Pay Gap,.,,,
-2022,Prozent,<u>Zusätzliche Zeitreihe:</u> Bereinigter Gender Pay Gap,,,,7.0
+2022,Prozent,<u>Zusätzliche Zeitreihe:</u> Bereinigter Gender Pay Gap,|,,,7.0
 2023,Prozent,<u>Zusätzliche Zeitreihe:</u> Bereinigter Gender Pay Gap,,,,6.0
 2024,Prozent,<u>Zusätzliche Zeitreihe:</u> Bereinigter Gender Pay Gap,,,,6.0
 2025,Prozent,<u>Zusätzliche Zeitreihe:</u> Bereinigter Gender Pay Gap,,,,6.0
@@ -55,7 +55,7 @@ Year,Units,Series,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2019,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,r,Baden-Württemberg,code08,23.0
 2020,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Baden-Württemberg,code08,23.0
 2021,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Baden-Württemberg,code08,22.0
-2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Baden-Württemberg,code08,23.0
+2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,|,Baden-Württemberg,code08,23.0
 2023,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Baden-Württemberg,code08,22.0
 2024,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Baden-Württemberg,code08,19.0
 2025,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Baden-Württemberg,code08,20.0
@@ -75,7 +75,7 @@ Year,Units,Series,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2019,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,r,Bayern,code09,23.0
 2020,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Bayern,code09,22.0
 2021,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Bayern,code09,21.0
-2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Bayern,code09,21.0
+2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,|,Bayern,code09,21.0
 2023,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Bayern,code09,21.0
 2024,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Bayern,code09,18.0
 2025,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Bayern,code09,19.0
@@ -95,7 +95,7 @@ Year,Units,Series,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2019,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,r,Berlin,code11,10.0
 2020,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Berlin,code11,10.0
 2021,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Berlin,code11,10.0
-2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Berlin,code11,10.0
+2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,|,Berlin,code11,10.0
 2023,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Berlin,code11,11.0
 2024,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Berlin,code11,10.0
 2025,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Berlin,code11,10.0
@@ -115,7 +115,7 @@ Year,Units,Series,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2019,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,r,Brandenburg,code12,7.0
 2020,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Brandenburg,code12,6.0
 2021,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Brandenburg,code12,5.0
-2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Brandenburg,code12,6.0
+2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,|,Brandenburg,code12,6.0
 2023,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Brandenburg,code12,4.0
 2024,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Brandenburg,code12,2.0
 2025,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Brandenburg,code12,4.0
@@ -135,7 +135,7 @@ Year,Units,Series,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2019,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,r,Bremen,code04,25.0
 2020,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Bremen,code04,22.0
 2021,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Bremen,code04,22.0
-2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Bremen,code04,20.0
+2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,|,Bremen,code04,20.0
 2023,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Bremen,code04,19.0
 2024,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Bremen,code04,17.0
 2025,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Bremen,code04,14.0
@@ -155,7 +155,7 @@ Year,Units,Series,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2019,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,r,Hamburg,code02,21.0
 2020,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Hamburg,code02,21.0
 2021,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Hamburg,code02,21.0
-2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Hamburg,code02,18.0
+2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,|,Hamburg,code02,18.0
 2023,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Hamburg,code02,18.0
 2024,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Hamburg,code02,18.0
 2025,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Hamburg,code02,17.0
@@ -175,7 +175,7 @@ Year,Units,Series,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2019,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,r,Hessen,code06,19.0
 2020,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Hessen,code06,18.0
 2021,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Hessen,code06,18.0
-2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Hessen,code06,21.0
+2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,|,Hessen,code06,21.0
 2023,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Hessen,code06,20.0
 2024,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Hessen,code06,19.0
 2025,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Hessen,code06,19.0
@@ -195,7 +195,7 @@ Year,Units,Series,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2019,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,r,Mecklenburg-Vorpommern,code13,6.0
 2020,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Mecklenburg-Vorpommern,code13,6.0
 2021,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Mecklenburg-Vorpommern,code13,5.0
-2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Mecklenburg-Vorpommern,code13,6.0
+2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,|,Mecklenburg-Vorpommern,code13,6.0
 2023,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Mecklenburg-Vorpommern,code13,7.0
 2024,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Mecklenburg-Vorpommern,code13,7.0
 2025,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Mecklenburg-Vorpommern,code13,4.0
@@ -215,7 +215,7 @@ Year,Units,Series,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2019,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,r,Niedersachsen,code03,21.0
 2020,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Niedersachsen,code03,19.0
 2021,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Niedersachsen,code03,19.0
-2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Niedersachsen,code03,18.0
+2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,|,Niedersachsen,code03,18.0
 2023,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Niedersachsen,code03,18.0
 2024,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Niedersachsen,code03,15.0
 2025,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Niedersachsen,code03,16.0
@@ -235,7 +235,7 @@ Year,Units,Series,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2019,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,r,Nordrhein-Westfalen,code05,19.0
 2020,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Nordrhein-Westfalen,code05,18.0
 2021,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Nordrhein-Westfalen,code05,17.0
-2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Nordrhein-Westfalen,code05,17.0
+2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,|,Nordrhein-Westfalen,code05,17.0
 2023,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Nordrhein-Westfalen,code05,17.0
 2024,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Nordrhein-Westfalen,code05,16.0
 2025,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Nordrhein-Westfalen,code05,15.0
@@ -255,7 +255,7 @@ Year,Units,Series,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2019,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,r,Rheinland-Pfalz,code07,17.0
 2020,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Rheinland-Pfalz,code07,15.0
 2021,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Rheinland-Pfalz,code07,15.0
-2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Rheinland-Pfalz,code07,15.0
+2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,|,Rheinland-Pfalz,code07,15.0
 2023,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Rheinland-Pfalz,code07,15.0
 2024,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Rheinland-Pfalz,code07,14.0
 2025,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Rheinland-Pfalz,code07,14.0
@@ -275,7 +275,7 @@ Year,Units,Series,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2019,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,r,Saarland,code10,22.0
 2020,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Saarland,code10,20.0
 2021,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Saarland,code10,20.0
-2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Saarland,code10,18.0
+2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,|,Saarland,code10,18.0
 2023,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Saarland,code10,18.0
 2024,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Saarland,code10,16.0
 2025,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Saarland,code10,16.0
@@ -295,7 +295,7 @@ Year,Units,Series,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2019,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,r,Sachsen,code14,7.0
 2020,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Sachsen,code14,7.0
 2021,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Sachsen,code14,6.0
-2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Sachsen,code14,8.0
+2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,|,Sachsen,code14,8.0
 2023,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Sachsen,code14,9.0
 2024,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Sachsen,code14,7.0
 2025,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Sachsen,code14,6.0
@@ -315,7 +315,7 @@ Year,Units,Series,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2019,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,r,Sachsen-Anhalt,code15,7.0
 2020,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Sachsen-Anhalt,code15,8.0
 2021,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Sachsen-Anhalt,code15,7.0
-2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Sachsen-Anhalt,code15,6.0
+2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,|,Sachsen-Anhalt,code15,6.0
 2023,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Sachsen-Anhalt,code15,5.0
 2024,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Sachsen-Anhalt,code15,4.0
 2025,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Sachsen-Anhalt,code15,4.0
@@ -335,7 +335,7 @@ Year,Units,Series,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2019,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,r,Schleswig-Holstein,code01,13.0
 2020,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Schleswig-Holstein,code01,13.0
 2021,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Schleswig-Holstein,code01,12.0
-2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Schleswig-Holstein,code01,12.0
+2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,|,Schleswig-Holstein,code01,12.0
 2023,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Schleswig-Holstein,code01,12.0
 2024,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Schleswig-Holstein,code01,11.0
 2025,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Schleswig-Holstein,code01,12.0
@@ -355,7 +355,7 @@ Year,Units,Series,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2019,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,r,Thüringen,code16,6.0
 2020,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Thüringen,code16,5.0
 2021,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,p,Thüringen,code16,5.0
-2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Thüringen,code16,7.0
+2022,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,|,Thüringen,code16,7.0
 2023,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Thüringen,code16,7.0
 2024,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Thüringen,code16,6.0
 2025,Prozent,<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap,,Thüringen,code16,5.0

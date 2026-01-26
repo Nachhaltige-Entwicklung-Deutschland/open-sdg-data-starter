@@ -19,6 +19,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,a) Government deficit,r,p,,,-1.909
 2023,Percentage,a) Government deficit,r,p,,,-2.494
 2024,Percentage,a) Government deficit,r,p,,,-2.663
+2025,Percentage,a) Government deficit,p,,,,-2.403
 2005,Percentage,b) Structural deficit,r,,,,-2.35
 2006,Percentage,b) Structural deficit,r,,,,-2.026
 2007,Percentage,b) Structural deficit,r,,,,-0.87
@@ -39,6 +40,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,b) Structural deficit,r,p,,,-1.797
 2023,Percentage,b) Structural deficit,r,p,,,-2.037
 2024,Percentage,b) Structural deficit,r,p,,,-1.616
+2025,Percentage,b) Structural deficit,…,,,,
 2005,Percentage,Gross domestic product (price-adjusted),,,,,0.9
 2006,Percentage,Gross domestic product (price-adjusted),,,,,3.9
 2007,Percentage,Gross domestic product (price-adjusted),,,,,2.9
@@ -59,6 +61,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,Gross domestic product (price-adjusted),r,p,,,1.8
 2023,Percentage,Gross domestic product (price-adjusted),r,p,,,-0.9
 2024,Percentage,Gross domestic product (price-adjusted),r,p,,,-0.5
+2025,Percentage,Gross domestic product (price-adjusted),p,,,,0.2
 2005,Percentage,b) Structural deficit,.,,Baden-Wuerttemberg,code08,
 2006,Percentage,b) Structural deficit,.,,Baden-Wuerttemberg,code08,
 2007,Percentage,b) Structural deficit,.,,Baden-Wuerttemberg,code08,
@@ -79,6 +82,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,b) Structural deficit,r,p,Baden-Wuerttemberg,code08,0.74
 2023,Percentage,b) Structural deficit,r,p,Baden-Wuerttemberg,code08,0.119
 2024,Percentage,b) Structural deficit,p,,Baden-Wuerttemberg,code08,-0.883
+2025,Percentage,b) Structural deficit,…,,Baden-Wuerttemberg,code08,
 2005,Percentage,b) Structural deficit,.,,Bavaria,code09,
 2006,Percentage,b) Structural deficit,.,,Bavaria,code09,
 2007,Percentage,b) Structural deficit,.,,Bavaria,code09,
@@ -99,6 +103,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,b) Structural deficit,r,p,Bavaria,code09,0.6
 2023,Percentage,b) Structural deficit,r,p,Bavaria,code09,-0.431
 2024,Percentage,b) Structural deficit,p,,Bavaria,code09,-1.016
+2025,Percentage,b) Structural deficit,…,,Bavaria,code09,
 2005,Percentage,b) Structural deficit,.,,Berlin,code11,
 2006,Percentage,b) Structural deficit,.,,Berlin,code11,
 2007,Percentage,b) Structural deficit,.,,Berlin,code11,
@@ -119,6 +124,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,b) Structural deficit,r,p,Berlin,code11,1.268
 2023,Percentage,b) Structural deficit,r,p,Berlin,code11,-0.633
 2024,Percentage,b) Structural deficit,p,,Berlin,code11,-4.177
+2025,Percentage,b) Structural deficit,…,,Berlin,code11,
 2005,Percentage,b) Structural deficit,.,,Brandenburg,code12,
 2006,Percentage,b) Structural deficit,.,,Brandenburg,code12,
 2007,Percentage,b) Structural deficit,.,,Brandenburg,code12,
@@ -139,6 +145,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,b) Structural deficit,r,p,Brandenburg,code12,0.641
 2023,Percentage,b) Structural deficit,r,p,Brandenburg,code12,-0.18
 2024,Percentage,b) Structural deficit,p,,Brandenburg,code12,-2.372
+2025,Percentage,b) Structural deficit,…,,Brandenburg,code12,
 2005,Percentage,b) Structural deficit,.,,Bremen,code04,
 2006,Percentage,b) Structural deficit,.,,Bremen,code04,
 2007,Percentage,b) Structural deficit,.,,Bremen,code04,
@@ -159,6 +166,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,b) Structural deficit,r,p,Bremen,code04,-0.462
 2023,Percentage,b) Structural deficit,r,p,Bremen,code04,-1.753
 2024,Percentage,b) Structural deficit,p,,Bremen,code04,-4.261
+2025,Percentage,b) Structural deficit,…,,Bremen,code04,
 2005,Percentage,b) Structural deficit,.,,Hamburg,code02,
 2006,Percentage,b) Structural deficit,.,,Hamburg,code02,
 2007,Percentage,b) Structural deficit,.,,Hamburg,code02,
@@ -179,6 +187,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,b) Structural deficit,r,p,Hamburg,code02,3.118
 2023,Percentage,b) Structural deficit,r,p,Hamburg,code02,0.643
 2024,Percentage,b) Structural deficit,p,,Hamburg,code02,-2.65
+2025,Percentage,b) Structural deficit,…,,Hamburg,code02,
 2005,Percentage,b) Structural deficit,.,,Hesse,code06,
 2006,Percentage,b) Structural deficit,.,,Hesse,code06,
 2007,Percentage,b) Structural deficit,.,,Hesse,code06,
@@ -199,6 +208,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,b) Structural deficit,r,p,Hesse,code06,0.811
 2023,Percentage,b) Structural deficit,r,p,Hesse,code06,-0.501
 2024,Percentage,b) Structural deficit,p,,Hesse,code06,-2.371
+2025,Percentage,b) Structural deficit,…,,Hesse,code06,
 2005,Percentage,b) Structural deficit,.,,Mecklenburg Western Pomerania,code13,
 2006,Percentage,b) Structural deficit,.,,Mecklenburg Western Pomerania,code13,
 2007,Percentage,b) Structural deficit,.,,Mecklenburg Western Pomerania,code13,
@@ -219,6 +229,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,b) Structural deficit,r,p,Mecklenburg Western Pomerania,code13,1.761
 2023,Percentage,b) Structural deficit,r,p,Mecklenburg Western Pomerania,code13,-0.593
 2024,Percentage,b) Structural deficit,p,,Mecklenburg Western Pomerania,code13,-1.242
+2025,Percentage,b) Structural deficit,…,,Mecklenburg Western Pomerania,code13,
 2005,Percentage,b) Structural deficit,.,,Lower Saxony,code03,
 2006,Percentage,b) Structural deficit,.,,Lower Saxony,code03,
 2007,Percentage,b) Structural deficit,.,,Lower Saxony,code03,
@@ -239,6 +250,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,b) Structural deficit,r,p,Lower Saxony,code03,0.581
 2023,Percentage,b) Structural deficit,r,p,Lower Saxony,code03,0.534
 2024,Percentage,b) Structural deficit,p,,Lower Saxony,code03,-1.308
+2025,Percentage,b) Structural deficit,…,,Lower Saxony,code03,
 2005,Percentage,b) Structural deficit,.,,North Rhine-Westphalia,code05,
 2006,Percentage,b) Structural deficit,.,,North Rhine-Westphalia,code05,
 2007,Percentage,b) Structural deficit,.,,North Rhine-Westphalia,code05,
@@ -259,6 +271,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,b) Structural deficit,r,p,North Rhine-Westphalia,code05,-0.766
 2023,Percentage,b) Structural deficit,r,p,North Rhine-Westphalia,code05,-0.686
 2024,Percentage,b) Structural deficit,p,,North Rhine-Westphalia,code05,-1.319
+2025,Percentage,b) Structural deficit,…,,North Rhine-Westphalia,code05,
 2005,Percentage,b) Structural deficit,.,,Rhineland Palatinate,code07,
 2006,Percentage,b) Structural deficit,.,,Rhineland Palatinate,code07,
 2007,Percentage,b) Structural deficit,.,,Rhineland Palatinate,code07,
@@ -279,6 +292,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,b) Structural deficit,r,p,Rhineland Palatinate,code07,1.587
 2023,Percentage,b) Structural deficit,r,p,Rhineland Palatinate,code07,0.031
 2024,Percentage,b) Structural deficit,p,,Rhineland Palatinate,code07,0.491
+2025,Percentage,b) Structural deficit,…,,Rhineland Palatinate,code07,
 2005,Percentage,b) Structural deficit,.,,Saarland,code10,
 2006,Percentage,b) Structural deficit,.,,Saarland,code10,
 2007,Percentage,b) Structural deficit,.,,Saarland,code10,
@@ -299,6 +313,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,b) Structural deficit,r,p,Saarland,code10,-9.759
 2023,Percentage,b) Structural deficit,r,p,Saarland,code10,1.496
 2024,Percentage,b) Structural deficit,p,,Saarland,code10,-2.648
+2025,Percentage,b) Structural deficit,…,,Saarland,code10,
 2005,Percentage,b) Structural deficit,.,,Saxony,code14,
 2006,Percentage,b) Structural deficit,.,,Saxony,code14,
 2007,Percentage,b) Structural deficit,.,,Saxony,code14,
@@ -319,6 +334,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,b) Structural deficit,r,p,Saxony,code14,1.342
 2023,Percentage,b) Structural deficit,r,p,Saxony,code14,0.319
 2024,Percentage,b) Structural deficit,p,,Saxony,code14,0.212
+2025,Percentage,b) Structural deficit,…,,Saxony,code14,
 2005,Percentage,b) Structural deficit,.,,Saxony-Anhalt,code15,
 2006,Percentage,b) Structural deficit,.,,Saxony-Anhalt,code15,
 2007,Percentage,b) Structural deficit,.,,Saxony-Anhalt,code15,
@@ -339,6 +355,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,b) Structural deficit,r,p,Saxony-Anhalt,code15,0.7
 2023,Percentage,b) Structural deficit,r,p,Saxony-Anhalt,code15,0.051
 2024,Percentage,b) Structural deficit,p,,Saxony-Anhalt,code15,-1.945
+2025,Percentage,b) Structural deficit,…,,Saxony-Anhalt,code15,
 2005,Percentage,b) Structural deficit,.,,Schleswig-Holstein,code01,
 2006,Percentage,b) Structural deficit,.,,Schleswig-Holstein,code01,
 2007,Percentage,b) Structural deficit,.,,Schleswig-Holstein,code01,
@@ -359,6 +376,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,b) Structural deficit,r,p,Schleswig-Holstein,code01,0.329
 2023,Percentage,b) Structural deficit,r,p,Schleswig-Holstein,code01,-1.384
 2024,Percentage,b) Structural deficit,p,,Schleswig-Holstein,code01,-2.205
+2025,Percentage,b) Structural deficit,…,,Schleswig-Holstein,code01,
 2005,Percentage,b) Structural deficit,.,,Thuringia,code16,
 2006,Percentage,b) Structural deficit,.,,Thuringia,code16,
 2007,Percentage,b) Structural deficit,.,,Thuringia,code16,
@@ -379,3 +397,4 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,Percentage,b) Structural deficit,r,p,Thuringia,code16,2.491
 2023,Percentage,b) Structural deficit,r,p,Thuringia,code16,0.438
 2024,Percentage,b) Structural deficit,p,,Thuringia,code16,0.144
+2025,Percentage,b) Structural deficit,…,,Thuringia,code16,

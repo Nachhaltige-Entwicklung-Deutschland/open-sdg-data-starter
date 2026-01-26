@@ -43,6 +43,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 "r",
                 "…",
                 ".",
@@ -96,6 +97,17 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
           },
           {
             "name": "Value",

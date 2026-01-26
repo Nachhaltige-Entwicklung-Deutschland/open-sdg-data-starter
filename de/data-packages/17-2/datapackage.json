@@ -27,15 +27,18 @@
             "title": "Units"
           },
           {
-            "name": "COMMENT_OBS_0",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
+                "Studierende aus LDCs",
+                "Studierende aus den übrigen Entwicklungs- und Schwellenländern",
+                "Forschende aus LDCs",
+                "Forschende aus den übrigen Entwicklungs- und Schwellenländern",
                 ""
               ]
             },
-            "title": "COMMENT_OBS_0"
+            "title": "Zeitreihe"
           },
           {
             "name": "länder",
@@ -69,18 +72,27 @@
             "title": "GeoCode"
           },
           {
-            "name": "time series",
+            "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "Studierende aus LDCs",
-                "Studierende aus den übrigen Entwicklungs- und Schwellenländern",
-                "Forschende aus LDCs",
-                "Forschende aus den übrigen Entwicklungs- und Schwellenländern",
+                ".",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "Value",

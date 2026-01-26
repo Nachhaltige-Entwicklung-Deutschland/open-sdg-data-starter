@@ -32,6 +32,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 "p",
                 "…",
                 ".",
@@ -39,6 +40,17 @@
               ]
             },
             "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
           },
           {
             "name": "sex",

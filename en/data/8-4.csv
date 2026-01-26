@@ -33,6 +33,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,"1,000 euros",r,p,,,44.233
 2023,"1,000 euros",r,p,,,43.449
 2024,"1,000 euros",r,p,,,43.114
+2025,"1,000 euros",p,,,,43.198
 1991,"1,000 euros",,,Baden-Wuerttemberg,code08,36.862
 1992,"1,000 euros",,,Baden-Wuerttemberg,code08,36.612
 1993,"1,000 euros",,,Baden-Wuerttemberg,code08,34.741
@@ -67,6 +68,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,"1,000 euros",p,,Baden-Wuerttemberg,code08,49.762
 2023,"1,000 euros",p,,Baden-Wuerttemberg,code08,49.374
 2024,"1,000 euros",p,,Baden-Wuerttemberg,code08,49.008
+2025,"1,000 euros",,,Baden-Wuerttemberg,code08,
 1991,"1,000 euros",,,Bavaria,code09,34.295
 1992,"1,000 euros",,,Bavaria,code09,34.812
 1993,"1,000 euros",,,Bavaria,code09,33.844
@@ -101,6 +103,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,"1,000 euros",p,,Bavaria,code09,50.803
 2023,"1,000 euros",p,,Bavaria,code09,50.841
 2024,"1,000 euros",p,,Bavaria,code09,50.146
+2025,"1,000 euros",…,,Bavaria,code09,
 1991,"1,000 euros",,,Berlin,code11,31.518
 1992,"1,000 euros",,,Berlin,code11,32.608
 1993,"1,000 euros",,,Berlin,code11,33.466
@@ -135,6 +138,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,"1,000 euros",p,,Berlin,code11,47.047
 2023,"1,000 euros",p,,Berlin,code11,47.075
 2024,"1,000 euros",p,,Berlin,code11,47.156
+2025,"1,000 euros",…,,Berlin,code11,
 1991,"1,000 euros",,,Brandenburg,code12,14.328
 1992,"1,000 euros",,,Brandenburg,code12,15.735
 1993,"1,000 euros",,,Brandenburg,code12,17.649
@@ -169,6 +173,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,"1,000 euros",p,,Brandenburg,code12,30.59
 2023,"1,000 euros",p,,Brandenburg,code12,29.908
 2024,"1,000 euros",p,,Brandenburg,code12,29.648
+2025,"1,000 euros",…,,Brandenburg,code12,
 1991,"1,000 euros",,,Bremen,code04,42.186
 1992,"1,000 euros",,,Bremen,code04,41.51
 1993,"1,000 euros",,,Bremen,code04,39.834
@@ -203,6 +208,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,"1,000 euros",p,,Bremen,code04,52.181
 2023,"1,000 euros",p,,Bremen,code04,51.015
 2024,"1,000 euros",p,,Bremen,code04,50.227
+2025,"1,000 euros",…,,Bremen,code04,
 1991,"1,000 euros",,,Hamburg,code02,54.118
 1992,"1,000 euros",,,Hamburg,code02,53.364
 1993,"1,000 euros",,,Hamburg,code02,52.928
@@ -237,6 +243,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,"1,000 euros",p,,Hamburg,code02,68.684
 2023,"1,000 euros",p,,Hamburg,code02,66.234
 2024,"1,000 euros",p,,Hamburg,code02,66.86
+2025,"1,000 euros",…,,Hamburg,code02,
 1991,"1,000 euros",,,Hesse,code06,39.09
 1992,"1,000 euros",,,Hesse,code06,39.157
 1993,"1,000 euros",,,Hesse,code06,38.094
@@ -271,6 +278,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,"1,000 euros",p,,Hesse,code06,49.267
 2023,"1,000 euros",p,,Hesse,code06,48.999
 2024,"1,000 euros",p,,Hesse,code06,49.128
+2025,"1,000 euros",…,,Hesse,code06,
 1991,"1,000 euros",,,Mecklenburg Western Pomerania,code13,13.968
 1992,"1,000 euros",,,Mecklenburg Western Pomerania,code13,15.32
 1993,"1,000 euros",,,Mecklenburg Western Pomerania,code13,17.146
@@ -305,6 +313,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,"1,000 euros",p,,Mecklenburg Western Pomerania,code13,30.07
 2023,"1,000 euros",p,,Mecklenburg Western Pomerania,code13,29.949
 2024,"1,000 euros",p,,Mecklenburg Western Pomerania,code13,30.399
+2025,"1,000 euros",…,,Mecklenburg Western Pomerania,code13,
 1991,"1,000 euros",,,Lower Saxony,code03,30.178
 1992,"1,000 euros",,,Lower Saxony,code03,30.235
 1993,"1,000 euros",,,Lower Saxony,code03,29.438
@@ -339,6 +348,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,"1,000 euros",p,,Lower Saxony,code03,38.432
 2023,"1,000 euros",p,,Lower Saxony,code03,38.571
 2024,"1,000 euros",p,,Lower Saxony,code03,38.666
+2025,"1,000 euros",…,,Lower Saxony,code03,
 1991,"1,000 euros",,,North Rhine-Westphalia,code05,32.65
 1992,"1,000 euros",,,North Rhine-Westphalia,code05,32.747
 1993,"1,000 euros",,,North Rhine-Westphalia,code05,31.784
@@ -373,6 +383,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,"1,000 euros",p,,North Rhine-Westphalia,code05,40.775
 2023,"1,000 euros",p,,North Rhine-Westphalia,code05,39.933
 2024,"1,000 euros",p,,North Rhine-Westphalia,code05,39.691
+2025,"1,000 euros",…,,North Rhine-Westphalia,code05,
 1991,"1,000 euros",,,Rhineland Palatinate,code07,30.6
 1992,"1,000 euros",,,Rhineland Palatinate,code07,30.362
 1993,"1,000 euros",,,Rhineland Palatinate,code07,29.021
@@ -407,6 +418,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,"1,000 euros",p,,Rhineland Palatinate,code07,39.678
 2023,"1,000 euros",p,,Rhineland Palatinate,code07,37.648
 2024,"1,000 euros",p,,Rhineland Palatinate,code07,37.133
+2025,"1,000 euros",…,,Rhineland Palatinate,code07,
 1991,"1,000 euros",,,Saarland,code10,28.993
 1992,"1,000 euros",,,Saarland,code10,28.724
 1993,"1,000 euros",,,Saarland,code10,27.317
@@ -441,6 +453,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,"1,000 euros",p,,Saarland,code10,37.931
 2023,"1,000 euros",p,,Saarland,code10,36.144
 2024,"1,000 euros",p,,Saarland,code10,35.483
+2025,"1,000 euros",…,,Saarland,code10,
 1991,"1,000 euros",,,Saxony,code14,13.696
 1992,"1,000 euros",,,Saxony,code14,15.19
 1993,"1,000 euros",,,Saxony,code14,17.183
@@ -475,6 +488,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,"1,000 euros",p,,Saxony,code14,33.368
 2023,"1,000 euros",p,,Saxony,code14,33.195
 2024,"1,000 euros",p,,Saxony,code14,33.106
+2025,"1,000 euros",…,,Saxony,code14,
 1991,"1,000 euros",,,Saxony-Anhalt,code15,13.288
 1992,"1,000 euros",,,Saxony-Anhalt,code15,14.67
 1993,"1,000 euros",,,Saxony-Anhalt,code15,16.729
@@ -509,6 +523,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,"1,000 euros",p,,Saxony-Anhalt,code15,29.826
 2023,"1,000 euros",p,,Saxony-Anhalt,code15,29.037
 2024,"1,000 euros",p,,Saxony-Anhalt,code15,28.895
+2025,"1,000 euros",…,,Saxony-Anhalt,code15,
 1991,"1,000 euros",,,Schleswig-Holstein,code01,29.032
 1992,"1,000 euros",,,Schleswig-Holstein,code01,29.117
 1993,"1,000 euros",,,Schleswig-Holstein,code01,28.427
@@ -543,6 +558,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,"1,000 euros",p,,Schleswig-Holstein,code01,34.314
 2023,"1,000 euros",p,,Schleswig-Holstein,code01,33.813
 2024,"1,000 euros",p,,Schleswig-Holstein,code01,34.09
+2025,"1,000 euros",…,,Schleswig-Holstein,code01,
 1991,"1,000 euros",,,Thuringia,code16,11.756
 1992,"1,000 euros",,,Thuringia,code16,13.924
 1993,"1,000 euros",,,Thuringia,code16,15.881
@@ -577,3 +593,4 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2022,"1,000 euros",p,,Thuringia,code16,31.205
 2023,"1,000 euros",p,,Thuringia,code16,31.222
 2024,"1,000 euros",p,,Thuringia,code16,30.94
+2025,"1,000 euros",…,,Thuringia,code16,
