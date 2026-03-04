@@ -44,7 +44,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
                 "…",
                 ".",
                 ""
@@ -360,7 +359,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -408,10 +407,11 @@
             "constraints": {
               "enum": [
                 "|",
+                "p",
+                "…",
                 "r",
                 "s",
                 ".",
-                "…",
                 ""
               ]
             }
@@ -3092,7 +3092,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -3136,8 +3136,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "…",
                 "r",
                 "|",
+                "p",
                 ".",
                 ""
               ]
@@ -3298,8 +3300,8 @@
               "enum": [
                 "r",
                 "p",
-                "…",
                 ".",
+                "…",
                 ""
               ]
             }
@@ -4023,10 +4025,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
-                "p",
                 "…",
                 ".",
+                "r",
                 ""
               ]
             }
@@ -4222,6 +4223,7 @@
               "enum": [
                 "|",
                 "r",
+                "p",
                 "…",
                 ".",
                 ""

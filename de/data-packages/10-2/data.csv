@@ -17,6 +17,7 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,,,0.29
 2023,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,,,0.294
 2024,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,,,0.295
+2025,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,p,,,0.302
 2007,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Europäische Union,,,,0.306
 2008,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Europäische Union,,,,0.31
 2009,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Europäische Union,,,,0.306
@@ -35,6 +36,7 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Europäische Union,,,,0.296
 2023,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Europäische Union,,,,0.296
 2024,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Europäische Union,,,,0.293
+2025,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Europäische Union,…,,,
 2007,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Deutschland,,,,0.373
 2008,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Deutschland,,,,0.367
 2009,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Deutschland,,,,0.355
@@ -53,6 +55,7 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Deutschland,r,,,0.356
 2023,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Deutschland,,,,0.358
 2024,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Deutschland,,,,0.355
+2025,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Deutschland,p,,,0.36
 2007,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Europäische Union,,,,0.361
 2008,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Europäische Union,,,,0.361
 2009,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Europäische Union,,,,0.36
@@ -71,6 +74,7 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Europäische Union,,,,0.349
 2023,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Europäische Union,,,,0.347
 2024,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Europäische Union,,,,0.344
+2025,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Europäische Union,…,,,
 2007,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Marktequivalenzeinkommens,Deutschland,.,,,
 2008,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Marktequivalenzeinkommens,Deutschland,.,,,
 2009,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Marktequivalenzeinkommens,Deutschland,.,,,
@@ -89,6 +93,7 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Marktequivalenzeinkommens,Deutschland,,,,0.46
 2023,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Marktequivalenzeinkommens,Deutschland,,,,0.461
 2024,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Marktequivalenzeinkommens,Deutschland,,,,0.477
+2025,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Marktequivalenzeinkommens,Deutschland,…,,,
 2007,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens,Deutschland,.,,,
 2008,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens,Deutschland,.,,,
 2009,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens,Deutschland,.,,,
@@ -107,6 +112,7 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens,Deutschland,.,,,
 2023,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens,Deutschland,,,,0.724
 2024,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens,Deutschland,…,,,
+2025,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens,Deutschland,…,,,
 2007,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens,Eurozone,.,,,
 2008,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens,Eurozone,.,,,
 2009,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens,Eurozone,.,,,
@@ -125,6 +131,7 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens,Eurozone,…,,,
 2023,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens,Eurozone,…,,,
 2024,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens,Eurozone,…,,,
+2025,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens,Eurozone,…,,,
 2007,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Baden-Württemberg,code08,
 2008,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Baden-Württemberg,code08,
 2009,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Baden-Württemberg,code08,
@@ -143,6 +150,7 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Baden-Württemberg,code08,
 2023,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Baden-Württemberg,code08,0.281
 2024,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Baden-Württemberg,code08,0.284
+2025,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,…,Baden-Württemberg,code08,
 2007,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Bayern,code09,
 2008,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Bayern,code09,
 2009,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Bayern,code09,
@@ -161,6 +169,7 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Bayern,code09,
 2023,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Bayern,code09,0.302
 2024,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Bayern,code09,0.308
+2025,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,…,Bayern,code09,
 2007,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Berlin,code11,
 2008,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Berlin,code11,
 2009,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Berlin,code11,
@@ -179,6 +188,7 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Berlin,code11,
 2023,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Berlin,code11,0.287
 2024,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Berlin,code11,0.293
+2025,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,…,Berlin,code11,
 2007,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Brandenburg,code12,
 2008,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Brandenburg,code12,
 2009,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Brandenburg,code12,
@@ -197,6 +207,7 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Brandenburg,code12,
 2023,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Brandenburg,code12,0.273
 2024,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Brandenburg,code12,0.259
+2025,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,…,Brandenburg,code12,
 2007,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Bremen,code04,
 2008,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Bremen,code04,
 2009,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Bremen,code04,
@@ -215,6 +226,7 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Bremen,code04,
 2023,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Bremen,code04,0.265
 2024,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Bremen,code04,0.299
+2025,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,…,Bremen,code04,
 2007,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Hamburg,code02,
 2008,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Hamburg,code02,
 2009,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Hamburg,code02,
@@ -233,6 +245,7 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Hamburg,code02,
 2023,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Hamburg,code02,0.295
 2024,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Hamburg,code02,0.294
+2025,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,…,Hamburg,code02,
 2007,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Hessen,code06,
 2008,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Hessen,code06,
 2009,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Hessen,code06,
@@ -251,6 +264,7 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Hessen,code06,
 2023,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Hessen,code06,0.308
 2024,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Hessen,code06,0.305
+2025,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,…,Hessen,code06,
 2007,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Mecklenburg-Vorpommern,code13,
 2008,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Mecklenburg-Vorpommern,code13,
 2009,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Mecklenburg-Vorpommern,code13,
@@ -269,6 +283,7 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Mecklenburg-Vorpommern,code13,
 2023,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Mecklenburg-Vorpommern,code13,0.253
 2024,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Mecklenburg-Vorpommern,code13,0.245
+2025,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,…,Mecklenburg-Vorpommern,code13,
 2007,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Niedersachsen,code03,
 2008,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Niedersachsen,code03,
 2009,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Niedersachsen,code03,
@@ -287,6 +302,7 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Niedersachsen,code03,
 2023,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Niedersachsen,code03,0.294
 2024,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Niedersachsen,code03,0.287
+2025,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,…,Niedersachsen,code03,
 2007,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Nordrhein-Westfalen,code05,
 2008,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Nordrhein-Westfalen,code05,
 2009,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Nordrhein-Westfalen,code05,
@@ -305,6 +321,7 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Nordrhein-Westfalen,code05,
 2023,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Nordrhein-Westfalen,code05,0.307
 2024,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Nordrhein-Westfalen,code05,0.305
+2025,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,…,Nordrhein-Westfalen,code05,
 2007,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Rheinland-Pfalz,code07,
 2008,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Rheinland-Pfalz,code07,
 2009,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Rheinland-Pfalz,code07,
@@ -323,6 +340,7 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Rheinland-Pfalz,code07,
 2023,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Rheinland-Pfalz,code07,0.281
 2024,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Rheinland-Pfalz,code07,0.288
+2025,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,…,Rheinland-Pfalz,code07,
 2007,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Saarland,code10,
 2008,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Saarland,code10,
 2009,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Saarland,code10,
@@ -341,6 +359,7 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Saarland,code10,
 2023,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Saarland,code10,0.266
 2024,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Saarland,code10,0.291
+2025,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,…,Saarland,code10,
 2007,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Sachsen,code14,
 2008,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Sachsen,code14,
 2009,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Sachsen,code14,
@@ -359,6 +378,7 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Sachsen,code14,
 2023,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Sachsen,code14,0.245
 2024,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Sachsen,code14,0.243
+2025,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,…,Sachsen,code14,
 2007,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Sachsen-Anhalt,code15,
 2008,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Sachsen-Anhalt,code15,
 2009,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Sachsen-Anhalt,code15,
@@ -377,6 +397,7 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Sachsen-Anhalt,code15,
 2023,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Sachsen-Anhalt,code15,0.276
 2024,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Sachsen-Anhalt,code15,0.282
+2025,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,…,Sachsen-Anhalt,code15,
 2007,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Schleswig-Holstein,code01,
 2008,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Schleswig-Holstein,code01,
 2009,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Schleswig-Holstein,code01,
@@ -395,6 +416,7 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Schleswig-Holstein,code01,
 2023,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Schleswig-Holstein,code01,0.295
 2024,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Schleswig-Holstein,code01,0.297
+2025,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,…,Schleswig-Holstein,code01,
 2007,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Thüringen,code16,
 2008,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Thüringen,code16,
 2009,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Thüringen,code16,
@@ -413,3 +435,4 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Thüringen,code16,
 2023,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Thüringen,code16,0.252
 2024,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,Thüringen,code16,0.279
+2025,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,…,Thüringen,code16,

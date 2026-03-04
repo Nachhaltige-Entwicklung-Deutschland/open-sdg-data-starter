@@ -10,6 +10,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,a) Material and social deprivation,European Union,,,,,,12.5
 2023,Percentage,a) Material and social deprivation,European Union,,,,,,13.1
 2024,Percentage,a) Material and social deprivation,European Union,,,,,,12.1
+2025,Percentage,a) Material and social deprivation,European Union,…,,,,,
 2014,Percentage,a) Material and social deprivation,European Union,r,Female,,,,20.5
 2015,Percentage,a) Material and social deprivation,European Union,r,Female,,,,18.3
 2016,Percentage,a) Material and social deprivation,European Union,r,Female,,,,16.9
@@ -21,6 +22,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,a) Material and social deprivation,European Union,,Female,,,,13.2
 2023,Percentage,a) Material and social deprivation,European Union,,Female,,,,13.8
 2024,Percentage,a) Material and social deprivation,European Union,,Female,,,,12.6
+2025,Percentage,a) Material and social deprivation,European Union,…,Female,,,,
 2014,Percentage,a) Material and social deprivation,European Union,r,Male,,,,18.8
 2015,Percentage,a) Material and social deprivation,European Union,r,Male,,,,16.5
 2016,Percentage,a) Material and social deprivation,European Union,r,Male,,,,15.1
@@ -32,6 +34,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,a) Material and social deprivation,European Union,,Male,,,,11.9
 2023,Percentage,a) Material and social deprivation,European Union,,Male,,,,12.3
 2024,Percentage,a) Material and social deprivation,European Union,,Male,,,,11.5
+2025,Percentage,a) Material and social deprivation,European Union,…,Male,,,,
 2014,Percentage,a) Material and social deprivation,Germany,r,,,,,12.3
 2015,Percentage,a) Material and social deprivation,Germany,r,,,,,11.2
 2016,Percentage,a) Material and social deprivation,Germany,r,,,,,9.6
@@ -43,6 +46,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,a) Material and social deprivation,Germany,,,,,,11.7
 2023,Percentage,a) Material and social deprivation,Germany,,,,,,12.7
 2024,Percentage,a) Material and social deprivation,Germany,,,,,,11.4
+2025,Percentage,a) Material and social deprivation,Germany,p,,,,,10.7
 2014,Percentage,a) Material and social deprivation,Germany,r,Female,,,,13.3
 2015,Percentage,a) Material and social deprivation,Germany,r,Female,,,,12.2
 2016,Percentage,a) Material and social deprivation,Germany,r,Female,,,,10.5
@@ -54,6 +58,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,a) Material and social deprivation,Germany,,Female,,,,11.8
 2023,Percentage,a) Material and social deprivation,Germany,,Female,,,,12.9
 2024,Percentage,a) Material and social deprivation,Germany,,Female,,,,11.4
+2025,Percentage,a) Material and social deprivation,Germany,p,Female,,,,10.8
 2014,Percentage,a) Material and social deprivation,Germany,r,Male,,,,11.3
 2015,Percentage,a) Material and social deprivation,Germany,r,Male,,,,10.2
 2016,Percentage,a) Material and social deprivation,Germany,r,Male,,,,8.6
@@ -65,6 +70,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,a) Material and social deprivation,Germany,,Male,,,,11.6
 2023,Percentage,a) Material and social deprivation,Germany,,Male,,,,12.5
 2024,Percentage,a) Material and social deprivation,Germany,,Male,,,,11.4
+2025,Percentage,a) Material and social deprivation,Germany,p,Male,,,,10.6
 2014,Percentage,b) Severe material and social deprivation,European Union,.,,,,,
 2015,Percentage,b) Severe material and social deprivation,European Union,,,,,,9.3
 2016,Percentage,b) Severe material and social deprivation,European Union,,,,,,8.7
@@ -76,6 +82,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,b) Severe material and social deprivation,European Union,,,,,,6.7
 2023,Percentage,b) Severe material and social deprivation,European Union,,,,,,6.8
 2024,Percentage,b) Severe material and social deprivation,European Union,,,,,,6.4
+2025,Percentage,b) Severe material and social deprivation,European Union,…,,,,,
 2014,Percentage,b) Severe material and social deprivation,European Union,.,Female,,,,
 2015,Percentage,b) Severe material and social deprivation,European Union,,Female,,,,9.9
 2016,Percentage,b) Severe material and social deprivation,European Union,,Female,,,,9.3
@@ -87,6 +94,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,b) Severe material and social deprivation,European Union,,Female,,,,7.0
 2023,Percentage,b) Severe material and social deprivation,European Union,,Female,,,,7.2
 2024,Percentage,b) Severe material and social deprivation,European Union,,Female,,,,6.6
+2025,Percentage,b) Severe material and social deprivation,European Union,…,Female,,,,
 2014,Percentage,b) Severe material and social deprivation,European Union,.,Male,,,,
 2015,Percentage,b) Severe material and social deprivation,European Union,,Male,,,,8.8
 2016,Percentage,b) Severe material and social deprivation,European Union,,Male,,,,8.1
@@ -98,6 +106,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,b) Severe material and social deprivation,European Union,,Male,,,,6.3
 2023,Percentage,b) Severe material and social deprivation,European Union,,Male,,,,6.5
 2024,Percentage,b) Severe material and social deprivation,European Union,,Male,,,,6.2
+2025,Percentage,b) Severe material and social deprivation,European Union,…,Male,,,,
 2014,Percentage,b) Severe material and social deprivation,Germany,.,,,,,
 2015,Percentage,b) Severe material and social deprivation,Germany,,,,,,5.7
 2016,Percentage,b) Severe material and social deprivation,Germany,,,,,,4.7
@@ -109,6 +118,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,b) Severe material and social deprivation,Germany,,,,,,6.2
 2023,Percentage,b) Severe material and social deprivation,Germany,,,,,,6.9
 2024,Percentage,b) Severe material and social deprivation,Germany,,,,,,6.2
+2025,Percentage,b) Severe material and social deprivation,Germany,p,,,,,5.6
 2014,Percentage,b) Severe material and social deprivation,Germany,.,Female,,,,
 2015,Percentage,b) Severe material and social deprivation,Germany,,Female,,,,6.3
 2016,Percentage,b) Severe material and social deprivation,Germany,,Female,,,,5.1
@@ -120,6 +130,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,b) Severe material and social deprivation,Germany,,Female,,,,6.1
 2023,Percentage,b) Severe material and social deprivation,Germany,,Female,,,,6.8
 2024,Percentage,b) Severe material and social deprivation,Germany,,Female,,,,6.1
+2025,Percentage,b) Severe material and social deprivation,Germany,p,Female,,,,5.5
 2014,Percentage,b) Severe material and social deprivation,Germany,.,Male,,,,
 2015,Percentage,b) Severe material and social deprivation,Germany,,Male,,,,5.0
 2016,Percentage,b) Severe material and social deprivation,Germany,,Male,,,,4.3
@@ -131,6 +142,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,b) Severe material and social deprivation,Germany,,Male,,,,6.3
 2023,Percentage,b) Severe material and social deprivation,Germany,,Male,,,,7.0
 2024,Percentage,b) Severe material and social deprivation,Germany,,Male,,,,6.3
+2025,Percentage,b) Severe material and social deprivation,Germany,p,Male,,,,5.6
 2014,Percentage,b) Severe material and social deprivation,Germany,.,,,Baden-Wuerttemberg,code08,
 2015,Percentage,b) Severe material and social deprivation,Germany,.,,,Baden-Wuerttemberg,code08,
 2016,Percentage,b) Severe material and social deprivation,Germany,.,,,Baden-Wuerttemberg,code08,
@@ -142,6 +154,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,b) Severe material and social deprivation,Germany,,,,Baden-Wuerttemberg,code08,5.2
 2023,Percentage,b) Severe material and social deprivation,Germany,,,,Baden-Wuerttemberg,code08,6.1
 2024,Percentage,b) Severe material and social deprivation,Germany,,,,Baden-Wuerttemberg,code08,6.8
+2025,Percentage,b) Severe material and social deprivation,Germany,p,,,Baden-Wuerttemberg,code08,5.5
 2014,Percentage,b) Severe material and social deprivation,Germany,.,,,Bavaria,code09,
 2015,Percentage,b) Severe material and social deprivation,Germany,.,,,Bavaria,code09,
 2016,Percentage,b) Severe material and social deprivation,Germany,.,,,Bavaria,code09,
@@ -153,6 +166,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,b) Severe material and social deprivation,Germany,,,,Bavaria,code09,4.1
 2023,Percentage,b) Severe material and social deprivation,Germany,,,,Bavaria,code09,4.5
 2024,Percentage,b) Severe material and social deprivation,Germany,,,,Bavaria,code09,3.4
+2025,Percentage,b) Severe material and social deprivation,Germany,p,,,Bavaria,code09,3.1
 2014,Percentage,b) Severe material and social deprivation,Germany,.,,,Berlin,code11,
 2015,Percentage,b) Severe material and social deprivation,Germany,.,,,Berlin,code11,
 2016,Percentage,b) Severe material and social deprivation,Germany,.,,,Berlin,code11,
@@ -164,6 +178,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,b) Severe material and social deprivation,Germany,,,,Berlin,code11,5.1
 2023,Percentage,b) Severe material and social deprivation,Germany,,,,Berlin,code11,5.7
 2024,Percentage,b) Severe material and social deprivation,Germany,,,,Berlin,code11,4.0
+2025,Percentage,b) Severe material and social deprivation,Germany,p,,,Berlin,code11,5.7
 2014,Percentage,b) Severe material and social deprivation,Germany,.,,,Brandenburg,code12,
 2015,Percentage,b) Severe material and social deprivation,Germany,.,,,Brandenburg,code12,
 2016,Percentage,b) Severe material and social deprivation,Germany,.,,,Brandenburg,code12,
@@ -175,6 +190,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,b) Severe material and social deprivation,Germany,,,,Brandenburg,code12,4.5
 2023,Percentage,b) Severe material and social deprivation,Germany,,,,Brandenburg,code12,6.3
 2024,Percentage,b) Severe material and social deprivation,Germany,,,,Brandenburg,code12,5.0
+2025,Percentage,b) Severe material and social deprivation,Germany,p,,,Brandenburg,code12,5.0
 2014,Percentage,b) Severe material and social deprivation,Germany,.,,,Bremen,code04,
 2015,Percentage,b) Severe material and social deprivation,Germany,.,,,Bremen,code04,
 2016,Percentage,b) Severe material and social deprivation,Germany,.,,,Bremen,code04,
@@ -186,6 +202,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,b) Severe material and social deprivation,Germany,,,,Bremen,code04,10.4
 2023,Percentage,b) Severe material and social deprivation,Germany,,,,Bremen,code04,14.0
 2024,Percentage,b) Severe material and social deprivation,Germany,,,,Bremen,code04,10.1
+2025,Percentage,b) Severe material and social deprivation,Germany,p,,,Bremen,code04,11.1
 2014,Percentage,b) Severe material and social deprivation,Germany,.,,,Hamburg,code02,
 2015,Percentage,b) Severe material and social deprivation,Germany,.,,,Hamburg,code02,
 2016,Percentage,b) Severe material and social deprivation,Germany,.,,,Hamburg,code02,
@@ -197,6 +214,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,b) Severe material and social deprivation,Germany,,,,Hamburg,code02,7.4
 2023,Percentage,b) Severe material and social deprivation,Germany,,,,Hamburg,code02,6.7
 2024,Percentage,b) Severe material and social deprivation,Germany,,,,Hamburg,code02,6.4
+2025,Percentage,b) Severe material and social deprivation,Germany,p,,,Hamburg,code02,5.6
 2014,Percentage,b) Severe material and social deprivation,Germany,.,,,Hesse,code06,
 2015,Percentage,b) Severe material and social deprivation,Germany,.,,,Hesse,code06,
 2016,Percentage,b) Severe material and social deprivation,Germany,.,,,Hesse,code06,
@@ -208,6 +226,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,b) Severe material and social deprivation,Germany,,,,Hesse,code06,7.8
 2023,Percentage,b) Severe material and social deprivation,Germany,,,,Hesse,code06,7.4
 2024,Percentage,b) Severe material and social deprivation,Germany,,,,Hesse,code06,7.0
+2025,Percentage,b) Severe material and social deprivation,Germany,p,,,Hesse,code06,5.5
 2014,Percentage,b) Severe material and social deprivation,Germany,.,,,Mecklenburg Western Pomerania,code13,
 2015,Percentage,b) Severe material and social deprivation,Germany,.,,,Mecklenburg Western Pomerania,code13,
 2016,Percentage,b) Severe material and social deprivation,Germany,.,,,Mecklenburg Western Pomerania,code13,
@@ -219,6 +238,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,b) Severe material and social deprivation,Germany,,,,Mecklenburg Western Pomerania,code13,8.4
 2023,Percentage,b) Severe material and social deprivation,Germany,,,,Mecklenburg Western Pomerania,code13,8.8
 2024,Percentage,b) Severe material and social deprivation,Germany,,,,Mecklenburg Western Pomerania,code13,5.2
+2025,Percentage,b) Severe material and social deprivation,Germany,p,,,Mecklenburg Western Pomerania,code13,5.1
 2014,Percentage,b) Severe material and social deprivation,Germany,.,,,Lower Saxony,code03,
 2015,Percentage,b) Severe material and social deprivation,Germany,.,,,Lower Saxony,code03,
 2016,Percentage,b) Severe material and social deprivation,Germany,.,,,Lower Saxony,code03,
@@ -230,6 +250,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,b) Severe material and social deprivation,Germany,,,,Lower Saxony,code03,7.3
 2023,Percentage,b) Severe material and social deprivation,Germany,,,,Lower Saxony,code03,7.7
 2024,Percentage,b) Severe material and social deprivation,Germany,,,,Lower Saxony,code03,7.5
+2025,Percentage,b) Severe material and social deprivation,Germany,p,,,Lower Saxony,code03,6.5
 2014,Percentage,b) Severe material and social deprivation,Germany,.,,,North Rhine-Westphalia,code05,
 2015,Percentage,b) Severe material and social deprivation,Germany,.,,,North Rhine-Westphalia,code05,
 2016,Percentage,b) Severe material and social deprivation,Germany,.,,,North Rhine-Westphalia,code05,
@@ -241,6 +262,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,b) Severe material and social deprivation,Germany,,,,North Rhine-Westphalia,code05,8.5
 2023,Percentage,b) Severe material and social deprivation,Germany,,,,North Rhine-Westphalia,code05,9.1
 2024,Percentage,b) Severe material and social deprivation,Germany,,,,North Rhine-Westphalia,code05,7.8
+2025,Percentage,b) Severe material and social deprivation,Germany,p,,,North Rhine-Westphalia,code05,7.1
 2014,Percentage,b) Severe material and social deprivation,Germany,.,,,Rhineland Palatinate,code07,
 2015,Percentage,b) Severe material and social deprivation,Germany,.,,,Rhineland Palatinate,code07,
 2016,Percentage,b) Severe material and social deprivation,Germany,.,,,Rhineland Palatinate,code07,
@@ -252,6 +274,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,b) Severe material and social deprivation,Germany,,,,Rhineland Palatinate,code07,5.7
 2023,Percentage,b) Severe material and social deprivation,Germany,,,,Rhineland Palatinate,code07,7.4
 2024,Percentage,b) Severe material and social deprivation,Germany,,,,Rhineland Palatinate,code07,7.3
+2025,Percentage,b) Severe material and social deprivation,Germany,p,,,Rhineland Palatinate,code07,6.5
 2014,Percentage,b) Severe material and social deprivation,Germany,.,,,Saarland,code10,
 2015,Percentage,b) Severe material and social deprivation,Germany,.,,,Saarland,code10,
 2016,Percentage,b) Severe material and social deprivation,Germany,.,,,Saarland,code10,
@@ -263,6 +286,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,b) Severe material and social deprivation,Germany,,,,Saarland,code10,5.8
 2023,Percentage,b) Severe material and social deprivation,Germany,,,,Saarland,code10,9.0
 2024,Percentage,b) Severe material and social deprivation,Germany,,,,Saarland,code10,8.4
+2025,Percentage,b) Severe material and social deprivation,Germany,p,,,Saarland,code10,7.4
 2014,Percentage,b) Severe material and social deprivation,Germany,.,,,Saxony,code14,
 2015,Percentage,b) Severe material and social deprivation,Germany,.,,,Saxony,code14,
 2016,Percentage,b) Severe material and social deprivation,Germany,.,,,Saxony,code14,
@@ -274,6 +298,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,b) Severe material and social deprivation,Germany,,,,Saxony,code14,2.6
 2023,Percentage,b) Severe material and social deprivation,Germany,,,,Saxony,code14,4.4
 2024,Percentage,b) Severe material and social deprivation,Germany,,,,Saxony,code14,4.3
+2025,Percentage,b) Severe material and social deprivation,Germany,p,,,Saxony,code14,3.8
 2014,Percentage,b) Severe material and social deprivation,Germany,.,,,Saxony-Anhalt,code15,
 2015,Percentage,b) Severe material and social deprivation,Germany,.,,,Saxony-Anhalt,code15,
 2016,Percentage,b) Severe material and social deprivation,Germany,.,,,Saxony-Anhalt,code15,
@@ -285,6 +310,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,b) Severe material and social deprivation,Germany,,,,Saxony-Anhalt,code15,5.1
 2023,Percentage,b) Severe material and social deprivation,Germany,,,,Saxony-Anhalt,code15,4.7
 2024,Percentage,b) Severe material and social deprivation,Germany,,,,Saxony-Anhalt,code15,4.3
+2025,Percentage,b) Severe material and social deprivation,Germany,p,,,Saxony-Anhalt,code15,3.8
 2014,Percentage,b) Severe material and social deprivation,Germany,.,,,Schleswig-Holstein,code01,
 2015,Percentage,b) Severe material and social deprivation,Germany,.,,,Schleswig-Holstein,code01,
 2016,Percentage,b) Severe material and social deprivation,Germany,.,,,Schleswig-Holstein,code01,
@@ -296,6 +322,7 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,b) Severe material and social deprivation,Germany,,,,Schleswig-Holstein,code01,5.7
 2023,Percentage,b) Severe material and social deprivation,Germany,,,,Schleswig-Holstein,code01,6.7
 2024,Percentage,b) Severe material and social deprivation,Germany,,,,Schleswig-Holstein,code01,5.5
+2025,Percentage,b) Severe material and social deprivation,Germany,p,,,Schleswig-Holstein,code01,4.6
 2014,Percentage,b) Severe material and social deprivation,Germany,.,,,Thuringia,code16,
 2015,Percentage,b) Severe material and social deprivation,Germany,.,,,Thuringia,code16,
 2016,Percentage,b) Severe material and social deprivation,Germany,.,,,Thuringia,code16,
@@ -307,3 +334,4 @@ Year,Units,Time series,Area,COMMENT_OBS_0,Sex,COMMENT_OBS_1,Länder,GeoCode,Valu
 2022,Percentage,b) Severe material and social deprivation,Germany,,,,Thuringia,code16,6.6
 2023,Percentage,b) Severe material and social deprivation,Germany,,,,Thuringia,code16,8.4
 2024,Percentage,b) Severe material and social deprivation,Germany,,,,Thuringia,code16,6.5
+2025,Percentage,b) Severe material and social deprivation,Germany,p,,,Thuringia,code16,7.9
