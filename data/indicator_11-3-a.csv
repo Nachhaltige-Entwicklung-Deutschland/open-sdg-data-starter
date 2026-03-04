@@ -14,6 +14,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,r,,,,,11.9
 2023,percentage,|,r,,,,13.0
 2024,percentage,,,,,,12.0
+2025,percentage,p,,,,,11.1
 2030,percentage,…,,,,,
 2010,percentage,,,female,,,15.4
 2011,percentage,,,female,,,17.5
@@ -30,6 +31,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,,,female,,,12.9
 2023,percentage,|,,female,,,13.9
 2024,percentage,,,female,,,12.8
+2025,percentage,p,,female,,,12.0
 2030,percentage,…,,female,,,
 2010,percentage,,,male,,,13.5
 2011,percentage,,,male,,,14.7
@@ -46,6 +48,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,,,male,,,11.0
 2023,percentage,|,,male,,,12.1
 2024,percentage,,,male,,,11.2
+2025,percentage,p,,male,,,10.1
 2030,percentage,…,,male,,,
 2010,percentage,.,,,baden-wuerttemberg,code08,
 2011,percentage,.,,,baden-wuerttemberg,code08,
@@ -62,6 +65,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,,,,baden-wuerttemberg,code08,12.2
 2023,percentage,|,,,baden-wuerttemberg,code08,11.7
 2024,percentage,,,,baden-wuerttemberg,code08,11.7
+2025,percentage,p,,,baden-wuerttemberg,code08,11.3
 2030,percentage,,,,baden-wuerttemberg,code08,
 2010,percentage,.,,,bavaria,code09,
 2011,percentage,.,,,bavaria,code09,
@@ -78,6 +82,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,,,,bavaria,code09,11.8
 2023,percentage,|,,,bavaria,code09,11.9
 2024,percentage,,,,bavaria,code09,11.9
+2025,percentage,p,,,bavaria,code09,10.5
 2030,percentage,,,,bavaria,code09,
 2010,percentage,.,,,berlin,code11,
 2011,percentage,.,,,berlin,code11,
@@ -94,6 +99,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,,,,berlin,code11,12.9
 2023,percentage,|,,,berlin,code11,12.9
 2024,percentage,,,,berlin,code11,12.8
+2025,percentage,p,,,berlin,code11,12.0
 2030,percentage,,,,berlin,code11,
 2010,percentage,.,,,brandenburg,code12,
 2011,percentage,.,,,brandenburg,code12,
@@ -110,6 +116,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,,,,brandenburg,code12,8.0
 2023,percentage,|,,,brandenburg,code12,12.7
 2024,percentage,,,,brandenburg,code12,11.3
+2025,percentage,p,,,brandenburg,code12,8.8
 2030,percentage,,,,brandenburg,code12,
 2010,percentage,.,,,bremen,code04,
 2011,percentage,.,,,bremen,code04,
@@ -126,6 +133,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,,,,bremen,code04,11.3
 2023,percentage,|,,,bremen,code04,14.3
 2024,percentage,,,,bremen,code04,11.6
+2025,percentage,p,,,bremen,code04,10.5
 2030,percentage,,,,bremen,code04,
 2010,percentage,.,,,hamburg,code02,
 2011,percentage,.,,,hamburg,code02,
@@ -142,6 +150,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,,,,hamburg,code02,16.8
 2023,percentage,|,,,hamburg,code02,15.8
 2024,percentage,,,,hamburg,code02,13.2
+2025,percentage,p,,,hamburg,code02,15.6
 2030,percentage,,,,hamburg,code02,
 2010,percentage,.,,,hesse,code06,
 2011,percentage,.,,,hesse,code06,
@@ -158,6 +167,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,,,,hesse,code06,12.8
 2023,percentage,|,,,hesse,code06,15.0
 2024,percentage,,,,hesse,code06,13.4
+2025,percentage,p,,,hesse,code06,11.9
 2030,percentage,,,,hesse,code06,
 2010,percentage,.,,,mecklenburg western pomerania,code13,
 2011,percentage,.,,,mecklenburg western pomerania,code13,
@@ -174,6 +184,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,,,,mecklenburg western pomerania,code13,8.0
 2023,percentage,|,,,mecklenburg western pomerania,code13,12.4
 2024,percentage,,,,mecklenburg western pomerania,code13,8.0
+2025,percentage,p,,,mecklenburg western pomerania,code13,6.7
 2030,percentage,,,,mecklenburg western pomerania,code13,
 2010,percentage,.,,,lower saxony,code03,
 2011,percentage,.,,,lower saxony,code03,
@@ -190,6 +201,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,,,,lower saxony,code03,13.1
 2023,percentage,|,,,lower saxony,code03,13.4
 2024,percentage,,,,lower saxony,code03,13.4
+2025,percentage,p,,,lower saxony,code03,11.1
 2030,percentage,,,,lower saxony,code03,
 2010,percentage,.,,,north rhine-westphalia,code05,
 2011,percentage,.,,,north rhine-westphalia,code05,
@@ -206,6 +218,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,,,,north rhine-westphalia,code05,12.5
 2023,percentage,|,,,north rhine-westphalia,code05,14.2
 2024,percentage,,,,north rhine-westphalia,code05,12.0
+2025,percentage,,,,north rhine-westphalia,code05,11.8
 2030,percentage,,,,north rhine-westphalia,code05,
 2010,percentage,.,,,rhineland palatinate,code07,
 2011,percentage,.,,,rhineland palatinate,code07,
@@ -222,6 +235,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,,,,rhineland palatinate,code07,12.1
 2023,percentage,|,,,rhineland palatinate,code07,14.4
 2024,percentage,,,,rhineland palatinate,code07,14.2
+2025,percentage,p,,,rhineland palatinate,code07,13.5
 2030,percentage,,,,rhineland palatinate,code07,
 2010,percentage,.,,,saarland,code10,
 2011,percentage,.,,,saarland,code10,
@@ -238,6 +252,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,,,,saarland,code10,14.4
 2023,percentage,|,,,saarland,code10,13.6
 2024,percentage,,,,saarland,code10,14.4
+2025,percentage,p,,,saarland,code10,11.7
 2030,percentage,,,,saarland,code10,
 2010,percentage,.,,,saxony,code14,
 2011,percentage,.,,,saxony,code14,
@@ -254,6 +269,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,,,,saxony,code14,8.8
 2023,percentage,|,,,saxony,code14,8.5
 2024,percentage,,,,saxony,code14,7.4
+2025,percentage,p,,,saxony,code14,7.4
 2030,percentage,,,,saxony,code14,
 2010,percentage,.,,,saxony-anhalt,code15,
 2011,percentage,.,,,saxony-anhalt,code15,
@@ -270,6 +286,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,,,,saxony-anhalt,code15,7.3
 2023,percentage,|,,,saxony-anhalt,code15,9.6
 2024,percentage,,,,saxony-anhalt,code15,8.9
+2025,percentage,p,,,saxony-anhalt,code15,9.2
 2030,percentage,,,,saxony-anhalt,code15,
 2010,percentage,.,,,schleswig-holstein,code01,
 2011,percentage,.,,,schleswig-holstein,code01,
@@ -286,6 +303,7 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,,,,schleswig-holstein,code01,13.1
 2023,percentage,|,,,schleswig-holstein,code01,16.4
 2024,percentage,,,,schleswig-holstein,code01,14.7
+2025,percentage,p,,,schleswig-holstein,code01,11.5
 2030,percentage,,,,schleswig-holstein,code01,
 2010,percentage,.,,,thuringia,code16,
 2011,percentage,.,,,thuringia,code16,
@@ -302,4 +320,5 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,,,,thuringia,code16,9.4
 2023,percentage,|,,,thuringia,code16,12.1
 2024,percentage,,,,thuringia,code16,9.8
+2025,percentage,p,,,thuringia,code16,8.6
 2030,percentage,,,,thuringia,code16,
