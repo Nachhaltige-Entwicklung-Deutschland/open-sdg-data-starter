@@ -16,9 +16,10 @@ Year,Units,COMMENT_OBS_0,Länder,GeoCode,Value
 2019,Percentage,,,,17.3
 2020,Percentage,,,,19.1
 2021,Percentage,,,,19.3
-2022,Percentage,,,,20.9
-2023,Percentage,p,,,21.6
-2024,Percentage,p,,,22.4
+2022,Percentage,r,,,20.8
+2023,Percentage,r,,,21.5
+2024,Percentage,r,,,22.5
+2025,Percentage,p,,,23.8
 2030,Percentage,…,,,
 2040,Percentage,…,,,
 2050,Percentage,…,,,
@@ -42,6 +43,7 @@ Year,Units,COMMENT_OBS_0,Länder,GeoCode,Value
 2022,Percentage,…,Baden-Wuerttemberg,code08,
 2023,Percentage,…,Baden-Wuerttemberg,code08,
 2024,Percentage,…,Baden-Wuerttemberg,code08,
+2025,Percentage,…,Baden-Wuerttemberg,code08,
 2030,Percentage,…,Baden-Wuerttemberg,code08,
 2040,Percentage,…,Baden-Wuerttemberg,code08,
 2050,Percentage,…,Baden-Wuerttemberg,code08,
@@ -65,6 +67,7 @@ Year,Units,COMMENT_OBS_0,Länder,GeoCode,Value
 2022,Percentage,,Bavaria,code09,25.04
 2023,Percentage,…,Bavaria,code09,
 2024,Percentage,…,Bavaria,code09,
+2025,Percentage,…,Bavaria,code09,
 2030,Percentage,…,Bavaria,code09,
 2040,Percentage,…,Bavaria,code09,
 2050,Percentage,…,Bavaria,code09,
@@ -88,6 +91,7 @@ Year,Units,COMMENT_OBS_0,Länder,GeoCode,Value
 2022,Percentage,…,Berlin,code11,
 2023,Percentage,…,Berlin,code11,
 2024,Percentage,…,Berlin,code11,
+2025,Percentage,…,Berlin,code11,
 2030,Percentage,…,Berlin,code11,
 2040,Percentage,…,Berlin,code11,
 2050,Percentage,…,Berlin,code11,
@@ -111,6 +115,7 @@ Year,Units,COMMENT_OBS_0,Länder,GeoCode,Value
 2022,Percentage,…,Brandenburg,code12,
 2023,Percentage,…,Brandenburg,code12,
 2024,Percentage,…,Brandenburg,code12,
+2025,Percentage,…,Brandenburg,code12,
 2030,Percentage,…,Brandenburg,code12,
 2040,Percentage,…,Brandenburg,code12,
 2050,Percentage,…,Brandenburg,code12,
@@ -134,6 +139,7 @@ Year,Units,COMMENT_OBS_0,Länder,GeoCode,Value
 2022,Percentage,…,Bremen,code04,
 2023,Percentage,…,Bremen,code04,
 2024,Percentage,…,Bremen,code04,
+2025,Percentage,…,Bremen,code04,
 2030,Percentage,…,Bremen,code04,
 2040,Percentage,…,Bremen,code04,
 2050,Percentage,…,Bremen,code04,
@@ -157,6 +163,7 @@ Year,Units,COMMENT_OBS_0,Länder,GeoCode,Value
 2022,Percentage,r,Hamburg,code02,6.449
 2023,Percentage,,Hamburg,code02,6.585
 2024,Percentage,…,Hamburg,code02,
+2025,Percentage,…,Hamburg,code02,
 2030,Percentage,…,Hamburg,code02,
 2040,Percentage,…,Hamburg,code02,
 2050,Percentage,…,Hamburg,code02,
@@ -180,6 +187,7 @@ Year,Units,COMMENT_OBS_0,Länder,GeoCode,Value
 2022,Percentage,…,Hesse,code06,
 2023,Percentage,…,Hesse,code06,
 2024,Percentage,…,Hesse,code06,
+2025,Percentage,…,Hesse,code06,
 2030,Percentage,…,Hesse,code06,
 2040,Percentage,…,Hesse,code06,
 2050,Percentage,…,Hesse,code06,
@@ -203,6 +211,7 @@ Year,Units,COMMENT_OBS_0,Länder,GeoCode,Value
 2022,Percentage,.,Mecklenburg Western Pomerania,code13,
 2023,Percentage,.,Mecklenburg Western Pomerania,code13,
 2024,Percentage,.,Mecklenburg Western Pomerania,code13,
+2025,Percentage,.,Mecklenburg Western Pomerania,code13,
 2030,Percentage,…,Mecklenburg Western Pomerania,code13,
 2040,Percentage,…,Mecklenburg Western Pomerania,code13,
 2050,Percentage,…,Mecklenburg Western Pomerania,code13,
@@ -224,8 +233,9 @@ Year,Units,COMMENT_OBS_0,Länder,GeoCode,Value
 2020,Percentage,,Lower Saxony,code03,26.952
 2021,Percentage,,Lower Saxony,code03,24.496
 2022,Percentage,r,Lower Saxony,code03,26.856
-2023,Percentage,p,Lower Saxony,code03,28.884
+2023,Percentage,,Lower Saxony,code03,28.884
 2024,Percentage,…,Lower Saxony,code03,
+2025,Percentage,…,Lower Saxony,code03,
 2030,Percentage,…,Lower Saxony,code03,
 2040,Percentage,…,Lower Saxony,code03,
 2050,Percentage,…,Lower Saxony,code03,
@@ -245,10 +255,11 @@ Year,Units,COMMENT_OBS_0,Länder,GeoCode,Value
 2018,Percentage,r,North Rhine-Westphalia,code05,7.287
 2019,Percentage,,North Rhine-Westphalia,code05,7.931
 2020,Percentage,,North Rhine-Westphalia,code05,8.772
-2021,Percentage,r,North Rhine-Westphalia,code05,8.487
-2022,Percentage,,North Rhine-Westphalia,code05,9.691
-2023,Percentage,…,North Rhine-Westphalia,code05,
+2021,Percentage,r,North Rhine-Westphalia,code05,8.488
+2022,Percentage,r,North Rhine-Westphalia,code05,9.837
+2023,Percentage,,North Rhine-Westphalia,code05,11.365
 2024,Percentage,…,North Rhine-Westphalia,code05,
+2025,Percentage,…,North Rhine-Westphalia,code05,
 2030,Percentage,…,North Rhine-Westphalia,code05,
 2040,Percentage,…,North Rhine-Westphalia,code05,
 2050,Percentage,…,North Rhine-Westphalia,code05,
@@ -272,6 +283,7 @@ Year,Units,COMMENT_OBS_0,Länder,GeoCode,Value
 2022,Percentage,…,Rhineland Palatinate,code07,
 2023,Percentage,…,Rhineland Palatinate,code07,
 2024,Percentage,…,Rhineland Palatinate,code07,
+2025,Percentage,…,Rhineland Palatinate,code07,
 2030,Percentage,…,Rhineland Palatinate,code07,
 2040,Percentage,…,Rhineland Palatinate,code07,
 2050,Percentage,…,Rhineland Palatinate,code07,
@@ -295,6 +307,7 @@ Year,Units,COMMENT_OBS_0,Länder,GeoCode,Value
 2022,Percentage,…,Saarland,code10,
 2023,Percentage,…,Saarland,code10,
 2024,Percentage,…,Saarland,code10,
+2025,Percentage,…,Saarland,code10,
 2030,Percentage,…,Saarland,code10,
 2040,Percentage,…,Saarland,code10,
 2050,Percentage,…,Saarland,code10,
@@ -318,6 +331,7 @@ Year,Units,COMMENT_OBS_0,Länder,GeoCode,Value
 2022,Percentage,…,Saxony,code14,
 2023,Percentage,…,Saxony,code14,
 2024,Percentage,…,Saxony,code14,
+2025,Percentage,…,Saxony,code14,
 2030,Percentage,…,Saxony,code14,
 2040,Percentage,…,Saxony,code14,
 2050,Percentage,…,Saxony,code14,
@@ -339,8 +353,9 @@ Year,Units,COMMENT_OBS_0,Länder,GeoCode,Value
 2020,Percentage,,Saxony-Anhalt,code15,18.961
 2021,Percentage,,Saxony-Anhalt,code15,25.434
 2022,Percentage,,Saxony-Anhalt,code15,26.927
-2023,Percentage,…,Saxony-Anhalt,code15,
+2023,Percentage,,Saxony-Anhalt,code15,30.384
 2024,Percentage,…,Saxony-Anhalt,code15,
+2025,Percentage,…,Saxony-Anhalt,code15,
 2030,Percentage,…,Saxony-Anhalt,code15,
 2040,Percentage,…,Saxony-Anhalt,code15,
 2050,Percentage,…,Saxony-Anhalt,code15,
@@ -364,6 +379,7 @@ Year,Units,COMMENT_OBS_0,Länder,GeoCode,Value
 2022,Percentage,,Schleswig-Holstein,code01,44.98
 2023,Percentage,,Schleswig-Holstein,code01,47.926
 2024,Percentage,…,Schleswig-Holstein,code01,
+2025,Percentage,…,Schleswig-Holstein,code01,
 2030,Percentage,…,Schleswig-Holstein,code01,
 2040,Percentage,…,Schleswig-Holstein,code01,
 2050,Percentage,…,Schleswig-Holstein,code01,
@@ -387,6 +403,7 @@ Year,Units,COMMENT_OBS_0,Länder,GeoCode,Value
 2022,Percentage,…,Thuringia,code16,
 2023,Percentage,…,Thuringia,code16,
 2024,Percentage,…,Thuringia,code16,
+2025,Percentage,…,Thuringia,code16,
 2030,Percentage,…,Thuringia,code16,
 2040,Percentage,…,Thuringia,code16,
 2050,Percentage,…,Thuringia,code16,

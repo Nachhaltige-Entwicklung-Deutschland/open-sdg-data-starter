@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
@@ -59,7 +59,6 @@
             "constraints": {
               "enum": [
                 "x",
-                "…",
                 ".",
                 ""
               ]

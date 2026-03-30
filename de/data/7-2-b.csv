@@ -18,7 +18,8 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2021,Prozent,r,,,41.7
 2022,Prozent,,,,46.3
 2023,Prozent,r,,,52.9
-2024,Prozent,p,,,54.1
+2024,Prozent,r,,,54.4
+2025,Prozent,p,,,55.1
 2030,Prozent,…,,,
 2005,Prozent,,Baden-Württemberg,code08,8.583
 2006,Prozent,,Baden-Württemberg,code08,10.059
@@ -40,6 +41,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Prozent,,Baden-Württemberg,code08,27.309
 2023,Prozent,,Baden-Württemberg,code08,31.262
 2024,Prozent,…,Baden-Württemberg,code08,
+2025,Prozent,…,Baden-Württemberg,code08,
 2030,Prozent,…,Baden-Württemberg,code08,
 2005,Prozent,,Bayern,code09,18.449
 2006,Prozent,,Bayern,code09,20.048
@@ -61,6 +63,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Prozent,,Bayern,code09,47.874
 2023,Prozent,…,Bayern,code09,
 2024,Prozent,…,Bayern,code09,
+2025,Prozent,…,Bayern,code09,
 2030,Prozent,…,Bayern,code09,
 2005,Prozent,,Berlin,code11,0.745
 2006,Prozent,,Berlin,code11,0.813
@@ -80,8 +83,9 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2020,Prozent,r,Berlin,code11,3.791
 2021,Prozent,r,Berlin,code11,3.397
 2022,Prozent,,Berlin,code11,3.511
-2023,Prozent,p,Berlin,code11,2.996
-2024,Prozent,…,Berlin,code11,
+2023,Prozent,,Berlin,code11,2.996
+2024,Prozent,p,Berlin,code11,3.308
+2025,Prozent,…,Berlin,code11,
 2030,Prozent,…,Berlin,code11,
 2005,Prozent,,Brandenburg,code12,22.207
 2006,Prozent,,Brandenburg,code12,28.179
@@ -101,8 +105,9 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2020,Prozent,,Brandenburg,code12,101.9
 2021,Prozent,,Brandenburg,code12,90.072
 2022,Prozent,r,Brandenburg,code12,101.759
-2023,Prozent,p,Brandenburg,code12,111.613
+2023,Prozent,,Brandenburg,code12,114.457
 2024,Prozent,…,Brandenburg,code12,
+2025,Prozent,…,Brandenburg,code12,
 2030,Prozent,…,Brandenburg,code12,
 2005,Prozent,,Bremen,code04,3.908
 2006,Prozent,,Bremen,code04,4.204
@@ -124,6 +129,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Prozent,…,Bremen,code04,
 2023,Prozent,…,Bremen,code04,
 2024,Prozent,…,Bremen,code04,
+2025,Prozent,…,Bremen,code04,
 2030,Prozent,…,Bremen,code04,
 2005,Prozent,,Hamburg,code02,1.317
 2006,Prozent,,Hamburg,code02,2.741
@@ -145,6 +151,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Prozent,,Hamburg,code02,5.345
 2023,Prozent,,Hamburg,code02,5.04
 2024,Prozent,…,Hamburg,code02,
+2025,Prozent,…,Hamburg,code02,
 2030,Prozent,…,Hamburg,code02,
 2005,Prozent,,Hessen,code06,3.793
 2006,Prozent,,Hessen,code06,4.216
@@ -166,6 +173,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Prozent,r,Hessen,code06,23.506
 2023,Prozent,p,Hessen,code06,27.549
 2024,Prozent,…,Hessen,code06,
+2025,Prozent,…,Hessen,code06,
 2030,Prozent,…,Hessen,code06,
 2005,Prozent,.,Mecklenburg-Vorpommern,code13,
 2006,Prozent,.,Mecklenburg-Vorpommern,code13,
@@ -187,6 +195,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Prozent,…,Mecklenburg-Vorpommern,code13,
 2023,Prozent,…,Mecklenburg-Vorpommern,code13,
 2024,Prozent,…,Mecklenburg-Vorpommern,code13,
+2025,Prozent,…,Mecklenburg-Vorpommern,code13,
 2030,Prozent,…,Mecklenburg-Vorpommern,code13,
 2005,Prozent,.,Niedersachsen,code03,
 2006,Prozent,,Niedersachsen,code03,18.628
@@ -206,8 +215,9 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2020,Prozent,,Niedersachsen,code03,92.04
 2021,Prozent,,Niedersachsen,code03,81.145
 2022,Prozent,,Niedersachsen,code03,89.855
-2023,Prozent,p,Niedersachsen,code03,98.607
+2023,Prozent,,Niedersachsen,code03,98.607
 2024,Prozent,…,Niedersachsen,code03,
+2025,Prozent,…,Niedersachsen,code03,
 2030,Prozent,…,Niedersachsen,code03,
 2005,Prozent,,Nordrhein-Westfalen,code05,5.701
 2006,Prozent,,Nordrhein-Westfalen,code05,5.849
@@ -226,9 +236,10 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2019,Prozent,,Nordrhein-Westfalen,code05,16.442
 2020,Prozent,,Nordrhein-Westfalen,code05,18.311
 2021,Prozent,r,Nordrhein-Westfalen,code05,17.038
-2022,Prozent,,Nordrhein-Westfalen,code05,18.369
-2023,Prozent,…,Nordrhein-Westfalen,code05,
+2022,Prozent,r,Nordrhein-Westfalen,code05,18.432
+2023,Prozent,,Nordrhein-Westfalen,code05,22.536
 2024,Prozent,…,Nordrhein-Westfalen,code05,
+2025,Prozent,…,Nordrhein-Westfalen,code05,
 2030,Prozent,…,Nordrhein-Westfalen,code05,
 2005,Prozent,,Rheinland-Pfalz,code07,7.906
 2006,Prozent,,Rheinland-Pfalz,code07,10.156
@@ -248,8 +259,9 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2020,Prozent,r,Rheinland-Pfalz,code07,41.437
 2021,Prozent,r,Rheinland-Pfalz,code07,36.23
 2022,Prozent,r,Rheinland-Pfalz,code07,38.924
-2023,Prozent,,Rheinland-Pfalz,code07,65.562
-2024,Prozent,…,Rheinland-Pfalz,code07,
+2023,Prozent,r,Rheinland-Pfalz,code07,50.091
+2024,Prozent,,Rheinland-Pfalz,code07,63.779
+2025,Prozent,…,Rheinland-Pfalz,code07,
 2030,Prozent,…,Rheinland-Pfalz,code07,
 2005,Prozent,,Saarland,code10,3.229
 2006,Prozent,,Saarland,code10,4.219
@@ -271,6 +283,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Prozent,,Saarland,code10,21.662
 2023,Prozent,…,Saarland,code10,
 2024,Prozent,…,Saarland,code10,
+2025,Prozent,…,Saarland,code10,
 2030,Prozent,…,Saarland,code10,
 2005,Prozent,,Sachsen,code14,7.573
 2006,Prozent,,Sachsen,code14,8.213
@@ -290,8 +303,9 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2020,Prozent,,Sachsen,code14,24.672
 2021,Prozent,,Sachsen,code14,21.858
 2022,Prozent,,Sachsen,code14,22.813
-2023,Prozent,p,Sachsen,code14,25.289
+2023,Prozent,,Sachsen,code14,25.289
 2024,Prozent,…,Sachsen,code14,
+2025,Prozent,…,Sachsen,code14,
 2030,Prozent,…,Sachsen,code14,
 2005,Prozent,,Sachsen-Anhalt,code15,18.799
 2006,Prozent,,Sachsen-Anhalt,code15,22.689
@@ -311,8 +325,9 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2020,Prozent,,Sachsen-Anhalt,code15,77.425
 2021,Prozent,,Sachsen-Anhalt,code15,70.233
 2022,Prozent,,Sachsen-Anhalt,code15,75.12
-2023,Prozent,…,Sachsen-Anhalt,code15,
+2023,Prozent,,Sachsen-Anhalt,code15,83.145
 2024,Prozent,…,Sachsen-Anhalt,code15,
+2025,Prozent,…,Sachsen-Anhalt,code15,
 2030,Prozent,…,Sachsen-Anhalt,code15,
 2005,Prozent,,Schleswig-Holstein,code01,22.718
 2006,Prozent,,Schleswig-Holstein,code01,23.446
@@ -332,8 +347,9 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2020,Prozent,,Schleswig-Holstein,code01,155.688
 2021,Prozent,,Schleswig-Holstein,code01,142.362
 2022,Prozent,,Schleswig-Holstein,code01,171.481
-2023,Prozent,,Schleswig-Holstein,code01,173.987
+2023,Prozent,,Schleswig-Holstein,code01,173.988
 2024,Prozent,…,Schleswig-Holstein,code01,
+2025,Prozent,…,Schleswig-Holstein,code01,
 2030,Prozent,…,Schleswig-Holstein,code01,
 2005,Prozent,,Thüringen,code16,11.077
 2006,Prozent,,Thüringen,code16,12.286
@@ -353,6 +369,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2020,Prozent,,Thüringen,code16,45.582
 2021,Prozent,,Thüringen,code16,41.204
 2022,Prozent,,Thüringen,code16,47.101
-2023,Prozent,…,Thüringen,code16,
+2023,Prozent,,Thüringen,code16,51.005
 2024,Prozent,…,Thüringen,code16,
+2025,Prozent,…,Thüringen,code16,
 2030,Prozent,…,Thüringen,code16,
