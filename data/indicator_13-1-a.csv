@@ -34,6 +34,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2022,1990 = 100,,,,59.792
 2023,1990 = 100,,,,53.433
 2024,1990 = 100,,,,51.852
+2025,1990 = 100,p,,,51.78
 2030,1990 = 100,…,,,
 2040,1990 = 100,…,,,
 2045,1990 = 100,…,,,
@@ -72,6 +73,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2022,1990 = 100,,baden-wuerttemberg,code08,79.3
 2023,1990 = 100,…,baden-wuerttemberg,code08,
 2024,1990 = 100,…,baden-wuerttemberg,code08,
+2025,1990 = 100,…,baden-wuerttemberg,code08,
 2030,1990 = 100,…,baden-wuerttemberg,code08,
 2040,1990 = 100,…,baden-wuerttemberg,code08,
 2045,1990 = 100,…,baden-wuerttemberg,code08,
@@ -110,6 +112,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2022,1990 = 100,,bavaria,code09,78.7
 2023,1990 = 100,…,bavaria,code09,
 2024,1990 = 100,…,bavaria,code09,
+2025,1990 = 100,…,bavaria,code09,
 2030,1990 = 100,…,bavaria,code09,
 2040,1990 = 100,…,bavaria,code09,
 2045,1990 = 100,…,bavaria,code09,
@@ -148,6 +151,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2022,1990 = 100,,berlin,code11,48.2
 2023,1990 = 100,…,berlin,code11,
 2024,1990 = 100,…,berlin,code11,
+2025,1990 = 100,…,berlin,code11,
 2030,1990 = 100,…,berlin,code11,
 2040,1990 = 100,…,berlin,code11,
 2045,1990 = 100,…,berlin,code11,
@@ -186,6 +190,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2022,1990 = 100,.,brandenburg,code12,
 2023,1990 = 100,.,brandenburg,code12,
 2024,1990 = 100,.,brandenburg,code12,
+2025,1990 = 100,.,brandenburg,code12,
 2030,1990 = 100,…,brandenburg,code12,
 2040,1990 = 100,…,brandenburg,code12,
 2045,1990 = 100,…,brandenburg,code12,
@@ -224,6 +229,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2022,1990 = 100,…,bremen,code04,
 2023,1990 = 100,…,bremen,code04,
 2024,1990 = 100,…,bremen,code04,
+2025,1990 = 100,…,bremen,code04,
 2030,1990 = 100,…,bremen,code04,
 2040,1990 = 100,…,bremen,code04,
 2045,1990 = 100,…,bremen,code04,
@@ -262,6 +268,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2022,1990 = 100,,hamburg,code02,71.1
 2023,1990 = 100,…,hamburg,code02,
 2024,1990 = 100,…,hamburg,code02,
+2025,1990 = 100,…,hamburg,code02,
 2030,1990 = 100,…,hamburg,code02,
 2040,1990 = 100,…,hamburg,code02,
 2045,1990 = 100,…,hamburg,code02,
@@ -300,6 +307,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2022,1990 = 100,,hesse,code06,70.7
 2023,1990 = 100,…,hesse,code06,
 2024,1990 = 100,…,hesse,code06,
+2025,1990 = 100,…,hesse,code06,
 2030,1990 = 100,…,hesse,code06,
 2040,1990 = 100,…,hesse,code06,
 2045,1990 = 100,…,hesse,code06,
@@ -338,6 +346,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2022,1990 = 100,.,mecklenburg western pomerania,code13,
 2023,1990 = 100,.,mecklenburg western pomerania,code13,
 2024,1990 = 100,.,mecklenburg western pomerania,code13,
+2025,1990 = 100,.,mecklenburg western pomerania,code13,
 2030,1990 = 100,…,mecklenburg western pomerania,code13,
 2040,1990 = 100,…,mecklenburg western pomerania,code13,
 2045,1990 = 100,…,mecklenburg western pomerania,code13,
@@ -376,6 +385,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2022,1990 = 100,.,lower saxony,code03,
 2023,1990 = 100,.,lower saxony,code03,
 2024,1990 = 100,.,lower saxony,code03,
+2025,1990 = 100,.,lower saxony,code03,
 2030,1990 = 100,…,lower saxony,code03,
 2040,1990 = 100,…,lower saxony,code03,
 2045,1990 = 100,…,lower saxony,code03,
@@ -414,6 +424,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2022,1990 = 100,.,north rhine-westphalia,code05,
 2023,1990 = 100,.,north rhine-westphalia,code05,
 2024,1990 = 100,.,north rhine-westphalia,code05,
+2025,1990 = 100,.,north rhine-westphalia,code05,
 2030,1990 = 100,…,north rhine-westphalia,code05,
 2040,1990 = 100,…,north rhine-westphalia,code05,
 2045,1990 = 100,…,north rhine-westphalia,code05,
@@ -452,6 +463,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2022,1990 = 100,,rhineland palatinate,code07,57.8
 2023,1990 = 100,…,rhineland palatinate,code07,
 2024,1990 = 100,…,rhineland palatinate,code07,
+2025,1990 = 100,…,rhineland palatinate,code07,
 2030,1990 = 100,…,rhineland palatinate,code07,
 2040,1990 = 100,…,rhineland palatinate,code07,
 2045,1990 = 100,…,rhineland palatinate,code07,
@@ -490,6 +502,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2022,1990 = 100,.,saarland,code10,
 2023,1990 = 100,.,saarland,code10,
 2024,1990 = 100,.,saarland,code10,
+2025,1990 = 100,.,saarland,code10,
 2030,1990 = 100,…,saarland,code10,
 2040,1990 = 100,…,saarland,code10,
 2045,1990 = 100,…,saarland,code10,
@@ -528,6 +541,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2022,1990 = 100,.,saxony,code14,
 2023,1990 = 100,.,saxony,code14,
 2024,1990 = 100,.,saxony,code14,
+2025,1990 = 100,.,saxony,code14,
 2030,1990 = 100,…,saxony,code14,
 2040,1990 = 100,…,saxony,code14,
 2045,1990 = 100,…,saxony,code14,
@@ -566,6 +580,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2022,1990 = 100,,saxony-anhalt,code15,48.2
 2023,1990 = 100,…,saxony-anhalt,code15,
 2024,1990 = 100,…,saxony-anhalt,code15,
+2025,1990 = 100,…,saxony-anhalt,code15,
 2030,1990 = 100,…,saxony-anhalt,code15,
 2040,1990 = 100,…,saxony-anhalt,code15,
 2045,1990 = 100,…,saxony-anhalt,code15,
@@ -604,6 +619,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2022,1990 = 100,,schleswig-holstein,code01,67.8
 2023,1990 = 100,…,schleswig-holstein,code01,
 2024,1990 = 100,…,schleswig-holstein,code01,
+2025,1990 = 100,…,schleswig-holstein,code01,
 2030,1990 = 100,…,schleswig-holstein,code01,
 2040,1990 = 100,…,schleswig-holstein,code01,
 2045,1990 = 100,…,schleswig-holstein,code01,
@@ -642,6 +658,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,Value
 2022,1990 = 100,.,thuringia,code16,
 2023,1990 = 100,.,thuringia,code16,
 2024,1990 = 100,.,thuringia,code16,
+2025,1990 = 100,.,thuringia,code16,
 2030,1990 = 100,…,thuringia,code16,
 2040,1990 = 100,…,thuringia,code16,
 2045,1990 = 100,…,thuringia,code16,
