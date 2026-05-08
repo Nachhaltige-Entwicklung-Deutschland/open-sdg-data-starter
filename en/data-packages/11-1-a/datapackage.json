@@ -48,7 +48,6 @@
                 "…",
                 ".",
                 "0",
-                "-",
                 ""
               ]
             },
@@ -69,25 +68,9 @@
           },
           {
             "name": "länder",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
                 ""
               ]
             },
@@ -95,15 +78,14 @@
           },
           {
             "name": "GeoCode",
-            "type": "string",
+            "type": "number",
             "title": "GeoCode"
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             },

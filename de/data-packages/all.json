@@ -3361,7 +3361,6 @@
                 "…",
                 ".",
                 "0",
-                "-",
                 ""
               ]
             },
@@ -3382,25 +3381,9 @@
           },
           {
             "name": "länder",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Baden-Württemberg",
-                "Bayern",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hessen",
-                "Mecklenburg-Vorpommern",
-                "Niedersachsen",
-                "Nordrhein-Westfalen",
-                "Rheinland-Pfalz",
-                "Saarland",
-                "Sachsen",
-                "Sachsen-Anhalt",
-                "Schleswig-Holstein",
-                "Thüringen",
                 ""
               ]
             },
@@ -3408,15 +3391,14 @@
           },
           {
             "name": "GeoCode",
-            "type": "string",
+            "type": "number",
             "title": "GeoCode"
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             },

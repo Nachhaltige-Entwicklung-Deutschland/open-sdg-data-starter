@@ -3092,7 +3092,6 @@
                 "…",
                 ".",
                 "0",
-                "-",
                 ""
               ]
             }
@@ -3111,39 +3110,22 @@
           },
           {
             "name": "länder",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "baden-wuerttemberg",
-                "bavaria",
-                "berlin",
-                "brandenburg",
-                "bremen",
-                "hamburg",
-                "hesse",
-                "mecklenburg western pomerania",
-                "lower saxony",
-                "north rhine-westphalia",
-                "rhineland palatinate",
-                "saarland",
-                "saxony",
-                "saxony-anhalt",
-                "schleswig-holstein",
-                "thuringia",
                 ""
               ]
             }
           },
           {
             "name": "GeoCode",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             }
