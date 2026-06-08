@@ -1,3 +1,6 @@
 From,To
 Zeitreihe,COMMENT_OBS_0
 Zeitreihe,Art der Fläche
+Zeitreihe,Bundesland
+COMMENT_OBS_0,COMMENT_OBS_1
+Bundesland,COMMENT_OBS_1
