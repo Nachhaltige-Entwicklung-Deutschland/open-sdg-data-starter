@@ -24,6 +24,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,,,,80.8
 2023,percentage,a) total (20 to 64-year-olds),,,,,,81.1
 2024,percentage,a) total (20 to 64-year-olds),,,,,,81.3
+2025,percentage,a) total (20 to 64-year-olds),,,,,,81.1
 2030,percentage,a) total (20 to 64-year-olds),…,,,,,
 2000,percentage,a) total (20 to 64-year-olds),,,female,,,60.7
 2001,percentage,a) total (20 to 64-year-olds),,,female,,,61.6
@@ -50,6 +51,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,female,,,77.0
 2023,percentage,a) total (20 to 64-year-olds),r,,female,,,77.4
 2024,percentage,a) total (20 to 64-year-olds),r,,female,,,77.7
+2025,percentage,a) total (20 to 64-year-olds),,,female,,,77.7
 2030,percentage,a) total (20 to 64-year-olds),…,,female,,,
 2000,percentage,a) total (20 to 64-year-olds),,,male,,,76.5
 2001,percentage,a) total (20 to 64-year-olds),,,male,,,76.4
@@ -76,6 +78,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,male,,,84.5
 2023,percentage,a) total (20 to 64-year-olds),r,,male,,,84.8
 2024,percentage,a) total (20 to 64-year-olds),r,,male,,,84.8
+2025,percentage,a) total (20 to 64-year-olds),,,male,,,84.5
 2030,percentage,a) total (20 to 64-year-olds),…,,male,,,
 2000,percentage,a) total (20 to 64-year-olds),,,,baden-wuerttemberg,code08,73.1
 2001,percentage,a) total (20 to 64-year-olds),,,,baden-wuerttemberg,code08,73.4
@@ -102,6 +105,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),,,,baden-wuerttemberg,code08,82.9
 2023,percentage,a) total (20 to 64-year-olds),r,,,baden-wuerttemberg,code08,83.4
 2024,percentage,a) total (20 to 64-year-olds),,,,baden-wuerttemberg,code08,83.6
+2025,percentage,a) total (20 to 64-year-olds),,,,baden-wuerttemberg,code08,83.6
 2030,percentage,a) total (20 to 64-year-olds),…,,,baden-wuerttemberg,code08,
 2000,percentage,a) total (20 to 64-year-olds),,,female,baden-wuerttemberg,code08,64.5
 2001,percentage,a) total (20 to 64-year-olds),,,female,baden-wuerttemberg,code08,65.3
@@ -128,6 +132,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,female,baden-wuerttemberg,code08,78.8
 2023,percentage,a) total (20 to 64-year-olds),r,,female,baden-wuerttemberg,code08,79.3
 2024,percentage,a) total (20 to 64-year-olds),,,female,baden-wuerttemberg,code08,79.7
+2025,percentage,a) total (20 to 64-year-olds),,,female,baden-wuerttemberg,code08,79.9
 2030,percentage,a) total (20 to 64-year-olds),…,,female,baden-wuerttemberg,code08,
 2000,percentage,a) total (20 to 64-year-olds),,,male,baden-wuerttemberg,code08,81.5
 2001,percentage,a) total (20 to 64-year-olds),,,male,baden-wuerttemberg,code08,81.3
@@ -154,6 +159,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),,,male,baden-wuerttemberg,code08,86.9
 2023,percentage,a) total (20 to 64-year-olds),,,male,baden-wuerttemberg,code08,87.3
 2024,percentage,a) total (20 to 64-year-olds),,,male,baden-wuerttemberg,code08,87.4
+2025,percentage,a) total (20 to 64-year-olds),,,male,baden-wuerttemberg,code08,87.1
 2030,percentage,a) total (20 to 64-year-olds),…,,male,baden-wuerttemberg,code08,
 2000,percentage,a) total (20 to 64-year-olds),,,,bavaria,code09,73.0
 2001,percentage,a) total (20 to 64-year-olds),,,,bavaria,code09,73.8
@@ -180,6 +186,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),,,,bavaria,code09,83.4
 2023,percentage,a) total (20 to 64-year-olds),r,,,bavaria,code09,84.1
 2024,percentage,a) total (20 to 64-year-olds),,,,bavaria,code09,84.2
+2025,percentage,a) total (20 to 64-year-olds),,,,bavaria,code09,84.3
 2030,percentage,a) total (20 to 64-year-olds),…,,,bavaria,code09,
 2000,percentage,a) total (20 to 64-year-olds),,,female,bavaria,code09,64.6
 2001,percentage,a) total (20 to 64-year-olds),,,female,bavaria,code09,66.0
@@ -206,6 +213,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,female,bavaria,code09,79.4
 2023,percentage,a) total (20 to 64-year-olds),r,,female,bavaria,code09,80.4
 2024,percentage,a) total (20 to 64-year-olds),,,female,bavaria,code09,80.7
+2025,percentage,a) total (20 to 64-year-olds),,,female,bavaria,code09,81.1
 2030,percentage,a) total (20 to 64-year-olds),…,,female,bavaria,code09,
 2000,percentage,a) total (20 to 64-year-olds),,,male,bavaria,code09,81.3
 2001,percentage,a) total (20 to 64-year-olds),,,male,bavaria,code09,81.6
@@ -232,6 +240,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,male,bavaria,code09,87.3
 2023,percentage,a) total (20 to 64-year-olds),,,male,bavaria,code09,87.7
 2024,percentage,a) total (20 to 64-year-olds),,,male,bavaria,code09,87.7
+2025,percentage,a) total (20 to 64-year-olds),,,male,bavaria,code09,87.4
 2030,percentage,a) total (20 to 64-year-olds),…,,male,bavaria,code09,
 2000,percentage,a) total (20 to 64-year-olds),,,,berlin,code11,63.5
 2001,percentage,a) total (20 to 64-year-olds),,,,berlin,code11,63.9
@@ -258,6 +267,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,,berlin,code11,78.9
 2023,percentage,a) total (20 to 64-year-olds),r,,,berlin,code11,78.0
 2024,percentage,a) total (20 to 64-year-olds),,,,berlin,code11,77.8
+2025,percentage,a) total (20 to 64-year-olds),,,,berlin,code11,76.7
 2030,percentage,a) total (20 to 64-year-olds),…,,,berlin,code11,
 2000,percentage,a) total (20 to 64-year-olds),,,female,berlin,code11,60.0
 2001,percentage,a) total (20 to 64-year-olds),,,female,berlin,code11,60.5
@@ -283,7 +293,8 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2021,percentage,a) total (20 to 64-year-olds),|,r,female,berlin,code11,74.0
 2022,percentage,a) total (20 to 64-year-olds),r,,female,berlin,code11,75.8
 2023,percentage,a) total (20 to 64-year-olds),r,,female,berlin,code11,74.2
-2024,percentage,a) total (20 to 64-year-olds),,,female,berlin,code11,74.1
+2024,percentage,a) total (20 to 64-year-olds),r,,female,berlin,code11,74.2
+2025,percentage,a) total (20 to 64-year-olds),,,female,berlin,code11,73.6
 2030,percentage,a) total (20 to 64-year-olds),…,,female,berlin,code11,
 2000,percentage,a) total (20 to 64-year-olds),,,male,berlin,code11,67.1
 2001,percentage,a) total (20 to 64-year-olds),,,male,berlin,code11,67.1
@@ -310,6 +321,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,male,berlin,code11,82.0
 2023,percentage,a) total (20 to 64-year-olds),r,,male,berlin,code11,81.8
 2024,percentage,a) total (20 to 64-year-olds),,,male,berlin,code11,81.3
+2025,percentage,a) total (20 to 64-year-olds),,,male,berlin,code11,79.8
 2030,percentage,a) total (20 to 64-year-olds),…,,male,berlin,code11,
 2000,percentage,a) total (20 to 64-year-olds),,,,brandenburg,code12,66.6
 2001,percentage,a) total (20 to 64-year-olds),,,,brandenburg,code12,65.5
@@ -336,6 +348,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,,brandenburg,code12,82.0
 2023,percentage,a) total (20 to 64-year-olds),r,,,brandenburg,code12,80.7
 2024,percentage,a) total (20 to 64-year-olds),,,,brandenburg,code12,82.1
+2025,percentage,a) total (20 to 64-year-olds),,,,brandenburg,code12,81.6
 2030,percentage,a) total (20 to 64-year-olds),…,,,brandenburg,code12,
 2000,percentage,a) total (20 to 64-year-olds),,,female,brandenburg,code12,62.2
 2001,percentage,a) total (20 to 64-year-olds),,,female,brandenburg,code12,61.7
@@ -362,6 +375,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,female,brandenburg,code12,80.4
 2023,percentage,a) total (20 to 64-year-olds),,,female,brandenburg,code12,78.3
 2024,percentage,a) total (20 to 64-year-olds),,,female,brandenburg,code12,79.3
+2025,percentage,a) total (20 to 64-year-olds),,,female,brandenburg,code12,79.9
 2030,percentage,a) total (20 to 64-year-olds),…,,female,brandenburg,code12,
 2000,percentage,a) total (20 to 64-year-olds),,,male,brandenburg,code12,70.9
 2001,percentage,a) total (20 to 64-year-olds),,,male,brandenburg,code12,69.2
@@ -388,6 +402,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,male,brandenburg,code12,83.6
 2023,percentage,a) total (20 to 64-year-olds),r,,male,brandenburg,code12,83.0
 2024,percentage,a) total (20 to 64-year-olds),,,male,brandenburg,code12,84.9
+2025,percentage,a) total (20 to 64-year-olds),,,male,brandenburg,code12,83.2
 2030,percentage,a) total (20 to 64-year-olds),…,,male,brandenburg,code12,
 2000,percentage,a) total (20 to 64-year-olds),,,,bremen,code04,64.4
 2001,percentage,a) total (20 to 64-year-olds),,,,bremen,code04,65.2
@@ -414,6 +429,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,,bremen,code04,73.9
 2023,percentage,a) total (20 to 64-year-olds),r,,,bremen,code04,74.7
 2024,percentage,a) total (20 to 64-year-olds),,,,bremen,code04,75.1
+2025,percentage,a) total (20 to 64-year-olds),,,,bremen,code04,74.7
 2030,percentage,a) total (20 to 64-year-olds),…,,,bremen,code04,
 2000,percentage,a) total (20 to 64-year-olds),,,female,bremen,code04,57.8
 2001,percentage,a) total (20 to 64-year-olds),,,female,bremen,code04,59.0
@@ -440,6 +456,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,female,bremen,code04,69.8
 2023,percentage,a) total (20 to 64-year-olds),r,,female,bremen,code04,70.0
 2024,percentage,a) total (20 to 64-year-olds),,,female,bremen,code04,70.1
+2025,percentage,a) total (20 to 64-year-olds),,,female,bremen,code04,70.1
 2030,percentage,a) total (20 to 64-year-olds),…,,female,bremen,code04,
 2000,percentage,a) total (20 to 64-year-olds),,,male,bremen,code04,71.0
 2001,percentage,a) total (20 to 64-year-olds),,,male,bremen,code04,71.5
@@ -466,6 +483,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,male,bremen,code04,77.9
 2023,percentage,a) total (20 to 64-year-olds),r,,male,bremen,code04,79.2
 2024,percentage,a) total (20 to 64-year-olds),,,male,bremen,code04,79.9
+2025,percentage,a) total (20 to 64-year-olds),,,male,bremen,code04,79.1
 2030,percentage,a) total (20 to 64-year-olds),…,,male,bremen,code04,
 2000,percentage,a) total (20 to 64-year-olds),,,,hamburg,code02,69.4
 2001,percentage,a) total (20 to 64-year-olds),,,,hamburg,code02,69.8
@@ -492,6 +510,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,,hamburg,code02,79.4
 2023,percentage,a) total (20 to 64-year-olds),r,,,hamburg,code02,79.2
 2024,percentage,a) total (20 to 64-year-olds),,,,hamburg,code02,79.5
+2025,percentage,a) total (20 to 64-year-olds),,,,hamburg,code02,78.7
 2030,percentage,a) total (20 to 64-year-olds),…,,,hamburg,code02,
 2000,percentage,a) total (20 to 64-year-olds),,,female,hamburg,code02,63.4
 2001,percentage,a) total (20 to 64-year-olds),,,female,hamburg,code02,63.4
@@ -518,6 +537,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,female,hamburg,code02,75.9
 2023,percentage,a) total (20 to 64-year-olds),r,,female,hamburg,code02,75.9
 2024,percentage,a) total (20 to 64-year-olds),,,female,hamburg,code02,76.9
+2025,percentage,a) total (20 to 64-year-olds),,,female,hamburg,code02,76.2
 2030,percentage,a) total (20 to 64-year-olds),…,,female,hamburg,code02,
 2000,percentage,a) total (20 to 64-year-olds),,,male,hamburg,code02,75.5
 2001,percentage,a) total (20 to 64-year-olds),,,male,hamburg,code02,76.2
@@ -544,6 +564,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,male,hamburg,code02,82.9
 2023,percentage,a) total (20 to 64-year-olds),r,,male,hamburg,code02,82.6
 2024,percentage,a) total (20 to 64-year-olds),,,male,hamburg,code02,82.0
+2025,percentage,a) total (20 to 64-year-olds),,,male,hamburg,code02,81.3
 2030,percentage,a) total (20 to 64-year-olds),…,,male,hamburg,code02,
 2000,percentage,a) total (20 to 64-year-olds),,,,hesse,code06,70.3
 2001,percentage,a) total (20 to 64-year-olds),,,,hesse,code06,71.3
@@ -570,6 +591,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,,hesse,code06,79.1
 2023,percentage,a) total (20 to 64-year-olds),r,,,hesse,code06,80.7
 2024,percentage,a) total (20 to 64-year-olds),,,,hesse,code06,80.5
+2025,percentage,a) total (20 to 64-year-olds),,,,hesse,code06,80.4
 2030,percentage,a) total (20 to 64-year-olds),…,,,hesse,code06,
 2000,percentage,a) total (20 to 64-year-olds),,,female,hesse,code06,61.9
 2001,percentage,a) total (20 to 64-year-olds),,,female,hesse,code06,63.6
@@ -596,6 +618,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,female,hesse,code06,75.0
 2023,percentage,a) total (20 to 64-year-olds),r,,female,hesse,code06,77.1
 2024,percentage,a) total (20 to 64-year-olds),,,female,hesse,code06,76.4
+2025,percentage,a) total (20 to 64-year-olds),,,female,hesse,code06,76.4
 2030,percentage,a) total (20 to 64-year-olds),…,,female,hesse,code06,
 2000,percentage,a) total (20 to 64-year-olds),,,male,hesse,code06,78.6
 2001,percentage,a) total (20 to 64-year-olds),,,male,hesse,code06,78.8
@@ -622,6 +645,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,male,hesse,code06,83.1
 2023,percentage,a) total (20 to 64-year-olds),r,,male,hesse,code06,84.4
 2024,percentage,a) total (20 to 64-year-olds),,,male,hesse,code06,84.5
+2025,percentage,a) total (20 to 64-year-olds),,,male,hesse,code06,84.4
 2030,percentage,a) total (20 to 64-year-olds),…,,male,hesse,code06,
 2000,percentage,a) total (20 to 64-year-olds),,,,mecklenburg western pomerania,code13,64.5
 2001,percentage,a) total (20 to 64-year-olds),,,,mecklenburg western pomerania,code13,62.4
@@ -648,6 +672,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,,mecklenburg western pomerania,code13,79.2
 2023,percentage,a) total (20 to 64-year-olds),r,,,mecklenburg western pomerania,code13,79.7
 2024,percentage,a) total (20 to 64-year-olds),,,,mecklenburg western pomerania,code13,80.3
+2025,percentage,a) total (20 to 64-year-olds),,,,mecklenburg western pomerania,code13,80.3
 2030,percentage,a) total (20 to 64-year-olds),…,,,mecklenburg western pomerania,code13,
 2000,percentage,a) total (20 to 64-year-olds),,,female,mecklenburg western pomerania,code13,59.2
 2001,percentage,a) total (20 to 64-year-olds),,,female,mecklenburg western pomerania,code13,59.0
@@ -674,6 +699,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,female,mecklenburg western pomerania,code13,77.8
 2023,percentage,a) total (20 to 64-year-olds),r,,female,mecklenburg western pomerania,code13,78.5
 2024,percentage,a) total (20 to 64-year-olds),,,female,mecklenburg western pomerania,code13,79.5
+2025,percentage,a) total (20 to 64-year-olds),,,female,mecklenburg western pomerania,code13,78.4
 2030,percentage,a) total (20 to 64-year-olds),…,,female,mecklenburg western pomerania,code13,
 2000,percentage,a) total (20 to 64-year-olds),,,male,mecklenburg western pomerania,code13,69.6
 2001,percentage,a) total (20 to 64-year-olds),,,male,mecklenburg western pomerania,code13,65.7
@@ -700,6 +726,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,male,mecklenburg western pomerania,code13,80.6
 2023,percentage,a) total (20 to 64-year-olds),r,,male,mecklenburg western pomerania,code13,80.8
 2024,percentage,a) total (20 to 64-year-olds),,,male,mecklenburg western pomerania,code13,81.0
+2025,percentage,a) total (20 to 64-year-olds),,,male,mecklenburg western pomerania,code13,82.2
 2030,percentage,a) total (20 to 64-year-olds),…,,male,mecklenburg western pomerania,code13,
 2000,percentage,a) total (20 to 64-year-olds),,,,lower saxony,code03,68.0
 2001,percentage,a) total (20 to 64-year-olds),,,,lower saxony,code03,68.5
@@ -726,6 +753,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,,lower saxony,code03,81.0
 2023,percentage,a) total (20 to 64-year-olds),r,,,lower saxony,code03,81.1
 2024,percentage,a) total (20 to 64-year-olds),,,,lower saxony,code03,81.2
+2025,percentage,a) total (20 to 64-year-olds),,,,lower saxony,code03,81.3
 2030,percentage,a) total (20 to 64-year-olds),…,,,lower saxony,code03,
 2000,percentage,a) total (20 to 64-year-olds),,,female,lower saxony,code03,59.2
 2001,percentage,a) total (20 to 64-year-olds),,,female,lower saxony,code03,60.4
@@ -752,6 +780,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,female,lower saxony,code03,77.6
 2023,percentage,a) total (20 to 64-year-olds),r,,female,lower saxony,code03,77.1
 2024,percentage,a) total (20 to 64-year-olds),,,female,lower saxony,code03,77.4
+2025,percentage,a) total (20 to 64-year-olds),,,female,lower saxony,code03,77.4
 2030,percentage,a) total (20 to 64-year-olds),…,,female,lower saxony,code03,
 2000,percentage,a) total (20 to 64-year-olds),,,male,lower saxony,code03,76.6
 2001,percentage,a) total (20 to 64-year-olds),,,male,lower saxony,code03,76.3
@@ -778,6 +807,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,male,lower saxony,code03,84.4
 2023,percentage,a) total (20 to 64-year-olds),r,,male,lower saxony,code03,85.0
 2024,percentage,a) total (20 to 64-year-olds),,,male,lower saxony,code03,84.9
+2025,percentage,a) total (20 to 64-year-olds),,,male,lower saxony,code03,85.1
 2030,percentage,a) total (20 to 64-year-olds),…,,male,lower saxony,code03,
 2000,percentage,a) total (20 to 64-year-olds),,,,north rhine-westphalia,code05,66.2
 2001,percentage,a) total (20 to 64-year-olds),,,,north rhine-westphalia,code05,67.1
@@ -804,6 +834,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,,north rhine-westphalia,code05,78.4
 2023,percentage,a) total (20 to 64-year-olds),r,,,north rhine-westphalia,code05,78.9
 2024,percentage,a) total (20 to 64-year-olds),,,,north rhine-westphalia,code05,79.2
+2025,percentage,a) total (20 to 64-year-olds),,,,north rhine-westphalia,code05,78.8
 2030,percentage,a) total (20 to 64-year-olds),…,,,north rhine-westphalia,code05,
 2000,percentage,a) total (20 to 64-year-olds),,,female,north rhine-westphalia,code05,56.3
 2001,percentage,a) total (20 to 64-year-olds),,,female,north rhine-westphalia,code05,57.6
@@ -830,6 +861,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,female,north rhine-westphalia,code05,74.0
 2023,percentage,a) total (20 to 64-year-olds),r,,female,north rhine-westphalia,code05,74.7
 2024,percentage,a) total (20 to 64-year-olds),,,female,north rhine-westphalia,code05,75.2
+2025,percentage,a) total (20 to 64-year-olds),,,female,north rhine-westphalia,code05,74.9
 2030,percentage,a) total (20 to 64-year-olds),…,,female,north rhine-westphalia,code05,
 2000,percentage,a) total (20 to 64-year-olds),,,male,north rhine-westphalia,code05,76.2
 2001,percentage,a) total (20 to 64-year-olds),,,male,north rhine-westphalia,code05,76.6
@@ -856,6 +888,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,male,north rhine-westphalia,code05,82.8
 2023,percentage,a) total (20 to 64-year-olds),r,,male,north rhine-westphalia,code05,83.1
 2024,percentage,a) total (20 to 64-year-olds),,,male,north rhine-westphalia,code05,83.1
+2025,percentage,a) total (20 to 64-year-olds),,,male,north rhine-westphalia,code05,82.6
 2030,percentage,a) total (20 to 64-year-olds),…,,male,north rhine-westphalia,code05,
 2000,percentage,a) total (20 to 64-year-olds),,,,rhineland palatinate,code07,69.2
 2001,percentage,a) total (20 to 64-year-olds),,,,rhineland palatinate,code07,69.6
@@ -882,6 +915,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,,rhineland palatinate,code07,80.1
 2023,percentage,a) total (20 to 64-year-olds),,,,rhineland palatinate,code07,80.9
 2024,percentage,a) total (20 to 64-year-olds),,,,rhineland palatinate,code07,82.0
+2025,percentage,a) total (20 to 64-year-olds),,,,rhineland palatinate,code07,82.5
 2030,percentage,a) total (20 to 64-year-olds),…,,,rhineland palatinate,code07,
 2000,percentage,a) total (20 to 64-year-olds),,,female,rhineland palatinate,code07,59.9
 2001,percentage,a) total (20 to 64-year-olds),,,female,rhineland palatinate,code07,60.0
@@ -908,6 +942,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,female,rhineland palatinate,code07,75.8
 2023,percentage,a) total (20 to 64-year-olds),r,,female,rhineland palatinate,code07,77.0
 2024,percentage,a) total (20 to 64-year-olds),,,female,rhineland palatinate,code07,78.2
+2025,percentage,a) total (20 to 64-year-olds),,,female,rhineland palatinate,code07,78.2
 2030,percentage,a) total (20 to 64-year-olds),…,,female,rhineland palatinate,code07,
 2000,percentage,a) total (20 to 64-year-olds),,,male,rhineland palatinate,code07,78.2
 2001,percentage,a) total (20 to 64-year-olds),,,male,rhineland palatinate,code07,78.9
@@ -934,6 +969,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,male,rhineland palatinate,code07,84.3
 2023,percentage,a) total (20 to 64-year-olds),,,male,rhineland palatinate,code07,84.8
 2024,percentage,a) total (20 to 64-year-olds),,,male,rhineland palatinate,code07,85.8
+2025,percentage,a) total (20 to 64-year-olds),,,male,rhineland palatinate,code07,86.8
 2030,percentage,a) total (20 to 64-year-olds),…,,male,rhineland palatinate,code07,
 2000,percentage,a) total (20 to 64-year-olds),,,,saarland,code10,64.1
 2001,percentage,a) total (20 to 64-year-olds),,,,saarland,code10,64.8
@@ -960,6 +996,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,,saarland,code10,78.3
 2023,percentage,a) total (20 to 64-year-olds),r,,,saarland,code10,78.9
 2024,percentage,a) total (20 to 64-year-olds),,,,saarland,code10,78.3
+2025,percentage,a) total (20 to 64-year-olds),,,,saarland,code10,78.4
 2030,percentage,a) total (20 to 64-year-olds),…,,,saarland,code10,
 2000,percentage,a) total (20 to 64-year-olds),,,female,saarland,code10,54.9
 2001,percentage,a) total (20 to 64-year-olds),,,female,saarland,code10,54.7
@@ -986,6 +1023,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,female,saarland,code10,74.6
 2023,percentage,a) total (20 to 64-year-olds),r,,female,saarland,code10,74.2
 2024,percentage,a) total (20 to 64-year-olds),,,female,saarland,code10,73.7
+2025,percentage,a) total (20 to 64-year-olds),,,female,saarland,code10,75.1
 2030,percentage,a) total (20 to 64-year-olds),…,,female,saarland,code10,
 2000,percentage,a) total (20 to 64-year-olds),,,male,saarland,code10,73.2
 2001,percentage,a) total (20 to 64-year-olds),,,male,saarland,code10,75.0
@@ -1012,6 +1050,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,male,saarland,code10,81.9
 2023,percentage,a) total (20 to 64-year-olds),r,,male,saarland,code10,83.5
 2024,percentage,a) total (20 to 64-year-olds),,,male,saarland,code10,82.7
+2025,percentage,a) total (20 to 64-year-olds),,,male,saarland,code10,81.6
 2030,percentage,a) total (20 to 64-year-olds),…,,male,saarland,code10,
 2000,percentage,a) total (20 to 64-year-olds),,,,saxony,code14,66.3
 2001,percentage,a) total (20 to 64-year-olds),,,,saxony,code14,65.6
@@ -1038,6 +1077,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,,saxony,code14,83.2
 2023,percentage,a) total (20 to 64-year-olds),,,,saxony,code14,83.3
 2024,percentage,a) total (20 to 64-year-olds),,,,saxony,code14,82.5
+2025,percentage,a) total (20 to 64-year-olds),,,,saxony,code14,82.4
 2030,percentage,a) total (20 to 64-year-olds),…,,,saxony,code14,
 2000,percentage,a) total (20 to 64-year-olds),,,female,saxony,code14,61.7
 2001,percentage,a) total (20 to 64-year-olds),,,female,saxony,code14,62.1
@@ -1064,6 +1104,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),,,female,saxony,code14,80.6
 2023,percentage,a) total (20 to 64-year-olds),r,,female,saxony,code14,80.7
 2024,percentage,a) total (20 to 64-year-olds),,,female,saxony,code14,80.3
+2025,percentage,a) total (20 to 64-year-olds),,,female,saxony,code14,80.4
 2030,percentage,a) total (20 to 64-year-olds),…,,female,saxony,code14,
 2000,percentage,a) total (20 to 64-year-olds),,,male,saxony,code14,70.7
 2001,percentage,a) total (20 to 64-year-olds),,,male,saxony,code14,68.9
@@ -1090,6 +1131,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,male,saxony,code14,85.6
 2023,percentage,a) total (20 to 64-year-olds),,,male,saxony,code14,85.8
 2024,percentage,a) total (20 to 64-year-olds),,,male,saxony,code14,84.6
+2025,percentage,a) total (20 to 64-year-olds),,,male,saxony,code14,84.3
 2030,percentage,a) total (20 to 64-year-olds),…,,male,saxony,code14,
 2000,percentage,a) total (20 to 64-year-olds),,,,saxony-anhalt,code15,62.0
 2001,percentage,a) total (20 to 64-year-olds),,,,saxony-anhalt,code15,62.9
@@ -1116,6 +1158,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,,saxony-anhalt,code15,80.1
 2023,percentage,a) total (20 to 64-year-olds),r,,,saxony-anhalt,code15,80.2
 2024,percentage,a) total (20 to 64-year-olds),,,,saxony-anhalt,code15,80.7
+2025,percentage,a) total (20 to 64-year-olds),,,,saxony-anhalt,code15,79.2
 2030,percentage,a) total (20 to 64-year-olds),…,,,saxony-anhalt,code15,
 2000,percentage,a) total (20 to 64-year-olds),,,female,saxony-anhalt,code15,57.2
 2001,percentage,a) total (20 to 64-year-olds),,,female,saxony-anhalt,code15,58.5
@@ -1142,6 +1185,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,female,saxony-anhalt,code15,77.4
 2023,percentage,a) total (20 to 64-year-olds),r,,female,saxony-anhalt,code15,78.4
 2024,percentage,a) total (20 to 64-year-olds),,,female,saxony-anhalt,code15,78.9
+2025,percentage,a) total (20 to 64-year-olds),,,female,saxony-anhalt,code15,77.6
 2030,percentage,a) total (20 to 64-year-olds),…,,female,saxony-anhalt,code15,
 2000,percentage,a) total (20 to 64-year-olds),,,male,saxony-anhalt,code15,66.7
 2001,percentage,a) total (20 to 64-year-olds),,,male,saxony-anhalt,code15,67.1
@@ -1168,6 +1212,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,male,saxony-anhalt,code15,82.7
 2023,percentage,a) total (20 to 64-year-olds),r,,male,saxony-anhalt,code15,82.1
 2024,percentage,a) total (20 to 64-year-olds),,,male,saxony-anhalt,code15,82.4
+2025,percentage,a) total (20 to 64-year-olds),,,male,saxony-anhalt,code15,80.8
 2030,percentage,a) total (20 to 64-year-olds),…,,male,saxony-anhalt,code15,
 2000,percentage,a) total (20 to 64-year-olds),,,,schleswig-holstein,code01,69.8
 2001,percentage,a) total (20 to 64-year-olds),,,,schleswig-holstein,code01,69.9
@@ -1194,6 +1239,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,,schleswig-holstein,code01,80.8
 2023,percentage,a) total (20 to 64-year-olds),,,,schleswig-holstein,code01,80.3
 2024,percentage,a) total (20 to 64-year-olds),,,,schleswig-holstein,code01,80.3
+2025,percentage,a) total (20 to 64-year-olds),,,,schleswig-holstein,code01,80.9
 2030,percentage,a) total (20 to 64-year-olds),…,,,schleswig-holstein,code01,
 2000,percentage,a) total (20 to 64-year-olds),,,female,schleswig-holstein,code01,61.5
 2001,percentage,a) total (20 to 64-year-olds),,,female,schleswig-holstein,code01,62.4
@@ -1220,6 +1266,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,female,schleswig-holstein,code01,76.2
 2023,percentage,a) total (20 to 64-year-olds),r,,female,schleswig-holstein,code01,76.2
 2024,percentage,a) total (20 to 64-year-olds),,,female,schleswig-holstein,code01,76.1
+2025,percentage,a) total (20 to 64-year-olds),,,female,schleswig-holstein,code01,76.8
 2030,percentage,a) total (20 to 64-year-olds),…,,female,schleswig-holstein,code01,
 2000,percentage,a) total (20 to 64-year-olds),,,male,schleswig-holstein,code01,78.0
 2001,percentage,a) total (20 to 64-year-olds),,,male,schleswig-holstein,code01,77.4
@@ -1246,6 +1293,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,male,schleswig-holstein,code01,85.3
 2023,percentage,a) total (20 to 64-year-olds),r,,male,schleswig-holstein,code01,84.4
 2024,percentage,a) total (20 to 64-year-olds),,,male,schleswig-holstein,code01,84.6
+2025,percentage,a) total (20 to 64-year-olds),,,male,schleswig-holstein,code01,85.1
 2030,percentage,a) total (20 to 64-year-olds),…,,male,schleswig-holstein,code01,
 2000,percentage,a) total (20 to 64-year-olds),,,,thuringia,code16,68.9
 2001,percentage,a) total (20 to 64-year-olds),,,,thuringia,code16,67.2
@@ -1272,6 +1320,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),,,,thuringia,code16,82.1
 2023,percentage,a) total (20 to 64-year-olds),,,,thuringia,code16,82.0
 2024,percentage,a) total (20 to 64-year-olds),,,,thuringia,code16,81.3
+2025,percentage,a) total (20 to 64-year-olds),,,,thuringia,code16,81.3
 2030,percentage,a) total (20 to 64-year-olds),…,,,thuringia,code16,
 2000,percentage,a) total (20 to 64-year-olds),,,female,thuringia,code16,64.2
 2001,percentage,a) total (20 to 64-year-olds),,,female,thuringia,code16,62.0
@@ -1298,6 +1347,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,female,thuringia,code16,79.7
 2023,percentage,a) total (20 to 64-year-olds),r,,female,thuringia,code16,79.7
 2024,percentage,a) total (20 to 64-year-olds),,,female,thuringia,code16,78.8
+2025,percentage,a) total (20 to 64-year-olds),,,female,thuringia,code16,79.9
 2030,percentage,a) total (20 to 64-year-olds),…,,female,thuringia,code16,
 2000,percentage,a) total (20 to 64-year-olds),,,male,thuringia,code16,73.3
 2001,percentage,a) total (20 to 64-year-olds),,,male,thuringia,code16,72.1
@@ -1324,6 +1374,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,a) total (20 to 64-year-olds),r,,male,thuringia,code16,84.5
 2023,percentage,a) total (20 to 64-year-olds),r,,male,thuringia,code16,84.2
 2024,percentage,a) total (20 to 64-year-olds),,,male,thuringia,code16,83.7
+2025,percentage,a) total (20 to 64-year-olds),…,,male,thuringia,code16,82.8
 2030,percentage,a) total (20 to 64-year-olds),…,,male,thuringia,code16,
 2000,percentage,b) older people (55 to 64-year-olds),,,,,,37.4
 2001,percentage,b) older people (55 to 64-year-olds),,,,,,37.7
@@ -1350,6 +1401,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),,,,,,73.3
 2023,percentage,b) older people (55 to 64-year-olds),r,,,,,74.5
 2024,percentage,b) older people (55 to 64-year-olds),,,,,,75.2
+2025,percentage,b) older people (55 to 64-year-olds),,,,,,75.3
 2030,percentage,b) older people (55 to 64-year-olds),…,,,,,
 2000,percentage,b) older people (55 to 64-year-olds),,,female,,,28.7
 2001,percentage,b) older people (55 to 64-year-olds),,,female,,,29.3
@@ -1376,6 +1428,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,female,,,69.5
 2023,percentage,b) older people (55 to 64-year-olds),r,,female,,,71.1
 2024,percentage,b) older people (55 to 64-year-olds),,,female,,,71.5
+2025,percentage,b) older people (55 to 64-year-olds),,,female,,,71.7
 2030,percentage,b) older people (55 to 64-year-olds),…,,female,,,
 2000,percentage,b) older people (55 to 64-year-olds),,,male,,,46.2
 2001,percentage,b) older people (55 to 64-year-olds),,,male,,,46.1
@@ -1402,6 +1455,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),,,male,,,77.2
 2023,percentage,b) older people (55 to 64-year-olds),r,,male,,,78.1
 2024,percentage,b) older people (55 to 64-year-olds),,,male,,,78.9
+2025,percentage,b) older people (55 to 64-year-olds),,,male,,,78.9
 2030,percentage,b) older people (55 to 64-year-olds),…,,male,,,
 2000,percentage,b) older people (55 to 64-year-olds),,,,baden-wuerttemberg,code08,44.2
 2001,percentage,b) older people (55 to 64-year-olds),,,,baden-wuerttemberg,code08,43.6
@@ -1428,6 +1482,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,,baden-wuerttemberg,code08,76.8
 2023,percentage,b) older people (55 to 64-year-olds),r,,,baden-wuerttemberg,code08,77.9
 2024,percentage,b) older people (55 to 64-year-olds),,,,baden-wuerttemberg,code08,78.5
+2025,percentage,b) older people (55 to 64-year-olds),,,,baden-wuerttemberg,code08,79.1
 2030,percentage,b) older people (55 to 64-year-olds),…,,,baden-wuerttemberg,code08,
 2000,percentage,b) older people (55 to 64-year-olds),,,female,baden-wuerttemberg,code08,33.3
 2001,percentage,b) older people (55 to 64-year-olds),,,female,baden-wuerttemberg,code08,33.9
@@ -1454,6 +1509,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,female,baden-wuerttemberg,code08,72.7
 2023,percentage,b) older people (55 to 64-year-olds),r,,female,baden-wuerttemberg,code08,73.7
 2024,percentage,b) older people (55 to 64-year-olds),,,female,baden-wuerttemberg,code08,73.9
+2025,percentage,b) older people (55 to 64-year-olds),,,female,baden-wuerttemberg,code08,75.0
 2030,percentage,b) older people (55 to 64-year-olds),…,,female,baden-wuerttemberg,code08,
 2000,percentage,b) older people (55 to 64-year-olds),,,male,baden-wuerttemberg,code08,54.8
 2001,percentage,b) older people (55 to 64-year-olds),,,male,baden-wuerttemberg,code08,53.0
@@ -1480,6 +1536,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,male,baden-wuerttemberg,code08,80.9
 2023,percentage,b) older people (55 to 64-year-olds),r,,male,baden-wuerttemberg,code08,82.1
 2024,percentage,b) older people (55 to 64-year-olds),,,male,baden-wuerttemberg,code08,83.2
+2025,percentage,b) older people (55 to 64-year-olds),,,male,baden-wuerttemberg,code08,83.1
 2030,percentage,b) older people (55 to 64-year-olds),…,,male,baden-wuerttemberg,code08,
 2000,percentage,b) older people (55 to 64-year-olds),,,,bavaria,code09,40.6
 2001,percentage,b) older people (55 to 64-year-olds),,,,bavaria,code09,41.4
@@ -1506,6 +1563,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,,bavaria,code09,75.4
 2023,percentage,b) older people (55 to 64-year-olds),r,,,bavaria,code09,76.5
 2024,percentage,b) older people (55 to 64-year-olds),,,,bavaria,code09,77.3
+2025,percentage,b) older people (55 to 64-year-olds),,,,bavaria,code09,78.0
 2030,percentage,b) older people (55 to 64-year-olds),…,,,bavaria,code09,
 2000,percentage,b) older people (55 to 64-year-olds),,,female,bavaria,code09,31.8
 2001,percentage,b) older people (55 to 64-year-olds),,,female,bavaria,code09,32.8
@@ -1532,6 +1590,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,female,bavaria,code09,71.5
 2023,percentage,b) older people (55 to 64-year-olds),,,female,bavaria,code09,72.8
 2024,percentage,b) older people (55 to 64-year-olds),,,female,bavaria,code09,73.7
+2025,percentage,b) older people (55 to 64-year-olds),,,female,bavaria,code09,74.8
 2030,percentage,b) older people (55 to 64-year-olds),…,,female,bavaria,code09,
 2000,percentage,b) older people (55 to 64-year-olds),,,male,bavaria,code09,49.6
 2001,percentage,b) older people (55 to 64-year-olds),,,male,bavaria,code09,50.0
@@ -1558,6 +1617,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),,,male,bavaria,code09,79.2
 2023,percentage,b) older people (55 to 64-year-olds),r,,male,bavaria,code09,80.3
 2024,percentage,b) older people (55 to 64-year-olds),,,male,bavaria,code09,80.9
+2025,percentage,b) older people (55 to 64-year-olds),,,male,bavaria,code09,81.3
 2030,percentage,b) older people (55 to 64-year-olds),…,,male,bavaria,code09,
 2000,percentage,b) older people (55 to 64-year-olds),,,,berlin,code11,36.9
 2001,percentage,b) older people (55 to 64-year-olds),,,,berlin,code11,36.9
@@ -1584,6 +1644,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,,berlin,code11,70.7
 2023,percentage,b) older people (55 to 64-year-olds),r,,,berlin,code11,72.1
 2024,percentage,b) older people (55 to 64-year-olds),,,,berlin,code11,72.5
+2025,percentage,b) older people (55 to 64-year-olds),,,,berlin,code11,73.1
 2030,percentage,b) older people (55 to 64-year-olds),…,,,berlin,code11,
 2000,percentage,b) older people (55 to 64-year-olds),,,female,berlin,code11,31.9
 2001,percentage,b) older people (55 to 64-year-olds),,,female,berlin,code11,32.7
@@ -1610,6 +1671,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,female,berlin,code11,68.9
 2023,percentage,b) older people (55 to 64-year-olds),r,,female,berlin,code11,70.6
 2024,percentage,b) older people (55 to 64-year-olds),,,female,berlin,code11,68.2
+2025,percentage,b) older people (55 to 64-year-olds),,,female,berlin,code11,69.9
 2030,percentage,b) older people (55 to 64-year-olds),…,,female,berlin,code11,
 2000,percentage,b) older people (55 to 64-year-olds),,,male,berlin,code11,42.1
 2001,percentage,b) older people (55 to 64-year-olds),,,male,berlin,code11,41.0
@@ -1636,6 +1698,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,male,berlin,code11,72.5
 2023,percentage,b) older people (55 to 64-year-olds),r,,male,berlin,code11,73.5
 2024,percentage,b) older people (55 to 64-year-olds),,,male,berlin,code11,76.8
+2025,percentage,b) older people (55 to 64-year-olds),,,male,berlin,code11,76.2
 2030,percentage,b) older people (55 to 64-year-olds),…,,male,berlin,code11,
 2000,percentage,b) older people (55 to 64-year-olds),,,,brandenburg,code12,31.8
 2001,percentage,b) older people (55 to 64-year-olds),,,,brandenburg,code12,28.8
@@ -1662,6 +1725,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,,brandenburg,code12,74.5
 2023,percentage,b) older people (55 to 64-year-olds),r,,,brandenburg,code12,74.3
 2024,percentage,b) older people (55 to 64-year-olds),,,,brandenburg,code12,74.2
+2025,percentage,b) older people (55 to 64-year-olds),,,,brandenburg,code12,73.5
 2030,percentage,b) older people (55 to 64-year-olds),…,,,brandenburg,code12,
 2000,percentage,b) older people (55 to 64-year-olds),,,female,brandenburg,code12,22.5
 2001,percentage,b) older people (55 to 64-year-olds),,,female,brandenburg,code12,20.7
@@ -1688,6 +1752,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,female,brandenburg,code12,74.4
 2023,percentage,b) older people (55 to 64-year-olds),r,,female,brandenburg,code12,73.3
 2024,percentage,b) older people (55 to 64-year-olds),,,female,brandenburg,code12,71.3
+2025,percentage,b) older people (55 to 64-year-olds),,,female,brandenburg,code12,70.5
 2030,percentage,b) older people (55 to 64-year-olds),…,,female,brandenburg,code12,
 2000,percentage,b) older people (55 to 64-year-olds),,,male,brandenburg,code12,41.5
 2001,percentage,b) older people (55 to 64-year-olds),,,male,brandenburg,code12,37.0
@@ -1714,6 +1779,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,male,brandenburg,code12,74.6
 2023,percentage,b) older people (55 to 64-year-olds),r,,male,brandenburg,code12,75.2
 2024,percentage,b) older people (55 to 64-year-olds),,,male,brandenburg,code12,77.2
+2025,percentage,b) older people (55 to 64-year-olds),,,male,brandenburg,code12,76.5
 2030,percentage,b) older people (55 to 64-year-olds),…,,male,brandenburg,code12,
 2000,percentage,b) older people (55 to 64-year-olds),,,,bremen,code04,37.2
 2001,percentage,b) older people (55 to 64-year-olds),,,,bremen,code04,36.4
@@ -1740,6 +1806,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,,bremen,code04,68.0
 2023,percentage,b) older people (55 to 64-year-olds),r,,,bremen,code04,69.1
 2024,percentage,b) older people (55 to 64-year-olds),,,,bremen,code04,71.4
+2025,percentage,b) older people (55 to 64-year-olds),,,,bremen,code04,70.4
 2030,percentage,b) older people (55 to 64-year-olds),…,,,bremen,code04,
 2000,percentage,b) older people (55 to 64-year-olds),,,female,bremen,code04,31.2
 2001,percentage,b) older people (55 to 64-year-olds),,,female,bremen,code04,28.8
@@ -1766,6 +1833,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,female,bremen,code04,67.3
 2023,percentage,b) older people (55 to 64-year-olds),r,,female,bremen,code04,68.0
 2024,percentage,b) older people (55 to 64-year-olds),,,female,bremen,code04,69.4
+2025,percentage,b) older people (55 to 64-year-olds),,,female,bremen,code04,66.5
 2030,percentage,b) older people (55 to 64-year-olds),…,,female,bremen,code04,
 2000,percentage,b) older people (55 to 64-year-olds),,,male,bremen,code04,43.6
 2001,percentage,b) older people (55 to 64-year-olds),,,male,bremen,code04,44.3
@@ -1792,6 +1860,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,male,bremen,code04,68.6
 2023,percentage,b) older people (55 to 64-year-olds),r,,male,bremen,code04,70.3
 2024,percentage,b) older people (55 to 64-year-olds),,,male,bremen,code04,73.5
+2025,percentage,b) older people (55 to 64-year-olds),,,male,bremen,code04,74.4
 2030,percentage,b) older people (55 to 64-year-olds),…,,male,bremen,code04,
 2000,percentage,b) older people (55 to 64-year-olds),,,,hamburg,code02,47.6
 2001,percentage,b) older people (55 to 64-year-olds),,,,hamburg,code02,47.8
@@ -1818,6 +1887,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),,,,hamburg,code02,72.3
 2023,percentage,b) older people (55 to 64-year-olds),r,,,hamburg,code02,73.9
 2024,percentage,b) older people (55 to 64-year-olds),,,,hamburg,code02,71.2
+2025,percentage,b) older people (55 to 64-year-olds),,,,hamburg,code02,73.1
 2030,percentage,b) older people (55 to 64-year-olds),…,,,hamburg,code02,
 2000,percentage,b) older people (55 to 64-year-olds),,,female,hamburg,code02,38.9
 2001,percentage,b) older people (55 to 64-year-olds),,,female,hamburg,code02,40.2
@@ -1844,6 +1914,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,female,hamburg,code02,71.3
 2023,percentage,b) older people (55 to 64-year-olds),r,,female,hamburg,code02,72.5
 2024,percentage,b) older people (55 to 64-year-olds),,,female,hamburg,code02,69.9
+2025,percentage,b) older people (55 to 64-year-olds),,,female,hamburg,code02,72.5
 2030,percentage,b) older people (55 to 64-year-olds),…,,female,hamburg,code02,
 2000,percentage,b) older people (55 to 64-year-olds),,,male,hamburg,code02,56.5
 2001,percentage,b) older people (55 to 64-year-olds),,,male,hamburg,code02,55.3
@@ -1870,6 +1941,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,male,hamburg,code02,73.2
 2023,percentage,b) older people (55 to 64-year-olds),r,,male,hamburg,code02,75.4
 2024,percentage,b) older people (55 to 64-year-olds),,,male,hamburg,code02,72.5
+2025,percentage,b) older people (55 to 64-year-olds),,,male,hamburg,code02,73.6
 2030,percentage,b) older people (55 to 64-year-olds),…,,male,hamburg,code02,
 2000,percentage,b) older people (55 to 64-year-olds),,,,hesse,code06,39.6
 2001,percentage,b) older people (55 to 64-year-olds),,,,hesse,code06,40.4
@@ -1896,6 +1968,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,,hesse,code06,72.4
 2023,percentage,b) older people (55 to 64-year-olds),r,,,hesse,code06,73.9
 2024,percentage,b) older people (55 to 64-year-olds),,,,hesse,code06,75.6
+2025,percentage,b) older people (55 to 64-year-olds),,,,hesse,code06,74.9
 2030,percentage,b) older people (55 to 64-year-olds),…,,,hesse,code06,
 2000,percentage,b) older people (55 to 64-year-olds),,,female,hesse,code06,31.1
 2001,percentage,b) older people (55 to 64-year-olds),,,female,hesse,code06,31.3
@@ -1922,6 +1995,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,female,hesse,code06,67.7
 2023,percentage,b) older people (55 to 64-year-olds),r,,female,hesse,code06,70.5
 2024,percentage,b) older people (55 to 64-year-olds),,,female,hesse,code06,71.9
+2025,percentage,b) older people (55 to 64-year-olds),,,female,hesse,code06,70.9
 2030,percentage,b) older people (55 to 64-year-olds),…,,female,hesse,code06,
 2000,percentage,b) older people (55 to 64-year-olds),,,male,hesse,code06,47.9
 2001,percentage,b) older people (55 to 64-year-olds),,,male,hesse,code06,49.5
@@ -1948,6 +2022,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,male,hesse,code06,77.1
 2023,percentage,b) older people (55 to 64-year-olds),r,,male,hesse,code06,77.4
 2024,percentage,b) older people (55 to 64-year-olds),,,male,hesse,code06,79.3
+2025,percentage,b) older people (55 to 64-year-olds),,,male,hesse,code06,78.8
 2030,percentage,b) older people (55 to 64-year-olds),…,,male,hesse,code06,
 2000,percentage,b) older people (55 to 64-year-olds),,,,mecklenburg western pomerania,code13,30.8
 2001,percentage,b) older people (55 to 64-year-olds),,,,mecklenburg western pomerania,code13,28.8
@@ -1974,6 +2049,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,,mecklenburg western pomerania,code13,67.4
 2023,percentage,b) older people (55 to 64-year-olds),r,,,mecklenburg western pomerania,code13,68.8
 2024,percentage,b) older people (55 to 64-year-olds),,,,mecklenburg western pomerania,code13,70.3
+2025,percentage,b) older people (55 to 64-year-olds),,,,mecklenburg western pomerania,code13,71.5
 2030,percentage,b) older people (55 to 64-year-olds),…,,,mecklenburg western pomerania,code13,
 2000,percentage,b) older people (55 to 64-year-olds),,,female,mecklenburg western pomerania,code13,23.7
 2001,percentage,b) older people (55 to 64-year-olds),,,female,mecklenburg western pomerania,code13,22.8
@@ -2000,6 +2076,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,female,mecklenburg western pomerania,code13,64.0
 2023,percentage,b) older people (55 to 64-year-olds),,,female,mecklenburg western pomerania,code13,66.4
 2024,percentage,b) older people (55 to 64-year-olds),,,female,mecklenburg western pomerania,code13,70.7
+2025,percentage,b) older people (55 to 64-year-olds),,,female,mecklenburg western pomerania,code13,69.0
 2030,percentage,b) older people (55 to 64-year-olds),…,,female,mecklenburg western pomerania,code13,
 2000,percentage,b) older people (55 to 64-year-olds),,,male,mecklenburg western pomerania,code13,38.2
 2001,percentage,b) older people (55 to 64-year-olds),,,male,mecklenburg western pomerania,code13,35.0
@@ -2026,6 +2103,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,male,mecklenburg western pomerania,code13,70.8
 2023,percentage,b) older people (55 to 64-year-olds),r,,male,mecklenburg western pomerania,code13,71.2
 2024,percentage,b) older people (55 to 64-year-olds),,,male,mecklenburg western pomerania,code13,69.8
+2025,percentage,b) older people (55 to 64-year-olds),,,male,mecklenburg western pomerania,code13,73.9
 2030,percentage,b) older people (55 to 64-year-olds),…,,male,mecklenburg western pomerania,code13,
 2000,percentage,b) older people (55 to 64-year-olds),,,,lower saxony,code03,39.1
 2001,percentage,b) older people (55 to 64-year-olds),,,,lower saxony,code03,38.1
@@ -2052,6 +2130,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,,lower saxony,code03,74.0
 2023,percentage,b) older people (55 to 64-year-olds),,,,lower saxony,code03,76.0
 2024,percentage,b) older people (55 to 64-year-olds),,,,lower saxony,code03,75.7
+2025,percentage,b) older people (55 to 64-year-olds),,,,lower saxony,code03,75.3
 2030,percentage,b) older people (55 to 64-year-olds),…,,,lower saxony,code03,
 2000,percentage,b) older people (55 to 64-year-olds),,,female,lower saxony,code03,29.6
 2001,percentage,b) older people (55 to 64-year-olds),,,female,lower saxony,code03,29.5
@@ -2078,6 +2157,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),,,female,lower saxony,code03,70.8
 2023,percentage,b) older people (55 to 64-year-olds),r,,female,lower saxony,code03,72.5
 2024,percentage,b) older people (55 to 64-year-olds),,,female,lower saxony,code03,71.4
+2025,percentage,b) older people (55 to 64-year-olds),,,female,lower saxony,code03,70.9
 2030,percentage,b) older people (55 to 64-year-olds),…,,female,lower saxony,code03,
 2000,percentage,b) older people (55 to 64-year-olds),,,male,lower saxony,code03,48.2
 2001,percentage,b) older people (55 to 64-year-olds),,,male,lower saxony,code03,46.3
@@ -2104,6 +2184,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,male,lower saxony,code03,77.3
 2023,percentage,b) older people (55 to 64-year-olds),r,,male,lower saxony,code03,79.5
 2024,percentage,b) older people (55 to 64-year-olds),,,male,lower saxony,code03,80.1
+2025,percentage,b) older people (55 to 64-year-olds),,,male,lower saxony,code03,79.7
 2030,percentage,b) older people (55 to 64-year-olds),…,,male,lower saxony,code03,
 2000,percentage,b) older people (55 to 64-year-olds),,,,north rhine-westphalia,code05,34.0
 2001,percentage,b) older people (55 to 64-year-olds),,,,north rhine-westphalia,code05,35.9
@@ -2130,6 +2211,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,,north rhine-westphalia,code05,71.7
 2023,percentage,b) older people (55 to 64-year-olds),r,,,north rhine-westphalia,code05,72.6
 2024,percentage,b) older people (55 to 64-year-olds),,,,north rhine-westphalia,code05,72.7
+2025,percentage,b) older people (55 to 64-year-olds),,,,north rhine-westphalia,code05,72.5
 2030,percentage,b) older people (55 to 64-year-olds),…,,,north rhine-westphalia,code05,
 2000,percentage,b) older people (55 to 64-year-olds),,,female,north rhine-westphalia,code05,24.5
 2001,percentage,b) older people (55 to 64-year-olds),,,female,north rhine-westphalia,code05,26.6
@@ -2156,6 +2238,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,female,north rhine-westphalia,code05,66.3
 2023,percentage,b) older people (55 to 64-year-olds),r,,female,north rhine-westphalia,code05,68.3
 2024,percentage,b) older people (55 to 64-year-olds),,,female,north rhine-westphalia,code05,68.8
+2025,percentage,b) older people (55 to 64-year-olds),,,female,north rhine-westphalia,code05,68.1
 2030,percentage,b) older people (55 to 64-year-olds),…,,female,north rhine-westphalia,code05,
 2000,percentage,b) older people (55 to 64-year-olds),,,male,north rhine-westphalia,code05,43.6
 2001,percentage,b) older people (55 to 64-year-olds),,,male,north rhine-westphalia,code05,45.3
@@ -2182,6 +2265,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,male,north rhine-westphalia,code05,77.3
 2023,percentage,b) older people (55 to 64-year-olds),,,male,north rhine-westphalia,code05,77.0
 2024,percentage,b) older people (55 to 64-year-olds),,,male,north rhine-westphalia,code05,76.7
+2025,percentage,b) older people (55 to 64-year-olds),,,male,north rhine-westphalia,code05,76.9
 2030,percentage,b) older people (55 to 64-year-olds),…,,male,north rhine-westphalia,code05,
 2000,percentage,b) older people (55 to 64-year-olds),,,,rhineland palatinate,code07,36.2
 2001,percentage,b) older people (55 to 64-year-olds),,,,rhineland palatinate,code07,36.4
@@ -2208,6 +2292,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),,,,rhineland palatinate,code07,70.5
 2023,percentage,b) older people (55 to 64-year-olds),r,,,rhineland palatinate,code07,74.1
 2024,percentage,b) older people (55 to 64-year-olds),,,,rhineland palatinate,code07,76.3
+2025,percentage,b) older people (55 to 64-year-olds),,,,rhineland palatinate,code07,76.1
 2030,percentage,b) older people (55 to 64-year-olds),…,,,rhineland palatinate,code07,
 2000,percentage,b) older people (55 to 64-year-olds),,,female,rhineland palatinate,code07,27.3
 2001,percentage,b) older people (55 to 64-year-olds),,,female,rhineland palatinate,code07,25.6
@@ -2234,6 +2319,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),,,female,rhineland palatinate,code07,66.8
 2023,percentage,b) older people (55 to 64-year-olds),r,,female,rhineland palatinate,code07,69.9
 2024,percentage,b) older people (55 to 64-year-olds),,,female,rhineland palatinate,code07,72.4
+2025,percentage,b) older people (55 to 64-year-olds),,,female,rhineland palatinate,code07,71.2
 2030,percentage,b) older people (55 to 64-year-olds),…,,female,rhineland palatinate,code07,
 2000,percentage,b) older people (55 to 64-year-olds),,,male,rhineland palatinate,code07,45.4
 2001,percentage,b) older people (55 to 64-year-olds),,,male,rhineland palatinate,code07,47.5
@@ -2260,6 +2346,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,male,rhineland palatinate,code07,74.2
 2023,percentage,b) older people (55 to 64-year-olds),r,,male,rhineland palatinate,code07,78.4
 2024,percentage,b) older people (55 to 64-year-olds),,,male,rhineland palatinate,code07,80.1
+2025,percentage,b) older people (55 to 64-year-olds),,,male,rhineland palatinate,code07,81.2
 2030,percentage,b) older people (55 to 64-year-olds),…,,male,rhineland palatinate,code07,
 2000,percentage,b) older people (55 to 64-year-olds),,,,saarland,code10,29.8
 2001,percentage,b) older people (55 to 64-year-olds),,,,saarland,code10,31.4
@@ -2286,6 +2373,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,,saarland,code10,68.5
 2023,percentage,b) older people (55 to 64-year-olds),r,,,saarland,code10,70.0
 2024,percentage,b) older people (55 to 64-year-olds),,,,saarland,code10,69.7
+2025,percentage,b) older people (55 to 64-year-olds),,,,saarland,code10,70.6
 2030,percentage,b) older people (55 to 64-year-olds),…,,,saarland,code10,
 2000,percentage,b) older people (55 to 64-year-olds),,,female,saarland,code10,18.5
 2001,percentage,b) older people (55 to 64-year-olds),,,female,saarland,code10,21.2
@@ -2312,6 +2400,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,female,saarland,code10,64.4
 2023,percentage,b) older people (55 to 64-year-olds),r,,female,saarland,code10,64.7
 2024,percentage,b) older people (55 to 64-year-olds),,,female,saarland,code10,64.7
+2025,percentage,b) older people (55 to 64-year-olds),,,female,saarland,code10,67.0
 2030,percentage,b) older people (55 to 64-year-olds),…,,female,saarland,code10,
 2000,percentage,b) older people (55 to 64-year-olds),,,male,saarland,code10,41.1
 2001,percentage,b) older people (55 to 64-year-olds),,,male,saarland,code10,42.0
@@ -2338,6 +2427,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,male,saarland,code10,72.6
 2023,percentage,b) older people (55 to 64-year-olds),r,,male,saarland,code10,75.5
 2024,percentage,b) older people (55 to 64-year-olds),,,male,saarland,code10,74.9
+2025,percentage,b) older people (55 to 64-year-olds),,,male,saarland,code10,74.4
 2030,percentage,b) older people (55 to 64-year-olds),…,,male,saarland,code10,
 2000,percentage,b) older people (55 to 64-year-olds),,,,saxony,code14,33.1
 2001,percentage,b) older people (55 to 64-year-olds),,,,saxony,code14,33.0
@@ -2364,6 +2454,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),,,,saxony,code14,75.5
 2023,percentage,b) older people (55 to 64-year-olds),,,,saxony,code14,76.3
 2024,percentage,b) older people (55 to 64-year-olds),,,,saxony,code14,76.9
+2025,percentage,b) older people (55 to 64-year-olds),,,,saxony,code14,77.7
 2030,percentage,b) older people (55 to 64-year-olds),…,,,saxony,code14,
 2000,percentage,b) older people (55 to 64-year-olds),,,female,saxony,code14,27.3
 2001,percentage,b) older people (55 to 64-year-olds),,,female,saxony,code14,27.3
@@ -2390,6 +2481,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),,,female,saxony,code14,73.2
 2023,percentage,b) older people (55 to 64-year-olds),r,,female,saxony,code14,74.4
 2024,percentage,b) older people (55 to 64-year-olds),,,female,saxony,code14,75.2
+2025,percentage,b) older people (55 to 64-year-olds),,,female,saxony,code14,77.3
 2030,percentage,b) older people (55 to 64-year-olds),…,,female,saxony,code14,
 2000,percentage,b) older people (55 to 64-year-olds),,,male,saxony,code14,39.3
 2001,percentage,b) older people (55 to 64-year-olds),,,male,saxony,code14,38.8
@@ -2416,6 +2508,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,male,saxony,code14,77.7
 2023,percentage,b) older people (55 to 64-year-olds),,,male,saxony,code14,78.2
 2024,percentage,b) older people (55 to 64-year-olds),,,male,saxony,code14,78.6
+2025,percentage,b) older people (55 to 64-year-olds),,,male,saxony,code14,78.0
 2030,percentage,b) older people (55 to 64-year-olds),…,,male,saxony,code14,
 2000,percentage,b) older people (55 to 64-year-olds),,,,saxony-anhalt,code15,28.3
 2001,percentage,b) older people (55 to 64-year-olds),,,,saxony-anhalt,code15,28.4
@@ -2442,6 +2535,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,,saxony-anhalt,code15,69.5
 2023,percentage,b) older people (55 to 64-year-olds),r,,,saxony-anhalt,code15,71.4
 2024,percentage,b) older people (55 to 64-year-olds),,,,saxony-anhalt,code15,74.1
+2025,percentage,b) older people (55 to 64-year-olds),,,,saxony-anhalt,code15,73.9
 2030,percentage,b) older people (55 to 64-year-olds),…,,,saxony-anhalt,code15,
 2000,percentage,b) older people (55 to 64-year-olds),,,female,saxony-anhalt,code15,22.3
 2001,percentage,b) older people (55 to 64-year-olds),,,female,saxony-anhalt,code15,23.0
@@ -2468,6 +2562,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,female,saxony-anhalt,code15,67.2
 2023,percentage,b) older people (55 to 64-year-olds),r,,female,saxony-anhalt,code15,70.2
 2024,percentage,b) older people (55 to 64-year-olds),,,female,saxony-anhalt,code15,70.4
+2025,percentage,b) older people (55 to 64-year-olds),,,female,saxony-anhalt,code15,71.3
 2030,percentage,b) older people (55 to 64-year-olds),…,,female,saxony-anhalt,code15,
 2000,percentage,b) older people (55 to 64-year-olds),,,male,saxony-anhalt,code15,34.6
 2001,percentage,b) older people (55 to 64-year-olds),,,male,saxony-anhalt,code15,34.2
@@ -2494,6 +2589,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,male,saxony-anhalt,code15,71.8
 2023,percentage,b) older people (55 to 64-year-olds),r,,male,saxony-anhalt,code15,72.5
 2024,percentage,b) older people (55 to 64-year-olds),,,male,saxony-anhalt,code15,77.8
+2025,percentage,b) older people (55 to 64-year-olds),,,male,saxony-anhalt,code15,76.5
 2030,percentage,b) older people (55 to 64-year-olds),…,,male,saxony-anhalt,code15,
 2000,percentage,b) older people (55 to 64-year-olds),,,,schleswig-holstein,code01,43.6
 2001,percentage,b) older people (55 to 64-year-olds),,,,schleswig-holstein,code01,42.2
@@ -2520,6 +2616,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),,,,schleswig-holstein,code01,73.6
 2023,percentage,b) older people (55 to 64-year-olds),r,,,schleswig-holstein,code01,72.9
 2024,percentage,b) older people (55 to 64-year-olds),,,,schleswig-holstein,code01,75.6
+2025,percentage,b) older people (55 to 64-year-olds),,,,schleswig-holstein,code01,75.9
 2030,percentage,b) older people (55 to 64-year-olds),…,,,schleswig-holstein,code01,
 2000,percentage,b) older people (55 to 64-year-olds),,,female,schleswig-holstein,code01,33.9
 2001,percentage,b) older people (55 to 64-year-olds),,,female,schleswig-holstein,code01,35.0
@@ -2546,6 +2643,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,female,schleswig-holstein,code01,68.9
 2023,percentage,b) older people (55 to 64-year-olds),r,,female,schleswig-holstein,code01,68.8
 2024,percentage,b) older people (55 to 64-year-olds),,,female,schleswig-holstein,code01,72.0
+2025,percentage,b) older people (55 to 64-year-olds),,,female,schleswig-holstein,code01,70.8
 2030,percentage,b) older people (55 to 64-year-olds),…,,female,schleswig-holstein,code01,
 2000,percentage,b) older people (55 to 64-year-olds),,,male,schleswig-holstein,code01,52.8
 2001,percentage,b) older people (55 to 64-year-olds),,,male,schleswig-holstein,code01,49.6
@@ -2572,6 +2670,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,male,schleswig-holstein,code01,78.4
 2023,percentage,b) older people (55 to 64-year-olds),r,,male,schleswig-holstein,code01,77.1
 2024,percentage,b) older people (55 to 64-year-olds),,,male,schleswig-holstein,code01,79.3
+2025,percentage,b) older people (55 to 64-year-olds),,,male,schleswig-holstein,code01,81.3
 2030,percentage,b) older people (55 to 64-year-olds),…,,male,schleswig-holstein,code01,
 2000,percentage,b) older people (55 to 64-year-olds),,,,thuringia,code16,31.8
 2001,percentage,b) older people (55 to 64-year-olds),,,,thuringia,code16,30.1
@@ -2598,6 +2697,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,,thuringia,code16,75.0
 2023,percentage,b) older people (55 to 64-year-olds),r,,,thuringia,code16,74.9
 2024,percentage,b) older people (55 to 64-year-olds),,,,thuringia,code16,73.5
+2025,percentage,b) older people (55 to 64-year-olds),,,,thuringia,code16,72.9
 2030,percentage,b) older people (55 to 64-year-olds),…,,,thuringia,code16,
 2000,percentage,b) older people (55 to 64-year-olds),,,female,thuringia,code16,25.6
 2001,percentage,b) older people (55 to 64-year-olds),,,female,thuringia,code16,24.0
@@ -2624,6 +2724,7 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,female,thuringia,code16,72.5
 2023,percentage,b) older people (55 to 64-year-olds),r,,female,thuringia,code16,73.0
 2024,percentage,b) older people (55 to 64-year-olds),,,female,thuringia,code16,71.0
+2025,percentage,b) older people (55 to 64-year-olds),,,female,thuringia,code16,72.8
 2030,percentage,b) older people (55 to 64-year-olds),…,,female,thuringia,code16,
 2000,percentage,b) older people (55 to 64-year-olds),,,male,thuringia,code16,38.0
 2001,percentage,b) older people (55 to 64-year-olds),,,male,thuringia,code16,36.6
@@ -2650,4 +2751,5 @@ Year,Units,Series,COMMENT_OBS_0,COMMENT_OBS_1,sex,länder,GeoCode,Value
 2022,percentage,b) older people (55 to 64-year-olds),r,,male,thuringia,code16,77.5
 2023,percentage,b) older people (55 to 64-year-olds),r,,male,thuringia,code16,77.0
 2024,percentage,b) older people (55 to 64-year-olds),,,male,thuringia,code16,76.0
+2025,percentage,b) older people (55 to 64-year-olds),,,male,thuringia,code16,73.0
 2030,percentage,b) older people (55 to 64-year-olds),…,,male,thuringia,code16,
