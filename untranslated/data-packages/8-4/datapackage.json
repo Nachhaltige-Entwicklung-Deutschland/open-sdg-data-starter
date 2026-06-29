@@ -26,24 +26,11 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                "p",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "länder",

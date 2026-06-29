@@ -51,18 +51,7 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "|",
-                "p",
-                "…",
-                "r",
-                "s",
-                ".",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "länder",

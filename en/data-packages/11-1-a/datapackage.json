@@ -41,18 +41,6 @@
           {
             "name": "COMMENT_OBS_0",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "|",
-                "r",
-                "…",
-                ".",
-                "0",
-                "x",
-                "-",
-                ""
-              ]
-            },
             "title": "COMMENT_OBS_0"
           },
           {
@@ -102,12 +90,6 @@
           {
             "name": "COMMENT_OBS_1",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            },
             "title": "COMMENT_OBS_1"
           },
           {

@@ -1,18 +1,29 @@
-Year,Value,Units,Series
-2012,79.0,,a) Corruption Perceptions Index in Germany
-2013,78.0,,a) Corruption Perceptions Index in Germany
-2014,79.0,,a) Corruption Perceptions Index in Germany
-2015,81.0,,a) Corruption Perceptions Index in Germany
-2016,81.0,,a) Corruption Perceptions Index in Germany
-2017,81.0,,a) Corruption Perceptions Index in Germany
-2018,80.0,,a) Corruption Perceptions Index in Germany
-2019,80.0,,a) Corruption Perceptions Index in Germany
-2020,80.0,,a) Corruption Perceptions Index in Germany
-2021,80.0,,a) Corruption Perceptions Index in Germany
-2022,79.0,,a) Corruption Perceptions Index in Germany
-2023,78.0,,a) Corruption Perceptions Index in Germany
-2024,75.0,,a) Corruption Perceptions Index in Germany
-2025,77.0,,a) Corruption Perceptions Index in Germany
-2023,34.0,Number,b) Number of partner countries of German development cooperation whose CPI has improved
-2024,32.0,Number,b) Number of partner countries of German development cooperation whose CPI has improved
-2025,31.0,Number,b) Number of partner countries of German development cooperation whose CPI has improved
+Year,Value,Units,Series,COMMENT_OBS_0
+2012,79.0,,a) Corruption Perceptions Index in Germany,
+2013,78.0,,a) Corruption Perceptions Index in Germany,
+2014,79.0,,a) Corruption Perceptions Index in Germany,
+2015,81.0,,a) Corruption Perceptions Index in Germany,
+2016,81.0,,a) Corruption Perceptions Index in Germany,
+2017,81.0,,a) Corruption Perceptions Index in Germany,
+2018,80.0,,a) Corruption Perceptions Index in Germany,
+2019,80.0,,a) Corruption Perceptions Index in Germany,
+2020,80.0,,a) Corruption Perceptions Index in Germany,
+2021,80.0,,a) Corruption Perceptions Index in Germany,
+2022,79.0,,a) Corruption Perceptions Index in Germany,
+2023,78.0,,a) Corruption Perceptions Index in Germany,
+2024,75.0,,a) Corruption Perceptions Index in Germany,
+2025,77.0,,a) Corruption Perceptions Index in Germany,
+2012,,Number,b) Number of partner countries of German development cooperation whose CPI has improved,.
+2013,16.0,Number,b) Number of partner countries of German development cooperation whose CPI has improved,r
+2014,30.0,Number,b) Number of partner countries of German development cooperation whose CPI has improved,r
+2015,30.0,Number,b) Number of partner countries of German development cooperation whose CPI has improved,r
+2016,31.0,Number,b) Number of partner countries of German development cooperation whose CPI has improved,r
+2017,32.0,Number,b) Number of partner countries of German development cooperation whose CPI has improved,r
+2018,31.0,Number,b) Number of partner countries of German development cooperation whose CPI has improved,r
+2019,34.0,Number,b) Number of partner countries of German development cooperation whose CPI has improved,r
+2020,36.0,Number,b) Number of partner countries of German development cooperation whose CPI has improved,r
+2021,36.0,Number,b) Number of partner countries of German development cooperation whose CPI has improved,r
+2022,30.0,Number,b) Number of partner countries of German development cooperation whose CPI has improved,r
+2023,34.0,Number,b) Number of partner countries of German development cooperation whose CPI has improved,
+2024,32.0,Number,b) Number of partner countries of German development cooperation whose CPI has improved,
+2025,31.0,Number,b) Number of partner countries of German development cooperation whose CPI has improved,
