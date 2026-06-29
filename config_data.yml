@@ -136,3 +136,19 @@ map_layers:
     id_property: ARS
     output_subfolder: kreise
     filename_prefix: indicator_
+    
+indicator_options:
+  non_disaggregation_columns:
+    - Year
+    - Units
+    - Series
+    - Value
+    - GeoCode
+    - COMMENT_OBS
+    - COMMENT_OBS_0
+    - COMMENT_OBS_1
+    - COMMENT_OBS_2
+  observation_attributes:
+    - COMMENT_OBS_0
+    - COMMENT_OBS_1
+    - COMMENT_OBS_2
