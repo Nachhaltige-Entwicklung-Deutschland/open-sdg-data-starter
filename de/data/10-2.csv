@@ -17,7 +17,7 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,,,0.29
 2023,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,,,0.294
 2024,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,,,0.295
-2025,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,p,,,0.302
+2025,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,,,,0.301
 2007,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Europäische Union,,,,0.306
 2008,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Europäische Union,,,,0.31
 2009,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Europäische Union,,,,0.306
@@ -35,8 +35,8 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2021,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Europäische Union,,,,0.302
 2022,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Europäische Union,,,,0.296
 2023,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Europäische Union,,,,0.296
-2024,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Europäische Union,,,,0.293
-2025,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Europäische Union,…,,,
+2024,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Europäische Union,r,,,0.294
+2025,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Europäische Union,,,,0.292
 2007,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Deutschland,,,,0.373
 2008,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Deutschland,,,,0.367
 2009,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Deutschland,,,,0.355
@@ -55,7 +55,7 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2022,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Deutschland,r,,,0.356
 2023,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Deutschland,,,,0.358
 2024,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Deutschland,,,,0.355
-2025,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Deutschland,p,,,0.36
+2025,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Deutschland,,,,0.36
 2007,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Europäische Union,,,,0.361
 2008,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Europäische Union,,,,0.361
 2009,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Europäische Union,,,,0.36
@@ -70,11 +70,11 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2018,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Europäische Union,,,,0.359
 2019,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Europäische Union,s,,,0.355
 2020,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Europäische Union,|,,,0.349
-2021,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Europäische Union,,,,0.36
+2021,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Europäische Union,r,,,0.359
 2022,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Europäische Union,,,,0.349
 2023,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Europäische Union,,,,0.347
-2024,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Europäische Union,,,,0.344
-2025,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Europäische Union,…,,,
+2024,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Europäische Union,r,,,0.343
+2025,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,Europäische Union,,,,0.341
 2007,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Marktequivalenzeinkommens,Deutschland,.,,,
 2008,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Marktequivalenzeinkommens,Deutschland,.,,,
 2009,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Marktequivalenzeinkommens,Deutschland,.,,,
@@ -128,8 +128,8 @@ Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Bundesland,GeoCode,Value
 2019,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens,Eurozone,.,,,
 2020,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens,Eurozone,.,,,
 2021,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens,Eurozone,,,,0.694
-2022,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens,Eurozone,…,,,
-2023,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens,Eurozone,…,,,
+2022,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens,Eurozone,.,,,
+2023,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens,Eurozone,,,,0.685
 2024,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens,Eurozone,…,,,
 2025,Gini-Koeffizient,<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens,Eurozone,…,,,
 2007,Gini-Koeffizient,<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,.,Baden-Württemberg,code08,

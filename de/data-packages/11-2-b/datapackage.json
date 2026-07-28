@@ -27,11 +27,6 @@
             "title": "Units"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "time series",
             "type": "string",
             "constraints": {
@@ -43,6 +38,11 @@
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",

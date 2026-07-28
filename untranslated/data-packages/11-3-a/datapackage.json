@@ -29,10 +29,6 @@
             "type": "string"
           },
           {
-            "name": "COMMENT_OBS_1",
-            "type": "string"
-          },
-          {
             "name": "sex",
             "type": "string",
             "constraints": {
