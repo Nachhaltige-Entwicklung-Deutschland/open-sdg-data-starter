@@ -60,13 +60,13 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,sector,Value
 2014,percentage,,baden-wuerttemberg,code08,,4.78
 2015,percentage,,baden-wuerttemberg,code08,,4.85
 2016,percentage,,baden-wuerttemberg,code08,,4.85
-2017,percentage,,baden-wuerttemberg,code08,,5.51
-2018,percentage,,baden-wuerttemberg,code08,,5.54
+2017,percentage,r,baden-wuerttemberg,code08,,5.52
+2018,percentage,r,baden-wuerttemberg,code08,,5.55
 2019,percentage,,baden-wuerttemberg,code08,,5.65
-2020,percentage,,baden-wuerttemberg,code08,,5.56
-2021,percentage,,baden-wuerttemberg,code08,,5.47
-2022,percentage,,baden-wuerttemberg,code08,,5.46
-2023,percentage,,baden-wuerttemberg,code08,,5.71
+2020,percentage,r,baden-wuerttemberg,code08,,5.57
+2021,percentage,r,baden-wuerttemberg,code08,,5.48
+2022,percentage,r,baden-wuerttemberg,code08,,5.41
+2023,percentage,r,baden-wuerttemberg,code08,,5.62
 2024,percentage,,baden-wuerttemberg,code08,,5.71
 2025,percentage,…,baden-wuerttemberg,code08,,
 1991,percentage,,bavaria,code09,,
@@ -91,17 +91,17 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,sector,Value
 2010,percentage,,bavaria,code09,,2.97
 2011,percentage,,bavaria,code09,,2.94
 2012,percentage,,bavaria,code09,,3.04
-2013,percentage,,bavaria,code09,,3.07
+2013,percentage,r,bavaria,code09,,3.06
 2014,percentage,,bavaria,code09,,3.08
-2015,percentage,,bavaria,code09,,3.08
-2016,percentage,,bavaria,code09,,3.08
-2017,percentage,,bavaria,code09,,3.05
+2015,percentage,r,bavaria,code09,,3.07
+2016,percentage,r,bavaria,code09,,3.07
+2017,percentage,r,bavaria,code09,,3.04
 2018,percentage,,bavaria,code09,,3.13
 2019,percentage,,bavaria,code09,,3.33
 2020,percentage,,bavaria,code09,,3.31
 2021,percentage,,bavaria,code09,,3.34
-2022,percentage,,bavaria,code09,,3.37
-2023,percentage,,bavaria,code09,,3.41
+2022,percentage,,bavaria,code09,,3.34
+2023,percentage,,bavaria,code09,,3.37
 2024,percentage,,bavaria,code09,,3.39
 2025,percentage,…,bavaria,code09,,
 1991,percentage,,berlin,code11,,
@@ -130,13 +130,13 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,sector,Value
 2014,percentage,,berlin,code11,,3.5
 2015,percentage,,berlin,code11,,3.41
 2016,percentage,,berlin,code11,,3.34
-2017,percentage,,berlin,code11,,3.3
+2017,percentage,r,berlin,code11,,3.29
 2018,percentage,,berlin,code11,,3.36
-2019,percentage,,berlin,code11,,3.28
-2020,percentage,,berlin,code11,,3.23
-2021,percentage,,berlin,code11,,3.23
-2022,percentage,,berlin,code11,,3.13
-2023,percentage,,berlin,code11,,3.07
+2019,percentage,r,berlin,code11,,3.27
+2020,percentage,r,berlin,code11,,3.22
+2021,percentage,r,berlin,code11,,3.25
+2022,percentage,r,berlin,code11,,3.11
+2023,percentage,r,berlin,code11,,3.04
 2024,percentage,,berlin,code11,,3.03
 2025,percentage,…,berlin,code11,,
 1991,percentage,,brandenburg,code12,,
@@ -163,15 +163,15 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,sector,Value
 2012,percentage,,brandenburg,code12,,1.6
 2013,percentage,,brandenburg,code12,,1.5
 2014,percentage,,brandenburg,code12,,1.53
-2015,percentage,,brandenburg,code12,,1.64
+2015,percentage,r,brandenburg,code12,,1.63
 2016,percentage,,brandenburg,code12,,1.69
 2017,percentage,,brandenburg,code12,,1.66
 2018,percentage,,brandenburg,code12,,1.65
 2019,percentage,,brandenburg,code12,,1.76
 2020,percentage,,brandenburg,code12,,1.81
 2021,percentage,,brandenburg,code12,,1.71
-2022,percentage,,brandenburg,code12,,1.67
-2023,percentage,,brandenburg,code12,,1.48
+2022,percentage,r,brandenburg,code12,,1.65
+2023,percentage,r,brandenburg,code12,,1.45
 2024,percentage,,brandenburg,code12,,1.51
 2025,percentage,…,brandenburg,code12,,
 1991,percentage,,bremen,code04,,
@@ -201,12 +201,12 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,sector,Value
 2015,percentage,,bremen,code04,,2.81
 2016,percentage,,bremen,code04,,2.86
 2017,percentage,,bremen,code04,,2.77
-2018,percentage,,bremen,code04,,2.84
-2019,percentage,,bremen,code04,,3.01
-2020,percentage,,bremen,code04,,3.69
-2021,percentage,,bremen,code04,,3.15
-2022,percentage,,bremen,code04,,3.05
-2023,percentage,,bremen,code04,,2.84
+2018,percentage,r,bremen,code04,,2.83
+2019,percentage,r,bremen,code04,,3.0
+2020,percentage,r,bremen,code04,,3.67
+2021,percentage,r,bremen,code04,,3.12
+2022,percentage,r,bremen,code04,,3.03
+2023,percentage,r,bremen,code04,,2.85
 2024,percentage,,bremen,code04,,2.77
 2025,percentage,…,bremen,code04,,
 1991,percentage,,hamburg,code02,,
@@ -229,19 +229,19 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,sector,Value
 2008,percentage,,hamburg,code02,,1.88
 2009,percentage,,hamburg,code02,,2.05
 2010,percentage,,hamburg,code02,,2.03
-2011,percentage,,hamburg,code02,,2.13
+2011,percentage,,hamburg,code02,,2.12
 2012,percentage,,hamburg,code02,,2.17
 2013,percentage,,hamburg,code02,,2.18
 2014,percentage,,hamburg,code02,,2.27
-2015,percentage,,hamburg,code02,,2.15
+2015,percentage,r,hamburg,code02,,2.14
 2016,percentage,,hamburg,code02,,2.18
-2017,percentage,,hamburg,code02,,2.06
-2018,percentage,,hamburg,code02,,2.12
-2019,percentage,,hamburg,code02,,2.08
-2020,percentage,,hamburg,code02,,2.14
-2021,percentage,,hamburg,code02,,2.05
-2022,percentage,,hamburg,code02,,1.98
-2023,percentage,,hamburg,code02,,2.65
+2017,percentage,r,hamburg,code02,,2.05
+2018,percentage,r,hamburg,code02,,2.11
+2019,percentage,r,hamburg,code02,,2.07
+2020,percentage,r,hamburg,code02,,2.13
+2021,percentage,r,hamburg,code02,,2.03
+2022,percentage,r,hamburg,code02,,1.95
+2023,percentage,r,hamburg,code02,,2.63
 2024,percentage,,hamburg,code02,,2.6
 2025,percentage,…,hamburg,code02,,
 1991,percentage,,hesse,code06,,
@@ -266,17 +266,17 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,sector,Value
 2010,percentage,,hesse,code06,,2.92
 2011,percentage,,hesse,code06,,2.81
 2012,percentage,,hesse,code06,,2.94
-2013,percentage,,hesse,code06,,2.74
-2014,percentage,,hesse,code06,,2.8
+2013,percentage,r,hesse,code06,,2.75
+2014,percentage,r,hesse,code06,,2.81
 2015,percentage,,hesse,code06,,2.76
-2016,percentage,,hesse,code06,,2.77
+2016,percentage,r,hesse,code06,,2.78
 2017,percentage,,hesse,code06,,2.84
 2018,percentage,,hesse,code06,,2.93
-2019,percentage,,hesse,code06,,3.02
-2020,percentage,,hesse,code06,,2.98
-2021,percentage,,hesse,code06,,2.99
-2022,percentage,,hesse,code06,,3.04
-2023,percentage,,hesse,code06,,3.01
+2019,percentage,r,hesse,code06,,3.01
+2020,percentage,r,hesse,code06,,2.97
+2021,percentage,r,hesse,code06,,2.98
+2022,percentage,r,hesse,code06,,3.01
+2023,percentage,r,hesse,code06,,2.98
 2024,percentage,,hesse,code06,,3.28
 2025,percentage,…,hesse,code06,,
 1991,percentage,,mecklenburg western pomerania,code13,,
@@ -299,18 +299,18 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,sector,Value
 2008,percentage,,mecklenburg western pomerania,code13,,1.51
 2009,percentage,,mecklenburg western pomerania,code13,,1.8
 2010,percentage,,mecklenburg western pomerania,code13,,1.95
-2011,percentage,,mecklenburg western pomerania,code13,,2.01
+2011,percentage,,mecklenburg western pomerania,code13,,2.02
 2012,percentage,,mecklenburg western pomerania,code13,,2.07
-2013,percentage,,mecklenburg western pomerania,code13,,1.78
+2013,percentage,,mecklenburg western pomerania,code13,,1.79
 2014,percentage,,mecklenburg western pomerania,code13,,1.83
-2015,percentage,,mecklenburg western pomerania,code13,,1.84
+2015,percentage,r,mecklenburg western pomerania,code13,,1.85
 2016,percentage,,mecklenburg western pomerania,code13,,1.82
 2017,percentage,,mecklenburg western pomerania,code13,,1.74
 2018,percentage,,mecklenburg western pomerania,code13,,1.79
 2019,percentage,,mecklenburg western pomerania,code13,,1.75
 2020,percentage,,mecklenburg western pomerania,code13,,1.78
 2021,percentage,,mecklenburg western pomerania,code13,,1.76
-2022,percentage,,mecklenburg western pomerania,code13,,1.69
+2022,percentage,r,mecklenburg western pomerania,code13,,1.67
 2023,percentage,,mecklenburg western pomerania,code13,,1.37
 2024,percentage,,mecklenburg western pomerania,code13,,1.38
 2025,percentage,…,mecklenburg western pomerania,code13,,
@@ -333,20 +333,20 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,sector,Value
 2007,percentage,,lower saxony,code03,,2.35
 2008,percentage,,lower saxony,code03,,2.49
 2009,percentage,,lower saxony,code03,,2.56
-2010,percentage,,lower saxony,code03,,2.49
-2011,percentage,,lower saxony,code03,,2.66
-2012,percentage,,lower saxony,code03,,2.71
+2010,percentage,,lower saxony,code03,,2.48
+2011,percentage,,lower saxony,code03,,2.65
+2012,percentage,,lower saxony,code03,,2.7
 2013,percentage,,lower saxony,code03,,2.78
-2014,percentage,,lower saxony,code03,,2.8
-2015,percentage,,lower saxony,code03,,3.34
-2016,percentage,,lower saxony,code03,,3.21
+2014,percentage,r,lower saxony,code03,,2.79
+2015,percentage,r,lower saxony,code03,,3.33
+2016,percentage,r,lower saxony,code03,,3.2
 2017,percentage,,lower saxony,code03,,3.05
-2018,percentage,,lower saxony,code03,,3.07
+2018,percentage,r,lower saxony,code03,,3.06
 2019,percentage,,lower saxony,code03,,3.06
 2020,percentage,,lower saxony,code03,,3.01
-2021,percentage,,lower saxony,code03,,2.68
-2022,percentage,,lower saxony,code03,,2.66
-2023,percentage,,lower saxony,code03,,2.74
+2021,percentage,r,lower saxony,code03,,2.67
+2022,percentage,r,lower saxony,code03,,2.63
+2023,percentage,r,lower saxony,code03,,2.73
 2024,percentage,,lower saxony,code03,,2.67
 2025,percentage,…,lower saxony,code03,,
 1991,percentage,,north rhine-westphalia,code05,,
@@ -375,13 +375,13 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,sector,Value
 2014,percentage,,north rhine-westphalia,code05,,1.99
 2015,percentage,,north rhine-westphalia,code05,,1.95
 2016,percentage,,north rhine-westphalia,code05,,1.99
-2017,percentage,,north rhine-westphalia,code05,,2.07
+2017,percentage,r,north rhine-westphalia,code05,,2.06
 2018,percentage,,north rhine-westphalia,code05,,2.12
 2019,percentage,,north rhine-westphalia,code05,,2.12
 2020,percentage,,north rhine-westphalia,code05,,2.12
-2021,percentage,,north rhine-westphalia,code05,,2.17
-2022,percentage,,north rhine-westphalia,code05,,2.18
-2023,percentage,,north rhine-westphalia,code05,,2.28
+2021,percentage,r,north rhine-westphalia,code05,,2.16
+2022,percentage,r,north rhine-westphalia,code05,,2.17
+2023,percentage,r,north rhine-westphalia,code05,,2.26
 2024,percentage,,north rhine-westphalia,code05,,2.26
 2025,percentage,…,north rhine-westphalia,code05,,
 1991,percentage,,rhineland palatinate,code07,,
@@ -403,20 +403,20 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,sector,Value
 2007,percentage,,rhineland palatinate,code07,,1.77
 2008,percentage,,rhineland palatinate,code07,,1.87
 2009,percentage,,rhineland palatinate,code07,,1.98
-2010,percentage,,rhineland palatinate,code07,,1.99
-2011,percentage,,rhineland palatinate,code07,,1.98
-2012,percentage,,rhineland palatinate,code07,,2.0
-2013,percentage,,rhineland palatinate,code07,,2.11
+2010,percentage,r,rhineland palatinate,code07,,2.01
+2011,percentage,r,rhineland palatinate,code07,,2.0
+2012,percentage,r,rhineland palatinate,code07,,2.01
+2013,percentage,r,rhineland palatinate,code07,,2.12
 2014,percentage,,rhineland palatinate,code07,,2.11
 2015,percentage,,rhineland palatinate,code07,,2.35
 2016,percentage,,rhineland palatinate,code07,,2.42
-2017,percentage,,rhineland palatinate,code07,,2.44
-2018,percentage,,rhineland palatinate,code07,,2.52
-2019,percentage,,rhineland palatinate,code07,,2.55
-2020,percentage,,rhineland palatinate,code07,,2.48
-2021,percentage,,rhineland palatinate,code07,,2.69
+2017,percentage,r,rhineland palatinate,code07,,2.46
+2018,percentage,r,rhineland palatinate,code07,,2.54
+2019,percentage,r,rhineland palatinate,code07,,2.56
+2020,percentage,r,rhineland palatinate,code07,,2.49
+2021,percentage,r,rhineland palatinate,code07,,2.7
 2022,percentage,,rhineland palatinate,code07,,2.73
-2023,percentage,,rhineland palatinate,code07,,3.56
+2023,percentage,r,rhineland palatinate,code07,,3.64
 2024,percentage,,rhineland palatinate,code07,,3.68
 2025,percentage,…,rhineland palatinate,code07,,
 1991,percentage,,saarland,code10,,
@@ -442,16 +442,16 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,sector,Value
 2011,percentage,,saarland,code10,,1.45
 2012,percentage,,saarland,code10,,1.44
 2013,percentage,,saarland,code10,,1.43
-2014,percentage,,saarland,code10,,1.39
+2014,percentage,,saarland,code10,,1.4
 2015,percentage,,saarland,code10,,1.54
 2016,percentage,,saarland,code10,,1.52
 2017,percentage,,saarland,code10,,1.7
-2018,percentage,,saarland,code10,,1.7
+2018,percentage,r,saarland,code10,,1.69
 2019,percentage,,saarland,code10,,1.82
 2020,percentage,,saarland,code10,,1.86
-2021,percentage,,saarland,code10,,1.91
-2022,percentage,,saarland,code10,,1.82
-2023,percentage,,saarland,code10,,1.64
+2021,percentage,,saarland,code10,,1.9
+2022,percentage,r,saarland,code10,,1.85
+2023,percentage,r,saarland,code10,,1.61
 2024,percentage,,saarland,code10,,1.73
 2025,percentage,…,saarland,code10,,
 1991,percentage,,saxony,code14,,
@@ -475,18 +475,18 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,sector,Value
 2009,percentage,,saxony,code14,,2.68
 2010,percentage,,saxony,code14,,2.73
 2011,percentage,,saxony,code14,,2.76
-2012,percentage,,saxony,code14,,2.75
-2013,percentage,,saxony,code14,,2.71
+2012,percentage,,saxony,code14,,2.76
+2013,percentage,,saxony,code14,,2.72
 2014,percentage,,saxony,code14,,2.61
-2015,percentage,,saxony,code14,,2.68
-2016,percentage,,saxony,code14,,2.68
+2015,percentage,,saxony,code14,,2.69
+2016,percentage,,saxony,code14,,2.69
 2017,percentage,,saxony,code14,,2.74
 2018,percentage,,saxony,code14,,2.82
-2019,percentage,,saxony,code14,,2.91
+2019,percentage,,saxony,code14,,2.92
 2020,percentage,,saxony,code14,,2.98
-2021,percentage,,saxony,code14,,3.06
-2022,percentage,,saxony,code14,,3.0
-2023,percentage,,saxony,code14,,2.26
+2021,percentage,,saxony,code14,,3.07
+2022,percentage,r,saxony,code14,,2.97
+2023,percentage,r,saxony,code14,,2.25
 2024,percentage,,saxony,code14,,2.37
 2025,percentage,…,saxony,code14,,
 1991,percentage,,saxony-anhalt,code15,,
@@ -509,19 +509,19 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,sector,Value
 2008,percentage,,saxony-anhalt,code15,,1.19
 2009,percentage,,saxony-anhalt,code15,,1.36
 2010,percentage,,saxony-anhalt,code15,,1.39
-2011,percentage,,saxony-anhalt,code15,,1.45
-2012,percentage,,saxony-anhalt,code15,,1.37
+2011,percentage,,saxony-anhalt,code15,,1.46
+2012,percentage,,saxony-anhalt,code15,,1.38
 2013,percentage,,saxony-anhalt,code15,,1.4
 2014,percentage,,saxony-anhalt,code15,,1.44
-2015,percentage,,saxony-anhalt,code15,,1.4
+2015,percentage,,saxony-anhalt,code15,,1.41
 2016,percentage,,saxony-anhalt,code15,,1.45
 2017,percentage,,saxony-anhalt,code15,,1.5
 2018,percentage,,saxony-anhalt,code15,,1.57
-2019,percentage,,saxony-anhalt,code15,,1.52
+2019,percentage,,saxony-anhalt,code15,,1.51
 2020,percentage,,saxony-anhalt,code15,,1.55
 2021,percentage,,saxony-anhalt,code15,,1.6
-2022,percentage,,saxony-anhalt,code15,,1.59
-2023,percentage,,saxony-anhalt,code15,,1.44
+2022,percentage,,saxony-anhalt,code15,,1.58
+2023,percentage,r,saxony-anhalt,code15,,1.45
 2024,percentage,,saxony-anhalt,code15,,1.46
 2025,percentage,…,saxony-anhalt,code15,,
 1991,percentage,,schleswig-holstein,code01,,
@@ -543,7 +543,7 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,sector,Value
 2007,percentage,,schleswig-holstein,code01,,1.18
 2008,percentage,,schleswig-holstein,code01,,1.22
 2009,percentage,,schleswig-holstein,code01,,1.28
-2010,percentage,,schleswig-holstein,code01,,1.3
+2010,percentage,,schleswig-holstein,code01,,1.31
 2011,percentage,,schleswig-holstein,code01,,1.41
 2012,percentage,,schleswig-holstein,code01,,1.44
 2013,percentage,,schleswig-holstein,code01,,1.49
@@ -554,8 +554,8 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,sector,Value
 2018,percentage,,schleswig-holstein,code01,,1.62
 2019,percentage,,schleswig-holstein,code01,,1.65
 2020,percentage,,schleswig-holstein,code01,,1.6
-2021,percentage,,schleswig-holstein,code01,,1.66
-2022,percentage,,schleswig-holstein,code01,,1.63
+2021,percentage,r,schleswig-holstein,code01,,1.65
+2022,percentage,r,schleswig-holstein,code01,,1.61
 2023,percentage,,schleswig-holstein,code01,,1.53
 2024,percentage,,schleswig-holstein,code01,,1.53
 2025,percentage,…,schleswig-holstein,code01,,
@@ -579,9 +579,9 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,sector,Value
 2008,percentage,,thuringia,code16,,2.0
 2009,percentage,,thuringia,code16,,2.14
 2010,percentage,,thuringia,code16,,2.13
-2011,percentage,,thuringia,code16,,2.09
+2011,percentage,,thuringia,code16,,2.1
 2012,percentage,,thuringia,code16,,2.16
-2013,percentage,,thuringia,code16,,2.13
+2013,percentage,,thuringia,code16,,2.14
 2014,percentage,,thuringia,code16,,2.1
 2015,percentage,,thuringia,code16,,2.03
 2016,percentage,,thuringia,code16,,2.04
@@ -589,8 +589,8 @@ Year,Units,COMMENT_OBS_0,länder,GeoCode,sector,Value
 2018,percentage,,thuringia,code16,,2.25
 2019,percentage,,thuringia,code16,,2.29
 2020,percentage,,thuringia,code16,,2.39
-2021,percentage,,thuringia,code16,,2.72
-2022,percentage,,thuringia,code16,,2.74
+2021,percentage,r,thuringia,code16,,2.73
+2022,percentage,r,thuringia,code16,,2.72
 2023,percentage,,thuringia,code16,,2.6
 2024,percentage,,thuringia,code16,,2.58
 2025,percentage,…,thuringia,code16,,
