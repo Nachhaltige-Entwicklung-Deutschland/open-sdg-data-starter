@@ -6,6 +6,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,,,,,14.1
 2017,Percentage,,,,,,14.789
 2021,Percentage,,,,,,15.402
+2025,Percentage,p,,,,,16.698
 2000,Percentage,.,,,,,
 2001,Percentage,.,,,,,
 2002,Percentage,.,,,,,
@@ -22,6 +23,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,,,,
 2019,Percentage,.,,,,,
 2020,Percentage,.,,,,,
+2022,Percentage,.,,,,,
+2023,Percentage,.,,,,,
+2024,Percentage,.,,,,,
 1999,Percentage,,Female,,,,10.2
 2003,Percentage,,Female,,,,11.2
 2005,Percentage,,Female,,,,11.8
@@ -29,6 +33,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Female,,,,12.8
 2017,Percentage,,Female,,,,13.047
 2021,Percentage,,Female,,,,13.266
+2025,Percentage,p,Female,,,,14.616
 2000,Percentage,.,Female,,,,
 2001,Percentage,.,Female,,,,
 2002,Percentage,.,Female,,,,
@@ -45,13 +50,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,,,,
 2019,Percentage,.,Female,,,,
 2020,Percentage,.,Female,,,,
+2022,Percentage,.,Female,,,,
+2023,Percentage,.,Female,,,,
+2024,Percentage,.,Female,,,,
 1999,Percentage,,Male,,,,11.1
 2003,Percentage,,Male,,,,12.3
 2005,Percentage,,Male,,,,13.0
 2009,Percentage,,Male,,,,14.2
 2013,Percentage,,Male,,,,15.4
 2017,Percentage,,Male,,,,16.416
-2021,Percentage,,Male,,,,17.298
+2021,Percentage,,Male,,,,17.341
+2025,Percentage,p,Male,,,,18.594
 2000,Percentage,.,Male,,,,
 2001,Percentage,.,Male,,,,
 2002,Percentage,.,Male,,,,
@@ -68,13 +77,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,,,,
 2019,Percentage,.,Male,,,,
 2020,Percentage,.,Male,,,,
+2022,Percentage,.,Male,,,,
+2023,Percentage,.,Male,,,,
+2024,Percentage,.,Male,,,,
 1999,Percentage,,,Baden-Wuerttemberg,code08,,9.78
 2003,Percentage,,,Baden-Wuerttemberg,code08,,10.913
 2005,Percentage,,,Baden-Wuerttemberg,code08,,11.371
 2009,Percentage,,,Baden-Wuerttemberg,code08,,12.259
 2013,Percentage,,,Baden-Wuerttemberg,code08,,12.923
 2017,Percentage,,,Baden-Wuerttemberg,code08,,13.774
-2021,Percentage,,,Baden-Wuerttemberg,code08,,14.034
+2021,Percentage,,,Baden-Wuerttemberg,code08,,14.002
+2025,Percentage,p,,Baden-Wuerttemberg,code08,,15.063
 2000,Percentage,.,,Baden-Wuerttemberg,code08,,
 2001,Percentage,.,,Baden-Wuerttemberg,code08,,
 2002,Percentage,.,,Baden-Wuerttemberg,code08,,
@@ -91,13 +104,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,Baden-Wuerttemberg,code08,,
 2019,Percentage,.,,Baden-Wuerttemberg,code08,,
 2020,Percentage,.,,Baden-Wuerttemberg,code08,,
+2022,Percentage,.,,Baden-Wuerttemberg,code08,,
+2023,Percentage,.,,Baden-Wuerttemberg,code08,,
+2024,Percentage,.,,Baden-Wuerttemberg,code08,,
 1999,Percentage,,,Bavaria,code09,,10.73
 2003,Percentage,,,Bavaria,code09,,11.668
 2005,Percentage,,,Bavaria,code09,,11.83
 2009,Percentage,,,Bavaria,code09,,12.784
 2013,Percentage,,,Bavaria,code09,,13.255
 2017,Percentage,,,Bavaria,code09,,13.728
-2021,Percentage,,,Bavaria,code09,,13.911
+2021,Percentage,,,Bavaria,code09,,13.995
+2025,Percentage,p,,Bavaria,code09,,14.307
 2000,Percentage,.,,Bavaria,code09,,
 2001,Percentage,.,,Bavaria,code09,,
 2002,Percentage,.,,Bavaria,code09,,
@@ -114,13 +131,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,Bavaria,code09,,
 2019,Percentage,.,,Bavaria,code09,,
 2020,Percentage,.,,Bavaria,code09,,
+2022,Percentage,.,,Bavaria,code09,,
+2023,Percentage,.,,Bavaria,code09,,
+2024,Percentage,.,,Bavaria,code09,,
 1999,Percentage,,,Berlin,code11,,9.206
 2003,Percentage,,,Berlin,code11,,10.185
 2005,Percentage,,,Berlin,code11,,11.228
 2009,Percentage,,,Berlin,code11,,11.187
 2013,Percentage,,,Berlin,code11,,11.727
 2017,Percentage,,,Berlin,code11,,11.913
-2021,Percentage,,,Berlin,code11,,13.114
+2021,Percentage,,,Berlin,code11,,12.897
+2025,Percentage,p,,Berlin,code11,,13.586
 2000,Percentage,.,,Berlin,code11,,
 2001,Percentage,.,,Berlin,code11,,
 2002,Percentage,.,,Berlin,code11,,
@@ -137,13 +158,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,Berlin,code11,,
 2019,Percentage,.,,Berlin,code11,,
 2020,Percentage,.,,Berlin,code11,,
+2022,Percentage,.,,Berlin,code11,,
+2023,Percentage,.,,Berlin,code11,,
+2024,Percentage,.,,Berlin,code11,,
 1999,Percentage,,,Brandenburg,code12,,13.054
 2003,Percentage,,,Brandenburg,code12,,13.122
 2005,Percentage,,,Brandenburg,code12,,13.811
 2009,Percentage,,,Brandenburg,code12,,14.843
 2013,Percentage,,,Brandenburg,code12,,14.925
 2017,Percentage,,,Brandenburg,code12,,15.47
-2021,Percentage,,,Brandenburg,code12,,16.36
+2021,Percentage,,,Brandenburg,code12,,16.094
+2025,Percentage,p,,Brandenburg,code12,,18.478
 2000,Percentage,.,,Brandenburg,code12,,
 2001,Percentage,.,,Brandenburg,code12,,
 2002,Percentage,.,,Brandenburg,code12,,
@@ -160,13 +185,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,Brandenburg,code12,,
 2019,Percentage,.,,Brandenburg,code12,,
 2020,Percentage,.,,Brandenburg,code12,,
+2022,Percentage,.,,Brandenburg,code12,,
+2023,Percentage,.,,Brandenburg,code12,,
+2024,Percentage,.,,Brandenburg,code12,,
 1999,Percentage,,,Bremen,code04,,8.863
 2003,Percentage,,,Bremen,code04,,10.82
 2005,Percentage,,,Bremen,code04,,10.152
 2009,Percentage,,,Bremen,code04,,11.745
 2013,Percentage,,,Bremen,code04,,13.546
 2017,Percentage,,,Bremen,code04,,16.937
-2021,Percentage,,,Bremen,code04,,16.966
+2021,Percentage,,,Bremen,code04,,16.504
+2025,Percentage,p,,Bremen,code04,,20.083
 2000,Percentage,.,,Bremen,code04,,
 2001,Percentage,.,,Bremen,code04,,
 2002,Percentage,.,,Bremen,code04,,
@@ -183,13 +212,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,Bremen,code04,,
 2019,Percentage,.,,Bremen,code04,,
 2020,Percentage,.,,Bremen,code04,,
+2022,Percentage,.,,Bremen,code04,,
+2023,Percentage,.,,Bremen,code04,,
+2024,Percentage,.,,Bremen,code04,,
 1999,Percentage,,,Hamburg,code02,,8.318
 2003,Percentage,,,Hamburg,code02,,9.04
 2005,Percentage,,,Hamburg,code02,,9.702
 2009,Percentage,,,Hamburg,code02,,9.909
 2013,Percentage,,,Hamburg,code02,,10.515
 2017,Percentage,,,Hamburg,code02,,11.483
-2021,Percentage,,,Hamburg,code02,,11.936
+2021,Percentage,,,Hamburg,code02,,12.006
+2025,Percentage,p,,Hamburg,code02,,11.571
 2000,Percentage,.,,Hamburg,code02,,
 2001,Percentage,.,,Hamburg,code02,,
 2002,Percentage,.,,Hamburg,code02,,
@@ -206,13 +239,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,Hamburg,code02,,
 2019,Percentage,.,,Hamburg,code02,,
 2020,Percentage,.,,Hamburg,code02,,
+2022,Percentage,.,,Hamburg,code02,,
+2023,Percentage,.,,Hamburg,code02,,
+2024,Percentage,.,,Hamburg,code02,,
 1999,Percentage,,,Hesse,code06,,10.812
 2003,Percentage,,,Hesse,code06,,11.599
 2005,Percentage,,,Hesse,code06,,11.943
 2009,Percentage,,,Hesse,code06,,13.288
 2013,Percentage,,,Hesse,code06,,14.233
 2017,Percentage,,,Hesse,code06,,14.898
-2021,Percentage,,,Hesse,code06,,15.654
+2021,Percentage,,,Hesse,code06,,15.698
+2025,Percentage,p,,Hesse,code06,,16.491
 2000,Percentage,.,,Hesse,code06,,
 2001,Percentage,.,,Hesse,code06,,
 2002,Percentage,.,,Hesse,code06,,
@@ -229,13 +266,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,Hesse,code06,,
 2019,Percentage,.,,Hesse,code06,,
 2020,Percentage,.,,Hesse,code06,,
+2022,Percentage,.,,Hesse,code06,,
+2023,Percentage,.,,Hesse,code06,,
+2024,Percentage,.,,Hesse,code06,,
 1999,Percentage,,,Mecklenburg Western Pomerania,code13,,13.848
 2003,Percentage,,,Mecklenburg Western Pomerania,code13,,16.326
 2005,Percentage,,,Mecklenburg Western Pomerania,code13,,17.169
 2009,Percentage,,,Mecklenburg Western Pomerania,code13,,17.262
 2013,Percentage,,,Mecklenburg Western Pomerania,code13,,17.324
 2017,Percentage,,,Mecklenburg Western Pomerania,code13,,18.844
-2021,Percentage,,,Mecklenburg Western Pomerania,code13,,19.044
+2021,Percentage,,,Mecklenburg Western Pomerania,code13,,19.396
+2025,Percentage,p,,Mecklenburg Western Pomerania,code13,,20.473
 2000,Percentage,.,,Mecklenburg Western Pomerania,code13,,
 2001,Percentage,.,,Mecklenburg Western Pomerania,code13,,
 2002,Percentage,.,,Mecklenburg Western Pomerania,code13,,
@@ -252,13 +293,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,Mecklenburg Western Pomerania,code13,,
 2019,Percentage,.,,Mecklenburg Western Pomerania,code13,,
 2020,Percentage,.,,Mecklenburg Western Pomerania,code13,,
+2022,Percentage,.,,Mecklenburg Western Pomerania,code13,,
+2023,Percentage,.,,Mecklenburg Western Pomerania,code13,,
+2024,Percentage,.,,Mecklenburg Western Pomerania,code13,,
 1999,Percentage,,,Lower Saxony,code03,,9.501
 2003,Percentage,,,Lower Saxony,code03,,10.482
 2005,Percentage,,,Lower Saxony,code03,,11.365
 2009,Percentage,,,Lower Saxony,code03,,12.761
 2013,Percentage,,,Lower Saxony,code03,,14.218
 2017,Percentage,,,Lower Saxony,code03,,15.244
-2021,Percentage,,,Lower Saxony,code03,,17.557
+2021,Percentage,,,Lower Saxony,code03,,17.445
+2025,Percentage,p,,Lower Saxony,code03,,18.672
 2000,Percentage,.,,Lower Saxony,code03,,
 2001,Percentage,.,,Lower Saxony,code03,,
 2002,Percentage,.,,Lower Saxony,code03,,
@@ -275,13 +320,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,Lower Saxony,code03,,
 2019,Percentage,.,,Lower Saxony,code03,,
 2020,Percentage,.,,Lower Saxony,code03,,
+2022,Percentage,.,,Lower Saxony,code03,,
+2023,Percentage,.,,Lower Saxony,code03,,
+2024,Percentage,.,,Lower Saxony,code03,,
 1999,Percentage,,,North Rhine-Westphalia,code05,,10.394
 2003,Percentage,,,North Rhine-Westphalia,code05,,11.622
 2005,Percentage,,,North Rhine-Westphalia,code05,,12.575
 2009,Percentage,,,North Rhine-Westphalia,code05,,13.591
 2013,Percentage,,,North Rhine-Westphalia,code05,,14.865
 2017,Percentage,,,North Rhine-Westphalia,code05,,15.125
-2021,Percentage,,,North Rhine-Westphalia,code05,,16.485
+2021,Percentage,,,North Rhine-Westphalia,code05,,16.56
+2025,Percentage,p,,North Rhine-Westphalia,code05,,18.178
 2000,Percentage,.,,North Rhine-Westphalia,code05,,
 2001,Percentage,.,,North Rhine-Westphalia,code05,,
 2002,Percentage,.,,North Rhine-Westphalia,code05,,
@@ -298,13 +347,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,North Rhine-Westphalia,code05,,
 2019,Percentage,.,,North Rhine-Westphalia,code05,,
 2020,Percentage,.,,North Rhine-Westphalia,code05,,
+2022,Percentage,.,,North Rhine-Westphalia,code05,,
+2023,Percentage,.,,North Rhine-Westphalia,code05,,
+2024,Percentage,.,,North Rhine-Westphalia,code05,,
 1999,Percentage,,,Rhineland Palatinate,code07,,11.101
 2003,Percentage,,,Rhineland Palatinate,code07,,12.228
 2005,Percentage,,,Rhineland Palatinate,code07,,13.218
 2009,Percentage,,,Rhineland Palatinate,code07,,14.015
 2013,Percentage,,,Rhineland Palatinate,code07,,15.185
 2017,Percentage,,,Rhineland Palatinate,code07,,16.103
-2021,Percentage,,,Rhineland Palatinate,code07,,16.857
+2021,Percentage,,,Rhineland Palatinate,code07,,17.097
+2025,Percentage,p,,Rhineland Palatinate,code07,,17.979
 2000,Percentage,.,,Rhineland Palatinate,code07,,
 2001,Percentage,.,,Rhineland Palatinate,code07,,
 2002,Percentage,.,,Rhineland Palatinate,code07,,
@@ -321,13 +374,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,Rhineland Palatinate,code07,,
 2019,Percentage,.,,Rhineland Palatinate,code07,,
 2020,Percentage,.,,Rhineland Palatinate,code07,,
+2022,Percentage,.,,Rhineland Palatinate,code07,,
+2023,Percentage,.,,Rhineland Palatinate,code07,,
+2024,Percentage,.,,Rhineland Palatinate,code07,,
 1999,Percentage,,,Saarland,code10,,9.576
 2003,Percentage,,,Saarland,code10,,10.306
 2005,Percentage,,,Saarland,code10,,13.111
 2009,Percentage,,,Saarland,code10,,14.111
 2013,Percentage,,,Saarland,code10,,14.133
 2017,Percentage,,,Saarland,code10,,14.688
-2021,Percentage,,,Saarland,code10,,16.877
+2021,Percentage,,,Saarland,code10,,17.123
+2025,Percentage,p,,Saarland,code10,,19.325
 2000,Percentage,.,,Saarland,code10,,
 2001,Percentage,.,,Saarland,code10,,
 2002,Percentage,.,,Saarland,code10,,
@@ -344,13 +401,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,Saarland,code10,,
 2019,Percentage,.,,Saarland,code10,,
 2020,Percentage,.,,Saarland,code10,,
+2022,Percentage,.,,Saarland,code10,,
+2023,Percentage,.,,Saarland,code10,,
+2024,Percentage,.,,Saarland,code10,,
 1999,Percentage,,,Saxony,code14,,11.838
 2003,Percentage,,,Saxony,code14,,13.373
 2005,Percentage,,,Saxony,code14,,13.693
 2009,Percentage,,,Saxony,code14,,13.958
 2013,Percentage,,,Saxony,code14,,14.286
 2017,Percentage,,,Saxony,code14,,15.453
-2021,Percentage,,,Saxony,code14,,14.805
+2021,Percentage,,,Saxony,code14,,14.851
+2025,Percentage,p,,Saxony,code14,,16.971
 2000,Percentage,.,,Saxony,code14,,
 2001,Percentage,.,,Saxony,code14,,
 2002,Percentage,.,,Saxony,code14,,
@@ -367,13 +428,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,Saxony,code14,,
 2019,Percentage,.,,Saxony,code14,,
 2020,Percentage,.,,Saxony,code14,,
+2022,Percentage,.,,Saxony,code14,,
+2023,Percentage,.,,Saxony,code14,,
+2024,Percentage,.,,Saxony,code14,,
 1999,Percentage,,,Saxony-Anhalt,code15,,13.139
 2003,Percentage,,,Saxony-Anhalt,code15,,15.012
 2005,Percentage,,,Saxony-Anhalt,code15,,15.935
 2009,Percentage,,,Saxony-Anhalt,code15,,16.266
 2013,Percentage,,,Saxony-Anhalt,code15,,17.149
 2017,Percentage,,,Saxony-Anhalt,code15,,17.6
-2021,Percentage,,,Saxony-Anhalt,code15,,16.545
+2021,Percentage,,,Saxony-Anhalt,code15,,16.359
+2025,Percentage,p,,Saxony-Anhalt,code15,,19.139
 2000,Percentage,.,,Saxony-Anhalt,code15,,
 2001,Percentage,.,,Saxony-Anhalt,code15,,
 2002,Percentage,.,,Saxony-Anhalt,code15,,
@@ -390,13 +455,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,Saxony-Anhalt,code15,,
 2019,Percentage,.,,Saxony-Anhalt,code15,,
 2020,Percentage,.,,Saxony-Anhalt,code15,,
+2022,Percentage,.,,Saxony-Anhalt,code15,,
+2023,Percentage,.,,Saxony-Anhalt,code15,,
+2024,Percentage,.,,Saxony-Anhalt,code15,,
 1999,Percentage,,,Schleswig-Holstein,code01,,9.248
 2003,Percentage,,,Schleswig-Holstein,code01,,10.295
 2005,Percentage,,,Schleswig-Holstein,code01,,11.306
 2009,Percentage,,,Schleswig-Holstein,code01,,12.144
 2013,Percentage,,,Schleswig-Holstein,code01,,13.323
 2017,Percentage,,,Schleswig-Holstein,code01,,14.359
-2021,Percentage,,,Schleswig-Holstein,code01,,16.693
+2021,Percentage,,,Schleswig-Holstein,code01,,16.735
+2025,Percentage,p,,Schleswig-Holstein,code01,,18.594
 2000,Percentage,.,,Schleswig-Holstein,code01,,
 2001,Percentage,.,,Schleswig-Holstein,code01,,
 2002,Percentage,.,,Schleswig-Holstein,code01,,
@@ -413,13 +482,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,Schleswig-Holstein,code01,,
 2019,Percentage,.,,Schleswig-Holstein,code01,,
 2020,Percentage,.,,Schleswig-Holstein,code01,,
+2022,Percentage,.,,Schleswig-Holstein,code01,,
+2023,Percentage,.,,Schleswig-Holstein,code01,,
+2024,Percentage,.,,Schleswig-Holstein,code01,,
 1999,Percentage,,,Thuringia,code16,,13.768
 2003,Percentage,,,Thuringia,code16,,13.159
 2005,Percentage,,,Thuringia,code16,,14.527
 2009,Percentage,,,Thuringia,code16,,14.922
 2013,Percentage,,,Thuringia,code16,,15.39
 2017,Percentage,,,Thuringia,code16,,17.726
-2021,Percentage,,,Thuringia,code16,,17.051
+2021,Percentage,,,Thuringia,code16,,17.037
+2025,Percentage,p,,Thuringia,code16,,17.629
 2000,Percentage,.,,Thuringia,code16,,
 2001,Percentage,.,,Thuringia,code16,,
 2002,Percentage,.,,Thuringia,code16,,
@@ -436,6 +509,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,Thuringia,code16,,
 2019,Percentage,.,,Thuringia,code16,,
 2020,Percentage,.,,Thuringia,code16,,
+2022,Percentage,.,,Thuringia,code16,,
+2023,Percentage,.,,Thuringia,code16,,
+2024,Percentage,.,,Thuringia,code16,,
 1999,Percentage,,,,,18 to under 20 years,
 2003,Percentage,.,,,,18 to under 20 years,
 2005,Percentage,,,,,18 to under 20 years,
@@ -443,6 +519,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,,,,18 to under 20 years,3.473
 2017,Percentage,,,,,18 to under 20 years,4.241
 2021,Percentage,,,,,18 to under 20 years,5.504
+2025,Percentage,p,,,,18 to under 20 years,5.919
 2000,Percentage,.,,,,18 to under 20 years,
 2001,Percentage,.,,,,18 to under 20 years,
 2002,Percentage,.,,,,18 to under 20 years,
@@ -459,6 +536,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,,,18 to under 20 years,
 2019,Percentage,.,,,,18 to under 20 years,
 2020,Percentage,.,,,,18 to under 20 years,
+2022,Percentage,.,,,,18 to under 20 years,
+2023,Percentage,.,,,,18 to under 20 years,
+2024,Percentage,.,,,,18 to under 20 years,
 1999,Percentage,,,,,20 to under 25 years,
 2003,Percentage,.,,,,20 to under 25 years,
 2005,Percentage,,,,,20 to under 25 years,
@@ -466,6 +546,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,,,,20 to under 25 years,5.597
 2017,Percentage,,,,,20 to under 25 years,6.013
 2021,Percentage,,,,,20 to under 25 years,6.35
+2025,Percentage,p,,,,20 to under 25 years,8.48
 2000,Percentage,.,,,,20 to under 25 years,
 2001,Percentage,.,,,,20 to under 25 years,
 2002,Percentage,.,,,,20 to under 25 years,
@@ -482,6 +563,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,,,20 to under 25 years,
 2019,Percentage,.,,,,20 to under 25 years,
 2020,Percentage,.,,,,20 to under 25 years,
+2022,Percentage,.,,,,20 to under 25 years,
+2023,Percentage,.,,,,20 to under 25 years,
+2024,Percentage,.,,,,20 to under 25 years,
 1999,Percentage,,,,,25 to under 30 years,
 2003,Percentage,.,,,,25 to under 30 years,
 2005,Percentage,,,,,25 to under 30 years,
@@ -489,6 +573,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,,,,25 to under 30 years,8.023
 2017,Percentage,,,,,25 to under 30 years,9.416
 2021,Percentage,,,,,25 to under 30 years,10.863
+2025,Percentage,p,,,,25 to under 30 years,11.885
 2000,Percentage,.,,,,25 to under 30 years,
 2001,Percentage,.,,,,25 to under 30 years,
 2002,Percentage,.,,,,25 to under 30 years,
@@ -505,6 +590,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,,,25 to under 30 years,
 2019,Percentage,.,,,,25 to under 30 years,
 2020,Percentage,.,,,,25 to under 30 years,
+2022,Percentage,.,,,,25 to under 30 years,
+2023,Percentage,.,,,,25 to under 30 years,
+2024,Percentage,.,,,,25 to under 30 years,
 1999,Percentage,,,,,30 to under 35 years,
 2003,Percentage,.,,,,30 to under 35 years,
 2005,Percentage,,,,,30 to under 35 years,
@@ -512,6 +600,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,,,,30 to under 35 years,10.891
 2017,Percentage,,,,,30 to under 35 years,11.866
 2021,Percentage,,,,,30 to under 35 years,13.96
+2025,Percentage,p,,,,30 to under 35 years,15.321
 2000,Percentage,.,,,,30 to under 35 years,
 2001,Percentage,.,,,,30 to under 35 years,
 2002,Percentage,.,,,,30 to under 35 years,
@@ -528,6 +617,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,,,30 to under 35 years,
 2019,Percentage,.,,,,30 to under 35 years,
 2020,Percentage,.,,,,30 to under 35 years,
+2022,Percentage,.,,,,30 to under 35 years,
+2023,Percentage,.,,,,30 to under 35 years,
+2024,Percentage,.,,,,30 to under 35 years,
 1999,Percentage,,,,,35 to under 40 years,
 2003,Percentage,.,,,,35 to under 40 years,
 2005,Percentage,,,,,35 to under 40 years,
@@ -535,6 +627,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,,,,35 to under 40 years,12.713
 2017,Percentage,,,,,35 to under 40 years,13.308
 2021,Percentage,,,,,35 to under 40 years,14.524
+2025,Percentage,p,,,,35 to under 40 years,16.59
 2000,Percentage,.,,,,35 to under 40 years,
 2001,Percentage,.,,,,35 to under 40 years,
 2002,Percentage,.,,,,35 to under 40 years,
@@ -551,6 +644,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,,,35 to under 40 years,
 2019,Percentage,.,,,,35 to under 40 years,
 2020,Percentage,.,,,,35 to under 40 years,
+2022,Percentage,.,,,,35 to under 40 years,
+2023,Percentage,.,,,,35 to under 40 years,
+2024,Percentage,.,,,,35 to under 40 years,
 1999,Percentage,,,,,40 to under 45 years,
 2003,Percentage,.,,,,40 to under 45 years,
 2005,Percentage,,,,,40 to under 45 years,
@@ -558,6 +654,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,,,,40 to under 45 years,14.255
 2017,Percentage,,,,,40 to under 45 years,15.673
 2021,Percentage,,,,,40 to under 45 years,16.489
+2025,Percentage,p,,,,40 to under 45 years,18.371
 2000,Percentage,.,,,,40 to under 45 years,
 2001,Percentage,.,,,,40 to under 45 years,
 2002,Percentage,.,,,,40 to under 45 years,
@@ -574,6 +671,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,,,40 to under 45 years,
 2019,Percentage,.,,,,40 to under 45 years,
 2020,Percentage,.,,,,40 to under 45 years,
+2022,Percentage,.,,,,40 to under 45 years,
+2023,Percentage,.,,,,40 to under 45 years,
+2024,Percentage,.,,,,40 to under 45 years,
 1999,Percentage,,,,,45 to under 50 years,
 2003,Percentage,.,,,,45 to under 50 years,
 2005,Percentage,,,,,45 to under 50 years,
@@ -581,6 +681,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,,,,45 to under 50 years,15.221
 2017,Percentage,,,,,45 to under 50 years,16.237
 2021,Percentage,,,,,45 to under 50 years,19.794
+2025,Percentage,p,,,,45 to under 50 years,20.422
 2000,Percentage,.,,,,45 to under 50 years,
 2001,Percentage,.,,,,45 to under 50 years,
 2002,Percentage,.,,,,45 to under 50 years,
@@ -597,6 +698,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,,,45 to under 50 years,
 2019,Percentage,.,,,,45 to under 50 years,
 2020,Percentage,.,,,,45 to under 50 years,
+2022,Percentage,.,,,,45 to under 50 years,
+2023,Percentage,.,,,,45 to under 50 years,
+2024,Percentage,.,,,,45 to under 50 years,
 1999,Percentage,,,,,50 to under 55 years,
 2003,Percentage,.,,,,50 to under 55 years,
 2005,Percentage,,,,,50 to under 55 years,
@@ -604,6 +708,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,,,,50 to under 55 years,17.709
 2017,Percentage,,,,,50 to under 55 years,17.994
 2021,Percentage,,,,,50 to under 55 years,18.834
+2025,Percentage,p,,,,50 to under 55 years,20.836
 2000,Percentage,.,,,,50 to under 55 years,
 2001,Percentage,.,,,,50 to under 55 years,
 2002,Percentage,.,,,,50 to under 55 years,
@@ -620,6 +725,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,,,50 to under 55 years,
 2019,Percentage,.,,,,50 to under 55 years,
 2020,Percentage,.,,,,50 to under 55 years,
+2022,Percentage,.,,,,50 to under 55 years,
+2023,Percentage,.,,,,50 to under 55 years,
+2024,Percentage,.,,,,50 to under 55 years,
 1999,Percentage,,,,,55 to under 60 years,
 2003,Percentage,.,,,,55 to under 60 years,
 2005,Percentage,,,,,55 to under 60 years,
@@ -627,6 +735,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,,,,55 to under 60 years,19.977
 2017,Percentage,,,,,55 to under 60 years,19.669
 2021,Percentage,,,,,55 to under 60 years,19.644
+2025,Percentage,p,,,,55 to under 60 years,21.402
 2000,Percentage,.,,,,55 to under 60 years,
 2001,Percentage,.,,,,55 to under 60 years,
 2002,Percentage,.,,,,55 to under 60 years,
@@ -643,6 +752,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,,,55 to under 60 years,
 2019,Percentage,.,,,,55 to under 60 years,
 2020,Percentage,.,,,,55 to under 60 years,
+2022,Percentage,.,,,,55 to under 60 years,
+2023,Percentage,.,,,,55 to under 60 years,
+2024,Percentage,.,,,,55 to under 60 years,
 1999,Percentage,,,,,60 to under 65 years,
 2003,Percentage,,,,,60 to under 65 years,
 2005,Percentage,,,,,60 to under 65 years,
@@ -650,6 +762,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,,,,60 to under 65 years,22.704
 2017,Percentage,,,,,60 to under 65 years,21.982
 2021,Percentage,,,,,60 to under 65 years,21.094
+2025,Percentage,p,,,,60 to under 65 years,21.607
 2000,Percentage,.,,,,60 to under 65 years,
 2001,Percentage,.,,,,60 to under 65 years,
 2002,Percentage,.,,,,60 to under 65 years,
@@ -666,6 +779,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,,,60 to under 65 years,
 2019,Percentage,.,,,,60 to under 65 years,
 2020,Percentage,.,,,,60 to under 65 years,
+2022,Percentage,.,,,,60 to under 65 years,
+2023,Percentage,.,,,,60 to under 65 years,
+2024,Percentage,.,,,,60 to under 65 years,
 1999,Percentage,,,,,65 to under 70 years,
 2003,Percentage,,,,,65 to under 70 years,
 2005,Percentage,.,,,,65 to under 70 years,
@@ -673,6 +789,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,,,,65 to under 70 years,21.943
 2017,Percentage,,,,,65 to under 70 years,23.506
 2021,Percentage,,,,,65 to under 70 years,21.126
+2025,Percentage,p,,,,65 to under 70 years,22.071
 2000,Percentage,.,,,,65 to under 70 years,
 2001,Percentage,.,,,,65 to under 70 years,
 2002,Percentage,.,,,,65 to under 70 years,
@@ -689,6 +806,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,,,65 to under 70 years,
 2019,Percentage,.,,,,65 to under 70 years,
 2020,Percentage,.,,,,65 to under 70 years,
+2022,Percentage,.,,,,65 to under 70 years,
+2023,Percentage,.,,,,65 to under 70 years,
+2024,Percentage,.,,,,65 to under 70 years,
 1999,Percentage,,,,,70 to under 75 years,
 2003,Percentage,,,,,70 to under 75 years,
 2005,Percentage,,,,,70 to under 75 years,
@@ -696,6 +816,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,,,,70 to under 75 years,20.257
 2017,Percentage,,,,,70 to under 75 years,21.164
 2021,Percentage,,,,,70 to under 75 years,21.283
+2025,Percentage,p,,,,70 to under 75 years,21.635
 2000,Percentage,.,,,,70 to under 75 years,
 2001,Percentage,.,,,,70 to under 75 years,
 2002,Percentage,.,,,,70 to under 75 years,
@@ -712,6 +833,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,,,70 to under 75 years,
 2019,Percentage,.,,,,70 to under 75 years,
 2020,Percentage,.,,,,70 to under 75 years,
+2022,Percentage,.,,,,70 to under 75 years,
+2023,Percentage,.,,,,70 to under 75 years,
+2024,Percentage,.,,,,70 to under 75 years,
 1999,Percentage,,,,,75 years and older,
 2003,Percentage,,,,,75 years and older,
 2005,Percentage,,,,,75 years and older,
@@ -719,6 +843,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,,,,75 years and older,17.403
 2017,Percentage,,,,,75 years and older,17.837
 2021,Percentage,,,,,75 years and older,16.281
+2025,Percentage,p,,,,75 years and older,16.057
 2000,Percentage,.,,,,75 years and older,
 2001,Percentage,.,,,,75 years and older,
 2002,Percentage,.,,,,75 years and older,
@@ -735,13 +860,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,,,,75 years and older,
 2019,Percentage,.,,,,75 years and older,
 2020,Percentage,.,,,,75 years and older,
+2022,Percentage,.,,,,75 years and older,
+2023,Percentage,.,,,,75 years and older,
+2024,Percentage,.,,,,75 years and older,
 1999,Percentage,,Female,Baden-Wuerttemberg,code08,,9.252
 2003,Percentage,,Female,Baden-Wuerttemberg,code08,,10.132
 2005,Percentage,,Female,Baden-Wuerttemberg,code08,,11.239
 2009,Percentage,,Female,Baden-Wuerttemberg,code08,,11.295
 2013,Percentage,,Female,Baden-Wuerttemberg,code08,,11.239
 2017,Percentage,,Female,Baden-Wuerttemberg,code08,,12.125
-2021,Percentage,,Female,Baden-Wuerttemberg,code08,,12.086
+2021,Percentage,,Female,Baden-Wuerttemberg,code08,,11.971
+2025,Percentage,p,Female,Baden-Wuerttemberg,code08,,12.767
 2000,Percentage,.,Female,Baden-Wuerttemberg,code08,,
 2001,Percentage,.,Female,Baden-Wuerttemberg,code08,,
 2002,Percentage,.,Female,Baden-Wuerttemberg,code08,,
@@ -758,13 +887,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,Baden-Wuerttemberg,code08,,
 2019,Percentage,.,Female,Baden-Wuerttemberg,code08,,
 2020,Percentage,.,Female,Baden-Wuerttemberg,code08,,
+2022,Percentage,.,Female,Baden-Wuerttemberg,code08,,
+2023,Percentage,.,Female,Baden-Wuerttemberg,code08,,
+2024,Percentage,.,Female,Baden-Wuerttemberg,code08,,
 1999,Percentage,,Female,Bavaria,code09,,10.003
 2003,Percentage,,Female,Bavaria,code09,,11.115
 2005,Percentage,,Female,Bavaria,code09,,11.377
 2009,Percentage,,Female,Bavaria,code09,,11.571
 2013,Percentage,,Female,Bavaria,code09,,11.377
 2017,Percentage,,Female,Bavaria,code09,,11.588
-2021,Percentage,,Female,Bavaria,code09,,11.999
+2021,Percentage,,Female,Bavaria,code09,,12.206
+2025,Percentage,p,Female,Bavaria,code09,,11.641
 2000,Percentage,.,Female,Bavaria,code09,,
 2001,Percentage,.,Female,Bavaria,code09,,
 2002,Percentage,.,Female,Bavaria,code09,,
@@ -781,13 +914,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,Bavaria,code09,,
 2019,Percentage,.,Female,Bavaria,code09,,
 2020,Percentage,.,Female,Bavaria,code09,,
+2022,Percentage,.,Female,Bavaria,code09,,
+2023,Percentage,.,Female,Bavaria,code09,,
+2024,Percentage,.,Female,Bavaria,code09,,
 1999,Percentage,,Female,Berlin,code11,,9.524
 2003,Percentage,,Female,Berlin,code11,,10.677
 2005,Percentage,,Female,Berlin,code11,,11.15
 2009,Percentage,,Female,Berlin,code11,,10.861
 2013,Percentage,,Female,Berlin,code11,,11.15
 2017,Percentage,,Female,Berlin,code11,,11.141
-2021,Percentage,,Female,Berlin,code11,,11.992
+2021,Percentage,,Female,Berlin,code11,,11.972
+2025,Percentage,p,Female,Berlin,code11,,11.459
 2000,Percentage,.,Female,Berlin,code11,,
 2001,Percentage,.,Female,Berlin,code11,,
 2002,Percentage,.,Female,Berlin,code11,,
@@ -804,13 +941,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,Berlin,code11,,
 2019,Percentage,.,Female,Berlin,code11,,
 2020,Percentage,.,Female,Berlin,code11,,
+2022,Percentage,.,Female,Berlin,code11,,
+2023,Percentage,.,Female,Berlin,code11,,
+2024,Percentage,.,Female,Berlin,code11,,
 1999,Percentage,,Female,Brandenburg,code12,,13.231
 2003,Percentage,,Female,Brandenburg,code12,,13.704
 2005,Percentage,,Female,Brandenburg,code12,,14.338
 2009,Percentage,,Female,Brandenburg,code12,,14.31
 2013,Percentage,,Female,Brandenburg,code12,,14.338
 2017,Percentage,,Female,Brandenburg,code12,,14.41
-2021,Percentage,,Female,Brandenburg,code12,,13.944
+2021,Percentage,,Female,Brandenburg,code12,,13.773
+2025,Percentage,p,Female,Brandenburg,code12,,15.722
 2000,Percentage,.,Female,Brandenburg,code12,,
 2001,Percentage,.,Female,Brandenburg,code12,,
 2002,Percentage,.,Female,Brandenburg,code12,,
@@ -827,13 +968,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,Brandenburg,code12,,
 2019,Percentage,.,Female,Brandenburg,code12,,
 2020,Percentage,.,Female,Brandenburg,code12,,
+2022,Percentage,.,Female,Brandenburg,code12,,
+2023,Percentage,.,Female,Brandenburg,code12,,
+2024,Percentage,.,Female,Brandenburg,code12,,
 1999,Percentage,,Female,Bremen,code04,,8.639
 2003,Percentage,,Female,Bremen,code04,,10.002
 2005,Percentage,,Female,Bremen,code04,,13.515
 2009,Percentage,,Female,Bremen,code04,,12.355
 2013,Percentage,,Female,Bremen,code04,,13.515
 2017,Percentage,,Female,Bremen,code04,,15.55
-2021,Percentage,,Female,Bremen,code04,,14.697
+2021,Percentage,,Female,Bremen,code04,,13.678
+2025,Percentage,p,Female,Bremen,code04,,18.847
 2000,Percentage,.,Female,Bremen,code04,,
 2001,Percentage,.,Female,Bremen,code04,,
 2002,Percentage,.,Female,Bremen,code04,,
@@ -850,13 +995,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,Bremen,code04,,
 2019,Percentage,.,Female,Bremen,code04,,
 2020,Percentage,.,Female,Bremen,code04,,
+2022,Percentage,.,Female,Bremen,code04,,
+2023,Percentage,.,Female,Bremen,code04,,
+2024,Percentage,.,Female,Bremen,code04,,
 1999,Percentage,,Female,Hamburg,code02,,8.402
 2003,Percentage,,Female,Hamburg,code02,,8.45
 2005,Percentage,,Female,Hamburg,code02,,9.458
 2009,Percentage,,Female,Hamburg,code02,,9.378
 2013,Percentage,,Female,Hamburg,code02,,9.458
 2017,Percentage,,Female,Hamburg,code02,,10.146
-2021,Percentage,,Female,Hamburg,code02,,11.2
+2021,Percentage,,Female,Hamburg,code02,,10.867
+2025,Percentage,p,Female,Hamburg,code02,,10.918
 2000,Percentage,.,Female,Hamburg,code02,,
 2001,Percentage,.,Female,Hamburg,code02,,
 2002,Percentage,.,Female,Hamburg,code02,,
@@ -873,13 +1022,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,Hamburg,code02,,
 2019,Percentage,.,Female,Hamburg,code02,,
 2020,Percentage,.,Female,Hamburg,code02,,
+2022,Percentage,.,Female,Hamburg,code02,,
+2023,Percentage,.,Female,Hamburg,code02,,
+2024,Percentage,.,Female,Hamburg,code02,,
 1999,Percentage,,Female,Hesse,code06,,10.319
 2003,Percentage,,Female,Hesse,code06,,10.832
 2005,Percentage,,Female,Hesse,code06,,12.744
 2009,Percentage,,Female,Hesse,code06,,12.118
 2013,Percentage,,Female,Hesse,code06,,12.744
 2017,Percentage,,Female,Hesse,code06,,12.853
-2021,Percentage,,Female,Hesse,code06,,12.957
+2021,Percentage,,Female,Hesse,code06,,13.011
+2025,Percentage,p,Female,Hesse,code06,,14.079
 2000,Percentage,.,Female,Hesse,code06,,
 2001,Percentage,.,Female,Hesse,code06,,
 2002,Percentage,.,Female,Hesse,code06,,
@@ -896,13 +1049,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,Hesse,code06,,
 2019,Percentage,.,Female,Hesse,code06,,
 2020,Percentage,.,Female,Hesse,code06,,
+2022,Percentage,.,Female,Hesse,code06,,
+2023,Percentage,.,Female,Hesse,code06,,
+2024,Percentage,.,Female,Hesse,code06,,
 1999,Percentage,,Female,Mecklenburg Western Pomerania,code13,,13.913
 2003,Percentage,,Female,Mecklenburg Western Pomerania,code13,,16.037
 2005,Percentage,,Female,Mecklenburg Western Pomerania,code13,,16.546
 2009,Percentage,,Female,Mecklenburg Western Pomerania,code13,,17.299
 2013,Percentage,,Female,Mecklenburg Western Pomerania,code13,,16.546
 2017,Percentage,,Female,Mecklenburg Western Pomerania,code13,,16.691
-2021,Percentage,,Female,Mecklenburg Western Pomerania,code13,,18.895
+2021,Percentage,,Female,Mecklenburg Western Pomerania,code13,,18.721
+2025,Percentage,p,Female,Mecklenburg Western Pomerania,code13,,18.882
 2000,Percentage,.,Female,Mecklenburg Western Pomerania,code13,,
 2001,Percentage,.,Female,Mecklenburg Western Pomerania,code13,,
 2002,Percentage,.,Female,Mecklenburg Western Pomerania,code13,,
@@ -919,13 +1076,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,Mecklenburg Western Pomerania,code13,,
 2019,Percentage,.,Female,Mecklenburg Western Pomerania,code13,,
 2020,Percentage,.,Female,Mecklenburg Western Pomerania,code13,,
+2022,Percentage,.,Female,Mecklenburg Western Pomerania,code13,,
+2023,Percentage,.,Female,Mecklenburg Western Pomerania,code13,,
+2024,Percentage,.,Female,Mecklenburg Western Pomerania,code13,,
 1999,Percentage,,Female,Lower Saxony,code03,,8.66
 2003,Percentage,,Female,Lower Saxony,code03,,9.614
 2005,Percentage,,Female,Lower Saxony,code03,,13.141
 2009,Percentage,,Female,Lower Saxony,code03,,11.724
 2013,Percentage,,Female,Lower Saxony,code03,,13.141
 2017,Percentage,,Female,Lower Saxony,code03,,13.135
-2021,Percentage,,Female,Lower Saxony,code03,,15.343
+2021,Percentage,,Female,Lower Saxony,code03,,15.209
+2025,Percentage,p,Female,Lower Saxony,code03,,16.424
 2000,Percentage,.,Female,Lower Saxony,code03,,
 2001,Percentage,.,Female,Lower Saxony,code03,,
 2002,Percentage,.,Female,Lower Saxony,code03,,
@@ -942,13 +1103,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,Lower Saxony,code03,,
 2019,Percentage,.,Female,Lower Saxony,code03,,
 2020,Percentage,.,Female,Lower Saxony,code03,,
+2022,Percentage,.,Female,Lower Saxony,code03,,
+2023,Percentage,.,Female,Lower Saxony,code03,,
+2024,Percentage,.,Female,Lower Saxony,code03,,
 1999,Percentage,,Female,North Rhine-Westphalia,code05,,9.788
 2003,Percentage,,Female,North Rhine-Westphalia,code05,,10.578
 2005,Percentage,,Female,North Rhine-Westphalia,code05,,13.28
 2009,Percentage,,Female,North Rhine-Westphalia,code05,,12.406
 2013,Percentage,,Female,North Rhine-Westphalia,code05,,13.28
 2017,Percentage,,Female,North Rhine-Westphalia,code05,,13.278
-2021,Percentage,,Female,North Rhine-Westphalia,code05,,14.238
+2021,Percentage,,Female,North Rhine-Westphalia,code05,,14.224
+2025,Percentage,p,Female,North Rhine-Westphalia,code05,,15.985
 2000,Percentage,.,Female,North Rhine-Westphalia,code05,,
 2001,Percentage,.,Female,North Rhine-Westphalia,code05,,
 2002,Percentage,.,Female,North Rhine-Westphalia,code05,,
@@ -965,13 +1130,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,North Rhine-Westphalia,code05,,
 2019,Percentage,.,Female,North Rhine-Westphalia,code05,,
 2020,Percentage,.,Female,North Rhine-Westphalia,code05,,
+2022,Percentage,.,Female,North Rhine-Westphalia,code05,,
+2023,Percentage,.,Female,North Rhine-Westphalia,code05,,
+2024,Percentage,.,Female,North Rhine-Westphalia,code05,,
 1999,Percentage,,Female,Rhineland Palatinate,code07,,10.477
 2003,Percentage,,Female,Rhineland Palatinate,code07,,11.139
 2005,Percentage,,Female,Rhineland Palatinate,code07,,13.093
 2009,Percentage,,Female,Rhineland Palatinate,code07,,12.623
 2013,Percentage,,Female,Rhineland Palatinate,code07,,13.093
 2017,Percentage,,Female,Rhineland Palatinate,code07,,13.992
-2021,Percentage,,Female,Rhineland Palatinate,code07,,13.665
+2021,Percentage,,Female,Rhineland Palatinate,code07,,13.905
+2025,Percentage,p,Female,Rhineland Palatinate,code07,,16.328
 2000,Percentage,.,Female,Rhineland Palatinate,code07,,
 2001,Percentage,.,Female,Rhineland Palatinate,code07,,
 2002,Percentage,.,Female,Rhineland Palatinate,code07,,
@@ -988,13 +1157,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,Rhineland Palatinate,code07,,
 2019,Percentage,.,Female,Rhineland Palatinate,code07,,
 2020,Percentage,.,Female,Rhineland Palatinate,code07,,
+2022,Percentage,.,Female,Rhineland Palatinate,code07,,
+2023,Percentage,.,Female,Rhineland Palatinate,code07,,
+2024,Percentage,.,Female,Rhineland Palatinate,code07,,
 1999,Percentage,,Female,Saarland,code10,,9.636
 2003,Percentage,,Female,Saarland,code10,,10.149
 2005,Percentage,,Female,Saarland,code10,,11.774
 2009,Percentage,,Female,Saarland,code10,,12.614
 2013,Percentage,,Female,Saarland,code10,,11.774
 2017,Percentage,,Female,Saarland,code10,,10.881
-2021,Percentage,,Female,Saarland,code10,,13.296
+2021,Percentage,,Female,Saarland,code10,,14.386
+2025,Percentage,p,Female,Saarland,code10,,17.503
 2000,Percentage,.,Female,Saarland,code10,,
 2001,Percentage,.,Female,Saarland,code10,,
 2002,Percentage,.,Female,Saarland,code10,,
@@ -1011,13 +1184,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,Saarland,code10,,
 2019,Percentage,.,Female,Saarland,code10,,
 2020,Percentage,.,Female,Saarland,code10,,
+2022,Percentage,.,Female,Saarland,code10,,
+2023,Percentage,.,Female,Saarland,code10,,
+2024,Percentage,.,Female,Saarland,code10,,
 1999,Percentage,,Female,Saxony,code14,,12.192
 2003,Percentage,,Female,Saxony,code14,,13.58
 2005,Percentage,,Female,Saxony,code14,,14.305
 2009,Percentage,,Female,Saxony,code14,,14.506
 2013,Percentage,,Female,Saxony,code14,,14.305
 2017,Percentage,,Female,Saxony,code14,,15.083
-2021,Percentage,,Female,Saxony,code14,,13.935
+2021,Percentage,,Female,Saxony,code14,,13.936
+2025,Percentage,p,Female,Saxony,code14,,15.623
 2000,Percentage,.,Female,Saxony,code14,,
 2001,Percentage,.,Female,Saxony,code14,,
 2002,Percentage,.,Female,Saxony,code14,,
@@ -1034,13 +1211,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,Saxony,code14,,
 2019,Percentage,.,Female,Saxony,code14,,
 2020,Percentage,.,Female,Saxony,code14,,
+2022,Percentage,.,Female,Saxony,code14,,
+2023,Percentage,.,Female,Saxony,code14,,
+2024,Percentage,.,Female,Saxony,code14,,
 1999,Percentage,,Female,Saxony-Anhalt,code15,,12.709
 2003,Percentage,,Female,Saxony-Anhalt,code15,,15.252
 2005,Percentage,,Female,Saxony-Anhalt,code15,,16.793
 2009,Percentage,,Female,Saxony-Anhalt,code15,,16.757
 2013,Percentage,,Female,Saxony-Anhalt,code15,,16.793
 2017,Percentage,,Female,Saxony-Anhalt,code15,,16.32
-2021,Percentage,,Female,Saxony-Anhalt,code15,,15.953
+2021,Percentage,,Female,Saxony-Anhalt,code15,,15.847
+2025,Percentage,p,Female,Saxony-Anhalt,code15,,17.796
 2000,Percentage,.,Female,Saxony-Anhalt,code15,,
 2001,Percentage,.,Female,Saxony-Anhalt,code15,,
 2002,Percentage,.,Female,Saxony-Anhalt,code15,,
@@ -1057,13 +1238,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,Saxony-Anhalt,code15,,
 2019,Percentage,.,Female,Saxony-Anhalt,code15,,
 2020,Percentage,.,Female,Saxony-Anhalt,code15,,
+2022,Percentage,.,Female,Saxony-Anhalt,code15,,
+2023,Percentage,.,Female,Saxony-Anhalt,code15,,
+2024,Percentage,.,Female,Saxony-Anhalt,code15,,
 1999,Percentage,,Female,Schleswig-Holstein,code01,,8.37
 2003,Percentage,,Female,Schleswig-Holstein,code01,,9.496
 2005,Percentage,,Female,Schleswig-Holstein,code01,,11.615
 2009,Percentage,,Female,Schleswig-Holstein,code01,,10.253
 2013,Percentage,,Female,Schleswig-Holstein,code01,,11.615
 2017,Percentage,,Female,Schleswig-Holstein,code01,,11.666
-2021,Percentage,,Female,Schleswig-Holstein,code01,,14.127
+2021,Percentage,,Female,Schleswig-Holstein,code01,,14.403
+2025,Percentage,p,Female,Schleswig-Holstein,code01,,16.845
 2000,Percentage,.,Female,Schleswig-Holstein,code01,,
 2001,Percentage,.,Female,Schleswig-Holstein,code01,,
 2002,Percentage,.,Female,Schleswig-Holstein,code01,,
@@ -1080,13 +1265,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,Schleswig-Holstein,code01,,
 2019,Percentage,.,Female,Schleswig-Holstein,code01,,
 2020,Percentage,.,Female,Schleswig-Holstein,code01,,
+2022,Percentage,.,Female,Schleswig-Holstein,code01,,
+2023,Percentage,.,Female,Schleswig-Holstein,code01,,
+2024,Percentage,.,Female,Schleswig-Holstein,code01,,
 1999,Percentage,,Female,Thuringia,code16,,13.194
 2003,Percentage,,Female,Thuringia,code16,,13.095
 2005,Percentage,,Female,Thuringia,code16,,14.886
 2009,Percentage,,Female,Thuringia,code16,,14.248
 2013,Percentage,,Female,Thuringia,code16,,14.886
 2017,Percentage,,Female,Thuringia,code16,,16.743
-2021,Percentage,,Female,Thuringia,code16,,14.215
+2021,Percentage,,Female,Thuringia,code16,,14.288
+2025,Percentage,p,Female,Thuringia,code16,,16.869
 2000,Percentage,.,Female,Thuringia,code16,,
 2001,Percentage,.,Female,Thuringia,code16,,
 2002,Percentage,.,Female,Thuringia,code16,,
@@ -1103,6 +1292,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,Thuringia,code16,,
 2019,Percentage,.,Female,Thuringia,code16,,
 2020,Percentage,.,Female,Thuringia,code16,,
+2022,Percentage,.,Female,Thuringia,code16,,
+2023,Percentage,.,Female,Thuringia,code16,,
+2024,Percentage,.,Female,Thuringia,code16,,
 1999,Percentage,,Female,,,18 to under 20 years,
 2003,Percentage,.,Female,,,18 to under 20 years,
 2005,Percentage,.,Female,,,18 to under 20 years,
@@ -1110,6 +1302,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Female,,,18 to under 20 years,2.814
 2017,Percentage,,Female,,,18 to under 20 years,3.402
 2021,Percentage,,Female,,,18 to under 20 years,
+2025,Percentage,,Female,,,18 to under 20 years,
 2000,Percentage,.,Female,,,18 to under 20 years,
 2001,Percentage,.,Female,,,18 to under 20 years,
 2002,Percentage,.,Female,,,18 to under 20 years,
@@ -1126,6 +1319,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,,,18 to under 20 years,
 2019,Percentage,.,Female,,,18 to under 20 years,
 2020,Percentage,.,Female,,,18 to under 20 years,
+2022,Percentage,.,Female,,,18 to under 20 years,
+2023,Percentage,.,Female,,,18 to under 20 years,
+2024,Percentage,.,Female,,,18 to under 20 years,
 1999,Percentage,,Female,,,20 to under 25 years,
 2003,Percentage,.,Female,,,20 to under 25 years,
 2005,Percentage,.,Female,,,20 to under 25 years,
@@ -1133,6 +1329,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Female,,,20 to under 25 years,4.952
 2017,Percentage,,Female,,,20 to under 25 years,4.886
 2021,Percentage,,Female,,,20 to under 25 years,5.302
+2025,Percentage,p,Female,,,20 to under 25 years,7.41
 2000,Percentage,.,Female,,,20 to under 25 years,
 2001,Percentage,.,Female,,,20 to under 25 years,
 2002,Percentage,.,Female,,,20 to under 25 years,
@@ -1149,6 +1346,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,,,20 to under 25 years,
 2019,Percentage,.,Female,,,20 to under 25 years,
 2020,Percentage,.,Female,,,20 to under 25 years,
+2022,Percentage,.,Female,,,20 to under 25 years,
+2023,Percentage,.,Female,,,20 to under 25 years,
+2024,Percentage,.,Female,,,20 to under 25 years,
 1999,Percentage,,Female,,,25 to under 30 years,
 2003,Percentage,.,Female,,,25 to under 30 years,
 2005,Percentage,.,Female,,,25 to under 30 years,
@@ -1156,6 +1356,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Female,,,25 to under 30 years,7.15
 2017,Percentage,,Female,,,25 to under 30 years,8.037
 2021,Percentage,,Female,,,25 to under 30 years,8.958
+2025,Percentage,p,Female,,,25 to under 30 years,9.877
 2000,Percentage,.,Female,,,25 to under 30 years,
 2001,Percentage,.,Female,,,25 to under 30 years,
 2002,Percentage,.,Female,,,25 to under 30 years,
@@ -1172,6 +1373,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,,,25 to under 30 years,
 2019,Percentage,.,Female,,,25 to under 30 years,
 2020,Percentage,.,Female,,,25 to under 30 years,
+2022,Percentage,.,Female,,,25 to under 30 years,
+2023,Percentage,.,Female,,,25 to under 30 years,
+2024,Percentage,.,Female,,,25 to under 30 years,
 1999,Percentage,,Female,,,30 to under 35 years,
 2003,Percentage,.,Female,,,30 to under 35 years,
 2005,Percentage,.,Female,,,30 to under 35 years,
@@ -1179,6 +1383,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Female,,,30 to under 35 years,9.543
 2017,Percentage,,Female,,,30 to under 35 years,10.136
 2021,Percentage,,Female,,,30 to under 35 years,12.29
+2025,Percentage,p,Female,,,30 to under 35 years,13.677
 2000,Percentage,.,Female,,,30 to under 35 years,
 2001,Percentage,.,Female,,,30 to under 35 years,
 2002,Percentage,.,Female,,,30 to under 35 years,
@@ -1195,6 +1400,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,,,30 to under 35 years,
 2019,Percentage,.,Female,,,30 to under 35 years,
 2020,Percentage,.,Female,,,30 to under 35 years,
+2022,Percentage,.,Female,,,30 to under 35 years,
+2023,Percentage,.,Female,,,30 to under 35 years,
+2024,Percentage,.,Female,,,30 to under 35 years,
 1999,Percentage,,Female,,,35 to under 40 years,
 2003,Percentage,.,Female,,,35 to under 40 years,
 2005,Percentage,.,Female,,,35 to under 40 years,
@@ -1202,6 +1410,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Female,,,35 to under 40 years,10.402
 2017,Percentage,,Female,,,35 to under 40 years,10.833
 2021,Percentage,,Female,,,35 to under 40 years,11.281
+2025,Percentage,p,Female,,,35 to under 40 years,13.854
 2000,Percentage,.,Female,,,35 to under 40 years,
 2001,Percentage,.,Female,,,35 to under 40 years,
 2002,Percentage,.,Female,,,35 to under 40 years,
@@ -1218,6 +1427,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,,,35 to under 40 years,
 2019,Percentage,.,Female,,,35 to under 40 years,
 2020,Percentage,.,Female,,,35 to under 40 years,
+2022,Percentage,.,Female,,,35 to under 40 years,
+2023,Percentage,.,Female,,,35 to under 40 years,
+2024,Percentage,.,Female,,,35 to under 40 years,
 1999,Percentage,,Female,,,40 to under 45 years,
 2003,Percentage,.,Female,,,40 to under 45 years,
 2005,Percentage,.,Female,,,40 to under 45 years,
@@ -1225,6 +1437,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Female,,,40 to under 45 years,11.419
 2017,Percentage,,Female,,,40 to under 45 years,12.254
 2021,Percentage,,Female,,,40 to under 45 years,13.034
+2025,Percentage,p,Female,,,40 to under 45 years,15.727
 2000,Percentage,.,Female,,,40 to under 45 years,
 2001,Percentage,.,Female,,,40 to under 45 years,
 2002,Percentage,.,Female,,,40 to under 45 years,
@@ -1241,6 +1454,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,,,40 to under 45 years,
 2019,Percentage,.,Female,,,40 to under 45 years,
 2020,Percentage,.,Female,,,40 to under 45 years,
+2022,Percentage,.,Female,,,40 to under 45 years,
+2023,Percentage,.,Female,,,40 to under 45 years,
+2024,Percentage,.,Female,,,40 to under 45 years,
 1999,Percentage,,Female,,,45 to under 50 years,
 2003,Percentage,.,Female,,,45 to under 50 years,
 2005,Percentage,.,Female,,,45 to under 50 years,
@@ -1248,6 +1464,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Female,,,45 to under 50 years,12.21
 2017,Percentage,,Female,,,45 to under 50 years,12.737
 2021,Percentage,,Female,,,45 to under 50 years,15.78
+2025,Percentage,p,Female,,,45 to under 50 years,16.567
 2000,Percentage,.,Female,,,45 to under 50 years,
 2001,Percentage,.,Female,,,45 to under 50 years,
 2002,Percentage,.,Female,,,45 to under 50 years,
@@ -1264,6 +1481,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,,,45 to under 50 years,
 2019,Percentage,.,Female,,,45 to under 50 years,
 2020,Percentage,.,Female,,,45 to under 50 years,
+2022,Percentage,.,Female,,,45 to under 50 years,
+2023,Percentage,.,Female,,,45 to under 50 years,
+2024,Percentage,.,Female,,,45 to under 50 years,
 1999,Percentage,,Female,,,50 to under 55 years,
 2003,Percentage,.,Female,,,50 to under 55 years,
 2005,Percentage,.,Female,,,50 to under 55 years,
@@ -1271,6 +1491,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Female,,,50 to under 55 years,15.033
 2017,Percentage,,Female,,,50 to under 55 years,14.766
 2021,Percentage,,Female,,,50 to under 55 years,15.398
+2025,Percentage,p,Female,,,50 to under 55 years,17.493
 2000,Percentage,.,Female,,,50 to under 55 years,
 2001,Percentage,.,Female,,,50 to under 55 years,
 2002,Percentage,.,Female,,,50 to under 55 years,
@@ -1287,6 +1508,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,,,50 to under 55 years,
 2019,Percentage,.,Female,,,50 to under 55 years,
 2020,Percentage,.,Female,,,50 to under 55 years,
+2022,Percentage,.,Female,,,50 to under 55 years,
+2023,Percentage,.,Female,,,50 to under 55 years,
+2024,Percentage,.,Female,,,50 to under 55 years,
 1999,Percentage,,Female,,,55 to under 60 years,
 2003,Percentage,.,Female,,,55 to under 60 years,
 2005,Percentage,.,Female,,,55 to under 60 years,
@@ -1294,6 +1518,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Female,,,55 to under 60 years,17.315
 2017,Percentage,,Female,,,55 to under 60 years,16.552
 2021,Percentage,,Female,,,55 to under 60 years,16.677
+2025,Percentage,p,Female,,,55 to under 60 years,17.643
 2000,Percentage,.,Female,,,55 to under 60 years,
 2001,Percentage,.,Female,,,55 to under 60 years,
 2002,Percentage,.,Female,,,55 to under 60 years,
@@ -1310,6 +1535,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,,,55 to under 60 years,
 2019,Percentage,.,Female,,,55 to under 60 years,
 2020,Percentage,.,Female,,,55 to under 60 years,
+2022,Percentage,.,Female,,,55 to under 60 years,
+2023,Percentage,.,Female,,,55 to under 60 years,
+2024,Percentage,.,Female,,,55 to under 60 years,
 1999,Percentage,,Female,,,60 to under 65 years,
 2003,Percentage,.,Female,,,60 to under 65 years,
 2005,Percentage,.,Female,,,60 to under 65 years,
@@ -1317,6 +1545,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Female,,,60 to under 65 years,20.751
 2017,Percentage,,Female,,,60 to under 65 years,19.48
 2021,Percentage,,Female,,,60 to under 65 years,18.593
+2025,Percentage,p,Female,,,60 to under 65 years,18.918
 2000,Percentage,.,Female,,,60 to under 65 years,
 2001,Percentage,.,Female,,,60 to under 65 years,
 2002,Percentage,.,Female,,,60 to under 65 years,
@@ -1333,6 +1562,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,,,60 to under 65 years,
 2019,Percentage,.,Female,,,60 to under 65 years,
 2020,Percentage,.,Female,,,60 to under 65 years,
+2022,Percentage,.,Female,,,60 to under 65 years,
+2023,Percentage,.,Female,,,60 to under 65 years,
+2024,Percentage,.,Female,,,60 to under 65 years,
 1999,Percentage,,Female,,,65 to under 70 years,
 2003,Percentage,.,Female,,,65 to under 70 years,
 2005,Percentage,.,Female,,,65 to under 70 years,
@@ -1340,6 +1572,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Female,,,65 to under 70 years,20.324
 2017,Percentage,,Female,,,65 to under 70 years,21.724
 2021,Percentage,,Female,,,65 to under 70 years,19.285
+2025,Percentage,p,Female,,,65 to under 70 years,19.432
 2000,Percentage,.,Female,,,65 to under 70 years,
 2001,Percentage,.,Female,,,65 to under 70 years,
 2002,Percentage,.,Female,,,65 to under 70 years,
@@ -1356,6 +1589,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,,,65 to under 70 years,
 2019,Percentage,.,Female,,,65 to under 70 years,
 2020,Percentage,.,Female,,,65 to under 70 years,
+2022,Percentage,.,Female,,,65 to under 70 years,
+2023,Percentage,.,Female,,,65 to under 70 years,
+2024,Percentage,.,Female,,,65 to under 70 years,
 1999,Percentage,,Female,,,70 to under 75 years,
 2003,Percentage,.,Female,,,70 to under 75 years,
 2005,Percentage,.,Female,,,70 to under 75 years,
@@ -1363,6 +1599,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Female,,,70 to under 75 years,19.42
 2017,Percentage,,Female,,,70 to under 75 years,19.855
 2021,Percentage,,Female,,,70 to under 75 years,20.051
+2025,Percentage,p,Female,,,70 to under 75 years,20.407
 2000,Percentage,.,Female,,,70 to under 75 years,
 2001,Percentage,.,Female,,,70 to under 75 years,
 2002,Percentage,.,Female,,,70 to under 75 years,
@@ -1379,6 +1616,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,,,70 to under 75 years,
 2019,Percentage,.,Female,,,70 to under 75 years,
 2020,Percentage,.,Female,,,70 to under 75 years,
+2022,Percentage,.,Female,,,70 to under 75 years,
+2023,Percentage,.,Female,,,70 to under 75 years,
+2024,Percentage,.,Female,,,70 to under 75 years,
 1999,Percentage,,Female,,,75 years and older,
 2003,Percentage,,Female,,,75 years and older,
 2005,Percentage,,Female,,,75 years and older,
@@ -1386,6 +1626,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Female,,,75 years and older,17.941
 2017,Percentage,,Female,,,75 years and older,18.029
 2021,Percentage,,Female,,,75 years and older,16.274
+2025,Percentage,p,Female,,,75 years and older,15.878
 2000,Percentage,.,Female,,,75 years and older,
 2001,Percentage,.,Female,,,75 years and older,
 2002,Percentage,.,Female,,,75 years and older,
@@ -1402,13 +1643,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Female,,,75 years and older,
 2019,Percentage,.,Female,,,75 years and older,
 2020,Percentage,.,Female,,,75 years and older,
+2022,Percentage,.,Female,,,75 years and older,
+2023,Percentage,.,Female,,,75 years and older,
+2024,Percentage,.,Female,,,75 years and older,
 1999,Percentage,,Male,Baden-Wuerttemberg,code08,,10.272
 2003,Percentage,,Male,Baden-Wuerttemberg,code08,,11.694
 2005,Percentage,,Male,Baden-Wuerttemberg,code08,,12.052
 2009,Percentage,,Male,Baden-Wuerttemberg,code08,,13.267
 2013,Percentage,,Male,Baden-Wuerttemberg,code08,,14.524
 2017,Percentage,,Male,Baden-Wuerttemberg,code08,,15.306
-2021,Percentage,,Male,Baden-Wuerttemberg,code08,,15.831
+2021,Percentage,,Male,Baden-Wuerttemberg,code08,,15.823
+2025,Percentage,p,Male,Baden-Wuerttemberg,code08,,17.097
 2000,Percentage,.,Male,Baden-Wuerttemberg,code08,,
 2001,Percentage,.,Male,Baden-Wuerttemberg,code08,,
 2002,Percentage,.,Male,Baden-Wuerttemberg,code08,,
@@ -1425,13 +1670,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,Baden-Wuerttemberg,code08,,
 2019,Percentage,.,Male,Baden-Wuerttemberg,code08,,
 2020,Percentage,.,Male,Baden-Wuerttemberg,code08,,
+2022,Percentage,.,Male,Baden-Wuerttemberg,code08,,
+2023,Percentage,.,Male,Baden-Wuerttemberg,code08,,
+2024,Percentage,.,Male,Baden-Wuerttemberg,code08,,
 1999,Percentage,,Male,Bavaria,code09,,11.477
 2003,Percentage,,Male,Bavaria,code09,,12.192
 2005,Percentage,,Male,Bavaria,code09,,12.619
 2009,Percentage,,Male,Bavaria,code09,,13.964
 2013,Percentage,,Male,Bavaria,code09,,15.023
 2017,Percentage,,Male,Bavaria,code09,,15.659
-2021,Percentage,,Male,Bavaria,code09,,15.666
+2021,Percentage,,Male,Bavaria,code09,,15.592
+2025,Percentage,p,Male,Bavaria,code09,,16.702
 2000,Percentage,.,Male,Bavaria,code09,,
 2001,Percentage,.,Male,Bavaria,code09,,
 2002,Percentage,.,Male,Bavaria,code09,,
@@ -1448,13 +1697,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,Bavaria,code09,,
 2019,Percentage,.,Male,Bavaria,code09,,
 2020,Percentage,.,Male,Bavaria,code09,,
+2022,Percentage,.,Male,Bavaria,code09,,
+2023,Percentage,.,Male,Bavaria,code09,,
+2024,Percentage,.,Male,Bavaria,code09,,
 1999,Percentage,,Male,Berlin,code11,,8.869
 2003,Percentage,,Male,Berlin,code11,,9.642
 2005,Percentage,,Male,Berlin,code11,,11.389
 2009,Percentage,,Male,Berlin,code11,,11.521
 2013,Percentage,,Male,Berlin,code11,,12.313
 2017,Percentage,,Male,Berlin,code11,,12.715
-2021,Percentage,,Male,Berlin,code11,,14.23
+2021,Percentage,,Male,Berlin,code11,,13.81
+2025,Percentage,p,Male,Berlin,code11,,15.437
 2000,Percentage,.,Male,Berlin,code11,,
 2001,Percentage,.,Male,Berlin,code11,,
 2002,Percentage,.,Male,Berlin,code11,,
@@ -1471,13 +1724,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,Berlin,code11,,
 2019,Percentage,.,Male,Berlin,code11,,
 2020,Percentage,.,Male,Berlin,code11,,
+2022,Percentage,.,Male,Berlin,code11,,
+2023,Percentage,.,Male,Berlin,code11,,
+2024,Percentage,.,Male,Berlin,code11,,
 1999,Percentage,,Male,Brandenburg,code12,,12.891
 2003,Percentage,,Male,Brandenburg,code12,,12.559
 2005,Percentage,,Male,Brandenburg,code12,,13.83
 2009,Percentage,,Male,Brandenburg,code12,,15.353
 2013,Percentage,,Male,Brandenburg,code12,,15.498
 2017,Percentage,,Male,Brandenburg,code12,,16.444
-2021,Percentage,,Male,Brandenburg,code12,,18.682
+2021,Percentage,,Male,Brandenburg,code12,,18.208
+2025,Percentage,p,Male,Brandenburg,code12,,20.905
 2000,Percentage,.,Male,Brandenburg,code12,,
 2001,Percentage,.,Male,Brandenburg,code12,,
 2002,Percentage,.,Male,Brandenburg,code12,,
@@ -1494,13 +1751,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,Brandenburg,code12,,
 2019,Percentage,.,Male,Brandenburg,code12,,
 2020,Percentage,.,Male,Brandenburg,code12,,
+2022,Percentage,.,Male,Brandenburg,code12,,
+2023,Percentage,.,Male,Brandenburg,code12,,
+2024,Percentage,.,Male,Brandenburg,code12,,
 1999,Percentage,,Male,Bremen,code04,,9.347
 2003,Percentage,,Male,Bremen,code04,,11.639
 2005,Percentage,,Male,Bremen,code04,,11.052
 2009,Percentage,,Male,Bremen,code04,,11.17
 2013,Percentage,,Male,Bremen,code04,,13.582
 2017,Percentage,,Male,Bremen,code04,,18.33
-2021,Percentage,,Male,Bremen,code04,,18.793
+2021,Percentage,,Male,Bremen,code04,,19.014
+2025,Percentage,p,Male,Bremen,code04,,21.224
 2000,Percentage,.,Male,Bremen,code04,,
 2001,Percentage,.,Male,Bremen,code04,,
 2002,Percentage,.,Male,Bremen,code04,,
@@ -1517,13 +1778,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,Bremen,code04,,
 2019,Percentage,.,Male,Bremen,code04,,
 2020,Percentage,.,Male,Bremen,code04,,
+2022,Percentage,.,Male,Bremen,code04,,
+2023,Percentage,.,Male,Bremen,code04,,
+2024,Percentage,.,Male,Bremen,code04,,
 1999,Percentage,,Male,Hamburg,code02,,8.204
 2003,Percentage,,Male,Hamburg,code02,,9.839
 2005,Percentage,,Male,Hamburg,code02,,11.122
 2009,Percentage,,Male,Hamburg,code02,,10.448
 2013,Percentage,,Male,Hamburg,code02,,11.511
 2017,Percentage,,Male,Hamburg,code02,,12.849
-2021,Percentage,,Male,Hamburg,code02,,12.609
+2021,Percentage,,Male,Hamburg,code02,,12.991
+2025,Percentage,p,Male,Hamburg,code02,,12.136
 2000,Percentage,.,Male,Hamburg,code02,,
 2001,Percentage,.,Male,Hamburg,code02,,
 2002,Percentage,.,Male,Hamburg,code02,,
@@ -1540,13 +1805,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,Hamburg,code02,,
 2019,Percentage,.,Male,Hamburg,code02,,
 2020,Percentage,.,Male,Hamburg,code02,,
+2022,Percentage,.,Male,Hamburg,code02,,
+2023,Percentage,.,Male,Hamburg,code02,,
+2024,Percentage,.,Male,Hamburg,code02,,
 1999,Percentage,,Male,Hesse,code06,,11.322
 2003,Percentage,,Male,Hesse,code06,,12.379
 2005,Percentage,,Male,Hesse,code06,,13.029
 2009,Percentage,,Male,Hesse,code06,,14.522
 2013,Percentage,,Male,Hesse,code06,,15.721
 2017,Percentage,,Male,Hesse,code06,,16.837
-2021,Percentage,,Male,Hesse,code06,,18.153
+2021,Percentage,,Male,Hesse,code06,,18.155
+2025,Percentage,p,Male,Hesse,code06,,18.758
 2000,Percentage,.,Male,Hesse,code06,,
 2001,Percentage,.,Male,Hesse,code06,,
 2002,Percentage,.,Male,Hesse,code06,,
@@ -1563,13 +1832,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,Hesse,code06,,
 2019,Percentage,.,Male,Hesse,code06,,
 2020,Percentage,.,Male,Hesse,code06,,
+2022,Percentage,.,Male,Hesse,code06,,
+2023,Percentage,.,Male,Hesse,code06,,
+2024,Percentage,.,Male,Hesse,code06,,
 1999,Percentage,,Male,Mecklenburg Western Pomerania,code13,,13.705
 2003,Percentage,,Male,Mecklenburg Western Pomerania,code13,,16.471
 2005,Percentage,,Male,Mecklenburg Western Pomerania,code13,,17.022
 2009,Percentage,,Male,Mecklenburg Western Pomerania,code13,,17.148
 2013,Percentage,,Male,Mecklenburg Western Pomerania,code13,,18.039
 2017,Percentage,,Male,Mecklenburg Western Pomerania,code13,,20.759
-2021,Percentage,,Male,Mecklenburg Western Pomerania,code13,,19.337
+2021,Percentage,,Male,Mecklenburg Western Pomerania,code13,,20.185
+2025,Percentage,p,Male,Mecklenburg Western Pomerania,code13,,21.959
 2000,Percentage,.,Male,Mecklenburg Western Pomerania,code13,,
 2001,Percentage,.,Male,Mecklenburg Western Pomerania,code13,,
 2002,Percentage,.,Male,Mecklenburg Western Pomerania,code13,,
@@ -1586,13 +1859,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,Mecklenburg Western Pomerania,code13,,
 2019,Percentage,.,Male,Mecklenburg Western Pomerania,code13,,
 2020,Percentage,.,Male,Mecklenburg Western Pomerania,code13,,
+2022,Percentage,.,Male,Mecklenburg Western Pomerania,code13,,
+2023,Percentage,.,Male,Mecklenburg Western Pomerania,code13,,
+2024,Percentage,.,Male,Mecklenburg Western Pomerania,code13,,
 1999,Percentage,,Male,Lower Saxony,code03,,10.326
 2003,Percentage,,Male,Lower Saxony,code03,,11.33
 2005,Percentage,,Male,Lower Saxony,code03,,12.227
 2009,Percentage,,Male,Lower Saxony,code03,,13.758
 2013,Percentage,,Male,Lower Saxony,code03,,15.226
 2017,Percentage,,Male,Lower Saxony,code03,,17.169
-2021,Percentage,,Male,Lower Saxony,code03,,19.559
+2021,Percentage,,Male,Lower Saxony,code03,,19.428
+2025,Percentage,p,Male,Lower Saxony,code03,,20.674
 2000,Percentage,.,Male,Lower Saxony,code03,,
 2001,Percentage,.,Male,Lower Saxony,code03,,
 2002,Percentage,.,Male,Lower Saxony,code03,,
@@ -1609,13 +1886,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,Lower Saxony,code03,,
 2019,Percentage,.,Male,Lower Saxony,code03,,
 2020,Percentage,.,Male,Lower Saxony,code03,,
+2022,Percentage,.,Male,Lower Saxony,code03,,
+2023,Percentage,.,Male,Lower Saxony,code03,,
+2024,Percentage,.,Male,Lower Saxony,code03,,
 1999,Percentage,,Male,North Rhine-Westphalia,code05,,11.001
 2003,Percentage,,Male,North Rhine-Westphalia,code05,,12.668
 2005,Percentage,,Male,North Rhine-Westphalia,code05,,13.359
 2009,Percentage,,Male,North Rhine-Westphalia,code05,,14.77
 2013,Percentage,,Male,North Rhine-Westphalia,code05,,16.444
 2017,Percentage,,Male,North Rhine-Westphalia,code05,,16.886
-2021,Percentage,,Male,North Rhine-Westphalia,code05,,18.556
+2021,Percentage,,Male,North Rhine-Westphalia,code05,,18.738
+2025,Percentage,p,Male,North Rhine-Westphalia,code05,,20.223
 2000,Percentage,.,Male,North Rhine-Westphalia,code05,,
 2001,Percentage,.,Male,North Rhine-Westphalia,code05,,
 2002,Percentage,.,Male,North Rhine-Westphalia,code05,,
@@ -1632,13 +1913,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,North Rhine-Westphalia,code05,,
 2019,Percentage,.,Male,North Rhine-Westphalia,code05,,
 2020,Percentage,.,Male,North Rhine-Westphalia,code05,,
+2022,Percentage,.,Male,North Rhine-Westphalia,code05,,
+2023,Percentage,.,Male,North Rhine-Westphalia,code05,,
+2024,Percentage,.,Male,North Rhine-Westphalia,code05,,
 1999,Percentage,,Male,Rhineland Palatinate,code07,,11.727
 2003,Percentage,,Male,Rhineland Palatinate,code07,,13.281
 2005,Percentage,,Male,Rhineland Palatinate,code07,,14.264
 2009,Percentage,,Male,Rhineland Palatinate,code07,,15.394
 2013,Percentage,,Male,Rhineland Palatinate,code07,,17.158
 2017,Percentage,,Male,Rhineland Palatinate,code07,,18.091
-2021,Percentage,,Male,Rhineland Palatinate,code07,,19.923
+2021,Percentage,,Male,Rhineland Palatinate,code07,,20.251
+2025,Percentage,p,Male,Rhineland Palatinate,code07,,19.659
 2000,Percentage,.,Male,Rhineland Palatinate,code07,,
 2001,Percentage,.,Male,Rhineland Palatinate,code07,,
 2002,Percentage,.,Male,Rhineland Palatinate,code07,,
@@ -1655,13 +1940,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,Rhineland Palatinate,code07,,
 2019,Percentage,.,Male,Rhineland Palatinate,code07,,
 2020,Percentage,.,Male,Rhineland Palatinate,code07,,
+2022,Percentage,.,Male,Rhineland Palatinate,code07,,
+2023,Percentage,.,Male,Rhineland Palatinate,code07,,
+2024,Percentage,.,Male,Rhineland Palatinate,code07,,
 1999,Percentage,,Male,Saarland,code10,,9.545
 2003,Percentage,,Male,Saarland,code10,,10.37
 2005,Percentage,,Male,Saarland,code10,,13.872
 2009,Percentage,,Male,Saarland,code10,,15.562
 2013,Percentage,,Male,Saarland,code10,,16.365
 2017,Percentage,,Male,Saarland,code10,,18.154
-2021,Percentage,,Male,Saarland,code10,,20.088
+2021,Percentage,,Male,Saarland,code10,,19.725
+2025,Percentage,p,Male,Saarland,code10,,21.298
 2000,Percentage,.,Male,Saarland,code10,,
 2001,Percentage,.,Male,Saarland,code10,,
 2002,Percentage,.,Male,Saarland,code10,,
@@ -1678,13 +1967,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,Saarland,code10,,
 2019,Percentage,.,Male,Saarland,code10,,
 2020,Percentage,.,Male,Saarland,code10,,
+2022,Percentage,.,Male,Saarland,code10,,
+2023,Percentage,.,Male,Saarland,code10,,
+2024,Percentage,.,Male,Saarland,code10,,
 1999,Percentage,,Male,Saxony,code14,,11.486
 2003,Percentage,,Male,Saxony,code14,,13.14
 2005,Percentage,,Male,Saxony,code14,,12.946
 2009,Percentage,,Male,Saxony,code14,,13.384
 2013,Percentage,,Male,Saxony,code14,,14.278
 2017,Percentage,,Male,Saxony,code14,,15.772
-2021,Percentage,,Male,Saxony,code14,,15.576
+2021,Percentage,,Male,Saxony,code14,,15.74
+2025,Percentage,p,Male,Saxony,code14,,18.068
 2000,Percentage,.,Male,Saxony,code14,,
 2001,Percentage,.,Male,Saxony,code14,,
 2002,Percentage,.,Male,Saxony,code14,,
@@ -1701,13 +1994,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,Saxony,code14,,
 2019,Percentage,.,Male,Saxony,code14,,
 2020,Percentage,.,Male,Saxony,code14,,
+2022,Percentage,.,Male,Saxony,code14,,
+2023,Percentage,.,Male,Saxony,code14,,
+2024,Percentage,.,Male,Saxony,code14,,
 1999,Percentage,,Male,Saxony-Anhalt,code15,,13.609
 2003,Percentage,,Male,Saxony-Anhalt,code15,,14.71
 2005,Percentage,,Male,Saxony-Anhalt,code15,,15.755
 2009,Percentage,,Male,Saxony-Anhalt,code15,,15.801
 2013,Percentage,,Male,Saxony-Anhalt,code15,,17.477
 2017,Percentage,,Male,Saxony-Anhalt,code15,,18.706
-2021,Percentage,,Male,Saxony-Anhalt,code15,,17.078
+2021,Percentage,,Male,Saxony-Anhalt,code15,,16.836
+2025,Percentage,p,Male,Saxony-Anhalt,code15,,20.386
 2000,Percentage,.,Male,Saxony-Anhalt,code15,,
 2001,Percentage,.,Male,Saxony-Anhalt,code15,,
 2002,Percentage,.,Male,Saxony-Anhalt,code15,,
@@ -1724,13 +2021,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,Saxony-Anhalt,code15,,
 2019,Percentage,.,Male,Saxony-Anhalt,code15,,
 2020,Percentage,.,Male,Saxony-Anhalt,code15,,
+2022,Percentage,.,Male,Saxony-Anhalt,code15,,
+2023,Percentage,.,Male,Saxony-Anhalt,code15,,
+2024,Percentage,.,Male,Saxony-Anhalt,code15,,
 1999,Percentage,,Male,Schleswig-Holstein,code01,,10.106
 2003,Percentage,,Male,Schleswig-Holstein,code01,,11.019
 2005,Percentage,,Male,Schleswig-Holstein,code01,,12.484
 2009,Percentage,,Male,Schleswig-Holstein,code01,,13.974
 2013,Percentage,,Male,Schleswig-Holstein,code01,,14.95
 2017,Percentage,,Male,Schleswig-Holstein,code01,,16.843
-2021,Percentage,,Male,Schleswig-Holstein,code01,,19.078
+2021,Percentage,,Male,Schleswig-Holstein,code01,,18.817
+2025,Percentage,p,Male,Schleswig-Holstein,code01,,20.251
 2000,Percentage,.,Male,Schleswig-Holstein,code01,,
 2001,Percentage,.,Male,Schleswig-Holstein,code01,,
 2002,Percentage,.,Male,Schleswig-Holstein,code01,,
@@ -1747,13 +2048,17 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,Schleswig-Holstein,code01,,
 2019,Percentage,.,Male,Schleswig-Holstein,code01,,
 2020,Percentage,.,Male,Schleswig-Holstein,code01,,
+2022,Percentage,.,Male,Schleswig-Holstein,code01,,
+2023,Percentage,.,Male,Schleswig-Holstein,code01,,
+2024,Percentage,.,Male,Schleswig-Holstein,code01,,
 1999,Percentage,,Male,Thuringia,code16,,14.3
 2003,Percentage,,Male,Thuringia,code16,,13.129
 2005,Percentage,,Male,Thuringia,code16,,14.549
 2009,Percentage,,Male,Thuringia,code16,,15.579
 2013,Percentage,,Male,Thuringia,code16,,15.858
 2017,Percentage,,Male,Thuringia,code16,,18.608
-2021,Percentage,,Male,Thuringia,code16,,19.585
+2021,Percentage,,Male,Thuringia,code16,,19.456
+2025,Percentage,p,Male,Thuringia,code16,,18.118
 2000,Percentage,.,Male,Thuringia,code16,,
 2001,Percentage,.,Male,Thuringia,code16,,
 2002,Percentage,.,Male,Thuringia,code16,,
@@ -1770,6 +2075,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,Thuringia,code16,,
 2019,Percentage,.,Male,Thuringia,code16,,
 2020,Percentage,.,Male,Thuringia,code16,,
+2022,Percentage,.,Male,Thuringia,code16,,
+2023,Percentage,.,Male,Thuringia,code16,,
+2024,Percentage,.,Male,Thuringia,code16,,
 1999,Percentage,,Male,,,18 to under 20 years,
 2003,Percentage,.,Male,,,18 to under 20 years,
 2005,Percentage,.,Male,,,18 to under 20 years,
@@ -1777,6 +2085,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Male,,,18 to under 20 years,4.058
 2017,Percentage,,Male,,,18 to under 20 years,4.955
 2021,Percentage,,Male,,,18 to under 20 years,6.553
+2025,Percentage,p,Male,,,18 to under 20 years,6.9
 2000,Percentage,.,Male,,,18 to under 20 years,
 2001,Percentage,.,Male,,,18 to under 20 years,
 2002,Percentage,.,Male,,,18 to under 20 years,
@@ -1793,6 +2102,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,,,18 to under 20 years,
 2019,Percentage,.,Male,,,18 to under 20 years,
 2020,Percentage,.,Male,,,18 to under 20 years,
+2022,Percentage,.,Male,,,18 to under 20 years,
+2023,Percentage,.,Male,,,18 to under 20 years,
+2024,Percentage,.,Male,,,18 to under 20 years,
 1999,Percentage,,Male,,,20 to under 25 years,
 2003,Percentage,.,Male,,,20 to under 25 years,
 2005,Percentage,.,Male,,,20 to under 25 years,
@@ -1800,6 +2112,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Male,,,20 to under 25 years,6.166
 2017,Percentage,,Male,,,20 to under 25 years,6.973
 2021,Percentage,,Male,,,20 to under 25 years,7.308
+2025,Percentage,p,Male,,,20 to under 25 years,9.465
 2000,Percentage,.,Male,,,20 to under 25 years,
 2001,Percentage,.,Male,,,20 to under 25 years,
 2002,Percentage,.,Male,,,20 to under 25 years,
@@ -1816,6 +2129,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,,,20 to under 25 years,
 2019,Percentage,.,Male,,,20 to under 25 years,
 2020,Percentage,.,Male,,,20 to under 25 years,
+2022,Percentage,.,Male,,,20 to under 25 years,
+2023,Percentage,.,Male,,,20 to under 25 years,
+2024,Percentage,.,Male,,,20 to under 25 years,
 1999,Percentage,,Male,,,25 to under 30 years,
 2003,Percentage,.,Male,,,25 to under 30 years,
 2005,Percentage,.,Male,,,25 to under 30 years,
@@ -1823,6 +2139,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Male,,,25 to under 30 years,8.808
 2017,Percentage,,Male,,,25 to under 30 years,10.569
 2021,Percentage,,Male,,,25 to under 30 years,12.572
+2025,Percentage,p,Male,,,25 to under 30 years,13.564
 2000,Percentage,.,Male,,,25 to under 30 years,
 2001,Percentage,.,Male,,,25 to under 30 years,
 2002,Percentage,.,Male,,,25 to under 30 years,
@@ -1839,6 +2156,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,,,25 to under 30 years,
 2019,Percentage,.,Male,,,25 to under 30 years,
 2020,Percentage,.,Male,,,25 to under 30 years,
+2022,Percentage,.,Male,,,25 to under 30 years,
+2023,Percentage,.,Male,,,25 to under 30 years,
+2024,Percentage,.,Male,,,25 to under 30 years,
 1999,Percentage,,Male,,,30 to under 35 years,
 2003,Percentage,.,Male,,,30 to under 35 years,
 2005,Percentage,.,Male,,,30 to under 35 years,
@@ -1846,6 +2166,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Male,,,30 to under 35 years,12.162
 2017,Percentage,,Male,,,30 to under 35 years,13.395
 2021,Percentage,,Male,,,30 to under 35 years,15.416
+2025,Percentage,p,Male,,,30 to under 35 years,16.694
 2000,Percentage,.,Male,,,30 to under 35 years,
 2001,Percentage,.,Male,,,30 to under 35 years,
 2002,Percentage,.,Male,,,30 to under 35 years,
@@ -1862,6 +2183,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,,,30 to under 35 years,
 2019,Percentage,.,Male,,,30 to under 35 years,
 2020,Percentage,.,Male,,,30 to under 35 years,
+2022,Percentage,.,Male,,,30 to under 35 years,
+2023,Percentage,.,Male,,,30 to under 35 years,
+2024,Percentage,.,Male,,,30 to under 35 years,
 1999,Percentage,,Male,,,35 to under 40 years,
 2003,Percentage,.,Male,,,35 to under 40 years,
 2005,Percentage,.,Male,,,35 to under 40 years,
@@ -1869,6 +2193,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Male,,,35 to under 40 years,14.883
 2017,Percentage,,Male,,,35 to under 40 years,15.493
 2021,Percentage,,Male,,,35 to under 40 years,17.247
+2025,Percentage,p,Male,,,35 to under 40 years,18.912
 2000,Percentage,.,Male,,,35 to under 40 years,
 2001,Percentage,.,Male,,,35 to under 40 years,
 2002,Percentage,.,Male,,,35 to under 40 years,
@@ -1885,6 +2210,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,,,35 to under 40 years,
 2019,Percentage,.,Male,,,35 to under 40 years,
 2020,Percentage,.,Male,,,35 to under 40 years,
+2022,Percentage,.,Male,,,35 to under 40 years,
+2023,Percentage,.,Male,,,35 to under 40 years,
+2024,Percentage,.,Male,,,35 to under 40 years,
 1999,Percentage,,Male,,,40 to under 45 years,
 2003,Percentage,.,Male,,,40 to under 45 years,
 2005,Percentage,.,Male,,,40 to under 45 years,
@@ -1892,6 +2220,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Male,,,40 to under 45 years,16.774
 2017,Percentage,,Male,,,40 to under 45 years,18.725
 2021,Percentage,,Male,,,40 to under 45 years,19.522
+2025,Percentage,p,Male,,,40 to under 45 years,20.619
 2000,Percentage,.,Male,,,40 to under 45 years,
 2001,Percentage,.,Male,,,40 to under 45 years,
 2002,Percentage,.,Male,,,40 to under 45 years,
@@ -1908,6 +2237,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,,,40 to under 45 years,
 2019,Percentage,.,Male,,,40 to under 45 years,
 2020,Percentage,.,Male,,,40 to under 45 years,
+2022,Percentage,.,Male,,,40 to under 45 years,
+2023,Percentage,.,Male,,,40 to under 45 years,
+2024,Percentage,.,Male,,,40 to under 45 years,
 1999,Percentage,,Male,,,45 to under 50 years,
 2003,Percentage,.,Male,,,45 to under 50 years,
 2005,Percentage,.,Male,,,45 to under 50 years,
@@ -1915,6 +2247,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Male,,,45 to under 50 years,17.912
 2017,Percentage,,Male,,,45 to under 50 years,19.369
 2021,Percentage,,Male,,,45 to under 50 years,23.49
+2025,Percentage,p,Male,,,45 to under 50 years,23.841
 2000,Percentage,.,Male,,,45 to under 50 years,
 2001,Percentage,.,Male,,,45 to under 50 years,
 2002,Percentage,.,Male,,,45 to under 50 years,
@@ -1931,6 +2264,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,,,45 to under 50 years,
 2019,Percentage,.,Male,,,45 to under 50 years,
 2020,Percentage,.,Male,,,45 to under 50 years,
+2022,Percentage,.,Male,,,45 to under 50 years,
+2023,Percentage,.,Male,,,45 to under 50 years,
+2024,Percentage,.,Male,,,45 to under 50 years,
 1999,Percentage,,Male,,,50 to under 55 years,
 2003,Percentage,.,Male,,,50 to under 55 years,
 2005,Percentage,.,Male,,,50 to under 55 years,
@@ -1938,6 +2274,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Male,,,50 to under 55 years,20.19
 2017,Percentage,,Male,,,50 to under 55 years,20.941
 2021,Percentage,,Male,,,50 to under 55 years,21.825
+2025,Percentage,p,Male,,,50 to under 55 years,23.802
 2000,Percentage,.,Male,,,50 to under 55 years,
 2001,Percentage,.,Male,,,50 to under 55 years,
 2002,Percentage,.,Male,,,50 to under 55 years,
@@ -1954,6 +2291,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,,,50 to under 55 years,
 2019,Percentage,.,Male,,,50 to under 55 years,
 2020,Percentage,.,Male,,,50 to under 55 years,
+2022,Percentage,.,Male,,,50 to under 55 years,
+2023,Percentage,.,Male,,,50 to under 55 years,
+2024,Percentage,.,Male,,,50 to under 55 years,
 1999,Percentage,,Male,,,55 to under 60 years,
 2003,Percentage,.,Male,,,55 to under 60 years,
 2005,Percentage,.,Male,,,55 to under 60 years,
@@ -1961,6 +2301,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Male,,,55 to under 60 years,22.595
 2017,Percentage,,Male,,,55 to under 60 years,22.571
 2021,Percentage,,Male,,,55 to under 60 years,22.302
+2025,Percentage,p,Male,,,55 to under 60 years,24.789
 2000,Percentage,.,Male,,,55 to under 60 years,
 2001,Percentage,.,Male,,,55 to under 60 years,
 2002,Percentage,.,Male,,,55 to under 60 years,
@@ -1977,6 +2318,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,,,55 to under 60 years,
 2019,Percentage,.,Male,,,55 to under 60 years,
 2020,Percentage,.,Male,,,55 to under 60 years,
+2022,Percentage,.,Male,,,55 to under 60 years,
+2023,Percentage,.,Male,,,55 to under 60 years,
+2024,Percentage,.,Male,,,55 to under 60 years,
 1999,Percentage,,Male,,,60 to under 65 years,
 2003,Percentage,.,Male,,,60 to under 65 years,
 2005,Percentage,.,Male,,,60 to under 65 years,
@@ -1984,6 +2328,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Male,,,60 to under 65 years,24.674
 2017,Percentage,,Male,,,60 to under 65 years,24.454
 2021,Percentage,,Male,,,60 to under 65 years,23.474
+2025,Percentage,p,Male,,,60 to under 65 years,24.117
 2000,Percentage,.,Male,,,60 to under 65 years,
 2001,Percentage,.,Male,,,60 to under 65 years,
 2002,Percentage,.,Male,,,60 to under 65 years,
@@ -2000,6 +2345,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,,,60 to under 65 years,
 2019,Percentage,.,Male,,,60 to under 65 years,
 2020,Percentage,.,Male,,,60 to under 65 years,
+2022,Percentage,.,Male,,,60 to under 65 years,
+2023,Percentage,.,Male,,,60 to under 65 years,
+2024,Percentage,.,Male,,,60 to under 65 years,
 1999,Percentage,,Male,,,65 to under 70 years,
 2003,Percentage,.,Male,,,65 to under 70 years,
 2005,Percentage,.,Male,,,65 to under 70 years,
@@ -2007,6 +2355,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Male,,,65 to under 70 years,23.634
 2017,Percentage,,Male,,,65 to under 70 years,25.324
 2021,Percentage,,Male,,,65 to under 70 years,23.024
+2025,Percentage,p,Male,,,65 to under 70 years,24.763
 2000,Percentage,.,Male,,,65 to under 70 years,
 2001,Percentage,.,Male,,,65 to under 70 years,
 2002,Percentage,.,Male,,,65 to under 70 years,
@@ -2023,6 +2372,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,,,65 to under 70 years,
 2019,Percentage,.,Male,,,65 to under 70 years,
 2020,Percentage,.,Male,,,65 to under 70 years,
+2022,Percentage,.,Male,,,65 to under 70 years,
+2023,Percentage,.,Male,,,65 to under 70 years,
+2024,Percentage,.,Male,,,65 to under 70 years,
 1999,Percentage,,Male,,,70 to under 75 years,
 2003,Percentage,.,Male,,,70 to under 75 years,
 2005,Percentage,.,Male,,,70 to under 75 years,
@@ -2030,6 +2382,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Male,,,70 to under 75 years,21.188
 2017,Percentage,,Male,,,70 to under 75 years,22.585
 2021,Percentage,,Male,,,70 to under 75 years,22.602
+2025,Percentage,p,Male,,,70 to under 75 years,22.937
 2000,Percentage,.,Male,,,70 to under 75 years,
 2001,Percentage,.,Male,,,70 to under 75 years,
 2002,Percentage,.,Male,,,70 to under 75 years,
@@ -2046,6 +2399,9 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,,,70 to under 75 years,
 2019,Percentage,.,Male,,,70 to under 75 years,
 2020,Percentage,.,Male,,,70 to under 75 years,
+2022,Percentage,.,Male,,,70 to under 75 years,
+2023,Percentage,.,Male,,,70 to under 75 years,
+2024,Percentage,.,Male,,,70 to under 75 years,
 1999,Percentage,,Male,,,75 years and older,
 2003,Percentage,.,Male,,,75 years and older,
 2005,Percentage,.,Male,,,75 years and older,
@@ -2053,6 +2409,7 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2013,Percentage,,Male,,,75 years and older,16.689
 2017,Percentage,,Male,,,75 years and older,17.586
 2021,Percentage,,Male,,,75 years and older,16.147
+2025,Percentage,p,Male,,,75 years and older,16.288
 2000,Percentage,.,Male,,,75 years and older,
 2001,Percentage,.,Male,,,75 years and older,
 2002,Percentage,.,Male,,,75 years and older,
@@ -2069,3 +2426,6 @@ Year,Units,COMMENT_OBS_0,Sex,Länder,GeoCode,Age group,Value
 2018,Percentage,.,Male,,,75 years and older,
 2019,Percentage,.,Male,,,75 years and older,
 2020,Percentage,.,Male,,,75 years and older,
+2022,Percentage,.,Male,,,75 years and older,
+2023,Percentage,.,Male,,,75 years and older,
+2024,Percentage,.,Male,,,75 years and older,

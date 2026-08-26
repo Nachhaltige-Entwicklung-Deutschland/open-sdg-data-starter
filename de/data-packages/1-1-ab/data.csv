@@ -1,337 +1,577 @@
-Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Geschlecht,COMMENT_OBS_1,Bundesland,GeoCode,Value
-2014,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,,,19.7
-2015,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,,,17.5
-2016,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,,,16.0
-2017,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,,,14.0
-2018,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,,,13.1
-2019,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,,,12.5
-2020,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,,,12.5
-2021,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,,,11.8
-2022,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,,,12.5
-2023,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,,,13.1
-2024,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,,,12.1
-2025,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,,,12.0
-2014,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Weiblich,,,,20.5
-2015,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Weiblich,,,,18.3
-2016,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Weiblich,,,,16.9
-2017,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Weiblich,,,,14.9
-2018,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Weiblich,,,,13.9
-2019,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Weiblich,,,,13.3
-2020,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Weiblich,,,,13.2
-2021,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Weiblich,,,,12.3
-2022,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,13.2
-2023,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,13.8
-2024,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,12.6
-2025,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,12.6
-2014,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Männlich,,,,18.8
-2015,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Männlich,,,,16.5
-2016,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Männlich,,,,15.1
-2017,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Männlich,,,,13.2
-2018,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Männlich,,,,12.1
-2019,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Männlich,,,,11.7
-2020,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Männlich,,,,11.8
-2021,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,Männlich,,,,11.3
-2022,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,Männlich,,,,11.9
-2023,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,Männlich,,,,12.3
-2024,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,Männlich,,,,11.5
-2025,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,Männlich,,,,11.3
-2014,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,,,,,12.3
-2015,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,,,,,11.2
-2016,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,,,,,9.6
-2017,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,,,,,8.3
-2018,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,,,,,7.6
-2019,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,,,,,6.5
-2020,Prozent,a) Materielle und soziale Deprivation,Deutschland,|,,r,,,9.1
-2021,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,,,9.0
-2022,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,,,11.7
-2023,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,,,12.7
-2024,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,,,11.4
-2025,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,,,10.7
-2014,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,Weiblich,,,,13.3
-2015,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,Weiblich,,,,12.2
-2016,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,Weiblich,,,,10.5
-2017,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,Weiblich,,,,9.0
-2018,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,Weiblich,,,,8.2
-2019,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,Weiblich,,,,7.0
-2020,Prozent,a) Materielle und soziale Deprivation,Deutschland,|,Weiblich,r,,,9.3
-2021,Prozent,a) Materielle und soziale Deprivation,Deutschland,,Weiblich,,,,9.0
-2022,Prozent,a) Materielle und soziale Deprivation,Deutschland,,Weiblich,,,,11.8
-2023,Prozent,a) Materielle und soziale Deprivation,Deutschland,,Weiblich,,,,12.9
-2024,Prozent,a) Materielle und soziale Deprivation,Deutschland,,Weiblich,,,,11.4
-2025,Prozent,a) Materielle und soziale Deprivation,Deutschland,,Weiblich,,,,10.8
-2014,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,Männlich,,,,11.3
-2015,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,Männlich,,,,10.2
-2016,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,Männlich,,,,8.6
-2017,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,Männlich,,,,7.6
-2018,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,Männlich,,,,7.0
-2019,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,Männlich,,,,6.0
-2020,Prozent,a) Materielle und soziale Deprivation,Deutschland,|,Männlich,r,,,8.9
-2021,Prozent,a) Materielle und soziale Deprivation,Deutschland,,Männlich,,,,9.0
-2022,Prozent,a) Materielle und soziale Deprivation,Deutschland,,Männlich,,,,11.6
-2023,Prozent,a) Materielle und soziale Deprivation,Deutschland,,Männlich,,,,12.5
-2024,Prozent,a) Materielle und soziale Deprivation,Deutschland,,Männlich,,,,11.4
-2025,Prozent,a) Materielle und soziale Deprivation,Deutschland,,Männlich,,,,10.7
-2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,.,,,,,
-2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,,,9.3
-2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,,,8.7
-2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,,,7.5
-2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,,,6.8
-2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,,,6.7
-2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,|,,,,,6.7
-2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,,,6.3
-2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,,,6.7
-2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,,,6.8
-2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,,,6.4
-2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,,,6.3
-2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,.,Weiblich,,,,
-2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,9.9
-2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,9.3
-2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,7.9
-2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,7.2
-2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,7.1
-2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,7.1
-2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,6.5
-2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,7.0
-2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,7.2
-2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,6.6
-2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,6.6
-2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,.,Männlich,,,,
-2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Männlich,,,,8.8
-2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Männlich,,,,8.1
-2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Männlich,,,,7.0
-2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Männlich,,,,6.3
-2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Männlich,,,,6.2
-2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Männlich,,,,6.4
-2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Männlich,,,,6.0
-2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Männlich,,,,6.3
-2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Männlich,,,,6.5
-2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Männlich,,,,6.2
-2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Männlich,,,,6.0
-2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,,
-2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,,5.7
-2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,,4.7
-2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,,3.7
-2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,,3.4
-2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,,3.0
-2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,|,,,,,4.4
-2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,,4.3
-2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,,6.2
-2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,,6.9
-2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,,6.2
-2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,,5.6
-2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,Weiblich,,,,
-2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Weiblich,,,,6.3
-2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Weiblich,,,,5.1
-2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Weiblich,,,,4.0
-2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Weiblich,,,,3.6
-2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Weiblich,,,,3.3
-2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,|,Weiblich,,,,4.4
-2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Weiblich,,,,4.3
-2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Weiblich,,,,6.1
-2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Weiblich,,,,6.8
-2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Weiblich,,,,6.1
-2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Weiblich,,,,5.5
-2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,Männlich,,,,
-2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Männlich,,,,5.0
-2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Männlich,,,,4.3
-2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Männlich,,,,3.5
-2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Männlich,,,,3.2
-2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Männlich,,,,2.6
-2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,|,Männlich,,,,4.3
-2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Männlich,,,,4.4
-2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Männlich,,,,6.3
-2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Männlich,,,,7.0
-2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Männlich,,,,6.3
-2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Männlich,,,,5.6
-2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Baden-Württemberg,code08,
-2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Baden-Württemberg,code08,
-2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Baden-Württemberg,code08,
-2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Baden-Württemberg,code08,
-2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Baden-Württemberg,code08,
-2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Baden-Württemberg,code08,
-2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Baden-Württemberg,code08,
-2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Baden-Württemberg,code08,3.4
-2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Baden-Württemberg,code08,5.2
-2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Baden-Württemberg,code08,6.1
-2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Baden-Württemberg,code08,6.8
-2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Baden-Württemberg,code08,5.5
-2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Bayern,code09,
-2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Bayern,code09,
-2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Bayern,code09,
-2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Bayern,code09,
-2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Bayern,code09,
-2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Bayern,code09,
-2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Bayern,code09,
-2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Bayern,code09,3.1
-2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Bayern,code09,4.1
-2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Bayern,code09,4.5
-2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Bayern,code09,3.4
-2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Bayern,code09,3.1
-2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Berlin,code11,
-2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Berlin,code11,
-2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Berlin,code11,
-2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Berlin,code11,
-2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Berlin,code11,
-2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Berlin,code11,
-2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Berlin,code11,
-2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Berlin,code11,3.4
-2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Berlin,code11,5.1
-2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Berlin,code11,5.7
-2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Berlin,code11,4.0
-2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Berlin,code11,5.6
-2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Brandenburg,code12,
-2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Brandenburg,code12,
-2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Brandenburg,code12,
-2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Brandenburg,code12,
-2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Brandenburg,code12,
-2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Brandenburg,code12,
-2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Brandenburg,code12,
-2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Brandenburg,code12,2.3
-2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Brandenburg,code12,4.5
-2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Brandenburg,code12,6.3
-2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Brandenburg,code12,5.0
-2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Brandenburg,code12,5.4
-2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Bremen,code04,
-2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Bremen,code04,
-2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Bremen,code04,
-2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Bremen,code04,
-2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Bremen,code04,
-2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Bremen,code04,
-2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Bremen,code04,
-2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Bremen,code04,9.0
-2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Bremen,code04,10.4
-2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Bremen,code04,14.0
-2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Bremen,code04,10.1
-2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Bremen,code04,10.9
-2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Hamburg,code02,
-2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Hamburg,code02,
-2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Hamburg,code02,
-2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Hamburg,code02,
-2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Hamburg,code02,
-2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Hamburg,code02,
-2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Hamburg,code02,
-2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Hamburg,code02,5.3
-2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Hamburg,code02,7.4
-2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Hamburg,code02,6.7
-2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Hamburg,code02,6.4
-2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Hamburg,code02,5.6
-2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Hessen,code06,
-2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Hessen,code06,
-2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Hessen,code06,
-2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Hessen,code06,
-2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Hessen,code06,
-2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Hessen,code06,
-2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Hessen,code06,
-2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Hessen,code06,6.0
-2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Hessen,code06,7.8
-2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Hessen,code06,7.4
-2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Hessen,code06,7.0
-2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Hessen,code06,5.4
-2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Mecklenburg-Vorpommern,code13,
-2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Mecklenburg-Vorpommern,code13,
-2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Mecklenburg-Vorpommern,code13,
-2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Mecklenburg-Vorpommern,code13,
-2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Mecklenburg-Vorpommern,code13,
-2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Mecklenburg-Vorpommern,code13,
-2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Mecklenburg-Vorpommern,code13,
-2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Mecklenburg-Vorpommern,code13,4.3
-2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Mecklenburg-Vorpommern,code13,8.4
-2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Mecklenburg-Vorpommern,code13,8.8
-2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Mecklenburg-Vorpommern,code13,5.2
-2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Mecklenburg-Vorpommern,code13,5.2
-2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Niedersachsen,code03,
-2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Niedersachsen,code03,
-2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Niedersachsen,code03,
-2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Niedersachsen,code03,
-2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Niedersachsen,code03,
-2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Niedersachsen,code03,
-2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Niedersachsen,code03,
-2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Niedersachsen,code03,4.9
-2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Niedersachsen,code03,7.3
-2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Niedersachsen,code03,7.7
-2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Niedersachsen,code03,7.5
-2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Niedersachsen,code03,6.5
-2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Nordrhein-Westfalen,code05,
-2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Nordrhein-Westfalen,code05,
-2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Nordrhein-Westfalen,code05,
-2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Nordrhein-Westfalen,code05,
-2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Nordrhein-Westfalen,code05,
-2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Nordrhein-Westfalen,code05,
-2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Nordrhein-Westfalen,code05,
-2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Nordrhein-Westfalen,code05,5.8
-2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Nordrhein-Westfalen,code05,8.5
-2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Nordrhein-Westfalen,code05,9.1
-2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Nordrhein-Westfalen,code05,7.8
-2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Nordrhein-Westfalen,code05,7.0
-2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Rheinland-Pfalz,code07,
-2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Rheinland-Pfalz,code07,
-2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Rheinland-Pfalz,code07,
-2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Rheinland-Pfalz,code07,
-2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Rheinland-Pfalz,code07,
-2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Rheinland-Pfalz,code07,
-2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Rheinland-Pfalz,code07,
-2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Rheinland-Pfalz,code07,3.9
-2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Rheinland-Pfalz,code07,5.7
-2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Rheinland-Pfalz,code07,7.4
-2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Rheinland-Pfalz,code07,7.3
-2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Rheinland-Pfalz,code07,6.7
-2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Saarland,code10,
-2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Saarland,code10,
-2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Saarland,code10,
-2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Saarland,code10,
-2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Saarland,code10,
-2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Saarland,code10,
-2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Saarland,code10,
-2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Saarland,code10,3.0
-2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Saarland,code10,5.8
-2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Saarland,code10,9.0
-2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Saarland,code10,8.4
-2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Saarland,code10,7.3
-2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Sachsen,code14,
-2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Sachsen,code14,
-2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Sachsen,code14,
-2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Sachsen,code14,
-2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Sachsen,code14,
-2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Sachsen,code14,
-2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Sachsen,code14,
-2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Sachsen,code14,2.8
-2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Sachsen,code14,2.6
-2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Sachsen,code14,4.4
-2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Sachsen,code14,4.3
-2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Sachsen,code14,3.8
-2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Sachsen-Anhalt,code15,
-2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Sachsen-Anhalt,code15,
-2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Sachsen-Anhalt,code15,
-2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Sachsen-Anhalt,code15,
-2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Sachsen-Anhalt,code15,
-2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Sachsen-Anhalt,code15,
-2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Sachsen-Anhalt,code15,
-2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Sachsen-Anhalt,code15,3.1
-2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Sachsen-Anhalt,code15,5.1
-2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Sachsen-Anhalt,code15,4.7
-2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Sachsen-Anhalt,code15,4.3
-2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Sachsen-Anhalt,code15,3.8
-2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Schleswig-Holstein,code01,
-2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Schleswig-Holstein,code01,
-2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Schleswig-Holstein,code01,
-2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Schleswig-Holstein,code01,
-2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Schleswig-Holstein,code01,
-2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Schleswig-Holstein,code01,
-2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Schleswig-Holstein,code01,
-2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Schleswig-Holstein,code01,4.0
-2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Schleswig-Holstein,code01,5.7
-2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Schleswig-Holstein,code01,6.7
-2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Schleswig-Holstein,code01,5.5
-2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Schleswig-Holstein,code01,4.7
-2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Thüringen,code16,
-2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Thüringen,code16,
-2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Thüringen,code16,
-2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Thüringen,code16,
-2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Thüringen,code16,
-2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Thüringen,code16,
-2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,Thüringen,code16,
-2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Thüringen,code16,5.8
-2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Thüringen,code16,6.6
-2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Thüringen,code16,8.4
-2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Thüringen,code16,6.5
-2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,Thüringen,code16,8.3
+Year,Units,Zeitreihe,Gebiet,COMMENT_OBS_0,Geschlecht,COMMENT_OBS_1,Altersklasse,Bundesland,GeoCode,Value
+2014,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,,,,19.7
+2015,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,,,,17.5
+2016,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,,,,16.0
+2017,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,,,,14.0
+2018,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,,,,13.1
+2019,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,,,,12.5
+2020,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,,,,12.5
+2021,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,,,,11.8
+2022,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,,,,12.5
+2023,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,,,,13.1
+2024,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,,,,12.1
+2025,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,,,,12.0
+2014,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Weiblich,,,,,20.5
+2015,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Weiblich,,,,,18.3
+2016,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Weiblich,,,,,16.9
+2017,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Weiblich,,,,,14.9
+2018,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Weiblich,,,,,13.9
+2019,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Weiblich,,,,,13.3
+2020,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Weiblich,,,,,13.2
+2021,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Weiblich,,,,,12.3
+2022,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,,13.2
+2023,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,,13.8
+2024,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,,12.6
+2025,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,,12.6
+2014,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Männlich,,,,,18.8
+2015,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Männlich,,,,,16.5
+2016,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Männlich,,,,,15.1
+2017,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Männlich,,,,,13.2
+2018,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Männlich,,,,,12.1
+2019,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Männlich,,,,,11.7
+2020,Prozent,a) Materielle und soziale Deprivation,Europäische Union,r,Männlich,,,,,11.8
+2021,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,Männlich,,,,,11.3
+2022,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,Männlich,,,,,11.9
+2023,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,Männlich,,,,,12.3
+2024,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,Männlich,,,,,11.5
+2025,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,Männlich,,,,,11.3
+2014,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,,,,,,12.3
+2015,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,,,,,,11.2
+2016,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,,,,,,9.6
+2017,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,,,,,,8.3
+2018,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,,,,,,7.6
+2019,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,,,,,,6.5
+2020,Prozent,a) Materielle und soziale Deprivation,Deutschland,|,,r,,,,9.1
+2021,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,,,,9.0
+2022,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,,,,11.7
+2023,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,,,,12.7
+2024,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,,,,11.4
+2025,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,,,,10.7
+2014,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,Weiblich,,,,,13.3
+2015,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,Weiblich,,,,,12.2
+2016,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,Weiblich,,,,,10.5
+2017,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,Weiblich,,,,,9.0
+2018,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,Weiblich,,,,,8.2
+2019,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,Weiblich,,,,,7.0
+2020,Prozent,a) Materielle und soziale Deprivation,Deutschland,|,Weiblich,r,,,,9.3
+2021,Prozent,a) Materielle und soziale Deprivation,Deutschland,,Weiblich,,,,,9.0
+2022,Prozent,a) Materielle und soziale Deprivation,Deutschland,,Weiblich,,,,,11.8
+2023,Prozent,a) Materielle und soziale Deprivation,Deutschland,,Weiblich,,,,,12.9
+2024,Prozent,a) Materielle und soziale Deprivation,Deutschland,,Weiblich,,,,,11.4
+2025,Prozent,a) Materielle und soziale Deprivation,Deutschland,,Weiblich,,,,,10.8
+2014,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,Männlich,,,,,11.3
+2015,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,Männlich,,,,,10.2
+2016,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,Männlich,,,,,8.6
+2017,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,Männlich,,,,,7.6
+2018,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,Männlich,,,,,7.0
+2019,Prozent,a) Materielle und soziale Deprivation,Deutschland,r,Männlich,,,,,6.0
+2020,Prozent,a) Materielle und soziale Deprivation,Deutschland,|,Männlich,r,,,,8.9
+2021,Prozent,a) Materielle und soziale Deprivation,Deutschland,,Männlich,,,,,9.0
+2022,Prozent,a) Materielle und soziale Deprivation,Deutschland,,Männlich,,,,,11.6
+2023,Prozent,a) Materielle und soziale Deprivation,Deutschland,,Männlich,,,,,12.5
+2024,Prozent,a) Materielle und soziale Deprivation,Deutschland,,Männlich,,,,,11.4
+2025,Prozent,a) Materielle und soziale Deprivation,Deutschland,,Männlich,,,,,10.7
+2014,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,under 16 years,,,15.1
+2015,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,under 16 years,,,14.7
+2016,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,under 16 years,,,13.2
+2017,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,under 16 years,,,11.3
+2018,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,under 16 years,,,9.1
+2019,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,under 16 years,,,6.7
+2020,Prozent,a) Materielle und soziale Deprivation,Deutschland,|,,,under 16 years,,,11.2
+2021,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,under 16 years,,,11.5
+2022,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,under 16 years,,,14.9
+2023,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,under 16 years,,,15.5
+2024,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,under 16 years,,,13.0
+2025,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,under 16 years,,,12.3
+2014,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,16 to 24 years,,,9.1
+2015,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,16 to 24 years,,,7.7
+2016,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,16 to 24 years,,,7.3
+2017,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,16 to 24 years,,,6.1
+2018,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,16 to 24 years,,,6.4
+2019,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,16 to 24 years,,,4.8
+2020,Prozent,a) Materielle und soziale Deprivation,Deutschland,|,,,16 to 24 years,,,11.1
+2021,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,16 to 24 years,,,10.2
+2022,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,16 to 24 years,,,13.2
+2023,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,16 to 24 years,,,13.9
+2024,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,16 to 24 years,,,12.3
+2025,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,16 to 24 years,,,11.9
+2014,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,25 to 49 years,,,12.3
+2015,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,25 to 49 years,,,11.3
+2016,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,25 to 49 years,,,9.5
+2017,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,25 to 49 years,,,7.8
+2018,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,25 to 49 years,,,7.1
+2019,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,25 to 49 years,,,6.2
+2020,Prozent,a) Materielle und soziale Deprivation,Deutschland,|,,,25 to 49 years,,,9.9
+2021,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,25 to 49 years,,,9.8
+2022,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,25 to 49 years,,,13.0
+2023,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,25 to 49 years,,,14.1
+2024,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,25 to 49 years,,,12.4
+2025,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,25 to 49 years,,,12.1
+2014,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,50 to 64 years,,,14.8
+2015,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,50 to 64 years,,,13.7
+2016,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,50 to 64 years,,,10.3
+2017,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,50 to 64 years,,,9.5
+2018,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,50 to 64 years,,,9.0
+2019,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,50 to 64 years,,,8.1
+2020,Prozent,a) Materielle und soziale Deprivation,Deutschland,|,,,50 to 64 years,,,9.0
+2021,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,50 to 64 years,,,8.6
+2022,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,50 to 64 years,,,10.7
+2023,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,50 to 64 years,,,11.8
+2024,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,50 to 64 years,,,11.5
+2025,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,50 to 64 years,,,10.3
+2014,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,65 years and older,,,8.9
+2015,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,65 years and older,,,7.3
+2016,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,65 years and older,,,7.1
+2017,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,65 years and older,,,6.3
+2018,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,65 years and older,,,6.2
+2019,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,65 years and older,,,5.8
+2020,Prozent,a) Materielle und soziale Deprivation,Deutschland,|,,,65 years and older,,,5.5
+2021,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,65 years and older,,,6.0
+2022,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,65 years and older,,,7.8
+2023,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,65 years and older,,,8.8
+2024,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,65 years and older,,,8.1
+2025,Prozent,a) Materielle und soziale Deprivation,Deutschland,,,,65 years and older,,,7.5
+2014,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,under 16 years,,,24.1
+2015,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,under 16 years,,,21.8
+2016,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,under 16 years,,,19.9
+2017,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,under 16 years,,,17.3
+2018,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,under 16 years,,,15.8
+2019,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,under 16 years,,,13.4
+2020,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,under 16 years,,,14.1
+2021,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,under 16 years,,,12.9
+2022,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,under 16 years,,,14.5
+2023,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,under 16 years,,,15.1
+2024,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,under 16 years,,,13.8
+2025,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,under 16 years,,,13.8
+2014,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,16 to 24 years,,,19.8
+2015,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,16 to 24 years,,,17.0
+2016,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,16 to 24 years,,,16.0
+2017,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,16 to 24 years,,,13.2
+2018,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,16 to 24 years,,,12.4
+2019,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,16 to 24 years,,,10.9
+2020,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,16 to 24 years,,,13.2
+2021,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,16 to 24 years,,,12.0
+2022,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,16 to 24 years,,,12.3
+2023,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,16 to 24 years,,,13.3
+2024,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,16 to 24 years,,,12.1
+2025,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,16 to 24 years,,,12.2
+2014,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,25 to 49 years,,,19.3
+2015,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,25 to 49 years,,,17.1
+2016,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,25 to 49 years,,,15.6
+2017,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,25 to 49 years,,,13.5
+2018,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,25 to 49 years,,,12.3
+2019,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,25 to 49 years,,,11.8
+2020,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,25 to 49 years,,,12.1
+2021,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,25 to 49 years,,,11.4
+2022,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,25 to 49 years,,,12.4
+2023,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,25 to 49 years,,,13.0
+2024,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,25 to 49 years,,,12.0
+2025,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,25 to 49 years,,,11.9
+2014,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,50 to 64 years,,,20.4
+2015,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,50 to 64 years,,,18.3
+2016,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,50 to 64 years,,,16.4
+2017,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,50 to 64 years,,,14.5
+2018,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,50 to 64 years,,,13.6
+2019,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,50 to 64 years,,,13.7
+2020,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,50 to 64 years,,,13.2
+2021,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,50 to 64 years,,,12.6
+2022,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,50 to 64 years,,,12.8
+2023,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,50 to 64 years,,,13.5
+2024,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,50 to 64 years,,,12.7
+2025,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,50 to 64 years,,,12.4
+2014,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,65 years and older,,,15.5
+2015,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,65 years and older,,,13.4
+2016,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,65 years and older,,,12.8
+2017,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,65 years and older,,,11.9
+2018,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,65 years and older,,,11.7
+2019,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,65 years and older,,,12.4
+2020,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,65 years and older,,,10.8
+2021,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,65 years and older,,,10.6
+2022,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,65 years and older,,,11.0
+2023,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,65 years and older,,,11.2
+2024,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,65 years and older,,,10.2
+2025,Prozent,a) Materielle und soziale Deprivation,Europäische Union,,,,65 years and older,,,10.1
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,.,,,,,,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,,,,9.3
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,,,,8.7
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,,,,7.5
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,,,,6.8
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,,,,6.7
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,,,,6.7
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,,,,6.3
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,,,,6.7
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,,,,6.8
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,,,,6.4
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,,,,6.3
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,.,Weiblich,,,,,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,,9.9
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,,9.3
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,,7.9
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,,7.2
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,,7.1
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,,7.1
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,,6.5
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,,7.0
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,,7.2
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,,6.6
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Weiblich,,,,,6.6
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,.,Männlich,,,,,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Männlich,,,,,8.8
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Männlich,,,,,8.1
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Männlich,,,,,7.0
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Männlich,,,,,6.3
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Männlich,,,,,6.2
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Männlich,,,,,6.4
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Männlich,,,,,6.0
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Männlich,,,,,6.3
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Männlich,,,,,6.5
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Männlich,,,,,6.2
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,Männlich,,,,,6.0
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,,,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,,,5.7
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,,,4.7
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,,,3.7
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,,,3.4
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,,,3.0
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,|,,,,,,4.4
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,,,4.3
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,,,6.2
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,,,6.9
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,,,6.2
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,,,5.6
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,Weiblich,,,,,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Weiblich,,,,,6.3
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Weiblich,,,,,5.1
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Weiblich,,,,,4.0
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Weiblich,,,,,3.6
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Weiblich,,,,,3.3
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,|,Weiblich,,,,,4.4
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Weiblich,,,,,4.3
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Weiblich,,,,,6.1
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Weiblich,,,,,6.8
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Weiblich,,,,,6.1
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Weiblich,,,,,5.5
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,Männlich,,,,,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Männlich,,,,,5.0
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Männlich,,,,,4.3
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Männlich,,,,,3.5
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Männlich,,,,,3.2
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Männlich,,,,,2.6
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,|,Männlich,,,,,4.3
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Männlich,,,,,4.4
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Männlich,,,,,6.3
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Männlich,,,,,7.0
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Männlich,,,,,6.3
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,Männlich,,,,,5.6
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Baden-Württemberg,code08,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Baden-Württemberg,code08,
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Baden-Württemberg,code08,
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Baden-Württemberg,code08,
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Baden-Württemberg,code08,
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Baden-Württemberg,code08,
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Baden-Württemberg,code08,
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Baden-Württemberg,code08,3.4
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Baden-Württemberg,code08,5.2
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Baden-Württemberg,code08,6.1
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Baden-Württemberg,code08,6.8
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Baden-Württemberg,code08,5.5
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Bayern,code09,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Bayern,code09,
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Bayern,code09,
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Bayern,code09,
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Bayern,code09,
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Bayern,code09,
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Bayern,code09,
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Bayern,code09,3.1
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Bayern,code09,4.1
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Bayern,code09,4.5
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Bayern,code09,3.4
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Bayern,code09,3.1
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Berlin,code11,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Berlin,code11,
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Berlin,code11,
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Berlin,code11,
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Berlin,code11,
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Berlin,code11,
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Berlin,code11,
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Berlin,code11,3.4
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Berlin,code11,5.1
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Berlin,code11,5.7
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Berlin,code11,4.0
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Berlin,code11,5.6
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Brandenburg,code12,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Brandenburg,code12,
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Brandenburg,code12,
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Brandenburg,code12,
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Brandenburg,code12,
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Brandenburg,code12,
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Brandenburg,code12,
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Brandenburg,code12,2.3
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Brandenburg,code12,4.5
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Brandenburg,code12,6.3
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Brandenburg,code12,5.0
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Brandenburg,code12,5.4
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Bremen,code04,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Bremen,code04,
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Bremen,code04,
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Bremen,code04,
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Bremen,code04,
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Bremen,code04,
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Bremen,code04,
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Bremen,code04,9.0
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Bremen,code04,10.4
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Bremen,code04,14.0
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Bremen,code04,10.1
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Bremen,code04,10.9
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Hamburg,code02,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Hamburg,code02,
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Hamburg,code02,
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Hamburg,code02,
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Hamburg,code02,
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Hamburg,code02,
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Hamburg,code02,
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Hamburg,code02,5.3
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Hamburg,code02,7.4
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Hamburg,code02,6.7
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Hamburg,code02,6.4
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Hamburg,code02,5.6
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Hessen,code06,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Hessen,code06,
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Hessen,code06,
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Hessen,code06,
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Hessen,code06,
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Hessen,code06,
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Hessen,code06,
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Hessen,code06,6.0
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Hessen,code06,7.8
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Hessen,code06,7.4
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Hessen,code06,7.0
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Hessen,code06,5.4
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Mecklenburg-Vorpommern,code13,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Mecklenburg-Vorpommern,code13,
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Mecklenburg-Vorpommern,code13,
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Mecklenburg-Vorpommern,code13,
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Mecklenburg-Vorpommern,code13,
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Mecklenburg-Vorpommern,code13,
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Mecklenburg-Vorpommern,code13,
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Mecklenburg-Vorpommern,code13,4.3
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Mecklenburg-Vorpommern,code13,8.4
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Mecklenburg-Vorpommern,code13,8.8
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Mecklenburg-Vorpommern,code13,5.2
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Mecklenburg-Vorpommern,code13,5.2
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Niedersachsen,code03,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Niedersachsen,code03,
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Niedersachsen,code03,
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Niedersachsen,code03,
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Niedersachsen,code03,
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Niedersachsen,code03,
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Niedersachsen,code03,
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Niedersachsen,code03,4.9
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Niedersachsen,code03,7.3
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Niedersachsen,code03,7.7
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Niedersachsen,code03,7.5
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Niedersachsen,code03,6.5
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Nordrhein-Westfalen,code05,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Nordrhein-Westfalen,code05,
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Nordrhein-Westfalen,code05,
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Nordrhein-Westfalen,code05,
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Nordrhein-Westfalen,code05,
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Nordrhein-Westfalen,code05,
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Nordrhein-Westfalen,code05,
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Nordrhein-Westfalen,code05,5.8
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Nordrhein-Westfalen,code05,8.5
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Nordrhein-Westfalen,code05,9.1
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Nordrhein-Westfalen,code05,7.8
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Nordrhein-Westfalen,code05,7.0
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Rheinland-Pfalz,code07,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Rheinland-Pfalz,code07,
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Rheinland-Pfalz,code07,
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Rheinland-Pfalz,code07,
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Rheinland-Pfalz,code07,
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Rheinland-Pfalz,code07,
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Rheinland-Pfalz,code07,
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Rheinland-Pfalz,code07,3.9
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Rheinland-Pfalz,code07,5.7
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Rheinland-Pfalz,code07,7.4
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Rheinland-Pfalz,code07,7.3
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Rheinland-Pfalz,code07,6.7
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Saarland,code10,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Saarland,code10,
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Saarland,code10,
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Saarland,code10,
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Saarland,code10,
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Saarland,code10,
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Saarland,code10,
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Saarland,code10,3.0
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Saarland,code10,5.8
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Saarland,code10,9.0
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Saarland,code10,8.4
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Saarland,code10,7.3
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Sachsen,code14,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Sachsen,code14,
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Sachsen,code14,
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Sachsen,code14,
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Sachsen,code14,
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Sachsen,code14,
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Sachsen,code14,
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Sachsen,code14,2.8
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Sachsen,code14,2.6
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Sachsen,code14,4.4
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Sachsen,code14,4.3
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Sachsen,code14,3.8
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Sachsen-Anhalt,code15,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Sachsen-Anhalt,code15,
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Sachsen-Anhalt,code15,
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Sachsen-Anhalt,code15,
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Sachsen-Anhalt,code15,
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Sachsen-Anhalt,code15,
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Sachsen-Anhalt,code15,
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Sachsen-Anhalt,code15,3.1
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Sachsen-Anhalt,code15,5.1
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Sachsen-Anhalt,code15,4.7
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Sachsen-Anhalt,code15,4.3
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Sachsen-Anhalt,code15,3.8
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Schleswig-Holstein,code01,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Schleswig-Holstein,code01,
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Schleswig-Holstein,code01,
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Schleswig-Holstein,code01,
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Schleswig-Holstein,code01,
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Schleswig-Holstein,code01,
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Schleswig-Holstein,code01,
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Schleswig-Holstein,code01,4.0
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Schleswig-Holstein,code01,5.7
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Schleswig-Holstein,code01,6.7
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Schleswig-Holstein,code01,5.5
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Schleswig-Holstein,code01,4.7
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Thüringen,code16,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Thüringen,code16,
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Thüringen,code16,
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Thüringen,code16,
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Thüringen,code16,
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Thüringen,code16,
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,,Thüringen,code16,
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Thüringen,code16,5.8
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Thüringen,code16,6.6
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Thüringen,code16,8.4
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Thüringen,code16,6.5
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,,Thüringen,code16,8.3
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,under 16 years,,,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,under 16 years,,,7.5
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,under 16 years,,,6.7
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,under 16 years,,,4.4
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,under 16 years,,,4.1
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,under 16 years,,,3.3
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,|,,,under 16 years,,,6.1
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,under 16 years,,,5.8
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,under 16 years,,,8.8
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,under 16 years,,,9.3
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,under 16 years,,,7.5
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,under 16 years,,,7.1
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,16 to 24 years,,,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,16 to 24 years,,,2.9
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,16 to 24 years,,,3.1
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,16 to 24 years,,,2.6
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,16 to 24 years,,,1.9
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,16 to 24 years,,,1.7
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,|,,,16 to 24 years,,,4.3
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,16 to 24 years,,,4.5
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,16 to 24 years,,,6.4
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,16 to 24 years,,,6.8
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,16 to 24 years,,,6.1
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,16 to 24 years,,,5.5
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,25 to 49 years,,,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,25 to 49 years,,,5.6
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,25 to 49 years,,,4.6
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,25 to 49 years,,,3.4
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,25 to 49 years,,,2.9
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,25 to 49 years,,,2.4
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,|,,,25 to 49 years,,,4.8
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,25 to 49 years,,,4.7
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,25 to 49 years,,,6.7
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,25 to 49 years,,,7.6
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,25 to 49 years,,,6.6
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,25 to 49 years,,,6.2
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,50 to 64 years,,,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,50 to 64 years,,,7.7
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,50 to 64 years,,,5.2
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,50 to 64 years,,,4.8
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,50 to 64 years,,,4.6
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,50 to 64 years,,,4.0
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,|,,,50 to 64 years,,,4.4
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,50 to 64 years,,,4.3
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,50 to 64 years,,,5.9
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,50 to 64 years,,,6.6
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,50 to 64 years,,,6.4
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,50 to 64 years,,,5.5
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,.,,,65 years and older,,,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,65 years and older,,,3.5
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,65 years and older,,,3.6
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,65 years and older,,,3.0
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,65 years and older,,,3.1
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,65 years and older,,,2.8
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,|,,,65 years and older,,,2.5
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,65 years and older,,,2.7
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,65 years and older,,,3.6
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,65 years and older,,,4.4
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,65 years and older,,,4.3
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Deutschland,,,,65 years and older,,,3.7
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,.,,,under 16 years,,,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,under 16 years,,,12.3
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,under 16 years,,,11.5
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,under 16 years,,,9.5
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,under 16 years,,,8.5
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,under 16 years,,,7.8
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,under 16 years,,,8.5
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,under 16 years,,,7.6
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,under 16 years,,,8.6
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,under 16 years,,,8.7
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,under 16 years,,,8.2
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,under 16 years,,,8.1
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,.,,,16 to 24 years,,,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,16 to 24 years,,,8.1
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,16 to 24 years,,,7.9
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,16 to 24 years,,,6.5
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,16 to 24 years,,,5.7
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,16 to 24 years,,,5.2
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,16 to 24 years,,,6.3
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,16 to 24 years,,,5.9
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,16 to 24 years,,,5.9
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,16 to 24 years,,,5.9
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,16 to 24 years,,,5.7
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,16 to 24 years,,,5.7
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,.,,,25 to 49 years,,,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,25 to 49 years,,,9.1
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,25 to 49 years,,,8.4
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,25 to 49 years,,,7.1
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,25 to 49 years,,,6.3
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,25 to 49 years,,,6.1
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,25 to 49 years,,,6.4
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,25 to 49 years,,,5.9
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,25 to 49 years,,,6.5
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,25 to 49 years,,,6.7
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,25 to 49 years,,,6.1
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,25 to 49 years,,,6.1
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,.,,,50 to 64 years,,,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,50 to 64 years,,,10.4
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,50 to 64 years,,,9.3
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,50 to 64 years,,,8.1
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,50 to 64 years,,,7.5
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,50 to 64 years,,,7.5
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,50 to 64 years,,,7.2
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,50 to 64 years,,,6.8
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,50 to 64 years,,,7.0
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,50 to 64 years,,,7.3
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,50 to 64 years,,,7.0
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,50 to 64 years,,,6.8
+2014,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,.,,,65 years and older,,,
+2015,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,65 years and older,,,6.6
+2016,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,65 years and older,,,6.5
+2017,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,65 years and older,,,6.1
+2018,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,65 years and older,,,5.9
+2019,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,65 years and older,,,6.5
+2020,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,65 years and older,,,5.5
+2021,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,65 years and older,,,5.3
+2022,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,65 years and older,,,5.4
+2023,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,65 years and older,,,5.5
+2024,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,65 years and older,,,5.1
+2025,Prozent,b) Erhebliche materielle und soziale Deprivation,Europäische Union,,,,65 years and older,,,4.9

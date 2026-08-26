@@ -73,6 +73,21 @@
             "title": "COMMENT_OBS_1"
           },
           {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "under 16 years",
+                "16 to 24 years",
+                "25 to 49 years",
+                "50 to 64 years",
+                "65 years and older",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
             "name": "länder",
             "type": "string",
             "constraints": {

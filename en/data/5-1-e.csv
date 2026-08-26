@@ -15,9 +15,10 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2019,Hours,Mothers,,,,,18.704
 2020,Hours,Mothers,|,,,,18.443
 2021,Hours,Mothers,|,r,,,18.892
-2022,Hours,Mothers,r,,,,19.237
+2022,Hours,Mothers,r,,,,19.239
 2023,Hours,Mothers,r,,,,19.334
-2024,Hours,Mothers,p,,,,19.588
+2024,Hours,Mothers,,,,,19.525
+2025,Hours,Mothers,p,,,,19.742
 2006,Hours,Fathers,,,,,37.166
 2007,Hours,Fathers,|,,,,37.723
 2008,Hours,Fathers,,,,,38.093
@@ -34,9 +35,10 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2019,Hours,Fathers,,,,,37.587
 2020,Hours,Fathers,|,,,,36.528
 2021,Hours,Fathers,|,r,,,36.652
-2022,Hours,Fathers,r,,,,37.1
+2022,Hours,Fathers,r,,,,37.094
 2023,Hours,Fathers,r,,,,36.837
-2024,Hours,Fathers,p,,,,36.636
+2024,Hours,Fathers,,,,,36.57
+2025,Hours,Fathers,p,,,,36.346
 2006,Hours,Difference,,,,,22.159
 2007,Hours,Difference,|,,,,22.477
 2008,Hours,Difference,,,,,22.583
@@ -53,9 +55,10 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2019,Hours,Difference,,,,,18.883
 2020,Hours,Difference,|,,,,18.085
 2021,Hours,Difference,|,r,,,17.761
-2022,Hours,Difference,r,,,,17.863
+2022,Hours,Difference,r,,,,17.855
 2023,Hours,Difference,r,,,,17.502
-2024,Hours,Difference,p,,,,17.047
+2024,Hours,Difference,,,,,17.044
+2025,Hours,Difference,p,,,,16.604
 2006,Hours,Mothers,,,Baden-Wuerttemberg,code08,13.78
 2007,Hours,Mothers,|,,Baden-Wuerttemberg,code08,14.243
 2008,Hours,Mothers,,,Baden-Wuerttemberg,code08,14.782
@@ -74,7 +77,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Mothers,|,,Baden-Wuerttemberg,code08,16.788
 2022,Hours,Mothers,,,Baden-Wuerttemberg,code08,17.279
 2023,Hours,Mothers,,,Baden-Wuerttemberg,code08,17.538
-2024,Hours,Mothers,p,,Baden-Wuerttemberg,code08,17.847
+2024,Hours,Mothers,,,Baden-Wuerttemberg,code08,17.838
+2025,Hours,Mothers,p,,Baden-Wuerttemberg,code08,18.069
 2006,Hours,Mothers,,,Bavaria,code09,14.457
 2007,Hours,Mothers,|,,Bavaria,code09,14.821
 2008,Hours,Mothers,,,Bavaria,code09,15.148
@@ -93,7 +97,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Mothers,|,,Bavaria,code09,17.653
 2022,Hours,Mothers,,,Bavaria,code09,18.065
 2023,Hours,Mothers,,,Bavaria,code09,18.378
-2024,Hours,Mothers,p,,Bavaria,code09,18.904
+2024,Hours,Mothers,,,Bavaria,code09,18.932
+2025,Hours,Mothers,p,,Bavaria,code09,19.006
 2006,Hours,Mothers,,,Berlin,code11,17.266
 2007,Hours,Mothers,|,,Berlin,code11,17.775
 2008,Hours,Mothers,,,Berlin,code11,18.023
@@ -112,7 +117,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Mothers,|,,Berlin,code11,21.683
 2022,Hours,Mothers,,,Berlin,code11,21.705
 2023,Hours,Mothers,,,Berlin,code11,20.925
-2024,Hours,Mothers,p,,Berlin,code11,21.102
+2024,Hours,Mothers,,,Berlin,code11,21.036
+2025,Hours,Mothers,p,,Berlin,code11,21.635
 2006,Hours,Mothers,,,Brandenburg,code12,22.992
 2007,Hours,Mothers,|,,Brandenburg,code12,22.868
 2008,Hours,Mothers,,,Brandenburg,code12,23.329
@@ -131,7 +137,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Mothers,|,,Brandenburg,code12,28.033
 2022,Hours,Mothers,,,Brandenburg,code12,27.916
 2023,Hours,Mothers,,,Brandenburg,code12,27.172
-2024,Hours,Mothers,p,,Brandenburg,code12,27.444
+2024,Hours,Mothers,,,Brandenburg,code12,27.612
+2025,Hours,Mothers,p,,Brandenburg,code12,27.142
 2006,Hours,Mothers,,,Bremen,code04,12.462
 2007,Hours,Mothers,|,,Bremen,code04,13.508
 2008,Hours,Mothers,,,Bremen,code04,13.508
@@ -150,7 +157,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Mothers,|,,Bremen,code04,14.877
 2022,Hours,Mothers,,,Bremen,code04,14.818
 2023,Hours,Mothers,,,Bremen,code04,14.191
-2024,Hours,Mothers,p,,Bremen,code04,15.224
+2024,Hours,Mothers,,,Bremen,code04,15.209
+2025,Hours,Mothers,p,,Bremen,code04,14.731
 2006,Hours,Mothers,,,Hamburg,code02,15.143
 2007,Hours,Mothers,|,,Hamburg,code02,15.018
 2008,Hours,Mothers,,,Hamburg,code02,15.671
@@ -169,7 +177,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Mothers,|,,Hamburg,code02,19.111
 2022,Hours,Mothers,,,Hamburg,code02,19.634
 2023,Hours,Mothers,,,Hamburg,code02,19.763
-2024,Hours,Mothers,p,,Hamburg,code02,19.783
+2024,Hours,Mothers,,,Hamburg,code02,19.556
+2025,Hours,Mothers,p,,Hamburg,code02,18.853
 2006,Hours,Mothers,,,Hesse,code06,14.147
 2007,Hours,Mothers,|,,Hesse,code06,14.632
 2008,Hours,Mothers,,,Hesse,code06,14.995
@@ -188,7 +197,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Mothers,|,,Hesse,code06,17.779
 2022,Hours,Mothers,,,Hesse,code06,18.313
 2023,Hours,Mothers,,,Hesse,code06,18.773
-2024,Hours,Mothers,p,,Hesse,code06,18.87
+2024,Hours,Mothers,,,Hesse,code06,18.875
+2025,Hours,Mothers,p,,Hesse,code06,19.186
 2006,Hours,Mothers,,,Mecklenburg Western Pomerania,code13,21.772
 2007,Hours,Mothers,|,,Mecklenburg Western Pomerania,code13,20.897
 2008,Hours,Mothers,,,Mecklenburg Western Pomerania,code13,20.874
@@ -207,7 +217,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Mothers,|,,Mecklenburg Western Pomerania,code13,26.193
 2022,Hours,Mothers,,,Mecklenburg Western Pomerania,code13,26.048
 2023,Hours,Mothers,,,Mecklenburg Western Pomerania,code13,27.0
-2024,Hours,Mothers,p,,Mecklenburg Western Pomerania,code13,26.55
+2024,Hours,Mothers,,,Mecklenburg Western Pomerania,code13,26.701
+2025,Hours,Mothers,p,,Mecklenburg Western Pomerania,code13,27.103
 2006,Hours,Mothers,,,Lower Saxony,code03,13.133
 2007,Hours,Mothers,|,,Lower Saxony,code03,13.804
 2008,Hours,Mothers,,,Lower Saxony,code03,14.052
@@ -226,7 +237,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Mothers,|,,Lower Saxony,code03,17.594
 2022,Hours,Mothers,,,Lower Saxony,code03,18.227
 2023,Hours,Mothers,,,Lower Saxony,code03,18.1
-2024,Hours,Mothers,p,,Lower Saxony,code03,18.395
+2024,Hours,Mothers,,,Lower Saxony,code03,18.243
+2025,Hours,Mothers,p,,Lower Saxony,code03,18.782
 2006,Hours,Mothers,,,North Rhine-Westphalia,code05,12.942
 2007,Hours,Mothers,|,,North Rhine-Westphalia,code05,13.118
 2008,Hours,Mothers,,,North Rhine-Westphalia,code05,13.338
@@ -245,7 +257,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Mothers,|,,North Rhine-Westphalia,code05,16.755
 2022,Hours,Mothers,,,North Rhine-Westphalia,code05,17.173
 2023,Hours,Mothers,,,North Rhine-Westphalia,code05,17.427
-2024,Hours,Mothers,p,,North Rhine-Westphalia,code05,17.647
+2024,Hours,Mothers,,,North Rhine-Westphalia,code05,17.523
+2025,Hours,Mothers,p,,North Rhine-Westphalia,code05,17.849
 2006,Hours,Mothers,,,Rhineland Palatinate,code07,14.667
 2007,Hours,Mothers,|,,Rhineland Palatinate,code07,14.564
 2008,Hours,Mothers,,,Rhineland Palatinate,code07,14.765
@@ -264,7 +277,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Mothers,|,,Rhineland Palatinate,code07,17.548
 2022,Hours,Mothers,,,Rhineland Palatinate,code07,17.544
 2023,Hours,Mothers,,,Rhineland Palatinate,code07,18.065
-2024,Hours,Mothers,p,,Rhineland Palatinate,code07,18.385
+2024,Hours,Mothers,,,Rhineland Palatinate,code07,18.227
+2025,Hours,Mothers,p,,Rhineland Palatinate,code07,18.596
 2006,Hours,Mothers,,,Saarland,code10,12.748
 2007,Hours,Mothers,|,,Saarland,code10,13.861
 2008,Hours,Mothers,,,Saarland,code10,14.819
@@ -283,7 +297,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Mothers,|,,Saarland,code10,18.111
 2022,Hours,Mothers,,,Saarland,code10,17.374
 2023,Hours,Mothers,,,Saarland,code10,17.719
-2024,Hours,Mothers,p,,Saarland,code10,17.848
+2024,Hours,Mothers,,,Saarland,code10,17.576
+2025,Hours,Mothers,p,,Saarland,code10,18.576
 2006,Hours,Mothers,,,Saxony,code14,21.496
 2007,Hours,Mothers,|,,Saxony,code14,21.576
 2008,Hours,Mothers,,,Saxony,code14,21.582
@@ -302,7 +317,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Mothers,|,,Saxony,code14,26.563
 2022,Hours,Mothers,,,Saxony,code14,26.244
 2023,Hours,Mothers,,,Saxony,code14,25.838
-2024,Hours,Mothers,p,,Saxony,code14,26.233
+2024,Hours,Mothers,,,Saxony,code14,26.082
+2025,Hours,Mothers,p,,Saxony,code14,25.793
 2006,Hours,Mothers,,,Saxony-Anhalt,code15,21.449
 2007,Hours,Mothers,|,,Saxony-Anhalt,code15,21.502
 2008,Hours,Mothers,,,Saxony-Anhalt,code15,20.849
@@ -321,7 +337,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Mothers,|,,Saxony-Anhalt,code15,26.098
 2022,Hours,Mothers,,,Saxony-Anhalt,code15,26.181
 2023,Hours,Mothers,,,Saxony-Anhalt,code15,26.197
-2024,Hours,Mothers,p,,Saxony-Anhalt,code15,26.079
+2024,Hours,Mothers,,,Saxony-Anhalt,code15,25.853
+2025,Hours,Mothers,p,,Saxony-Anhalt,code15,25.576
 2006,Hours,Mothers,,,Schleswig-Holstein,code01,14.197
 2007,Hours,Mothers,|,,Schleswig-Holstein,code01,14.312
 2008,Hours,Mothers,,,Schleswig-Holstein,code01,14.836
@@ -340,7 +357,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Mothers,|,,Schleswig-Holstein,code01,18.57
 2022,Hours,Mothers,,,Schleswig-Holstein,code01,19.291
 2023,Hours,Mothers,,,Schleswig-Holstein,code01,19.162
-2024,Hours,Mothers,p,,Schleswig-Holstein,code01,19.415
+2024,Hours,Mothers,,,Schleswig-Holstein,code01,19.359
+2025,Hours,Mothers,p,,Schleswig-Holstein,code01,19.642
 2006,Hours,Mothers,,,Thuringia,code16,21.146
 2007,Hours,Mothers,|,,Thuringia,code16,21.322
 2008,Hours,Mothers,,,Thuringia,code16,21.396
@@ -359,7 +377,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Mothers,|,,Thuringia,code16,25.768
 2022,Hours,Mothers,,,Thuringia,code16,26.528
 2023,Hours,Mothers,,,Thuringia,code16,25.935
-2024,Hours,Mothers,p,,Thuringia,code16,25.63
+2024,Hours,Mothers,,,Thuringia,code16,25.542
+2025,Hours,Mothers,p,,Thuringia,code16,26.321
 2006,Hours,Fathers,,,Baden-Wuerttemberg,code08,39.239
 2007,Hours,Fathers,|,,Baden-Wuerttemberg,code08,39.964
 2008,Hours,Fathers,,,Baden-Wuerttemberg,code08,39.897
@@ -378,7 +397,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Fathers,|,,Baden-Wuerttemberg,code08,37.892
 2022,Hours,Fathers,,,Baden-Wuerttemberg,code08,38.094
 2023,Hours,Fathers,,,Baden-Wuerttemberg,code08,37.94
-2024,Hours,Fathers,p,,Baden-Wuerttemberg,code08,37.816
+2024,Hours,Fathers,,,Baden-Wuerttemberg,code08,37.754
+2025,Hours,Fathers,p,,Baden-Wuerttemberg,code08,37.51
 2006,Hours,Fathers,,,Bavaria,code09,39.605
 2007,Hours,Fathers,|,,Bavaria,code09,39.744
 2008,Hours,Fathers,,,Bavaria,code09,40.303
@@ -397,7 +417,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Fathers,|,,Bavaria,code09,38.311
 2022,Hours,Fathers,,,Bavaria,code09,38.611
 2023,Hours,Fathers,,,Bavaria,code09,38.462
-2024,Hours,Fathers,p,,Bavaria,code09,37.898
+2024,Hours,Fathers,,,Bavaria,code09,37.902
+2025,Hours,Fathers,p,,Bavaria,code09,37.646
 2006,Hours,Fathers,,,Berlin,code11,30.463
 2007,Hours,Fathers,|,,Berlin,code11,31.366
 2008,Hours,Fathers,,,Berlin,code11,31.662
@@ -416,7 +437,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Fathers,|,,Berlin,code11,33.182
 2022,Hours,Fathers,,,Berlin,code11,34.895
 2023,Hours,Fathers,,,Berlin,code11,34.021
-2024,Hours,Fathers,p,,Berlin,code11,33.512
+2024,Hours,Fathers,,,Berlin,code11,33.156
+2025,Hours,Fathers,p,,Berlin,code11,32.772
 2006,Hours,Fathers,,,Brandenburg,code12,33.602
 2007,Hours,Fathers,|,,Brandenburg,code12,34.882
 2008,Hours,Fathers,,,Brandenburg,code12,35.61
@@ -435,7 +457,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Fathers,|,,Brandenburg,code12,37.621
 2022,Hours,Fathers,,,Brandenburg,code12,37.439
 2023,Hours,Fathers,,,Brandenburg,code12,37.163
-2024,Hours,Fathers,p,,Brandenburg,code12,36.752
+2024,Hours,Fathers,,,Brandenburg,code12,36.875
+2025,Hours,Fathers,p,,Brandenburg,code12,36.5
 2006,Hours,Fathers,,,Bremen,code04,30.583
 2007,Hours,Fathers,|,,Bremen,code04,33.28
 2008,Hours,Fathers,,,Bremen,code04,33.804
@@ -454,7 +477,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Fathers,|,,Bremen,code04,30.961
 2022,Hours,Fathers,,,Bremen,code04,32.074
 2023,Hours,Fathers,,,Bremen,code04,31.566
-2024,Hours,Fathers,p,,Bremen,code04,31.509
+2024,Hours,Fathers,,,Bremen,code04,31.846
+2025,Hours,Fathers,p,,Bremen,code04,30.453
 2006,Hours,Fathers,,,Hamburg,code02,35.115
 2007,Hours,Fathers,|,,Hamburg,code02,34.677
 2008,Hours,Fathers,,,Hamburg,code02,35.904
@@ -473,7 +497,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Fathers,|,,Hamburg,code02,35.248
 2022,Hours,Fathers,,,Hamburg,code02,35.782
 2023,Hours,Fathers,,,Hamburg,code02,35.72
-2024,Hours,Fathers,p,,Hamburg,code02,35.322
+2024,Hours,Fathers,,,Hamburg,code02,35.393
+2025,Hours,Fathers,p,,Hamburg,code02,34.364
 2006,Hours,Fathers,,,Hesse,code06,38.026
 2007,Hours,Fathers,|,,Hesse,code06,38.297
 2008,Hours,Fathers,,,Hesse,code06,38.529
@@ -492,7 +517,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Fathers,|,,Hesse,code06,36.181
 2022,Hours,Fathers,,,Hesse,code06,36.743
 2023,Hours,Fathers,,,Hesse,code06,36.563
-2024,Hours,Fathers,p,,Hesse,code06,36.587
+2024,Hours,Fathers,,,Hesse,code06,36.515
+2025,Hours,Fathers,p,,Hesse,code06,36.735
 2006,Hours,Fathers,,,Mecklenburg Western Pomerania,code13,33.146
 2007,Hours,Fathers,|,,Mecklenburg Western Pomerania,code13,33.975
 2008,Hours,Fathers,,,Mecklenburg Western Pomerania,code13,35.092
@@ -511,7 +537,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Fathers,|,,Mecklenburg Western Pomerania,code13,37.712
 2022,Hours,Fathers,,,Mecklenburg Western Pomerania,code13,36.84
 2023,Hours,Fathers,,,Mecklenburg Western Pomerania,code13,37.05
-2024,Hours,Fathers,p,,Mecklenburg Western Pomerania,code13,36.628
+2024,Hours,Fathers,,,Mecklenburg Western Pomerania,code13,36.408
+2025,Hours,Fathers,p,,Mecklenburg Western Pomerania,code13,37.607
 2006,Hours,Fathers,,,Lower Saxony,code03,37.001
 2007,Hours,Fathers,|,,Lower Saxony,code03,37.96
 2008,Hours,Fathers,,,Lower Saxony,code03,37.974
@@ -530,7 +557,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Fathers,|,,Lower Saxony,code03,36.468
 2022,Hours,Fathers,,,Lower Saxony,code03,37.008
 2023,Hours,Fathers,,,Lower Saxony,code03,36.614
-2024,Hours,Fathers,p,,Lower Saxony,code03,36.826
+2024,Hours,Fathers,,,Lower Saxony,code03,36.716
+2025,Hours,Fathers,p,,Lower Saxony,code03,36.362
 2006,Hours,Fathers,,,North Rhine-Westphalia,code05,36.579
 2007,Hours,Fathers,|,,North Rhine-Westphalia,code05,37.019
 2008,Hours,Fathers,,,North Rhine-Westphalia,code05,37.539
@@ -549,7 +577,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Fathers,|,,North Rhine-Westphalia,code05,35.19
 2022,Hours,Fathers,,,North Rhine-Westphalia,code05,36.048
 2023,Hours,Fathers,,,North Rhine-Westphalia,code05,35.919
-2024,Hours,Fathers,p,,North Rhine-Westphalia,code05,35.773
+2024,Hours,Fathers,,,North Rhine-Westphalia,code05,35.718
+2025,Hours,Fathers,p,,North Rhine-Westphalia,code05,35.436
 2006,Hours,Fathers,,,Rhineland Palatinate,code07,38.318
 2007,Hours,Fathers,|,,Rhineland Palatinate,code07,38.915
 2008,Hours,Fathers,,,Rhineland Palatinate,code07,39.409
@@ -568,7 +597,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Fathers,|,,Rhineland Palatinate,code07,36.808
 2022,Hours,Fathers,,,Rhineland Palatinate,code07,37.292
 2023,Hours,Fathers,,,Rhineland Palatinate,code07,36.865
-2024,Hours,Fathers,p,,Rhineland Palatinate,code07,37.009
+2024,Hours,Fathers,,,Rhineland Palatinate,code07,36.712
+2025,Hours,Fathers,p,,Rhineland Palatinate,code07,36.837
 2006,Hours,Fathers,,,Saarland,code10,35.576
 2007,Hours,Fathers,|,,Saarland,code10,36.795
 2008,Hours,Fathers,,,Saarland,code10,37.701
@@ -587,7 +617,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Fathers,|,,Saarland,code10,34.937
 2022,Hours,Fathers,,,Saarland,code10,35.775
 2023,Hours,Fathers,,,Saarland,code10,35.588
-2024,Hours,Fathers,p,,Saarland,code10,34.711
+2024,Hours,Fathers,,,Saarland,code10,34.56
+2025,Hours,Fathers,p,,Saarland,code10,34.792
 2006,Hours,Fathers,,,Saxony,code14,35.088
 2007,Hours,Fathers,|,,Saxony,code14,35.807
 2008,Hours,Fathers,,,Saxony,code14,36.011
@@ -606,7 +637,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Fathers,|,,Saxony,code14,38.003
 2022,Hours,Fathers,,,Saxony,code14,38.061
 2023,Hours,Fathers,,,Saxony,code14,37.453
-2024,Hours,Fathers,p,,Saxony,code14,36.852
+2024,Hours,Fathers,,,Saxony,code14,36.817
+2025,Hours,Fathers,p,,Saxony,code14,35.942
 2006,Hours,Fathers,,,Saxony-Anhalt,code15,33.48
 2007,Hours,Fathers,|,,Saxony-Anhalt,code15,33.976
 2008,Hours,Fathers,,,Saxony-Anhalt,code15,33.909
@@ -625,7 +657,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Fathers,|,,Saxony-Anhalt,code15,36.974
 2022,Hours,Fathers,,,Saxony-Anhalt,code15,36.828
 2023,Hours,Fathers,,,Saxony-Anhalt,code15,35.956
-2024,Hours,Fathers,p,,Saxony-Anhalt,code15,36.168
+2024,Hours,Fathers,,,Saxony-Anhalt,code15,36.116
+2025,Hours,Fathers,p,,Saxony-Anhalt,code15,35.967
 2006,Hours,Fathers,,,Schleswig-Holstein,code01,38.217
 2007,Hours,Fathers,|,,Schleswig-Holstein,code01,38.529
 2008,Hours,Fathers,,,Schleswig-Holstein,code01,38.576
@@ -644,7 +677,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Fathers,|,,Schleswig-Holstein,code01,36.757
 2022,Hours,Fathers,,,Schleswig-Holstein,code01,36.758
 2023,Hours,Fathers,,,Schleswig-Holstein,code01,36.346
-2024,Hours,Fathers,p,,Schleswig-Holstein,code01,36.301
+2024,Hours,Fathers,,,Schleswig-Holstein,code01,36.367
+2025,Hours,Fathers,p,,Schleswig-Holstein,code01,36.624
 2006,Hours,Fathers,,,Thuringia,code16,35.372
 2007,Hours,Fathers,|,,Thuringia,code16,36.396
 2008,Hours,Fathers,,,Thuringia,code16,36.716
@@ -663,7 +697,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Fathers,|,,Thuringia,code16,38.099
 2022,Hours,Fathers,,,Thuringia,code16,37.453
 2023,Hours,Fathers,,,Thuringia,code16,36.861
-2024,Hours,Fathers,p,,Thuringia,code16,36.346
+2024,Hours,Fathers,,,Thuringia,code16,36.42
+2025,Hours,Fathers,p,,Thuringia,code16,36.2
 2006,Hours,Difference,,,Baden-Wuerttemberg,code08,25.459
 2007,Hours,Difference,|,,Baden-Wuerttemberg,code08,25.721
 2008,Hours,Difference,,,Baden-Wuerttemberg,code08,25.115
@@ -682,7 +717,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Difference,|,,Baden-Wuerttemberg,code08,21.104
 2022,Hours,Difference,,,Baden-Wuerttemberg,code08,20.815
 2023,Hours,Difference,,,Baden-Wuerttemberg,code08,20.402
-2024,Hours,Difference,p,,Baden-Wuerttemberg,code08,19.969
+2024,Hours,Difference,,,Baden-Wuerttemberg,code08,19.916
+2025,Hours,Difference,p,,Baden-Wuerttemberg,code08,19.442
 2006,Hours,Difference,,,Bavaria,code09,25.147
 2007,Hours,Difference,|,,Bavaria,code09,24.923
 2008,Hours,Difference,,,Bavaria,code09,25.156
@@ -701,7 +737,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Difference,|,,Bavaria,code09,20.657
 2022,Hours,Difference,,,Bavaria,code09,20.546
 2023,Hours,Difference,,,Bavaria,code09,20.084
-2024,Hours,Difference,p,,Bavaria,code09,18.994
+2024,Hours,Difference,,,Bavaria,code09,18.97
+2025,Hours,Difference,p,,Bavaria,code09,18.64
 2006,Hours,Difference,,,Berlin,code11,13.198
 2007,Hours,Difference,|,,Berlin,code11,13.592
 2008,Hours,Difference,,,Berlin,code11,13.639
@@ -720,7 +757,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Difference,|,,Berlin,code11,11.499
 2022,Hours,Difference,,,Berlin,code11,13.191
 2023,Hours,Difference,,,Berlin,code11,13.096
-2024,Hours,Difference,p,,Berlin,code11,12.41
+2024,Hours,Difference,,,Berlin,code11,12.12
+2025,Hours,Difference,p,,Berlin,code11,11.137
 2006,Hours,Difference,,,Brandenburg,code12,10.61
 2007,Hours,Difference,|,,Brandenburg,code12,12.015
 2008,Hours,Difference,,,Brandenburg,code12,12.281
@@ -739,7 +777,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Difference,|,,Brandenburg,code12,9.589
 2022,Hours,Difference,,,Brandenburg,code12,9.523
 2023,Hours,Difference,,,Brandenburg,code12,9.991
-2024,Hours,Difference,p,,Brandenburg,code12,9.308
+2024,Hours,Difference,,,Brandenburg,code12,9.263
+2025,Hours,Difference,p,,Brandenburg,code12,9.358
 2006,Hours,Difference,,,Bremen,code04,18.122
 2007,Hours,Difference,|,,Bremen,code04,19.772
 2008,Hours,Difference,,,Bremen,code04,20.296
@@ -758,7 +797,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Difference,|,,Bremen,code04,16.084
 2022,Hours,Difference,,,Bremen,code04,17.256
 2023,Hours,Difference,,,Bremen,code04,17.375
-2024,Hours,Difference,p,,Bremen,code04,16.286
+2024,Hours,Difference,,,Bremen,code04,16.637
+2025,Hours,Difference,p,,Bremen,code04,15.721
 2006,Hours,Difference,,,Hamburg,code02,19.972
 2007,Hours,Difference,|,,Hamburg,code02,19.659
 2008,Hours,Difference,,,Hamburg,code02,20.233
@@ -777,7 +817,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Difference,|,,Hamburg,code02,16.137
 2022,Hours,Difference,,,Hamburg,code02,16.148
 2023,Hours,Difference,,,Hamburg,code02,15.957
-2024,Hours,Difference,p,,Hamburg,code02,15.539
+2024,Hours,Difference,,,Hamburg,code02,15.838
+2025,Hours,Difference,p,,Hamburg,code02,15.511
 2006,Hours,Difference,,,Hesse,code06,23.879
 2007,Hours,Difference,|,,Hesse,code06,23.665
 2008,Hours,Difference,,,Hesse,code06,23.534
@@ -796,7 +837,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Difference,|,,Hesse,code06,18.402
 2022,Hours,Difference,,,Hesse,code06,18.43
 2023,Hours,Difference,,,Hesse,code06,17.79
-2024,Hours,Difference,p,,Hesse,code06,17.717
+2024,Hours,Difference,,,Hesse,code06,17.64
+2025,Hours,Difference,p,,Hesse,code06,17.549
 2006,Hours,Difference,,,Mecklenburg Western Pomerania,code13,11.374
 2007,Hours,Difference,|,,Mecklenburg Western Pomerania,code13,13.078
 2008,Hours,Difference,,,Mecklenburg Western Pomerania,code13,14.218
@@ -815,7 +857,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Difference,|,,Mecklenburg Western Pomerania,code13,11.519
 2022,Hours,Difference,,,Mecklenburg Western Pomerania,code13,10.792
 2023,Hours,Difference,,,Mecklenburg Western Pomerania,code13,10.05
-2024,Hours,Difference,p,,Mecklenburg Western Pomerania,code13,10.078
+2024,Hours,Difference,,,Mecklenburg Western Pomerania,code13,9.708
+2025,Hours,Difference,p,,Mecklenburg Western Pomerania,code13,10.503
 2006,Hours,Difference,,,Lower Saxony,code03,23.869
 2007,Hours,Difference,|,,Lower Saxony,code03,24.156
 2008,Hours,Difference,,,Lower Saxony,code03,23.923
@@ -834,7 +877,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Difference,|,,Lower Saxony,code03,18.874
 2022,Hours,Difference,,,Lower Saxony,code03,18.78
 2023,Hours,Difference,,,Lower Saxony,code03,18.514
-2024,Hours,Difference,p,,Lower Saxony,code03,18.431
+2024,Hours,Difference,,,Lower Saxony,code03,18.473
+2025,Hours,Difference,p,,Lower Saxony,code03,17.58
 2006,Hours,Difference,,,North Rhine-Westphalia,code05,23.637
 2007,Hours,Difference,|,,North Rhine-Westphalia,code05,23.901
 2008,Hours,Difference,,,North Rhine-Westphalia,code05,24.201
@@ -853,7 +897,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Difference,|,,North Rhine-Westphalia,code05,18.436
 2022,Hours,Difference,,,North Rhine-Westphalia,code05,18.875
 2023,Hours,Difference,,,North Rhine-Westphalia,code05,18.492
-2024,Hours,Difference,p,,North Rhine-Westphalia,code05,18.126
+2024,Hours,Difference,,,North Rhine-Westphalia,code05,18.195
+2025,Hours,Difference,p,,North Rhine-Westphalia,code05,17.587
 2006,Hours,Difference,,,Rhineland Palatinate,code07,23.652
 2007,Hours,Difference,|,,Rhineland Palatinate,code07,24.351
 2008,Hours,Difference,,,Rhineland Palatinate,code07,24.644
@@ -872,7 +917,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Difference,|,,Rhineland Palatinate,code07,19.259
 2022,Hours,Difference,,,Rhineland Palatinate,code07,19.748
 2023,Hours,Difference,,,Rhineland Palatinate,code07,18.8
-2024,Hours,Difference,p,,Rhineland Palatinate,code07,18.624
+2024,Hours,Difference,,,Rhineland Palatinate,code07,18.485
+2025,Hours,Difference,p,,Rhineland Palatinate,code07,18.241
 2006,Hours,Difference,,,Saarland,code10,22.828
 2007,Hours,Difference,|,,Saarland,code10,22.934
 2008,Hours,Difference,,,Saarland,code10,22.882
@@ -891,7 +937,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Difference,|,,Saarland,code10,16.826
 2022,Hours,Difference,,,Saarland,code10,18.401
 2023,Hours,Difference,,,Saarland,code10,17.869
-2024,Hours,Difference,p,,Saarland,code10,16.863
+2024,Hours,Difference,,,Saarland,code10,16.984
+2025,Hours,Difference,p,,Saarland,code10,16.216
 2006,Hours,Difference,,,Saxony,code14,13.592
 2007,Hours,Difference,|,,Saxony,code14,14.231
 2008,Hours,Difference,,,Saxony,code14,14.429
@@ -910,7 +957,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Difference,|,,Saxony,code14,11.441
 2022,Hours,Difference,,,Saxony,code14,11.818
 2023,Hours,Difference,,,Saxony,code14,11.615
-2024,Hours,Difference,p,,Saxony,code14,10.619
+2024,Hours,Difference,,,Saxony,code14,10.735
+2025,Hours,Difference,p,,Saxony,code14,10.149
 2006,Hours,Difference,,,Saxony-Anhalt,code15,12.031
 2007,Hours,Difference,|,,Saxony-Anhalt,code15,12.473
 2008,Hours,Difference,,,Saxony-Anhalt,code15,13.06
@@ -929,7 +977,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Difference,|,,Saxony-Anhalt,code15,10.876
 2022,Hours,Difference,,,Saxony-Anhalt,code15,10.647
 2023,Hours,Difference,,,Saxony-Anhalt,code15,9.759
-2024,Hours,Difference,p,,Saxony-Anhalt,code15,10.089
+2024,Hours,Difference,,,Saxony-Anhalt,code15,10.263
+2025,Hours,Difference,p,,Saxony-Anhalt,code15,10.391
 2006,Hours,Difference,,,Schleswig-Holstein,code01,24.02
 2007,Hours,Difference,|,,Schleswig-Holstein,code01,24.217
 2008,Hours,Difference,,,Schleswig-Holstein,code01,23.74
@@ -948,7 +997,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Difference,|,,Schleswig-Holstein,code01,18.187
 2022,Hours,Difference,,,Schleswig-Holstein,code01,17.467
 2023,Hours,Difference,,,Schleswig-Holstein,code01,17.184
-2024,Hours,Difference,p,,Schleswig-Holstein,code01,16.886
+2024,Hours,Difference,,,Schleswig-Holstein,code01,17.008
+2025,Hours,Difference,p,,Schleswig-Holstein,code01,16.983
 2006,Hours,Difference,,,Thuringia,code16,14.226
 2007,Hours,Difference,|,,Thuringia,code16,15.074
 2008,Hours,Difference,,,Thuringia,code16,15.32
@@ -967,4 +1017,5 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2021,Hours,Difference,|,,Thuringia,code16,12.331
 2022,Hours,Difference,,,Thuringia,code16,10.925
 2023,Hours,Difference,,,Thuringia,code16,10.926
-2024,Hours,Difference,p,,Thuringia,code16,10.715
+2024,Hours,Difference,,,Thuringia,code16,10.878
+2025,Hours,Difference,p,,Thuringia,code16,9.879
