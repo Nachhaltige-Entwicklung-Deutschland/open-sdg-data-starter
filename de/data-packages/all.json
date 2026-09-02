@@ -1050,11 +1050,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 16 years",
-                "16 to 24 years",
-                "25 to 49 years",
-                "50 to 64 years",
-                "65 years and older",
+                "unter 16 Jahre",
+                "16 bis 24 Jahre",
+                "25 bis 49 Jahre",
+                "50 bis 64 Jahre",
+                "65 Jahre und älter",
                 ""
               ]
             },
@@ -4260,9 +4260,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years",
-                "18 to 64 years",
-                "65 years and older",
+                "unter 18 Jahre",
+                "18 bis 64 Jahre",
+                "65 Jahre und älter",
                 ""
               ]
             },
