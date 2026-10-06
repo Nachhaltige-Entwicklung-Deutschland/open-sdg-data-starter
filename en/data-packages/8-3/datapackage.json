@@ -32,11 +32,6 @@
             "title": "COMMENT_OBS_0"
           },
           {
-            "name": "COMMENT_OBS_1",
-            "type": "string",
-            "title": "COMMENT_OBS_1"
-          },
-          {
             "name": "länder",
             "type": "string",
             "constraints": {
@@ -66,6 +61,11 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "title": "COMMENT_OBS_1"
           },
           {
             "name": "Value",

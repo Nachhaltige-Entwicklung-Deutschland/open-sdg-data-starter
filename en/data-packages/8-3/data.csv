@@ -1,4 +1,4 @@
-Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
+Year,Units,COMMENT_OBS_0,Länder,GeoCode,COMMENT_OBS_1,Value
 1991,Percentage,,,,,24.84
 1992,Percentage,,,,,25.009
 1993,Percentage,,,,,23.962
@@ -13,584 +13,584 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,Länder,GeoCode,Value
 2002,Percentage,r,,,,19.887
 2003,Percentage,r,,,,19.264
 2004,Percentage,r,,,,18.831
-2005,Percentage,r,,,,18.764
-2006,Percentage,r,,,,19.462
-2007,Percentage,r,,,,19.715
-2008,Percentage,r,,,,19.963
-2009,Percentage,r,,,,18.838
-2010,Percentage,r,,,,19.186
-2011,Percentage,r,,,,20.008
-2012,Percentage,r,,,,19.966
-2013,Percentage,r,,,,19.577
-2014,Percentage,r,,,,19.783
-2015,Percentage,r,,,,19.748
-2016,Percentage,r,,,,20.044
-2017,Percentage,r,,,,20.134
-2018,Percentage,r,,,,20.818
-2019,Percentage,r,,,,21.152
-2020,Percentage,r,,,,21.343
-2021,Percentage,r,,,,21.182
-2022,Percentage,r,p,,,21.601
-2023,Percentage,r,p,,,21.192
-2024,Percentage,r,p,,,20.46
-2025,Percentage,r,p,,,20.311
-1991,Percentage,,,Baden-Wuerttemberg,code08,24.724
-1992,Percentage,,,Baden-Wuerttemberg,code08,24.208
-1993,Percentage,,,Baden-Wuerttemberg,code08,23.004
-1994,Percentage,,,Baden-Wuerttemberg,code08,21.76
-1995,Percentage,,,Baden-Wuerttemberg,code08,20.499
-1996,Percentage,,,Baden-Wuerttemberg,code08,20.454
-1997,Percentage,,,Baden-Wuerttemberg,code08,19.94
-1998,Percentage,,,Baden-Wuerttemberg,code08,20.382
-1999,Percentage,,,Baden-Wuerttemberg,code08,20.474
-2000,Percentage,r,,Baden-Wuerttemberg,code08,21.295
-2001,Percentage,r,,Baden-Wuerttemberg,code08,21.694
-2002,Percentage,r,,Baden-Wuerttemberg,code08,20.592
-2003,Percentage,r,,Baden-Wuerttemberg,code08,19.31
-2004,Percentage,r,,Baden-Wuerttemberg,code08,19.844
-2005,Percentage,r,,Baden-Wuerttemberg,code08,19.264
-2006,Percentage,r,,Baden-Wuerttemberg,code08,20.119
-2007,Percentage,r,,Baden-Wuerttemberg,code08,20.376
-2008,Percentage,r,,Baden-Wuerttemberg,code08,21.186
-2009,Percentage,r,,Baden-Wuerttemberg,code08,20.437
-2010,Percentage,r,,Baden-Wuerttemberg,code08,19.716
-2011,Percentage,r,,Baden-Wuerttemberg,code08,20.553
-2012,Percentage,r,,Baden-Wuerttemberg,code08,21.611
-2013,Percentage,r,,Baden-Wuerttemberg,code08,20.854
-2014,Percentage,r,,Baden-Wuerttemberg,code08,20.604
-2015,Percentage,r,,Baden-Wuerttemberg,code08,20.9
-2016,Percentage,r,,Baden-Wuerttemberg,code08,21.049
-2017,Percentage,r,,Baden-Wuerttemberg,code08,21.985
-2018,Percentage,r,,Baden-Wuerttemberg,code08,23.026
-2019,Percentage,r,,Baden-Wuerttemberg,code08,23.125
-2020,Percentage,r,,Baden-Wuerttemberg,code08,22.943
-2021,Percentage,r,,Baden-Wuerttemberg,code08,22.848
-2022,Percentage,r,p,Baden-Wuerttemberg,code08,22.572
-2023,Percentage,p,,Baden-Wuerttemberg,code08,22.224
-2024,Percentage,…,,Baden-Wuerttemberg,code08,
-2025,Percentage,…,,Baden-Wuerttemberg,code08,
-1991,Percentage,,,Bavaria,code09,28.205
-1992,Percentage,,,Bavaria,code09,27.354
-1993,Percentage,,,Bavaria,code09,24.628
-1994,Percentage,,,Bavaria,code09,25.21
-1995,Percentage,,,Bavaria,code09,24.741
-1996,Percentage,,,Bavaria,code09,24.349
-1997,Percentage,,,Bavaria,code09,22.79
-1998,Percentage,,,Bavaria,code09,23.614
-1999,Percentage,,,Bavaria,code09,23.373
-2000,Percentage,r,,Bavaria,code09,24.134
-2001,Percentage,r,,Bavaria,code09,22.886
-2002,Percentage,r,,Bavaria,code09,21.52
-2003,Percentage,r,,Bavaria,code09,22.027
-2004,Percentage,r,,Bavaria,code09,21.103
-2005,Percentage,r,,Bavaria,code09,20.181
-2006,Percentage,r,,Bavaria,code09,23.264
-2007,Percentage,r,,Bavaria,code09,22.531
-2008,Percentage,r,,Bavaria,code09,22.8
-2009,Percentage,r,,Bavaria,code09,21.11
-2010,Percentage,r,,Bavaria,code09,21.3
-2011,Percentage,r,,Bavaria,code09,22.802
-2012,Percentage,r,,Bavaria,code09,22.513
-2013,Percentage,r,,Bavaria,code09,22.281
-2014,Percentage,r,,Bavaria,code09,22.736
-2015,Percentage,r,,Bavaria,code09,22.841
-2016,Percentage,r,,Bavaria,code09,22.657
-2017,Percentage,r,,Bavaria,code09,23.247
-2018,Percentage,r,,Bavaria,code09,24.106
-2019,Percentage,r,,Bavaria,code09,24.187
-2020,Percentage,r,,Bavaria,code09,25.015
-2021,Percentage,r,,Bavaria,code09,23.839
-2022,Percentage,r,p,Bavaria,code09,24.697
-2023,Percentage,p,,Bavaria,code09,24.332
-2024,Percentage,…,,Bavaria,code09,
-2025,Percentage,…,,Bavaria,code09,
-1991,Percentage,,,Berlin,code11,22.414
-1992,Percentage,,,Berlin,code11,22.912
-1993,Percentage,,,Berlin,code11,21.828
-1994,Percentage,,,Berlin,code11,20.301
-1995,Percentage,,,Berlin,code11,20.335
-1996,Percentage,,,Berlin,code11,24.356
-1997,Percentage,,,Berlin,code11,27.9
-1998,Percentage,,,Berlin,code11,22.743
-1999,Percentage,,,Berlin,code11,21.974
-2000,Percentage,r,,Berlin,code11,20.485
-2001,Percentage,r,,Berlin,code11,18.885
-2002,Percentage,r,,Berlin,code11,16.189
-2003,Percentage,r,,Berlin,code11,14.439
-2004,Percentage,r,,Berlin,code11,15.473
-2005,Percentage,r,,Berlin,code11,17.295
-2006,Percentage,r,,Berlin,code11,16.848
-2007,Percentage,r,,Berlin,code11,17.358
-2008,Percentage,r,,Berlin,code11,16.806
-2009,Percentage,r,,Berlin,code11,16.344
-2010,Percentage,r,,Berlin,code11,16.541
-2011,Percentage,r,,Berlin,code11,15.746
-2012,Percentage,r,,Berlin,code11,17.638
-2013,Percentage,r,,Berlin,code11,17.484
-2014,Percentage,r,,Berlin,code11,18.599
-2015,Percentage,r,,Berlin,code11,18.984
-2016,Percentage,r,,Berlin,code11,18.908
-2017,Percentage,r,,Berlin,code11,18.149
-2018,Percentage,r,,Berlin,code11,18.88
-2019,Percentage,r,,Berlin,code11,18.601
-2020,Percentage,r,,Berlin,code11,18.319
-2021,Percentage,r,,Berlin,code11,17.7
-2022,Percentage,r,p,Berlin,code11,21.124
-2023,Percentage,p,,Berlin,code11,20.0
-2024,Percentage,…,,Berlin,code11,
-2025,Percentage,…,,Berlin,code11,
-1991,Percentage,,,Brandenburg,code12,41.077
-1992,Percentage,,,Brandenburg,code12,44.387
-1993,Percentage,,,Brandenburg,code12,49.168
-1994,Percentage,,,Brandenburg,code12,51.434
-1995,Percentage,,,Brandenburg,code12,46.611
-1996,Percentage,,,Brandenburg,code12,47.793
-1997,Percentage,,,Brandenburg,code12,44.624
-1998,Percentage,,,Brandenburg,code12,43.473
-1999,Percentage,,,Brandenburg,code12,40.159
-2000,Percentage,r,,Brandenburg,code12,36.693
-2001,Percentage,r,,Brandenburg,code12,30.266
-2002,Percentage,r,,Brandenburg,code12,26.755
-2003,Percentage,r,,Brandenburg,code12,23.705
-2004,Percentage,r,,Brandenburg,code12,23.446
-2005,Percentage,r,,Brandenburg,code12,22.625
-2006,Percentage,r,,Brandenburg,code12,22.889
-2007,Percentage,r,,Brandenburg,code12,21.35
-2008,Percentage,r,,Brandenburg,code12,21.825
-2009,Percentage,r,,Brandenburg,code12,19.448
-2010,Percentage,r,,Brandenburg,code12,19.96
-2011,Percentage,r,,Brandenburg,code12,20.062
-2012,Percentage,r,,Brandenburg,code12,21.71
-2013,Percentage,r,,Brandenburg,code12,20.622
-2014,Percentage,r,,Brandenburg,code12,21.12
-2015,Percentage,r,,Brandenburg,code12,21.868
-2016,Percentage,r,,Brandenburg,code12,23.21
-2017,Percentage,r,,Brandenburg,code12,23.159
-2018,Percentage,r,,Brandenburg,code12,24.354
-2019,Percentage,r,,Brandenburg,code12,23.862
-2020,Percentage,r,,Brandenburg,code12,25.383
-2021,Percentage,r,,Brandenburg,code12,24.864
-2022,Percentage,r,p,Brandenburg,code12,23.797
-2023,Percentage,p,,Brandenburg,code12,23.485
-2024,Percentage,…,,Brandenburg,code12,
-2025,Percentage,…,,Brandenburg,code12,
-1991,Percentage,,,Bremen,code04,18.106
-1992,Percentage,,,Bremen,code04,17.393
-1993,Percentage,,,Bremen,code04,18.309
-1994,Percentage,,,Bremen,code04,14.734
-1995,Percentage,,,Bremen,code04,13.894
-1996,Percentage,,,Bremen,code04,14.89
-1997,Percentage,,,Bremen,code04,14.476
-1998,Percentage,,,Bremen,code04,15.505
-1999,Percentage,,,Bremen,code04,17.351
-2000,Percentage,r,,Bremen,code04,17.47
-2001,Percentage,r,,Bremen,code04,16.406
-2002,Percentage,r,,Bremen,code04,16.566
-2003,Percentage,r,,Bremen,code04,12.802
-2004,Percentage,r,,Bremen,code04,15.026
-2005,Percentage,r,,Bremen,code04,13.827
-2006,Percentage,r,,Bremen,code04,14.582
-2007,Percentage,r,,Bremen,code04,14.641
-2008,Percentage,r,,Bremen,code04,14.828
-2009,Percentage,r,,Bremen,code04,13.945
-2010,Percentage,r,,Bremen,code04,14.393
-2011,Percentage,r,,Bremen,code04,14.009
-2012,Percentage,r,,Bremen,code04,18.353
-2013,Percentage,r,,Bremen,code04,16.234
-2014,Percentage,r,,Bremen,code04,13.863
-2015,Percentage,r,,Bremen,code04,16.697
-2016,Percentage,r,,Bremen,code04,16.276
-2017,Percentage,r,,Bremen,code04,14.048
-2018,Percentage,r,,Bremen,code04,15.903
-2019,Percentage,r,,Bremen,code04,16.573
-2020,Percentage,r,,Bremen,code04,15.862
-2021,Percentage,r,,Bremen,code04,16.071
-2022,Percentage,r,p,Bremen,code04,15.873
-2023,Percentage,p,,Bremen,code04,14.533
-2024,Percentage,…,,Bremen,code04,
-2025,Percentage,…,,Bremen,code04,
-1991,Percentage,,,Hamburg,code02,16.374
-1992,Percentage,,,Hamburg,code02,17.845
-1993,Percentage,,,Hamburg,code02,16.898
-1994,Percentage,,,Hamburg,code02,15.059
-1995,Percentage,,,Hamburg,code02,13.809
-1996,Percentage,,,Hamburg,code02,13.638
-1997,Percentage,,,Hamburg,code02,14.264
-1998,Percentage,,,Hamburg,code02,15.27
-1999,Percentage,,,Hamburg,code02,14.328
-2000,Percentage,r,,Hamburg,code02,15.792
-2001,Percentage,r,,Hamburg,code02,17.123
-2002,Percentage,r,,Hamburg,code02,17.916
-2003,Percentage,r,,Hamburg,code02,17.246
-2004,Percentage,r,,Hamburg,code02,19.908
-2005,Percentage,r,,Hamburg,code02,21.073
-2006,Percentage,r,,Hamburg,code02,21.996
-2007,Percentage,r,,Hamburg,code02,23.948
-2008,Percentage,r,,Hamburg,code02,24.576
-2009,Percentage,r,,Hamburg,code02,18.5
-2010,Percentage,r,,Hamburg,code02,22.951
-2011,Percentage,r,,Hamburg,code02,20.049
-2012,Percentage,r,,Hamburg,code02,19.539
-2013,Percentage,r,,Hamburg,code02,19.882
-2014,Percentage,r,,Hamburg,code02,20.322
-2015,Percentage,r,,Hamburg,code02,20.262
-2016,Percentage,r,,Hamburg,code02,18.752
-2017,Percentage,r,,Hamburg,code02,15.138
-2018,Percentage,r,,Hamburg,code02,16.915
-2019,Percentage,r,,Hamburg,code02,17.525
-2020,Percentage,r,,Hamburg,code02,17.386
-2021,Percentage,r,,Hamburg,code02,15.677
-2022,Percentage,r,p,Hamburg,code02,15.408
-2023,Percentage,p,,Hamburg,code02,17.675
-2024,Percentage,…,,Hamburg,code02,
-2025,Percentage,…,,Hamburg,code02,
-1991,Percentage,,,Hesse,code06,21.821
-1992,Percentage,,,Hesse,code06,21.178
-1993,Percentage,,,Hesse,code06,20.399
-1994,Percentage,,,Hesse,code06,18.352
-1995,Percentage,,,Hesse,code06,18.744
-1996,Percentage,,,Hesse,code06,17.45
-1997,Percentage,,,Hesse,code06,18.009
-1998,Percentage,,,Hesse,code06,18.333
-1999,Percentage,,,Hesse,code06,18.491
-2000,Percentage,r,,Hesse,code06,18.225
-2001,Percentage,r,,Hesse,code06,18.545
-2002,Percentage,r,,Hesse,code06,16.796
-2003,Percentage,r,,Hesse,code06,16.026
-2004,Percentage,r,,Hesse,code06,16.057
-2005,Percentage,r,,Hesse,code06,17.558
-2006,Percentage,r,,Hesse,code06,17.144
-2007,Percentage,r,,Hesse,code06,18.033
-2008,Percentage,r,,Hesse,code06,19.712
-2009,Percentage,r,,Hesse,code06,16.465
-2010,Percentage,r,,Hesse,code06,17.276
-2011,Percentage,r,,Hesse,code06,18.721
-2012,Percentage,r,,Hesse,code06,17.468
-2013,Percentage,r,,Hesse,code06,17.534
-2014,Percentage,r,,Hesse,code06,17.059
-2015,Percentage,r,,Hesse,code06,16.842
-2016,Percentage,r,,Hesse,code06,17.714
-2017,Percentage,r,,Hesse,code06,18.043
-2018,Percentage,r,,Hesse,code06,18.228
-2019,Percentage,r,,Hesse,code06,18.457
-2020,Percentage,r,,Hesse,code06,19.69
-2021,Percentage,r,,Hesse,code06,18.905
-2022,Percentage,r,p,Hesse,code06,21.03
-2023,Percentage,p,,Hesse,code06,19.932
-2024,Percentage,…,,Hesse,code06,
-2025,Percentage,…,,Hesse,code06,
-1991,Percentage,,,Mecklenburg Western Pomerania,code13,49.116
-1992,Percentage,,,Mecklenburg Western Pomerania,code13,61.047
-1993,Percentage,,,Mecklenburg Western Pomerania,code13,59.62
-1994,Percentage,,,Mecklenburg Western Pomerania,code13,56.988
-1995,Percentage,,,Mecklenburg Western Pomerania,code13,54.437
-1996,Percentage,,,Mecklenburg Western Pomerania,code13,47.642
-1997,Percentage,,,Mecklenburg Western Pomerania,code13,43.255
-1998,Percentage,,,Mecklenburg Western Pomerania,code13,40.111
-1999,Percentage,,,Mecklenburg Western Pomerania,code13,36.798
-2000,Percentage,r,,Mecklenburg Western Pomerania,code13,34.78
-2001,Percentage,r,,Mecklenburg Western Pomerania,code13,29.702
-2002,Percentage,r,,Mecklenburg Western Pomerania,code13,25.93
-2003,Percentage,r,,Mecklenburg Western Pomerania,code13,25.098
-2004,Percentage,r,,Mecklenburg Western Pomerania,code13,24.738
-2005,Percentage,r,,Mecklenburg Western Pomerania,code13,26.447
-2006,Percentage,r,,Mecklenburg Western Pomerania,code13,27.174
-2007,Percentage,r,,Mecklenburg Western Pomerania,code13,22.601
-2008,Percentage,r,,Mecklenburg Western Pomerania,code13,23.314
-2009,Percentage,r,,Mecklenburg Western Pomerania,code13,20.565
-2010,Percentage,r,,Mecklenburg Western Pomerania,code13,21.847
-2011,Percentage,r,,Mecklenburg Western Pomerania,code13,23.772
-2012,Percentage,r,,Mecklenburg Western Pomerania,code13,23.367
-2013,Percentage,r,,Mecklenburg Western Pomerania,code13,20.33
-2014,Percentage,r,,Mecklenburg Western Pomerania,code13,21.232
-2015,Percentage,r,,Mecklenburg Western Pomerania,code13,21.729
-2016,Percentage,r,,Mecklenburg Western Pomerania,code13,23.693
-2017,Percentage,r,,Mecklenburg Western Pomerania,code13,22.228
-2018,Percentage,r,,Mecklenburg Western Pomerania,code13,24.789
-2019,Percentage,r,,Mecklenburg Western Pomerania,code13,26.468
-2020,Percentage,r,,Mecklenburg Western Pomerania,code13,25.753
-2021,Percentage,r,,Mecklenburg Western Pomerania,code13,21.956
-2022,Percentage,r,p,Mecklenburg Western Pomerania,code13,25.179
-2023,Percentage,p,,Mecklenburg Western Pomerania,code13,22.046
-2024,Percentage,…,,Mecklenburg Western Pomerania,code13,
-2025,Percentage,…,,Mecklenburg Western Pomerania,code13,
-1991,Percentage,,,Lower Saxony,code03,27.454
-1992,Percentage,,,Lower Saxony,code03,25.885
-1993,Percentage,,,Lower Saxony,code03,23.685
-1994,Percentage,,,Lower Saxony,code03,23.394
-1995,Percentage,,,Lower Saxony,code03,23.162
-1996,Percentage,,,Lower Saxony,code03,22.597
-1997,Percentage,,,Lower Saxony,code03,23.314
-1998,Percentage,,,Lower Saxony,code03,24.316
-1999,Percentage,,,Lower Saxony,code03,25.721
-2000,Percentage,r,,Lower Saxony,code03,26.052
-2001,Percentage,r,,Lower Saxony,code03,24.612
-2002,Percentage,r,,Lower Saxony,code03,23.187
-2003,Percentage,r,,Lower Saxony,code03,24.113
-2004,Percentage,r,,Lower Saxony,code03,21.237
-2005,Percentage,r,,Lower Saxony,code03,19.528
-2006,Percentage,r,,Lower Saxony,code03,20.229
-2007,Percentage,r,,Lower Saxony,code03,20.972
-2008,Percentage,r,,Lower Saxony,code03,20.242
-2009,Percentage,r,,Lower Saxony,code03,21.893
-2010,Percentage,r,,Lower Saxony,code03,21.571
-2011,Percentage,r,,Lower Saxony,code03,23.194
-2012,Percentage,r,,Lower Saxony,code03,23.437
-2013,Percentage,r,,Lower Saxony,code03,23.588
-2014,Percentage,r,,Lower Saxony,code03,23.695
-2015,Percentage,r,,Lower Saxony,code03,24.091
-2016,Percentage,r,,Lower Saxony,code03,23.827
-2017,Percentage,r,,Lower Saxony,code03,24.514
-2018,Percentage,r,,Lower Saxony,code03,24.139
-2019,Percentage,r,,Lower Saxony,code03,26.17
-2020,Percentage,r,,Lower Saxony,code03,25.769
-2021,Percentage,r,,Lower Saxony,code03,28.467
-2022,Percentage,r,p,Lower Saxony,code03,28.732
-2023,Percentage,p,,Lower Saxony,code03,26.702
-2024,Percentage,…,,Lower Saxony,code03,
-2025,Percentage,…,,Lower Saxony,code03,
-1991,Percentage,,,North Rhine-Westphalia,code05,20.501
-1992,Percentage,,,North Rhine-Westphalia,code05,20.103
-1993,Percentage,,,North Rhine-Westphalia,code05,18.335
-1994,Percentage,,,North Rhine-Westphalia,code05,17.865
-1995,Percentage,,,North Rhine-Westphalia,code05,17.084
-1996,Percentage,,,North Rhine-Westphalia,code05,17.142
-1997,Percentage,,,North Rhine-Westphalia,code05,17.028
-1998,Percentage,,,North Rhine-Westphalia,code05,17.659
-1999,Percentage,,,North Rhine-Westphalia,code05,19.076
-2000,Percentage,r,,North Rhine-Westphalia,code05,19.49
-2001,Percentage,r,,North Rhine-Westphalia,code05,18.769
-2002,Percentage,r,,North Rhine-Westphalia,code05,16.851
-2003,Percentage,r,,North Rhine-Westphalia,code05,16.041
-2004,Percentage,r,,North Rhine-Westphalia,code05,15.492
-2005,Percentage,r,,North Rhine-Westphalia,code05,16.38
-2006,Percentage,r,,North Rhine-Westphalia,code05,15.866
-2007,Percentage,r,,North Rhine-Westphalia,code05,16.045
-2008,Percentage,r,,North Rhine-Westphalia,code05,16.04
-2009,Percentage,r,,North Rhine-Westphalia,code05,15.556
-2010,Percentage,r,,North Rhine-Westphalia,code05,15.736
-2011,Percentage,r,,North Rhine-Westphalia,code05,16.401
-2012,Percentage,r,,North Rhine-Westphalia,code05,15.758
-2013,Percentage,r,,North Rhine-Westphalia,code05,15.606
-2014,Percentage,r,,North Rhine-Westphalia,code05,15.908
-2015,Percentage,r,,North Rhine-Westphalia,code05,15.527
-2016,Percentage,r,,North Rhine-Westphalia,code05,15.989
-2017,Percentage,r,,North Rhine-Westphalia,code05,16.32
-2018,Percentage,r,,North Rhine-Westphalia,code05,16.676
-2019,Percentage,r,,North Rhine-Westphalia,code05,16.539
-2020,Percentage,r,,North Rhine-Westphalia,code05,16.591
-2021,Percentage,r,,North Rhine-Westphalia,code05,17.016
-2022,Percentage,r,p,North Rhine-Westphalia,code05,16.474
-2023,Percentage,p,,North Rhine-Westphalia,code05,16.772
-2024,Percentage,…,,North Rhine-Westphalia,code05,
-2025,Percentage,…,,North Rhine-Westphalia,code05,
-1991,Percentage,,,Rhineland Palatinate,code07,23.37
-1992,Percentage,,,Rhineland Palatinate,code07,22.339
-1993,Percentage,,,Rhineland Palatinate,code07,21.719
-1994,Percentage,,,Rhineland Palatinate,code07,22.538
-1995,Percentage,,,Rhineland Palatinate,code07,22.704
-1996,Percentage,,,Rhineland Palatinate,code07,20.964
-1997,Percentage,,,Rhineland Palatinate,code07,21.588
-1998,Percentage,,,Rhineland Palatinate,code07,22.648
-1999,Percentage,,,Rhineland Palatinate,code07,22.975
-2000,Percentage,r,,Rhineland Palatinate,code07,23.609
-2001,Percentage,r,,Rhineland Palatinate,code07,21.624
-2002,Percentage,r,,Rhineland Palatinate,code07,21.621
-2003,Percentage,r,,Rhineland Palatinate,code07,19.294
-2004,Percentage,r,,Rhineland Palatinate,code07,18.583
-2005,Percentage,r,,Rhineland Palatinate,code07,18.329
-2006,Percentage,r,,Rhineland Palatinate,code07,19.128
-2007,Percentage,r,,Rhineland Palatinate,code07,19.934
-2008,Percentage,r,,Rhineland Palatinate,code07,19.777
-2009,Percentage,r,,Rhineland Palatinate,code07,20.374
-2010,Percentage,r,,Rhineland Palatinate,code07,19.662
-2011,Percentage,r,,Rhineland Palatinate,code07,20.89
-2012,Percentage,r,,Rhineland Palatinate,code07,20.32
-2013,Percentage,r,,Rhineland Palatinate,code07,20.872
-2014,Percentage,r,,Rhineland Palatinate,code07,21.14
-2015,Percentage,r,,Rhineland Palatinate,code07,20.729
-2016,Percentage,r,,Rhineland Palatinate,code07,20.366
-2017,Percentage,r,,Rhineland Palatinate,code07,21.118
-2018,Percentage,r,,Rhineland Palatinate,code07,22.964
-2019,Percentage,r,,Rhineland Palatinate,code07,22.003
-2020,Percentage,r,,Rhineland Palatinate,code07,22.057
-2021,Percentage,r,,Rhineland Palatinate,code07,22.017
-2022,Percentage,r,p,Rhineland Palatinate,code07,22.507
-2023,Percentage,p,,Rhineland Palatinate,code07,22.391
-2024,Percentage,…,,Rhineland Palatinate,code07,
-2025,Percentage,…,,Rhineland Palatinate,code07,
-1991,Percentage,,,Saarland,code10,20.772
-1992,Percentage,,,Saarland,code10,20.305
-1993,Percentage,,,Saarland,code10,18.627
-1994,Percentage,,,Saarland,code10,19.663
-1995,Percentage,,,Saarland,code10,20.597
-1996,Percentage,,,Saarland,code10,20.991
-1997,Percentage,,,Saarland,code10,21.173
-1998,Percentage,,,Saarland,code10,24.441
-1999,Percentage,,,Saarland,code10,23.447
-2000,Percentage,r,,Saarland,code10,23.124
-2001,Percentage,r,,Saarland,code10,18.542
-2002,Percentage,r,,Saarland,code10,18.904
-2003,Percentage,r,,Saarland,code10,18.767
-2004,Percentage,r,,Saarland,code10,15.671
-2005,Percentage,r,,Saarland,code10,15.008
-2006,Percentage,r,,Saarland,code10,16.041
-2007,Percentage,r,,Saarland,code10,16.502
-2008,Percentage,r,,Saarland,code10,16.326
-2009,Percentage,r,,Saarland,code10,14.816
-2010,Percentage,r,,Saarland,code10,17.951
-2011,Percentage,r,,Saarland,code10,17.273
-2012,Percentage,r,,Saarland,code10,16.744
-2013,Percentage,r,,Saarland,code10,17.528
-2014,Percentage,r,,Saarland,code10,17.766
-2015,Percentage,r,,Saarland,code10,18.152
-2016,Percentage,r,,Saarland,code10,17.201
-2017,Percentage,r,,Saarland,code10,16.375
-2018,Percentage,r,,Saarland,code10,17.589
-2019,Percentage,r,,Saarland,code10,19.11
-2020,Percentage,r,,Saarland,code10,17.574
-2021,Percentage,r,,Saarland,code10,18.411
-2022,Percentage,r,p,Saarland,code10,18.474
-2023,Percentage,p,,Saarland,code10,18.948
-2024,Percentage,…,,Saarland,code10,
-2025,Percentage,…,,Saarland,code10,
-1991,Percentage,,,Saxony,code14,42.414
-1992,Percentage,,,Saxony,code14,41.288
-1993,Percentage,,,Saxony,code14,39.174
-1994,Percentage,,,Saxony,code14,46.148
-1995,Percentage,,,Saxony,code14,45.678
-1996,Percentage,,,Saxony,code14,45.248
-1997,Percentage,,,Saxony,code14,42.84
-1998,Percentage,,,Saxony,code14,38.849
-1999,Percentage,,,Saxony,code14,35.964
-2000,Percentage,r,,Saxony,code14,35.039
-2001,Percentage,r,,Saxony,code14,27.203
-2002,Percentage,r,,Saxony,code14,23.035
-2003,Percentage,r,,Saxony,code14,22.746
-2004,Percentage,r,,Saxony,code14,23.096
-2005,Percentage,r,,Saxony,code14,21.216
-2006,Percentage,r,,Saxony,code14,20.795
-2007,Percentage,r,,Saxony,code14,23.577
-2008,Percentage,r,,Saxony,code14,22.059
-2009,Percentage,r,,Saxony,code14,20.661
-2010,Percentage,r,,Saxony,code14,22.388
-2011,Percentage,r,,Saxony,code14,23.522
-2012,Percentage,r,,Saxony,code14,22.92
-2013,Percentage,r,,Saxony,code14,21.255
-2014,Percentage,r,,Saxony,code14,20.823
-2015,Percentage,r,,Saxony,code14,19.255
-2016,Percentage,r,,Saxony,code14,20.92
-2017,Percentage,r,,Saxony,code14,19.687
-2018,Percentage,r,,Saxony,code14,20.221
-2019,Percentage,r,,Saxony,code14,21.566
-2020,Percentage,r,,Saxony,code14,21.905
-2021,Percentage,r,,Saxony,code14,21.232
-2022,Percentage,r,p,Saxony,code14,21.317
-2023,Percentage,p,,Saxony,code14,20.629
-2024,Percentage,…,,Saxony,code14,
-2025,Percentage,…,,Saxony,code14,
-1991,Percentage,,,Saxony-Anhalt,code15,42.544
-1992,Percentage,,,Saxony-Anhalt,code15,53.473
-1993,Percentage,,,Saxony-Anhalt,code15,52.502
-1994,Percentage,,,Saxony-Anhalt,code15,53.978
-1995,Percentage,,,Saxony-Anhalt,code15,52.655
-1996,Percentage,,,Saxony-Anhalt,code15,44.709
-1997,Percentage,,,Saxony-Anhalt,code15,41.471
-1998,Percentage,,,Saxony-Anhalt,code15,40.676
-1999,Percentage,,,Saxony-Anhalt,code15,36.216
-2000,Percentage,r,,Saxony-Anhalt,code15,33.283
-2001,Percentage,r,,Saxony-Anhalt,code15,25.541
-2002,Percentage,r,,Saxony-Anhalt,code15,22.961
-2003,Percentage,r,,Saxony-Anhalt,code15,22.107
-2004,Percentage,r,,Saxony-Anhalt,code15,22.213
-2005,Percentage,r,,Saxony-Anhalt,code15,20.383
-2006,Percentage,r,,Saxony-Anhalt,code15,18.912
-2007,Percentage,r,,Saxony-Anhalt,code15,19.375
-2008,Percentage,r,,Saxony-Anhalt,code15,19.509
-2009,Percentage,r,,Saxony-Anhalt,code15,21.227
-2010,Percentage,r,,Saxony-Anhalt,code15,19.703
-2011,Percentage,r,,Saxony-Anhalt,code15,18.699
-2012,Percentage,r,,Saxony-Anhalt,code15,19.405
-2013,Percentage,r,,Saxony-Anhalt,code15,18.64
-2014,Percentage,r,,Saxony-Anhalt,code15,18.323
-2015,Percentage,r,,Saxony-Anhalt,code15,19.081
-2016,Percentage,r,,Saxony-Anhalt,code15,19.188
-2017,Percentage,r,,Saxony-Anhalt,code15,18.989
-2018,Percentage,r,,Saxony-Anhalt,code15,19.035
-2019,Percentage,r,,Saxony-Anhalt,code15,20.064
-2020,Percentage,r,,Saxony-Anhalt,code15,19.846
-2021,Percentage,r,,Saxony-Anhalt,code15,21.764
-2022,Percentage,r,p,Saxony-Anhalt,code15,20.629
-2023,Percentage,p,,Saxony-Anhalt,code15,19.809
-2024,Percentage,…,,Saxony-Anhalt,code15,
-2025,Percentage,…,,Saxony-Anhalt,code15,
-1991,Percentage,,,Schleswig-Holstein,code01,21.678
-1992,Percentage,,,Schleswig-Holstein,code01,22.176
-1993,Percentage,,,Schleswig-Holstein,code01,21.145
-1994,Percentage,,,Schleswig-Holstein,code01,21.901
-1995,Percentage,,,Schleswig-Holstein,code01,22.771
-1996,Percentage,,,Schleswig-Holstein,code01,21.226
-1997,Percentage,,,Schleswig-Holstein,code01,21.594
-1998,Percentage,,,Schleswig-Holstein,code01,22.887
-1999,Percentage,,,Schleswig-Holstein,code01,23.566
-2000,Percentage,r,,Schleswig-Holstein,code01,22.664
-2001,Percentage,r,,Schleswig-Holstein,code01,20.31
-2002,Percentage,r,,Schleswig-Holstein,code01,18.207
-2003,Percentage,r,,Schleswig-Holstein,code01,18.002
-2004,Percentage,r,,Schleswig-Holstein,code01,17.151
-2005,Percentage,r,,Schleswig-Holstein,code01,17.177
-2006,Percentage,r,,Schleswig-Holstein,code01,19.659
-2007,Percentage,r,,Schleswig-Holstein,code01,19.631
-2008,Percentage,r,,Schleswig-Holstein,code01,19.67
-2009,Percentage,r,,Schleswig-Holstein,code01,18.161
-2010,Percentage,r,,Schleswig-Holstein,code01,20.84
-2011,Percentage,r,,Schleswig-Holstein,code01,22.139
-2012,Percentage,r,,Schleswig-Holstein,code01,21.218
-2013,Percentage,r,,Schleswig-Holstein,code01,18.725
-2014,Percentage,r,,Schleswig-Holstein,code01,21.377
-2015,Percentage,r,,Schleswig-Holstein,code01,20.503
-2016,Percentage,r,,Schleswig-Holstein,code01,23.18
-2017,Percentage,r,,Schleswig-Holstein,code01,21.392
-2018,Percentage,r,,Schleswig-Holstein,code01,21.482
-2019,Percentage,r,,Schleswig-Holstein,code01,23.198
-2020,Percentage,r,,Schleswig-Holstein,code01,22.808
-2021,Percentage,r,,Schleswig-Holstein,code01,21.452
-2022,Percentage,r,p,Schleswig-Holstein,code01,22.795
-2023,Percentage,p,,Schleswig-Holstein,code01,22.098
-2024,Percentage,…,,Schleswig-Holstein,code01,
-2025,Percentage,…,,Schleswig-Holstein,code01,
-1991,Percentage,,,Thuringia,code16,45.492
-1992,Percentage,,,Thuringia,code16,52.151
-1993,Percentage,,,Thuringia,code16,55.336
-1994,Percentage,,,Thuringia,code16,55.28
-1995,Percentage,,,Thuringia,code16,49.84
-1996,Percentage,,,Thuringia,code16,39.294
-1997,Percentage,,,Thuringia,code16,38.506
-1998,Percentage,,,Thuringia,code16,36.531
-1999,Percentage,,,Thuringia,code16,37.802
-2000,Percentage,r,,Thuringia,code16,33.608
-2001,Percentage,r,,Thuringia,code16,31.47
-2002,Percentage,r,,Thuringia,code16,26.3
-2003,Percentage,r,,Thuringia,code16,26.286
-2004,Percentage,r,,Thuringia,code16,22.261
-2005,Percentage,r,,Thuringia,code16,22.806
-2006,Percentage,r,,Thuringia,code16,23.137
-2007,Percentage,r,,Thuringia,code16,23.729
-2008,Percentage,r,,Thuringia,code16,25.837
-2009,Percentage,r,,Thuringia,code16,21.931
-2010,Percentage,r,,Thuringia,code16,21.121
-2011,Percentage,r,,Thuringia,code16,21.748
-2012,Percentage,r,,Thuringia,code16,21.449
-2013,Percentage,r,,Thuringia,code16,19.725
-2014,Percentage,r,,Thuringia,code16,19.766
-2015,Percentage,r,,Thuringia,code16,18.935
-2016,Percentage,r,,Thuringia,code16,20.472
-2017,Percentage,r,,Thuringia,code16,18.625
-2018,Percentage,r,,Thuringia,code16,19.672
-2019,Percentage,r,,Thuringia,code16,19.773
-2020,Percentage,r,,Thuringia,code16,20.152
-2021,Percentage,r,,Thuringia,code16,19.809
-2022,Percentage,r,p,Thuringia,code16,19.81
-2023,Percentage,p,,Thuringia,code16,19.035
-2024,Percentage,…,,Thuringia,code16,
-2025,Percentage,…,,Thuringia,code16,
+2005,Percentage,,,,,18.764
+2006,Percentage,,,,,19.462
+2007,Percentage,,,,,19.715
+2008,Percentage,,,,,19.963
+2009,Percentage,,,,,18.838
+2010,Percentage,,,,,19.186
+2011,Percentage,r,,,,20.006
+2012,Percentage,r,,,,19.956
+2013,Percentage,r,,,,19.557
+2014,Percentage,r,,,,19.756
+2015,Percentage,r,,,,19.702
+2016,Percentage,r,,,,19.983
+2017,Percentage,r,,,,20.057
+2018,Percentage,r,,,,20.718
+2019,Percentage,r,,,,21.031
+2020,Percentage,r,,,,21.177
+2021,Percentage,r,,,,21.006
+2022,Percentage,,,,,21.577
+2023,Percentage,p,,,,21.106
+2024,Percentage,p,,,,20.476
+2025,Percentage,p,,,,20.202
+1991,Percentage,,Baden-Wuerttemberg,code08,,24.724
+1992,Percentage,,Baden-Wuerttemberg,code08,,24.208
+1993,Percentage,,Baden-Wuerttemberg,code08,,23.004
+1994,Percentage,,Baden-Wuerttemberg,code08,,21.76
+1995,Percentage,,Baden-Wuerttemberg,code08,,20.499
+1996,Percentage,,Baden-Wuerttemberg,code08,,20.454
+1997,Percentage,,Baden-Wuerttemberg,code08,,19.94
+1998,Percentage,,Baden-Wuerttemberg,code08,,20.382
+1999,Percentage,,Baden-Wuerttemberg,code08,,20.474
+2000,Percentage,r,Baden-Wuerttemberg,code08,,21.295
+2001,Percentage,r,Baden-Wuerttemberg,code08,,21.694
+2002,Percentage,r,Baden-Wuerttemberg,code08,,20.592
+2003,Percentage,r,Baden-Wuerttemberg,code08,,19.31
+2004,Percentage,r,Baden-Wuerttemberg,code08,,19.844
+2005,Percentage,r,Baden-Wuerttemberg,code08,,19.264
+2006,Percentage,r,Baden-Wuerttemberg,code08,,20.119
+2007,Percentage,r,Baden-Wuerttemberg,code08,,20.376
+2008,Percentage,r,Baden-Wuerttemberg,code08,,21.186
+2009,Percentage,r,Baden-Wuerttemberg,code08,,20.437
+2010,Percentage,r,Baden-Wuerttemberg,code08,,19.716
+2011,Percentage,r,Baden-Wuerttemberg,code08,,20.553
+2012,Percentage,r,Baden-Wuerttemberg,code08,,21.611
+2013,Percentage,r,Baden-Wuerttemberg,code08,,20.854
+2014,Percentage,r,Baden-Wuerttemberg,code08,,20.604
+2015,Percentage,r,Baden-Wuerttemberg,code08,,20.9
+2016,Percentage,r,Baden-Wuerttemberg,code08,,21.049
+2017,Percentage,r,Baden-Wuerttemberg,code08,,21.985
+2018,Percentage,r,Baden-Wuerttemberg,code08,,23.026
+2019,Percentage,r,Baden-Wuerttemberg,code08,,23.125
+2020,Percentage,r,Baden-Wuerttemberg,code08,,22.943
+2021,Percentage,r,Baden-Wuerttemberg,code08,,22.848
+2022,Percentage,r,Baden-Wuerttemberg,code08,p,22.572
+2023,Percentage,p,Baden-Wuerttemberg,code08,,22.224
+2024,Percentage,…,Baden-Wuerttemberg,code08,,
+2025,Percentage,…,Baden-Wuerttemberg,code08,,
+1991,Percentage,,Bavaria,code09,,28.205
+1992,Percentage,,Bavaria,code09,,27.354
+1993,Percentage,,Bavaria,code09,,24.628
+1994,Percentage,,Bavaria,code09,,25.21
+1995,Percentage,,Bavaria,code09,,24.741
+1996,Percentage,,Bavaria,code09,,24.349
+1997,Percentage,,Bavaria,code09,,22.79
+1998,Percentage,,Bavaria,code09,,23.614
+1999,Percentage,,Bavaria,code09,,23.373
+2000,Percentage,r,Bavaria,code09,,24.134
+2001,Percentage,r,Bavaria,code09,,22.886
+2002,Percentage,r,Bavaria,code09,,21.52
+2003,Percentage,r,Bavaria,code09,,22.027
+2004,Percentage,r,Bavaria,code09,,21.103
+2005,Percentage,r,Bavaria,code09,,20.181
+2006,Percentage,r,Bavaria,code09,,23.264
+2007,Percentage,r,Bavaria,code09,,22.531
+2008,Percentage,r,Bavaria,code09,,22.8
+2009,Percentage,r,Bavaria,code09,,21.11
+2010,Percentage,r,Bavaria,code09,,21.3
+2011,Percentage,r,Bavaria,code09,,22.802
+2012,Percentage,r,Bavaria,code09,,22.513
+2013,Percentage,r,Bavaria,code09,,22.281
+2014,Percentage,r,Bavaria,code09,,22.736
+2015,Percentage,r,Bavaria,code09,,22.841
+2016,Percentage,r,Bavaria,code09,,22.657
+2017,Percentage,r,Bavaria,code09,,23.247
+2018,Percentage,r,Bavaria,code09,,24.106
+2019,Percentage,r,Bavaria,code09,,24.187
+2020,Percentage,r,Bavaria,code09,,25.015
+2021,Percentage,r,Bavaria,code09,,23.839
+2022,Percentage,r,Bavaria,code09,p,24.697
+2023,Percentage,p,Bavaria,code09,,24.332
+2024,Percentage,…,Bavaria,code09,,
+2025,Percentage,…,Bavaria,code09,,
+1991,Percentage,,Berlin,code11,,22.414
+1992,Percentage,,Berlin,code11,,22.912
+1993,Percentage,,Berlin,code11,,21.828
+1994,Percentage,,Berlin,code11,,20.301
+1995,Percentage,,Berlin,code11,,20.335
+1996,Percentage,,Berlin,code11,,24.356
+1997,Percentage,,Berlin,code11,,27.9
+1998,Percentage,,Berlin,code11,,22.743
+1999,Percentage,,Berlin,code11,,21.974
+2000,Percentage,r,Berlin,code11,,20.485
+2001,Percentage,r,Berlin,code11,,18.885
+2002,Percentage,r,Berlin,code11,,16.189
+2003,Percentage,r,Berlin,code11,,14.439
+2004,Percentage,r,Berlin,code11,,15.473
+2005,Percentage,r,Berlin,code11,,17.295
+2006,Percentage,r,Berlin,code11,,16.848
+2007,Percentage,r,Berlin,code11,,17.358
+2008,Percentage,r,Berlin,code11,,16.806
+2009,Percentage,r,Berlin,code11,,16.344
+2010,Percentage,r,Berlin,code11,,16.541
+2011,Percentage,r,Berlin,code11,,15.746
+2012,Percentage,r,Berlin,code11,,17.638
+2013,Percentage,r,Berlin,code11,,17.484
+2014,Percentage,r,Berlin,code11,,18.599
+2015,Percentage,r,Berlin,code11,,18.984
+2016,Percentage,r,Berlin,code11,,18.908
+2017,Percentage,r,Berlin,code11,,18.149
+2018,Percentage,r,Berlin,code11,,18.88
+2019,Percentage,r,Berlin,code11,,18.601
+2020,Percentage,r,Berlin,code11,,18.319
+2021,Percentage,r,Berlin,code11,,17.7
+2022,Percentage,r,Berlin,code11,p,21.124
+2023,Percentage,p,Berlin,code11,,20.0
+2024,Percentage,…,Berlin,code11,,
+2025,Percentage,…,Berlin,code11,,
+1991,Percentage,,Brandenburg,code12,,41.077
+1992,Percentage,,Brandenburg,code12,,44.387
+1993,Percentage,,Brandenburg,code12,,49.168
+1994,Percentage,,Brandenburg,code12,,51.434
+1995,Percentage,,Brandenburg,code12,,46.611
+1996,Percentage,,Brandenburg,code12,,47.793
+1997,Percentage,,Brandenburg,code12,,44.624
+1998,Percentage,,Brandenburg,code12,,43.473
+1999,Percentage,,Brandenburg,code12,,40.159
+2000,Percentage,r,Brandenburg,code12,,36.693
+2001,Percentage,r,Brandenburg,code12,,30.266
+2002,Percentage,r,Brandenburg,code12,,26.755
+2003,Percentage,r,Brandenburg,code12,,23.705
+2004,Percentage,r,Brandenburg,code12,,23.446
+2005,Percentage,r,Brandenburg,code12,,22.625
+2006,Percentage,r,Brandenburg,code12,,22.889
+2007,Percentage,r,Brandenburg,code12,,21.35
+2008,Percentage,r,Brandenburg,code12,,21.825
+2009,Percentage,r,Brandenburg,code12,,19.448
+2010,Percentage,r,Brandenburg,code12,,19.96
+2011,Percentage,r,Brandenburg,code12,,20.062
+2012,Percentage,r,Brandenburg,code12,,21.71
+2013,Percentage,r,Brandenburg,code12,,20.622
+2014,Percentage,r,Brandenburg,code12,,21.12
+2015,Percentage,r,Brandenburg,code12,,21.868
+2016,Percentage,r,Brandenburg,code12,,23.21
+2017,Percentage,r,Brandenburg,code12,,23.159
+2018,Percentage,r,Brandenburg,code12,,24.354
+2019,Percentage,r,Brandenburg,code12,,23.862
+2020,Percentage,r,Brandenburg,code12,,25.383
+2021,Percentage,r,Brandenburg,code12,,24.864
+2022,Percentage,r,Brandenburg,code12,p,23.797
+2023,Percentage,p,Brandenburg,code12,,23.485
+2024,Percentage,…,Brandenburg,code12,,
+2025,Percentage,…,Brandenburg,code12,,
+1991,Percentage,,Bremen,code04,,18.106
+1992,Percentage,,Bremen,code04,,17.393
+1993,Percentage,,Bremen,code04,,18.309
+1994,Percentage,,Bremen,code04,,14.734
+1995,Percentage,,Bremen,code04,,13.894
+1996,Percentage,,Bremen,code04,,14.89
+1997,Percentage,,Bremen,code04,,14.476
+1998,Percentage,,Bremen,code04,,15.505
+1999,Percentage,,Bremen,code04,,17.351
+2000,Percentage,r,Bremen,code04,,17.47
+2001,Percentage,r,Bremen,code04,,16.406
+2002,Percentage,r,Bremen,code04,,16.566
+2003,Percentage,r,Bremen,code04,,12.802
+2004,Percentage,r,Bremen,code04,,15.026
+2005,Percentage,r,Bremen,code04,,13.827
+2006,Percentage,r,Bremen,code04,,14.582
+2007,Percentage,r,Bremen,code04,,14.641
+2008,Percentage,r,Bremen,code04,,14.828
+2009,Percentage,r,Bremen,code04,,13.945
+2010,Percentage,r,Bremen,code04,,14.393
+2011,Percentage,r,Bremen,code04,,14.009
+2012,Percentage,r,Bremen,code04,,18.353
+2013,Percentage,r,Bremen,code04,,16.234
+2014,Percentage,r,Bremen,code04,,13.863
+2015,Percentage,r,Bremen,code04,,16.697
+2016,Percentage,r,Bremen,code04,,16.276
+2017,Percentage,r,Bremen,code04,,14.048
+2018,Percentage,r,Bremen,code04,,15.903
+2019,Percentage,r,Bremen,code04,,16.573
+2020,Percentage,r,Bremen,code04,,15.862
+2021,Percentage,r,Bremen,code04,,16.071
+2022,Percentage,r,Bremen,code04,p,15.873
+2023,Percentage,p,Bremen,code04,,14.533
+2024,Percentage,…,Bremen,code04,,
+2025,Percentage,…,Bremen,code04,,
+1991,Percentage,,Hamburg,code02,,16.374
+1992,Percentage,,Hamburg,code02,,17.845
+1993,Percentage,,Hamburg,code02,,16.898
+1994,Percentage,,Hamburg,code02,,15.059
+1995,Percentage,,Hamburg,code02,,13.809
+1996,Percentage,,Hamburg,code02,,13.638
+1997,Percentage,,Hamburg,code02,,14.264
+1998,Percentage,,Hamburg,code02,,15.27
+1999,Percentage,,Hamburg,code02,,14.328
+2000,Percentage,r,Hamburg,code02,,15.792
+2001,Percentage,r,Hamburg,code02,,17.123
+2002,Percentage,r,Hamburg,code02,,17.916
+2003,Percentage,r,Hamburg,code02,,17.246
+2004,Percentage,r,Hamburg,code02,,19.908
+2005,Percentage,r,Hamburg,code02,,21.073
+2006,Percentage,r,Hamburg,code02,,21.996
+2007,Percentage,r,Hamburg,code02,,23.948
+2008,Percentage,r,Hamburg,code02,,24.576
+2009,Percentage,r,Hamburg,code02,,18.5
+2010,Percentage,r,Hamburg,code02,,22.951
+2011,Percentage,r,Hamburg,code02,,20.049
+2012,Percentage,r,Hamburg,code02,,19.539
+2013,Percentage,r,Hamburg,code02,,19.882
+2014,Percentage,r,Hamburg,code02,,20.322
+2015,Percentage,r,Hamburg,code02,,20.262
+2016,Percentage,r,Hamburg,code02,,18.752
+2017,Percentage,r,Hamburg,code02,,15.138
+2018,Percentage,r,Hamburg,code02,,16.915
+2019,Percentage,r,Hamburg,code02,,17.525
+2020,Percentage,r,Hamburg,code02,,17.386
+2021,Percentage,r,Hamburg,code02,,15.677
+2022,Percentage,r,Hamburg,code02,p,15.408
+2023,Percentage,p,Hamburg,code02,,17.675
+2024,Percentage,…,Hamburg,code02,,
+2025,Percentage,…,Hamburg,code02,,
+1991,Percentage,,Hesse,code06,,21.821
+1992,Percentage,,Hesse,code06,,21.178
+1993,Percentage,,Hesse,code06,,20.399
+1994,Percentage,,Hesse,code06,,18.352
+1995,Percentage,,Hesse,code06,,18.744
+1996,Percentage,,Hesse,code06,,17.45
+1997,Percentage,,Hesse,code06,,18.009
+1998,Percentage,,Hesse,code06,,18.333
+1999,Percentage,,Hesse,code06,,18.491
+2000,Percentage,r,Hesse,code06,,18.225
+2001,Percentage,r,Hesse,code06,,18.545
+2002,Percentage,r,Hesse,code06,,16.796
+2003,Percentage,r,Hesse,code06,,16.026
+2004,Percentage,r,Hesse,code06,,16.057
+2005,Percentage,r,Hesse,code06,,17.558
+2006,Percentage,r,Hesse,code06,,17.144
+2007,Percentage,r,Hesse,code06,,18.033
+2008,Percentage,r,Hesse,code06,,19.712
+2009,Percentage,r,Hesse,code06,,16.465
+2010,Percentage,r,Hesse,code06,,17.276
+2011,Percentage,r,Hesse,code06,,18.721
+2012,Percentage,r,Hesse,code06,,17.468
+2013,Percentage,r,Hesse,code06,,17.534
+2014,Percentage,r,Hesse,code06,,17.059
+2015,Percentage,r,Hesse,code06,,16.842
+2016,Percentage,r,Hesse,code06,,17.714
+2017,Percentage,r,Hesse,code06,,18.043
+2018,Percentage,r,Hesse,code06,,18.228
+2019,Percentage,r,Hesse,code06,,18.457
+2020,Percentage,r,Hesse,code06,,19.69
+2021,Percentage,r,Hesse,code06,,18.905
+2022,Percentage,r,Hesse,code06,p,21.03
+2023,Percentage,p,Hesse,code06,,19.932
+2024,Percentage,…,Hesse,code06,,
+2025,Percentage,…,Hesse,code06,,
+1991,Percentage,,Mecklenburg Western Pomerania,code13,,49.116
+1992,Percentage,,Mecklenburg Western Pomerania,code13,,61.047
+1993,Percentage,,Mecklenburg Western Pomerania,code13,,59.62
+1994,Percentage,,Mecklenburg Western Pomerania,code13,,56.988
+1995,Percentage,,Mecklenburg Western Pomerania,code13,,54.437
+1996,Percentage,,Mecklenburg Western Pomerania,code13,,47.642
+1997,Percentage,,Mecklenburg Western Pomerania,code13,,43.255
+1998,Percentage,,Mecklenburg Western Pomerania,code13,,40.111
+1999,Percentage,,Mecklenburg Western Pomerania,code13,,36.798
+2000,Percentage,r,Mecklenburg Western Pomerania,code13,,34.78
+2001,Percentage,r,Mecklenburg Western Pomerania,code13,,29.702
+2002,Percentage,r,Mecklenburg Western Pomerania,code13,,25.93
+2003,Percentage,r,Mecklenburg Western Pomerania,code13,,25.098
+2004,Percentage,r,Mecklenburg Western Pomerania,code13,,24.738
+2005,Percentage,r,Mecklenburg Western Pomerania,code13,,26.447
+2006,Percentage,r,Mecklenburg Western Pomerania,code13,,27.174
+2007,Percentage,r,Mecklenburg Western Pomerania,code13,,22.601
+2008,Percentage,r,Mecklenburg Western Pomerania,code13,,23.314
+2009,Percentage,r,Mecklenburg Western Pomerania,code13,,20.565
+2010,Percentage,r,Mecklenburg Western Pomerania,code13,,21.847
+2011,Percentage,r,Mecklenburg Western Pomerania,code13,,23.772
+2012,Percentage,r,Mecklenburg Western Pomerania,code13,,23.367
+2013,Percentage,r,Mecklenburg Western Pomerania,code13,,20.33
+2014,Percentage,r,Mecklenburg Western Pomerania,code13,,21.232
+2015,Percentage,r,Mecklenburg Western Pomerania,code13,,21.729
+2016,Percentage,r,Mecklenburg Western Pomerania,code13,,23.693
+2017,Percentage,r,Mecklenburg Western Pomerania,code13,,22.228
+2018,Percentage,r,Mecklenburg Western Pomerania,code13,,24.789
+2019,Percentage,r,Mecklenburg Western Pomerania,code13,,26.468
+2020,Percentage,r,Mecklenburg Western Pomerania,code13,,25.753
+2021,Percentage,r,Mecklenburg Western Pomerania,code13,,21.956
+2022,Percentage,r,Mecklenburg Western Pomerania,code13,p,25.179
+2023,Percentage,p,Mecklenburg Western Pomerania,code13,,22.046
+2024,Percentage,…,Mecklenburg Western Pomerania,code13,,
+2025,Percentage,…,Mecklenburg Western Pomerania,code13,,
+1991,Percentage,,Lower Saxony,code03,,27.454
+1992,Percentage,,Lower Saxony,code03,,25.885
+1993,Percentage,,Lower Saxony,code03,,23.685
+1994,Percentage,,Lower Saxony,code03,,23.394
+1995,Percentage,,Lower Saxony,code03,,23.162
+1996,Percentage,,Lower Saxony,code03,,22.597
+1997,Percentage,,Lower Saxony,code03,,23.314
+1998,Percentage,,Lower Saxony,code03,,24.316
+1999,Percentage,,Lower Saxony,code03,,25.721
+2000,Percentage,r,Lower Saxony,code03,,26.052
+2001,Percentage,r,Lower Saxony,code03,,24.612
+2002,Percentage,r,Lower Saxony,code03,,23.187
+2003,Percentage,r,Lower Saxony,code03,,24.113
+2004,Percentage,r,Lower Saxony,code03,,21.237
+2005,Percentage,r,Lower Saxony,code03,,19.528
+2006,Percentage,r,Lower Saxony,code03,,20.229
+2007,Percentage,r,Lower Saxony,code03,,20.972
+2008,Percentage,r,Lower Saxony,code03,,20.242
+2009,Percentage,r,Lower Saxony,code03,,21.893
+2010,Percentage,r,Lower Saxony,code03,,21.571
+2011,Percentage,r,Lower Saxony,code03,,23.194
+2012,Percentage,r,Lower Saxony,code03,,23.437
+2013,Percentage,r,Lower Saxony,code03,,23.588
+2014,Percentage,r,Lower Saxony,code03,,23.695
+2015,Percentage,r,Lower Saxony,code03,,24.091
+2016,Percentage,r,Lower Saxony,code03,,23.827
+2017,Percentage,r,Lower Saxony,code03,,24.514
+2018,Percentage,r,Lower Saxony,code03,,24.139
+2019,Percentage,r,Lower Saxony,code03,,26.17
+2020,Percentage,r,Lower Saxony,code03,,25.769
+2021,Percentage,r,Lower Saxony,code03,,28.467
+2022,Percentage,r,Lower Saxony,code03,p,28.732
+2023,Percentage,p,Lower Saxony,code03,,26.702
+2024,Percentage,…,Lower Saxony,code03,,
+2025,Percentage,…,Lower Saxony,code03,,
+1991,Percentage,,North Rhine-Westphalia,code05,,20.501
+1992,Percentage,,North Rhine-Westphalia,code05,,20.103
+1993,Percentage,,North Rhine-Westphalia,code05,,18.335
+1994,Percentage,,North Rhine-Westphalia,code05,,17.865
+1995,Percentage,,North Rhine-Westphalia,code05,,17.084
+1996,Percentage,,North Rhine-Westphalia,code05,,17.142
+1997,Percentage,,North Rhine-Westphalia,code05,,17.028
+1998,Percentage,,North Rhine-Westphalia,code05,,17.659
+1999,Percentage,,North Rhine-Westphalia,code05,,19.076
+2000,Percentage,r,North Rhine-Westphalia,code05,,19.49
+2001,Percentage,r,North Rhine-Westphalia,code05,,18.769
+2002,Percentage,r,North Rhine-Westphalia,code05,,16.851
+2003,Percentage,r,North Rhine-Westphalia,code05,,16.041
+2004,Percentage,r,North Rhine-Westphalia,code05,,15.492
+2005,Percentage,r,North Rhine-Westphalia,code05,,16.38
+2006,Percentage,r,North Rhine-Westphalia,code05,,15.866
+2007,Percentage,r,North Rhine-Westphalia,code05,,16.045
+2008,Percentage,r,North Rhine-Westphalia,code05,,16.04
+2009,Percentage,r,North Rhine-Westphalia,code05,,15.556
+2010,Percentage,r,North Rhine-Westphalia,code05,,15.736
+2011,Percentage,r,North Rhine-Westphalia,code05,,16.401
+2012,Percentage,r,North Rhine-Westphalia,code05,,15.758
+2013,Percentage,r,North Rhine-Westphalia,code05,,15.606
+2014,Percentage,r,North Rhine-Westphalia,code05,,15.908
+2015,Percentage,r,North Rhine-Westphalia,code05,,15.527
+2016,Percentage,r,North Rhine-Westphalia,code05,,15.989
+2017,Percentage,r,North Rhine-Westphalia,code05,,16.32
+2018,Percentage,r,North Rhine-Westphalia,code05,,16.676
+2019,Percentage,r,North Rhine-Westphalia,code05,,16.539
+2020,Percentage,r,North Rhine-Westphalia,code05,,16.591
+2021,Percentage,r,North Rhine-Westphalia,code05,,17.016
+2022,Percentage,r,North Rhine-Westphalia,code05,p,16.474
+2023,Percentage,p,North Rhine-Westphalia,code05,,16.772
+2024,Percentage,…,North Rhine-Westphalia,code05,,
+2025,Percentage,…,North Rhine-Westphalia,code05,,
+1991,Percentage,,Rhineland Palatinate,code07,,23.37
+1992,Percentage,,Rhineland Palatinate,code07,,22.339
+1993,Percentage,,Rhineland Palatinate,code07,,21.719
+1994,Percentage,,Rhineland Palatinate,code07,,22.538
+1995,Percentage,,Rhineland Palatinate,code07,,22.704
+1996,Percentage,,Rhineland Palatinate,code07,,20.964
+1997,Percentage,,Rhineland Palatinate,code07,,21.588
+1998,Percentage,,Rhineland Palatinate,code07,,22.648
+1999,Percentage,,Rhineland Palatinate,code07,,22.975
+2000,Percentage,r,Rhineland Palatinate,code07,,23.609
+2001,Percentage,r,Rhineland Palatinate,code07,,21.624
+2002,Percentage,r,Rhineland Palatinate,code07,,21.621
+2003,Percentage,r,Rhineland Palatinate,code07,,19.294
+2004,Percentage,r,Rhineland Palatinate,code07,,18.583
+2005,Percentage,r,Rhineland Palatinate,code07,,18.329
+2006,Percentage,r,Rhineland Palatinate,code07,,19.128
+2007,Percentage,r,Rhineland Palatinate,code07,,19.934
+2008,Percentage,r,Rhineland Palatinate,code07,,19.777
+2009,Percentage,r,Rhineland Palatinate,code07,,20.374
+2010,Percentage,r,Rhineland Palatinate,code07,,19.662
+2011,Percentage,r,Rhineland Palatinate,code07,,20.89
+2012,Percentage,r,Rhineland Palatinate,code07,,20.32
+2013,Percentage,r,Rhineland Palatinate,code07,,20.872
+2014,Percentage,r,Rhineland Palatinate,code07,,21.14
+2015,Percentage,r,Rhineland Palatinate,code07,,20.729
+2016,Percentage,r,Rhineland Palatinate,code07,,20.366
+2017,Percentage,r,Rhineland Palatinate,code07,,21.118
+2018,Percentage,r,Rhineland Palatinate,code07,,22.964
+2019,Percentage,r,Rhineland Palatinate,code07,,22.003
+2020,Percentage,r,Rhineland Palatinate,code07,,22.057
+2021,Percentage,r,Rhineland Palatinate,code07,,22.017
+2022,Percentage,r,Rhineland Palatinate,code07,p,22.507
+2023,Percentage,p,Rhineland Palatinate,code07,,22.391
+2024,Percentage,…,Rhineland Palatinate,code07,,
+2025,Percentage,…,Rhineland Palatinate,code07,,
+1991,Percentage,,Saarland,code10,,20.772
+1992,Percentage,,Saarland,code10,,20.305
+1993,Percentage,,Saarland,code10,,18.627
+1994,Percentage,,Saarland,code10,,19.663
+1995,Percentage,,Saarland,code10,,20.597
+1996,Percentage,,Saarland,code10,,20.991
+1997,Percentage,,Saarland,code10,,21.173
+1998,Percentage,,Saarland,code10,,24.441
+1999,Percentage,,Saarland,code10,,23.447
+2000,Percentage,r,Saarland,code10,,23.124
+2001,Percentage,r,Saarland,code10,,18.542
+2002,Percentage,r,Saarland,code10,,18.904
+2003,Percentage,r,Saarland,code10,,18.767
+2004,Percentage,r,Saarland,code10,,15.671
+2005,Percentage,r,Saarland,code10,,15.008
+2006,Percentage,r,Saarland,code10,,16.041
+2007,Percentage,r,Saarland,code10,,16.502
+2008,Percentage,r,Saarland,code10,,16.326
+2009,Percentage,r,Saarland,code10,,14.816
+2010,Percentage,r,Saarland,code10,,17.951
+2011,Percentage,r,Saarland,code10,,17.273
+2012,Percentage,r,Saarland,code10,,16.744
+2013,Percentage,r,Saarland,code10,,17.528
+2014,Percentage,r,Saarland,code10,,17.766
+2015,Percentage,r,Saarland,code10,,18.152
+2016,Percentage,r,Saarland,code10,,17.201
+2017,Percentage,r,Saarland,code10,,16.375
+2018,Percentage,r,Saarland,code10,,17.589
+2019,Percentage,r,Saarland,code10,,19.11
+2020,Percentage,r,Saarland,code10,,17.574
+2021,Percentage,r,Saarland,code10,,18.411
+2022,Percentage,r,Saarland,code10,p,18.474
+2023,Percentage,p,Saarland,code10,,18.948
+2024,Percentage,…,Saarland,code10,,
+2025,Percentage,…,Saarland,code10,,
+1991,Percentage,,Saxony,code14,,42.414
+1992,Percentage,,Saxony,code14,,41.288
+1993,Percentage,,Saxony,code14,,39.174
+1994,Percentage,,Saxony,code14,,46.148
+1995,Percentage,,Saxony,code14,,45.678
+1996,Percentage,,Saxony,code14,,45.248
+1997,Percentage,,Saxony,code14,,42.84
+1998,Percentage,,Saxony,code14,,38.849
+1999,Percentage,,Saxony,code14,,35.964
+2000,Percentage,r,Saxony,code14,,35.039
+2001,Percentage,r,Saxony,code14,,27.203
+2002,Percentage,r,Saxony,code14,,23.035
+2003,Percentage,r,Saxony,code14,,22.746
+2004,Percentage,r,Saxony,code14,,23.096
+2005,Percentage,r,Saxony,code14,,21.216
+2006,Percentage,r,Saxony,code14,,20.795
+2007,Percentage,r,Saxony,code14,,23.577
+2008,Percentage,r,Saxony,code14,,22.059
+2009,Percentage,r,Saxony,code14,,20.661
+2010,Percentage,r,Saxony,code14,,22.388
+2011,Percentage,r,Saxony,code14,,23.522
+2012,Percentage,r,Saxony,code14,,22.92
+2013,Percentage,r,Saxony,code14,,21.255
+2014,Percentage,r,Saxony,code14,,20.823
+2015,Percentage,r,Saxony,code14,,19.255
+2016,Percentage,r,Saxony,code14,,20.92
+2017,Percentage,r,Saxony,code14,,19.687
+2018,Percentage,r,Saxony,code14,,20.221
+2019,Percentage,r,Saxony,code14,,21.566
+2020,Percentage,r,Saxony,code14,,21.905
+2021,Percentage,r,Saxony,code14,,21.232
+2022,Percentage,r,Saxony,code14,p,21.317
+2023,Percentage,p,Saxony,code14,,20.629
+2024,Percentage,…,Saxony,code14,,
+2025,Percentage,…,Saxony,code14,,
+1991,Percentage,,Saxony-Anhalt,code15,,42.544
+1992,Percentage,,Saxony-Anhalt,code15,,53.473
+1993,Percentage,,Saxony-Anhalt,code15,,52.502
+1994,Percentage,,Saxony-Anhalt,code15,,53.978
+1995,Percentage,,Saxony-Anhalt,code15,,52.655
+1996,Percentage,,Saxony-Anhalt,code15,,44.709
+1997,Percentage,,Saxony-Anhalt,code15,,41.471
+1998,Percentage,,Saxony-Anhalt,code15,,40.676
+1999,Percentage,,Saxony-Anhalt,code15,,36.216
+2000,Percentage,r,Saxony-Anhalt,code15,,33.283
+2001,Percentage,r,Saxony-Anhalt,code15,,25.541
+2002,Percentage,r,Saxony-Anhalt,code15,,22.961
+2003,Percentage,r,Saxony-Anhalt,code15,,22.107
+2004,Percentage,r,Saxony-Anhalt,code15,,22.213
+2005,Percentage,r,Saxony-Anhalt,code15,,20.383
+2006,Percentage,r,Saxony-Anhalt,code15,,18.912
+2007,Percentage,r,Saxony-Anhalt,code15,,19.375
+2008,Percentage,r,Saxony-Anhalt,code15,,19.509
+2009,Percentage,r,Saxony-Anhalt,code15,,21.227
+2010,Percentage,r,Saxony-Anhalt,code15,,19.703
+2011,Percentage,r,Saxony-Anhalt,code15,,18.699
+2012,Percentage,r,Saxony-Anhalt,code15,,19.405
+2013,Percentage,r,Saxony-Anhalt,code15,,18.64
+2014,Percentage,r,Saxony-Anhalt,code15,,18.323
+2015,Percentage,r,Saxony-Anhalt,code15,,19.081
+2016,Percentage,r,Saxony-Anhalt,code15,,19.188
+2017,Percentage,r,Saxony-Anhalt,code15,,18.989
+2018,Percentage,r,Saxony-Anhalt,code15,,19.035
+2019,Percentage,r,Saxony-Anhalt,code15,,20.064
+2020,Percentage,r,Saxony-Anhalt,code15,,19.846
+2021,Percentage,r,Saxony-Anhalt,code15,,21.764
+2022,Percentage,r,Saxony-Anhalt,code15,p,20.629
+2023,Percentage,p,Saxony-Anhalt,code15,,19.809
+2024,Percentage,…,Saxony-Anhalt,code15,,
+2025,Percentage,…,Saxony-Anhalt,code15,,
+1991,Percentage,,Schleswig-Holstein,code01,,21.678
+1992,Percentage,,Schleswig-Holstein,code01,,22.176
+1993,Percentage,,Schleswig-Holstein,code01,,21.145
+1994,Percentage,,Schleswig-Holstein,code01,,21.901
+1995,Percentage,,Schleswig-Holstein,code01,,22.771
+1996,Percentage,,Schleswig-Holstein,code01,,21.226
+1997,Percentage,,Schleswig-Holstein,code01,,21.594
+1998,Percentage,,Schleswig-Holstein,code01,,22.887
+1999,Percentage,,Schleswig-Holstein,code01,,23.566
+2000,Percentage,r,Schleswig-Holstein,code01,,22.664
+2001,Percentage,r,Schleswig-Holstein,code01,,20.31
+2002,Percentage,r,Schleswig-Holstein,code01,,18.207
+2003,Percentage,r,Schleswig-Holstein,code01,,18.002
+2004,Percentage,r,Schleswig-Holstein,code01,,17.151
+2005,Percentage,r,Schleswig-Holstein,code01,,17.177
+2006,Percentage,r,Schleswig-Holstein,code01,,19.659
+2007,Percentage,r,Schleswig-Holstein,code01,,19.631
+2008,Percentage,r,Schleswig-Holstein,code01,,19.67
+2009,Percentage,r,Schleswig-Holstein,code01,,18.161
+2010,Percentage,r,Schleswig-Holstein,code01,,20.84
+2011,Percentage,r,Schleswig-Holstein,code01,,22.139
+2012,Percentage,r,Schleswig-Holstein,code01,,21.218
+2013,Percentage,r,Schleswig-Holstein,code01,,18.725
+2014,Percentage,r,Schleswig-Holstein,code01,,21.377
+2015,Percentage,r,Schleswig-Holstein,code01,,20.503
+2016,Percentage,r,Schleswig-Holstein,code01,,23.18
+2017,Percentage,r,Schleswig-Holstein,code01,,21.392
+2018,Percentage,r,Schleswig-Holstein,code01,,21.482
+2019,Percentage,r,Schleswig-Holstein,code01,,23.198
+2020,Percentage,r,Schleswig-Holstein,code01,,22.808
+2021,Percentage,r,Schleswig-Holstein,code01,,21.452
+2022,Percentage,r,Schleswig-Holstein,code01,p,22.795
+2023,Percentage,p,Schleswig-Holstein,code01,,22.098
+2024,Percentage,…,Schleswig-Holstein,code01,,
+2025,Percentage,…,Schleswig-Holstein,code01,,
+1991,Percentage,,Thuringia,code16,,45.492
+1992,Percentage,,Thuringia,code16,,52.151
+1993,Percentage,,Thuringia,code16,,55.336
+1994,Percentage,,Thuringia,code16,,55.28
+1995,Percentage,,Thuringia,code16,,49.84
+1996,Percentage,,Thuringia,code16,,39.294
+1997,Percentage,,Thuringia,code16,,38.506
+1998,Percentage,,Thuringia,code16,,36.531
+1999,Percentage,,Thuringia,code16,,37.802
+2000,Percentage,r,Thuringia,code16,,33.608
+2001,Percentage,r,Thuringia,code16,,31.47
+2002,Percentage,r,Thuringia,code16,,26.3
+2003,Percentage,r,Thuringia,code16,,26.286
+2004,Percentage,r,Thuringia,code16,,22.261
+2005,Percentage,r,Thuringia,code16,,22.806
+2006,Percentage,r,Thuringia,code16,,23.137
+2007,Percentage,r,Thuringia,code16,,23.729
+2008,Percentage,r,Thuringia,code16,,25.837
+2009,Percentage,r,Thuringia,code16,,21.931
+2010,Percentage,r,Thuringia,code16,,21.121
+2011,Percentage,r,Thuringia,code16,,21.748
+2012,Percentage,r,Thuringia,code16,,21.449
+2013,Percentage,r,Thuringia,code16,,19.725
+2014,Percentage,r,Thuringia,code16,,19.766
+2015,Percentage,r,Thuringia,code16,,18.935
+2016,Percentage,r,Thuringia,code16,,20.472
+2017,Percentage,r,Thuringia,code16,,18.625
+2018,Percentage,r,Thuringia,code16,,19.672
+2019,Percentage,r,Thuringia,code16,,19.773
+2020,Percentage,r,Thuringia,code16,,20.152
+2021,Percentage,r,Thuringia,code16,,19.809
+2022,Percentage,r,Thuringia,code16,p,19.81
+2023,Percentage,p,Thuringia,code16,,19.035
+2024,Percentage,…,Thuringia,code16,,
+2025,Percentage,…,Thuringia,code16,,

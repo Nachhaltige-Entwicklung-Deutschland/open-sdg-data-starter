@@ -1,13 +1,13 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-1-ab,"time series, länder, area, sex, age group",5
-#10-1,"länder, sex",2
-#10-2,"time series, länder, area",3
-#11-1-a,"time series, länder, type of area",3
+#1-1-ab,"sex, länder, time series, area, age group",5
+#10-1,"sex, länder",2
+#10-2,"länder, time series, area",3
+#11-1-a,"länder, time series, type of area",3
 #11-1-c,"länder, degree of urbanisation",2
 #11-2-a,time series,1
 #11-2-b,time series,1
-#11-2-c,"time series, länder",2
-#11-3-a,"länder, sex, age group",3
+#11-2-c,"länder, time series",2
+#11-3-a,"sex, länder, age group",3
 #12-1-b,time series,1
 #12-2-a,länder,1
 #13-1-a,länder,1
@@ -16,38 +16,38 @@ Indicator,Disaggregations,Number of disaggregations
 #15-1,time series,1
 #15-3,länder,1
 #15-4,sector,1
-#16-2,"time series, sex",2
+#16-2,"sex, time series",2
 #16-4,level of compliance,1
-#17-2,"time series, länder, sex",3
+#17-2,"sex, länder, time series",3
 #17-3,time series,1
 #2-1-a,time series,1
 #2-1-b,länder,1
 #3-1-a,"sex, type of treatment",2
-#3-1-cd,"time series, länder, sex",3
+#3-1-cd,"sex, länder, time series",3
 #3-1-e,"sex, age group",2
-#3-1-f,"länder, sex, age group",3
+#3-1-f,"sex, länder, age group",3
 #3-2-a,air pollutant,1
 #3-3,time series,1
-#4-1-a,"länder, sex",2
-#4-1-b,"time series, länder, sex, type of qualification",4
+#4-1-a,"sex, länder",2
+#4-1-b,"sex, länder, time series, type of qualification",4
 #4-2-ab,"länder, type of care",2
 #4-3-a,sex,1
 #4-3-b,"sex, risk situation",2
 #5-1-a,länder,1
 #5-1-bc,time series,1
 #5-1-d,länder,1
-#5-1-e,"time series, länder",2
+#5-1-e,"länder, time series",2
 #6-1-b,länder,1
 #6-2-ab,time series,1
 #7-1-ab,länder,1
 #7-2-a,länder,1
 #7-2-b,länder,1
 #8-1,time series,1
-#8-2-ab,"time series, länder",2
+#8-2-ab,"länder, time series",2
 #8-2-c,länder,1
 #8-3,länder,1
 #8-4,länder,1
-#8-5-ab,"länder, sex",2
+#8-5-ab,"sex, länder",2
 #8-5-c,type of collective bargaining agreement,1
 #9-1-a,"länder, sector",2
-#9-1-b,"time series, länder",2
+#9-1-b,"länder, time series",2
