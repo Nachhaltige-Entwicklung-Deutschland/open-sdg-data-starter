@@ -30,6 +30,10 @@
             "type": "string"
           },
           {
+            "name": "COMMENT_OBS_1",
+            "type": "string"
+          },
+          {
             "name": "degree of urbanisation",
             "type": "string",
             "constraints": {

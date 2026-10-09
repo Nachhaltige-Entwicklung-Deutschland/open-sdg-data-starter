@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -25,11 +25,6 @@
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",

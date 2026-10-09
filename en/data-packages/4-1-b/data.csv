@@ -14,7 +14,8 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2021,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,|,r,,,,,53.642
 2022,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,r,,,,,,53.547
 2023,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,r,,,,,,55.339
-2024,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,p,,,,,,57.329
+2024,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,r,,,,,,56.59
+2025,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,p,,,,,,59.981
 2000,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,r,,,,,,32.997
 2001,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,r,,,,,,33.172
 2002,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,r,,,,,,33.277
@@ -42,6 +43,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,r,,Female,,,,57.537
 2023,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,r,,Female,,,,59.403
 2024,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,p,,Female,,,,61.581
+2025,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,…,,Female,,,,
 2000,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,r,,Female,,,,30.88
 2001,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,r,,Female,,,,31.088
 2002,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,r,,Female,,,,31.291
@@ -69,6 +71,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,r,,Male,,,,49.754
 2023,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,r,,Male,,,,51.478
 2024,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,p,,Male,,,,53.318
+2025,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,…,,Male,,,,
 2000,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,,,Male,,,,35.042
 2001,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,r,,Male,,,,35.23
 2002,Percentage,<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons,r,,Male,,,,35.233
@@ -96,6 +99,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,,Baden-Wuerttemberg,code08,,55.549
 2023,Percentage,,r,,,Baden-Wuerttemberg,code08,,56.756
 2024,Percentage,,p,,,Baden-Wuerttemberg,code08,,58.929
+2025,Percentage,,…,,,Baden-Wuerttemberg,code08,,
 2000,Percentage,,.,,,Baden-Wuerttemberg,code08,,
 2001,Percentage,,.,,,Baden-Wuerttemberg,code08,,
 2002,Percentage,,.,,,Baden-Wuerttemberg,code08,,
@@ -123,6 +127,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Female,Baden-Wuerttemberg,code08,,58.443
 2023,Percentage,,r,,Female,Baden-Wuerttemberg,code08,,59.651
 2024,Percentage,,p,,Female,Baden-Wuerttemberg,code08,,63.465
+2025,Percentage,,…,,Female,Baden-Wuerttemberg,code08,,
 2000,Percentage,,.,,Female,Baden-Wuerttemberg,code08,,
 2001,Percentage,,.,,Female,Baden-Wuerttemberg,code08,,
 2002,Percentage,,.,,Female,Baden-Wuerttemberg,code08,,
@@ -150,6 +155,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Male,Baden-Wuerttemberg,code08,,52.87
 2023,Percentage,,r,,Male,Baden-Wuerttemberg,code08,,54.053
 2024,Percentage,,p,,Male,Baden-Wuerttemberg,code08,,54.726
+2025,Percentage,,…,,Male,Baden-Wuerttemberg,code08,,
 2000,Percentage,,.,,Male,Baden-Wuerttemberg,code08,,
 2001,Percentage,,.,,Male,Baden-Wuerttemberg,code08,,
 2002,Percentage,,.,,Male,Baden-Wuerttemberg,code08,,
@@ -177,6 +183,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,,Bavaria,code09,,52.816
 2023,Percentage,,r,,,Bavaria,code09,,55.954
 2024,Percentage,,p,,,Bavaria,code09,,56.567
+2025,Percentage,,…,,,Bavaria,code09,,
 2000,Percentage,,.,,,Bavaria,code09,,
 2001,Percentage,,.,,,Bavaria,code09,,
 2002,Percentage,,.,,,Bavaria,code09,,
@@ -204,6 +211,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Female,Bavaria,code09,,55.125
 2023,Percentage,,r,,Female,Bavaria,code09,,57.496
 2024,Percentage,,p,,Female,Bavaria,code09,,59.218
+2025,Percentage,,…,,Female,Bavaria,code09,,
 2000,Percentage,,.,,Female,Bavaria,code09,,
 2001,Percentage,,.,,Female,Bavaria,code09,,
 2002,Percentage,,.,,Female,Bavaria,code09,,
@@ -231,6 +239,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Male,Bavaria,code09,,50.62
 2023,Percentage,,r,,Male,Bavaria,code09,,53.804
 2024,Percentage,,p,,Male,Bavaria,code09,,54.059
+2025,Percentage,,…,,Male,Bavaria,code09,,
 2000,Percentage,,.,,Male,Bavaria,code09,,
 2001,Percentage,,.,,Male,Bavaria,code09,,
 2002,Percentage,,.,,Male,Bavaria,code09,,
@@ -258,6 +267,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,,Berlin,code11,,70.217
 2023,Percentage,,r,,,Berlin,code11,,68.961
 2024,Percentage,,p,,,Berlin,code11,,70.358
+2025,Percentage,,…,,,Berlin,code11,,
 2000,Percentage,,.,,,Berlin,code11,,
 2001,Percentage,,.,,,Berlin,code11,,
 2002,Percentage,,.,,,Berlin,code11,,
@@ -285,6 +295,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Female,Berlin,code11,,73.738
 2023,Percentage,,r,,Female,Berlin,code11,,72.425
 2024,Percentage,,p,,Female,Berlin,code11,,72.506
+2025,Percentage,,…,,Female,Berlin,code11,,
 2000,Percentage,,.,,Female,Berlin,code11,,
 2001,Percentage,,.,,Female,Berlin,code11,,
 2002,Percentage,,.,,Female,Berlin,code11,,
@@ -312,6 +323,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Male,Berlin,code11,,66.813
 2023,Percentage,,r,,Male,Berlin,code11,,65.565
 2024,Percentage,,p,,Male,Berlin,code11,,68.328
+2025,Percentage,,…,,Male,Berlin,code11,,
 2000,Percentage,,.,,Male,Berlin,code11,,
 2001,Percentage,,.,,Male,Berlin,code11,,
 2002,Percentage,,.,,Male,Berlin,code11,,
@@ -339,6 +351,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,,Brandenburg,code12,,53.28
 2023,Percentage,,r,,,Brandenburg,code12,,53.611
 2024,Percentage,,p,,,Brandenburg,code12,,57.274
+2025,Percentage,,…,,,Brandenburg,code12,,
 2000,Percentage,,.,,,Brandenburg,code12,,
 2001,Percentage,,.,,,Brandenburg,code12,,
 2002,Percentage,,.,,,Brandenburg,code12,,
@@ -366,6 +379,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Female,Brandenburg,code12,,61.119
 2023,Percentage,,r,,Female,Brandenburg,code12,,60.649
 2024,Percentage,,p,,Female,Brandenburg,code12,,59.686
+2025,Percentage,,…,,Female,Brandenburg,code12,,
 2000,Percentage,,.,,Female,Brandenburg,code12,,
 2001,Percentage,,.,,Female,Brandenburg,code12,,
 2002,Percentage,,.,,Female,Brandenburg,code12,,
@@ -393,6 +407,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Male,Brandenburg,code12,,45.629
 2023,Percentage,,r,,Male,Brandenburg,code12,,46.913
 2024,Percentage,,p,,Male,Brandenburg,code12,,54.882
+2025,Percentage,,…,,Male,Brandenburg,code12,,
 2000,Percentage,,.,,Male,Brandenburg,code12,,
 2001,Percentage,,.,,Male,Brandenburg,code12,,
 2002,Percentage,,.,,Male,Brandenburg,code12,,
@@ -420,6 +435,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,,Bremen,code04,,50.925
 2023,Percentage,,r,,,Bremen,code04,,47.703
 2024,Percentage,,p,,,Bremen,code04,,50.471
+2025,Percentage,,…,,,Bremen,code04,,
 2000,Percentage,,.,,,Bremen,code04,,
 2001,Percentage,,.,,,Bremen,code04,,
 2002,Percentage,,.,,,Bremen,code04,,
@@ -447,6 +463,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Female,Bremen,code04,,54.762
 2023,Percentage,,r,,Female,Bremen,code04,,49.396
 2024,Percentage,,p,,Female,Bremen,code04,,51.469
+2025,Percentage,,…,,Female,Bremen,code04,,
 2000,Percentage,,.,,Female,Bremen,code04,,
 2001,Percentage,,.,,Female,Bremen,code04,,
 2002,Percentage,,.,,Female,Bremen,code04,,
@@ -474,6 +491,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Male,Bremen,code04,,47.42
 2023,Percentage,,r,,Male,Bremen,code04,,45.963
 2024,Percentage,,p,,Male,Bremen,code04,,49.445
+2025,Percentage,,…,,Male,Bremen,code04,,
 2000,Percentage,,.,,Male,Bremen,code04,,
 2001,Percentage,,.,,Male,Bremen,code04,,
 2002,Percentage,,.,,Male,Bremen,code04,,
@@ -501,6 +519,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,,Hamburg,code02,,59.453
 2023,Percentage,,r,,,Hamburg,code02,,62.225
 2024,Percentage,,p,,,Hamburg,code02,,64.537
+2025,Percentage,,…,,,Hamburg,code02,,
 2000,Percentage,,.,,,Hamburg,code02,,
 2001,Percentage,,.,,,Hamburg,code02,,
 2002,Percentage,,.,,,Hamburg,code02,,
@@ -528,6 +547,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Female,Hamburg,code02,,63.447
 2023,Percentage,,r,,Female,Hamburg,code02,,67.35
 2024,Percentage,,p,,Female,Hamburg,code02,,68.011
+2025,Percentage,,…,,Female,Hamburg,code02,,
 2000,Percentage,,.,,Female,Hamburg,code02,,
 2001,Percentage,,.,,Female,Hamburg,code02,,
 2002,Percentage,,.,,Female,Hamburg,code02,,
@@ -555,6 +575,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Male,Hamburg,code02,,55.578
 2023,Percentage,,r,,Male,Hamburg,code02,,57.303
 2024,Percentage,,p,,Male,Hamburg,code02,,61.319
+2025,Percentage,,…,,Male,Hamburg,code02,,
 2000,Percentage,,.,,Male,Hamburg,code02,,
 2001,Percentage,,.,,Male,Hamburg,code02,,
 2002,Percentage,,.,,Male,Hamburg,code02,,
@@ -582,6 +603,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,,Hesse,code06,,52.176
 2023,Percentage,,r,,,Hesse,code06,,55.086
 2024,Percentage,,p,,,Hesse,code06,,57.864
+2025,Percentage,,…,,,Hesse,code06,,
 2000,Percentage,,.,,,Hesse,code06,,
 2001,Percentage,,.,,,Hesse,code06,,
 2002,Percentage,,.,,,Hesse,code06,,
@@ -609,6 +631,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Female,Hesse,code06,,55.014
 2023,Percentage,,r,,Female,Hesse,code06,,59.349
 2024,Percentage,,p,,Female,Hesse,code06,,62.887
+2025,Percentage,,…,,Female,Hesse,code06,,
 2000,Percentage,,.,,Female,Hesse,code06,,
 2001,Percentage,,.,,Female,Hesse,code06,,
 2002,Percentage,,.,,Female,Hesse,code06,,
@@ -636,6 +659,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Male,Hesse,code06,,49.441
 2023,Percentage,,r,,Male,Hesse,code06,,51.027
 2024,Percentage,,p,,Male,Hesse,code06,,53.028
+2025,Percentage,,…,,Male,Hesse,code06,,
 2000,Percentage,,.,,Male,Hesse,code06,,
 2001,Percentage,,.,,Male,Hesse,code06,,
 2002,Percentage,,.,,Male,Hesse,code06,,
@@ -663,6 +687,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,,Mecklenburg Western Pomerania,code13,,42.446
 2023,Percentage,,r,,,Mecklenburg Western Pomerania,code13,,44.221
 2024,Percentage,,p,,,Mecklenburg Western Pomerania,code13,,45.285
+2025,Percentage,,…,,,Mecklenburg Western Pomerania,code13,,
 2000,Percentage,,.,,,Mecklenburg Western Pomerania,code13,,
 2001,Percentage,,.,,,Mecklenburg Western Pomerania,code13,,
 2002,Percentage,,.,,,Mecklenburg Western Pomerania,code13,,
@@ -690,6 +715,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Female,Mecklenburg Western Pomerania,code13,,49.661
 2023,Percentage,,r,,Female,Mecklenburg Western Pomerania,code13,,54.129
 2024,Percentage,,p,,Female,Mecklenburg Western Pomerania,code13,,53.47
+2025,Percentage,,…,,Female,Mecklenburg Western Pomerania,code13,,
 2000,Percentage,,.,,Female,Mecklenburg Western Pomerania,code13,,
 2001,Percentage,,.,,Female,Mecklenburg Western Pomerania,code13,,
 2002,Percentage,,.,,Female,Mecklenburg Western Pomerania,code13,,
@@ -717,6 +743,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Male,Mecklenburg Western Pomerania,code13,,34.814
 2023,Percentage,,r,,Male,Mecklenburg Western Pomerania,code13,,34.808
 2024,Percentage,,p,,Male,Mecklenburg Western Pomerania,code13,,36.78
+2025,Percentage,,…,,Male,Mecklenburg Western Pomerania,code13,,
 2000,Percentage,,.,,Male,Mecklenburg Western Pomerania,code13,,
 2001,Percentage,,.,,Male,Mecklenburg Western Pomerania,code13,,
 2002,Percentage,,.,,Male,Mecklenburg Western Pomerania,code13,,
@@ -744,6 +771,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,,Lower Saxony,code03,,49.446
 2023,Percentage,,r,,,Lower Saxony,code03,,52.463
 2024,Percentage,,p,,,Lower Saxony,code03,,54.605
+2025,Percentage,,…,,,Lower Saxony,code03,,
 2000,Percentage,,.,,,Lower Saxony,code03,,
 2001,Percentage,,.,,,Lower Saxony,code03,,
 2002,Percentage,,.,,,Lower Saxony,code03,,
@@ -771,6 +799,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Female,Lower Saxony,code03,,52.835
 2023,Percentage,,r,,Female,Lower Saxony,code03,,56.81
 2024,Percentage,,p,,Female,Lower Saxony,code03,,59.095
+2025,Percentage,,…,,Female,Lower Saxony,code03,,
 2000,Percentage,,.,,Female,Lower Saxony,code03,,
 2001,Percentage,,.,,Female,Lower Saxony,code03,,
 2002,Percentage,,.,,Female,Lower Saxony,code03,,
@@ -798,6 +827,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Male,Lower Saxony,code03,,46.241
 2023,Percentage,,r,,Male,Lower Saxony,code03,,48.267
 2024,Percentage,,p,,Male,Lower Saxony,code03,,50.374
+2025,Percentage,,…,,Male,Lower Saxony,code03,,
 2000,Percentage,,.,,Male,Lower Saxony,code03,,
 2001,Percentage,,.,,Male,Lower Saxony,code03,,
 2002,Percentage,,.,,Male,Lower Saxony,code03,,
@@ -825,6 +855,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,,North Rhine-Westphalia,code05,,53.815
 2023,Percentage,,r,,,North Rhine-Westphalia,code05,,56.022
 2024,Percentage,,p,,,North Rhine-Westphalia,code05,,57.316
+2025,Percentage,,…,,,North Rhine-Westphalia,code05,,
 2000,Percentage,,.,,,North Rhine-Westphalia,code05,,
 2001,Percentage,,.,,,North Rhine-Westphalia,code05,,
 2002,Percentage,,.,,,North Rhine-Westphalia,code05,,
@@ -852,6 +883,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Female,North Rhine-Westphalia,code05,,58.408
 2023,Percentage,,r,,Female,North Rhine-Westphalia,code05,,60.771
 2024,Percentage,,p,,Female,North Rhine-Westphalia,code05,,62.441
+2025,Percentage,,…,,Female,North Rhine-Westphalia,code05,,
 2000,Percentage,,.,,Female,North Rhine-Westphalia,code05,,
 2001,Percentage,,.,,Female,North Rhine-Westphalia,code05,,
 2002,Percentage,,.,,Female,North Rhine-Westphalia,code05,,
@@ -879,6 +911,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Male,North Rhine-Westphalia,code05,,49.424
 2023,Percentage,,r,,Male,North Rhine-Westphalia,code05,,51.508
 2024,Percentage,,p,,Male,North Rhine-Westphalia,code05,,52.468
+2025,Percentage,,…,,Male,North Rhine-Westphalia,code05,,
 2000,Percentage,,.,,Male,North Rhine-Westphalia,code05,,
 2001,Percentage,,.,,Male,North Rhine-Westphalia,code05,,
 2002,Percentage,,.,,Male,North Rhine-Westphalia,code05,,
@@ -906,6 +939,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,,Rhineland Palatinate,code07,,49.997
 2023,Percentage,,r,,,Rhineland Palatinate,code07,,51.25
 2024,Percentage,,p,,,Rhineland Palatinate,code07,,54.829
+2025,Percentage,,…,,,Rhineland Palatinate,code07,,
 2000,Percentage,,.,,,Rhineland Palatinate,code07,,
 2001,Percentage,,.,,,Rhineland Palatinate,code07,,
 2002,Percentage,,.,,,Rhineland Palatinate,code07,,
@@ -933,6 +967,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Female,Rhineland Palatinate,code07,,53.228
 2023,Percentage,,r,,Female,Rhineland Palatinate,code07,,53.821
 2024,Percentage,,p,,Female,Rhineland Palatinate,code07,,58.936
+2025,Percentage,,…,,Female,Rhineland Palatinate,code07,,
 2000,Percentage,,.,,Female,Rhineland Palatinate,code07,,
 2001,Percentage,,.,,Female,Rhineland Palatinate,code07,,
 2002,Percentage,,.,,Female,Rhineland Palatinate,code07,,
@@ -960,6 +995,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Male,Rhineland Palatinate,code07,,46.849
 2023,Percentage,,r,,Male,Rhineland Palatinate,code07,,48.777
 2024,Percentage,,p,,Male,Rhineland Palatinate,code07,,51.114
+2025,Percentage,,…,,Male,Rhineland Palatinate,code07,,
 2000,Percentage,,.,,Male,Rhineland Palatinate,code07,,
 2001,Percentage,,.,,Male,Rhineland Palatinate,code07,,
 2002,Percentage,,.,,Male,Rhineland Palatinate,code07,,
@@ -987,6 +1023,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,,Saarland,code10,,50.937
 2023,Percentage,,r,,,Saarland,code10,,48.61
 2024,Percentage,,p,,,Saarland,code10,,51.852
+2025,Percentage,,…,,,Saarland,code10,,
 2000,Percentage,,.,,,Saarland,code10,,
 2001,Percentage,,.,,,Saarland,code10,,
 2002,Percentage,,.,,,Saarland,code10,,
@@ -1014,6 +1051,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Female,Saarland,code10,,55.745
 2023,Percentage,,r,,Female,Saarland,code10,,53.824
 2024,Percentage,,p,,Female,Saarland,code10,,58.611
+2025,Percentage,,…,,Female,Saarland,code10,,
 2000,Percentage,,.,,Female,Saarland,code10,,
 2001,Percentage,,.,,Female,Saarland,code10,,
 2002,Percentage,,.,,Female,Saarland,code10,,
@@ -1041,6 +1079,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Male,Saarland,code10,,45.95
 2023,Percentage,,r,,Male,Saarland,code10,,43.814
 2024,Percentage,,p,,Male,Saarland,code10,,45.396
+2025,Percentage,,…,,Male,Saarland,code10,,
 2000,Percentage,,.,,Male,Saarland,code10,,
 2001,Percentage,,.,,Male,Saarland,code10,,
 2002,Percentage,,.,,Male,Saarland,code10,,
@@ -1068,6 +1107,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,,Saxony,code14,,54.835
 2023,Percentage,,r,,,Saxony,code14,,54.873
 2024,Percentage,,p,,,Saxony,code14,,57.543
+2025,Percentage,,…,,,Saxony,code14,,
 2000,Percentage,,.,,,Saxony,code14,,
 2001,Percentage,,.,,,Saxony,code14,,
 2002,Percentage,,.,,,Saxony,code14,,
@@ -1095,6 +1135,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Female,Saxony,code14,,62.481
 2023,Percentage,,r,,Female,Saxony,code14,,62.819
 2024,Percentage,,p,,Female,Saxony,code14,,63.979
+2025,Percentage,,…,,Female,Saxony,code14,,
 2000,Percentage,,.,,Female,Saxony,code14,,
 2001,Percentage,,.,,Female,Saxony,code14,,
 2002,Percentage,,.,,Female,Saxony,code14,,
@@ -1122,6 +1163,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Male,Saxony,code14,,47.73
 2023,Percentage,,r,,Male,Saxony,code14,,47.315
 2024,Percentage,,p,,Male,Saxony,code14,,51.489
+2025,Percentage,,…,,Male,Saxony,code14,,
 2000,Percentage,,.,,Male,Saxony,code14,,
 2001,Percentage,,.,,Male,Saxony,code14,,
 2002,Percentage,,.,,Male,Saxony,code14,,
@@ -1149,6 +1191,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,,Saxony-Anhalt,code15,,43.48
 2023,Percentage,,r,,,Saxony-Anhalt,code15,,42.581
 2024,Percentage,,p,,,Saxony-Anhalt,code15,,43.035
+2025,Percentage,,…,,,Saxony-Anhalt,code15,,
 2000,Percentage,,.,,,Saxony-Anhalt,code15,,
 2001,Percentage,,.,,,Saxony-Anhalt,code15,,
 2002,Percentage,,.,,,Saxony-Anhalt,code15,,
@@ -1176,6 +1219,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Female,Saxony-Anhalt,code15,,51.455
 2023,Percentage,,r,,Female,Saxony-Anhalt,code15,,49.394
 2024,Percentage,,p,,Female,Saxony-Anhalt,code15,,46.87
+2025,Percentage,,…,,Female,Saxony-Anhalt,code15,,
 2000,Percentage,,.,,Female,Saxony-Anhalt,code15,,
 2001,Percentage,,.,,Female,Saxony-Anhalt,code15,,
 2002,Percentage,,.,,Female,Saxony-Anhalt,code15,,
@@ -1203,6 +1247,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Male,Saxony-Anhalt,code15,,36.29
 2023,Percentage,,r,,Male,Saxony-Anhalt,code15,,36.157
 2024,Percentage,,p,,Male,Saxony-Anhalt,code15,,39.44
+2025,Percentage,,…,,Male,Saxony-Anhalt,code15,,
 2000,Percentage,,.,,Male,Saxony-Anhalt,code15,,
 2001,Percentage,,.,,Male,Saxony-Anhalt,code15,,
 2002,Percentage,,.,,Male,Saxony-Anhalt,code15,,
@@ -1230,6 +1275,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,,Schleswig-Holstein,code01,,45.797
 2023,Percentage,,r,,,Schleswig-Holstein,code01,,50.537
 2024,Percentage,,p,,,Schleswig-Holstein,code01,,54.044
+2025,Percentage,,…,,,Schleswig-Holstein,code01,,
 2000,Percentage,,.,,,Schleswig-Holstein,code01,,
 2001,Percentage,,.,,,Schleswig-Holstein,code01,,
 2002,Percentage,,.,,,Schleswig-Holstein,code01,,
@@ -1257,6 +1303,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Female,Schleswig-Holstein,code01,,51.768
 2023,Percentage,,r,,Female,Schleswig-Holstein,code01,,55.594
 2024,Percentage,,p,,Female,Schleswig-Holstein,code01,,59.408
+2025,Percentage,,…,,Female,Schleswig-Holstein,code01,,
 2000,Percentage,,.,,Female,Schleswig-Holstein,code01,,
 2001,Percentage,,.,,Female,Schleswig-Holstein,code01,,
 2002,Percentage,,.,,Female,Schleswig-Holstein,code01,,
@@ -1284,6 +1331,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Male,Schleswig-Holstein,code01,,40.218
 2023,Percentage,,r,,Male,Schleswig-Holstein,code01,,45.741
 2024,Percentage,,p,,Male,Schleswig-Holstein,code01,,49.063
+2025,Percentage,,…,,Male,Schleswig-Holstein,code01,,
 2000,Percentage,,.,,Male,Schleswig-Holstein,code01,,
 2001,Percentage,,.,,Male,Schleswig-Holstein,code01,,
 2002,Percentage,,.,,Male,Schleswig-Holstein,code01,,
@@ -1311,6 +1359,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,,Thuringia,code16,,49.171
 2023,Percentage,,r,,,Thuringia,code16,,47.595
 2024,Percentage,,p,,,Thuringia,code16,,52.235
+2025,Percentage,,…,,,Thuringia,code16,,
 2000,Percentage,,.,,,Thuringia,code16,,
 2001,Percentage,,.,,,Thuringia,code16,,
 2002,Percentage,,.,,,Thuringia,code16,,
@@ -1338,6 +1387,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Female,Thuringia,code16,,54.133
 2023,Percentage,,r,,Female,Thuringia,code16,,52.034
 2024,Percentage,,p,,Female,Thuringia,code16,,56.097
+2025,Percentage,,…,,Female,Thuringia,code16,,
 2000,Percentage,,.,,Female,Thuringia,code16,,
 2001,Percentage,,.,,Female,Thuringia,code16,,
 2002,Percentage,,.,,Female,Thuringia,code16,,
@@ -1365,6 +1415,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Male,Thuringia,code16,,44.852
 2023,Percentage,,r,,Male,Thuringia,code16,,43.566
 2024,Percentage,,p,,Male,Thuringia,code16,,48.909
+2025,Percentage,,…,,Male,Thuringia,code16,,
 2000,Percentage,,.,,Male,Thuringia,code16,,
 2001,Percentage,,.,,Male,Thuringia,code16,,
 2002,Percentage,,.,,Male,Thuringia,code16,,
@@ -1392,6 +1443,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,,,,"Secondary education, education after Abitur",14.465
 2023,Percentage,,r,,,,,"Secondary education, education after Abitur",14.765
 2024,Percentage,,p,,,,,"Secondary education, education after Abitur",15.003
+2025,Percentage,,…,,,,,"Secondary education, education after Abitur",
 2000,Percentage,,r,,,,,"Secondary education, education after Abitur",7.666
 2001,Percentage,,r,,,,,"Secondary education, education after Abitur",8.12
 2002,Percentage,,r,,,,,"Secondary education, education after Abitur",8.206
@@ -1419,6 +1471,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Female,,,"Secondary education, education after Abitur",17.437
 2023,Percentage,,r,,Female,,,"Secondary education, education after Abitur",17.963
 2024,Percentage,,p,,Female,,,"Secondary education, education after Abitur",17.97
+2025,Percentage,,…,,Female,,,"Secondary education, education after Abitur",
 2000,Percentage,,r,,Female,,,"Secondary education, education after Abitur",9.1
 2001,Percentage,,.,,Female,,,"Secondary education, education after Abitur",
 2002,Percentage,,.,,Female,,,"Secondary education, education after Abitur",
@@ -1446,6 +1499,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Male,,,"Secondary education, education after Abitur",11.641
 2023,Percentage,,r,,Male,,,"Secondary education, education after Abitur",11.727
 2024,Percentage,,p,,Male,,,"Secondary education, education after Abitur",12.205
+2025,Percentage,,…,,Male,,,"Secondary education, education after Abitur",
 2000,Percentage,,,,Male,,,"Secondary education, education after Abitur",6.282
 2001,Percentage,,.,,Male,,,"Secondary education, education after Abitur",
 2002,Percentage,,.,,Male,,,"Secondary education, education after Abitur",
@@ -1473,6 +1527,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,,,,Higher qualifying vocational training,7.339
 2023,Percentage,,r,,,,,Higher qualifying vocational training,7.018
 2024,Percentage,,p,,,,,Higher qualifying vocational training,7.29
+2025,Percentage,,…,,,,,Higher qualifying vocational training,
 2000,Percentage,,,,,,,Higher qualifying vocational training,10.298
 2001,Percentage,,,,,,,Higher qualifying vocational training,9.434
 2002,Percentage,,,,,,,Higher qualifying vocational training,9.594
@@ -1500,6 +1555,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Female,,,Higher qualifying vocational training,5.687
 2023,Percentage,,r,,Female,,,Higher qualifying vocational training,5.395
 2024,Percentage,,p,,Female,,,Higher qualifying vocational training,5.978
+2025,Percentage,,…,,Female,,,Higher qualifying vocational training,
 2000,Percentage,,,,Female,,,Higher qualifying vocational training,9.033
 2001,Percentage,,.,,Female,,,Higher qualifying vocational training,
 2002,Percentage,,.,,Female,,,Higher qualifying vocational training,
@@ -1527,6 +1583,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Male,,,Higher qualifying vocational training,8.909
 2023,Percentage,,r,,Male,,,Higher qualifying vocational training,8.56
 2024,Percentage,,p,,Male,,,Higher qualifying vocational training,8.528
+2025,Percentage,,…,,Male,,,Higher qualifying vocational training,
 2000,Percentage,,,,Male,,,Higher qualifying vocational training,11.521
 2001,Percentage,,.,,Male,,,Higher qualifying vocational training,
 2002,Percentage,,.,,Male,,,Higher qualifying vocational training,
@@ -1554,6 +1611,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,,,,University degree,31.743
 2023,Percentage,,r,,,,,University degree,33.556
 2024,Percentage,,p,,,,,University degree,35.035
+2025,Percentage,,…,,,,,University degree,
 2000,Percentage,,,,,,,University degree,15.033
 2001,Percentage,,,,,,,University degree,15.618
 2002,Percentage,,,,,,,University degree,15.477
@@ -1581,6 +1639,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Female,,,University degree,34.414
 2023,Percentage,,r,,Female,,,University degree,36.045
 2024,Percentage,,p,,Female,,,University degree,37.633
+2025,Percentage,,…,,Female,,,University degree,
 2000,Percentage,,,,Female,,,University degree,12.747
 2001,Percentage,,.,,Female,,,University degree,
 2002,Percentage,,.,,Female,,,University degree,
@@ -1608,6 +1667,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Male,,,University degree,29.204
 2023,Percentage,,r,,Male,,,University degree,31.191
 2024,Percentage,,p,,Male,,,University degree,32.585
+2025,Percentage,,…,,Male,,,University degree,
 2000,Percentage,,,,Male,,,University degree,17.239
 2001,Percentage,,.,,Male,,,University degree,
 2002,Percentage,,.,,Male,,,University degree,
@@ -1635,6 +1695,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,,,,Initial training,24.664
 2023,Percentage,,r,,,,,Initial training,22.718
 2024,Percentage,,p,,,,,Initial training,21.867
+2025,Percentage,,…,,,,,Initial training,
 2000,Percentage,,,,,,,Initial training,49.322
 2001,Percentage,,,,,,,Initial training,49.65
 2002,Percentage,,,,,,,Initial training,48.917
@@ -1662,6 +1723,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Female,,,Initial training,22.266
 2023,Percentage,,r,,Female,,,Initial training,20.038
 2024,Percentage,,p,,Female,,,Initial training,19.423
+2025,Percentage,,…,,Female,,,Initial training,
 2000,Percentage,,,,Female,,,Initial training,50.121
 2001,Percentage,,.,,Female,,,Initial training,
 2002,Percentage,,.,,Female,,,Initial training,
@@ -1689,6 +1751,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,,r,,Male,,,Initial training,26.943
 2023,Percentage,,r,,Male,,,Initial training,25.264
 2024,Percentage,,p,,Male,,,Initial training,24.172
+2025,Percentage,,…,,Male,,,Initial training,
 2000,Percentage,,,,Male,,,Initial training,48.549
 2001,Percentage,,.,,Male,,,Initial training,
 2002,Percentage,,.,,Male,,,Initial training,
@@ -1716,6 +1779,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,<u>Additional time series:</u> Skilled labour potential (total),r,,,,,,78.211
 2023,Percentage,<u>Additional time series:</u> Skilled labour potential (total),r,,,,,,78.057
 2024,Percentage,<u>Additional time series:</u> Skilled labour potential (total),p,,,,,,79.196
+2025,Percentage,<u>Additional time series:</u> Skilled labour potential (total),…,,,,,,
 2000,Percentage,<u>Additional time series:</u> Skilled labour potential (total),,,,,,,82.319
 2001,Percentage,<u>Additional time series:</u> Skilled labour potential (total),,,,,,,82.822
 2002,Percentage,<u>Additional time series:</u> Skilled labour potential (total),,,,,,,82.193
@@ -1743,6 +1807,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,<u>Additional time series:</u> Skilled labour potential (total),r,,Female,,,,79.803
 2023,Percentage,<u>Additional time series:</u> Skilled labour potential (total),r,,Female,,,,79.441
 2024,Percentage,<u>Additional time series:</u> Skilled labour potential (total),p,,Female,,,,81.004
+2025,Percentage,<u>Additional time series:</u> Skilled labour potential (total),…,,Female,,,,
 2000,Percentage,<u>Additional time series:</u> Skilled labour potential (total),,,Female,,,,81.001
 2001,Percentage,<u>Additional time series:</u> Skilled labour potential (total),.,,Female,,,,
 2002,Percentage,<u>Additional time series:</u> Skilled labour potential (total),.,,Female,,,,
@@ -1770,6 +1835,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,Sex,Länder,GeoCode,Type of q
 2022,Percentage,<u>Additional time series:</u> Skilled labour potential (total),r,,Male,,,,76.698
 2023,Percentage,<u>Additional time series:</u> Skilled labour potential (total),r,,Male,,,,76.742
 2024,Percentage,<u>Additional time series:</u> Skilled labour potential (total),p,,Male,,,,77.49
+2025,Percentage,<u>Additional time series:</u> Skilled labour potential (total),…,,Male,,,,
 2000,Percentage,<u>Additional time series:</u> Skilled labour potential (total),,,Male,,,,83.591
 2001,Percentage,<u>Additional time series:</u> Skilled labour potential (total),.,,Male,,,,
 2002,Percentage,<u>Additional time series:</u> Skilled labour potential (total),.,,Male,,,,

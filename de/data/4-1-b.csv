@@ -14,7 +14,8 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2021,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,|,r,,,,,53.642
 2022,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,r,,,,,,53.547
 2023,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,r,,,,,,55.339
-2024,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,p,,,,,,57.329
+2024,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,r,,,,,,56.59
+2025,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,p,,,,,,59.981
 2000,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,r,,,,,,32.997
 2001,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,r,,,,,,33.172
 2002,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,r,,,,,,33.277
@@ -42,6 +43,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,r,,Weiblich,,,,57.537
 2023,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,r,,Weiblich,,,,59.403
 2024,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,p,,Weiblich,,,,61.581
+2025,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,…,,Weiblich,,,,
 2000,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,r,,Weiblich,,,,30.88
 2001,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,r,,Weiblich,,,,31.088
 2002,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,r,,Weiblich,,,,31.291
@@ -69,6 +71,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,r,,Männlich,,,,49.754
 2023,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,r,,Männlich,,,,51.478
 2024,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,p,,Männlich,,,,53.318
+2025,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,…,,Männlich,,,,
 2000,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,,,Männlich,,,,35.042
 2001,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,r,,Männlich,,,,35.23
 2002,Prozent,<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte,r,,Männlich,,,,35.233
@@ -96,6 +99,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,,Baden-Württemberg,code08,,55.549
 2023,Prozent,,r,,,Baden-Württemberg,code08,,56.756
 2024,Prozent,,p,,,Baden-Württemberg,code08,,58.929
+2025,Prozent,,…,,,Baden-Württemberg,code08,,
 2000,Prozent,,.,,,Baden-Württemberg,code08,,
 2001,Prozent,,.,,,Baden-Württemberg,code08,,
 2002,Prozent,,.,,,Baden-Württemberg,code08,,
@@ -123,6 +127,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Weiblich,Baden-Württemberg,code08,,58.443
 2023,Prozent,,r,,Weiblich,Baden-Württemberg,code08,,59.651
 2024,Prozent,,p,,Weiblich,Baden-Württemberg,code08,,63.465
+2025,Prozent,,…,,Weiblich,Baden-Württemberg,code08,,
 2000,Prozent,,.,,Weiblich,Baden-Württemberg,code08,,
 2001,Prozent,,.,,Weiblich,Baden-Württemberg,code08,,
 2002,Prozent,,.,,Weiblich,Baden-Württemberg,code08,,
@@ -150,6 +155,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Männlich,Baden-Württemberg,code08,,52.87
 2023,Prozent,,r,,Männlich,Baden-Württemberg,code08,,54.053
 2024,Prozent,,p,,Männlich,Baden-Württemberg,code08,,54.726
+2025,Prozent,,…,,Männlich,Baden-Württemberg,code08,,
 2000,Prozent,,.,,Männlich,Baden-Württemberg,code08,,
 2001,Prozent,,.,,Männlich,Baden-Württemberg,code08,,
 2002,Prozent,,.,,Männlich,Baden-Württemberg,code08,,
@@ -177,6 +183,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,,Bayern,code09,,52.816
 2023,Prozent,,r,,,Bayern,code09,,55.954
 2024,Prozent,,p,,,Bayern,code09,,56.567
+2025,Prozent,,…,,,Bayern,code09,,
 2000,Prozent,,.,,,Bayern,code09,,
 2001,Prozent,,.,,,Bayern,code09,,
 2002,Prozent,,.,,,Bayern,code09,,
@@ -204,6 +211,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Weiblich,Bayern,code09,,55.125
 2023,Prozent,,r,,Weiblich,Bayern,code09,,57.496
 2024,Prozent,,p,,Weiblich,Bayern,code09,,59.218
+2025,Prozent,,…,,Weiblich,Bayern,code09,,
 2000,Prozent,,.,,Weiblich,Bayern,code09,,
 2001,Prozent,,.,,Weiblich,Bayern,code09,,
 2002,Prozent,,.,,Weiblich,Bayern,code09,,
@@ -231,6 +239,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Männlich,Bayern,code09,,50.62
 2023,Prozent,,r,,Männlich,Bayern,code09,,53.804
 2024,Prozent,,p,,Männlich,Bayern,code09,,54.059
+2025,Prozent,,…,,Männlich,Bayern,code09,,
 2000,Prozent,,.,,Männlich,Bayern,code09,,
 2001,Prozent,,.,,Männlich,Bayern,code09,,
 2002,Prozent,,.,,Männlich,Bayern,code09,,
@@ -258,6 +267,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,,Berlin,code11,,70.217
 2023,Prozent,,r,,,Berlin,code11,,68.961
 2024,Prozent,,p,,,Berlin,code11,,70.358
+2025,Prozent,,…,,,Berlin,code11,,
 2000,Prozent,,.,,,Berlin,code11,,
 2001,Prozent,,.,,,Berlin,code11,,
 2002,Prozent,,.,,,Berlin,code11,,
@@ -285,6 +295,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Weiblich,Berlin,code11,,73.738
 2023,Prozent,,r,,Weiblich,Berlin,code11,,72.425
 2024,Prozent,,p,,Weiblich,Berlin,code11,,72.506
+2025,Prozent,,…,,Weiblich,Berlin,code11,,
 2000,Prozent,,.,,Weiblich,Berlin,code11,,
 2001,Prozent,,.,,Weiblich,Berlin,code11,,
 2002,Prozent,,.,,Weiblich,Berlin,code11,,
@@ -312,6 +323,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Männlich,Berlin,code11,,66.813
 2023,Prozent,,r,,Männlich,Berlin,code11,,65.565
 2024,Prozent,,p,,Männlich,Berlin,code11,,68.328
+2025,Prozent,,…,,Männlich,Berlin,code11,,
 2000,Prozent,,.,,Männlich,Berlin,code11,,
 2001,Prozent,,.,,Männlich,Berlin,code11,,
 2002,Prozent,,.,,Männlich,Berlin,code11,,
@@ -339,6 +351,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,,Brandenburg,code12,,53.28
 2023,Prozent,,r,,,Brandenburg,code12,,53.611
 2024,Prozent,,p,,,Brandenburg,code12,,57.274
+2025,Prozent,,…,,,Brandenburg,code12,,
 2000,Prozent,,.,,,Brandenburg,code12,,
 2001,Prozent,,.,,,Brandenburg,code12,,
 2002,Prozent,,.,,,Brandenburg,code12,,
@@ -366,6 +379,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Weiblich,Brandenburg,code12,,61.119
 2023,Prozent,,r,,Weiblich,Brandenburg,code12,,60.649
 2024,Prozent,,p,,Weiblich,Brandenburg,code12,,59.686
+2025,Prozent,,…,,Weiblich,Brandenburg,code12,,
 2000,Prozent,,.,,Weiblich,Brandenburg,code12,,
 2001,Prozent,,.,,Weiblich,Brandenburg,code12,,
 2002,Prozent,,.,,Weiblich,Brandenburg,code12,,
@@ -393,6 +407,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Männlich,Brandenburg,code12,,45.629
 2023,Prozent,,r,,Männlich,Brandenburg,code12,,46.913
 2024,Prozent,,p,,Männlich,Brandenburg,code12,,54.882
+2025,Prozent,,…,,Männlich,Brandenburg,code12,,
 2000,Prozent,,.,,Männlich,Brandenburg,code12,,
 2001,Prozent,,.,,Männlich,Brandenburg,code12,,
 2002,Prozent,,.,,Männlich,Brandenburg,code12,,
@@ -420,6 +435,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,,Bremen,code04,,50.925
 2023,Prozent,,r,,,Bremen,code04,,47.703
 2024,Prozent,,p,,,Bremen,code04,,50.471
+2025,Prozent,,…,,,Bremen,code04,,
 2000,Prozent,,.,,,Bremen,code04,,
 2001,Prozent,,.,,,Bremen,code04,,
 2002,Prozent,,.,,,Bremen,code04,,
@@ -447,6 +463,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Weiblich,Bremen,code04,,54.762
 2023,Prozent,,r,,Weiblich,Bremen,code04,,49.396
 2024,Prozent,,p,,Weiblich,Bremen,code04,,51.469
+2025,Prozent,,…,,Weiblich,Bremen,code04,,
 2000,Prozent,,.,,Weiblich,Bremen,code04,,
 2001,Prozent,,.,,Weiblich,Bremen,code04,,
 2002,Prozent,,.,,Weiblich,Bremen,code04,,
@@ -474,6 +491,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Männlich,Bremen,code04,,47.42
 2023,Prozent,,r,,Männlich,Bremen,code04,,45.963
 2024,Prozent,,p,,Männlich,Bremen,code04,,49.445
+2025,Prozent,,…,,Männlich,Bremen,code04,,
 2000,Prozent,,.,,Männlich,Bremen,code04,,
 2001,Prozent,,.,,Männlich,Bremen,code04,,
 2002,Prozent,,.,,Männlich,Bremen,code04,,
@@ -501,6 +519,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,,Hamburg,code02,,59.453
 2023,Prozent,,r,,,Hamburg,code02,,62.225
 2024,Prozent,,p,,,Hamburg,code02,,64.537
+2025,Prozent,,…,,,Hamburg,code02,,
 2000,Prozent,,.,,,Hamburg,code02,,
 2001,Prozent,,.,,,Hamburg,code02,,
 2002,Prozent,,.,,,Hamburg,code02,,
@@ -528,6 +547,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Weiblich,Hamburg,code02,,63.447
 2023,Prozent,,r,,Weiblich,Hamburg,code02,,67.35
 2024,Prozent,,p,,Weiblich,Hamburg,code02,,68.011
+2025,Prozent,,…,,Weiblich,Hamburg,code02,,
 2000,Prozent,,.,,Weiblich,Hamburg,code02,,
 2001,Prozent,,.,,Weiblich,Hamburg,code02,,
 2002,Prozent,,.,,Weiblich,Hamburg,code02,,
@@ -555,6 +575,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Männlich,Hamburg,code02,,55.578
 2023,Prozent,,r,,Männlich,Hamburg,code02,,57.303
 2024,Prozent,,p,,Männlich,Hamburg,code02,,61.319
+2025,Prozent,,…,,Männlich,Hamburg,code02,,
 2000,Prozent,,.,,Männlich,Hamburg,code02,,
 2001,Prozent,,.,,Männlich,Hamburg,code02,,
 2002,Prozent,,.,,Männlich,Hamburg,code02,,
@@ -582,6 +603,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,,Hessen,code06,,52.176
 2023,Prozent,,r,,,Hessen,code06,,55.086
 2024,Prozent,,p,,,Hessen,code06,,57.864
+2025,Prozent,,…,,,Hessen,code06,,
 2000,Prozent,,.,,,Hessen,code06,,
 2001,Prozent,,.,,,Hessen,code06,,
 2002,Prozent,,.,,,Hessen,code06,,
@@ -609,6 +631,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Weiblich,Hessen,code06,,55.014
 2023,Prozent,,r,,Weiblich,Hessen,code06,,59.349
 2024,Prozent,,p,,Weiblich,Hessen,code06,,62.887
+2025,Prozent,,…,,Weiblich,Hessen,code06,,
 2000,Prozent,,.,,Weiblich,Hessen,code06,,
 2001,Prozent,,.,,Weiblich,Hessen,code06,,
 2002,Prozent,,.,,Weiblich,Hessen,code06,,
@@ -636,6 +659,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Männlich,Hessen,code06,,49.441
 2023,Prozent,,r,,Männlich,Hessen,code06,,51.027
 2024,Prozent,,p,,Männlich,Hessen,code06,,53.028
+2025,Prozent,,…,,Männlich,Hessen,code06,,
 2000,Prozent,,.,,Männlich,Hessen,code06,,
 2001,Prozent,,.,,Männlich,Hessen,code06,,
 2002,Prozent,,.,,Männlich,Hessen,code06,,
@@ -663,6 +687,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,,Mecklenburg-Vorpommern,code13,,42.446
 2023,Prozent,,r,,,Mecklenburg-Vorpommern,code13,,44.221
 2024,Prozent,,p,,,Mecklenburg-Vorpommern,code13,,45.285
+2025,Prozent,,…,,,Mecklenburg-Vorpommern,code13,,
 2000,Prozent,,.,,,Mecklenburg-Vorpommern,code13,,
 2001,Prozent,,.,,,Mecklenburg-Vorpommern,code13,,
 2002,Prozent,,.,,,Mecklenburg-Vorpommern,code13,,
@@ -690,6 +715,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Weiblich,Mecklenburg-Vorpommern,code13,,49.661
 2023,Prozent,,r,,Weiblich,Mecklenburg-Vorpommern,code13,,54.129
 2024,Prozent,,p,,Weiblich,Mecklenburg-Vorpommern,code13,,53.47
+2025,Prozent,,…,,Weiblich,Mecklenburg-Vorpommern,code13,,
 2000,Prozent,,.,,Weiblich,Mecklenburg-Vorpommern,code13,,
 2001,Prozent,,.,,Weiblich,Mecklenburg-Vorpommern,code13,,
 2002,Prozent,,.,,Weiblich,Mecklenburg-Vorpommern,code13,,
@@ -717,6 +743,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Männlich,Mecklenburg-Vorpommern,code13,,34.814
 2023,Prozent,,r,,Männlich,Mecklenburg-Vorpommern,code13,,34.808
 2024,Prozent,,p,,Männlich,Mecklenburg-Vorpommern,code13,,36.78
+2025,Prozent,,…,,Männlich,Mecklenburg-Vorpommern,code13,,
 2000,Prozent,,.,,Männlich,Mecklenburg-Vorpommern,code13,,
 2001,Prozent,,.,,Männlich,Mecklenburg-Vorpommern,code13,,
 2002,Prozent,,.,,Männlich,Mecklenburg-Vorpommern,code13,,
@@ -744,6 +771,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,,Niedersachsen,code03,,49.446
 2023,Prozent,,r,,,Niedersachsen,code03,,52.463
 2024,Prozent,,p,,,Niedersachsen,code03,,54.605
+2025,Prozent,,…,,,Niedersachsen,code03,,
 2000,Prozent,,.,,,Niedersachsen,code03,,
 2001,Prozent,,.,,,Niedersachsen,code03,,
 2002,Prozent,,.,,,Niedersachsen,code03,,
@@ -771,6 +799,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Weiblich,Niedersachsen,code03,,52.835
 2023,Prozent,,r,,Weiblich,Niedersachsen,code03,,56.81
 2024,Prozent,,p,,Weiblich,Niedersachsen,code03,,59.095
+2025,Prozent,,…,,Weiblich,Niedersachsen,code03,,
 2000,Prozent,,.,,Weiblich,Niedersachsen,code03,,
 2001,Prozent,,.,,Weiblich,Niedersachsen,code03,,
 2002,Prozent,,.,,Weiblich,Niedersachsen,code03,,
@@ -798,6 +827,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Männlich,Niedersachsen,code03,,46.241
 2023,Prozent,,r,,Männlich,Niedersachsen,code03,,48.267
 2024,Prozent,,p,,Männlich,Niedersachsen,code03,,50.374
+2025,Prozent,,…,,Männlich,Niedersachsen,code03,,
 2000,Prozent,,.,,Männlich,Niedersachsen,code03,,
 2001,Prozent,,.,,Männlich,Niedersachsen,code03,,
 2002,Prozent,,.,,Männlich,Niedersachsen,code03,,
@@ -825,6 +855,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,,Nordrhein-Westfalen,code05,,53.815
 2023,Prozent,,r,,,Nordrhein-Westfalen,code05,,56.022
 2024,Prozent,,p,,,Nordrhein-Westfalen,code05,,57.316
+2025,Prozent,,…,,,Nordrhein-Westfalen,code05,,
 2000,Prozent,,.,,,Nordrhein-Westfalen,code05,,
 2001,Prozent,,.,,,Nordrhein-Westfalen,code05,,
 2002,Prozent,,.,,,Nordrhein-Westfalen,code05,,
@@ -852,6 +883,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Weiblich,Nordrhein-Westfalen,code05,,58.408
 2023,Prozent,,r,,Weiblich,Nordrhein-Westfalen,code05,,60.771
 2024,Prozent,,p,,Weiblich,Nordrhein-Westfalen,code05,,62.441
+2025,Prozent,,…,,Weiblich,Nordrhein-Westfalen,code05,,
 2000,Prozent,,.,,Weiblich,Nordrhein-Westfalen,code05,,
 2001,Prozent,,.,,Weiblich,Nordrhein-Westfalen,code05,,
 2002,Prozent,,.,,Weiblich,Nordrhein-Westfalen,code05,,
@@ -879,6 +911,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Männlich,Nordrhein-Westfalen,code05,,49.424
 2023,Prozent,,r,,Männlich,Nordrhein-Westfalen,code05,,51.508
 2024,Prozent,,p,,Männlich,Nordrhein-Westfalen,code05,,52.468
+2025,Prozent,,…,,Männlich,Nordrhein-Westfalen,code05,,
 2000,Prozent,,.,,Männlich,Nordrhein-Westfalen,code05,,
 2001,Prozent,,.,,Männlich,Nordrhein-Westfalen,code05,,
 2002,Prozent,,.,,Männlich,Nordrhein-Westfalen,code05,,
@@ -906,6 +939,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,,Rheinland-Pfalz,code07,,49.997
 2023,Prozent,,r,,,Rheinland-Pfalz,code07,,51.25
 2024,Prozent,,p,,,Rheinland-Pfalz,code07,,54.829
+2025,Prozent,,…,,,Rheinland-Pfalz,code07,,
 2000,Prozent,,.,,,Rheinland-Pfalz,code07,,
 2001,Prozent,,.,,,Rheinland-Pfalz,code07,,
 2002,Prozent,,.,,,Rheinland-Pfalz,code07,,
@@ -933,6 +967,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Weiblich,Rheinland-Pfalz,code07,,53.228
 2023,Prozent,,r,,Weiblich,Rheinland-Pfalz,code07,,53.821
 2024,Prozent,,p,,Weiblich,Rheinland-Pfalz,code07,,58.936
+2025,Prozent,,…,,Weiblich,Rheinland-Pfalz,code07,,
 2000,Prozent,,.,,Weiblich,Rheinland-Pfalz,code07,,
 2001,Prozent,,.,,Weiblich,Rheinland-Pfalz,code07,,
 2002,Prozent,,.,,Weiblich,Rheinland-Pfalz,code07,,
@@ -960,6 +995,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Männlich,Rheinland-Pfalz,code07,,46.849
 2023,Prozent,,r,,Männlich,Rheinland-Pfalz,code07,,48.777
 2024,Prozent,,p,,Männlich,Rheinland-Pfalz,code07,,51.114
+2025,Prozent,,…,,Männlich,Rheinland-Pfalz,code07,,
 2000,Prozent,,.,,Männlich,Rheinland-Pfalz,code07,,
 2001,Prozent,,.,,Männlich,Rheinland-Pfalz,code07,,
 2002,Prozent,,.,,Männlich,Rheinland-Pfalz,code07,,
@@ -987,6 +1023,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,,Saarland,code10,,50.937
 2023,Prozent,,r,,,Saarland,code10,,48.61
 2024,Prozent,,p,,,Saarland,code10,,51.852
+2025,Prozent,,…,,,Saarland,code10,,
 2000,Prozent,,.,,,Saarland,code10,,
 2001,Prozent,,.,,,Saarland,code10,,
 2002,Prozent,,.,,,Saarland,code10,,
@@ -1014,6 +1051,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Weiblich,Saarland,code10,,55.745
 2023,Prozent,,r,,Weiblich,Saarland,code10,,53.824
 2024,Prozent,,p,,Weiblich,Saarland,code10,,58.611
+2025,Prozent,,…,,Weiblich,Saarland,code10,,
 2000,Prozent,,.,,Weiblich,Saarland,code10,,
 2001,Prozent,,.,,Weiblich,Saarland,code10,,
 2002,Prozent,,.,,Weiblich,Saarland,code10,,
@@ -1041,6 +1079,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Männlich,Saarland,code10,,45.95
 2023,Prozent,,r,,Männlich,Saarland,code10,,43.814
 2024,Prozent,,p,,Männlich,Saarland,code10,,45.396
+2025,Prozent,,…,,Männlich,Saarland,code10,,
 2000,Prozent,,.,,Männlich,Saarland,code10,,
 2001,Prozent,,.,,Männlich,Saarland,code10,,
 2002,Prozent,,.,,Männlich,Saarland,code10,,
@@ -1068,6 +1107,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,,Sachsen,code14,,54.835
 2023,Prozent,,r,,,Sachsen,code14,,54.873
 2024,Prozent,,p,,,Sachsen,code14,,57.543
+2025,Prozent,,…,,,Sachsen,code14,,
 2000,Prozent,,.,,,Sachsen,code14,,
 2001,Prozent,,.,,,Sachsen,code14,,
 2002,Prozent,,.,,,Sachsen,code14,,
@@ -1095,6 +1135,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Weiblich,Sachsen,code14,,62.481
 2023,Prozent,,r,,Weiblich,Sachsen,code14,,62.819
 2024,Prozent,,p,,Weiblich,Sachsen,code14,,63.979
+2025,Prozent,,…,,Weiblich,Sachsen,code14,,
 2000,Prozent,,.,,Weiblich,Sachsen,code14,,
 2001,Prozent,,.,,Weiblich,Sachsen,code14,,
 2002,Prozent,,.,,Weiblich,Sachsen,code14,,
@@ -1122,6 +1163,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Männlich,Sachsen,code14,,47.73
 2023,Prozent,,r,,Männlich,Sachsen,code14,,47.315
 2024,Prozent,,p,,Männlich,Sachsen,code14,,51.489
+2025,Prozent,,…,,Männlich,Sachsen,code14,,
 2000,Prozent,,.,,Männlich,Sachsen,code14,,
 2001,Prozent,,.,,Männlich,Sachsen,code14,,
 2002,Prozent,,.,,Männlich,Sachsen,code14,,
@@ -1149,6 +1191,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,,Sachsen-Anhalt,code15,,43.48
 2023,Prozent,,r,,,Sachsen-Anhalt,code15,,42.581
 2024,Prozent,,p,,,Sachsen-Anhalt,code15,,43.035
+2025,Prozent,,…,,,Sachsen-Anhalt,code15,,
 2000,Prozent,,.,,,Sachsen-Anhalt,code15,,
 2001,Prozent,,.,,,Sachsen-Anhalt,code15,,
 2002,Prozent,,.,,,Sachsen-Anhalt,code15,,
@@ -1176,6 +1219,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Weiblich,Sachsen-Anhalt,code15,,51.455
 2023,Prozent,,r,,Weiblich,Sachsen-Anhalt,code15,,49.394
 2024,Prozent,,p,,Weiblich,Sachsen-Anhalt,code15,,46.87
+2025,Prozent,,…,,Weiblich,Sachsen-Anhalt,code15,,
 2000,Prozent,,.,,Weiblich,Sachsen-Anhalt,code15,,
 2001,Prozent,,.,,Weiblich,Sachsen-Anhalt,code15,,
 2002,Prozent,,.,,Weiblich,Sachsen-Anhalt,code15,,
@@ -1203,6 +1247,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Männlich,Sachsen-Anhalt,code15,,36.29
 2023,Prozent,,r,,Männlich,Sachsen-Anhalt,code15,,36.157
 2024,Prozent,,p,,Männlich,Sachsen-Anhalt,code15,,39.44
+2025,Prozent,,…,,Männlich,Sachsen-Anhalt,code15,,
 2000,Prozent,,.,,Männlich,Sachsen-Anhalt,code15,,
 2001,Prozent,,.,,Männlich,Sachsen-Anhalt,code15,,
 2002,Prozent,,.,,Männlich,Sachsen-Anhalt,code15,,
@@ -1230,6 +1275,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,,Schleswig-Holstein,code01,,45.797
 2023,Prozent,,r,,,Schleswig-Holstein,code01,,50.537
 2024,Prozent,,p,,,Schleswig-Holstein,code01,,54.044
+2025,Prozent,,…,,,Schleswig-Holstein,code01,,
 2000,Prozent,,.,,,Schleswig-Holstein,code01,,
 2001,Prozent,,.,,,Schleswig-Holstein,code01,,
 2002,Prozent,,.,,,Schleswig-Holstein,code01,,
@@ -1257,6 +1303,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Weiblich,Schleswig-Holstein,code01,,51.768
 2023,Prozent,,r,,Weiblich,Schleswig-Holstein,code01,,55.594
 2024,Prozent,,p,,Weiblich,Schleswig-Holstein,code01,,59.408
+2025,Prozent,,…,,Weiblich,Schleswig-Holstein,code01,,
 2000,Prozent,,.,,Weiblich,Schleswig-Holstein,code01,,
 2001,Prozent,,.,,Weiblich,Schleswig-Holstein,code01,,
 2002,Prozent,,.,,Weiblich,Schleswig-Holstein,code01,,
@@ -1284,6 +1331,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Männlich,Schleswig-Holstein,code01,,40.218
 2023,Prozent,,r,,Männlich,Schleswig-Holstein,code01,,45.741
 2024,Prozent,,p,,Männlich,Schleswig-Holstein,code01,,49.063
+2025,Prozent,,…,,Männlich,Schleswig-Holstein,code01,,
 2000,Prozent,,.,,Männlich,Schleswig-Holstein,code01,,
 2001,Prozent,,.,,Männlich,Schleswig-Holstein,code01,,
 2002,Prozent,,.,,Männlich,Schleswig-Holstein,code01,,
@@ -1311,6 +1359,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,,Thüringen,code16,,49.171
 2023,Prozent,,r,,,Thüringen,code16,,47.595
 2024,Prozent,,p,,,Thüringen,code16,,52.235
+2025,Prozent,,…,,,Thüringen,code16,,
 2000,Prozent,,.,,,Thüringen,code16,,
 2001,Prozent,,.,,,Thüringen,code16,,
 2002,Prozent,,.,,,Thüringen,code16,,
@@ -1338,6 +1387,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Weiblich,Thüringen,code16,,54.133
 2023,Prozent,,r,,Weiblich,Thüringen,code16,,52.034
 2024,Prozent,,p,,Weiblich,Thüringen,code16,,56.097
+2025,Prozent,,…,,Weiblich,Thüringen,code16,,
 2000,Prozent,,.,,Weiblich,Thüringen,code16,,
 2001,Prozent,,.,,Weiblich,Thüringen,code16,,
 2002,Prozent,,.,,Weiblich,Thüringen,code16,,
@@ -1365,6 +1415,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Männlich,Thüringen,code16,,44.852
 2023,Prozent,,r,,Männlich,Thüringen,code16,,43.566
 2024,Prozent,,p,,Männlich,Thüringen,code16,,48.909
+2025,Prozent,,…,,Männlich,Thüringen,code16,,
 2000,Prozent,,.,,Männlich,Thüringen,code16,,
 2001,Prozent,,.,,Männlich,Thüringen,code16,,
 2002,Prozent,,.,,Männlich,Thüringen,code16,,
@@ -1392,6 +1443,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,,,,"Zweitausbildung, Ausbildung nach Abitur",14.465
 2023,Prozent,,r,,,,,"Zweitausbildung, Ausbildung nach Abitur",14.765
 2024,Prozent,,p,,,,,"Zweitausbildung, Ausbildung nach Abitur",15.003
+2025,Prozent,,…,,,,,"Zweitausbildung, Ausbildung nach Abitur",
 2000,Prozent,,r,,,,,"Zweitausbildung, Ausbildung nach Abitur",7.666
 2001,Prozent,,r,,,,,"Zweitausbildung, Ausbildung nach Abitur",8.12
 2002,Prozent,,r,,,,,"Zweitausbildung, Ausbildung nach Abitur",8.206
@@ -1419,6 +1471,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Weiblich,,,"Zweitausbildung, Ausbildung nach Abitur",17.437
 2023,Prozent,,r,,Weiblich,,,"Zweitausbildung, Ausbildung nach Abitur",17.963
 2024,Prozent,,p,,Weiblich,,,"Zweitausbildung, Ausbildung nach Abitur",17.97
+2025,Prozent,,…,,Weiblich,,,"Zweitausbildung, Ausbildung nach Abitur",
 2000,Prozent,,r,,Weiblich,,,"Zweitausbildung, Ausbildung nach Abitur",9.1
 2001,Prozent,,.,,Weiblich,,,"Zweitausbildung, Ausbildung nach Abitur",
 2002,Prozent,,.,,Weiblich,,,"Zweitausbildung, Ausbildung nach Abitur",
@@ -1446,6 +1499,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Männlich,,,"Zweitausbildung, Ausbildung nach Abitur",11.641
 2023,Prozent,,r,,Männlich,,,"Zweitausbildung, Ausbildung nach Abitur",11.727
 2024,Prozent,,p,,Männlich,,,"Zweitausbildung, Ausbildung nach Abitur",12.205
+2025,Prozent,,…,,Männlich,,,"Zweitausbildung, Ausbildung nach Abitur",
 2000,Prozent,,,,Männlich,,,"Zweitausbildung, Ausbildung nach Abitur",6.282
 2001,Prozent,,.,,Männlich,,,"Zweitausbildung, Ausbildung nach Abitur",
 2002,Prozent,,.,,Männlich,,,"Zweitausbildung, Ausbildung nach Abitur",
@@ -1473,6 +1527,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,,,,Höherqualifizierende Berufsausbildung,7.339
 2023,Prozent,,r,,,,,Höherqualifizierende Berufsausbildung,7.018
 2024,Prozent,,p,,,,,Höherqualifizierende Berufsausbildung,7.29
+2025,Prozent,,…,,,,,Höherqualifizierende Berufsausbildung,
 2000,Prozent,,,,,,,Höherqualifizierende Berufsausbildung,10.298
 2001,Prozent,,,,,,,Höherqualifizierende Berufsausbildung,9.434
 2002,Prozent,,,,,,,Höherqualifizierende Berufsausbildung,9.594
@@ -1500,6 +1555,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Weiblich,,,Höherqualifizierende Berufsausbildung,5.687
 2023,Prozent,,r,,Weiblich,,,Höherqualifizierende Berufsausbildung,5.395
 2024,Prozent,,p,,Weiblich,,,Höherqualifizierende Berufsausbildung,5.978
+2025,Prozent,,…,,Weiblich,,,Höherqualifizierende Berufsausbildung,
 2000,Prozent,,,,Weiblich,,,Höherqualifizierende Berufsausbildung,9.033
 2001,Prozent,,.,,Weiblich,,,Höherqualifizierende Berufsausbildung,
 2002,Prozent,,.,,Weiblich,,,Höherqualifizierende Berufsausbildung,
@@ -1527,6 +1583,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Männlich,,,Höherqualifizierende Berufsausbildung,8.909
 2023,Prozent,,r,,Männlich,,,Höherqualifizierende Berufsausbildung,8.56
 2024,Prozent,,p,,Männlich,,,Höherqualifizierende Berufsausbildung,8.528
+2025,Prozent,,…,,Männlich,,,Höherqualifizierende Berufsausbildung,
 2000,Prozent,,,,Männlich,,,Höherqualifizierende Berufsausbildung,11.521
 2001,Prozent,,.,,Männlich,,,Höherqualifizierende Berufsausbildung,
 2002,Prozent,,.,,Männlich,,,Höherqualifizierende Berufsausbildung,
@@ -1554,6 +1611,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,,,,Hochschulabschluss,31.743
 2023,Prozent,,r,,,,,Hochschulabschluss,33.556
 2024,Prozent,,p,,,,,Hochschulabschluss,35.035
+2025,Prozent,,…,,,,,Hochschulabschluss,
 2000,Prozent,,,,,,,Hochschulabschluss,15.033
 2001,Prozent,,,,,,,Hochschulabschluss,15.618
 2002,Prozent,,,,,,,Hochschulabschluss,15.477
@@ -1581,6 +1639,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Weiblich,,,Hochschulabschluss,34.414
 2023,Prozent,,r,,Weiblich,,,Hochschulabschluss,36.045
 2024,Prozent,,p,,Weiblich,,,Hochschulabschluss,37.633
+2025,Prozent,,…,,Weiblich,,,Hochschulabschluss,
 2000,Prozent,,,,Weiblich,,,Hochschulabschluss,12.747
 2001,Prozent,,.,,Weiblich,,,Hochschulabschluss,
 2002,Prozent,,.,,Weiblich,,,Hochschulabschluss,
@@ -1608,6 +1667,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Männlich,,,Hochschulabschluss,29.204
 2023,Prozent,,r,,Männlich,,,Hochschulabschluss,31.191
 2024,Prozent,,p,,Männlich,,,Hochschulabschluss,32.585
+2025,Prozent,,…,,Männlich,,,Hochschulabschluss,
 2000,Prozent,,,,Männlich,,,Hochschulabschluss,17.239
 2001,Prozent,,.,,Männlich,,,Hochschulabschluss,
 2002,Prozent,,.,,Männlich,,,Hochschulabschluss,
@@ -1635,6 +1695,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,,,,Erstausbildung,24.664
 2023,Prozent,,r,,,,,Erstausbildung,22.718
 2024,Prozent,,p,,,,,Erstausbildung,21.867
+2025,Prozent,,…,,,,,Erstausbildung,
 2000,Prozent,,,,,,,Erstausbildung,49.322
 2001,Prozent,,,,,,,Erstausbildung,49.65
 2002,Prozent,,,,,,,Erstausbildung,48.917
@@ -1662,6 +1723,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Weiblich,,,Erstausbildung,22.266
 2023,Prozent,,r,,Weiblich,,,Erstausbildung,20.038
 2024,Prozent,,p,,Weiblich,,,Erstausbildung,19.423
+2025,Prozent,,…,,Weiblich,,,Erstausbildung,
 2000,Prozent,,,,Weiblich,,,Erstausbildung,50.121
 2001,Prozent,,.,,Weiblich,,,Erstausbildung,
 2002,Prozent,,.,,Weiblich,,,Erstausbildung,
@@ -1689,6 +1751,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,,r,,Männlich,,,Erstausbildung,26.943
 2023,Prozent,,r,,Männlich,,,Erstausbildung,25.264
 2024,Prozent,,p,,Männlich,,,Erstausbildung,24.172
+2025,Prozent,,…,,Männlich,,,Erstausbildung,
 2000,Prozent,,,,Männlich,,,Erstausbildung,48.549
 2001,Prozent,,.,,Männlich,,,Erstausbildung,
 2002,Prozent,,.,,Männlich,,,Erstausbildung,
@@ -1716,6 +1779,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),r,,,,,,78.211
 2023,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),r,,,,,,78.057
 2024,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),p,,,,,,79.196
+2025,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),…,,,,,,
 2000,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,,,,,,82.319
 2001,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,,,,,,82.822
 2002,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,,,,,,82.193
@@ -1743,6 +1807,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),r,,Weiblich,,,,79.803
 2023,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),r,,Weiblich,,,,79.441
 2024,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),p,,Weiblich,,,,81.004
+2025,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),…,,Weiblich,,,,
 2000,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,,Weiblich,,,,81.001
 2001,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),.,,Weiblich,,,,
 2002,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),.,,Weiblich,,,,
@@ -1770,6 +1835,7 @@ Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,Geschlecht,Bundesland,GeoCode,A
 2022,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),r,,Männlich,,,,76.698
 2023,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),r,,Männlich,,,,76.742
 2024,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),p,,Männlich,,,,77.49
+2025,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),…,,Männlich,,,,
 2000,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),,,Männlich,,,,83.591
 2001,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),.,,Männlich,,,,
 2002,Prozent,<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt),.,,Männlich,,,,
