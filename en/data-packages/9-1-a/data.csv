@@ -23,16 +23,16 @@ Year,Units,COMMENT_OBS_0,Länder,GeoCode,Sector,Value
 2012,Percentage,,,,,2.83
 2013,Percentage,,,,,2.78
 2014,Percentage,,,,,2.82
-2015,Percentage,,,,,2.88
+2015,Percentage,r,,,,2.87
 2016,Percentage,,,,,2.88
-2017,Percentage,,,,,2.99
-2018,Percentage,,,,,3.05
-2019,Percentage,,,,,3.11
-2020,Percentage,,,,,3.09
-2021,Percentage,,,,,3.07
-2022,Percentage,,,,,3.04
-2023,Percentage,,,,,3.13
-2024,Percentage,,,,,3.17
+2017,Percentage,r,,,,2.98
+2018,Percentage,r,,,,3.03
+2019,Percentage,r,,,,3.09
+2020,Percentage,r,,,,3.06
+2021,Percentage,r,,,,3.05
+2022,Percentage,r,,,,3.03
+2023,Percentage,r,,,,3.1
+2024,Percentage,r,,,,3.12
 2025,Percentage,…,,,,
 1991,Percentage,,Baden-Wuerttemberg,code08,,
 1992,Percentage,,Baden-Wuerttemberg,code08,,
@@ -624,7 +624,7 @@ Year,Units,COMMENT_OBS_0,Länder,GeoCode,Sector,Value
 2018,Percentage,,,,Government and private non-profit institutions,0.41
 2019,Percentage,,,,Government and private non-profit institutions,0.42
 2020,Percentage,,,,Government and private non-profit institutions,0.45
-2021,Percentage,,,,Government and private non-profit institutions,0.46
+2021,Percentage,r,,,Government and private non-profit institutions,0.45
 2022,Percentage,,,,Government and private non-profit institutions,0.44
 2023,Percentage,,,,Government and private non-profit institutions,0.44
 2024,Percentage,,,,Government and private non-profit institutions,0.47
@@ -656,13 +656,13 @@ Year,Units,COMMENT_OBS_0,Länder,GeoCode,Sector,Value
 2015,Percentage,,,,Universities,0.5
 2016,Percentage,,,,Universities,0.52
 2017,Percentage,,,,Universities,0.52
-2018,Percentage,,,,Universities,0.54
+2018,Percentage,r,,,Universities,0.53
 2019,Percentage,,,,Universities,0.54
-2020,Percentage,,,,Universities,0.58
+2020,Percentage,r,,,Universities,0.57
 2021,Percentage,,,,Universities,0.56
 2022,Percentage,,,,Universities,0.55
-2023,Percentage,,,,Universities,0.55
-2024,Percentage,,,,Universities,0.56
+2023,Percentage,r,,,Universities,0.54
+2024,Percentage,r,,,Universities,0.55
 2025,Percentage,…,,,Universities,
 1991,Percentage,,,,Economy,
 1992,Percentage,,,,Economy,
@@ -689,13 +689,13 @@ Year,Units,COMMENT_OBS_0,Länder,GeoCode,Sector,Value
 2013,Percentage,,,,Economy,1.87
 2014,Percentage,,,,Economy,1.91
 2015,Percentage,,,,Economy,1.97
-2016,Percentage,,,,Economy,1.97
+2016,Percentage,r,,,Economy,1.96
 2017,Percentage,,,,Economy,2.06
-2018,Percentage,,,,Economy,2.1
-2019,Percentage,,,,Economy,2.14
-2020,Percentage,,,,Economy,2.06
-2021,Percentage,,,,Economy,2.06
-2022,Percentage,,,,Economy,2.05
-2023,Percentage,,,,Economy,2.14
-2024,Percentage,,,,Economy,2.14
+2018,Percentage,r,,,Economy,2.09
+2019,Percentage,r,,,Economy,2.13
+2020,Percentage,r,,,Economy,2.04
+2021,Percentage,r,,,Economy,2.04
+2022,Percentage,r,,,Economy,2.04
+2023,Percentage,r,,,Economy,2.12
+2024,Percentage,r,,,Economy,2.11
 2025,Percentage,…,,,Economy,

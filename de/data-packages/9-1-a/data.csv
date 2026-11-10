@@ -23,16 +23,16 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Sektor,Value
 2012,Prozent,,,,,2.83
 2013,Prozent,,,,,2.78
 2014,Prozent,,,,,2.82
-2015,Prozent,,,,,2.88
+2015,Prozent,r,,,,2.87
 2016,Prozent,,,,,2.88
-2017,Prozent,,,,,2.99
-2018,Prozent,,,,,3.05
-2019,Prozent,,,,,3.11
-2020,Prozent,,,,,3.09
-2021,Prozent,,,,,3.07
-2022,Prozent,,,,,3.04
-2023,Prozent,,,,,3.13
-2024,Prozent,,,,,3.17
+2017,Prozent,r,,,,2.98
+2018,Prozent,r,,,,3.03
+2019,Prozent,r,,,,3.09
+2020,Prozent,r,,,,3.06
+2021,Prozent,r,,,,3.05
+2022,Prozent,r,,,,3.03
+2023,Prozent,r,,,,3.1
+2024,Prozent,r,,,,3.12
 2025,Prozent,…,,,,
 1991,Prozent,,Baden-Württemberg,code08,,
 1992,Prozent,,Baden-Württemberg,code08,,
@@ -624,7 +624,7 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Sektor,Value
 2018,Prozent,,,,Staat und private Institutionen ohne Erwerbszweck,0.41
 2019,Prozent,,,,Staat und private Institutionen ohne Erwerbszweck,0.42
 2020,Prozent,,,,Staat und private Institutionen ohne Erwerbszweck,0.45
-2021,Prozent,,,,Staat und private Institutionen ohne Erwerbszweck,0.46
+2021,Prozent,r,,,Staat und private Institutionen ohne Erwerbszweck,0.45
 2022,Prozent,,,,Staat und private Institutionen ohne Erwerbszweck,0.44
 2023,Prozent,,,,Staat und private Institutionen ohne Erwerbszweck,0.44
 2024,Prozent,,,,Staat und private Institutionen ohne Erwerbszweck,0.47
@@ -656,13 +656,13 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Sektor,Value
 2015,Prozent,,,,Hochschulen,0.5
 2016,Prozent,,,,Hochschulen,0.52
 2017,Prozent,,,,Hochschulen,0.52
-2018,Prozent,,,,Hochschulen,0.54
+2018,Prozent,r,,,Hochschulen,0.53
 2019,Prozent,,,,Hochschulen,0.54
-2020,Prozent,,,,Hochschulen,0.58
+2020,Prozent,r,,,Hochschulen,0.57
 2021,Prozent,,,,Hochschulen,0.56
 2022,Prozent,,,,Hochschulen,0.55
-2023,Prozent,,,,Hochschulen,0.55
-2024,Prozent,,,,Hochschulen,0.56
+2023,Prozent,r,,,Hochschulen,0.54
+2024,Prozent,r,,,Hochschulen,0.55
 2025,Prozent,…,,,Hochschulen,
 1991,Prozent,,,,Wirtschaft,
 1992,Prozent,,,,Wirtschaft,
@@ -689,13 +689,13 @@ Year,Units,COMMENT_OBS_0,Bundesland,GeoCode,Sektor,Value
 2013,Prozent,,,,Wirtschaft,1.87
 2014,Prozent,,,,Wirtschaft,1.91
 2015,Prozent,,,,Wirtschaft,1.97
-2016,Prozent,,,,Wirtschaft,1.97
+2016,Prozent,r,,,Wirtschaft,1.96
 2017,Prozent,,,,Wirtschaft,2.06
-2018,Prozent,,,,Wirtschaft,2.1
-2019,Prozent,,,,Wirtschaft,2.14
-2020,Prozent,,,,Wirtschaft,2.06
-2021,Prozent,,,,Wirtschaft,2.06
-2022,Prozent,,,,Wirtschaft,2.05
-2023,Prozent,,,,Wirtschaft,2.14
-2024,Prozent,,,,Wirtschaft,2.14
+2018,Prozent,r,,,Wirtschaft,2.09
+2019,Prozent,r,,,Wirtschaft,2.13
+2020,Prozent,r,,,Wirtschaft,2.04
+2021,Prozent,r,,,Wirtschaft,2.04
+2022,Prozent,r,,,Wirtschaft,2.04
+2023,Prozent,r,,,Wirtschaft,2.12
+2024,Prozent,r,,,Wirtschaft,2.11
 2025,Prozent,…,,,Wirtschaft,
