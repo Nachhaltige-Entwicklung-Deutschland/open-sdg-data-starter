@@ -25,10 +25,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string"
-          },
-          {
             "name": "Value",
             "type": "number"
           }
